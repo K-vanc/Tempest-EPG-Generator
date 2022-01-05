@@ -8,20 +8,22 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) sc
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ User Configurable Multiple Websites
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Highest Scrapping/Generating Speed 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Lowest Memory Consumption For Best Performance On All Devices
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Platform Support(Windows/Linux etc.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Platform Support (Windows/Linux etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ All-in-One Single File Without Need For Any External Library/Software
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple URL Support Upto 10
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Async URL Support Upto 10
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Full Support For XMLTV Standart Elements
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Daylight Saving Time(DST) Support
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Daylight Saving Time(DST) Support For Automatic Time Offset Changes
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Easy Configuration Maker & Editor for Websites
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Powerful and Simple Command Syntax For Combo-Operations/Modifications
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Powerful & Simple Command Syntax For Combo-Operations/Modifications
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Unlimited Command Usage
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Scrapping Engine Built with Regex (Regular Expression) For Powerful Operations
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In Time Converter to Change Times of All Shows Into Requested Time Offset  
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In Inverter Module to Transfer XMLTV Elements Into Description With Requested Order & Sytle
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In Fusion Module to Keep Previous Dated Shows Upto 15 Days For Catch-Up
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In GUI Configuration Maker With Channel Picker/Editor & Auto-Duplicate Channel Verification
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Upto 5000 Channels For Each
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In GUI Configuration Debugger
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In File Downloader (via GUI)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Upto 5000 Channels For Each
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Scheduled Operations (such as crontab etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access & Operations (port-forwarding required)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Many More Features
