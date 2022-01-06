@@ -2,7 +2,7 @@
 The Most Advanced Programmable GUI XMLTV EPG Generator
 <br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br><br>
 ![tmpst](https://user-images.githubusercontent.com/97025515/148179725-e1a7c294-d107-44ae-859a-6d660d6601d7.jpg)
-<h2>What is Tempest?</h2>
+## What is Tempest?
 Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) scrapper bundled in a single php file with additional;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Graphical User Interface (GUI) & Optimization For Mobile Devices
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ User Configurable Multi Website Configuration Support
@@ -28,9 +28,17 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) sc
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access & Operations (port-forwarding required)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Many More Features
 <br>
-<h2>How can I use Tempest?</h2>
+## How can I run Tempest?
 All you need to do is downloading "tempest.php" file and locate it to root or any other place in your php server directory. Then you can call it from your browser as an example;
-<br><br>http://localhost:port/tempest.php<br><br>
-![tmpstr](https://user-images.githubusercontent.com/97025515/148373900-a243fd2a-603c-4808-8178-40038084b7aa.jpg)
-Tempest will generate its folder structure and necessary files on first start-up. It is that easy.<br><br>
-Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.
+<br><br>"http://localhost:port/tempest.php"<br><br>
+Tempest will generate its own subfolder structure and necessary files on first start-up. It is that easy.<br><br>
+**Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.**<br><br>
+![tmpstr](https://user-images.githubusercontent.com/97025515/148374196-b02d02fb-6251-4121-aa5c-c798ae9e1e58.jpg)
+## How can I use Tempest?
+Once you run Tempest, you can choose one of the module from drop-down list as;<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Maker => You can create your own website configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Debugger => You can debug choosen website configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 EPG Generator => You can generate your EPG file from choosen Tempest Configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Channel Generator => You can generate channel list from choosen website configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Editor => You can edit/modify choosen website configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Tempest Configurator => You can create or edit choosen Tempest Configuration file
