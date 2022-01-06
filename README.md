@@ -35,7 +35,7 @@ Tempest will generate its own subfolder structure and necessary files on first s
 **Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.**<br><br>
 ![tmpstr](https://user-images.githubusercontent.com/97025515/148374196-b02d02fb-6251-4121-aa5c-c798ae9e1e58.jpg)
 ## How can I use Tempest?
-Once you run Tempest, you can choose one of the module from drop-down list as;<br>
+Once you run Tempest, you can choose one of the mode from drop-down list as;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Maker => You can create your own website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Debugger => You can debug choosen website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 EPG Generator => You can generate your EPG file from choosen Tempest Configuration file
