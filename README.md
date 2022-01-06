@@ -42,3 +42,6 @@ Once you run Tempest, you can choose one of the mode from drop-down list as;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Channel Generator => You can generate channel list from choosen website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Editor => You can edit/modify choosen website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Tempest Configurator => You can create or edit choosen Tempest Configuration file
+<br><br>Also you can download ready-to-use website configuration files from repo and paste into tempest_config/site_config subfolder to use. 
+## What else I need to use Tempest?
+Basicly, nothing except a running PHP server. Tempest developed on PHP 7 enviroment and but should work fine any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8.
