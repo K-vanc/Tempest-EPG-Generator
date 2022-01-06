@@ -28,3 +28,8 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) sc
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access & Operations (port-forwarding required)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Many More Features
 <br>
+<h2>How can I use Tempest?</h2>
+All you need to do is downloading "tempest.php" file and locate it to root or any other place in your php server directory. Then you can call it from your browser as an example;
+<br><br>http://localhost:port/tempest.php<br><br>
+Tempest will generate its folder structure and necessary files on first start-up. It is that easy.<br><br>
+Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.
