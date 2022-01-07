@@ -60,4 +60,5 @@ Tempest configuration file is an instruction list for Tempest to generate EPG fi
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 inverter module
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 enable/disable logging
 <br><br>From "Channel Configuration" tab you can add/remove/change position of channels only with a few click and "Register" your channels.
-<br><br>From "Channel Indexer" tab you can edit channel ids,xmltv_ids,display names and set cyclone module for channels. **Cyclone module** will automatically run when selected channel failed or returned with no data and update failed channel with selected cyclone alternative. Also auto-duplicate check for xmltv_ids will be done silently.
+<br><br>From "Channel Indexer" tab you can edit channel ids,xmltv_ids,display names and set cyclone module for channels. **Cyclone module** will automatically run when selected channel failed or returned with no data and update failed channel with selected cyclone alternative. Also auto-duplicate check for xmltv_ids will be done silently and duplicated xmltv_ids will be highlighted.<br><br>
+![cindx](https://user-images.githubusercontent.com/97025515/148505253-932901c0-1b50-4a64-97b7-914fb9af8c94.jpg)
