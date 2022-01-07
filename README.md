@@ -45,7 +45,7 @@ Once you run Tempest, you can choose one of the mode from drop-down list as;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Tempest Configurator => You can create/edit or delete choosen Tempest Configuration file
 <br><br>Also you can download ready-to-use website configuration files from repo and paste into tempest_config/site_config subfolder to use. 
 ## What else I need to use Tempest?
-Basicly, nothing except a running PHP server. Tempest is developed on PHP 7 enviroment but should work fine with any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8.
+Basicly, nothing except a running PHP server. Tempest is developed on PHP 7 enviroment but should work fine with any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8.1.
 ## How can I create my own website configurations with Tempest?
 To create your own website configuration(siteconfig) files, you will need an internet browser with "inspection" feature in order to find data urls and required url parameters. Then all these data may be inserted to predefined slots of "Siteconfig Maker". For scrapping EPG data from captured url response, you will also need basic level of regex(regular expression) knowledge which lots of how-to website may be found in internet, as minimum. Once you click "Save" button, your siteconfig file will be created in tempest_config/site_config subfolder. Regarding how to use XMLTV elements and Tempest command syntax, please take a look into **TempestWiki** document.
 ## How can I create/update channel list with Tempest?
