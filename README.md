@@ -51,7 +51,7 @@ To create your own website configuration(siteconfig) files, you will need an int
 ## How can I create/update channel list with Tempest?
 To create or update channel list, choose "Channel Generator" and search for desired siteconfig name in drop-down list. Once you click "Generate" button, new channel list will be created in tempest_config/site_config subfolder.
 ## How can I prepare Tempest Configuration?
-Tempest configuration file is an instruction list for Tempest to generate EPG file(s) in requested way/order. To create or update Tempest configuration files, you can choose new or an existing config name from drop-down list. From "File Configuration" tab you can set;<br>
+Tempest configuration file is an instruction list for Tempest to generate EPG file(s) in requested way/order. To create or update Tempest configuration files, you can choose new or an existing config name from drop-down list of "Tempest Configurator". From "File Configuration" tab you can set;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 name of xml file(s) to be generated
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 timespan of data will be scrapped
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 page/channel delays & retry/timeouts
