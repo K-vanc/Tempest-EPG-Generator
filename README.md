@@ -51,7 +51,7 @@ To create your own website configuration(siteconfig) files, you will need an int
 ## How can I create/update channel list with Tempest?
 To create or update channel list, choose "Channel Generator" and search for desired siteconfig name in drop-down list. Once you click "Generate" button, new channel list will be created in tempest_config/site_config subfolder.
 ## How can I prepare Tempest Configuration?
-Tempest configuration file is an instruction list for Tempest to generate EPG file(s) in requested way/order. To create or update Tempest configuration files, you can choose new or an existing config name from drop-down list of "Tempest Configurator". From "File Configuration" tab you can set;<br>
+Tempest configuration file is an instruction list for Tempest to generate EPG file(s) in requested way/order. To create or update Tempest configuration files, you can choose new or an existing config name from drop-down list of "Tempest Configurator". In "File Configuration" tab you can set;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 name of xml file(s) to be generated
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 timespan of data will be scrapped
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 page/channel delays & retry/timeouts
@@ -59,7 +59,7 @@ Tempest configuration file is an instruction list for Tempest to generate EPG fi
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 fusion module
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 inverter module
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 enable/disable logging
-<br><br>From "Channel Configuration" tab you can add/remove/change position of channels only with a few click and "Register" your channels.<br><br>
+<br><br>In "Channel Configuration" tab you can add/remove/change position of channels only with a few click and "Register" your channels.<br><br>
 ![chcfg](https://user-images.githubusercontent.com/97025515/148505923-d2acf7a1-773c-4e3f-bd3b-42ea5b47ae61.jpg)
-<br><br>From "Channel Indexer" tab you can edit channel ids,xmltv_ids,display names and set cyclone module for channels. **Cyclone module** will automatically run when selected channel failed or returned with no data and update failed channel with selected cyclone alternative. Also auto-duplicate check for xmltv_ids will be done silently and duplicated xmltv_ids will be highlighted.<br><br>
+<br><br>In "Channel Indexer" tab you can edit channel ids,xmltv_ids,display names and set cyclone module for channels. **Cyclone module** will automatically run when selected channel failed or returned with no data and update failed channel with selected cyclone alternative. Also auto-duplicate check for xmltv_ids will be done silently and duplicated xmltv_ids will be highlighted.<br><br>
 ![cindx](https://user-images.githubusercontent.com/97025515/148506365-d299b2dd-1939-4947-b18d-2c4b1fb99061.jpg)
