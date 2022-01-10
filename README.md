@@ -53,13 +53,15 @@ To create your own website configuration(siteconfig) files, you will need an int
 To create or update channel list, choose "Channel Generator" and search for desired siteconfig name in drop-down list. Once you click "Generate" button, new channel list will be created in tempest_config/site_config subfolder.
 ## How can I prepare Tempest Configuration?
 Tempest configuration file is an instruction list for Tempest to generate EPG file(s) in requested way/order. To create or update Tempest configuration files, you can choose new or an existing config name from drop-down list of "Tempest Configurator". In "File Configuration" tab you can set;<br>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 name of xml file(s) to be generated
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 timespan of data will be scrapped
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 page/channel delays & retry/timeouts
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 time converter module
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 fusion module
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 inverter module
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 enable/disable logging
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Name of xml file(s) to be generated
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Timespan
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Page/channel delays & retry/timeouts
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Time converter module
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Fusion module
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Inverter module
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Index-only mode
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Logging<br><br>
+![flcfg](https://user-images.githubusercontent.com/97025515/148721188-21edc7eb-3780-4ac5-9f4c-df379c19df00.jpg)
 <br><br>In "Channel Configuration" tab you can add/remove/change position of channels only with a few click and "Register" your channels.<br><br>
 ![chcfg](https://user-images.githubusercontent.com/97025515/148505923-d2acf7a1-773c-4e3f-bd3b-42ea5b47ae61.jpg)
 <br><br>In "Channel Indexer" tab you can edit channel ids,xmltv_ids,display names and set cyclone module for channels. **Cyclone module** will automatically run when selected channel failed or returned with no data and update failed channel with selected cyclone alternative. Also auto-duplicate check for xmltv_ids will be done silently and duplicated xmltv_ids will be highlighted.<br><br>
