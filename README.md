@@ -37,8 +37,8 @@ or from your commandline;
 <br><br>"**php /path/of/your/server/tempest.php**"<br><br>
 Tempest will generate its own subfolder structure and necessary files on first start-up. It is that easy.<br><br>
 **Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.**<br>
-## What else I need to use Tempest?
-Basicly, nothing except a running PHP server. Tempest is developed on PHP 7 enviroment but should work fine with any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8.1.
+## What else I need for Tempest?
+Basicly, nothing except a running PHP server. Tempest is developed on PHP 7 enviroment but should work fine with any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8 (tested on PHP 8.1)
 ## How can I use Tempest?
 Once you run Tempest, you can choose one of the modes from drop-down list as;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Maker => You can create your own website configuration file
