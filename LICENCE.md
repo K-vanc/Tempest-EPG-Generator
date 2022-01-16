@@ -1,6 +1,7 @@
-                                                  Creative Commons Attribution-
-                                                NonCommercial-NoDerivatives 4.0
-                                                  International Public License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions 
 of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). 
@@ -210,4 +211,3 @@ Section 8 – Interpretation.
   d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities
   that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
