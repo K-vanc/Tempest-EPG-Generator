@@ -26,5 +26,5 @@ I know you like this kind of badging system and most probably some of you alread
 ![sprdck](https://user-images.githubusercontent.com/97025515/150075723-26e5ec8c-0fdf-4dd7-b607-b1debdc9898b.jpg)
 ![bdlck1](https://user-images.githubusercontent.com/97025515/150075927-e872cde3-0711-4f5e-b674-4d814c1847e1.jpg)
 ![drksd](https://user-images.githubusercontent.com/97025515/150075728-1c61c58f-2a84-4f29-a23e-3c3ce20101af.jpg)
-![hvutrd](https://user-images.githubusercontent.com/97025515/150075731-d634516c-85b2-4a6e-a376-beb5ec36e8c3.jpg)
+![hvutrd1](https://user-images.githubusercontent.com/97025515/150081273-882fd4c1-e7a7-4619-b994-bccb2d1933a0.jpg)
 ![ntwstp](https://user-images.githubusercontent.com/97025515/150075732-5055fd0a-8152-4f0b-a6e5-219d8175748a.jpg)
