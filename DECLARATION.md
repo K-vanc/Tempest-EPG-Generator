@@ -20,4 +20,5 @@ This is the heart of the project. As I mentioned above, donations are not mandat
 <br>🔹 In somewhere of the planet, 1 more kitten or puppy (based on your choice) will be owned by some unknown good guy
 <br>🔹 And, this is what you were waiting for.. Wait for it.. Keep waiting.. Ta taaammm.. Special Donator Badge
 ## Special Donator Badge
-I know you like this kind of badging system and most probably some of them already has similar badge as below;
+I know you like this kind of badging system and most probably some of you already have similar badge as below;<br>
+
