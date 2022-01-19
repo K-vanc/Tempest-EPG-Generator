@@ -20,5 +20,7 @@ This is the heart of the project. As I mentioned above, donations are not mandat
 <br>🔹 In somewhere of the planet, 1 more kitten or puppy (based on your choice) will be owned by some unknown good guy
 <br>🔹 And, this is what you were waiting for.. Wait for it.. Keep waiting.. Ta taaammm.. Special Donator Badge
 ## Special Donator Badge
-I know you like this kind of badging system and most probably some of you already have similar badge as below;<br>
+I know you like this kind of badging system and most probably some of you already have similar badge from other places as below;<br>
+![examplebadge1_](https://user-images.githubusercontent.com/97025515/150074538-a9c036fd-f624-4729-9da9-30387487e2a7.jpg)
+<br><br>Unfortunately, I don't have such fancy donator badges but I collected very good ones for you. After donation, you can automaticly pick one of them below and start using it by setting where you want to use. Here we go and choose wisely;<br><br>
 
