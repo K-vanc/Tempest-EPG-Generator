@@ -8,8 +8,8 @@ As the owner,copyright holder and developer of Tempest project, I hereby declare
 <br>🔸 Some admin/project owners who cannot reply user's technically questions and misdirect (usualy by shouting or teasing) them to wrong path to hide their incapability;
 <br>🔸 Some admin/project owners who begrudge others success (even if once upon that others called as "friend") and try to stop/block them with stupid reasons/explanations;
 <br>🔸 Briefly, idiocity, jeolousy, incapability, arrogancy and ignorance;
-<br><br>you are in very wrong place so my humble suggestion is for you to look land of "tinyblackboxplus" and what you are looking for will magically appear after couple of seconds there..
-<br><br>For all others; you are all welcomed..
+<br><br>you are in very wrong place so my humble suggestion is for you to look land of "tinyblackboxplus" and what you are looking for will magically appear after couple of seconds there.. 
+<br><br>For all others; you are welcomed.. I guarantee you that there is no stolen good or stupid people here..
 ## Tempest License System
 What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or something like that. Tempest is completely free-to-use without any user license or subscription etc. and it always will be.
 <br>As in every free project, you may donate to support me and project so I can buy some super-critical increased corrosion resistance on elevated temperature materials to develop Tempest or just some coffee pods(some good ones are really expensive..)
