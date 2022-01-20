@@ -1,4 +1,4 @@
-# INTERNATIONAL TEMPEST DECLARATION OF FREEDOM
+# TEMPEST DECLARATION OF FREEDOM
 
 As the owner,copyright holder and developer of Tempest project, I hereby declare that Tempest project has been started and published to stop idiocity and effects of Dunning-Kruger while aiming to make world a better place.
 <br>
