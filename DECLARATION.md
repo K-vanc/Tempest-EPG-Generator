@@ -22,7 +22,7 @@ This is the heart of the project. As I mentioned above, donations are not mandat
 ## Special Donator Badge
 I know you like this kind of badging system and most probably some of you already have similar "black-golden" badges from other places as below;<br>
 ![examplebadge1_](https://user-images.githubusercontent.com/97025515/150074538-a9c036fd-f624-4729-9da9-30387487e2a7.jpg)
-<br>Unfortunately, I don't have such fancy donator badges but I collected very good ones for you. After donation, you can **automaticly** pick one of below and start using by setting it where you want to use (no need to wait for your badge anymore..). Here we go;<br><br>
+<br>Unfortunately, I don't have such fancy donator badges but I collected very good alternatives for you. After donation, you can **automaticly** pick one of below and start using by setting it where you want to use (no need to wait for your badge anymore..). Here we go;<br><br>
 ![sprdck](https://user-images.githubusercontent.com/97025515/150075723-26e5ec8c-0fdf-4dd7-b607-b1debdc9898b.jpg)
 ![bdlck1](https://user-images.githubusercontent.com/97025515/150075927-e872cde3-0711-4f5e-b674-4d814c1847e1.jpg)
 ![drksd](https://user-images.githubusercontent.com/97025515/150075728-1c61c58f-2a84-4f29-a23e-3c3ce20101af.jpg)
