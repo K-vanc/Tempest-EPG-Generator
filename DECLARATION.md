@@ -3,7 +3,7 @@
 As the owner,copyright holder and developer of Tempest project, I hereby declare that Tempest project has been started and published to stop idiocity and effects of Dunning-Kruger while aiming to make world a better place.
 <br>
 ## If you are looking for;
-🔸 Some admin/project owners who cannot even tie their shoelace alone but act like they know everything with hidden support of others;
+🔸 Some admins who cannot even tie their shoelace alone but act like they know everything with hidden support of others;
 <br>🔸 Some admins who steal others work (even if once upon that others called as "friend") and publish them such as they did/could do it;
 <br>🔸 Some admins who cannot reply user's technically questions and misdirect (usualy by teasing) them to wrong path to hide their incapability;
 <br>🔸 Some admins who afraid/begrudge about other's success (even if once upon that others called as "friend") and try to stop/block them with stupid reasons/explanations;
@@ -18,7 +18,7 @@ This is the heart of the project. As I mentioned above, donations are not mandat
 <br>🔹 You will be effected %0.0000001 less from planet's gravitational force (you can test it by yourself on your home scales)
 <br>🔹 You will have a better calorie consumption rate
 <br>🔹 In somewhere of the planet, 1 more kitten or puppy (based on your choice) will be owned by some unknown good guy
-<br>🔹 And, this is what you were waiting for.. Wait for it.. Keep waiting.. Ta taaammm.. Special Donator Badge
+<br>🔹 And, this is what you were waiting for.. Wait for it.. Keep waiting.. Ta taaammm.. **Special Donator Badges**
 ## Special Donator Badge
 I know you like this kind of badging system and most probably some of you already have similar badge from other places as below;<br>
 ![examplebadge1_](https://user-images.githubusercontent.com/97025515/150074538-a9c036fd-f624-4729-9da9-30387487e2a7.jpg)
