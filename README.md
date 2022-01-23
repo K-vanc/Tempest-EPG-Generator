@@ -28,7 +28,7 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) sc
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Upto 5000 Channels For Each
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Scheduled Operations (such as crontab etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access, Operations & Downloading (port-forwarding required)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Support For Scrapping From HTML,XML,CSV,TXT,XLS & Even PDF (Experimental)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Support For Scrapping From HTML,XML,CSV,TXT,XLS,PDF(Experimental) and more..
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Many More Features<br>
 ## How can I run Tempest?
 All you need to do is downloading "tempest.php" file and locate it to root or any other place in your php server directory. Then you can call it from your browser as an example;
