@@ -11,7 +11,7 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) sc
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Website Configuration Support
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Highest Scrapping/Generating Speed 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Lowest Memory Consumption For Best Performance On All Devices
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Platform Support (Windows/Linux etc.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Platform Support (Windows/Unix etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ All-in-One Single File Without Need For Any External Library/Software
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Async URL Support Upto 10
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Full Support For XMLTV Standart Elements
@@ -38,7 +38,7 @@ All you need to do is downloading "tempest.php" file and locate it to root or an
 or from your commandline;
 <br><br>"**php /path/of/your/server/tempest.php**"<br><br>
 Tempest will generate its own subfolder structure and necessary files on first start-up. It is that easy.<br><br>
-**Note: It is strongly advised for Linux users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.**<br>
+**Note: It is strongly advised for Unix users to set proper ownership/permissions of their php server before first start-up to let Tempest generate its folder/files.**<br>
 ## What else I need for Tempest?
 Basicly, nothing except a running PHP server. Tempest is developed on PHP 7 enviroment but should work fine with any PHP version > 5.3. Also some quick tests are showing that Tempest will work fine on PHP 8 (tested on PHP 8.1)
 ## How can I use Tempest?
@@ -76,3 +76,5 @@ After saving Tempest configuration file, you are ready to start generating your 
 ![gnrtr](https://user-images.githubusercontent.com/97025515/150788548-16ce8bef-22e2-46ff-a7f4-ec6409c799ad.jpg)
 <br><br>And clicking "Generate" button will start the process..<br><br>
 ![stgrb](https://user-images.githubusercontent.com/97025515/150789157-0501d86f-4325-4a2a-9a84-c504fa2dbcbb.jpg)
+# **Important Note for UNIX Users**
+
