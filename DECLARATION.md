@@ -7,8 +7,8 @@ As the owner,copyright holder and developer of Tempest project, I hereby declare
 <br>🔸 Some admins who steal others work (even if once upon that others called as "friend") and publish them such as they did/could do it;
 <br>🔸 Some admins who cannot reply user's technically questions and misdirect (usualy by teasing) them to wrong path to hide their incapability;
 <br>🔸 Some admins who afraid/begrudge about other's success (even if once upon that others called as "friend") and try to stop/block them with stupid reasons/explanations;
-<br>🔸 Briefly, idiocity, jeolousy, incapability, overestimation, arrogancy and ignorance;
-<br><br>you are in very wrong place so my humble suggestion is for you to take a look the land of "tinyblackboxplus" and what you are looking for will **magically** appear after couple of seconds there.. 
+<br>🔸 Briefly, idiocity, jeolousy, incapability, overestimation, magic, arrogancy and ignorance;
+<br><br>you are in very wrong place so my humble suggestion is for you to take a look the land of "blackboxseveralplus" and what you are looking for will **magically** appear after couple of seconds there.. 
 <br><br>For all others; you are welcomed.. I guarantee you that there is no stolen good or stupid people here..
 ## Tempest License System
 What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or something like that. Tempest is completely free-to-use without any user license or subscription etc. and it always will be. You can also freely download and use shared preconfigured unlocked and/or locked siteconfig files.
@@ -16,8 +16,9 @@ What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or s
 ## Tempest Donation System
 This is the heart of the project. As I mentioned above, donations are not mandatory to use Tempest but with each donation;<br>
 <br>🔹 You will be effected %0.0000001 less from planet's gravitational force (you can test it by yourself on your home scales)
-<br>🔹 You will have a better calorie consumption rate
-<br>🔹 In somewhere of the planet, 1 more kitten or puppy (based on your choice) will be owned by some unknown good guy
+<br>🔹 You will have a better calorie consumption rate(stop worrying about your excess weights)
+<br>🔹 You will start looking like 1 day younger than you are(donate more often to see effect significantly)
+<br>🔹 In somewhere of the planet, 1 more kitten or puppy (based on your choice) will be owned by some unknown good person who is totally unaware about your donation 
 <br>🔹 And, this is what you were waiting for.. Wait for it.. Keep waiting.. Ta taaammm.. **Special Donator Badges**
 ## Special Donator Badge
 I know you like this kind of badging system and most probably some of you already have similar "black-golden" badges from other places as below;<br>
