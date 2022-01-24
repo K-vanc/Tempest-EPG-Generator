@@ -76,5 +76,15 @@ After saving Tempest configuration file, you are ready to start generating your 
 ![gnrtr](https://user-images.githubusercontent.com/97025515/150788548-16ce8bef-22e2-46ff-a7f4-ec6409c799ad.jpg)
 <br><br>And clicking "Generate" button will start the process..<br><br>
 ![stgrb](https://user-images.githubusercontent.com/97025515/150789157-0501d86f-4325-4a2a-9a84-c504fa2dbcbb.jpg)
-# **Important Note for UNIX Users**
-
+## **Important Note for UNIX Users**
+There is 1 very important setting needs to be done by UNIX users since UNIX OSes are not allowing me to set this parameter from script side. <br>For NGINX;<br>
+<br>**fastcgi_read_timeout**<br><br>
+and for APACHE;<br>
+<br>**TimeOut**<br><br>
+parameter which server default is 300(5 mins), needs to be set some high value such as 1800(30 mins) or 3600(1 hour). Otherwise you may have a timeout during the process after 5 minutes of initialisation. These parameters may be set as below for NGINX;<br><br>
+in /etc/nginx/nginx.conf file, set under http directive. It will look like;<br><br>
+http {<br>
+#.....<br>
+**fastcgi_read_timeout 1800;**<br>
+#..<br>
+}<br>
