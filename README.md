@@ -72,3 +72,5 @@ Tempest configuration file is an instruction list for Tempest to generate EPG fi
 ## How can I start generating xmltv files?
 After saving Tempest configuration file, you are ready to start generating your xmltv file(s) by choosing "EPG Generator" tab and selecting Tempest configuration file which you want to use, from drop-down list. Also from same tab, you can choose .gz compression for the files will be generated and download option for remote users. Please note that if you tick multiple file download options, you will download a single .zip file which contains all the files you requested.<br><br>
 ![gnrtr](https://user-images.githubusercontent.com/97025515/150788548-16ce8bef-22e2-46ff-a7f4-ec6409c799ad.jpg)
+<br><br>And clicking "Generate" button will start the process..
+
