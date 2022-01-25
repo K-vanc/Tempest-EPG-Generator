@@ -77,7 +77,7 @@ After saving Tempest configuration file, you are ready to start generating your 
 <br><br>And clicking "Generate" button will start the process..<br><br>
 ![stgrb](https://user-images.githubusercontent.com/97025515/150789157-0501d86f-4325-4a2a-9a84-c504fa2dbcbb.jpg)
 ## **Important Note for UNIX Users**
-There is 1 very important setting needs to be done by UNIX users since UNIX OSes are not allowing me to set this parameter from script side. <br>For NGINX;<br>
+There is 1 very important setting needs to be done by UNIX users since UNIX OS is not allowing me to set this parameter from script side. <br>For NGINX;<br>
 <br>**fastcgi_read_timeout**<br><br>
 and for APACHE;<br>
 <br>**TimeOut**<br><br>
@@ -96,5 +96,5 @@ and for APACHE;<br><br>
 **sudo service apache2 reload** <br>
 or<br>
 **sudo systemctl reload apache2**
-
-
+<br><br>For Windows, I didnt see such setting or limitation. I think it is set to "no limit" by default for Windows.<br><br>
+##For more detailed information about usage and features, please take a look into **Decleration** and **TempestWIKI** documents..
