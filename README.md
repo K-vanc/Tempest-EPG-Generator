@@ -81,10 +81,20 @@ There is 1 very important setting needs to be done by UNIX users since UNIX OSes
 <br>**fastcgi_read_timeout**<br><br>
 and for APACHE;<br>
 <br>**TimeOut**<br><br>
-parameter which server default is 300(5 mins), needs to be set some high value such as 1800(30 mins) or 3600(1 hour). Otherwise you may have a timeout during the process after 5 minutes of initialisation. These parameters may be set as below for NGINX;<br><br>
+parameter which server default is 300(5 mins), needs to be set some higher value such as 1800(30 mins) or 3600(1 hour). Otherwise you may have a timeout during the process after 5 minutes of initialisation. These parameters may be set as below for NGINX;<br><br>
 in /etc/nginx/nginx.conf file, set under http directive. It will look like;<br><br>
 http {<br>
 #.....<br>
 **fastcgi_read_timeout 1800;**<br>
 #..<br>
-}<br>
+}<br><br>
+and for APACHE; you need to change **TimeOut**  value in your httpd.conf or vhost config file. New setting will be applied after server reload as below;<br>
+for NGINX;<br><br>
+**sudo service php7.0-fpm reload**     (**"php7.0-fpm"** is the one I use so you have to modify it based on php version you use)<br>
+**sudo service nginx reload**<br><br>
+and for APACHE;<br><br>
+**sudo service apache2 reload** <br>
+or<br>
+**sudo systemctl reload apache2**
+
+
