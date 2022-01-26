@@ -13,7 +13,7 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) ge
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Lowest Memory Consumption For Best Performance On All Devices
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Platform Support (Windows/Unix etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ All-in-One Single File Without Need For Any External Library/Software
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Async URL Support Upto 10
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Async URL Support Up to 10
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Full Support For XMLTV Standart Elements
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Daylight Saving Time(DST) Support For Automatic Time Offset Changes
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Easy Configuration Maker & Editor
@@ -27,7 +27,7 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) ge
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In GUI Configuration Maker With Channel Picker/Editor & Auto-Duplicate Channel Verification
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In GUI Configuration Debugger
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In File Downloader (via GUI) & Gz/Zip Compression Support
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Upto 5000 Channels For Each
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Up to 5000 Channels For Each
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Scheduled Operations (such as crontab etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access, Operations & Downloading (port-forwarding required)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Support For Scrapping From HTML,XML,CSV,TXT,XLS,PDF(Experimental) & More..
