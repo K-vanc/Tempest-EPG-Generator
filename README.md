@@ -6,7 +6,7 @@ Contact Info:<br>
 📧 tempestepg@gmail.com<br><br>
 ![tmpstr](https://user-images.githubusercontent.com/97025515/148374196-b02d02fb-6251-4121-aa5c-c798ae9e1e58.jpg)
 ## What is Tempest?
-Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) scrapper bundled in a single php file with;<br>
+Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) generator bundled in a single php file with;<br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Graphical User Interface (GUI) & Optimization For Mobile Devices
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Website Configuration Support
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ The Highest Scrapping/Generating Speed 
