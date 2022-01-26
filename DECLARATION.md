@@ -4,11 +4,11 @@ As the owner,copyright holder and developer of Tempest project, I hereby declare
 <br>
 ## If you are looking for;
 🔸 Some admins who cannot even tie their shoelace alone but act like they know everything with hidden support of others;
-<br>🔸 Some admins who steal others work (even if once upon that others called as "friend") and publish them such as they did/could do it;
+<br>🔸 Some admins who take others work without permission and publish them such as they did/could ever do it;
 <br>🔸 Some admins who cannot reply user's technically questions and misdirect (usualy by teasing) them to wrong path to hide their incapability;
 <br>🔸 Some admins who afraid/begrudge about other's success (even if once upon that others called as "friend") and try to stop/block them with stupid reasons/explanations;
 <br>🔸 Briefly, idiocity, jeolousy, incapability, overestimation, magic, arrogancy and ignorance;
-<br><br>you are in very wrong place so my humble suggestion is for you to take a look the land of "blackboxseveralplus" and what you are looking for will **magically** appear after couple of seconds there.. 
+<br><br>you are in very wrong place so my humble suggestion is for you to take a look the land of "tinyblackboxexecutable" and what you are looking for will **magically** appear after couple of seconds there.. 
 <br><br>For all others; you are welcomed.. I guarantee you that there is no stolen good or stupid people here..
 ## Tempest License System
 What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or something like that. Tempest is completely free-to-use without any user license or subscription etc. and it always will be. You can also freely download and use shared preconfigured unlocked and/or locked siteconfig files.
