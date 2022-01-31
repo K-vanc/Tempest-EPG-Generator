@@ -100,7 +100,8 @@ or<br>
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"><img src="https://user-images.githubusercontent.com/97025515/151745807-1709ed8e-9de6-4299-844f-4e80e7f73598.png"></p>
 ## If you like the project, please consider a donation
-<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151746078-4e310dfe-6cfb-4deb-b0b1-860cac0bb1d5.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png">
   <img src="https://user-images.githubusercontent.com/97025515/151743882-9a5b7634-4170-4a95-beab-c89e0ef312f3.jpg">
 </p>
 ![dnt1x](https://user-images.githubusercontent.com/97025515/151746078-4e310dfe-6cfb-4deb-b0b1-860cac0bb1d5.png)
+https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png
