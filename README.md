@@ -99,3 +99,5 @@ or<br>
 <br><br>For Windows, I didnt see such setting or limitation. I think it is set to "no limit" by default for Windows.<br><br>
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"></p>
+## If you like the project, please consider a donation
+
