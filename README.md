@@ -105,6 +105,7 @@ or<br>
 
 ### Wise Account<br>
 **Account Owner : Kivanc Altug Mutal<br>
+Currency : €<br>
 BIC : TRWIBEB1XXX<br>
 IBAN : BE25 9670 4163 4382<br>
 Bank Address : Avenue Louise 54, Room S52, Brussels, 1050, Belgium**
