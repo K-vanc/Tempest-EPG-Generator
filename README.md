@@ -100,3 +100,6 @@ or<br>
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"></p>
 ## If you like the project, please consider a donation
+<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151743881-41f258d1-c633-464d-8da2-4f08e6438fe3.jpg">
+  <img src="https://user-images.githubusercontent.com/97025515/151743882-9a5b7634-4170-4a95-beab-c89e0ef312f3.jpg">
+</p>
