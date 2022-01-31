@@ -101,5 +101,5 @@ or<br>
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"><img src="https://user-images.githubusercontent.com/97025515/151745807-1709ed8e-9de6-4299-844f-4e80e7f73598.png"></p>
 ## If you like the project, please consider a donation
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png">
-  <img src="https://user-images.githubusercontent.com/97025515/151750069-70ec8edd-e793-4586-b0b7-9ae6ae6957fe.png">
+  <img src="https://user-images.githubusercontent.com/97025515/151750730-171ac93c-34d0-4a49-9a0c-1448a76fa2dd.png">
 </p>
