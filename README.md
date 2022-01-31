@@ -100,9 +100,10 @@ or<br>
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"><img src="https://user-images.githubusercontent.com/97025515/151745807-1709ed8e-9de6-4299-844f-4e80e7f73598.png"></p>
 ## If you like the project, please consider a donation
-<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png"><img src="https://user-images.githubusercontent.com/97025515/151750730-171ac93c-34d0-4a49-9a0c-1448a76fa2dd.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151753283-d7780e5b-0d6f-4277-a487-b5a3f015b55e.png"><img src="https://user-images.githubusercontent.com/97025515/151750730-171ac93c-34d0-4a49-9a0c-1448a76fa2dd.png"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151751079-415aeb56-d399-4b27-9250-d6dca6ac7c27.png"></p>
 
+https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png
 ### Wise Account<br>
 **Account Owner : Kivanc Altug Mutal<br>
 BIC : TRWIBEB1XXX<br>
