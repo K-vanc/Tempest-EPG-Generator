@@ -102,7 +102,7 @@ or<br>
 ## If you like the project, please consider a donation
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151746616-cfb10e2c-c55b-47fe-9df1-37c59f9b4c2b.png"><img src="https://user-images.githubusercontent.com/97025515/151750730-171ac93c-34d0-4a49-9a0c-1448a76fa2dd.png"></p><br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151751079-415aeb56-d399-4b27-9250-d6dca6ac7c27.png"></p>
-<br>
+
 ### Wise Account<br>
 **Account Owner : Kivanc Altug Mutal<br>
 BIC : TRWIBEB1XXX<br>
