@@ -101,11 +101,19 @@ or<br>
 <br><p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"><img src="https://user-images.githubusercontent.com/97025515/151745807-1709ed8e-9de6-4299-844f-4e80e7f73598.png"></p>
 ## If you like the project, please consider a donation to support me & project
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151753283-d7780e5b-0d6f-4277-a487-b5a3f015b55e.png"><img src="https://user-images.githubusercontent.com/97025515/151753477-ec61f707-9468-456e-b719-ce8340c69e4b.png"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/97025515/151751079-415aeb56-d399-4b27-9250-d6dca6ac7c27.png"></p>
+<p align="center"><a href="https://wise.com/" target="_blank"><img src="https://user-images.githubusercontent.com/97025515/151751079-415aeb56-d399-4b27-9250-d6dca6ac7c27.png"></a></p>
 
-### Wise Account<br>
+### Wise Account Europe<br>
 **Account Owner : Kivanc Altug Mutal<br>
-Currency : €<br>
+Currency : € (Euro)<br>
 BIC : TRWIBEB1XXX<br>
 IBAN : BE25 9670 4163 4382<br>
 Bank Address : Avenue Louise 54, Room S52, Brussels, 1050, Belgium**
+<br>
+### Wise Account UK<br>
+**Account Owner : Kivanc Altug Mutal<br>
+Currency : £ (GBP)<br>
+Sort Code : 23-14-70<br>
+Account No : 84736167<br>
+IBAN : GB18 TRWI 2314 7084 7361 67<br>
+Bank Address : 56 Shoreditch High Street, London, E1 6JJ, United Kingdom**
