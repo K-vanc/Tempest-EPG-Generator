@@ -103,7 +103,7 @@ or<br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151753283-d7780e5b-0d6f-4277-a487-b5a3f015b55e.png"><img src="https://user-images.githubusercontent.com/97025515/151753477-ec61f707-9468-456e-b719-ce8340c69e4b.png"></p>
 <p align="center"><a href="https://wise.com/" target="_blank"><img src="https://user-images.githubusercontent.com/97025515/151751079-415aeb56-d399-4b27-9250-d6dca6ac7c27.png"></a></p>
 
-### Wise Account Europe<br>
+### Wise Account (Europe & General)<br>
 **Account Owner : Kivanc Altug Mutal<br>
 Currency : € (Euro)<br>
 BIC : TRWIBEB1XXX<br>
@@ -117,3 +117,12 @@ Sort Code : 23-14-70<br>
 Account No : 84736167<br>
 IBAN : GB18 TRWI 2314 7084 7361 67<br>
 Bank Address : 56 Shoreditch High Street, London, E1 6JJ, United Kingdom**
+<br>
+### Wise Account US<br>
+**Account Owner : Kivanc Altug Mutal<br>
+Currency : $ (USD)<br>
+Routing No : 084009519<br>
+Account No : 9600000000354348<br>
+Account Type : Checking<br>
+IBAN : GB18 TRWI 2314 7084 7361 67<br>
+Bank Address : 19 W 24th Street, New York NY, 10010, United States**
