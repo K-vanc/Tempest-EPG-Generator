@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="trt.net.tr_0">
+  <channels>
+    <channel site="trt.net.tr_0" site_id="trt-1" xmltv_id="TRT 1">TRT 1</channel>
+    <channel site="trt.net.tr_0" site_id="trt-2" xmltv_id="TRT 2">TRT 2</channel>
+    <channel site="trt.net.tr_0" site_id="trt-haber" xmltv_id="TRT Haber">TRT Haber</channel>
+    <channel site="trt.net.tr_0" site_id="trt-spor" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel site="trt.net.tr_0" site_id="trt-spor-yildiz" xmltv_id="TRT Spor Yıldız">TRT Spor Yıldız</channel>
+    <channel site="trt.net.tr_0" site_id="trt-kurdi" xmltv_id="TRT Kurdî">TRT Kurdî</channel>
+    <channel site="trt.net.tr_0" site_id="trt-cocuk" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="trt.net.tr_0" site_id="trt-turk" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel site="trt.net.tr_0" site_id="trt-avaz" xmltv_id="TRT Avaz">TRT Avaz</channel>
+    <channel site="trt.net.tr_0" site_id="trt-belgesel" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel site="trt.net.tr_0" site_id="trt-muzik" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel site="trt.net.tr_0" site_id="trt-arabi" xmltv_id="TRT Arabi">TRT Arabi</channel>
+    <channel site="trt.net.tr_0" site_id="trt-4k" xmltv_id="TRT 4K">TRT 4K</channel>
+    <channel site="trt.net.tr_0" site_id="trt-eba-ilkokul" xmltv_id="TRT EBA İlkokul">TRT EBA İlkokul</channel>
+    <channel site="trt.net.tr_0" site_id="trt-eba-ortaokul" xmltv_id="TRT EBA Ortaokul">TRT EBA Ortaokul</channel>
+    <channel site="trt.net.tr_0" site_id="trt-eba-lise" xmltv_id="TRT EBA Lise">TRT EBA Lise</channel>
+  </channels>
+</site>
