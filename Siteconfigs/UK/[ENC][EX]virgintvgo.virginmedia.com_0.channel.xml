@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]virgintvgo.virginmedia.com_0">
+  <channels>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2192||bbc-one-hd" xmltv_id="BBC ONE London HD">BBC ONE London HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2007||bbc-two-hd" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2122||itv-hd" xmltv_id="ITV HD">ITV HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2021||channel-4-hd" xmltv_id="Channel 4HD">Channel 4HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1496||channel-5-hd" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1464||e4-hd" xmltv_id="E4 HD">E4 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2240||bbc-three-hd" xmltv_id="BBC THREE HD">BBC THREE HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2244||bbc-four-hd" xmltv_id="BBC FOUR HD">BBC FOUR HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1548||sky-showcase-hd" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1406||sky-witness-hd" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1553||itv-plus1" xmltv_id="ITV +1">ITV +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1597||itv2-hd" xmltv_id="ITV2 HD">ITV2 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1454||itv2-plus1" xmltv_id="ITV2 +1">ITV2 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1598||itv3-hd" xmltv_id="ITV3 HD">ITV3 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1599||itv4-hd" xmltv_id="ITV4 HD">ITV4 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1800||itv-be-hd" xmltv_id="ITVBe HD">ITVBe HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2148||itv-be-p1" xmltv_id="ITVBe +1">ITVBe +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2181||sky-max-hd" xmltv_id="Sky Max HD">Sky Max HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2119||sky-comedy-hd" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:168||gold-hd" xmltv_id="GOLD HD">GOLD HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1570||w-hd" xmltv_id="W HD">W HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1600||alibi-hd" xmltv_id="alibi HD">alibi HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1571||dave-hd" xmltv_id="Dave HD">Dave HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:246||really" xmltv_id="Really">Really</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:222||yesterday" xmltv_id="YESTERDAY">YESTERDAY</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1750||uktv-drama" xmltv_id="Drama">Drama</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:171||dave-ja-vu" xmltv_id="Dave ja vu">Dave ja vu</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1497||comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1325||comedy-central-plus1" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1732||mtv-hd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2083||sky-crime-hd" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1465||syfy-hd" xmltv_id="SYFY HD">SYFY HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1564||sky-arts-hd" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1322||channel-4-plus1" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1903||4seven-hd" xmltv_id="4SevenHD">4SevenHD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:194||e4-plus1" xmltv_id="E4 +1">E4 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1753||more-4-hd" xmltv_id="More 4 HD">More 4 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:195||cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:213||horror" xmltv_id="horror channel">horror channel</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1958||5-action-hd" xmltv_id="5ACTION HD">5ACTION HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:197||5star" xmltv_id="5STAR">5STAR</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1474||5-select" xmltv_id="5Select">5Select</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:196||5-usa" xmltv_id="5 USA">5 USA</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1671||channel-5-plus1" xmltv_id="Channel 5+1">Channel 5+1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1384||pick-tv" xmltv_id="Pick">Pick</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1767||london-live" xmltv_id="London Live">London Live</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:198||challenge" xmltv_id="Challenge">Challenge</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2150||bbc-alba" xmltv_id="BBC ALBA">BBC ALBA</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2018||bbc-scotland-hd" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2059||E-HD" xmltv_id="E! HD">E! HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2015||s4c-hd" xmltv_id="S4C HD">S4C HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1711||tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1698||Investigation-discovery" xmltv_id="I.D.">I.D.</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1965||quest-hd" xmltv_id="Quest HD">Quest HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1907||quest-red" xmltv_id="Quest Red">Quest Red</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1346||dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1044||tlc-plus1" xmltv_id="TLC+1">TLC+1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1699||Investigation-discovery-plus1" xmltv_id="I.D.+1">I.D.+1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1455||itv3-plus1" xmltv_id="ITV3 +1">ITV3 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1456||itv4-plus1" xmltv_id="ITV4 +1">ITV4 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1383||sky-replay" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:174||comedyx" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1475||5-usa-plus1" xmltv_id="5 USA +1">5 USA +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1892||5-star-plus1" xmltv_id="5STAR +1">5STAR +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1561||great-tv" xmltv_id="GREAT! tv">GREAT! tv</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1363||watch-plus1" xmltv_id="W +1">W +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1343||alibi-plus1" xmltv_id="alibi +1">alibi +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1579||cbs-justice" xmltv_id="CBS Justice">CBS Justice</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:169||gold-plus1" xmltv_id="GOLD +1">GOLD +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1652||more-4-plus1" xmltv_id="More 4 +1">More 4 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1688||cbs-drama" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1452||yesterday-plus1" xmltv_id="YESTERDAY +1">YESTERDAY +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1751||cbs-reality-plus1" xmltv_id="CBS Reality +1">CBS Reality +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1752||horror-channel-plus1" xmltv_id="horror channel +1">horror channel +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:140||sky-witness-plus1" xmltv_id="SkyWitness +1">SkyWitness +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1397||sky-crime-plus1" xmltv_id="Sky Crime +1">Sky Crime +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:568||crime-and-investigation-hd" xmltv_id="Crime+Inv HD">Crime+Inv HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1709||quest-plus1" xmltv_id="Quest +1">Quest +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1700||dmax-plus1" xmltv_id="DMAX + 1">DMAX + 1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1910||blaze" xmltv_id="Blaze">Blaze</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1972||crime-and-investigation-plus1" xmltv_id="Crime+Inv +1">Crime+Inv +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2061||drama-plus1" xmltv_id="Drama +1">Drama +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1471||syfy-plus1" xmltv_id="SYFY +1">SYFY +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1573||eden-hd" xmltv_id="Eden HD">Eden HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1453||eden-plus1" xmltv_id="Eden +1">Eden +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1466||discovery-hd" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1713||animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:231||discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:232||discovery-turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:230||discovery-history" xmltv_id="Discovery History">Discovery History</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:228||discovery-chan-plus1" xmltv_id="Discovery Chan +1">Discovery Chan +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1704||animal-planet-plus1" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1703||discovery-science-plus1" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1701||discovery-history-plus1" xmltv_id="Discovery History +1">Discovery History +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2088||nat-geo-wild-hd" xmltv_id="Nat Geo WILD HD">Nat Geo WILD HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1402||nat-geo-hd" xmltv_id="National GeographicHD">National GeographicHD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:235||national-geographicplus1" xmltv_id="National Geographic+1">National Geographic+1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:236||together-channel" xmltv_id="Together TV">Together TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1974||sky-history-hd" xmltv_id="Sky HISTORY HD">Sky HISTORY HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1720||sky-history-plus1" xmltv_id="Sky HISTORY +1">Sky HISTORY +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1853||sky-history2-hd" xmltv_id="Sky HISTORY 2 HD">Sky HISTORY 2 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1574||pbs" xmltv_id="PBS America">PBS America</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1773||forces-tv" xmltv_id="Forces TV">Forces TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2028||smithsonian" xmltv_id="Smithsonian">Smithsonian</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2127||sky-documentaries-hd" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2125||sky-nature-hd" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1729||food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:244||hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:245||hgtv-plus1" xmltv_id="HGTV +1">HGTV +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:250||god-channel" xmltv_id="God Channel">God Channel</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1733||mtv-music" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1404||mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:259||mtv-hits" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:258||mtv-base" xmltv_id="MTV BASE">MTV BASE</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2090||mtv-classic" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:266||the-box" xmltv_id="The Box">The Box</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:268||box-hits" xmltv_id="Box Hits">Box Hits</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:265||4music" xmltv_id="4Music">4Music</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:267||kiss" xmltv_id="Kiss">Kiss</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:270||magic-tv" xmltv_id="Magic">Magic</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:555||kerrang" xmltv_id="Kerrang">Kerrang</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1855||clubland" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2031||now-70s" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1956||now-80s" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2030||now-90s" xmltv_id="NOW 90s">NOW 90s</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:276||vtv-movies" xmltv_id="Store">Store</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1510||sky-cinema-premiere-hd" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1519||sky-cinema-killer-movies-hd" xmltv_id="Sky Killers HD">Sky Killers HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1511||sky-cinema-hits-hd" xmltv_id="Sky Hits HD">Sky Hits HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1518||sky-cinema-greats-hd" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1514||sky-cinema-family-hd" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1513||sky-cinema-action-hd" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1512||sky-cinema-comedy-hd" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1515||sky-cinema-thriller-hd" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1516||sky-cinema-drama-hd" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1517||sky-cinema-scifi-horror-hd" xmltv_id="Sky SciFi &amp; Hor HD">Sky SciFi &amp; Hor HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2141||sky-cinema-animation-hd" xmltv_id="Sky Animation HD">Sky Animation HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1695||turner-classic-movies-hd" xmltv_id="TCM HD">TCM HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1694||turner-classic-movies-p1" xmltv_id="TCM +1">TCM +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:567||movies-24" xmltv_id="Movies 24">Movies 24</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1338||movies-24-plus" xmltv_id="Movies 24+">Movies 24+</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1341||great-movies-classic" xmltv_id="GREAT! movies classic">GREAT! movies classic</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1894||great-movies" xmltv_id="GREAT! movies">GREAT! movies</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1893||great-movies-action" xmltv_id="GREAT! movies action">GREAT! movies action</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1470||film4-hd" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:293||film4-plus1" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1909||talking-pictures-tv" xmltv_id="Talking Pictures">Talking Pictures</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1520||sky-sports-mainevent-hd" xmltv_id="Sky SportsMainEventHD">Sky SportsMainEventHD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1787||sky-sports-premierleague-hd" xmltv_id="Sky Sports PL HD">Sky Sports PL HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1924||sky-sports-football-hd" xmltv_id="Sky Sports FootballHD">Sky Sports FootballHD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1521||sky-sports-cricket-hd" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1770||sky-sports-golf-hd" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1771||sky-sports-f1-hd" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1769||sky-sports-nfl-hd" xmltv_id="Sky Sports NFL HD">Sky Sports NFL HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1922||sky-sports-arena-hd" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1802||sky-sports-news-hd" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1890||sky-sports-mix-hd" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2084||eurosport-1-hd" xmltv_id="Eurosport 1HD">Eurosport 1HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2085||eurosport-2-hd" xmltv_id="Eurosport 2HD">Eurosport 2HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:327||mutv" xmltv_id="MUTV">MUTV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1744||bt-sport-1-hd" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1745||bt-sport-2-hd" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1837||bt-sport-3-hd" xmltv_id="BT Sport 3 HD">BT Sport 3 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1405||bt-sport-espn-hd" xmltv_id="BT Sport ESPN HD">BT Sport ESPN HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1954||bt-sport-ultimate" xmltv_id="BT Sport Ultimate">BT Sport Ultimate</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:329||sky-sports-racing-hd" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:330||racing-tv" xmltv_id="Racing TV">Racing TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1816||liverpool-fc-tv-hd" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1576||box-nation" xmltv_id="Box Nation">Box Nation</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1761||premier-sports-1-hd" xmltv_id="Premier 1 HD">Premier 1 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1961||premier-sports-2-hd" xmltv_id="Premier 2 HD">Premier 2 HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1960||free-sports" xmltv_id="Freesports HD">Freesports HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2091||laliga-tv" xmltv_id="LaLiga TV">LaLiga TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1756||bbc-news-hd" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1801||sky-news-hd" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:351||bbc-parliament" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:339||bloomberg-tv-hd" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:352||cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:354||euronews" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1587||ndtv-24x7" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1673||aljazeera-english" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1722||france-24-english-hd" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1731||nhk-world-japan" xmltv_id="NHK World-Japan">NHK World-Japan</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2165||gbn-hd" xmltv_id="GB News">GB News</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1759||cbbc-hd" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1760||cbeebies-hd" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:391||baby-tv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1696||cartoon-network-hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:407||cartoon-network-plus1" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1469||cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1734||nick-hd" xmltv_id="Nick HD">Nick HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:396||nick-plus1" xmltv_id="Nick +1">Nick +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:397||nick-junior" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1324||nick-jr-2" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1399||nicktoons-tv" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:405||boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:406||boomerang-plus1" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:408||citv" xmltv_id="CITV">CITV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1895||pop" xmltv_id="POP">POP</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1340||tiny-pop" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:409||qvc" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1868||qvc-beauty" xmltv_id="QVC Beauty">QVC Beauty</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1867||qvc-style" xmltv_id="QVC Style">QVC Style</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2177||qvc-extra" xmltv_id="QVC Extra">QVC Extra</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:414||ideal-world" xmltv_id="Ideal World">Ideal World</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1717||create-and-craft" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:418||gems-tv" xmltv_id="Gems TV">Gems TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1739||jewellery-channel" xmltv_id="TJC HD">TJC HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1689||utsav-gold-hd" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1677||utsav-bharat" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:424||utsav-plus-hd" xmltv_id="Utsav Plus HD">Utsav Plus HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:425||sony-tv-hd" xmltv_id="SONY TV HD">SONY TV HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:422||sony-max-hd" xmltv_id="SONY MAX HD">SONY MAX HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1705||sony-sab" xmltv_id="SONY SAB">SONY SAB</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2032||sony-max-2" xmltv_id="SONY MAX2">SONY MAX2</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:426||zee-tv-hd" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:427||zee-cinema-hd" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:430||b4u-movies" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:431||b4u-music" xmltv_id="B4U Music">B4U Music</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:2166||colors-gujrati" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1562||colors-hd" xmltv_id="COLORS HD">COLORS HD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1675||colors-rishtey" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1927||colors-cineplex" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1676||ndtv-good-times" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1674||aljazeera" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1911||islam-channel-english" xmltv_id="Islam Channel English">Islam Channel English</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1912||islam-channel-urdu" xmltv_id="Islam Channel Urdu">Islam Channel Urdu</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:439||bbc-one-audio-desc" xmltv_id="BBC ONE AD">BBC ONE AD</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:441||itv-audio-desc" xmltv_id="ITV Audio Desc">ITV Audio Desc</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:446||bbc-one-london" xmltv_id="BBC ONE London">BBC ONE London</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:12||bbc-one-scotland" xmltv_id="BBC ONE Scotland">BBC ONE Scotland</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:14||bbc-one-north-ireland" xmltv_id="BBC ONE NI">BBC ONE NI</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:15||bbc-one-wales" xmltv_id="BBC ONE Wales">BBC ONE Wales</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:38||bbc-two" xmltv_id="BBC TWO">BBC TWO</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:1735||bbc-red-button" xmltv_id="BBC Red Button 1">BBC Red Button 1</channel>
+    <channel site="[ENC][EX]virgintvgo.virginmedia.com_0" site_id="lgi-gb-prodobo-master:138||vtv-whats-on" xmltv_id="Virgin TV Highlights">Virgin TV Highlights</channel>
+  </channels>
+</site>
