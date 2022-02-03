@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]mi.tv_1">
+  <channels>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|ciudad-abierta||ar_ciudad-abierta_s.png" xmltv_id="[AR]Canal de la Ciudad">[AR]Canal de la Ciudad</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|metro||ar_metro_s.png" xmltv_id="[AR]Metro">[AR]Metro</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|america-24||ar_america-24_s.png" xmltv_id="[AR]A24">[AR]A24</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|c5n||ar_c5n_s.png" xmltv_id="[AR]C5N">[AR]C5N</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|26-tv||ar_26-tv_s.png" xmltv_id="[AR]Canal 26">[AR]Canal 26</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|tn||ar_tn_s.png" xmltv_id="[AR]TN">[AR]TN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|america-2-capital||ar_america-2-capital_s.png" xmltv_id="[AR]América TV">[AR]América TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|telefe||ar_telefe_s.png" xmltv_id="[AR]Telefe">[AR]Telefe</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|canal-7-capital||ar_canal-7-capital_s.png" xmltv_id="[AR]TV Pública">[AR]TV Pública</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|el-trece||ar_el-trece_s.png" xmltv_id="[AR]Canal 13">[AR]Canal 13</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|canal-9||canal-9-s.jpg" xmltv_id="[AR]Canal 9">[AR]Canal 9</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|encuentro||ar_encuentro_s.png" xmltv_id="[AR]Encuentro">[AR]Encuentro</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|canal-orbe-21||ar_canal-orbe-21_s.png" xmltv_id="[AR]Canal Orbe 21">[AR]Canal Orbe 21</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|tnt||ar_tnt_s.png" xmltv_id="[AR]TNT">[AR]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|fox||ar_fox_s.png" xmltv_id="[AR]Star Channel">[AR]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|hbo||ar_hbo_s.png" xmltv_id="[AR]HBO">[AR]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|space||ar_space_s.png" xmltv_id="[AR]Space">[AR]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|comedy-central||ar_comedy-central_s.png" xmltv_id="[AR]Comedy Central">[AR]Comedy Central</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|fox-movies||ar_fox-movies_s.png" xmltv_id="[AR]Star Hits">[AR]Star Hits</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|cinecanal||ar_cinecanal-1_s.png" xmltv_id="[AR]Cinecanal">[AR]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|fx||ar_fx_s.png" xmltv_id="[AR]FX">[AR]FX</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|amc||ar_amc_s.png" xmltv_id="[AR]AMC">[AR]AMC</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|a-e-mundo||ar_a-e-mundo_s.png" xmltv_id="[AR]A&amp;E">[AR]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|warner-channel||ar_warner-channel_s.png" xmltv_id="[AR]Warner Channel">[AR]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|sony||ar_sony_s.png" xmltv_id="[AR]Sony">[AR]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|axn||co_axn_s.png" xmltv_id="[AR]AXN">[AR]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|discovery||ar_discovery_s.png" xmltv_id="[AR]Discovery Channel">[AR]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|history||ar_history_s.png" xmltv_id="[AR]History">[AR]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|disney||ar_disney_s.png" xmltv_id="[AR]Disney Channel">[AR]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|tyc-sports||ar_tyc-sports_s.png" xmltv_id="[AR]TyC Sports">[AR]TyC Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|fox-sports-hd||ar_fox-sports-hd_s.png" xmltv_id="[AR]FOX Sports HD">[AR]FOX Sports HD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|cinemax||ar_cinemax_s.png" xmltv_id="[AR]Cinemax">[AR]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|mtv||ar_mtv_s.png" xmltv_id="[AR]MTV">[AR]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|discovery-kids||ar_discovery-kids_s.png" xmltv_id="[AR]Discovery Kids">[AR]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|cartoon-network||ar_cartoon-network_s.png" xmltv_id="[AR]Cartoon Network">[AR]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="ar|##|cnn-en-espanol||ar_cnn-en-espanol_s.png" xmltv_id="[AR]CNN en Español">[AR]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|rede-globo||globo_s.jpg" xmltv_id="[BR]Globo">[BR]Globo</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|record||record_s.jpg" xmltv_id="[BR]Record TV">[BR]Record TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|sbt||br_sbt_s.png" xmltv_id="[BR]SBT">[BR]SBT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|band||br_bandeirantes_s.png" xmltv_id="[BR]Band São Paulo">[BR]Band São Paulo</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|rede-tv||br_rede-tv_s.png" xmltv_id="[BR]RedeTV!">[BR]RedeTV!</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|cultura||br_cultura_s.png" xmltv_id="[BR]Cultura">[BR]Cultura</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|futura||br_futura_s.png" xmltv_id="[BR]Futura">[BR]Futura</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|cnt||br_cnt-brazil_s.png" xmltv_id="[BR]CNT">[BR]CNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|nbr||br_nbr_s.png" xmltv_id="[BR]NBR">[BR]NBR</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|tnt||br_tnt_s.png" xmltv_id="[BR]TNT">[BR]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|fox||mx_fox_s.png" xmltv_id="[BR]FOX Channel">[BR]FOX Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|hbo||3230fdb1-1bdd-4155-a842-d9461066c4a4_s.jpg" xmltv_id="[BR]HBO">[BR]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|sony||br_sony_s.png" xmltv_id="[BR]Sony">[BR]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|axn||co_axn_s.png" xmltv_id="[BR]AXN">[BR]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|a-e||br_a-e_s.png" xmltv_id="[BR]A&amp;E">[BR]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|amc-brasil||br_amc-brasil_s.png" xmltv_id="[BR]AMC Brasil">[BR]AMC Brasil</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|warner-channel||br_warner_s.png" xmltv_id="[BR]Warner Channel">[BR]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|universal||br_universal_s.png" xmltv_id="[BR]Universal">[BR]Universal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|telecine-pipoca||br_telecine-pipoca_s.png" xmltv_id="[BR]Telecine Pipoca">[BR]Telecine Pipoca</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|telecine-premium||br_telecine-premium-1_s.png" xmltv_id="[BR]Telecine Premium">[BR]Telecine Premium</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|mtv-brasil||br_mtv-brasil_s.png" xmltv_id="[BR]MTV Brasil">[BR]MTV Brasil</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|viva||br_viva_s.png" xmltv_id="[BR]VIVA">[BR]VIVA</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|discovery||br_discovery_s.png" xmltv_id="[BR]Discovery">[BR]Discovery</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|national-geographic||br_national-geographic_s.png" xmltv_id="[BR]National Geographic">[BR]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|history-channel||br_history-channel_s.png" xmltv_id="[BR]History Channel">[BR]History Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|h2||ar_h2_s.png" xmltv_id="[BR]History 2">[BR]History 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|fox-sports||2888f73c-4ccf-4654-b1b4-5941a99aa867_s.jpg" xmltv_id="[BR]FOX Sports">[BR]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|sportv||br_sportv_s.png" xmltv_id="[BR]SporTV">[BR]SporTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|espn||br_espn-brasil_s.png" xmltv_id="[BR]ESPN Brasil">[BR]ESPN Brasil</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|gloob||br_gloob_s.png" xmltv_id="[BR]Gloob">[BR]Gloob</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|disney||br_disney_s.png" xmltv_id="[BR]Disney">[BR]Disney</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|discovery-home-health||br_discovery-home-health_s.png" xmltv_id="[BR]Discovery Home &amp; Health">[BR]Discovery Home &amp; Health</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|discovery-kids||br_discovery-kids_s.png" xmltv_id="[BR]Discovery Kids">[BR]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|cartoon||br_cartoon_s.png" xmltv_id="[BR]Cartoon Network">[BR]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|nickelodeon||br_nickelodeon_s.png" xmltv_id="[BR]Nick">[BR]Nick</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|boomerang||br_boomerang_s.png" xmltv_id="[BR]Cartoonito">[BR]Cartoonito</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|globo-news||globo_s.jpg" xmltv_id="[BR]Globo News">[BR]Globo News</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|record-news||br_record-news_s.png" xmltv_id="[BR]Record News">[BR]Record News</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|bbc-news||br_bbc-news_s.png" xmltv_id="[BR]BBC News">[BR]BBC News</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="br|##|cnn||br_cnn_s.png" xmltv_id="[BR]CNN">[BR]CNN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|tvn||cl_tvn_s.png" xmltv_id="[CL]TVN">[CL]TVN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|mega||cl_mega_s.png" xmltv_id="[CL]Mega">[CL]Mega</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|canal-13||cl_canal-13_s.png" xmltv_id="[CL]Canal 13">[CL]Canal 13</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|chilevision||cl_chilevision_s.png" xmltv_id="[CL]Chilevisión">[CL]Chilevisión</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|la-red||cl_la-red_s.png" xmltv_id="[CL]La Red">[CL]La Red</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|ucv-tv||cl_ucv-tv_s.png" xmltv_id="[CL]UCV TV">[CL]UCV TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|tvn-24-h||cl_tvn-24-h_s.png" xmltv_id="[CL]24 Horas">[CL]24 Horas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|canal-13-c||cl_canal-13-c_s.png" xmltv_id="[CL]13C">[CL]13C</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|fox||cl_fox_s.png" xmltv_id="[CL]Star Channel">[CL]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|tnt||cl_tnt_s.png" xmltv_id="[CL]TNT">[CL]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|hbo||cl_hbo_s.png" xmltv_id="[CL]HBO">[CL]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|sony||cl_sony_s.png" xmltv_id="[CL]Sony">[CL]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|axn||cl_axn_s.png" xmltv_id="[CL]AXN">[CL]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|warner||cl_warner_s.png" xmltv_id="[CL]Warner Channel">[CL]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|a-e-mundo||cl_a-e_s.png" xmltv_id="[CL]A&amp;E">[CL]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|universal-channel||cl_universal-channel_s.png" xmltv_id="[CL]Universal TV">[CL]Universal TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|space||cl_space_s.png" xmltv_id="[CL]Space">[CL]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|fx||cl_fx_s.png" xmltv_id="[CL]FX">[CL]FX</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|cdf-basico||cl_cdf-basico_s.png" xmltv_id="[CL]CDF Básico">[CL]CDF Básico</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|fox-sports-basico||cl_fox-sports-basico_s.png" xmltv_id="[CL]FOX Sports Básico">[CL]FOX Sports Básico</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|fox-sports-3||cl_fox-sports-3_s.png" xmltv_id="[CL]FOX Sports 3">[CL]FOX Sports 3</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|lifetime||cl_lifetime_s.png" xmltv_id="[CL]Lifetime">[CL]Lifetime</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|discovery-science||cl_discovery-science_s.png" xmltv_id="[CL]Discovery Science">[CL]Discovery Science</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|tyc-sports||cl_tyc-sports_s.png" xmltv_id="[CL]TyC Sports">[CL]TyC Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|discovery||cl_discovery_s.png" xmltv_id="[CL]Discovery Channel">[CL]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|national-geographic||cl_national-geographic_s.png" xmltv_id="[CL]National Geographic">[CL]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|animal-planet||cl_animal-planet_s.png" xmltv_id="[CL]Animal Planet">[CL]Animal Planet</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|history||cl_history_s.png" xmltv_id="[CL]History">[CL]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|discovery-home-and-health||cl_discovery-home-and-health_s.png" xmltv_id="[CL]Discovery Home &amp; Health">[CL]Discovery Home &amp; Health</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|discovery-id||cl_discovery-id_s.png" xmltv_id="[CL]Investigation Discovery">[CL]Investigation Discovery</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|golden||cl_golden_s.png" xmltv_id="[CL]Golden">[CL]Golden</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|cinecanal||cl_cinecanal_s.png" xmltv_id="[CL]Cinecanal">[CL]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|hbo-2||cl_hbo-2_s.png" xmltv_id="[CL]HBO 2">[CL]HBO 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|cinemax||cl_cinemax_s.png" xmltv_id="[CL]Cinemax">[CL]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|de-pelicula||cl_de-pelicula_s.png" xmltv_id="[CL]De Película">[CL]De Película</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|disney-channel||cl_disney-channel_s.png" xmltv_id="[CL]Disney Channel">[CL]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|disney-xd||cl_disney-xd_s.png" xmltv_id="[CL]Disney XD">[CL]Disney XD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|cartoon-network||cl_cartoon-network_s.png" xmltv_id="[CL]Cartoon Network">[CL]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|nickelodeon||cl_nickelodeon_s.png" xmltv_id="[CL]Nick">[CL]Nick</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="cl|##|cnn-chile||cl_cnn-chile_s.png" xmltv_id="[CL]CNN Chile">[CL]CNN Chile</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|caracol||co_caracol_s.png" xmltv_id="[CO]Caracol">[CO]Caracol</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|rcn||60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_s.jpg" xmltv_id="[CO]RCN">[CO]RCN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|tnt||08f3286d-6e7e-4827-a5a7-bd227bf41674_s.jpg" xmltv_id="[CO]TNT">[CO]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fox||co_fox_s.png" xmltv_id="[CO]Star Channel">[CO]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|win-sports||56e6f414-7518-4d1b-8f63-8f8d54370eef_s.jpg" xmltv_id="[CO]Win Sports">[CO]Win Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fox-sports||2888f73c-4ccf-4654-b1b4-5941a99aa867_s.jpg" xmltv_id="[CO]FOX Sports">[CO]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|canal-uno||co_canal-uno_s.png" xmltv_id="[CO]Canal 1">[CO]Canal 1</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|citytv||0a25f3c8-0d46-465d-8705-fee139872f8b_s.jpg" xmltv_id="[CO]Citytv">[CO]Citytv</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|hbo||3230fdb1-1bdd-4155-a842-d9461066c4a4_s.jpg" xmltv_id="[CO]HBO">[CO]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|sony||co_sony_s.png" xmltv_id="[CO]Sony">[CO]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|axn||co_axn_s.png" xmltv_id="[CO]AXN">[CO]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|espn||ddd8dae7-27df-45fc-921d-0b40ed90c546_s.jpg" xmltv_id="[CO]ESPN">[CO]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|espn-2||co_espn-2_s.png" xmltv_id="[CO]ESPN 2">[CO]ESPN 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fox-sports-2||b0af71c6-9667-4002-82bd-d901ab8a5380_s.jpg" xmltv_id="[CO]FOX Sports 2">[CO]FOX Sports 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fox-sports-3||b96645ea-a696-4fc7-bf17-3d7f0033b33a_s.jpg" xmltv_id="[CO]FOX Sports 3">[CO]FOX Sports 3</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|discovery-channel||26431e28-bd69-4174-9abc-d509ddb267e8_s.jpg" xmltv_id="[CO]Discovery Channel">[CO]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|national-geographic||d32620f0-6fae-4265-a63b-098f3980d9b0_s.jpg" xmltv_id="[CO]National Geographic">[CO]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|animal-planet||6847aad0-d06a-48fe-8b61-1243e8e48244_s.jpg" xmltv_id="[CO]Animal Planet">[CO]Animal Planet</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|warner||5987c5e2-c512-4b15-9225-006e0d6d7737_s.jpg" xmltv_id="[CO]Warner Channel">[CO]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|rcn-novelas||co_canal-rcn-novelas_s.png" xmltv_id="[CO]RCN Novelas">[CO]RCN Novelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|tlnovelas||6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_s.jpg" xmltv_id="[CO]TLNovelas">[CO]TLNovelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|caracol-novelas||caracolnovelas_s.jpg" xmltv_id="[CO]Novelas Caracol">[CO]Novelas Caracol</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|cinemax||b8429039-13c7-42e5-856d-200ca8a6af37_s.jpg" xmltv_id="[CO]Cinemax">[CO]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|cinecanal||74863809-e135-43ee-be65-d7faa6e04f99_s.jpg" xmltv_id="[CO]Cinecanal">[CO]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fx-movies||fx-movies-s.png" xmltv_id="[CO]FX Movies">[CO]FX Movies</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|multipremier||a4fcb1bf-cfa6-47b0-941a-7e09f802139e_s.jpg" xmltv_id="[CO]Multipremier">[CO]Multipremier</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|fx||7c573548-9ffe-4bd8-9d3d-1503aa114c4c_s.jpg" xmltv_id="[CO]FX">[CO]FX</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|golden||7ee8d074-a43d-468d-ac6a-8971cac696ee_s.jpg" xmltv_id="[CO]Golden">[CO]Golden</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|universal-channel||351bb787-2478-4d55-89d9-9ca34b475a4c_s.jpg" xmltv_id="[CO]Universal TV">[CO]Universal TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|studio-universal||fd8cde27-1fa8-46f4-a2ff-96436bbe6912_s.jpg" xmltv_id="[CO]Studio Universal">[CO]Studio Universal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|comedy-central||7cdca9cb-756c-40c6-9faf-158694995663_s.jpg" xmltv_id="[CO]Comedy Central">[CO]Comedy Central</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|space||cc5e7deb-89a9-4b94-b942-68a7ae0b935d_s.jpg" xmltv_id="[CO]Space">[CO]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|disney-multicountry||61f56bcb-1ac4-4421-8ff5-24d7303a15b0_s.jpg" xmltv_id="[CO]Disney Channel">[CO]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|disney-xd-multicountry||a91621b0-29f8-49f8-aeb2-72fe578d780d_s.jpg" xmltv_id="[CO]Disney XD">[CO]Disney XD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|cartoon-network||13de30e5-a209-4dfe-a755-b161b7046ba1_s.jpg" xmltv_id="[CO]Cartoon Network">[CO]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|m-tv||76f4f4a6-d289-4c05-a838-c53065163dd4_s.jpg" xmltv_id="[CO]MTV">[CO]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|cnn-en-espanol||147a869f-f2cc-42b6-83fa-ad66ff6745ca_s.jpg" xmltv_id="[CO]CNN en Español">[CO]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|canal-capital||co_canal-capital_s.png" xmltv_id="[CO]Canal Capital">[CO]Canal Capital</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|teleantioquia||channel_logo_teleantioqa_s.jpg" xmltv_id="[CO]Teleantioquia">[CO]Teleantioquia</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|telepacifico||1ddafab0-9ca1-4f82-856f-871a04fab537_s.jpg" xmltv_id="[CO]Telepacifico">[CO]Telepacifico</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="co|##|telecaribe||ff43475f-1837-4cfc-8d76-0c45440a4afb_s.jpg" xmltv_id="[CO]Telecaribe">[CO]Telecaribe</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-2-nacional||sv_canal-2-nacional_s.png" xmltv_id="[SV]Canal 2">[SV]Canal 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-4-nacional||sv_canal-4-nacional_s.png" xmltv_id="[SV]Canal 4">[SV]Canal 4</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-6-nacional||sv_canal-6-nacional_s.png" xmltv_id="[SV]Canal 6">[SV]Canal 6</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-10-nacional||sv_canal-10-nacional_s.png" xmltv_id="[SV]Canal 10">[SV]Canal 10</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-12-nacional||sv_canal-12-nacional_s.png" xmltv_id="[SV]Canal 12">[SV]Canal 12</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-19-nacional||sv_canal-19-nacional_s.png" xmltv_id="[SV]Canal 19">[SV]Canal 19</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-21-nacional||sv_canal-21-nacional_s.png" xmltv_id="[SV]Canal 21">[SV]Canal 21</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|vtv||sv_vtv_s.png" xmltv_id="[SV]VTV">[SV]VTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-23-tvx||sv_canal-23-tvx_s.png" xmltv_id="[SV]TVX">[SV]TVX</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-claro||sv_canal-claro_s.png" xmltv_id="[SV]Canal Claro">[SV]Canal Claro</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|fox||sv_fox_s.png" xmltv_id="[SV]Star Channel">[SV]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|hbo||sv_hbo-oeste_s.png" xmltv_id="[SV]HBO">[SV]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|tnt||sv_tnt_s.png" xmltv_id="[SV]TNT">[SV]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|sony||sv_sony_s.png" xmltv_id="[SV]Sony">[SV]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|axn||co_axn_s.png" xmltv_id="[SV]AXN">[SV]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|tlnovelas||sv_tlnovelas_s.png" xmltv_id="[SV]TLNovelas">[SV]TLNovelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|fx-movies||fx-movies-s.png" xmltv_id="[SV]FX Movies">[SV]FX Movies</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|cinecanal||sv_cinecanal_s.png" xmltv_id="[SV]Cinecanal">[SV]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|warner||sv_warner_s.png" xmltv_id="[SV]Warner Channel">[SV]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|a-e-mundo||sv_a-e-mundo_s.png" xmltv_id="[SV]A&amp;E">[SV]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|fox-sports||sv_fox-sports_s.png" xmltv_id="[SV]FOX Sports">[SV]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|espn||sv_espn_s.png" xmltv_id="[SV]ESPN">[SV]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|espn-2||sv_espn-2_s.png" xmltv_id="[SV]ESPN 2">[SV]ESPN 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|m-tv||sv_m-tv_s.png" xmltv_id="[SV]MTV">[SV]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|discovery-channel||sv_discovery-channel_s.png" xmltv_id="[SV]Discovery Channel">[SV]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|national-geographic||sv_national-geographic_s.png" xmltv_id="[SV]National Geographic">[SV]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|history||sv_history_s.png" xmltv_id="[SV]History">[SV]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|discovery-kids||sv_discovery-kids_s.png" xmltv_id="[SV]Discovery Kids">[SV]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|disney||sv_disney-multicountry_s.png" xmltv_id="[SV]Disney Channel">[SV]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|cartoon-network||sv_cartoon-network_s.png" xmltv_id="[SV]Cartoon Network">[SV]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|boomerang-cartoon||sv_boomerang-cartoon_s.png" xmltv_id="[SV]Cartoonito">[SV]Cartoonito</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|canal-de-las-estrellas||las-estrellas-s.png" xmltv_id="[SV]Las Estrellas">[SV]Las Estrellas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|tve||sv_tve_s.png" xmltv_id="[SV]TVE">[SV]TVE</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|bbc-world||sv_bbc-world_s.png" xmltv_id="[SV]BBC World">[SV]BBC World</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="sv|##|cnn-en-espanol||sv_cnn-en-espanol_s.png" xmltv_id="[SV]CNN en Español">[SV]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|guatevision||gt_guatevision_s.png" xmltv_id="[GT]Guatevisión">[GT]Guatevisión</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|canal-3||gt_canal-3-nacional_s.png" xmltv_id="[GT]Canal 3">[GT]Canal 3</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|televisiete||gt_canal-7-nacional_s.png" xmltv_id="[GT]Canal 7 - Televisiete">[GT]Canal 7 - Televisiete</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|teleonce-canal-11||gt_canal-11-guatemala_s.png" xmltv_id="[GT]Canal 11 - Teleonce">[GT]Canal 11 - Teleonce</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|trecevision-canal-13||gt_canal-13-guatemala_s.png" xmltv_id="[GT]Canal 13 - Trecevisión">[GT]Canal 13 - Trecevisión</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|canal-27||gt_canal-27-nacional_s.png" xmltv_id="[GT]Canal27">[GT]Canal27</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|canal-antigua||gt_canal-antigua_s.png" xmltv_id="[GT]Canal Antigua">[GT]Canal Antigua</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|azteca-guatemala||gt_tv-azteca-guatemala_s.png" xmltv_id="[GT]Azteca Guatemala">[GT]Azteca Guatemala</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|fox||gt_fox_s.png" xmltv_id="[GT]Star Channel">[GT]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|tnt||gt_tnt_s.png" xmltv_id="[GT]TNT">[GT]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|cinemax||gt_cinemax_s.png" xmltv_id="[GT]Cinemax">[GT]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|cinecanal||gt_cinecanal_s.png" xmltv_id="[GT]Cinecanal">[GT]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|tvc-cine-mexicano-cmc||gt_tvc-cine-mexicano-cmc_s.png" xmltv_id="[GT]Cine Mexicano">[GT]Cine Mexicano</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|amc||gt_amc_s.png" xmltv_id="[GT]AMC">[GT]AMC</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|hbo-oeste||gt_hbo-oeste_s.png" xmltv_id="[GT]HBO Oeste">[GT]HBO Oeste</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|a-e-mundo||gt_a-e-mundo_s.png" xmltv_id="[GT]A&amp;E">[GT]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|sony||gt_sony_s.png" xmltv_id="[GT]Sony">[GT]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|axn||co_axn_s.png" xmltv_id="[GT]AXN">[GT]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|space||gt_space_s.png" xmltv_id="[GT]Space">[GT]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|warner||gt_warner_s.png" xmltv_id="[GT]Warner Channel">[GT]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|fox-sy-fy||gt_fox-sy-fy_s.png" xmltv_id="[GT]Syfy">[GT]Syfy</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|discovery-channel||gt_discovery-channel_s.png" xmltv_id="[GT]Discovery Channel">[GT]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|national-geographic||gt_national-geographic_s.png" xmltv_id="[GT]National Geographic">[GT]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|history||gt_history_s.png" xmltv_id="[GT]History">[GT]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|disney||gt_disney_s.png" xmltv_id="[GT]Disney Channel">[GT]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|canal-antigua-deportes||gt_canal-antigua-deportes_s.png" xmltv_id="[GT]Canal Antigua Deportes">[GT]Canal Antigua Deportes</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|espn||gt_espn_s.png" xmltv_id="[GT]ESPN">[GT]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|fox-sports-2||gt_fox-sports-2_s.png" xmltv_id="[GT]FOX Sports 2">[GT]FOX Sports 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|tyc-sports||gt_tyc-sports_s.png" xmltv_id="[GT]TyC Sports">[GT]TyC Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|m-tv||gt_m-tv_s.png" xmltv_id="[GT]MTV">[GT]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|cartoon-network||gt_cartoon-network_s.png" xmltv_id="[GT]Cartoon Network">[GT]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|canal-de-las-estrellas||las-estrellas-s.png" xmltv_id="[GT]Las Estrellas">[GT]Las Estrellas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|caracol-internacional||gt_caracol-internacional_s.png" xmltv_id="[GT]Caracol Internacional">[GT]Caracol Internacional</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="gt|##|cnn-en-espanol||gt_cnn-en-espanol_s.png" xmltv_id="[GT]CNN en Español">[GT]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|telecadena||hn_telecadena_s.png" xmltv_id="[HN]Telecadena 7 y 4">[HN]Telecadena 7 y 4</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|telesistema-hondureno||hn_telesistema-hondureno_s.png" xmltv_id="[HN]Telesistema 3 y 7">[HN]Telesistema 3 y 7</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|vica-vtv||hn_vica-vtv_s.png" xmltv_id="[HN]VTV">[HN]VTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|canal-5||hn_canal-5_s.png" xmltv_id="[HN]Canal 5">[HN]Canal 5</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|si-tv||hn_si-tv_s.png" xmltv_id="[HN]SITV">[HN]SITV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|hch-hable-como-habla||hn_hch-hable-como-habla_s.png" xmltv_id="[HN]Hable Como Habla">[HN]Hable Como Habla</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|ewtn||hn_ewtn_s.png" xmltv_id="[HN]EWTN">[HN]EWTN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|sony||hn_sony_s.png" xmltv_id="[HN]Sony">[HN]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|axn||co_axn_s.png" xmltv_id="[HN]AXN">[HN]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|fox-honduras||hn_fox-honduras_s.png" xmltv_id="[HN]Star Channel">[HN]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|fox-movies||hn_fox-movies_s.png" xmltv_id="[HN]Star Hits">[HN]Star Hits</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|space||hn_space_s.png" xmltv_id="[HN]Space">[HN]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|amc||hn_amc_s.png" xmltv_id="[HN]AMC">[HN]AMC</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|hbo||hn_hbo-oeste_s.png" xmltv_id="[HN]HBO">[HN]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|tnt||hn_tnt_s.png" xmltv_id="[HN]TNT">[HN]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|warner||hn_warner_s.png" xmltv_id="[HN]Warner Channel">[HN]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|cinecanal||hn_cinecanal_s.png" xmltv_id="[HN]Cinecanal">[HN]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|a-e-mundo||hn_a-e-mundo_s.png" xmltv_id="[HN]A&amp;E">[HN]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|fox-sports||hn_fox-sports_s.png" xmltv_id="[HN]FOX Sports">[HN]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|espn-4||hn_espn-4_s.png" xmltv_id="[HN]ESPN">[HN]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|espn-2||hn_espn-2_s.png" xmltv_id="[HN]ESPN 2">[HN]ESPN 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|discovery-channel||hn_discovery-channel_s.png" xmltv_id="[HN]Discovery Channel">[HN]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|national-geographic||hn_national-geographic_s.png" xmltv_id="[HN]National Geographic">[HN]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|history||hn_history_s.png" xmltv_id="[HN]History">[HN]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|m-tv||hn_m-tv_s.png" xmltv_id="[HN]MTV">[HN]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|disney-hd||hn_disney-hd_s.png" xmltv_id="[HN]Disney Channel HD">[HN]Disney Channel HD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|discovery-kids||hn_discovery-kids_s.png" xmltv_id="[HN]Discovery Kids">[HN]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|cartoon-network||hn_cartoon-network_s.png" xmltv_id="[HN]Cartoon Network">[HN]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|boomerang-cartoon||hn_boomerang-cartoon_s.png" xmltv_id="[HN]Cartoonito">[HN]Cartoonito</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|tve||hn_tve_s.png" xmltv_id="[HN]TVE">[HN]TVE</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|caracol-internacional||hn_caracol-internacional_s.png" xmltv_id="[HN]Caracol Internacional">[HN]Caracol Internacional</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="hn|##|cnn-en-espanol||hn_cnn-en-espanol_s.png" xmltv_id="[HN]CNN en Español">[HN]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|canal-de-las-estrellas-xew||las-estrellas-s.png" xmltv_id="[MX]Las Estrellas">[MX]Las Estrellas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|xh-gc-canal-5||mx_xh-gc-canal-5_s.png" xmltv_id="[MX]Canal 5">[MX]Canal 5</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|azteca-7||mx_azteca-7_s.png" xmltv_id="[MX]Azteca 7">[MX]Azteca 7</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|galavision||mx_canal-5-galavision_s.png" xmltv_id="[MX]El Nu9ve">[MX]El Nu9ve</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|canal-4-foro-tv||mx_canal-4-foro-tv_s.png" xmltv_id="[MX]FOROtv">[MX]FOROtv</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|xeipn-canal-11||mx_xeipn-canal-11_s.png" xmltv_id="[MX]Canal Once">[MX]Canal Once</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|azteca-13||mx_azteca-13_s.png" xmltv_id="[MX]Azteca 13">[MX]Azteca 13</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|canal-4||mx_canal-4_s.png" xmltv_id="[MX]Canal 4">[MX]Canal 4</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|cadenatres||excelsior-s.png" xmltv_id="[MX]Excelsior TV">[MX]Excelsior TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|a-plus||mx_a_s.png" xmltv_id="[MX]A+">[MX]A+</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|tv-unam||mx_tv-unam-nuevo_s.png" xmltv_id="[MX]TV UNAM">[MX]TV UNAM</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|proyecto-40||adn-40-s.png" xmltv_id="[MX]adn40">[MX]adn40</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|fox||mx_fox_s.png" xmltv_id="[MX]Star Channel">[MX]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|universal-channel||mx_universal-channel_s.png" xmltv_id="[MX]Universal TV">[MX]Universal TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|tnt||mx_tnt_s.png" xmltv_id="[MX]TNT">[MX]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|warner||mx_warner_s.png" xmltv_id="[MX]Warner Channel">[MX]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|sony||mx_sony_s.png" xmltv_id="[MX]Sony">[MX]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|axn||co_axn_s.png" xmltv_id="[MX]AXN">[MX]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|entertainment||mx_entertainment_s.png" xmltv_id="[MX]E!">[MX]E!</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|fox-sports||mx_fox-sports_s.png" xmltv_id="[MX]FOX Sports">[MX]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|fox-sy-fy||mx_fox-sy-fy_s.png" xmltv_id="[MX]Syfy">[MX]Syfy</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|a-e-mundo||mx_a-e-mundo_s.png" xmltv_id="[MX]A&amp;E">[MX]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|space||mx_space_s.png" xmltv_id="[MX]Space">[MX]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|espn||mx_espn_s.png" xmltv_id="[MX]ESPN">[MX]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|discovery-channel||mx_discovery-channel_s.png" xmltv_id="[MX]Discovery Channel">[MX]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|national-geographic||mx_national-geographic_s.png" xmltv_id="[MX]National Geographic">[MX]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|discovery-id||mx_discovery-id_s.png" xmltv_id="[MX]Investigation Discovery">[MX]Investigation Discovery</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|history||mx_history_s.png" xmltv_id="[MX]History">[MX]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|disney||mx_disney_s.png" xmltv_id="[MX]Disney Channel">[MX]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|cartoon-network||mx_cartoon-network_s.png" xmltv_id="[MX]Cartoon Network">[MX]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|discovery-kids||mx_discovery-kids_s.png" xmltv_id="[MX]Discovery Kids">[MX]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|boomerang-cartoon||mx_boomerang-cartoon_s.png" xmltv_id="[MX]Cartoonito">[MX]Cartoonito</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|m-tv||mx_m-tv_s.png" xmltv_id="[MX]MTV">[MX]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|vh1||mx_vh1_s.png" xmltv_id="[MX]VH1">[MX]VH1</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|amc||mx_amc_s.png" xmltv_id="[MX]AMC">[MX]AMC</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|fox-movies||mx_fox-movies_s.png" xmltv_id="[MX]Star Hits">[MX]Star Hits</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|cinemax||mx_cinemax_s.png" xmltv_id="[MX]Cinemax">[MX]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|hbo-oeste||mx_hbo-oeste_s.png" xmltv_id="[MX]HBO">[MX]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|tve||mx_tve_s.png" xmltv_id="[MX]TVE">[MX]TVE</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|cnn-en-espanol||mx_cnn-en-espanol_s.png" xmltv_id="[MX]CNN en Español">[MX]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="mx|##|tlnovelas||mx_tlnovelas_s.png" xmltv_id="[MX]TLNovelas">[MX]TLNovelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|canal-9-snt||snt_s.jpg" xmltv_id="[PY]SNT">[PY]SNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|telefuturo||9ecff249-5118-4973-9daa-b65bb4374b06_s.jpg" xmltv_id="[PY]Telefuturo">[PY]Telefuturo</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|canal-13||rpc_s.jpg" xmltv_id="[PY]RPC">[PY]RPC</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|canal-5-paravision||371a6f49-6c31-46f1-b481-18ef14ada3a0_s.jpg" xmltv_id="[PY]Paravisión">[PY]Paravisión</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|la-tele||latele_s.jpg" xmltv_id="[PY]latele">[PY]latele</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|unicanal||de161b6b-6495-4b7e-976e-df9da84a0409_s.jpg" xmltv_id="[PY]Unicanal">[PY]Unicanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|hei-network||913244c8-1653-4caf-b9dc-71f54f688011_s.jpg" xmltv_id="[PY]HEi Network">[PY]HEi Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|paraguay-tv||f3ace021-a5ae-4c24-9824-309dc2b32fe0_s.jpg" xmltv_id="[PY]Paraguay TV">[PY]Paraguay TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|parana-tv||c9n_s.jpg" xmltv_id="[PY]C9N">[PY]C9N</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|abc-tv||py_abc-tv_s.png" xmltv_id="[PY]ABC TV">[PY]ABC TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|fox||py_fox_s.png" xmltv_id="[PY]Star Channel">[PY]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|hbo||ac61280b-b594-4293-8339-7dac1b102f96_s.jpg" xmltv_id="[PY]HBO">[PY]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|tnt||16009744-3083-4241-953f-82c97482cc05_s.jpg" xmltv_id="[PY]TNT">[PY]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|sony||d6b07c42-8bed-44f8-8e23-004186648c44_s.jpg" xmltv_id="[PY]Sony">[PY]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|axn||co_axn_s.png" xmltv_id="[PY]AXN">[PY]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|golden||a481f7a2-ef96-4434-ad80-768c8ad5626b_s.jpg" xmltv_id="[PY]Golden">[PY]Golden</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|space||249016e9-51b0-44b7-98e3-57dc650faa9d_s.jpg" xmltv_id="[PY]Space">[PY]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|cinecanal||c1bd6db6-fd83-41ba-ab92-1d6151103765_s.jpg" xmltv_id="[PY]Cinecanal">[PY]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|warner-channel||858d79e7-3219-4ed0-93f3-b1857ecd7b86_s.jpg" xmltv_id="[PY]Warner Channel">[PY]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|mtv||eaf2c14c-cfbe-4ab2-8a14-dace018d6ccd_s.jpg" xmltv_id="[PY]MTV">[PY]MTV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|a-e-mundo||981a6b43-1785-42d6-a8e9-f7729f87a99f_s.jpg" xmltv_id="[PY]A&amp;E">[PY]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|discovery||781d4060-8e3d-4329-917d-f9eae248b9c3_s.jpg" xmltv_id="[PY]Discovery Channel">[PY]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|national-geographic||afe86e47-0d4a-41c7-849e-70a8cbf6c5a5_s.jpg" xmltv_id="[PY]National Geographic">[PY]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|history||0fcac614-f1f0-46ce-9cd0-584aefdd0612_s.jpg" xmltv_id="[PY]History">[PY]History</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|animal-planet||1e4b073a-b421-452c-9315-005e1b5b90bf_s.jpg" xmltv_id="[PY]Animal Planet">[PY]Animal Planet</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|fox-sports||83d360c4-3fca-434c-8c42-1de378cb473a_s.jpg" xmltv_id="[PY]FOX Sports">[PY]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|tigo-sports||46c619b1-ace3-4635-b947-f36e4e32e144_s.jpg" xmltv_id="[PY]Tigo Sports">[PY]Tigo Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|tyc-sports||aff3766d-a895-49ed-88c1-aaa7723662d6_s.jpg" xmltv_id="[PY]TyC Sports">[PY]TyC Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|espn||1c33bf12-2fe7-435a-9f7b-82ea3fc9f830_s.jpg" xmltv_id="[PY]ESPN">[PY]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|espn-1||96e36c04-b680-4611-8910-889df1d04dce_s.jpg" xmltv_id="[PY]ESPN 2">[PY]ESPN 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|comedy-central||64394740-56a3-406d-8c58-e616691b607b_s.jpg" xmltv_id="[PY]Comedy Central">[PY]Comedy Central</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|cartoon-network||628cf70b-a991-4c48-adf3-d34f6b82e077_s.jpg" xmltv_id="[PY]Cartoon Network">[PY]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|disney-multicountry||a3c6d1ce-d759-452d-a9b7-623a2e6787d7_s.jpg" xmltv_id="[PY]Disney Channel">[PY]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|discovery-kids||py_discovery-kids_s.png" xmltv_id="[PY]Discovery Kids">[PY]Discovery Kids</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|tooncast||b55c3436-e4cb-49ae-98f3-c4fb321a0d16_s.jpg" xmltv_id="[PY]Tooncast">[PY]Tooncast</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|tlnovelas||2f88a03e-b2b5-4ea0-8ff4-cf048a2cac84_s.jpg" xmltv_id="[PY]TLNovelas">[PY]TLNovelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|caracol-internacional||656358ef-9d6d-4662-9df5-99a50eab19b3_s.jpg" xmltv_id="[PY]Caracol Internacional">[PY]Caracol Internacional</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|telefe-internacional||ee087e31-a99a-4bcd-a2ea-411028f12a48_s.jpg" xmltv_id="[PY]Telefe Internacional">[PY]Telefe Internacional</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|cnn-en-espanol||e6b31ade-cb4f-4986-9afc-eb8d8975faaa_s.jpg" xmltv_id="[PY]CNN en Español">[PY]CNN en Español</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="py|##|russia-today-hd||py_russia-today-hd_s.png" xmltv_id="[PY]Russia Today HD">[PY]Russia Today HD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|america-television||pe_america-television_s.png" xmltv_id="[PE]América Televisión">[PE]América Televisión</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|frecuencia-latina||pe_frecuencia-latina_s.png" xmltv_id="[PE]Latina">[PE]Latina</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|panamericana-tv||pe_panamericana-tv_s.png" xmltv_id="[PE]Panamericana TV">[PE]Panamericana TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|atv||pe_atv_s.png" xmltv_id="[PE]ATV">[PE]ATV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|tv-peru||pe_tv-peru_s.png" xmltv_id="[PE]TV Perú">[PE]TV Perú</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|las-estrellas||las-estrellas-s.png" xmltv_id="[PE]Las Estrellas">[PE]Las Estrellas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|fox||pe_fox_s.png" xmltv_id="[PE]Star Channel">[PE]Star Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|tnt||pe_tnt_s.png" xmltv_id="[PE]TNT">[PE]TNT</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|hbo||pe_hbo_s.png" xmltv_id="[PE]HBO">[PE]HBO</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|sony||pe_sony_s.png" xmltv_id="[PE]Sony">[PE]Sony</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|axn||pe_axn_s.png" xmltv_id="[PE]AXN">[PE]AXN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|warner||pe_warner_s.png" xmltv_id="[PE]Warner Channel">[PE]Warner Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|a-e-mundo||pe_a-e-mundo_s.png" xmltv_id="[PE]A&amp;E">[PE]A&amp;E</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|universal-channel||pe_universal-channel_s.png" xmltv_id="[PE]Universal TV">[PE]Universal TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|space||pe_space_s.png" xmltv_id="[PE]Space">[PE]Space</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|fx||pe_fx_s.png" xmltv_id="[PE]FX">[PE]FX</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|tyc-sports||pe_tyc-sports_s.png" xmltv_id="[PE]TyC Sports">[PE]TyC Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|fox-sports||pe_fox-sports_s.png" xmltv_id="[PE]FOX Sports">[PE]FOX Sports</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|fox-sports-2||pe_fox-sports-2_s.png" xmltv_id="[PE]FOX Sports 2">[PE]FOX Sports 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|fox-sports-3||pe_fox-sports-3_s.png" xmltv_id="[PE]FOX Sports 3">[PE]FOX Sports 3</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|espn||pe_espn_s.png" xmltv_id="[PE]ESPN">[PE]ESPN</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|espn-2||pe_espn-2_s.png" xmltv_id="[PE]ESPN 2">[PE]ESPN 2</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|gol-tv||pe_gol-tv_s.png" xmltv_id="[PE]GOL TV">[PE]GOL TV</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|discovery-channel||pe_discovery-channel_s.png" xmltv_id="[PE]Discovery Channel">[PE]Discovery Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|national-geographic||pe_national-geographic_s.png" xmltv_id="[PE]National Geographic">[PE]National Geographic</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|animal-planet||pe_animal-planet_s.png" xmltv_id="[PE]Animal Planet">[PE]Animal Planet</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|discovery-id||pe_discovery-id_s.png" xmltv_id="[PE]Investigation Discovery">[PE]Investigation Discovery</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|discovery-home-and-health||pe_discovery-home-and-health_s.png" xmltv_id="[PE]Discovery Home &amp; Health">[PE]Discovery Home &amp; Health</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|la-tele||pe_la-tele_s.png" xmltv_id="[PE]La Tele">[PE]La Tele</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|golden||pe_golden_s.png" xmltv_id="[PE]Golden">[PE]Golden</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|golden-edge||pe_golden-edge_s.png" xmltv_id="[PE]Golden Edge">[PE]Golden Edge</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|tlnovelas||pe_tlnovelas_s.png" xmltv_id="[PE]TLNovelas">[PE]TLNovelas</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|cine-latino||pe_cine-latino_s.png" xmltv_id="[PE]Cinelatino">[PE]Cinelatino</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|cinecanal||pe_cinecanal_s.png" xmltv_id="[PE]Cinecanal">[PE]Cinecanal</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|cinemax||pe_cinemax_s.png" xmltv_id="[PE]Cinemax">[PE]Cinemax</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|multipremier||pe_multipremier_s.png" xmltv_id="[PE]Multipremier">[PE]Multipremier</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|disney-multicountry||pe_disney-multicountry_s.png" xmltv_id="[PE]Disney Channel">[PE]Disney Channel</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|disney-xd-multicountry||pe_disney-xd-multicountry_s.png" xmltv_id="[PE]Disney XD">[PE]Disney XD</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|cartoon-network||pe_cartoon-network_s.png" xmltv_id="[PE]Cartoon Network">[PE]Cartoon Network</channel>
+    <channel site="[ENC][EX]mi.tv_1" site_id="pe|##|cnn-en-espanol||pe_cnn-en-espanol_s.png" xmltv_id="[PE]CNN en Español">[PE]CNN en Español</channel>
+  </channels>
+</site>
