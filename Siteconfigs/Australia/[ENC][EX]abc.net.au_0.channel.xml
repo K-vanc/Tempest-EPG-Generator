@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]abc.net.au_0">
+  <channels>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABC1" xmltv_id="[Sydney]ABC1">[Sydney]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABC2" xmltv_id="[Sydney]ABC2">[Sydney]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABC3" xmltv_id="[Sydney]ABC3">[Sydney]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABC4KIDS" xmltv_id="[Sydney]ABC4KIDS">[Sydney]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABCHD" xmltv_id="[Sydney]ABCHD">[Sydney]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ABCN" xmltv_id="[Sydney]ABCN">[Sydney]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|10" xmltv_id="[Sydney]10">[Sydney]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|11" xmltv_id="[Sydney]11">[Sydney]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|7" xmltv_id="[Sydney]7">[Sydney]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|7HD" xmltv_id="[Sydney]7HD">[Sydney]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|7MATE" xmltv_id="[Sydney]7MATE">[Sydney]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|7TWO" xmltv_id="[Sydney]7TWO">[Sydney]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|7flix" xmltv_id="[Sydney]7flix">[Sydney]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|9" xmltv_id="[Sydney]9">[Sydney]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|9HD" xmltv_id="[Sydney]9HD">[Sydney]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|9Life" xmltv_id="[Sydney]9Life">[Sydney]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|9Rush" xmltv_id="[Sydney]9Rush">[Sydney]9Rush</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|GEM" xmltv_id="[Sydney]GEM">[Sydney]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|GO" xmltv_id="[Sydney]GO">[Sydney]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|NITV" xmltv_id="[Sydney]NITV">[Sydney]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|ONE" xmltv_id="[Sydney]ONE">[Sydney]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|RTV" xmltv_id="[Sydney]RTV">[Sydney]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SBS" xmltv_id="[Sydney]SBS">[Sydney]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SBS2" xmltv_id="[Sydney]SBS2">[Sydney]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SBS3" xmltv_id="[Sydney]SBS3">[Sydney]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SBSHD" xmltv_id="[Sydney]SBSHD">[Sydney]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SHAKE" xmltv_id="[Sydney]SHAKE">[Sydney]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|SPREE" xmltv_id="[Sydney]SPREE">[Sydney]SPREE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|TENHD" xmltv_id="[Sydney]TENHD">[Sydney]TENHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|TVSN" xmltv_id="[Sydney]TVSN">[Sydney]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Sydney|##|VICHD" xmltv_id="[Sydney]VICHD">[Sydney]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABC1" xmltv_id="[Melbourne]ABC1">[Melbourne]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABC2" xmltv_id="[Melbourne]ABC2">[Melbourne]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABC3" xmltv_id="[Melbourne]ABC3">[Melbourne]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABC4KIDS" xmltv_id="[Melbourne]ABC4KIDS">[Melbourne]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABCHD" xmltv_id="[Melbourne]ABCHD">[Melbourne]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ABCN" xmltv_id="[Melbourne]ABCN">[Melbourne]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|10" xmltv_id="[Melbourne]10">[Melbourne]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|11" xmltv_id="[Melbourne]11">[Melbourne]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|31" xmltv_id="[Melbourne]31">[Melbourne]31</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|7" xmltv_id="[Melbourne]7">[Melbourne]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|7HD" xmltv_id="[Melbourne]7HD">[Melbourne]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|7MATE" xmltv_id="[Melbourne]7MATE">[Melbourne]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|7TWO" xmltv_id="[Melbourne]7TWO">[Melbourne]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|7flix" xmltv_id="[Melbourne]7flix">[Melbourne]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|9" xmltv_id="[Melbourne]9">[Melbourne]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|9HD" xmltv_id="[Melbourne]9HD">[Melbourne]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|9Life" xmltv_id="[Melbourne]9Life">[Melbourne]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|9Rush" xmltv_id="[Melbourne]9Rush">[Melbourne]9Rush</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|GEM" xmltv_id="[Melbourne]GEM">[Melbourne]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|GO" xmltv_id="[Melbourne]GO">[Melbourne]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|NITV" xmltv_id="[Melbourne]NITV">[Melbourne]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|ONE" xmltv_id="[Melbourne]ONE">[Melbourne]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|RTV" xmltv_id="[Melbourne]RTV">[Melbourne]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SBS" xmltv_id="[Melbourne]SBS">[Melbourne]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SBS2" xmltv_id="[Melbourne]SBS2">[Melbourne]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SBS3" xmltv_id="[Melbourne]SBS3">[Melbourne]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SBSHD" xmltv_id="[Melbourne]SBSHD">[Melbourne]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SHAKE" xmltv_id="[Melbourne]SHAKE">[Melbourne]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|SPREE" xmltv_id="[Melbourne]SPREE">[Melbourne]SPREE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|TENHD" xmltv_id="[Melbourne]TENHD">[Melbourne]TENHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|TVSN" xmltv_id="[Melbourne]TVSN">[Melbourne]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Melbourne|##|VICHD" xmltv_id="[Melbourne]VICHD">[Melbourne]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABC1" xmltv_id="[Brisbane]ABC1">[Brisbane]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABC2" xmltv_id="[Brisbane]ABC2">[Brisbane]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABC3" xmltv_id="[Brisbane]ABC3">[Brisbane]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABC4KIDS" xmltv_id="[Brisbane]ABC4KIDS">[Brisbane]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABCHD" xmltv_id="[Brisbane]ABCHD">[Brisbane]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ABCN" xmltv_id="[Brisbane]ABCN">[Brisbane]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|10" xmltv_id="[Brisbane]10">[Brisbane]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|11" xmltv_id="[Brisbane]11">[Brisbane]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|7" xmltv_id="[Brisbane]7">[Brisbane]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|7HD" xmltv_id="[Brisbane]7HD">[Brisbane]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|7MATE" xmltv_id="[Brisbane]7MATE">[Brisbane]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|7TWO" xmltv_id="[Brisbane]7TWO">[Brisbane]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|7flix" xmltv_id="[Brisbane]7flix">[Brisbane]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|9" xmltv_id="[Brisbane]9">[Brisbane]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|9HD" xmltv_id="[Brisbane]9HD">[Brisbane]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|9Life" xmltv_id="[Brisbane]9Life">[Brisbane]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|9Rush" xmltv_id="[Brisbane]9Rush">[Brisbane]9Rush</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|GEM" xmltv_id="[Brisbane]GEM">[Brisbane]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|GO" xmltv_id="[Brisbane]GO">[Brisbane]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|NITV" xmltv_id="[Brisbane]NITV">[Brisbane]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|ONE" xmltv_id="[Brisbane]ONE">[Brisbane]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|RTV" xmltv_id="[Brisbane]RTV">[Brisbane]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SBS" xmltv_id="[Brisbane]SBS">[Brisbane]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SBS2" xmltv_id="[Brisbane]SBS2">[Brisbane]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SBS3" xmltv_id="[Brisbane]SBS3">[Brisbane]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SBSHD" xmltv_id="[Brisbane]SBSHD">[Brisbane]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SHAKE" xmltv_id="[Brisbane]SHAKE">[Brisbane]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|SPREE" xmltv_id="[Brisbane]SPREE">[Brisbane]SPREE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|TENHD" xmltv_id="[Brisbane]TENHD">[Brisbane]TENHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|TVSN" xmltv_id="[Brisbane]TVSN">[Brisbane]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Brisbane|##|VICHD" xmltv_id="[Brisbane]VICHD">[Brisbane]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABC1" xmltv_id="[GoldCoast]ABC1">[GoldCoast]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABC2" xmltv_id="[GoldCoast]ABC2">[GoldCoast]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABC3" xmltv_id="[GoldCoast]ABC3">[GoldCoast]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABC4KIDS" xmltv_id="[GoldCoast]ABC4KIDS">[GoldCoast]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABCHD" xmltv_id="[GoldCoast]ABCHD">[GoldCoast]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ABCN" xmltv_id="[GoldCoast]ABCN">[GoldCoast]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|10" xmltv_id="[GoldCoast]10">[GoldCoast]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|10Nth" xmltv_id="[GoldCoast]10Nth">[GoldCoast]10Nth</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|11" xmltv_id="[GoldCoast]11">[GoldCoast]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|7" xmltv_id="[GoldCoast]7">[GoldCoast]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|7HD" xmltv_id="[GoldCoast]7HD">[GoldCoast]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|7MATE" xmltv_id="[GoldCoast]7MATE">[GoldCoast]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|7TWO" xmltv_id="[GoldCoast]7TWO">[GoldCoast]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|7flix" xmltv_id="[GoldCoast]7flix">[GoldCoast]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|9" xmltv_id="[GoldCoast]9">[GoldCoast]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|9HD" xmltv_id="[GoldCoast]9HD">[GoldCoast]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|9Life" xmltv_id="[GoldCoast]9Life">[GoldCoast]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|GEM" xmltv_id="[GoldCoast]GEM">[GoldCoast]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|GO" xmltv_id="[GoldCoast]GO">[GoldCoast]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|NBN" xmltv_id="[GoldCoast]NBN">[GoldCoast]NBN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|NITV" xmltv_id="[GoldCoast]NITV">[GoldCoast]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|ONE" xmltv_id="[GoldCoast]ONE">[GoldCoast]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|Prime" xmltv_id="[GoldCoast]Prime">[GoldCoast]Prime</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|RTV" xmltv_id="[GoldCoast]RTV">[GoldCoast]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SBS" xmltv_id="[GoldCoast]SBS">[GoldCoast]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SBS2" xmltv_id="[GoldCoast]SBS2">[GoldCoast]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SBS3" xmltv_id="[GoldCoast]SBS3">[GoldCoast]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SBSHD" xmltv_id="[GoldCoast]SBSHD">[GoldCoast]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SHAKE" xmltv_id="[GoldCoast]SHAKE">[GoldCoast]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|SNR" xmltv_id="[GoldCoast]SNR">[GoldCoast]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|TVSN" xmltv_id="[GoldCoast]TVSN">[GoldCoast]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="GoldCoast|##|VICHD" xmltv_id="[GoldCoast]VICHD">[GoldCoast]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABC1" xmltv_id="[Perth]ABC1">[Perth]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABC2" xmltv_id="[Perth]ABC2">[Perth]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABC3" xmltv_id="[Perth]ABC3">[Perth]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABC4KIDS" xmltv_id="[Perth]ABC4KIDS">[Perth]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABCHD" xmltv_id="[Perth]ABCHD">[Perth]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ABCN" xmltv_id="[Perth]ABCN">[Perth]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|10" xmltv_id="[Perth]10">[Perth]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|11" xmltv_id="[Perth]11">[Perth]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|7" xmltv_id="[Perth]7">[Perth]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|7HD" xmltv_id="[Perth]7HD">[Perth]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|7MATE" xmltv_id="[Perth]7MATE">[Perth]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|7TWO" xmltv_id="[Perth]7TWO">[Perth]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|7flix" xmltv_id="[Perth]7flix">[Perth]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|9" xmltv_id="[Perth]9">[Perth]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|9HD" xmltv_id="[Perth]9HD">[Perth]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|9Life" xmltv_id="[Perth]9Life">[Perth]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|9Rush" xmltv_id="[Perth]9Rush">[Perth]9Rush</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|GEM" xmltv_id="[Perth]GEM">[Perth]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|GO" xmltv_id="[Perth]GO">[Perth]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|NITV" xmltv_id="[Perth]NITV">[Perth]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|ONE" xmltv_id="[Perth]ONE">[Perth]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|RTV" xmltv_id="[Perth]RTV">[Perth]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SBS" xmltv_id="[Perth]SBS">[Perth]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SBS2" xmltv_id="[Perth]SBS2">[Perth]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SBS3" xmltv_id="[Perth]SBS3">[Perth]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SBSHD" xmltv_id="[Perth]SBSHD">[Perth]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SHAKE" xmltv_id="[Perth]SHAKE">[Perth]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|SPREE" xmltv_id="[Perth]SPREE">[Perth]SPREE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|TENHD" xmltv_id="[Perth]TENHD">[Perth]TENHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|TVSN" xmltv_id="[Perth]TVSN">[Perth]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Perth|##|VICHD" xmltv_id="[Perth]VICHD">[Perth]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABC1" xmltv_id="[Adelaide]ABC1">[Adelaide]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABC2" xmltv_id="[Adelaide]ABC2">[Adelaide]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABC3" xmltv_id="[Adelaide]ABC3">[Adelaide]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABC4KIDS" xmltv_id="[Adelaide]ABC4KIDS">[Adelaide]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABCHD" xmltv_id="[Adelaide]ABCHD">[Adelaide]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ABCN" xmltv_id="[Adelaide]ABCN">[Adelaide]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|10" xmltv_id="[Adelaide]10">[Adelaide]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|11" xmltv_id="[Adelaide]11">[Adelaide]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|44" xmltv_id="[Adelaide]44">[Adelaide]44</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|7" xmltv_id="[Adelaide]7">[Adelaide]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|7HD" xmltv_id="[Adelaide]7HD">[Adelaide]7HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|7MATE" xmltv_id="[Adelaide]7MATE">[Adelaide]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|7TWO" xmltv_id="[Adelaide]7TWO">[Adelaide]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|7flix" xmltv_id="[Adelaide]7flix">[Adelaide]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|9" xmltv_id="[Adelaide]9">[Adelaide]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|9HD" xmltv_id="[Adelaide]9HD">[Adelaide]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|9Life" xmltv_id="[Adelaide]9Life">[Adelaide]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|9Rush" xmltv_id="[Adelaide]9Rush">[Adelaide]9Rush</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|GEM" xmltv_id="[Adelaide]GEM">[Adelaide]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|GO" xmltv_id="[Adelaide]GO">[Adelaide]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|NITV" xmltv_id="[Adelaide]NITV">[Adelaide]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|ONE" xmltv_id="[Adelaide]ONE">[Adelaide]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|RTV" xmltv_id="[Adelaide]RTV">[Adelaide]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SBS" xmltv_id="[Adelaide]SBS">[Adelaide]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SBS2" xmltv_id="[Adelaide]SBS2">[Adelaide]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SBS3" xmltv_id="[Adelaide]SBS3">[Adelaide]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SBSHD" xmltv_id="[Adelaide]SBSHD">[Adelaide]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SHAKE" xmltv_id="[Adelaide]SHAKE">[Adelaide]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|SPREE" xmltv_id="[Adelaide]SPREE">[Adelaide]SPREE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|TENHD" xmltv_id="[Adelaide]TENHD">[Adelaide]TENHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|TVSN" xmltv_id="[Adelaide]TVSN">[Adelaide]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Adelaide|##|VICHD" xmltv_id="[Adelaide]VICHD">[Adelaide]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABC1" xmltv_id="[Hobart]ABC1">[Hobart]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABC2" xmltv_id="[Hobart]ABC2">[Hobart]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABC3" xmltv_id="[Hobart]ABC3">[Hobart]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABC4KIDS" xmltv_id="[Hobart]ABC4KIDS">[Hobart]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABCHD" xmltv_id="[Hobart]ABCHD">[Hobart]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ABCN" xmltv_id="[Hobart]ABCN">[Hobart]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|11" xmltv_id="[Hobart]11">[Hobart]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|7MATE" xmltv_id="[Hobart]7MATE">[Hobart]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|7TWO" xmltv_id="[Hobart]7TWO">[Hobart]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|9Life" xmltv_id="[Hobart]9Life">[Hobart]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|GEM" xmltv_id="[Hobart]GEM">[Hobart]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|GO" xmltv_id="[Hobart]GO">[Hobart]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|NITV" xmltv_id="[Hobart]NITV">[Hobart]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|ONE" xmltv_id="[Hobart]ONE">[Hobart]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|RTV" xmltv_id="[Hobart]RTV">[Hobart]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SBS" xmltv_id="[Hobart]SBS">[Hobart]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SBS2" xmltv_id="[Hobart]SBS2">[Hobart]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SBS3" xmltv_id="[Hobart]SBS3">[Hobart]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SBSHD" xmltv_id="[Hobart]SBSHD">[Hobart]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SC" xmltv_id="[Hobart]SC">[Hobart]SC</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SCA9" xmltv_id="[Hobart]SCA9">[Hobart]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SCHD" xmltv_id="[Hobart]SCHD">[Hobart]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SHAKE" xmltv_id="[Hobart]SHAKE">[Hobart]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|SHD7" xmltv_id="[Hobart]SHD7">[Hobart]SHD7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|TDHD" xmltv_id="[Hobart]TDHD">[Hobart]TDHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|TDT" xmltv_id="[Hobart]TDT">[Hobart]TDT</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|TVSN" xmltv_id="[Hobart]TVSN">[Hobart]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|VICHD" xmltv_id="[Hobart]VICHD">[Hobart]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|WIN" xmltv_id="[Hobart]WIN">[Hobart]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Hobart|##|WINHD" xmltv_id="[Hobart]WINHD">[Hobart]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABC1" xmltv_id="[Darwin]ABC1">[Darwin]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABC2" xmltv_id="[Darwin]ABC2">[Darwin]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABC3" xmltv_id="[Darwin]ABC3">[Darwin]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABC4KIDS" xmltv_id="[Darwin]ABC4KIDS">[Darwin]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABCHD" xmltv_id="[Darwin]ABCHD">[Darwin]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ABCN" xmltv_id="[Darwin]ABCN">[Darwin]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|11" xmltv_id="[Darwin]11">[Darwin]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|7MATE" xmltv_id="[Darwin]7MATE">[Darwin]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|7TWO" xmltv_id="[Darwin]7TWO">[Darwin]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|9" xmltv_id="[Darwin]9">[Darwin]9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|9HD" xmltv_id="[Darwin]9HD">[Darwin]9HD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|9Life" xmltv_id="[Darwin]9Life">[Darwin]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ASPIR" xmltv_id="[Darwin]ASPIR">[Darwin]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|DDT" xmltv_id="[Darwin]DDT">[Darwin]DDT</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|GEM" xmltv_id="[Darwin]GEM">[Darwin]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|GO" xmltv_id="[Darwin]GO">[Darwin]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|NITV" xmltv_id="[Darwin]NITV">[Darwin]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|ONE" xmltv_id="[Darwin]ONE">[Darwin]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|RTV" xmltv_id="[Darwin]RTV">[Darwin]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|SBS" xmltv_id="[Darwin]SBS">[Darwin]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|SBS2" xmltv_id="[Darwin]SBS2">[Darwin]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|SBS3" xmltv_id="[Darwin]SBS3">[Darwin]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|SBSHD" xmltv_id="[Darwin]SBSHD">[Darwin]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|SC" xmltv_id="[Darwin]SC">[Darwin]SC</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Darwin|##|VICHD" xmltv_id="[Darwin]VICHD">[Darwin]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABC1" xmltv_id="[Canberra]ABC1">[Canberra]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABC2" xmltv_id="[Canberra]ABC2">[Canberra]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABC3" xmltv_id="[Canberra]ABC3">[Canberra]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABC4KIDS" xmltv_id="[Canberra]ABC4KIDS">[Canberra]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABCHD" xmltv_id="[Canberra]ABCHD">[Canberra]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ABCN" xmltv_id="[Canberra]ABCN">[Canberra]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|11" xmltv_id="[Canberra]11">[Canberra]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|7MATE" xmltv_id="[Canberra]7MATE">[Canberra]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|7TWO" xmltv_id="[Canberra]7TWO">[Canberra]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|7flix" xmltv_id="[Canberra]7flix">[Canberra]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|9Life" xmltv_id="[Canberra]9Life">[Canberra]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ASPIR" xmltv_id="[Canberra]ASPIR">[Canberra]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|GEM" xmltv_id="[Canberra]GEM">[Canberra]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|GO" xmltv_id="[Canberra]GO">[Canberra]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|NITV" xmltv_id="[Canberra]NITV">[Canberra]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|ONE" xmltv_id="[Canberra]ONE">[Canberra]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|PrimS" xmltv_id="[Canberra]PrimS">[Canberra]PrimS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|RTV" xmltv_id="[Canberra]RTV">[Canberra]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SBS" xmltv_id="[Canberra]SBS">[Canberra]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SBS2" xmltv_id="[Canberra]SBS2">[Canberra]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SBS3" xmltv_id="[Canberra]SBS3">[Canberra]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SBSHD" xmltv_id="[Canberra]SBSHD">[Canberra]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SCA9" xmltv_id="[Canberra]SCA9">[Canberra]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SCHD" xmltv_id="[Canberra]SCHD">[Canberra]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SHAKE" xmltv_id="[Canberra]SHAKE">[Canberra]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|SNR" xmltv_id="[Canberra]SNR">[Canberra]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|TVSN" xmltv_id="[Canberra]TVSN">[Canberra]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|VICHD" xmltv_id="[Canberra]VICHD">[Canberra]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|WIN" xmltv_id="[Canberra]WIN">[Canberra]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Canberra|##|WINHD" xmltv_id="[Canberra]WINHD">[Canberra]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABC1" xmltv_id="[New South Wales]ABC1">[New South Wales]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABC2" xmltv_id="[New South Wales]ABC2">[New South Wales]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABC3" xmltv_id="[New South Wales]ABC3">[New South Wales]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABC4KIDS" xmltv_id="[New South Wales]ABC4KIDS">[New South Wales]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABCHD" xmltv_id="[New South Wales]ABCHD">[New South Wales]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ABCN" xmltv_id="[New South Wales]ABCN">[New South Wales]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|10Nth" xmltv_id="[New South Wales]10Nth">[New South Wales]10Nth</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|11" xmltv_id="[New South Wales]11">[New South Wales]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|7" xmltv_id="[New South Wales]7">[New South Wales]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|7GTS" xmltv_id="[New South Wales]7GTS">[New South Wales]7GTS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|7MATE" xmltv_id="[New South Wales]7MATE">[New South Wales]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|7TWO" xmltv_id="[New South Wales]7TWO">[New South Wales]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|7flix" xmltv_id="[New South Wales]7flix">[New South Wales]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|9Life" xmltv_id="[New South Wales]9Life">[New South Wales]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ASPIR" xmltv_id="[New South Wales]ASPIR">[New South Wales]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|GEM" xmltv_id="[New South Wales]GEM">[New South Wales]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|GO" xmltv_id="[New South Wales]GO">[New South Wales]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|Imp" xmltv_id="[New South Wales]Imp">[New South Wales]Imp</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|NBN" xmltv_id="[New South Wales]NBN">[New South Wales]NBN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|NITV" xmltv_id="[New South Wales]NITV">[New South Wales]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|ONE" xmltv_id="[New South Wales]ONE">[New South Wales]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|PrimN" xmltv_id="[New South Wales]PrimN">[New South Wales]PrimN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|PrimS" xmltv_id="[New South Wales]PrimS">[New South Wales]PrimS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|RTV" xmltv_id="[New South Wales]RTV">[New South Wales]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SBS" xmltv_id="[New South Wales]SBS">[New South Wales]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SBS2" xmltv_id="[New South Wales]SBS2">[New South Wales]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SBS3" xmltv_id="[New South Wales]SBS3">[New South Wales]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SBSHD" xmltv_id="[New South Wales]SBSHD">[New South Wales]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SCA9" xmltv_id="[New South Wales]SCA9">[New South Wales]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SCHD" xmltv_id="[New South Wales]SCHD">[New South Wales]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|SNR" xmltv_id="[New South Wales]SNR">[New South Wales]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|TVSN" xmltv_id="[New South Wales]TVSN">[New South Wales]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|VICHD" xmltv_id="[New South Wales]VICHD">[New South Wales]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|WIN" xmltv_id="[New South Wales]WIN">[New South Wales]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="New South Wales|##|WINHD" xmltv_id="[New South Wales]WINHD">[New South Wales]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABC1" xmltv_id="[Victoria]ABC1">[Victoria]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABC2" xmltv_id="[Victoria]ABC2">[Victoria]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABC3" xmltv_id="[Victoria]ABC3">[Victoria]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABC4KIDS" xmltv_id="[Victoria]ABC4KIDS">[Victoria]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABCHD" xmltv_id="[Victoria]ABCHD">[Victoria]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ABCN" xmltv_id="[Victoria]ABCN">[Victoria]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|10" xmltv_id="[Victoria]10">[Victoria]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|11" xmltv_id="[Victoria]11">[Victoria]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|7MATE" xmltv_id="[Victoria]7MATE">[Victoria]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|7TWO" xmltv_id="[Victoria]7TWO">[Victoria]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|7flix" xmltv_id="[Victoria]7flix">[Victoria]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|9Life" xmltv_id="[Victoria]9Life">[Victoria]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ASPIR" xmltv_id="[Victoria]ASPIR">[Victoria]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|GEM" xmltv_id="[Victoria]GEM">[Victoria]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|GO" xmltv_id="[Victoria]GO">[Victoria]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|NITV" xmltv_id="[Victoria]NITV">[Victoria]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|ONE" xmltv_id="[Victoria]ONE">[Victoria]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|Prime" xmltv_id="[Victoria]Prime">[Victoria]Prime</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|RTV" xmltv_id="[Victoria]RTV">[Victoria]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SBS" xmltv_id="[Victoria]SBS">[Victoria]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SBS2" xmltv_id="[Victoria]SBS2">[Victoria]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SBS3" xmltv_id="[Victoria]SBS3">[Victoria]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SBSHD" xmltv_id="[Victoria]SBSHD">[Victoria]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SCA9" xmltv_id="[Victoria]SCA9">[Victoria]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SCHD" xmltv_id="[Victoria]SCHD">[Victoria]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SHAKE" xmltv_id="[Victoria]SHAKE">[Victoria]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|SNR" xmltv_id="[Victoria]SNR">[Victoria]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|TVSN" xmltv_id="[Victoria]TVSN">[Victoria]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|VICHD" xmltv_id="[Victoria]VICHD">[Victoria]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|WIN" xmltv_id="[Victoria]WIN">[Victoria]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|WINHD" xmltv_id="[Victoria]WINHD">[Victoria]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Victoria|##|WinSA" xmltv_id="[Victoria]WinSA">[Victoria]WinSA</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABC1" xmltv_id="[Townsville]ABC1">[Townsville]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABC2" xmltv_id="[Townsville]ABC2">[Townsville]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABC3" xmltv_id="[Townsville]ABC3">[Townsville]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABC4KIDS" xmltv_id="[Townsville]ABC4KIDS">[Townsville]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABCHD" xmltv_id="[Townsville]ABCHD">[Townsville]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ABCN" xmltv_id="[Townsville]ABCN">[Townsville]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|10" xmltv_id="[Townsville]10">[Townsville]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|11" xmltv_id="[Townsville]11">[Townsville]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|7" xmltv_id="[Townsville]7">[Townsville]7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|7MATE" xmltv_id="[Townsville]7MATE">[Townsville]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|7TWO" xmltv_id="[Townsville]7TWO">[Townsville]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|7flix" xmltv_id="[Townsville]7flix">[Townsville]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|9Life" xmltv_id="[Townsville]9Life">[Townsville]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|GEM" xmltv_id="[Townsville]GEM">[Townsville]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|GO" xmltv_id="[Townsville]GO">[Townsville]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|NITV" xmltv_id="[Townsville]NITV">[Townsville]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|ONE" xmltv_id="[Townsville]ONE">[Townsville]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|RTV" xmltv_id="[Townsville]RTV">[Townsville]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SBS" xmltv_id="[Townsville]SBS">[Townsville]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SBS2" xmltv_id="[Townsville]SBS2">[Townsville]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SBS3" xmltv_id="[Townsville]SBS3">[Townsville]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SBSHD" xmltv_id="[Townsville]SBSHD">[Townsville]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SCA9" xmltv_id="[Townsville]SCA9">[Townsville]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SCHD" xmltv_id="[Townsville]SCHD">[Townsville]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|SHAKE" xmltv_id="[Townsville]SHAKE">[Townsville]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|TVSN" xmltv_id="[Townsville]TVSN">[Townsville]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|VICHD" xmltv_id="[Townsville]VICHD">[Townsville]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|WIN" xmltv_id="[Townsville]WIN">[Townsville]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Townsville|##|WINHD" xmltv_id="[Townsville]WINHD">[Townsville]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABC1" xmltv_id="[Queensland]ABC1">[Queensland]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABC2" xmltv_id="[Queensland]ABC2">[Queensland]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABC3" xmltv_id="[Queensland]ABC3">[Queensland]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABC4KIDS" xmltv_id="[Queensland]ABC4KIDS">[Queensland]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABCHD" xmltv_id="[Queensland]ABCHD">[Queensland]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ABCN" xmltv_id="[Queensland]ABCN">[Queensland]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|10" xmltv_id="[Queensland]10">[Queensland]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|11" xmltv_id="[Queensland]11">[Queensland]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7C" xmltv_id="[Queensland]7C">[Queensland]7C</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7MATE" xmltv_id="[Queensland]7MATE">[Queensland]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7QLD" xmltv_id="[Queensland]7QLD">[Queensland]7QLD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7TWO" xmltv_id="[Queensland]7TWO">[Queensland]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7TWOQ" xmltv_id="[Queensland]7TWOQ">[Queensland]7TWOQ</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|7flix" xmltv_id="[Queensland]7flix">[Queensland]7flix</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|9Life" xmltv_id="[Queensland]9Life">[Queensland]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ASPIR" xmltv_id="[Queensland]ASPIR">[Queensland]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|GEM" xmltv_id="[Queensland]GEM">[Queensland]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|GO" xmltv_id="[Queensland]GO">[Queensland]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|Imp" xmltv_id="[Queensland]Imp">[Queensland]Imp</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|NITV" xmltv_id="[Queensland]NITV">[Queensland]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|ONE" xmltv_id="[Queensland]ONE">[Queensland]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|RTV" xmltv_id="[Queensland]RTV">[Queensland]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SBS" xmltv_id="[Queensland]SBS">[Queensland]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SBS2" xmltv_id="[Queensland]SBS2">[Queensland]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SBS3" xmltv_id="[Queensland]SBS3">[Queensland]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SBSHD" xmltv_id="[Queensland]SBSHD">[Queensland]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SCA9" xmltv_id="[Queensland]SCA9">[Queensland]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SCHD" xmltv_id="[Queensland]SCHD">[Queensland]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SHAKE" xmltv_id="[Queensland]SHAKE">[Queensland]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|SNR" xmltv_id="[Queensland]SNR">[Queensland]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|TVSN" xmltv_id="[Queensland]TVSN">[Queensland]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|VICHD" xmltv_id="[Queensland]VICHD">[Queensland]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|WIN" xmltv_id="[Queensland]WIN">[Queensland]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Queensland|##|WINHD" xmltv_id="[Queensland]WINHD">[Queensland]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABC1" xmltv_id="[Western Australia]ABC1">[Western Australia]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABC2" xmltv_id="[Western Australia]ABC2">[Western Australia]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABC3" xmltv_id="[Western Australia]ABC3">[Western Australia]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABC4KIDS" xmltv_id="[Western Australia]ABC4KIDS">[Western Australia]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABCHD" xmltv_id="[Western Australia]ABCHD">[Western Australia]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ABCN" xmltv_id="[Western Australia]ABCN">[Western Australia]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|10" xmltv_id="[Western Australia]10">[Western Australia]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|11" xmltv_id="[Western Australia]11">[Western Australia]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|7MATE" xmltv_id="[Western Australia]7MATE">[Western Australia]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|7TWO" xmltv_id="[Western Australia]7TWO">[Western Australia]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|9Life" xmltv_id="[Western Australia]9Life">[Western Australia]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|GEM" xmltv_id="[Western Australia]GEM">[Western Australia]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|GO" xmltv_id="[Western Australia]GO">[Western Australia]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|GWN" xmltv_id="[Western Australia]GWN">[Western Australia]GWN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|NITV" xmltv_id="[Western Australia]NITV">[Western Australia]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|ONE" xmltv_id="[Western Australia]ONE">[Western Australia]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|RTV" xmltv_id="[Western Australia]RTV">[Western Australia]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|SBS" xmltv_id="[Western Australia]SBS">[Western Australia]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|SBS2" xmltv_id="[Western Australia]SBS2">[Western Australia]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|SBS3" xmltv_id="[Western Australia]SBS3">[Western Australia]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|SBSHD" xmltv_id="[Western Australia]SBSHD">[Western Australia]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|VICHD" xmltv_id="[Western Australia]VICHD">[Western Australia]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|WDT" xmltv_id="[Western Australia]WDT">[Western Australia]WDT</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|WIN" xmltv_id="[Western Australia]WIN">[Western Australia]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Western Australia|##|WINHD" xmltv_id="[Western Australia]WINHD">[Western Australia]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABC1" xmltv_id="[South Australia]ABC1">[South Australia]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABC2" xmltv_id="[South Australia]ABC2">[South Australia]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABC3" xmltv_id="[South Australia]ABC3">[South Australia]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABC4KIDS" xmltv_id="[South Australia]ABC4KIDS">[South Australia]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABCHD" xmltv_id="[South Australia]ABCHD">[South Australia]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ABCN" xmltv_id="[South Australia]ABCN">[South Australia]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|10" xmltv_id="[South Australia]10">[South Australia]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|11" xmltv_id="[South Australia]11">[South Australia]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|7C" xmltv_id="[South Australia]7C">[South Australia]7C</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|7GTS" xmltv_id="[South Australia]7GTS">[South Australia]7GTS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|7MATE" xmltv_id="[South Australia]7MATE">[South Australia]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|7TWO" xmltv_id="[South Australia]7TWO">[South Australia]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|9Life" xmltv_id="[South Australia]9Life">[South Australia]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ASPIR" xmltv_id="[South Australia]ASPIR">[South Australia]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|GEM" xmltv_id="[South Australia]GEM">[South Australia]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|GO" xmltv_id="[South Australia]GO">[South Australia]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|Imp" xmltv_id="[South Australia]Imp">[South Australia]Imp</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|NITV" xmltv_id="[South Australia]NITV">[South Australia]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|ONE" xmltv_id="[South Australia]ONE">[South Australia]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|RTV" xmltv_id="[South Australia]RTV">[South Australia]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SBS" xmltv_id="[South Australia]SBS">[South Australia]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SBS2" xmltv_id="[South Australia]SBS2">[South Australia]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SBS3" xmltv_id="[South Australia]SBS3">[South Australia]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SBSHD" xmltv_id="[South Australia]SBSHD">[South Australia]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SC9" xmltv_id="[South Australia]SC9">[South Australia]SC9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|SNR" xmltv_id="[South Australia]SNR">[South Australia]SNR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|VICHD" xmltv_id="[South Australia]VICHD">[South Australia]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|WIN" xmltv_id="[South Australia]WIN">[South Australia]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|WIN10" xmltv_id="[South Australia]WIN10">[South Australia]WIN10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|WIN9" xmltv_id="[South Australia]WIN9">[South Australia]WIN9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="South Australia|##|WINHD" xmltv_id="[South Australia]WINHD">[South Australia]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABC1" xmltv_id="[Tasmania]ABC1">[Tasmania]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABC2" xmltv_id="[Tasmania]ABC2">[Tasmania]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABC3" xmltv_id="[Tasmania]ABC3">[Tasmania]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABC4KIDS" xmltv_id="[Tasmania]ABC4KIDS">[Tasmania]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABCHD" xmltv_id="[Tasmania]ABCHD">[Tasmania]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ABCN" xmltv_id="[Tasmania]ABCN">[Tasmania]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|11" xmltv_id="[Tasmania]11">[Tasmania]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|7MATE" xmltv_id="[Tasmania]7MATE">[Tasmania]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|7TWO" xmltv_id="[Tasmania]7TWO">[Tasmania]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|9Life" xmltv_id="[Tasmania]9Life">[Tasmania]9Life</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ASPIR" xmltv_id="[Tasmania]ASPIR">[Tasmania]ASPIR</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|GEM" xmltv_id="[Tasmania]GEM">[Tasmania]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|GO" xmltv_id="[Tasmania]GO">[Tasmania]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|NITV" xmltv_id="[Tasmania]NITV">[Tasmania]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|ONE" xmltv_id="[Tasmania]ONE">[Tasmania]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|RTV" xmltv_id="[Tasmania]RTV">[Tasmania]RTV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SBS" xmltv_id="[Tasmania]SBS">[Tasmania]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SBS2" xmltv_id="[Tasmania]SBS2">[Tasmania]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SBS3" xmltv_id="[Tasmania]SBS3">[Tasmania]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SBSHD" xmltv_id="[Tasmania]SBSHD">[Tasmania]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SC" xmltv_id="[Tasmania]SC">[Tasmania]SC</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SCA9" xmltv_id="[Tasmania]SCA9">[Tasmania]SCA9</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SCHD" xmltv_id="[Tasmania]SCHD">[Tasmania]SCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SHAKE" xmltv_id="[Tasmania]SHAKE">[Tasmania]SHAKE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|SHD7" xmltv_id="[Tasmania]SHD7">[Tasmania]SHD7</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|TDHD" xmltv_id="[Tasmania]TDHD">[Tasmania]TDHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|TDT" xmltv_id="[Tasmania]TDT">[Tasmania]TDT</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|TVSN" xmltv_id="[Tasmania]TVSN">[Tasmania]TVSN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|VICHD" xmltv_id="[Tasmania]VICHD">[Tasmania]VICHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|WIN" xmltv_id="[Tasmania]WIN">[Tasmania]WIN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Tasmania|##|WINHD" xmltv_id="[Tasmania]WINHD">[Tasmania]WINHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABC1" xmltv_id="[Northern Territory]ABC1">[Northern Territory]ABC1</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABC2" xmltv_id="[Northern Territory]ABC2">[Northern Territory]ABC2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABC3" xmltv_id="[Northern Territory]ABC3">[Northern Territory]ABC3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABC4KIDS" xmltv_id="[Northern Territory]ABC4KIDS">[Northern Territory]ABC4KIDS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABCHD" xmltv_id="[Northern Territory]ABCHD">[Northern Territory]ABCHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ABCN" xmltv_id="[Northern Territory]ABCN">[Northern Territory]ABCN</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|10" xmltv_id="[Northern Territory]10">[Northern Territory]10</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|11" xmltv_id="[Northern Territory]11">[Northern Territory]11</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|7C" xmltv_id="[Northern Territory]7C">[Northern Territory]7C</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|7MATE" xmltv_id="[Northern Territory]7MATE">[Northern Territory]7MATE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|7TWO" xmltv_id="[Northern Territory]7TWO">[Northern Territory]7TWO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|GEM" xmltv_id="[Northern Territory]GEM">[Northern Territory]GEM</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|GO" xmltv_id="[Northern Territory]GO">[Northern Territory]GO</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|Imp" xmltv_id="[Northern Territory]Imp">[Northern Territory]Imp</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|NITV" xmltv_id="[Northern Territory]NITV">[Northern Territory]NITV</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|ONE" xmltv_id="[Northern Territory]ONE">[Northern Territory]ONE</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|SBS" xmltv_id="[Northern Territory]SBS">[Northern Territory]SBS</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|SBS2" xmltv_id="[Northern Territory]SBS2">[Northern Territory]SBS2</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|SBS3" xmltv_id="[Northern Territory]SBS3">[Northern Territory]SBS3</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|SBSHD" xmltv_id="[Northern Territory]SBSHD">[Northern Territory]SBSHD</channel>
+    <channel site="[ENC][EX]abc.net.au_0" site_id="Northern Territory|##|VICHD" xmltv_id="[Northern Territory]VICHD">[Northern Territory]VICHD</channel>
+  </channels>
+</site>
