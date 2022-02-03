@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="aztv.az_0">
+  <channels>
+    <channel site="aztv.az_0" site_id="aztv||September2019/23bMtFJXZsjnUuC0AwiQ" xmltv_id="Az Tv">Az Tv</channel>
+    <channel site="aztv.az_0" site_id="medeniyyettv||September2019/RDRVyTmdeB1NvyNm4UnF" xmltv_id="Medeniyyet Tv">Medeniyyet Tv</channel>
+    <channel site="aztv.az_0" site_id="idmantv||October2019/rbyweoRZLrnCvpc3qp9q" xmltv_id="Idman Tv">Idman Tv</channel>
+  </channels>
+</site>
