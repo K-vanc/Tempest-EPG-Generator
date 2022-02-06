@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvsporedi.si_0">
+  <channels>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Arena%20Sport%201||https://tvsporedi.si/logos/ars1.png" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Arena%20Sport%202||https://tvsporedi.si/logos/ars2.png" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Arena%20Sport%203||https://itm.siol.net/pic/tv-spored/thumb/discovery.gif" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Arena%20Sport%204||https://itm.siol.net/pic/tv-spored/thumb/discovery.gif" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Brio||https://tvsporedi.si/logos/pop-nonstop-brio.gif" xmltv_id="Brio">Brio</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Brio%20HD||https://tvsporedi.si/logos/brio-hd.gif" xmltv_id="Brio HD">Brio HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Gold%20TV||https://tvsporedi.si/logos/gold.png" xmltv_id="Gold TV">Gold TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Kanal%20A||https://tvsporedi.si/logos/akanal.gif" xmltv_id="Kanal A">Kanal A</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Kanal%20A%20HD||https://tvsporedi.si/logos/kanal-a-hd.gif" xmltv_id="Kanal A HD">Kanal A HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Kino||https://tvsporedi.si/logos/pop-nonstop-kino.gif" xmltv_id="Kino">Kino</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Kino%20HD||https://tvsporedi.si/logos/kino-hd.gif" xmltv_id="Kino HD">Kino HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Minimax||https://tvsporedi.si/logos/minimax.gif" xmltv_id="Minimax">Minimax</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MMC%20TV||https://tvsporedi.si/logos/mmc.png" xmltv_id="MMC TV">MMC TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Adria||https://tvsporedi.si/logos/Mtv_adria_logo.jpg" xmltv_id="MTV Adria">MTV Adria</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Net%20TV||https://tvsporedi.si/logos/net-tv.gif" xmltv_id="Net TV">Net TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Nova24TV%20HD||https://tvsporedi.si/logos/no24.gif" xmltv_id="Nova24TV HD">Nova24TV HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Oto||https://tvsporedi.si/logos/pop-nonstop-oto.gif" xmltv_id="Oto">Oto</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=OTO%20HD||https://tvsporedi.si/logos/oto-hd.gif" xmltv_id="OTO HD">OTO HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Planet%202%20HD||https://tvsporedi.si/logos/pla2.gif" xmltv_id="Planet 2 HD">Planet 2 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Planet%20Eva%20HD||https://tvsporedi.si/logos/plap.gif" xmltv_id="Planet Eva HD">Planet Eva HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Planet%20TV||https://tvsporedi.si/logos/pltv.gif" xmltv_id="Planet TV">Planet TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Planet%20TV%20HD||https://tvsporedi.si/logos/pltv.gif" xmltv_id="Planet TV HD">Planet TV HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=POP%20HD||https://tvsporedi.si/logos/pop-hd.gif" xmltv_id="POP HD">POP HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=POP%20TV||https://tvsporedi.si/logos/poptv.gif" xmltv_id="POP TV">POP TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%201||https://tvsporedi.si/logos/sk1.png" xmltv_id="SK 1">SK 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%201%20HD||https://tvsporedi.si/logos/sk1.png" xmltv_id="SK 1 HD">SK 1 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%202||https://tvsporedi.si/logos/sk2.png" xmltv_id="SK 2">SK 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%202%20HD||https://tvsporedi.si/logos/sk2.png" xmltv_id="SK 2 HD">SK 2 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%203||https://tvsporedi.si/logos/sk3.png" xmltv_id="SK 3">SK 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%203%20HD||https://tvsporedi.si/logos/sk3.png" xmltv_id="SK 3 HD">SK 3 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%204||https://tvsporedi.si/logos/sk4.png" xmltv_id="SK 4">SK 4</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%204K||https://tvsporedi.si/logos/sk4k.png" xmltv_id="SK 4K">SK 4K</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%205||https://tvsporedi.si/logos/sk5.png" xmltv_id="SK 5">SK 5</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%206||https://tvsporedi.si/logos/sk6.png" xmltv_id="SK 6">SK 6</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%20Golf||https://tvsporedi.si/logos/sk-golf.png" xmltv_id="SK Golf">SK Golf</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%20Golf%20HD||https://tvsporedi.si/logos/sk-golf.png" xmltv_id="SK Golf HD">SK Golf HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SK%20HD||https://tvsporedi.si/logos/skhd.png" xmltv_id="SK HD">SK HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SLO%201||https://tvsporedi.si/logos/slo1.gif" xmltv_id="SLO 1">SLO 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SLO%202||https://tvsporedi.si/logos/slo2.gif" xmltv_id="SLO 2">SLO 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SLO%203||https://tvsporedi.si/logos/tvslo3-logo.gif" xmltv_id="SLO 3">SLO 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Šport%20TV1||https://tvsporedi.si/logos/spt1.gif" xmltv_id="Šport TV1">Šport TV1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Šport%20TV2||https://tvsporedi.si/logos/spt2.gif" xmltv_id="Šport TV2">Šport TV2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Šport%20TV3||https://tvsporedi.si/logos/spt3.gif" xmltv_id="Šport TV3">Šport TV3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV%20Petelin||https://tvsporedi.si/logos/logo_petelin.jpg" xmltv_id="TV Petelin">TV Petelin</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV3%20Medias||https://tvsporedi.si/logos/tv3m.gif" xmltv_id="TV3 Medias">TV3 Medias</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Veseljak%20TV||https://tvsporedi.si/logos/veseljak.png" xmltv_id="Veseljak TV">Veseljak TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=24Kitchen||https://tvsporedi.si/logos/24ki.gif" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=AMC||https://tvsporedi.si/logos/mgm-ce.gif" xmltv_id="AMC">AMC</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Animal%20Planet||https://tvsporedi.si/logos/animal.gif" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Animal%20Planet%20HD||https://tvsporedi.si/logos/aphd.gif" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=AXN%20Adria||https://tvsporedi.si/logos/AXN.jpg" xmltv_id="AXN Adria">AXN Adria</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=AXN%20Spin||https://tvsporedi.si/logos/axnn.gif" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=BBC%20Earth||https://tvsporedi.si/logos/bbck.gif" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=CBS%20Reality||https://tvsporedi.si/logos/realityTV.gif" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinemax||https://tvsporedi.si/logos/cinemax1.gif" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinemax%202||https://tvsporedi.si/logos/cinemax2.gif" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar||https://tvsporedi.si/logos/cnst.gif" xmltv_id="Cinestar">Cinestar</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20action-thriller||https://tvsporedi.si/logos/cats.gif" xmltv_id="Cinestar action-thriller">Cinestar action-thriller</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20Comedy||https://tvsporedi.si/logos/cst-comedy.png" xmltv_id="Cinestar Comedy">Cinestar Comedy</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20Fantasy||https://tvsporedi.si/logos/cf.png" xmltv_id="Cinestar Fantasy">Cinestar Fantasy</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20Premiere%201%20HD||https://tvsporedi.si/logos/cp1.png" xmltv_id="Cinestar Premiere 1 HD">Cinestar Premiere 1 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20Premiere%202%20HD||https://tvsporedi.si/logos/cp2.png" xmltv_id="Cinestar Premiere 2 HD">Cinestar Premiere 2 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cinestar%20TV2||https://tvsporedi.si/logos/ctv2.png" xmltv_id="Cinestar TV2">Cinestar TV2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Crime%20and%20Investigation||https://tvsporedi.si/logos/cinv.gif" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Da%20Vinci%20learning||https://tvsporedi.si/logos/dvlr.gif" xmltv_id="Da Vinci learning">Da Vinci learning</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Discovery||https://tvsporedi.si/logos/logo_discovery_channel.jpg" xmltv_id="Discovery">Discovery</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Discovery%20ID||https://tvsporedi.si/logos/investigation-discovery.gif" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=DIVA||https://tvsporedi.si/logos/diva.png" xmltv_id="DIVA">DIVA</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Dr.Fit%20HD||https://tvsporedi.si/logos/drfit.png" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=DTX%20HD||https://tvsporedi.si/logos/dtx.png" xmltv_id="DTX HD">DTX HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=E!%20Europe||https://tvsporedi.si/logos/ente.gif" xmltv_id="E! Europe">E! Europe</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Epic%20Drama||https://tvsporedi.si/logos/vepi.gif" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=FOX||https://tvsporedi.si/logos/foxi.gif" xmltv_id="FOX">FOX</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Fox%20Crime||https://tvsporedi.si/logos/foxcrime.png" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Fox%20Life||https://tvsporedi.si/logos/foxlife.png" xmltv_id="Fox Life">Fox Life</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Fox%20Movies||https://tvsporedi.si/logos/foxm.gif" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Ginx%20TV||https://tvsporedi.si/logos/ginx-tv.gif" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HBO||https://tvsporedi.si/logos/hbo.gif" xmltv_id="HBO">HBO</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HBO%202||https://tvsporedi.si/logos/hbo2.gif" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HBO%203||https://tvsporedi.si/logos/hbo3.gif" xmltv_id="HBO 3">HBO 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=History%202%20HD||https://tvsporedi.si/logos/h2hd.png" xmltv_id="History 2 HD">History 2 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=History%20Channel||https://tvsporedi.si/logos/history_ch.gif" xmltv_id="History Channel">History Channel</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=History%20HD||https://tvsporedi.si/logos/history-hd.gif" xmltv_id="History HD">History HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=National%20Geographic||https://tvsporedi.si/logos/ngch.gif" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Nickelodeon||https://tvsporedi.si/logos/nick.gif" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Planet%20Earth%20HD||https://tvsporedi.si/logos/earth.png" xmltv_id="Planet Earth HD">Planet Earth HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SciFi||https://tvsporedi.si/logos/sajf.gif" xmltv_id="SciFi">SciFi</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TLC%20Balkan||https://tvsporedi.si/logos/tlcb.gif" xmltv_id="TLC Balkan">TLC Balkan</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Travel||https://tvsporedi.si/logos/trav.gif" xmltv_id="Travel">Travel</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Travel%20HD||https://tvsporedi.si/logos/tchd.gif" xmltv_id="Travel HD">Travel HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Travelxp%20HD||https://tvsporedi.si/logos/xphd.png" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV%201000||https://tvsporedi.si/logos/1000.gif" xmltv_id="TV 1000">TV 1000</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Viasat%20Explore||https://tvsporedi.si/logos/explorer.gif" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Viasat%20History||https://tvsporedi.si/logos/history.gif" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Viasat%20Nature||https://tvsporedi.si/logos/viasat_nature.gif" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Woman%20HD||https://tvsporedi.si/logos/woman.png" xmltv_id="Woman HD">Woman HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=GTV||https://tvsporedi.si/logos/GTV.gif" xmltv_id="GTV">GTV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS||https://tvsporedi.si/logos/rts.gif" xmltv_id="RTS">RTS</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV%20Maribor||https://tvsporedi.si/logos/mediaTV.gif" xmltv_id="TV Maribor">TV Maribor</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Vaš%20kanal||https://tvsporedi.si/logos/vas_kanal.gif" xmltv_id="Vaš kanal">Vaš kanal</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=VTV||https://tvsporedi.si/logos/vtv.gif" xmltv_id="VTV">VTV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Al%20Jazeera%20Balkans||https://tvsporedi.si/logos/al_jazeera_balkans.gif" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=DM%20Sat||https://tvsporedi.si/logos/dmsat.gif" xmltv_id="DM Sat">DM Sat</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Hayat%20HD||https://tvsporedi.si/logos/hdds.gif" xmltv_id="Hayat HD">Hayat HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Hayat%20TV||https://tvsporedi.si/logos/hayat.gif" xmltv_id="Hayat TV">Hayat TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HTV%201||https://tvsporedi.si/logos/hrt1.gif" xmltv_id="HTV 1">HTV 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HTV%202||https://tvsporedi.si/logos/hrt2.gif" xmltv_id="HTV 2">HTV 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HTV%203||https://tvsporedi.si/logos/htv3.gif" xmltv_id="HTV 3">HTV 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HTV%204||https://tvsporedi.si/logos/htv4.gif" xmltv_id="HTV 4">HTV 4</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HTV%205||https://tvsporedi.si/logos/hrt5.png" xmltv_id="HTV 5">HTV 5</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=KlasikTV||https://tvsporedi.si/logos/kktv.gif" xmltv_id="KlasikTV">KlasikTV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Lov%20in%20ribolov||https://tvsporedi.si/logos/liri.gif" xmltv_id="Lov in ribolov">Lov in ribolov</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=NOVA%20TV||https://tvsporedi.si/logos/novatv.gif" xmltv_id="NOVA TV">NOVA TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=OBN||https://tvsporedi.si/logos/obn.gif" xmltv_id="OBN">OBN</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Pink%20Plus||https://tvsporedi.si/logos/pink_plus.gif" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTCG%20Sat||https://tvsporedi.si/logos/rtcg.gif" xmltv_id="RTCG Sat">RTCG Sat</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%202hr||https://tvsporedi.si/logos/rtl-2.png" xmltv_id="RTL 2hr">RTL 2hr</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Adria||https://tvsporedi.si/logos/rtl-adria.png" xmltv_id="RTL Adria">RTL Adria</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Crime||https://tvsporedi.si/logos/rtl-crime.png" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Kockica||https://tvsporedi.si/logos/rtlk.gif" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Living||https://tvsporedi.si/logos/rtl-living.png" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Passion||https://tvsporedi.si/logos/rtl-passion.png" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%20Televizija||https://tvsporedi.si/logos/rtl-hrvatska.png" xmltv_id="RTL Televizija">RTL Televizija</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%201||https://tvsporedi.si/logos/rts1.gif" xmltv_id="RTS 1">RTS 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%202||https://tvsporedi.si/logos/rts2.gif" xmltv_id="RTS 2">RTS 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%203||https://tvsporedi.si/logos/rts3.png" xmltv_id="RTS 3">RTS 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%20Drama||https://tvsporedi.si/logos/rtshd.png" xmltv_id="RTS Drama">RTS Drama</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%20Nauka||https://tvsporedi.si/logos/rtsn.png" xmltv_id="RTS Nauka">RTS Nauka</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTS%20Svet||https://tvsporedi.si/logos/rts1.png" xmltv_id="RTS Svet">RTS Svet</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Baby%20First||https://tvsporedi.si/logos/baby_first.gif" xmltv_id="Baby First">Baby First</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=BBC%20Entertainment||https://tvsporedi.si/logos/bbc_prime.gif" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=BBC%20First||https://tvsporedi.si/logos/zone_romantica.gif" xmltv_id="BBC First">BBC First</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=BBC%20World||https://tvsporedi.si/logos/bbc_world.gif" xmltv_id="BBC World">BBC World</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Boomerang||https://tvsporedi.si/logos/boomerang.gif" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Cartoon||https://tvsporedi.si/logos/cartoon.gif" xmltv_id="Cartoon">Cartoon</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=CGTN||https://tvsporedi.si/logos/cgtn.png" xmltv_id="CGTN">CGTN</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=CNBC%20Europe||https://tvsporedi.si/logos/cnbc_eu.gif" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=CNNI||https://tvsporedi.si/logos/cnni.gif" xmltv_id="CNNI">CNNI</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Discovery%20Science||https://tvsporedi.si/logos/discovery-sci-logo.gif" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Disney%20Channel||https://tvsporedi.si/logos/disney.gif" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Disney%20Junior||https://tvsporedi.si/logos/diju.gif" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=English%20Club%20TV||https://tvsporedi.si/logos/engl.gif" xmltv_id="English Club TV">English Club TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Euronews||https://tvsporedi.si/logos/euronews.gif" xmltv_id="Euronews">Euronews</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Eurosport%201||https://tvsporedi.si/logos/eurosport.gif" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Eurosport%201HD||https://tvsporedi.si/logos/euhd.gif" xmltv_id="Eurosport 1HD">Eurosport 1HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Eurosport%202||https://tvsporedi.si/logos/eurosport2.gif" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Eurosport%202%20HD||https://tvsporedi.si/logos/e2hd.gif" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Eurosport%204K||https://tvsporedi.si/logos/es4k.png" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Extreme%20Sports||https://tvsporedi.si/logos/extreme_sports.gif" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Fashion%20TV||https://tvsporedi.si/logos/fasion_tv.gif" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Food%20Network%20HD||https://tvsporedi.si/logos/food_network_hd.gif" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=France%2024A||https://tvsporedi.si/logos/f24a.gif" xmltv_id="France 24A">France 24A</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=HGTV||https://tvsporedi.si/logos/hgtv.png" xmltv_id="HGTV">HGTV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Hustler%20HD||https://tvsporedi.si/logos/huhd.png" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Hustler%20TV||https://tvsporedi.si/logos/hustler.gif" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=iConcerts%20HD||https://tvsporedi.si/logos/icon.gif" xmltv_id="iConcerts HD">iConcerts HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=JimJam||https://tvsporedi.si/logos/jimjam.gif" xmltv_id="JimJam">JimJam</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=LUXE.TV%20HD||https://tvsporedi.si/logos/luhd.gif" xmltv_id="LUXE.TV HD">LUXE.TV HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Dance||https://tvsporedi.si/logos/mtv_dance.gif" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Europe||https://tvsporedi.si/logos/mtve.gif" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Hits||https://tvsporedi.si/logos/mtv_hits.gif" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Live%20HD||https://tvsporedi.si/logos/discovery-id.gif" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=MTV%20Rocks||https://tvsporedi.si/logos/mtv2.gif" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=myZen.tv%20HD||https://tvsporedi.si/logos/myzen-tv-hd.gif" xmltv_id="myZen.tv HD">myZen.tv HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=National%20Geographic%20Wild||https://tvsporedi.si/logos/natgeo.gif" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Nautical%20Channel||https://tvsporedi.si/logos/naut.gif" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=NGC%20HD||https://tvsporedi.si/logos/ngcHD.gif" xmltv_id="NGC HD">NGC HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Nickelodeon%20HD||https://tvsporedi.si/logos/nihd.gif" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Private%20TV||https://tvsporedi.si/logos/priv.gif" xmltv_id="Private TV">Private TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Sky%20News||https://tvsporedi.si/logos/sky_news.gif" xmltv_id="Sky News">Sky News</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=VH%201||https://tvsporedi.si/logos/vh1.gif" xmltv_id="VH 1">VH 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=VH%201%20Classic||https://tvsporedi.si/logos/vh1_classic.gif" xmltv_id="VH 1 Classic">VH 1 Classic</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=3%20SAT||https://tvsporedi.si/logos/3sat.gif" xmltv_id="3 SAT">3 SAT</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ARD||https://tvsporedi.si/logos/ard.gif" xmltv_id="ARD">ARD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ARTE||https://tvsporedi.si/logos/arte.gif" xmltv_id="ARTE">ARTE</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Kabel%201||https://tvsporedi.si/logos/kabel1.gif" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ORF%201||https://tvsporedi.si/logos/orf1.gif" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ORF%202||https://tvsporedi.si/logos/orf2.gif" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ORF%203||https://tvsporedi.si/logos/orf3.png" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ORF%20Sport%20plus||https://tvsporedi.si/logos/orsp.png" xmltv_id="ORF Sport plus">ORF Sport plus</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=PRO%207||https://tvsporedi.si/logos/pro7.gif" xmltv_id="PRO 7">PRO 7</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL||https://tvsporedi.si/logos/rtl.gif" xmltv_id="RTL">RTL</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTL%202||https://tvsporedi.si/logos/rtl2.gif" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SAT%201||https://tvsporedi.si/logos/sat1.gif" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Servus%20TV%20HD||https://tvsporedi.si/logos/servus_tv_hd.gif" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Sport1||https://tvsporedi.si/logos/dsf.gif" xmltv_id="Sport1">Sport1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=SRTL||https://tvsporedi.si/logos/srtl.gif" xmltv_id="SRTL">SRTL</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Tele%205||https://tvsporedi.si/logos/tele5.png" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=VOX||https://tvsporedi.si/logos/vox.gif" xmltv_id="VOX">VOX</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=ZDF||https://tvsporedi.si/logos/zdf.gif" xmltv_id="ZDF">ZDF</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Canale%205||https://tvsporedi.si/logos/chanale5.gif" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Italia%201||https://tvsporedi.si/logos/italia1.gif" xmltv_id="Italia 1">Italia 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%201||https://tvsporedi.si/logos/rai1.gif" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%202||https://tvsporedi.si/logos/rai2.gif" xmltv_id="RAI 2">RAI 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%203||https://tvsporedi.si/logos/rai3.gif" xmltv_id="RAI 3">RAI 3</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%204||https://tvsporedi.si/logos/rai4.gif" xmltv_id="RAI 4">RAI 4</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%205||https://tvsporedi.si/logos/rai5.gif" xmltv_id="RAI 5">RAI 5</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%20Movie||https://tvsporedi.si/logos/rai-movie.gif" xmltv_id="RAI Movie">RAI Movie</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%20Sport||https://tvsporedi.si/logos/clen.gif" xmltv_id="RAI Sport">RAI Sport</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RAI%20SportPiu%20HD||https://tvsporedi.si/logos/espn_am.gif" xmltv_id="RAI SportPiu HD">RAI SportPiu HD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Rete%204||https://tvsporedi.si/logos/rete4.gif" xmltv_id="Rete 4">Rete 4</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV%20Koper||https://tvsporedi.si/logos/tvkoper.gif" xmltv_id="TV Koper">TV Koper</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Duna%20TV||https://tvsporedi.si/logos/duna_tv.gif" xmltv_id="Duna TV">Duna TV</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=France%202||https://tvsporedi.si/logos/france2.gif" xmltv_id="France 2">France 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=France%2024||https://tvsporedi.si/logos/fr24.gif" xmltv_id="France 24">France 24</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Madžarska%201||https://tvsporedi.si/logos/m1.png" xmltv_id="Madžarska 1">Madžarska 1</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Madžarska%202||https://tvsporedi.si/logos/m2.png" xmltv_id="Madžarska 2">Madžarska 2</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Mezzo||https://tvsporedi.si/logos/mezzo.gif" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=Mezzo%20liveHD||https://tvsporedi.si/logos/mlhd.gif" xmltv_id="Mezzo liveHD">Mezzo liveHD</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=RTR%20Planeta||https://tvsporedi.si/logos/rtrplaneta.gif" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="tvsporedi.si_0" site_id="112545&amp;id=TV5MONDE||https://tvsporedi.si/logos/tv5.gif" xmltv_id="TV5MONDE">TV5MONDE</channel>
+  </channels>
+</site>
