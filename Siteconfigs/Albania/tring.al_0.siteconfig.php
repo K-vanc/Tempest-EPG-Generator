@@ -1,0 +1,36 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'tring.al',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2021-11-02',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/Tirane',
+  'culture' => 'sq',
+  'pastdayremover' => 'on',
+  'url1' => 'https://www.tring.al/guide/epgs/##ccsubpage####channel##.xml',
+  'requestOption1' => '1',
+  'accept_header1' => '*/*',
+  'content_type1' => 'text/xml',
+  'referer_header1' => 'https://www.tring.al/guide/index.php',
+  'show' => '<data.*?(?:<event)(.*?)(?:<\\/event>).*?<\\/data>',
+  'start' => 'start="(.*?)"',
+  'start_format' => 'Y/m/d H#i#s',
+  'stop' => 'end="(.*?)"',
+  'stop_format' => 'Y/m/d H#i#s',
+  'title' => 'title="(.*?)">',
+  'desc' => 'title=".*?>(.*?)$|#|[||XXXX||]title="(.*?)">||#replace#^(.*?)\\|XXXX\\|\\1$##(\\|XXXX.*?)$||##',
+  'channel_logo' => '||#add#https://www.tring.al/manager/includes/picker/images/##cclogo##',
+  'ccurl1' => 'https://www.tring.al/guide/index.php',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cccontent_type1' => 'text/html; charset=UTF-8',
+  'ccgrabber_1' => 'on',
+  'ccgpattern_1' => 'name = "(.*?)";',
+  'ccchannel_block' => '<div class="yui-g">.*?<\\/div><\\/div>',
+  'ccchannel_id' => 'id=\'t(\\d+)||#addstart###grabber_1##|##|',
+  'ccchannel_name' => '<img alt="(.*?)"',
+  'ccchannel_logo' => '\\/images\\/(.*?)">',
+);
+?>
