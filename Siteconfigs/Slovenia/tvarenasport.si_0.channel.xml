@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvarenasport.si_0">
+  <channels>
+    <channel site="tvarenasport.si_0" site_id="1" xmltv_id="Arenasport1">Arenasport1</channel>
+    <channel site="tvarenasport.si_0" site_id="2" xmltv_id="Arenasport2">Arenasport2</channel>
+    <channel site="tvarenasport.si_0" site_id="3" xmltv_id="Arenasport3">Arenasport3</channel>
+    <channel site="tvarenasport.si_0" site_id="4" xmltv_id="Arenasport4">Arenasport4</channel>
+  </channels>
+</site>
