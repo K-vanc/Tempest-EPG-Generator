@@ -1,4 +1,4 @@
-# Tempest-EPG-Generator
+# Tempest EPG Generator
 The Most Advanced Programmable GUI XMLTV EPG Generator
 
 | Total Available Siteconfigs | Total Covered Countries | Total Available Channels |
