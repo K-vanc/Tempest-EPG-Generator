@@ -1,9 +1,10 @@
 # Tempest EPG Generator
 The Most Advanced Programmable GUI XMLTV EPG Generator
 
-![CC](https://img.shields.io/badge/license-Creative%20Commons-blue.svg)
+![CC](https://img.shields.io/badge/license-Creative%20Commons-red.svg)
 ![Release](https://img.shields.io/github/release/K-vanc/Tempest-EPG-Generator.svg)
-![TempestWIKI](https://img.shields.io/badge/documentation-TempestWIKI-blue.svg)
+![PHP](https://img.shields.io/badge/language-php-fuchsia.svg)
+![TempestWIKI](https://img.shields.io/badge/documentation-TempestWIKI-orange.svg)
 ![Issues](https://img.shields.io/github/issues/K-vanc/Tempest-EPG-Generator)
 
 
