@@ -1,6 +1,12 @@
 # Tempest EPG Generator
 The Most Advanced Programmable GUI XMLTV EPG Generator
 
+![CC](https://img.shields.io/badge/license-Creative%20Commons-blue.svg)
+![Release](https://img.shields.io/github/release/K-vanc/Tempest-EPG-Generator.svg)
+![TempestWIKI](https://img.shields.io/badge/documentation-TempestWIKI-blue.svg)
+![Issues](https://img.shields.io/github/issues/K-vanc/Tempest-EPG-Generator)
+
+
 | Total Available Siteconfigs | Total Covered Countries | Total Available Channels |
 | :---: | :---: | :---: |
 | 79 | 111 | +105000 |
