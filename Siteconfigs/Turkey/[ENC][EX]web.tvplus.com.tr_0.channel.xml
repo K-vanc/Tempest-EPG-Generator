@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]web.tvplus.com.tr_0">
+  <channels>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="177||logo/202006/20200608/20200608103044025nj7_op.png" xmltv_id="TV PLUS INFO">TV PLUS INFO</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="144||poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" xmltv_id="TRT1 HD">TRT1 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="88||poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" xmltv_id="KANAL D HD">KANAL D HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="89||poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" xmltv_id="STAR TV HD">STAR TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="124||poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="130||poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" xmltv_id="SHOW TV HD">SHOW TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="93||poster/fileEntity/20171018/001300/001300000008656246/9462ac76-569f-48a9-b889-268cfecef56c.png" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="134||poster/20170121/001300/XTV100000413/f89f537c-dbb5-46ce-894c-bcb309811611.png" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="188||poster/20170121/001300/XTV100000414/001d049d-3cce-425a-9041-41c90fe7feac.png" xmltv_id="TV8,5 HD">TV8,5 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2||poster/fileEntity/20170714/001300/XTV100000291/f57866cb-de7e-4586-ae71-d44605b6c518.png" xmltv_id="A2 HD">A2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="174||poster/20151105/001300/001300000008478933/3cda2c5f-1cb0-4898-96e5-02f27fc724de.png" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="95||poster/20161010/001300/001300000008478957/8e013007-0124-40e1-b071-2c4adfa77636.png" xmltv_id="TEVE2 HD">TEVE2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="90||poster/20141015/001300/001300000008478886/e86bfc54-f774-45c5-ae9d-531af97840a6.png" xmltv_id="KANAL 7 HD">KANAL 7 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="135||poster/20150203/001300/001300000008479064/48e2f21e-2c71-4a63-8b1f-3d105ce57dec.png" xmltv_id="BEYAZ TV HD">BEYAZ TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="118||poster/fileEntity/20190909/001300/XTV100001138/da0bc91e-459c-40e5-8b65-1ddc3b65f9c8.png" xmltv_id="BİZİM EV TV">BİZİM EV TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2979||logo/202112/20211203/7/20211203123303956byu_op.png" xmltv_id="FLASH TV">FLASH TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="86||logo/202007/20200714/202007140149118747y7_op.png" xmltv_id="360 HD">360 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2359||logo/202003/20200327/202003270730438117uj_op.png" xmltv_id="KANAL 23">KANAL 23</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="179||poster/fileEntity/20190531/001300/XTV100001076/c376fe0f-f92d-4e49-aae1-08d2effb5ec8.png" xmltv_id="TV100">TV100</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="180||poster/fileEntity/20180317/001300/001300000008479147/9ff9f369-04f3-41a5-8325-ca827fa526f6.png" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="12||logo/202002/20200203/20200203234951578bkz_op.png" xmltv_id="SİNEMA YERLİ HD">SİNEMA YERLİ HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="166||logo/202002/20200203/20200203234455583qbu_op.png" xmltv_id="SİNEMA TV HD">SİNEMA TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="129||logo/202001/20200127/202001271649562101ic_op.png" xmltv_id="SİNEMA TV AKSİYON HD">SİNEMA TV AKSİYON HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="154||logo/202003/20200327/20200327092343508l5p_op.png" xmltv_id="SİNEMA KOMEDİ HD">SİNEMA KOMEDİ HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="155||logo/202001/20200127/20200127164535159uuh_op.png" xmltv_id="SİNEMA AİLE HD">SİNEMA AİLE HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="181||logo/202001/20200127/202001271640304366wa_op.png" xmltv_id="SİNEMA TV 1001 HD">SİNEMA TV 1001 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="61||logo/202002/20200203/20200203235200647b5b_op.png" xmltv_id="SİNEMA YERLİ 2 HD">SİNEMA YERLİ 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="199||logo/202002/20200203/20200203234746347rht_op.png" xmltv_id="SİNEMA TV 2 HD">SİNEMA TV 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="196||logo/202003/20200327/202003270926256864qv_op.png" xmltv_id="SİNEMA AKSİYON 2 HD">SİNEMA AKSİYON 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="182||logo/202001/20200127/20200127164706982kbu_op.png" xmltv_id="SİNEMA AİLE 2 HD">SİNEMA AİLE 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="190||logo/202001/20200127/20200127164327040x4r_op.png" xmltv_id="SİNEMA 1002 HD">SİNEMA 1002 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="131||poster/20160211/001300/001300000000000741833/5305bd29-a4c7-47d7-9691-be975474a0a5.png" xmltv_id="FX HD">FX HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="82||poster/20160211/001300/001300000000000741841/f3ea851c-821f-4277-8094-df284ff4e293.png" xmltv_id="FOX CRIME HD">FOX CRIME HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="167||poster/fileEntity/20180803/001300/XTV100000912/b5ae8c71-8050-404b-9b40-61ef405adbd9.png" xmltv_id="EPIC DRAMA">EPIC DRAMA</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="91||poster/20140406/001300/001300000008479022/e2e934e9-b0ee-4448-9c55-8bd56ecbc21b.png" xmltv_id="HALK TV">HALK TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="189||poster/fileEntity/20190524/001300/XTV100001075/51759f75-f3b3-4320-889b-0be4dde1789b.png" xmltv_id="TELE1">TELE1</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="136||poster/20140406/001300/001300000008479048/116e799a-58f4-4dc9-aeff-a2713b42f3de.png" xmltv_id="CEM TV">CEM TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="207||logo/202101/20210115/2/202101150519208388pd_op.png" xmltv_id="UÇANKUŞ TV">UÇANKUŞ TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2859||logo/202112/20211201/2/20211201221957442rvl_op.png" xmltv_id="VAV TV">VAV TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="83||poster/fileEntity/20190221/001300/XTV100001019/73220b58-a545-4242-8904-a14f3c04a661.png" xmltv_id="TRT 2 HD">TRT 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="5||logo/202112/20211214/45/20211214233047181l48_op.png" xmltv_id="HABER GLOBAL HD">HABER GLOBAL HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="100||logo/202112/20211223/51/2021122311403221322f_op.png" xmltv_id="EKO TURK">EKO TURK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="79||poster/fileEntity/20180908/001300/XTV100000934/13a1fb9e-959c-447d-98eb-01bc56a4e6be.png" xmltv_id="A PARA HD">A PARA HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="158||poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png" xmltv_id="CNN TÜRK HD">CNN TÜRK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="81||poster/20160628/001300/001300000008479163/0fba7796-32d8-401e-a6e4-b975f081c725.png" xmltv_id="NTV HD">NTV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="87||poster/20140406/001300/001300000008479171/d5a426d7-c317-4872-896f-f4a88ceb890c.png" xmltv_id="HABERTÜRK HD">HABERTÜRK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="160||poster/20140406/001300/001300000008526514/e815ff70-dcad-419b-a01d-7643db080bed.png" xmltv_id="A HABER HD">A HABER HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="30||poster/20140406/001300/001300000008479195/05852430-0c9c-455d-ace1-cc3b16e203da.png" xmltv_id="TRT HABER HD">TRT HABER HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="32||poster/fileEntity/20180508/001300/001300000008479203/1ea9aeb5-254e-4125-9619-6aeaf1ccee07.png" xmltv_id="24 HD">24 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="145||poster/20160921/001300/001300000008479107/a1fc0bf3-29f0-4c40-a881-bb8fc5cdee18.png" xmltv_id="ÜLKE TV HD">ÜLKE TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="34||poster/20140505/001300/001300000008479072/8567d90e-2c9e-45b4-a253-57942111b237.png" xmltv_id="TGRT HABER HD">TGRT HABER HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="92||poster/20151117/001300/001300000008478990/da443368-6e22-4b85-afff-6dfb98cc6ccd.jpg" xmltv_id="TVNET HD">TVNET HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="96||poster/20140406/001300/001300000008479056/082e0ce9-fe21-40c2-9230-9afe8ff7c971.png" xmltv_id="BLOOMBERG HT HD">BLOOMBERG HT HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="13||poster/fileEntity/20181203/001300/XTV100000446/60f1e8bb-d157-414c-9473-36cd5331932c.png" xmltv_id="AKİT TV HD">AKİT TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="101||poster/fileEntity/20170404/001300/XTV100000475/46ca3a0c-b8d4-494a-b8cc-1427cbcfa7e3.png" xmltv_id="A NEWS HD">A NEWS HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="38||logo/202002/20200204/20200204000041006395_op.png" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="6||poster/20160817/001300/001300000000007405838/406679d2-c695-4b79-b38c-bd2f6c1d43b5.png" xmltv_id="AL JAZEERA ENGLISH">AL JAZEERA ENGLISH</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="94||poster/20160812/001300/001300000000007524919/8e4cbc94-5cac-4225-862b-5d0f0e763228.jpg" xmltv_id="DEUTSCHE WELLE ENGLISH">DEUTSCHE WELLE ENGLISH</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="16||poster/20160812/001300/001300000000007524935/5da8c661-42d3-4cad-b468-d8ab94ea9bd6.png" xmltv_id="FRANCE 24 ENGLISH">FRANCE 24 ENGLISH</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="171||poster/20140406/001300/001300000008479039/abc8a780-a225-4e35-9d11-59e197acf740.png" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="140||poster/20160817/001300/001300000000007405846/739f9b19-2f2a-43f7-9fc6-96c70b4480fc.png" xmltv_id="AL JAZEERA ARABIC HD">AL JAZEERA ARABIC HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="161||poster/fileEntity/20170315/001300/XTV100000462/d78d4f62-57b3-4194-b29a-fb1b6879b6e8.png" xmltv_id="FRANCE 24 ARABIC">FRANCE 24 ARABIC</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="103||poster/fileEntity/20170315/001300/XTV100000464/5ff4bde9-ac18-4896-af90-d743f8d12930.png" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="36||poster/20160812/001300/001300000000007524911/24c00877-6507-4b20-a98d-67653a3e205b.jpg" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="31||logo/202201/20220110/78/20220110135426898oyk_op.png" xmltv_id="TRT SPOR HD">TRT SPOR HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="205||logo/202112/20211203/39/202112031039066553c6_op.png" xmltv_id="TRT SPOR YILDIZ">TRT SPOR YILDIZ</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="3||poster/20160121/001300/001300000000003512295/84a28c56-a416-4c17-92fe-b8e75fa85804.png" xmltv_id="A SPOR HD">A SPOR HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="173||logo/202102/20210225/1/20210225220257171kgn_op.png" xmltv_id="SPORTS TV HD">SPORTS TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="148||poster/fileEntity/20170528/001300/XTV100000548/a9f70506-e723-4a83-9179-410ac253461d.png" xmltv_id="FB TV">FB TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="18||poster/20161025/001300/XTV100000186/88a73bff-0152-4ebb-b62e-309504ad4d76.png" xmltv_id="NBA TV HD">NBA TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="11||poster/fileEntity/20170317/001300/XTV100000416/e0b75b43-843d-4f9c-b7b6-807c3a9d8b19.png" xmltv_id="S SPORT">S SPORT</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="170||poster/fileEntity/20190312/001300/XTV100000936/1fbf5327-e0bc-4859-9477-1c2e659e9d01.png" xmltv_id="S SPORT 2">S SPORT 2</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="77||poster/20161229/001300/XTV100000359/9a300420-c296-4635-b523-2708e114578c.png" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="106||poster/20161229/001300/XTV100000362/0283f30c-8764-4bfe-a432-9381a2828f65.png" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="137||poster/fileEntity/20170322/001300/XTV100000471/8d520f02-9ab4-4409-9f4d-529c893cd681.png" xmltv_id="EDGE SPORT HD">EDGE SPORT HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="15||poster/fileEntity/20180115/001300/001300000008479139/8db6a872-779b-4ae2-9c6a-cfdb5388a591.png" xmltv_id="TJK TV">TJK TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="116||logo/202201/20220110/5/20220110134531764e0t_op.png" xmltv_id="TRT 3">TRT 3</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="21||poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" xmltv_id="TRT BELGESEL HD">TRT BELGESEL HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="59||logo/202201/20220125/14/20220125092718511tdx_op.png" xmltv_id="VIASAT EXPLORE">VIASAT EXPLORE</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="139||poster/fileEntity/20190226/001300/001300000005026616/8dd5a071-ab70-4eb4-8fe3-1ee48d72e55b.png" xmltv_id="NATIONAL GEOGRAPHIC WILD HD">NATIONAL GEOGRAPHIC WILD HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="44||poster/fileEntity/20181107/001300/XTV100000964/4e141289-c05c-420a-a577-00f1321af02b.png" xmltv_id="VIASAT HISTORY HD">VIASAT HISTORY HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="8||poster/fileEntity/20191105/001300/XTV100000367/3dbaf35c-e0e2-4d83-97e1-eecee783f055.png" xmltv_id="DISCOVERY CHANNEL HD">DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="43||poster/fileEntity/20171101/001300/XTV100000368/f4acce1c-d612-45f3-af58-ab70f8392214.png" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2799||logo/202102/20210226/56/20210226131157896foh_op.png" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="45||poster/fileEntity/20180607/001300/XTV100000871/652122cd-43e7-4a44-bf21-7b50cc81fac7.png" xmltv_id="LOVE NATURE HD">LOVE NATURE HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="208||poster/fileEntity/20191021/001300/001300000005026632/6a9c912a-ccb0-49b6-9fb9-90d77becc2e6.png" xmltv_id="DA VINCI HD">DA VINCI HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="107||poster/20161213/001300/XTV100000334/f433b756-ec86-4c0d-a276-3f0ba3194552.png" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2299||logo/202003/20200325/20200325075756659qej_op.png" xmltv_id="TRT EBATV İLKOKUL">TRT EBATV İLKOKUL</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2300||logo/202003/20200325/20200325080220534wxz_op.png" xmltv_id="TRT EBATV ORTAOKUL">TRT EBATV ORTAOKUL</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2301||logo/202003/20200325/202003250808159164ko_op.png" xmltv_id="TRT EBATV LİSE">TRT EBATV LİSE</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="40||poster/20150129/001300/001300000003392123/3a708395-c144-4dd9-bef6-6bf32b20f112.png" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="149||logo/202112/20211203/85/20211203103343824v4g_op.png" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="20||poster/20140406/001300/001300000008479155/9f00a54a-0907-4386-b7f1-cff6fe49cd68.png" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="29||logo/202003/20200327/20200327091853931wa8_op.png" xmltv_id="BABYTV">BABYTV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="37||logo/202001/20200127/20200127170319748y7q_op.png" xmltv_id="DUCK TV HD">DUCK TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="102||poster/20141015/001300/001300000008479179/48825e9e-1b56-4aea-8be4-c1beba4c23ea.png" xmltv_id="MİNİKA ÇOCUK">MİNİKA ÇOCUK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="7||poster/20140406/001300/001300000008479187/9c98d2c5-88cb-4aa3-a711-182a7cca3420.png" xmltv_id="MİNİKA GO">MİNİKA GO</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="99||logo/202112/20211214/46/20211214232623971xm0_op.png" xmltv_id="TRT ÇOCUK HD">TRT ÇOCUK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2739||logo/202101/20210113/96/20210113090115172sxw_op.png" xmltv_id="NICKTOONS">NICKTOONS</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="104||logo/202103/20210324/8/20210324120417907xui_op.png" xmltv_id="RT ESPANOL HD">RT ESPANOL HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="17||logo/202103/20210324/98/202103241201283400wj_op.png" xmltv_id="RT ARABIC HD">RT ARABIC HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="142||poster/fileEntity/20180313/001300/XTV100000753/128299bf-ae8d-46b0-bd84-aa0d49ff09c7.png" xmltv_id="SKY NEWS ARABIA">SKY NEWS ARABIA</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="47||poster/fileEntity/20180426/001300/XTV100000809/74e6bd97-3e2c-4ebb-acc8-2cdda29b6d0d.png" xmltv_id="BENGÜTÜRK">BENGÜTÜRK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2240||logo/202103/20210301/47/20210301081130994jjt_op.png" xmltv_id="ULUSAL KANAL">ULUSAL KANAL</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2279||logo/202003/20200302/2020030211491032568f_op.png" xmltv_id="ÇİFTÇİ TV">ÇİFTÇİ TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="141||poster/fileEntity/20180714/001300/XTV100000888/a8183d27-d7fe-4fb8-a2e2-895b8fa2e1e1.png" xmltv_id="TARIM TV">TARIM TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2899||logo/202202/20220215/27/202202151041436638ug_op.png" xmltv_id="TV 4">TV 4</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="204||poster/20150115/001300/001300000008478878/1468f9c3-4f10-4240-ad96-2e67bd0a8036.png" xmltv_id="NUMBER1 TV HD">NUMBER1 TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="172||poster/20150703/001300/001300000000007154408/eb74bdad-3389-479d-ba30-aac0444ea1c8.png" xmltv_id="POWER TV HD">POWER TV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="153||logo/202201/20220112/16/202201121221484818jn_op.png" xmltv_id="DREAM TÜRK">DREAM TÜRK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="98||poster/20160211/001300/001300000004627816/3e2ec118-ebb9-450d-989e-8363190ea86b.png" xmltv_id="NUMBER1 TURK HD">NUMBER1 TURK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="202||poster/20150703/001300/001300000008478862/efa10b07-3b20-468c-b292-a7521ad16943.png" xmltv_id="POWER TURK HD">POWER TURK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="159||poster/20140406/001300/001300000008478910/ae1b6cd6-3909-4e40-a161-6b8c98c984ab.png" xmltv_id="TRT MÜZİK">TRT MÜZİK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="33||poster/fileEntity/20171207/001300/XTV100000719/2ec38a37-1bcd-461c-a7eb-52cc4a39305e.png" xmltv_id="NR1 AŞK HD">NR1 AŞK HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="41||poster/fileEntity/20171127/001300/XTV100000715/2998cb52-6114-48d5-b7ec-d9ce8b5b4f97.png" xmltv_id="NR1 DAMAR HD">NR1 DAMAR HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="150||poster/fileEntity/20171207/001300/XTV100000717/f7b5c48c-4420-46a8-afcb-de4547fdd60a.png" xmltv_id="NR1 DANCE HD">NR1 DANCE HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2280||logo/202003/20200302/20200302133024960p42_op.png" xmltv_id="TMB TV">TMB TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="108||poster/20150203/001300/001300000004913939/5f7ba7da-38f0-41fe-a3fa-d6e863f5e844.png" xmltv_id="24KITCHEN HD">24KITCHEN HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="80||logo/202102/20210217/77/202102170736386394my_op.png" xmltv_id="FASHION ONE TV">FASHION ONE TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="19||poster/20140406/001300/001300000008478998/67a57898-944a-4994-a2c4-7dbbf939e0c4.png" xmltv_id="AKILLI TV">AKILLI TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="156||poster/fileEntity/20170221/001300/001300000008479014/e75cef09-d213-4955-aff9-7e0d5f323750.png" xmltv_id="TRT TÜRK">TRT TÜRK</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="76||logo/202102/20210225/18/20210225083638126hdx_op.png" xmltv_id="TRT ARABI">TRT ARABI</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="193||poster/20141021/001300/001300000008656366/246d093a-0765-407d-8f0f-4bb3155ec76e.png" xmltv_id="TRT AVAZ">TRT AVAZ</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="10||poster/20150115/001300/001300000008656374/55609584-d175-478b-80c7-e3d0485d136d.png" xmltv_id="TRT KURDİ">TRT KURDİ</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="175||poster/fileEntity/20190514/001300/001300000008656262/f459fa8d-fdb2-475c-b5f2-65d917d5d068.png" xmltv_id="DİYANET TV">DİYANET TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="97||logo/202002/20200203/20200203234002707yr3_op.png" xmltv_id="SEMERKAND HD">SEMERKAND HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="138||poster/20140406/001300/001300000008656382/5c101d25-0aef-445d-bc34-e20b98d31168.png" xmltv_id="MELTEM TV">MELTEM TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="163||poster/fileEntity/20171002/001300/XTV100000653/514ef167-e2c5-41e1-96dc-d81215bc1e49.png" xmltv_id="FM TV">FM TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="119||poster/fileEntity/20171107/001300/XTV100000688/5d20f337-8324-4abc-968a-fc05caf29779.png" xmltv_id="AL QURAN AL KAREEM HD">AL QURAN AL KAREEM HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="109||poster/fileEntity/20171107/001300/XTV100000689/09c444af-4224-4d15-ba5f-bc6ad4fa2b1f.png" xmltv_id="AL SUNNAH AL NABAWIYAH HD">AL SUNNAH AL NABAWIYAH HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="169||poster/fileEntity/20190204/001300/XTV100000652/047a70d5-1322-4396-aca5-d0421874b9cf.png" xmltv_id="ON6">ON6</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="110||poster/fileEntity/20170802/001300/XTV100000608/d93466cd-3c14-4304-a54a-daf4a092f376.png" xmltv_id="KADIRGA TV">KADIRGA TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="63||logo/202007/20200714/20200714020604392u0r_op.png" xmltv_id="KONTV HD">KONTV HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="111||poster/20151001/001300/001300000008479099/3bb76e46-61f8-4daa-b44e-4868ca8c6d70.png" xmltv_id="KRT TV">KRT TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="114||poster/fileEntity/20170221/001300/001300000002742527/529e7c30-11a0-4e02-a1ef-8783d06eafe0.png" xmltv_id="KANAL V">KANAL V</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="184||poster/fileEntity/20190625/001300/XTV100001081/b3c6e1f5-a3d4-4cb8-8f5d-66ddfb82bac0.png" xmltv_id="TV35">TV35</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="143||poster/20161228/001300/XTV100000370/fd622431-9d1d-45c6-aa7d-9fa26653ce9c.png" xmltv_id="KANAL 26">KANAL 26</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="146||logo/202103/20210324/21/202103241155383667wj_op.png" xmltv_id="KANAL 33">KANAL 33</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="133||poster/fileEntity/20200110/001300/XTV100000202/b04376d6-5833-417b-8d34-7bc0d6926f83.png" xmltv_id="BRT 1 HD">BRT 1 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="203||poster/fileEntity/20200102/001300/XTV100000195/fd08f8aa-9597-4baf-b8a7-b43a5c8c2b12.png" xmltv_id="BRT 2 HD">BRT 2 HD</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="112||poster/20161031/001300/XTV100000189/25f7fe76-82f3-4c7e-926f-2702b27218f3.png" xmltv_id="KIBRIS GENC TV">KIBRIS GENC TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="113||poster/20161031/001300/XTV100000190/c8b505ff-13e3-4e67-8b48-d4f30e623411.png" xmltv_id="KIBRIS TV">KIBRIS TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="42||poster/20161101/001300/XTV100000193/34fbd148-6917-48ed-b310-a5229d3039ce.png" xmltv_id="KANAL T">KANAL T</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="67||poster/20161101/001300/XTV100000194/d1fa77de-06a6-4121-9f3e-661ddd00a275.png" xmltv_id="KIBRIS ADA TV">KIBRIS ADA TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="197||poster/fileEntity/20190724/001300/XTV100001100/b5bc13f0-93c5-4c6e-91ba-f000e061e493.png" xmltv_id="SİM TV">SİM TV</channel>
+    <channel site="[ENC][EX]web.tvplus.com.tr_0" site_id="2200||logo/202003/20200327/20200327085123135wqx_op.png" xmltv_id="ŞÖMİNE PLUS">ŞÖMİNE PLUS</channel>
+  </channels>
+</site>
