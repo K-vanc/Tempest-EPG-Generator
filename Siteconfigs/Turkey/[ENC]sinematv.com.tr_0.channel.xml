@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]sinematv.com.tr_0">
+  <channels>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="0||SINEMATV-GRI" xmltv_id="SinemaTV">SinemaTV</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="1||SINEMATV-2" xmltv_id="Sinema 2">Sinema 2</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="2||SINEMATV-AKSIYON" xmltv_id="Sinema Aksiyon">Sinema Aksiyon</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="3||SINEMATV-AKSIYON-2" xmltv_id="Sinema Aksiyon 2">Sinema Aksiyon 2</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="4||SINEMATV-AILE" xmltv_id="Sinema Aile">Sinema Aile</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="5||SINEMATV-AILE-2" xmltv_id="Sinema Aile 2">Sinema Aile 2</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="6||SINEMATV-1001" xmltv_id="Sinema 1001">Sinema 1001</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="7||SINEMATV-1002" xmltv_id="Sinema 1002">Sinema 1002</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="8||SINEMATV-KOMEDI" xmltv_id="Sinema Komedi">Sinema Komedi</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="9||SINEMATV-KOMEDI-2" xmltv_id="Sinema Komedi 2">Sinema Komedi 2</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="10||SINEMATV-YERLI" xmltv_id="Sinema Yerli">Sinema Yerli</channel>
+    <channel site="[ENC]sinematv.com.tr_0" site_id="11||SINEMATV-YERLI-2" xmltv_id="Sinema Yerli 2">Sinema Yerli 2</channel>
+  </channels>
+</site>
