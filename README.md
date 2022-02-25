@@ -140,5 +140,4 @@ Currency : $ (USD)<br>
 Routing No : 084009519<br>
 Account No : 9600000000354348<br>
 Account Type : Checking<br>
-IBAN : GB18 TRWI 2314 7084 7361 67<br>
 Bank Address : 19 W 24th Street, New York NY, 10010, United States**
