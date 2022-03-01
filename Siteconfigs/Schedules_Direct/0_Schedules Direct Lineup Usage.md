@@ -56,7 +56,7 @@ Once you decided to add a lineup into your account, go to **Siteconfig Debugger*
 <br>And when you click **Debug** button, selected lineup will be added into your account<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156182380-2f34be6d-323f-452c-933c-c912c8b66a47.png)
 <br>Once you create new channel list with your **SchedulesDirect[Json]** siteconfig, changes will be reflected to created new channel list.<br>
-<br><br>**Important Note:** If you made and lineup deletion previously, do not forget to change **Url2 Request Method** to **PUT** and save your siteconfig. To avoid add/delete lineup by mistake, it is advised to always check your **SchedulesDirect[Lineup]** from **Siteconfig Editor** before any add/delete operation.<br><br>
+<br><br>**Important Note:** If you made a lineup deletion previously, do not forget to change **Url2 Request Method** to **PUT** and save your siteconfig. To avoid add/delete lineup by mistake, it is advised to always check **Url2 Request Method** of your **SchedulesDirect[Lineup]** from **Siteconfig Editor** before any add/delete operation.<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156183096-15d21c55-760e-4664-a0c3-bb4075a5a1ea.png)
 # Delete Lineup From Your Account
 Once you decided to delete a lineup into your account, go to **Siteconfig Editor**, choose **SchedulesDirect[Lineup]** and change **Url2 Request Method** to **DELETE** and save your siteconfig<br><br>
