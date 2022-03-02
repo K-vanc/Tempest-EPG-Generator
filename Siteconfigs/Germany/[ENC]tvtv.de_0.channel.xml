@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvtv.de_0">
+  <channels>
+    <channel site="[ENC]tvtv.de_0" site_id="ard" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pro7" xmltv_id="Pro Sieben">Pro Sieben</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sat1" xmltv_id="Sat.1">Sat.1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="vox" xmltv_id="Vox">Vox</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="arte" xmltv_id="arte">arte</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="3sat" xmltv_id="3 Sat">3 Sat</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtl2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kab" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tl5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="super" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dsrv" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="wdr" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ba3" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="no3" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hr3" xmltv_id="hr-fernsehen">hr-fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="s3" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rbb" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rnf" xmltv_id="RNFplus">RNFplus</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hh1" xmltv_id="Hamburg 1">Hamburg 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tvb" xmltv_id="TV Berlin">TV Berlin</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="mut" xmltv_id="München TV">München TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rmt" xmltv_id="Rheinmain TV">Rheinmain TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ard" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="arte" xmltv_id="arte">arte</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="3sat" xmltv_id="3 Sat">3 Sat</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kka" xmltv_id="Kinderkanal">Kinderkanal</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="wdr" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ba3" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="no3" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hr3" xmltv_id="hr-fernsehen">hr-fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="s3" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rbb" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="fes" xmltv_id="ONE">ONE</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="zdneo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="phx" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ext" xmltv_id="tagesschau 24">tagesschau 24</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="alp" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="zdi" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pro7" xmltv_id="Pro Sieben">Pro Sieben</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sat1" xmltv_id="Sat.1">Sat.1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="vox" xmltv_id="Vox">Vox</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtl2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kab" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tl5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="super" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dsrv" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sixx" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtln" xmltv_id="Nitro">Nitro</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtpl" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pr7m" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="satg" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="voxu" xmltv_id="VOXup">VOXup</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dsf" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="euro" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="nick" xmltv_id="nick/MTV+">nick/MTV+</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dic" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtgp" xmltv_id="Toggo+">Toggo+</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="coce" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="anixe" xmltv_id="Anixe HD">Anixe HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tlcd" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="qvc" xmltv_id="QVC Deutschland">QVC Deutschland</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hot" xmltv_id="HSE">HSE</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bib" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sonne" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="n24" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="n24d" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bild" xmltv_id="Bild TV">Bild TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ntv" xmltv_id="N-TV">N-TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ka1d" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="gsk1" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyat" xmltv_id="SKY Atlantic HD">SKY Atlantic HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyc" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyc2" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyf" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skych" xmltv_id="Sky Cinema Best Of HD">Sky Cinema Best Of HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skya" xmltv_id="Sky Action">Sky Action</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="cthd" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyco" xmltv_id="Sky Cinema Fun SD">Sky Cinema Fun SD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="scsp" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyk" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyn" xmltv_id="Sky Cinema Classics SD">Sky Cinema Classics SD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sts" xmltv_id="Sky 13TH Street">Sky 13TH Street</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pcf" xmltv_id="Sky Syfy">Sky Syfy</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dscr" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dsco" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tnt" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tntc" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tcm" xmltv_id="TNT Film">TNT Film</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tuc" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dis" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pap" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ngeo" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ngwi" xmltv_id="National Geographic Wildlife">National Geographic Wildlife</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="his" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyd" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyna" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sil" xmltv_id="Silverline">Silverline</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kino" xmltv_id="Kinowelt.tv">Kinowelt.tv</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sp1p" xmltv_id="Sport1 Plus">Sport1 Plus</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="spohd" xmltv_id="Sky Sport HD">Sky Sport HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skys1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skys2" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dssf" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skybu" xmltv_id="Sky Fussball Bundesliga">Sky Fussball Bundesliga</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dab1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dab2" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="euro2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skysa" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="movi" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="jun" xmltv_id="Sky Junior">Sky Junior</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sate" xmltv_id="Sat.1 Emotions">Sat.1 Emotions</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kacl" xmltv_id="Kabel 1 Classics">Kabel 1 Classics</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="roma" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtlp" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtlc" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtll" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pr7f" xmltv_id="Pro7Fun">Pro7Fun</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bogu" xmltv_id="BonGusto">BonGusto</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hek" xmltv_id="Sky Heimatkanal">Sky Heimatkanal</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="gst" xmltv_id="Sky GoldStar">Sky GoldStar</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="cla" xmltv_id="Sky Classica">Sky Classica</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="but" xmltv_id="Beate Uhse TV">Beate Uhse TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="n24" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="n24d" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bild" xmltv_id="Bild TV">Bild TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ntv" xmltv_id="N-TV">N-TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="enw" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="phx" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ext" xmltv_id="tagesschau 24">tagesschau 24</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="alp" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="blo" xmltv_id="BLOOMBERG TV">BLOOMBERG TV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="zdi" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="spge" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="xxpd" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dis" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="pap" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ngeo" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ngwi" xmltv_id="National Geographic Wildlife">National Geographic Wildlife</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ka1d" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="his" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyd" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skyna" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtll" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dsf" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="sp1p" xmltv_id="Sport1 Plus">Sport1 Plus</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="euro" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="euro2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="spohd" xmltv_id="Sky Sport HD">Sky Sport HD</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skys1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skys2" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dssf" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skybu" xmltv_id="Sky Fussball Bundesliga">Sky Fussball Bundesliga</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dab1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dab2" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="skysa" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="movi" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="kka" xmltv_id="Kinderkanal">Kinderkanal</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="nick" xmltv_id="nick/MTV+">nick/MTV+</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dic" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="rtgp" xmltv_id="Toggo+">Toggo+</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="jun" xmltv_id="Sky Junior">Sky Junior</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="cnb" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bb1" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="bbce" xmltv_id="BBC entertainment">BBC entertainment</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="orf2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="orf3" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="orfsp" xmltv_id="ORF Sport+">ORF Sport+</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="atv2" xmltv_id="ATV 2">ATV 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ptv" xmltv_id="Puls 4">Puls 4</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="okto" xmltv_id="OKTO">OKTO</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="got" xmltv_id="gotv">gotv</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="drs" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ch4" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="t5f" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tf1" xmltv_id="France 1">France 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="an2" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="fr3" xmltv_id="France 3">France 3</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="nl1" xmltv_id="Niederlande 1">Niederlande 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="nl2" xmltv_id="Niederlande 2">Niederlande 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="nl3" xmltv_id="Niederlande 3">Niederlande 3</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="dr1" xmltv_id="Dänemark 1">Dänemark 1</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tv2" xmltv_id="TV 2">TV 2</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="tsr" xmltv_id="RTS Un (franz.)">RTS Un (franz.)</channel>
+    <channel site="[ENC]tvtv.de_0" site_id="ts2" xmltv_id="RTS Deux (franz.)">RTS Deux (franz.)</channel>
+  </channels>
+</site>
