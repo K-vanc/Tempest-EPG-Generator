@@ -33,7 +33,7 @@ return array (
   'ccrequestOption2' => '1',
   'cccontent_type2' => 'application/json;charset=UTF-8',
   'cccustom_header2' => 'token: ##grabber_1##',
-  'ccchannel_block' => '\\{"headend":".*?\\}\\]\\}|\\{"channel".*?\\}|\\{"lineup".*?\\}',
+  'ccchannel_block' => '\\{"headend":".*?\\}\\]\\}|\\{"channel".*?\\}|\\{"lineup".*?\\}||#split#(\\},\\{)',
   'ccchannel_id' => ',"uri":"(.*?)"|"channel":"(.*?)"',
   'ccchannel_name' => '|#|[|[~,"location":"(.*?)",~] |]"name":"(.*?)"',
 );
