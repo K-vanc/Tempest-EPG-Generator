@@ -19,7 +19,7 @@ With **Schedules Direct Lineup** siteconfig, you can;
 folder where is located near your "tempest.php" file.<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/153332672-91f20125-8196-48c8-8486-af0ed76c4145.png)
 <br>After adding SchedulesDirect[Lineup] siteconfig file, open Tempest **Siteconfig Editor**, choose **SchedulesDirect[Lineup].siteconfig** and click **Modify**<br><br>
-![image](https://user-images.githubusercontent.com/97025515/156166473-2ba56dde-d36f-4a67-a65c-db26da453759.png)
+![image](https://user-images.githubusercontent.com/97025515/156492349-178e1a04-1fc0-42ee-8612-84a8b5bfddba.png)
 <br>On **Url1 Post Data** parameter of **Page Options** tab, find **##username##** & **##password##** tags and replace with your username/password<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156166740-8e0a242b-ac8c-4d47-821e-f5ab9a6b753d.png)
 <br>And repeat the above same on **Channel Creation Url1 Post Data** parameter of **Channel Page Options** tab<br><br>
