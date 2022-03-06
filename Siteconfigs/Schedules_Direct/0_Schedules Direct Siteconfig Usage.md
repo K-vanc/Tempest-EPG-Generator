@@ -27,7 +27,7 @@ Now, you can save and exit for channel creation.<br><br>
 <br>Channel list will be generated based on all selected lineups on your Schedules Direct account<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156169325-f8bcc9c7-e5f8-45ed-a406-b5112e61e999.png)
 <br>
-**Note: If you don't have any selected lineup in your account, no channel will be found. In this case, please read **Schedules Direct Lineup Usage** first to find/add lineups into your account.<br><br>
+**Note: If you don't have any selected lineup in your account, no channel will be found. In this case, please read Schedules Direct Lineup Usage first to find/add lineups into your account.**<br><br>
 Now, created channels may be selected for grabbing from **Tempest Configurator** and grabbed with **EPG Generator**<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156169950-86b0e85f-a43f-435e-836a-6bd4ecab0c69.png)
 ![image](https://user-images.githubusercontent.com/97025515/156170639-8653c8f7-2696-4f20-87c5-4680a5b11de4.png)
