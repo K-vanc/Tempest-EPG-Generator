@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="texxas.de_0">
+  <channels>
+    <channel site="texxas.de_0" site_id="0||157##0" xmltv_id="ARD">ARD</channel>
+    <channel site="texxas.de_0" site_id="1||128##0" xmltv_id="ZDF">ZDF</channel>
+    <channel site="texxas.de_0" site_id="2||179##0" xmltv_id="RTL">RTL</channel>
+    <channel site="texxas.de_0" site_id="3||104##0" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="texxas.de_0" site_id="4||151##0" xmltv_id="PRO7">PRO7</channel>
+    <channel site="texxas.de_0" site_id="0||175##1" xmltv_id="RTL2">RTL2</channel>
+    <channel site="texxas.de_0" site_id="1||158##1" xmltv_id="KABEL1">KABEL1</channel>
+    <channel site="texxas.de_0" site_id="2||127##1" xmltv_id="VOX">VOX</channel>
+    <channel site="texxas.de_0" site_id="3||116##1" xmltv_id="3SAT">3SAT</channel>
+    <channel site="texxas.de_0" site_id="4||164##1" xmltv_id="NDR">NDR</channel>
+    <channel site="texxas.de_0" site_id="0||115##2" xmltv_id="WDR">WDR</channel>
+    <channel site="texxas.de_0" site_id="1||161##2" xmltv_id="MDR">MDR</channel>
+    <channel site="texxas.de_0" site_id="2||163##2" xmltv_id="HR">HR</channel>
+    <channel site="texxas.de_0" site_id="3||162##2" xmltv_id="SWR">SWR</channel>
+    <channel site="texxas.de_0" site_id="4||200##2" xmltv_id="BR">BR</channel>
+    <channel site="texxas.de_0" site_id="0||283##3" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel site="texxas.de_0" site_id="1||110##3" xmltv_id="RBB">RBB</channel>
+    <channel site="texxas.de_0" site_id="2||180##3" xmltv_id="HH1">HH1</channel>
+    <channel site="texxas.de_0" site_id="3||217##3" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
+    <channel site="texxas.de_0" site_id="4||140##3" xmltv_id="TV Berlin">TV Berlin</channel>
+    <channel site="texxas.de_0" site_id="0||208##4" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel site="texxas.de_0" site_id="1||173##4" xmltv_id="N-TV">N-TV</channel>
+    <channel site="texxas.de_0" site_id="2||114##4" xmltv_id="WELT">WELT</channel>
+    <channel site="texxas.de_0" site_id="3||845##4" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="texxas.de_0" site_id="4||844##4" xmltv_id="kabel eins Doku">kabel eins Doku</channel>
+    <channel site="texxas.de_0" site_id="0||146##5" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="texxas.de_0" site_id="1||125##5" xmltv_id="CNN">CNN</channel>
+    <channel site="texxas.de_0" site_id="2||184##5" xmltv_id="ZDF INFO">ZDF INFO</channel>
+    <channel site="texxas.de_0" site_id="3||124##5" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="texxas.de_0" site_id="4||302##5" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="texxas.de_0" site_id="0||330##6" xmltv_id="Spiegel TV Wissen">Spiegel TV Wissen</channel>
+    <channel site="texxas.de_0" site_id="1||198##6" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="texxas.de_0" site_id="2||823##6" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel site="texxas.de_0" site_id="3||117##6" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="texxas.de_0" site_id="4||216##6" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="texxas.de_0" site_id="0||331##7" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel site="texxas.de_0" site_id="1||272##7" xmltv_id="DAZN">DAZN</channel>
+    <channel site="texxas.de_0" site_id="2||848##7" xmltv_id="eSports1">eSports1</channel>
+    <channel site="texxas.de_0" site_id="3||154##7" xmltv_id="KIKA">KIKA</channel>
+    <channel site="texxas.de_0" site_id="4||153##7" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="texxas.de_0" site_id="0||846##8" xmltv_id="Toggo Plus">Toggo Plus</channel>
+    <channel site="texxas.de_0" site_id="1||118##8" xmltv_id="Nick">Nick</channel>
+    <channel site="texxas.de_0" site_id="2||264##8" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="texxas.de_0" site_id="3||262##8" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="texxas.de_0" site_id="4||237##8" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="texxas.de_0" site_id="0||256##9" xmltv_id="Junior">Junior</channel>
+    <channel site="texxas.de_0" site_id="1||244##9" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="texxas.de_0" site_id="2||243##9" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="texxas.de_0" site_id="3||275##9" xmltv_id="ANIXE HD">ANIXE HD</channel>
+    <channel site="texxas.de_0" site_id="4||210##9" xmltv_id="ARD Alpha">ARD Alpha</channel>
+    <channel site="texxas.de_0" site_id="0||138##10" xmltv_id="ARTE">ARTE</channel>
+    <channel site="texxas.de_0" site_id="1||276##10" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel site="texxas.de_0" site_id="2||212##10" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="texxas.de_0" site_id="3||205##10" xmltv_id="DMAX">DMAX</channel>
+    <channel site="texxas.de_0" site_id="4||261##10" xmltv_id="HGTV">HGTV</channel>
+    <channel site="texxas.de_0" site_id="0||257##11" xmltv_id="kabel eins CLASSICS">kabel eins CLASSICS</channel>
+    <channel site="texxas.de_0" site_id="1||112##11" xmltv_id="MTV">MTV</channel>
+    <channel site="texxas.de_0" site_id="2||206##11" xmltv_id="ONE">ONE</channel>
+    <channel site="texxas.de_0" site_id="3||834##11" xmltv_id="PRO7 MAXX">PRO7 MAXX</channel>
+    <channel site="texxas.de_0" site_id="4||185##11" xmltv_id="RocketBeans TV">RocketBeans TV</channel>
+    <channel site="texxas.de_0" site_id="0||266##12" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="texxas.de_0" site_id="1||267##12" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="texxas.de_0" site_id="2||830##12" xmltv_id="RTL NITRO">RTL NITRO</channel>
+    <channel site="texxas.de_0" site_id="3||263##12" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="texxas.de_0" site_id="4||841##12" xmltv_id="RTL PLUS">RTL PLUS</channel>
+    <channel site="texxas.de_0" site_id="0||833##13" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
+    <channel site="texxas.de_0" site_id="1||840##13" xmltv_id="Servus TV Deutschland">Servus TV Deutschland</channel>
+    <channel site="texxas.de_0" site_id="2||329##13" xmltv_id="Silverline">Silverline</channel>
+    <channel site="texxas.de_0" site_id="3||341##13" xmltv_id="Sixx">Sixx</channel>
+    <channel site="texxas.de_0" site_id="4||842##13" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
+    <channel site="texxas.de_0" site_id="0||204##14" xmltv_id="Tele5">Tele5</channel>
+    <channel site="texxas.de_0" site_id="1||839##14" xmltv_id="TLC">TLC</channel>
+    <channel site="texxas.de_0" site_id="2||847##14" xmltv_id="VOXup">VOXup</channel>
+    <channel site="texxas.de_0" site_id="3||332##14" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="texxas.de_0" site_id="4||306##14" xmltv_id="Sky One">Sky One</channel>
+    <channel site="texxas.de_0" site_id="0||317##15" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel site="texxas.de_0" site_id="1||831##15" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="texxas.de_0" site_id="2||260##15" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="texxas.de_0" site_id="3||255##15" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="texxas.de_0" site_id="4||300##15" xmltv_id="TNT Serie">TNT Serie</channel>
+    <channel site="texxas.de_0" site_id="0||271##16" xmltv_id="Syfy">Syfy</channel>
+    <channel site="texxas.de_0" site_id="1||238##16" xmltv_id="13th Street">13th Street</channel>
+    <channel site="texxas.de_0" site_id="2||835##16" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="texxas.de_0" site_id="3||843##16" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel site="texxas.de_0" site_id="4||265##16" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="texxas.de_0" site_id="0||309##17" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel site="texxas.de_0" site_id="1||320##17" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel site="texxas.de_0" site_id="2||319##17" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
+    <channel site="texxas.de_0" site_id="3||316##17" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="texxas.de_0" site_id="4||312##17" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="texxas.de_0" site_id="0||270##18" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel site="texxas.de_0" site_id="1||259##18" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="texxas.de_0" site_id="2||828##18" xmltv_id="Sky Cinema Special">Sky Cinema Special</channel>
+    <channel site="texxas.de_0" site_id="3||252##18" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel site="texxas.de_0" site_id="4||240##18" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="texxas.de_0" site_id="0||273##19" xmltv_id="TNT Film">TNT Film</channel>
+    <channel site="texxas.de_0" site_id="1||111##19" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="texxas.de_0" site_id="2||318##19" xmltv_id="Sky Sport UHD">Sky Sport UHD</channel>
+    <channel site="texxas.de_0" site_id="3||325##19" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel site="texxas.de_0" site_id="4||326##19" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="texxas.de_0" site_id="0||313##20" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
+    <channel site="texxas.de_0" site_id="1||314##20" xmltv_id="Sky Sport 4">Sky Sport 4</channel>
+    <channel site="texxas.de_0" site_id="2||315##20" xmltv_id="Sky Sport 5">Sky Sport 5</channel>
+    <channel site="texxas.de_0" site_id="3||322##20" xmltv_id="Sky Sport 6">Sky Sport 6</channel>
+    <channel site="texxas.de_0" site_id="4||328##20" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
+    <channel site="texxas.de_0" site_id="0||279##21" xmltv_id="sportdigital">sportdigital</channel>
+    <channel site="texxas.de_0" site_id="1||308##21" xmltv_id="Sky Bundesliga UHD">Sky Bundesliga UHD</channel>
+    <channel site="texxas.de_0" site_id="2||321##21" xmltv_id="Sky Bundesliga 1">Sky Bundesliga 1</channel>
+    <channel site="texxas.de_0" site_id="3||826##21" xmltv_id="Sky Bundesliga 2">Sky Bundesliga 2</channel>
+    <channel site="texxas.de_0" site_id="4||280##21" xmltv_id="Sky Bundesliga 3">Sky Bundesliga 3</channel>
+    <channel site="texxas.de_0" site_id="0||837##22" xmltv_id="Sky Bundesliga 4">Sky Bundesliga 4</channel>
+    <channel site="texxas.de_0" site_id="1||281##22" xmltv_id="Sky Bundesliga 5">Sky Bundesliga 5</channel>
+    <channel site="texxas.de_0" site_id="2||701##22" xmltv_id="Sky Bundesliga 6">Sky Bundesliga 6</channel>
+    <channel site="texxas.de_0" site_id="3||277##22" xmltv_id="Sky Bundesliga 7">Sky Bundesliga 7</channel>
+    <channel site="texxas.de_0" site_id="4||209##22" xmltv_id="Sky Bundesliga 8">Sky Bundesliga 8</channel>
+    <channel site="texxas.de_0" site_id="0||169##23" xmltv_id="Sky Bundesliga 9">Sky Bundesliga 9</channel>
+    <channel site="texxas.de_0" site_id="1||253##23" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="texxas.de_0" site_id="2||258##23" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel site="texxas.de_0" site_id="3||246##23" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="texxas.de_0" site_id="4||838##23" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel site="texxas.de_0" site_id="0||241##24" xmltv_id="Jukebox">Jukebox</channel>
+    <channel site="texxas.de_0" site_id="1||245##24" xmltv_id="Classica">Classica</channel>
+    <channel site="texxas.de_0" site_id="2||303##24" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="texxas.de_0" site_id="3||305##24" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="texxas.de_0" site_id="4||304##24" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="texxas.de_0" site_id="0||242##25" xmltv_id="Beate Uhse">Beate Uhse</channel>
+    <channel site="texxas.de_0" site_id="1||199##25" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="texxas.de_0" site_id="2||182##25" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="texxas.de_0" site_id="3||824##25" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="texxas.de_0" site_id="4||165##25" xmltv_id="ATV">ATV</channel>
+    <channel site="texxas.de_0" site_id="0||827##26" xmltv_id="ATV 2">ATV 2</channel>
+    <channel site="texxas.de_0" site_id="1||340##26" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="texxas.de_0" site_id="2||287##26" xmltv_id="Sixx Austria">Sixx Austria</channel>
+    <channel site="texxas.de_0" site_id="3||338##26" xmltv_id="Servus TV Austria">Servus TV Austria</channel>
+    <channel site="texxas.de_0" site_id="4||282##26" xmltv_id="ORF SPORT PLUS">ORF SPORT PLUS</channel>
+    <channel site="texxas.de_0" site_id="0||327##27" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
+    <channel site="texxas.de_0" site_id="1||310##27" xmltv_id="Sky Sport Austria 2">Sky Sport Austria 2</channel>
+    <channel site="texxas.de_0" site_id="2||311##27" xmltv_id="Sky Sport Austria 3">Sky Sport Austria 3</channel>
+    <channel site="texxas.de_0" site_id="3||825##27" xmltv_id="Sky Sport Austria 4">Sky Sport Austria 4</channel>
+    <channel site="texxas.de_0" site_id="4||133##27" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="texxas.de_0" site_id="0||149##28" xmltv_id="SRF 2">SRF 2</channel>
+    <channel site="texxas.de_0" site_id="1||168##28" xmltv_id="SRF Info">SRF Info</channel>
+    <channel site="texxas.de_0" site_id="2||285##28" xmltv_id="3+">3+</channel>
+    <channel site="texxas.de_0" site_id="3||832##28" xmltv_id="4+">4+</channel>
+    <channel site="texxas.de_0" site_id="4||836##28" xmltv_id="5+">5+</channel>
+    <channel site="texxas.de_0" site_id="0||849##29" xmltv_id="6+">6+</channel>
+    <channel site="texxas.de_0" site_id="1||181##29" xmltv_id="PULS acht">PULS acht</channel>
+    <channel site="texxas.de_0" site_id="2||194##29" xmltv_id="Star TV">Star TV</channel>
+    <channel site="texxas.de_0" site_id="3||159##29" xmltv_id="Teleclub">Teleclub</channel>
+    <channel site="texxas.de_0" site_id="4||339##29" xmltv_id="Tele 1">Tele 1</channel>
+    <channel site="texxas.de_0" site_id="0||191##30" xmltv_id="Tele M1">Tele M1</channel>
+    <channel site="texxas.de_0" site_id="1||106##30" xmltv_id="Tele Züri">Tele Züri</channel>
+    <channel site="texxas.de_0" site_id="2||819##30" xmltv_id="Telebasel">Telebasel</channel>
+    <channel site="texxas.de_0" site_id="3||284##30" xmltv_id="TeleBärn">TeleBärn</channel>
+    <channel site="texxas.de_0" site_id="4||123##30" xmltv_id="S1">S1</channel>
+    <channel site="texxas.de_0" site_id="0||247##31" xmltv_id="TV24">TV24</channel>
+    <channel site="texxas.de_0" site_id="1||248##31" xmltv_id="TV25">TV25</channel>
+    <channel site="texxas.de_0" site_id="2||131##31" xmltv_id="TVO">TVO</channel>
+  </channels>
+</site>
