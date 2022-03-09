@@ -60,7 +60,7 @@ Once you decided to add a lineup into your account, go to **Siteconfig Debugger*
 <br><br>**Important Note:** If you made a lineup deletion previously, do not forget to change **Url2 Request Method** to **PUT** and save your siteconfig. To avoid add/delete lineup by mistake, it is advised to always check **Url2 Request Method** of your **SchedulesDirect[Lineup]** from **Siteconfig Editor** before any add/delete operation.<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156183096-15d21c55-760e-4664-a0c3-bb4075a5a1ea.png)
 # Delete Lineup From Your Account
-Once you decided to delete a lineup into your account, go to **Siteconfig Editor**, choose **SchedulesDirect[Lineup]** and change **Url2 Request Method** to **DELETE** and save your siteconfig<br><br>
+Once you decided to delete a lineup from your account, go to **Siteconfig Editor**, choose **SchedulesDirect[Lineup]** and change **Url2 Request Method** to **DELETE** and save your siteconfig<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156180729-2ed3769a-d146-4216-a145-d290497bb688.png)
 <br>After go to **Siteconfig Debugger** and enable **Show Element Debugger** from **Show Options** tab<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156179314-400ab639-ebae-48b8-80bb-36cb447e91c0.png)
