@@ -70,4 +70,8 @@ Once you decided to delete a lineup from your account, go to **Siteconfig Editor
 ![image](https://user-images.githubusercontent.com/97025515/156181862-7e568ea8-eab2-47cc-891a-742e81a64ee5.png)
 <br>Once you create new channel list with your **SchedulesDirect[Json]** siteconfig, changes will be reflected to created new channel list.<br>
 # Create List of Your Selected Lineups
-When you run your **SchedulesDirect[Lineup]** siteconfig on **Channel Generator** without any parameter, Tempest will generate list of your selected line-ups.
+When you run your **SchedulesDirect[Lineup]** siteconfig on **Channel Generator** without any parameter, Tempest will generate list of your selected line-ups.<br><br>
+![image](https://user-images.githubusercontent.com/97025515/157399219-73ec69e9-ab43-4df2-be4e-cd541c571705.png)
+<br>
+![image](https://user-images.githubusercontent.com/97025515/157399327-0e25ac64-d0fa-49b3-913e-d12b924ca82d.png)
+
