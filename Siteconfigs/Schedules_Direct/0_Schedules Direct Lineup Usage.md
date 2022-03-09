@@ -3,7 +3,7 @@ Schedules Direct is a non-profit organization whose mission is to educate the pu
 <br>
 In order to use this siteconfig, you must have a valid Schedules Direct membership which may be obtain from below link;<br><br>
 https://www.schedulesdirect.org/membershiplevels
-<br><br>By using this siteconfig, you will be accepted the terms of **Schedules Direct Subscription Aggrement**;<br><br>
+<br><br>By using this siteconfig, you will be accepted the terms of **Schedules Direct Subscription Agreement**;<br><br>
 https://www.schedulesdirect.org/sagreement
 # How to use Schedules Direct Lineup Siteconfig
 With **Schedules Direct Lineup** siteconfig, you can; 
