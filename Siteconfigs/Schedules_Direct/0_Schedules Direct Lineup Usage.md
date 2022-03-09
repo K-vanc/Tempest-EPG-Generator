@@ -66,7 +66,7 @@ Once you decided to delete a lineup from your account, go to **Siteconfig Editor
 ![image](https://user-images.githubusercontent.com/97025515/156179314-400ab639-ebae-48b8-80bb-36cb447e91c0.png)
 <br>Then from **Launch Debugger** tab, choose **SchedulesDirect[Lineup]** siteconfig and choose desired provider to be deleted from **Debug Channel Id** box<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156181688-fa22b78c-0735-4f86-b4a7-cf35a17f3149.png)
-<br>And result and details will be listed on your screen<br><br>
+<br>Result and details will be listed on your screen<br><br>
 ![image](https://user-images.githubusercontent.com/97025515/156181862-7e568ea8-eab2-47cc-891a-742e81a64ee5.png)
 <br>Once you create new channel list with your **SchedulesDirect[Json]** siteconfig, changes will be reflected to created new channel list.<br>
 # Create List of Your Selected Lineups
