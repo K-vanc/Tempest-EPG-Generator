@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]kurier.at_0">
+  <channels>
+    <channel site="[ENC][EX]kurier.at_0" site_id="gotv||gotv.png" xmltv_id="GoTv">GoTv</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rtl||rtl.png" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rtssatscg||rtssatscg.png" xmltv_id="RTS Sat">RTS Sat</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="puls4||puls4.png" xmltv_id="Puls 4">Puls 4</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rtvd||rtvd.png" xmltv_id="rtvd">rtvd</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rtpi||rtpi.png" xmltv_id="RTPI">RTPI</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="SCTV||SCTV.png" xmltv_id="Schau TV">Schau TV</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="sat1.bau||sat1.bau.png" xmltv_id="Sat1">Sat1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="skyspoaustria||skyspoaustria.png" xmltv_id="skyspoaustria">skyspoaustria</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="pro7||pro7.png" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="servustv||servustv.png" xmltv_id="Servus Tv">Servus Tv</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="sf2||sf2.png" xmltv_id="SF2">SF2</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="sixx.au||sixx.au.png" xmltv_id="Sixx Austria">Sixx Austria</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="srtl||srtl.png" xmltv_id="SuperRTL">SuperRTL</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="tele5||tele5.png" xmltv_id="Tele5">Tele5</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="skycinema||skycinema.png" xmltv_id="Sky Cinema">Sky Cinema</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="skyspoaustria||skyspoaustria.png" xmltv_id="skyspoaustria">skyspoaustria</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="tv5||tv5.png" xmltv_id="TV5 monde">TV5 monde</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="hrt1hr||hrt1hr.png" xmltv_id="HRT TV">HRT TV</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="vox||vox.png" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="cnn||cnn.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="kaka||kaka.png" xmltv_id="Kabel1">Kabel1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="eurosp||eurosp.png" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rbb||rbb.png" xmltv_id="RBB">RBB</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="sport1de||sport1de.png" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="sw3||sw3.png" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="ntv||ntv.png" xmltv_id="NTV">NTV</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rai1||rai1.png" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="3sat||3sat.png" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="aljazeera||aljazeera.png" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="alpha||alpha.png" xmltv_id="BR-Alpha">BR-Alpha</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="ard||ard.png" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="arte||arte.png" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="atv||atv.png" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="bayern3||bayern3.png" xmltv_id="Bayrisches Fernsehen">Bayrisches Fernsehen</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="drs||drs.png" xmltv_id="SF1">SF1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="euronews||euronews.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="atvavrupatr||atvavrupatr.png" xmltv_id="ATV Avrupta">ATV Avrupta</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="hessen3||hessen3.png" xmltv_id="HR">HR</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="atv2||atv2.png" xmltv_id="ATV 2">ATV 2</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="cpfr||cpfr.png" xmltv_id="Canal+">Canal+</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="bbcworld||bbcworld.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="mdr||mdr.png" xmltv_id="MDR">MDR</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="kika||kika.png" xmltv_id="Kika">Kika</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="mtv||mtv.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="nord3||nord3.png" xmltv_id="NDR">NDR</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="orf2||orf2.png" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="orfsport||orfsport.png" xmltv_id="ORF Sport">ORF Sport</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="phoenix||phoenix.png" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="tve||tve.png" xmltv_id="TVE Tnternational">TVE Tnternational</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="zdf||zdf.png" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="west3||west3.png" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="rtl2||rtl2.png" xmltv_id="RTL2">RTL2</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="orf3||orf3.png" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="orf1||orf1.png" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC][EX]kurier.at_0" site_id="nick||nick.png" xmltv_id="Nick">Nick</channel>
+  </channels>
+</site>
