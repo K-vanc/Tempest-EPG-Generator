@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tele.at_0">
+  <channels>
+    <channel site="[ENC]tele.at_0" site_id="71/orf-1||orf1-1.png" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC]tele.at_0" site_id="72/orf-2||ORF2_1.png" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC]tele.at_0" site_id="7/atv||atv.png" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC]tele.at_0" site_id="80/puls-4||ptv-2.png" xmltv_id="Puls 4">Puls 4</channel>
+    <channel site="[ENC]tele.at_0" site_id="162/servus-tv||seat1.png" xmltv_id="Servus TV">Servus TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="86/rtl||rtl-v2.png" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tele.at_0" site_id="92/sat-1||sat1.png" xmltv_id="Sat.1">Sat.1</channel>
+    <channel site="[ENC]tele.at_0" site_id="79/prosieben||pro7.png" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC]tele.at_0" site_id="176/atv2||atv2_1.png" xmltv_id="ATV2">ATV2</channel>
+    <channel site="[ENC]tele.at_0" site_id="5/das-erste||ard.png" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC]tele.at_0" site_id="129/zdf||zdf.png" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tele.at_0" site_id="126/vox||vox.png" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC]tele.at_0" site_id="51/kabel-eins||kab.png" xmltv_id="kabel eins">kabel eins</channel>
+    <channel site="[ENC]tele.at_0" site_id="412/puls-24||puls24.png" xmltv_id="PULS 24">PULS 24</channel>
+    <channel site="[ENC]tele.at_0" site_id="87/rtl-zwei||rtl2_neu.png" xmltv_id="RTL zwei">RTL zwei</channel>
+    <channel site="[ENC]tele.at_0" site_id="1/3sat||3sat-1.png" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC]tele.at_0" site_id="6/arte||arte.png" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC]tele.at_0" site_id="175/orf-3||orf3.png" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="[ENC]tele.at_0" site_id="137/br-fernsehen||ba3.png" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel site="[ENC]tele.at_0" site_id="113/super-rtl||super-1.png" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]tele.at_0" site_id="118/tele-5||tl5.png" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC]tele.at_0" site_id="23/comedy-central||Comedy_Central_Neu_61.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]tele.at_0" site_id="163/sixx-austria||sixx_Austria_1.png" xmltv_id="SIXX Austria">SIXX Austria</channel>
+    <channel site="[ENC]tele.at_0" site_id="25/disney-channel||disneychannel.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tele.at_0" site_id="70/okto||okto.png" xmltv_id="OKTO">OKTO</channel>
+    <channel site="[ENC]tele.at_0" site_id="182/pro7-maxx||pro7maxx.png" xmltv_id="Pro7 MAXX">Pro7 MAXX</channel>
+    <channel site="[ENC]tele.at_0" site_id="178/nitro||nitro.png" xmltv_id="NITRO">NITRO</channel>
+    <channel site="[ENC]tele.at_0" site_id="328/rtl-up||rtlup.png" xmltv_id="RTL up">RTL up</channel>
+    <channel site="[ENC]tele.at_0" site_id="184/tlc||tlc-1.png" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]tele.at_0" site_id="180/sat-1-gold||gold.png" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
+    <channel site="[ENC]tele.at_0" site_id="327/kabel-1-doku||k1doku.png" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel site="[ENC]tele.at_0" site_id="2/ard-alpha||ARD-alpha.png" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC]tele.at_0" site_id="77/phoenix||phx-1.png" xmltv_id="phoenix">phoenix</channel>
+    <channel site="[ENC]tele.at_0" site_id="90/swr||s3.png" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]tele.at_0" site_id="127/wdr||wdr.png" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC]tele.at_0" site_id="55/mdr||mdr.png" xmltv_id="MDR">MDR</channel>
+    <channel site="[ENC]tele.at_0" site_id="67/ndr||no3.png" xmltv_id="NDR">NDR</channel>
+    <channel site="[ENC]tele.at_0" site_id="49/hessen-fernsehen||hr3.png" xmltv_id="hessen fernsehen">hessen fernsehen</channel>
+    <channel site="[ENC]tele.at_0" site_id="32/sf1||drs.png" xmltv_id="SF1">SF1</channel>
+    <channel site="[ENC]tele.at_0" site_id="140/sf2||ch4.png" xmltv_id="SF2">SF2</channel>
+    <channel site="[ENC]tele.at_0" site_id="30/dmax||dmax.png" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]tele.at_0" site_id="38/one||fes-one.png" xmltv_id="One">One</channel>
+    <channel site="[ENC]tele.at_0" site_id="131/zdf-neo||zdneo.png" xmltv_id="ZDF neo">ZDF neo</channel>
+    <channel site="[ENC]tele.at_0" site_id="130/zdf-infokanal||zdi.png" xmltv_id="ZDF infokanal">ZDF infokanal</channel>
+    <channel site="[ENC]tele.at_0" site_id="60/n24-doku-austria||n24doku.png" xmltv_id="N24 Doku Austria">N24 Doku Austria</channel>
+    <channel site="[ENC]tele.at_0" site_id="93/silverline||sil.png" xmltv_id="Silverline">Silverline</channel>
+    <channel site="[ENC]tele.at_0" site_id="329/zee-one||zeone-v1.png" xmltv_id="Zee.One">Zee.One</channel>
+    <channel site="[ENC]tele.at_0" site_id="16/bibel-tv||bib.png" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="188/rbb||rbb.png" xmltv_id="RBB">RBB</channel>
+    <channel site="[ENC]tele.at_0" site_id="187/spiegel-tv||spiegeltv.png" xmltv_id="Spiegel TV">Spiegel TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="189/w24||w24-1.png" xmltv_id="W24">W24</channel>
+    <channel site="[ENC]tele.at_0" site_id="394/oe24||oe24.png" xmltv_id="OE24">OE24</channel>
+    <channel site="[ENC]tele.at_0" site_id="54/ki-ka||kka.png" xmltv_id="KI.KA">KI.KA</channel>
+    <channel site="[ENC]tele.at_0" site_id="64/nick||nick.png" xmltv_id="NICK">NICK</channel>
+    <channel site="[ENC]tele.at_0" site_id="186/ric||ric.png" xmltv_id="RIC">RIC</channel>
+    <channel site="[ENC]tele.at_0" site_id="190/fix-foxi||fixfoxi.png" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel site="[ENC]tele.at_0" site_id="124/orf-sport||orfSportPlus.png" xmltv_id="ORF Sport +">ORF Sport +</channel>
+    <channel site="[ENC]tele.at_0" site_id="36/eurosport||euro.png" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC]tele.at_0" site_id="33/sport1||dsf.png" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC]tele.at_0" site_id="146/gotv||got.png" xmltv_id="gotv">gotv</channel>
+    <channel site="[ENC]tele.at_0" site_id="68/n-tv||ntv-v1.png" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC]tele.at_0" site_id="35/euronews||enw.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]tele.at_0" site_id="37/tagesschau24||ext.png" xmltv_id="Tagesschau24">Tagesschau24</channel>
+    <channel site="[ENC]tele.at_0" site_id="22/cnn||cnn.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]tele.at_0" site_id="185/al-jazeera||aljazeera.png" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]tele.at_0" site_id="169/tv5||t5f.png" xmltv_id="TV5">TV5</channel>
+    <channel site="[ENC]tele.at_0" site_id="14/bbc||bb1.png" xmltv_id="BBC">BBC</channel>
+    <channel site="[ENC]tele.at_0" site_id="15/bbc-entertainment||bbce.png" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC]tele.at_0" site_id="164/slovenija-1||sl1.png" xmltv_id="Slovenija 1">Slovenija 1</channel>
+    <channel site="[ENC]tele.at_0" site_id="165/slovenija-2||sl2.png" xmltv_id="Slovenija 2">Slovenija 2</channel>
+    <channel site="[ENC]tele.at_0" site_id="48/hse-24||hot.png" xmltv_id="HSE 24">HSE 24</channel>
+    <channel site="[ENC]tele.at_0" site_id="214/sonnenklar-tv||sonnenklar.png" xmltv_id="Sonnenklar.tv">Sonnenklar.tv</channel>
+    <channel site="[ENC]tele.at_0" site_id="96/sky-cinema-hd||Sky_Cinema_HD.png" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
+    <channel site="[ENC]tele.at_0" site_id="98/sky-cinema-24||skyc2.png" xmltv_id="Sky Cinema +24">Sky Cinema +24</channel>
+    <channel site="[ENC]tele.at_0" site_id="179/sky-atlantic-hd||sky_atlantic_hd_1.png" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="[ENC]tele.at_0" site_id="94/sky-action||skya.png" xmltv_id="Sky Action">Sky Action</channel>
+    <channel site="[ENC]tele.at_0" site_id="100/sky-comedy||skyco.png" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC]tele.at_0" site_id="99/sky-hits||skych.png" xmltv_id="Sky Hits">Sky Hits</channel>
+    <channel site="[ENC]tele.at_0" site_id="103/sky-nostalgie||skyn.png" xmltv_id="Sky Nostalgie">Sky Nostalgie</channel>
+    <channel site="[ENC]tele.at_0" site_id="45/heimatkanal||hek.png" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC]tele.at_0" site_id="112/13th-street||sts.png" xmltv_id="13th Street">13th Street</channel>
+    <channel site="[ENC]tele.at_0" site_id="9/axn||axn.png" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tele.at_0" site_id="41/fox||fox.png" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]tele.at_0" site_id="172/tnt-serie||tnt_serie.png" xmltv_id="TNT-Serie">TNT-Serie</channel>
+    <channel site="[ENC]tele.at_0" site_id="326/tnt-comedy||tnt_comedy.png" xmltv_id="TNT - Comedy">TNT - Comedy</channel>
+    <channel site="[ENC]tele.at_0" site_id="31/tnt-film||tnt_film.png" xmltv_id="TNT- Film">TNT- Film</channel>
+    <channel site="[ENC]tele.at_0" site_id="27/discovery-channel||dis.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tele.at_0" site_id="166/spiegel-geschichte||spge.png" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="[ENC]tele.at_0" site_id="47/history||history.png" xmltv_id="History">History</channel>
+    <channel site="[ENC]tele.at_0" site_id="62/national-geographic||ngeo.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tele.at_0" site_id="73/national-geo-wildlife||ngwi.png" xmltv_id="National Geo. Wildlife">National Geo. Wildlife</channel>
+    <channel site="[ENC]tele.at_0" site_id="21/classica||cla_1.png" xmltv_id="Classica">Classica</channel>
+    <channel site="[ENC]tele.at_0" site_id="50/junior||jun.png" xmltv_id="Junior">Junior</channel>
+    <channel site="[ENC]tele.at_0" site_id="78/disney-junior||Disney-Junior_kl.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]tele.at_0" site_id="104/sky-sport-1||skys1.png" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel site="[ENC]tele.at_0" site_id="105/sky-sport-2||skys2.png" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="[ENC]tele.at_0" site_id="95/sky-bundesliga||skybu.png" xmltv_id="Sky Bundesliga">Sky Bundesliga</channel>
+    <channel site="[ENC]tele.at_0" site_id="106/sky-sport-austria||skysa.png" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel site="[ENC]tele.at_0" site_id="167/sky-sport-hd-1||spohd.png" xmltv_id="Sky Sport HD (1)">Sky Sport HD (1)</channel>
+    <channel site="[ENC]tele.at_0" site_id="177/bon-gusto||bongusto.png" xmltv_id="Bon Gusto">Bon Gusto</channel>
+    <channel site="[ENC]tele.at_0" site_id="18/beate-uhse-tv||but.png" xmltv_id="Beate Uhse TV">Beate Uhse TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="102/sky-krimi||skyk_1.png" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel site="[ENC]tele.at_0" site_id="88/rtl-crime||rtlc.png" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC]tele.at_0" site_id="413/romance-tv||romance.png" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="414/kinowelt-tv||kinowelt.png" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel site="[ENC]tele.at_0" site_id="153/oe1||oe1.png" xmltv_id="Ö1">Ö1</channel>
+    <channel site="[ENC]tele.at_0" site_id="145/fm4||fm4.png" xmltv_id="FM4">FM4</channel>
+  </channels>
+</site>
