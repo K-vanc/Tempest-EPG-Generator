@@ -19,7 +19,7 @@ Copyright © 2019-2022 by Kivanc Altug<br><br>
 Contact Info:<br>
 📧 tempestepg@gmail.com<br><br>
 
-<h3><b>!!NOTIFICATION: I will be in vacation till the end of this month. Cya again with the new updates on 04/2022..!!</b></h3><br><br>
+<h3><b>!!NOTIFICATION: I will be in vacation till the end of this month. Cya again with the new updates on 01/04/2022..!!</b></h3><br><br>
 
 ![tmpstr](https://user-images.githubusercontent.com/97025515/148374196-b02d02fb-6251-4121-aa5c-c798ae9e1e58.jpg)
 ## What is Tempest?
