@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="entertainment.ie_0">
+  <channels>
+    <channel site="entertainment.ie_0" site_id="rte-one||rte-one-tvlogo.png" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel site="entertainment.ie_0" site_id="rte2||rte2-tvlogo.png" xmltv_id="RTÉ2">RTÉ2</channel>
+    <channel site="entertainment.ie_0" site_id="virgin-media-one||virgin-media-one-tvlogo.png" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel site="entertainment.ie_0" site_id="tg4||tg4-tvlogo.png" xmltv_id="TG4">TG4</channel>
+    <channel site="entertainment.ie_0" site_id="virgin-media-two||virgin-media-two-tvlogo.png" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel site="entertainment.ie_0" site_id="virgin-media-three||virgin-media-three-tvlogo.png" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel site="entertainment.ie_0" site_id="bbc-one-ni||bbc-one-northern-ireland-tvlogo.png" xmltv_id="BBC One NI">BBC One NI</channel>
+    <channel site="entertainment.ie_0" site_id="bbc-two-northern-ireland||bbc-two-northern-ireland-tvlogo.png" xmltv_id="BBC Two NI">BBC Two NI</channel>
+    <channel site="entertainment.ie_0" site_id="bbc-four||bbc-four-tvlogo.png" xmltv_id="BBC Four">BBC Four</channel>
+    <channel site="entertainment.ie_0" site_id="channel-4||channel-4-tvlogo.png" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="entertainment.ie_0" site_id="e4||e4-tvlogo.png" xmltv_id="E4">E4</channel>
+    <channel site="entertainment.ie_0" site_id="more4||more4-tvlogo.png" xmltv_id="More4">More4</channel>
+    <channel site="entertainment.ie_0" site_id="sky-showcase||9a04da10c0fe20bf4bcdc9d05e67ac32.png" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel site="entertainment.ie_0" site_id="sky-max||2ab9cdda3ec0fb958d025a5ae63e55ae.png" xmltv_id="Sky Max">Sky Max</channel>
+    <channel site="entertainment.ie_0" site_id="sky-replay||b900c85109af8e9def5bf4cc8bc4440e.png" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel site="entertainment.ie_0" site_id="sky-atlantic||76556423738f7910a05d04acad192749.png" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="entertainment.ie_0" site_id="sky-comedy||62dc5fdfeb978b96af8fcc74fe6f5062.png" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="entertainment.ie_0" site_id="sky-witness||d9c44d717a5ae4382b565cc33f704ae0.png" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel site="entertainment.ie_0" site_id="sky-arts||1c6396ef4553c37a3729b9389bdee65e.png" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel site="entertainment.ie_0" site_id="sky-documentaries||7599abb10b68be95e920e1377b11764d.png" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="entertainment.ie_0" site_id="sky-history||a2656c6b7a769f2cef5769d091e607be.png" xmltv_id="Sky History">Sky History</channel>
+    <channel site="entertainment.ie_0" site_id="sky-history-2||b4686615eedea7f3df9b51b179914cdf.png" xmltv_id="Sky History 2">Sky History 2</channel>
+    <channel site="entertainment.ie_0" site_id="sky-nature||dc274bba1ed6bacf8254d5e7805e6265.png" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="entertainment.ie_0" site_id="sky-crime||c9a893d19beae133aef294380da33d72.png" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="entertainment.ie_0" site_id="utv||7faf03fd4d4ca55b171c6eac9c6e7623.png" xmltv_id="UTV">UTV</channel>
+    <channel site="entertainment.ie_0" site_id="itv2||e0b885c2944c8490ee9813da6d3bc769.png" xmltv_id="ITV2">ITV2</channel>
+    <channel site="entertainment.ie_0" site_id="itv3||itv3-tvlogo.png" xmltv_id="ITV3">ITV3</channel>
+    <channel site="entertainment.ie_0" site_id="itv4||itv4-tvlogo.png" xmltv_id="ITV4">ITV4</channel>
+    <channel site="entertainment.ie_0" site_id="comedy-central||comedy-central-tvlogo.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="entertainment.ie_0" site_id="comedy-central-extra||comedy-central-extra-tvlogo.png" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel site="entertainment.ie_0" site_id="e-entertainment||e-entertainment-tvlogo.png" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="entertainment.ie_0" site_id="dave||dave-tvlogo.png" xmltv_id="Dave">Dave</channel>
+    <channel site="entertainment.ie_0" site_id="gold||gold-tvlogo.png" xmltv_id="GOLD">GOLD</channel>
+    <channel site="entertainment.ie_0" site_id="w||w-tvlogo.png" xmltv_id="W">W</channel>
+    <channel site="entertainment.ie_0" site_id="alibi||alibi-tvlogo.png" xmltv_id="Alibi">Alibi</channel>
+    <channel site="entertainment.ie_0" site_id="syfy||2ded54997dee11add0a42e4cd5defa79.png" xmltv_id="Syfy">Syfy</channel>
+    <channel site="entertainment.ie_0" site_id="horror-channel||5b7884accd548d27f066df0105793ac8.png" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel site="entertainment.ie_0" site_id="drama||drama-tvlogo.png" xmltv_id="Drama">Drama</channel>
+    <channel site="entertainment.ie_0" site_id="great-tv||51a61c7a10f48735d721edddf359c09f.png" xmltv_id="Great! TV">Great! TV</channel>
+    <channel site="entertainment.ie_0" site_id="channel-5||3dbbd404a23af38d25ec4f59db711292.png" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="entertainment.ie_0" site_id="challenge||challenge-tvlogo.png" xmltv_id="Challenge">Challenge</channel>
+    <channel site="entertainment.ie_0" site_id="cbs-reality||207e1c21f41f63bdf1562b9071ec9a23.png" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="entertainment.ie_0" site_id="cbs-drama||48ad436dbd66abc142854708c63e0621.png" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-premiere||sky-cinema-premiere-tvlogo.png" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-adventure||5834171d157fa76dd1ba89b35676e1c0.jpg" xmltv_id="Sky Cinema Adventure">Sky Cinema Adventure</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-hits||sky-cinema-hits-tvlogo.png" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-greats||e2880718eeb512686f38b85f59d7db96.png" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-animation||bad4c9d6cd0d319fc9a9e606c28b048b.png" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-book-day||16193c7d7627b77a880bdb41d3c7ef47.png" xmltv_id="Sky Cinema Book Day">Sky Cinema Book Day</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-action||sky-cinema-action-tvlogo.png" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-comedy||sky-cinema-comedy-tvlogo.png" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-thriller||93b1a0d21d7072d9e36a24d7f2426800.png" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-drama||caf146e90dc02ccd7b92892b0521fe43.png" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel site="entertainment.ie_0" site_id="sky-cinema-sci-fi-horror||2499941131e812bb6f9e576b5eed1099.png" xmltv_id="Sky Cinema Sci-Fi - Horror">Sky Cinema Sci-Fi - Horror</channel>
+    <channel site="entertainment.ie_0" site_id="film4||film4-tvlogo.png" xmltv_id="FilmFour">FilmFour</channel>
+    <channel site="entertainment.ie_0" site_id="tcm||tcm-tvlogo.png" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel site="entertainment.ie_0" site_id="great-movies-classic||8dc75ab9dd13e170f6c735c284eb86a1.png" xmltv_id="Great! Movies Classic">Great! Movies Classic</channel>
+    <channel site="entertainment.ie_0" site_id="great-movies||ce21b8bd24c2dec9203e660537135d87.png" xmltv_id="Great! Movies">Great! Movies</channel>
+    <channel site="entertainment.ie_0" site_id="great-movies-action||caa61dbc243c4ada6cdae0b09988b6a9.png" xmltv_id="Great! Movies Action">Great! Movies Action</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-mix||sky-sports-mix-tvlogo.png" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-main-event||sky-sports-main-event-tvlogo.png" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-premier-league-roi||sky-sports-premier-league-roi-tvlogo.png" xmltv_id="Sky Sports Premier League ROI">Sky Sports Premier League ROI</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-football||sky-sports-football-tvlogo.png" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-cricket||sky-sports-cricket-tvlogo.png" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-golf||sky-sports-golf-tvlogo.png" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-action||sky-sports-action-tvlogo.png" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel site="entertainment.ie_0" site_id="sky-sports-arena-hd||sky-sports-arena-hd-tvlogo.png" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel site="entertainment.ie_0" site_id="eir-sport-1||eir-sport-1-tvlogo.png" xmltv_id="eir Sport 1">eir Sport 1</channel>
+    <channel site="entertainment.ie_0" site_id="eurosport-1||eurosport-1-tvlogo.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="entertainment.ie_0" site_id="eurosport-2||eurosport-2-tvlogo.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="entertainment.ie_0" site_id="bt-sport-1||bt-sport-1-tvlogo.png" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel site="entertainment.ie_0" site_id="bt-sport-2||bt-sport-2-tvlogo.png" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel site="entertainment.ie_0" site_id="bt-sport-3||bt-sport-3-tvlogo.png" xmltv_id="BT Sport 3">BT Sport 3</channel>
+    <channel site="entertainment.ie_0" site_id="bt-sportespn||bt-sportespn-tvlogo.png" xmltv_id="BT Sport/ESPN">BT Sport/ESPN</channel>
+    <channel site="entertainment.ie_0" site_id="virgin-media-sport||9875391ab248c2828a2d7ff0b30fc51e.png" xmltv_id="Virgin Media Sport">Virgin Media Sport</channel>
+    <channel site="entertainment.ie_0" site_id="pick||pick-tvlogo.png" xmltv_id="Pick">Pick</channel>
+    <channel site="entertainment.ie_0" site_id="home||home-tvlogo.png" xmltv_id="Home">Home</channel>
+    <channel site="entertainment.ie_0" site_id="really||really-tvlogo.png" xmltv_id="Really">Really</channel>
+    <channel site="entertainment.ie_0" site_id="tlc||tlc-tvlogo.png" xmltv_id="TLC">TLC</channel>
+    <channel site="entertainment.ie_0" site_id="national-geographic||national-geographic-channel-tvlogo.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="entertainment.ie_0" site_id="discovery-channel||discovery-channel-tvlogo.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="entertainment.ie_0" site_id="animal-planet||animal-planet-tvlogo.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="entertainment.ie_0" site_id="discovery-history||discovery-history-tvlogo.png" xmltv_id="Discovery History">Discovery History</channel>
+    <channel site="entertainment.ie_0" site_id="discovery-science||discovery-science-tvlogo.png" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="entertainment.ie_0" site_id="discovery-turbo||discovery-turbo-tvlogo.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="entertainment.ie_0" site_id="national-geographic-wild||b82a5055d2b63303e80f030b5e3e7a07.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="entertainment.ie_0" site_id="investigation-discovery||investigation-discovery-tvlogo.png" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="entertainment.ie_0" site_id="dmax||dmax-tvlogo.png" xmltv_id="DMAX">DMAX</channel>
+    <channel site="entertainment.ie_0" site_id="eden||eden-tvlogo.png" xmltv_id="Eden">Eden</channel>
+    <channel site="entertainment.ie_0" site_id="yesterday||yesterday-tvlogo.png" xmltv_id="Yesterday">Yesterday</channel>
+    <channel site="entertainment.ie_0" site_id="mtv||mtv-tvlogo.png" xmltv_id="MTV">MTV</channel>
+    <channel site="entertainment.ie_0" site_id="cbbc||cbbc-tvlogo.png" xmltv_id="CBBC">CBBC</channel>
+    <channel site="entertainment.ie_0" site_id="cbeebies||cbeebies-tvlogo.png" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="entertainment.ie_0" site_id="rte-jr||rte-jr-tvlogo.png" xmltv_id="RTÉ Jr">RTÉ Jr</channel>
+    <channel site="entertainment.ie_0" site_id="cartoon-network||cartoon-network-tvlogo.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="entertainment.ie_0" site_id="boomerang||boomerang-tvlogo.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="entertainment.ie_0" site_id="nickelodeon||nickelodeon-tvlogo.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="entertainment.ie_0" site_id="nicktoons||nicktoons-tvlogo.png" xmltv_id="Nicktoons">Nicktoons</channel>
+  </channels>
+</site>
