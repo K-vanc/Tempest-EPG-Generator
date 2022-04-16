@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tv.cctv.com_0">
+  <channels>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv1||cctv-1_180817.png" xmltv_id="CCTV1">CCTV1</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv2||cctv-2_180817.png" xmltv_id="CCTV2">CCTV2</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv3||cctv-3_180817.png" xmltv_id="CCTV3">CCTV3</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv4||cctv-4_180817.png" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv5||cctv-5_180817.png" xmltv_id="CCTV5">CCTV5</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv6||cctv-6_180817.png" xmltv_id="CCTV6">CCTV6</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv7||cctv-7_180817.png" xmltv_id="CCTV7">CCTV7</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv8||cctv-8_180817.png" xmltv_id="CCTV8">CCTV8</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctvjilu||cctv-9_180817.png" xmltv_id="CCTVJILU">CCTVJILU</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv10||cctv-10_180817.png" xmltv_id="CCTV10">CCTV10</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv11||cctv-11_180817.png" xmltv_id="CCTV11">CCTV11</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv12||cctv-12_180817.png" xmltv_id="CCTV12">CCTV12</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv13||cctv-13_180817.png" xmltv_id="CCTV13">CCTV13</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctvchild||cctv-14_180817.png" xmltv_id="CCTVCHILD">CCTVCHILD</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv15||cctv-15_180817.png" xmltv_id="CCTV15">CCTV15</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv5plus||cctv5+_180817.png" xmltv_id="CCTV5PLUS">CCTV5PLUS</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv16||cctv-16_180817.png" xmltv_id="CCTV16">CCTV16</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctv17||cctv-17_180817.png" xmltv_id="CCTV17">CCTV17</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctveurope||cctv4-Europe_180817.png" xmltv_id="CCTVEUROPE">CCTVEUROPE</channel>
+    <channel site="[ENC]tv.cctv.com_0" site_id="cctvamerica||cctv4-America_180817.png" xmltv_id="CCTVAMERICA">CCTVAMERICA</channel>
+  </channels>
+</site>
