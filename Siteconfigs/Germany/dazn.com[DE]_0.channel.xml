@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="dazn.com[DE]_0">
+  <channels>
+    <channel site="dazn.com[DE]_0" site_id="DAZN 1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="dazn.com[DE]_0" site_id="DAZN 2" xmltv_id="DAZN 2">DAZN 2</channel>
+  </channels>
+</site>
