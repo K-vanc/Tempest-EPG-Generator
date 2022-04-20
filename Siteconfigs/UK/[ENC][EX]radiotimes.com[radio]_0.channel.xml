@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]radiotimes.com[radio]_0">
+  <channels>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfm||0ac1128e-0f68-5f4f-8a4a-c3f7bd141bd2.png" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfp||c1b97709-67a5-5bb6-a9f5-0d01bcb00356.png" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfq||4da4c3f4-9a3a-5163-86bd-2a985c37f00d.png" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfs||b245851f-b583-5359-8ea3-d116b4fea1ff.png" xmltv_id="BBC Radio 4 FM">BBC Radio 4 FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htsr||19cdf2ab-6c54-54e5-a4f4-8a78e9df14f8.png" xmltv_id="BBC Radio 4 LW">BBC Radio 4 LW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfr||675cf897-6afc-5c8d-9485-80aece45fefd.png" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htft||9c0937d4-02ff-5fe5-bd9b-6cb402407875.png" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfv||9cfb258d-82a4-5b1b-b41a-ca7e3e5447d2.png" xmltv_id="BBC Radio 5 Sports Extra">BBC Radio 5 Sports Extra</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfw||4cc2f333-f5bd-59a8-9d35-05ad1263f526.png" xmltv_id="BBC Radio 6 Music">BBC Radio 6 Music</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfn||fdc46758-7fa1-5fb0-ba96-758a2d3503b5.png" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htfb||1648bd57-ea3b-5828-8f63-081360c483e2.png" xmltv_id="BBC Asian Network">BBC Asian Network</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htf2||f06df5a4-062a-551b-8abf-9e5a50bca53d.png" xmltv_id="BBC World Service">BBC World Service</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htdz||3f9354ca-5f40-5ddc-9233-c65d409a4986.png" xmltv_id="Absolute Radio">Absolute Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htt6||ca0bc380-c3d4-5f63-8b42-9e8f3c998260.png" xmltv_id="Absolute Radio 80s">Absolute Radio 80s</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htt7||3a61d2f3-1176-5d60-bc5a-ef2d5da2a24a.png" xmltv_id="Absolute Radio 90s">Absolute Radio 90s</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htt8||8bf7ef5a-e36f-5bd8-9c7e-11a9a0ec554a.png" xmltv_id="Absolute Radio Classic Rock">Absolute Radio Classic Rock</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htdy||15e6e9da-fd8b-566d-bf5b-bd156248015e.png" xmltv_id="95-106 Capital FM">95-106 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htvp||89ca737a-1e85-5736-b44b-ecf13cb5f445.png" xmltv_id="Capital XTRA">Capital XTRA</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hthq||79eedcc2-7f83-5c26-b85e-e2e24545af9c.png" xmltv_id="Classic FM">Classic FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hts5||e6f40016-bab9-58f4-a391-6012e1fff72e.png" xmltv_id="Gold">Gold</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htj4||959d3f8d-fe72-5e17-aba5-abbf2814c18c.png" xmltv_id="Heart London">Heart London</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmj||44106641-1666-5655-b721-7aed26c89a86.png" xmltv_id="Heat">Heat</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htw5||1a4a30db-cf21-5905-adbe-01a7386291e2.png" xmltv_id="Jazz FM">Jazz FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htkp||78ff2b52-5b10-5015-9c28-6e87b4680df5.png" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htkq||8a45fab2-db90-5186-8eac-59cef64fd83e.png" xmltv_id="Kiss 100">Kiss 100</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htkr||bd7ba8fe-b4f4-50b3-94d8-822943689f63.png" xmltv_id="LBC">LBC</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htkv||ae3570ee-45ff-51e4-b819-6a8c6214ddd3.png" xmltv_id="Magic 105.4">Magic 105.4</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httg||fac19293-9749-5f39-947d-de1bf4e0acdf.png" xmltv_id="Planet Rock">Planet Rock</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htyc||c1b9be55-242f-53d2-962c-7e8b03d0f1fc.png" xmltv_id="Scala Radio">Scala Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvh4||a56c95f4-5921-5831-9674-05dc440b9e6f.png" xmltv_id="Smooth Radio 100.4">Smooth Radio 100.4</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httt||2fa8350d-9e8a-5027-8270-c68709d6dfeb.png" xmltv_id="talkSPORT">talkSPORT</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmg||544adca0-335c-52bd-ba0c-c56ee0f94c11.png" xmltv_id="talkSPORT 2">talkSPORT 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht6z||c5e58b4d-25fd-5ac0-b844-2ae4bfab29e0.png" xmltv_id="Times Radio">Times Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htty||16ce22a3-4f40-5346-a603-1094685238c3.png" xmltv_id="Virgin Radio">Virgin Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httj||86fdaa71-405a-5af3-b5cf-fd9a54464db0.png" xmltv_id="Radio X">Radio X</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htrt||1f3ff01f-da12-5eec-b895-1c68b86b82ac.png" xmltv_id="BBC Radio Wales">BBC Radio Wales</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htrr||653254a5-177a-5077-b0a2-833d1b4ea7f3.png" xmltv_id="BBC Radio Cymru">BBC Radio Cymru</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htq6||4c069b59-d0c5-5af4-964e-2e19becc5eb6.png" xmltv_id="BBC Radio Scotland FM">BBC Radio Scotland FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htq5||317d6244-6d10-5a4b-aa2d-dbb2f620db4c.png" xmltv_id="BBC Radio Nan Gàidheal">BBC Radio Nan Gàidheal</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htp6||4bb2957c-5d00-5b83-a02b-ba902e78db03.png" xmltv_id="BBC Radio Ulster">BBC Radio Ulster</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htp5||a29caf8c-6fbf-5288-9cab-1e95df015998.png" xmltv_id="BBC Radio Foyle">BBC Radio Foyle</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htsp||e30970bc-b68f-5cc3-b19d-f099e22a94a6.png" xmltv_id="95.8 Capital FM">95.8 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvng||6614b22d-6d60-59c9-9d1c-ba54bcd5e23c.png" xmltv_id="97.4/103.2 Capital FM">97.4/103.2 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj6||527af329-56bb-5cef-b43f-da2a12e85733.png" xmltv_id="99-107 Capital FM">99-107 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkg||1b55c38e-1f51-55fa-9460-7e9d6903d2d5.png" xmltv_id="102.2 Capital FM">102.2 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnd||b21d7e27-78e6-5ad6-b02c-00890302de98.png" xmltv_id="103.1 Central FM">103.1 Central FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmr||c0fe1cc4-5fd7-5cf6-8288-b14ce20b1b31.png" xmltv_id="103.2 Capital FM">103.2 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvh5||3541e52c-556a-5640-a32d-2a9f483279dc.png" xmltv_id="105 Capital FM">105 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvpz||4f1e0ceb-6abc-503a-953b-0b7432403408.png" xmltv_id="105-106 Capital FM Scotland">105-106 Capital FM Scotland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnv||1be154ad-9a06-52d4-848b-320cd133077f.png" xmltv_id="107.2 Capital FM">107.2 Capital FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn5||48d53f2f-3742-58ec-813a-e8d1b3102a1d.png" xmltv_id="107.6 Capital FM Liverpool">107.6 Capital FM Liverpool</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjx" xmltv_id="Bay Radio">Bay Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdv||3dbc2f5d-aab9-5722-b8cb-345b8bfad2c4.png" xmltv_id="BBC CWR DAB">BBC CWR DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdt||59040cca-4bd8-5cdc-aac1-49b5c9847807.png" xmltv_id="BBC CWR FM">BBC CWR FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfr||3be148c8-1165-5c25-a996-f062110e906e.png" xmltv_id="BBC Essex 95.3FM">BBC Essex 95.3FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf4||d0b83f30-46db-5d17-b699-6881e89ce03f.png" xmltv_id="BBC Essex 103.5FM">BBC Essex 103.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfx||24b17fbf-efbd-5fb9-ace0-ac68d1ba934b.png" xmltv_id="BBC Essex DAB">BBC Essex DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdr||8fff8dc4-9170-5819-b3be-6a2d068aec67.png" xmltv_id="BBC Hereford &amp; Worcester">BBC Hereford &amp; Worcester</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdx||fbc88aef-8fbf-51cb-824e-4fc3cb5b8dc7.png" xmltv_id="BBC Hereford &amp; Worcester 104.6FM">BBC Hereford &amp; Worcester 104.6FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdw" xmltv_id="BBC Hereford &amp; Worcester 104.7">BBC Hereford &amp; Worcester 104.7</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdq||d1a4d3a2-ed70-582b-a308-ba211c27ae41.png" xmltv_id="BBC Hereford &amp; Worcester 104FM">BBC Hereford &amp; Worcester 104FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvds" xmltv_id="BBC Hereford &amp; Worcester DAB">BBC Hereford &amp; Worcester DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdk||93b2020b-35eb-595b-93cb-2db62d579cf6.png" xmltv_id="BBC Lincolnshire DAB">BBC Lincolnshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdm||9bda3bd1-c60c-5836-b4d9-3e2cfedc36ae.png" xmltv_id="BBC Lincolnshire FM">BBC Lincolnshire FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhv||698a97f1-07e8-5de9-a557-6ca2f035e902.png" xmltv_id="BBC Newcastle">BBC Newcastle</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhw||719eb9e3-6390-5db0-a3a1-2abc597f4a7a.png" xmltv_id="BBC Newcastle DAB">BBC Newcastle DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgb" xmltv_id="BBC Oxford DAB">BBC Oxford DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf9||f35042d9-e1c1-5f8e-a207-ec7a7fbb6aab.png" xmltv_id="BBC Oxford FM">BBC Oxford FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgf||c4fb9e1d-fcd5-5fe2-8cb5-07e8055d2152.png" xmltv_id="BBC Oxford MW">BBC Oxford MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhd||8372190f-d68d-5656-aeca-159486e3f5b0.png" xmltv_id="BBC Radio Berkshire DAB">BBC Radio Berkshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhb||dcfd73ae-f7bf-5263-8aff-c7601c662ac4.png" xmltv_id="BBC Radio Berkshire FM">BBC Radio Berkshire FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjp||110232ff-c474-5e2d-9628-4e5e05239103.png" xmltv_id="BBC Radio Bristol 94.9FM">BBC Radio Bristol 94.9FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjj||51de8246-ec93-5a70-9eb9-d32ff489b692.png" xmltv_id="BBC Radio Bristol 104.6FM">BBC Radio Bristol 104.6FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjn||19cffd49-37a7-5521-925e-cb5a459a62b3.png" xmltv_id="BBC Radio Bristol DAB">BBC Radio Bristol DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfh||004c291b-27e5-5379-8ac3-6e9b26a5fe36.png" xmltv_id="BBC Radio Cambridgeshire 95.7FM">BBC Radio Cambridgeshire 95.7FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfk||740a2d6f-b2e5-52a1-92ef-9c4a74402a88.png" xmltv_id="BBC Radio Cambridgeshire 96FM">BBC Radio Cambridgeshire 96FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfj" xmltv_id="BBC Radio Cambridgeshire DAB">BBC Radio Cambridgeshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjs||06fb0920-f7a2-5019-a202-b344cdb7b6b4.png" xmltv_id="BBC Radio Cornwall DAB">BBC Radio Cornwall DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjt||8aa3aa60-a1d8-5483-be85-08846143ad84.png" xmltv_id="BBC Radio Cornwall FM">BBC Radio Cornwall FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhn||e7039f44-2235-5007-a29b-3ca61f2ccbe3.png" xmltv_id="BBC Radio Cumbria FM">BBC Radio Cumbria FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkx||34fdf7ad-7be7-5bc5-af61-2ccb4b2fbbb1.png" xmltv_id="BBC Radio Cumbria MW">BBC Radio Cumbria MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htrs||d94b8ea9-ba25-56f3-85db-66251a8672d4.png" xmltv_id="BBC Radio Cymru 2">BBC Radio Cymru 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvc7||df92e324-81f8-52f2-8f5c-8ccce3d6e5aa.png" xmltv_id="BBC Radio Cymru DAB">BBC Radio Cymru DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvc9||84b037f5-293c-592a-b34c-a51b5894518a.png" xmltv_id="BBC Radio Cymru N Wales Cymru">BBC Radio Cymru N Wales Cymru</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvc8||eb04305b-4345-5791-8d14-3d88aae3cc21.png" xmltv_id="BBC Radio Cymru SW Wales Cymru">BBC Radio Cymru SW Wales Cymru</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgg||842b64b0-cfc5-5af7-952e-4b2af7cf2229.png" xmltv_id="BBC Radio Derby FM">BBC Radio Derby FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgh||f480919d-5e7e-597e-a91f-6708fc87f099.png" xmltv_id="BBC Radio Derby MW">BBC Radio Derby MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfd||e88e460b-6053-5a0c-a26e-2283aa85e5c4.png" xmltv_id="BBC Radio Devon 94.8FM">BBC Radio Devon 94.8FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfb||2a2d1a2e-3027-572a-99d2-1c3bb22a1399.png" xmltv_id="BBC Radio Devon 95.7FM">BBC Radio Devon 95.7FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd8||6cf2f2ee-ff33-5bd5-bc7d-cbde8835ee10.png" xmltv_id="BBC Radio Devon 95.8FM">BBC Radio Devon 95.8FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfg||3d229324-b765-5c85-8704-fb21fc5c5c5d.png" xmltv_id="BBC Radio Devon 96FM">BBC Radio Devon 96FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfc||c683ab99-e45c-5942-902a-fdf47ac344be.png" xmltv_id="BBC Radio Devon 103.4FM">BBC Radio Devon 103.4FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvff||cbf02d6f-08e7-5531-9670-efdee875e28e.png" xmltv_id="BBC Radio Devon 104.3FM">BBC Radio Devon 104.3FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd9||01d37e12-a110-5324-ab66-29a8463f3259.png" xmltv_id="BBC Radio Devon DAB Countywide">BBC Radio Devon DAB Countywide</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd7||da0ef40f-5ac9-5458-bee0-eafbd60318d1.png" xmltv_id="BBC Radio Devon DAB Plymouth">BBC Radio Devon DAB Plymouth</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjc" xmltv_id="BBC Radio Gloucestershire DAB">BBC Radio Gloucestershire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjf||da7d696b-dd48-599f-9c75-e5a6cbb8cba8.png" xmltv_id="BBC Radio Gloucestershire FM">BBC Radio Gloucestershire FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjd||0b3bf796-c028-5863-84a6-7f8aa09bea8b.png" xmltv_id="BBC Radio Gloucestershire MW">BBC Radio Gloucestershire MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht6v" xmltv_id="BBC Radio Highlands and Islands">BBC Radio Highlands and Islands</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf7||46fb3099-b45f-50b8-a08b-83425d0509f2.png" xmltv_id="BBC Radio Humberside DAB">BBC Radio Humberside DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfv||296cb6e2-1f03-5168-98cf-e3f060e511f7.png" xmltv_id="BBC Radio Humberside FM">BBC Radio Humberside FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvks||7634f553-0235-5735-9478-9a3af6a6b62f.png" xmltv_id="BBC Radio Jersey FM">BBC Radio Jersey FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvky||5ea88f10-7018-51ab-a658-0490c7bb7539.png" xmltv_id="BBC Radio Jersey MW">BBC Radio Jersey MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhc||d254f30b-6464-5dfd-b7e7-b52ef3eac85e.png" xmltv_id="BBC Radio Kent DAB">BBC Radio Kent DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhf||6e2341bd-b56e-573b-b09f-ee5d61fc61bb.png" xmltv_id="BBC Radio Kent FM">BBC Radio Kent FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhj||c7c320bb-370c-55cc-a023-f791a62c61f0.png" xmltv_id="BBC Radio Lancashire 95.5FM">BBC Radio Lancashire 95.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhh||046e6bb3-bfea-560e-a6e5-58c867e8290e.png" xmltv_id="BBC Radio Lancashire 103.9FM">BBC Radio Lancashire 103.9FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhk||377350c1-c512-547e-b3d0-426f9222b3b1.png" xmltv_id="BBC Radio Lancashire 104.5FM">BBC Radio Lancashire 104.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhg||3f9b4f10-d980-559c-9621-5afec8755e8a.png" xmltv_id="BBC Radio Lancashire DAB">BBC Radio Lancashire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvft||419eae3e-ebd9-5915-a96f-fe9daa433f65.png" xmltv_id="BBC Radio Leeds FM">BBC Radio Leeds FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfy||bf0d5181-f6fb-5215-9c94-273acf5fb073.png" xmltv_id="BBC Radio Leicester DAB">BBC Radio Leicester DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf2||1a88a580-58af-5dc1-8668-b326f387db1a.png" xmltv_id="BBC Radio Leicester FM">BBC Radio Leicester FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htpq||ee83f6ee-bc31-545d-b620-a7b88cd499c4.png" xmltv_id="BBC Radio London">BBC Radio London</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdc||64ad34b9-265f-5acc-b7d4-bfda96661efc.png" xmltv_id="BBC Radio London DAB">BBC Radio London DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdb||666f7b60-1384-56e1-9d34-b29bacd9d612.png" xmltv_id="BBC Radio London Sky">BBC Radio London Sky</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfs" xmltv_id="BBC Radio Manchester DAB">BBC Radio Manchester DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfq||499f5730-d8bf-5675-bfbf-144f4c141763.png" xmltv_id="BBC Radio Manchester FM">BBC Radio Manchester FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkq||e393f828-f022-561b-a35f-11c2796b49c8.png" xmltv_id="BBC Radio Merseyside DAB">BBC Radio Merseyside DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjh||38a645f7-2c60-5f48-8fda-2807ab32a769.png" xmltv_id="BBC Radio Merseyside FM">BBC Radio Merseyside FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkm||aa25f647-b8d5-5657-9783-77ac0efe4594.png" xmltv_id="BBC Radio Norfolk FM">BBC Radio Norfolk FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfw||e4dfd413-f1df-520a-8f80-47ca4a257883.png" xmltv_id="BBC Radio Northampton DAB">BBC Radio Northampton DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf8||3a5f8cd2-df99-51a1-b134-8d6b52d78795.png" xmltv_id="BBC Radio Northampton FM">BBC Radio Northampton FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf5||46fcb71f-ca3b-52a5-a82c-5910d4bc9f16.png" xmltv_id="BBC Radio Nottingham">BBC Radio Nottingham</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfz||9dba3e51-4ca3-559e-8591-655d4f045454.png" xmltv_id="BBC Radio Nottingham 95.5FM">BBC Radio Nottingham 95.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvf6||73523bdb-5237-52e1-8eeb-4905e22fcae0.png" xmltv_id="BBC Radio Nottingham 103.8FM">BBC Radio Nottingham 103.8FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhx||41f5a310-7e93-55aa-8a4c-fa9bcda78ea2.png" xmltv_id="BBC Radio Orkney">BBC Radio Orkney</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhy||8853a245-b0ea-5d32-b6a4-139c9d4fc218.png" xmltv_id="BBC Radio Orkney MW">BBC Radio Orkney MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htvh||a7304cd8-e868-5de7-adbf-4d675effd56f.png" xmltv_id="BBC Radio Scotland MW">BBC Radio Scotland MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvct||82af944f-dd2f-5b78-b853-ec64516742eb.png" xmltv_id="BBC Radio Sheffield DAB">BBC Radio Sheffield DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcv||c3592779-9153-59d7-8909-0766a0c77e69.png" xmltv_id="BBC Radio Sheffield FM">BBC Radio Sheffield FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm9||92599312-04ac-557e-b61b-e717c9f707ef.png" xmltv_id="BBC Radio Shetland">BBC Radio Shetland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj2||46dac970-8e39-5e09-a9f6-d24d58dda1a1.png" xmltv_id="BBC Radio Shetland MW">BBC Radio Shetland MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcw||0c10d944-10ed-5943-94ea-6dccc662eade.png" xmltv_id="BBC Radio Shropshire DAB">BBC Radio Shropshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcx||2d300c19-0e17-50ad-ac0c-db104ca7b611.png" xmltv_id="BBC Radio Shropshire FM">BBC Radio Shropshire FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvg7||fa206b6c-28bb-5fbb-ae52-6ab2bd976415.png" xmltv_id="BBC Radio Solent 96.1FM">BBC Radio Solent 96.1FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvg8||fc04d51d-12fe-5b4b-8127-18b34d5fe610.png" xmltv_id="BBC Radio Solent 103.8FM">BBC Radio Solent 103.8FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvg9||cb719837-99bc-57c4-981e-59af948a9561.png" xmltv_id="BBC Radio Solent Dorset DAB">BBC Radio Solent Dorset DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvg6||e93e157a-77ec-56e9-b106-49c6ebc5b29e.png" xmltv_id="BBC Radio Solent Hampshire DAB">BBC Radio Solent Hampshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvck||d67374df-b518-527d-9776-5cd653a9250e.png" xmltv_id="BBC Radio Stoke DAB">BBC Radio Stoke DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcj||bd41ae66-dbb4-5fbe-8aaa-5d1c5997ac84.png" xmltv_id="BBC Radio Stoke FM">BBC Radio Stoke FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdn||9abbc762-bce7-5ae7-8e98-cae4f2f77e46.png" xmltv_id="BBC Radio Suffolk FM">BBC Radio Suffolk FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdp||9da5d998-50ac-591a-87f9-d2a034f55004.png" xmltv_id="BBC Radio Suffolk MW">BBC Radio Suffolk MW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfn||dd54eeaa-4343-50ff-972d-5f36eb27fa32.png" xmltv_id="BBC Radio Surrey">BBC Radio Surrey</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfm||9f24d811-ad5a-5850-bba7-ae89708e25a9.png" xmltv_id="BBC Radio Sussex">BBC Radio Sussex</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcm||c112f9ee-2850-5290-8527-83a9650d879b.png" xmltv_id="BBC Radio Wales Cardiff FM">BBC Radio Wales Cardiff FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcr||fd0a5b27-20e4-5127-ae4e-e1c6f7104132.png" xmltv_id="BBC Radio Wales North FM">BBC Radio Wales North FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcn||fe7260e2-058e-5f44-adff-72f293c546ed.png" xmltv_id="BBC Radio Wales South East FM">BBC Radio Wales South East FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcs||63c2a64b-a8b9-577f-bd7f-fc5344a51813.png" xmltv_id="BBC Radio Wales South FM">BBC Radio Wales South FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcp||0a5bbaa9-215f-5e97-8b79-a39dc3b3aaa9.png" xmltv_id="BBC Radio Wales South West FM">BBC Radio Wales South West FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvcq||0bc8ed2a-47b0-5bb1-982d-12fa8f499f61.png" xmltv_id="BBC Radio Wales Swansea FM">BBC Radio Wales Swansea FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgd||f59f91a2-d143-569d-8dc0-0b25c94650d3.png" xmltv_id="BBC Radio York DAB">BBC Radio York DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgc||d5cfe4c8-d068-55a6-8def-397184be59b6.png" xmltv_id="BBC Radio York FM">BBC Radio York FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjm||95474ae8-273e-5e94-8545-be37cac56a27.png" xmltv_id="BBC Wiltshire DAB">BBC Wiltshire DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjk||2eeb476a-25ce-50d9-a8f6-ddd88f18d361.png" xmltv_id="BBC Wiltshire FM">BBC Wiltshire FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht5z||df95b1f4-6024-5ab1-a09b-1ef28e6199fa.png" xmltv_id="BBC WM DAB">BBC WM DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htsb||1a964ebe-9d12-5487-9ad0-4d97ac05218a.png" xmltv_id="BBC WM FM">BBC WM FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvch||2a03093b-10a6-5442-bc22-a2607e36f628.png" xmltv_id="BBC World Service Europe">BBC World Service Europe</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn9||da8ea7df-1a56-5a2c-ba66-debfb0b93354.png" xmltv_id="BCB 106.6FM">BCB 106.6FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htvj" xmltv_id="BFBS Radio">BFBS Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkw" xmltv_id="Blackburn Hospital Radio">Blackburn Hospital Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm7" xmltv_id="C102 North Cork">C102 North Cork</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8k" xmltv_id="C103">C103</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj5" xmltv_id="Cannock Chase Radio">Cannock Chase Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdz||ae24d536-74cf-5e12-83dd-e0b1662a39ee.png" xmltv_id="CFM">CFM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn2||a5ad3778-833c-5585-8b8a-52507ba4d28d.png" xmltv_id="Channel 103">Channel 103</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkz||d7864be1-43e9-5765-86e3-34cb01c63c2f.png" xmltv_id="Choice">Choice</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8c" xmltv_id="Clare FM">Clare FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd2||d624b6e1-b25a-591b-9f36-846d87b656d2.png" xmltv_id="Clyde 1">Clyde 1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd4||5283590a-df28-53c3-979e-f3f6d0c5cc6d.png" xmltv_id="Clyde 2">Clyde 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj9||a16c6178-fb0c-5f60-889d-c66b66610b56.png" xmltv_id="Coastline FM">Coastline FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmq||c19f0310-b53d-585e-8a09-f12c73e0f6cf.png" xmltv_id="Cool FM">Cool FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjz||4ed6fddb-9c54-54ba-a4ef-0e7e25b51834.png" xmltv_id="Cork's 96FM">Cork's 96FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnp" xmltv_id="CRC 102.9">CRC 102.9</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk4||3e800746-e90e-5406-8002-02d829ce668f.png" xmltv_id="CUH FM">CUH FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htv2" xmltv_id="Desi Radio">Desi Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdy||c40875a3-b69b-5c2f-8b36-ee1faf190e7e.png" xmltv_id="Downtown Radio">Downtown Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8x||f11b8e9e-46e4-5eab-9e78-b58cd8bdc185.png" xmltv_id="Dublin's 98FM">Dublin's 98FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8p||bb39f7d0-e20a-5ea6-ade7-0113870f75f6.png" xmltv_id="Dublin's Q102">Dublin's Q102</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8j" xmltv_id="East Coast FM">East Coast FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htwd" xmltv_id="EWTN Catholic">EWTN Catholic</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht84||5fc8fdbc-e82b-5581-b214-3a2308b4955d.png" xmltv_id="FM104">FM104</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmc||036350a2-50d8-5f9c-ba6f-be1238a906d3.png" xmltv_id="Forest FM">Forest FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmt||9beae2a9-5424-53d0-85d3-41f50e260b26.png" xmltv_id="Forth 1">Forth 1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqt||6cb2e424-3b2f-5a06-b227-d53e14f31e83.png" xmltv_id="Forth 2">Forth 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnh||39163e29-c97d-5f2f-9def-7ddff703a027.png" xmltv_id="Free Radio Birmingham">Free Radio Birmingham</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqd||ee2a08c2-66ec-5b06-9ec3-0b60b189440e.png" xmltv_id="Free Radio Coventry &amp; Warwickshire">Free Radio Coventry &amp; Warwickshire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmk||7c671838-6580-5411-a27c-70d34138ee2f.png" xmltv_id="Free Radio Hereford &amp; Worcestershire">Free Radio Hereford &amp; Worcestershire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkh||c2ebb455-24e5-58bb-ac3e-0a9161d2de97.png" xmltv_id="Free Radio Shropshire &amp; Black Country 97.2">Free Radio Shropshire &amp; Black Country 97.2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmz||1280eec8-fadf-5dcc-8aca-556f46dc6215.png" xmltv_id="Free Radio Shropshire &amp; Black Country 103.1">Free Radio Shropshire &amp; Black Country 103.1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvv4||32b1221a-ee12-5157-8e7a-3c808ad39d26.png" xmltv_id="Fun Kids">Fun Kids</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvvr||48ad5979-5014-5551-932d-d29521449e34.png" xmltv_id="future radio">future radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht67" xmltv_id="Galway Bay FM 95.8">Galway Bay FM 95.8</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdg||cd79e83a-c0c1-517a-a143-81477c89f773.png" xmltv_id="Gem 106">Gem 106</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqv" xmltv_id="Grampian Hospital Radio">Grampian Hospital Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htj2||57fa9ac3-d864-57cd-a1d1-d6be84f48f80.png" xmltv_id="Greatest Hits Radio">Greatest Hits Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnr||e050c5d0-2ac3-5ae4-95e7-9b5ae85c902b.png" xmltv_id="Greatest Hits Radio (Dorset)">Greatest Hits Radio (Dorset)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnn||2f95e8a7-4289-5675-953c-4cb9913c08a1.png" xmltv_id="Greatest Hits Radio (Greater Manchester)">Greatest Hits Radio (Greater Manchester)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgt||196ff663-87c9-5db8-934e-ef62ba3da645.png" xmltv_id="Greatest Hits Radio (Norfolk &amp; North Suffolk)">Greatest Hits Radio (Norfolk &amp; North Suffolk)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnq||4e6ad2b9-09ff-5179-8040-dfafc4d5eda5.png" xmltv_id="Greatest Hits Radio (Shropshire &amp; the Black Country)">Greatest Hits Radio (Shropshire &amp; the Black Country)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgq||658a725d-da19-57ae-affc-82283f972100.png" xmltv_id="Greatest Hits Radio (Suffolk)">Greatest Hits Radio (Suffolk)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgw||81111457-2c46-5d6e-9f5a-47ac696f225f.png" xmltv_id="Greatest Hits Radio (West Norfolk)">Greatest Hits Radio (West Norfolk)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqb||c357285f-0ffa-5a82-ad43-87c44c5e8483.png" xmltv_id="Greatest Hits Radio (West Sussex)">Greatest Hits Radio (West Sussex)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgv||7cba98eb-bf6a-5a7f-9f41-e026a93bb358.png" xmltv_id="Greatest Hits Radio (West Yorkshire)">Greatest Hits Radio (West Yorkshire)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgz||62576dc0-ba5a-5c98-924b-3d347f305812.png" xmltv_id="Greatest Hits Radio (York and North Yorkshire)">Greatest Hits Radio (York and North Yorkshire)</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgy||de3de489-b691-547b-9472-1badcde9ca23.png" xmltv_id="Greatest Hits Radio Lancashire">Greatest Hits Radio Lancashire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgx||43660a4d-cbbf-59ac-83a4-f083d766d7c5.png" xmltv_id="Greatest Hits Radio Manchester">Greatest Hits Radio Manchester</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjy||8526d4e7-c3bd-5501-88ab-59467b1089f2.png" xmltv_id="Greatest Hits Radio South Wales">Greatest Hits Radio South Wales</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgr||5801a019-7575-5094-804d-76da5ca3c07a.png" xmltv_id="Greatest Hits Radio Teesside">Greatest Hits Radio Teesside</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgs||a3e9ad9d-fa10-545e-aa3b-9f50ee56129e.png" xmltv_id="Greatest Hits Radio West Yorkshire">Greatest Hits Radio West Yorkshire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdd||f779287f-2edf-5288-a4ea-8f263554893e.png" xmltv_id="Hallam FM">Hallam FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htws||d3188531-28c5-52b9-8e7a-a5c0bbc127ea.png" xmltv_id="Heart 80s">Heart 80s</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htwt||f29a94d5-8046-5679-b250-6f966c1f69c2.png" xmltv_id="Heart 90s">Heart 90s</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkv||5ad9070e-c646-533a-a811-d4c6962dc162.png" xmltv_id="Heart Cambridgeshire">Heart Cambridgeshire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htwv" xmltv_id="Heart Dance">Heart Dance</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvny||e106a1dc-aa56-5e97-8aa6-ce643167056f.png" xmltv_id="Heart Devon">Heart Devon</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj4||ba4d749d-2de2-54b6-927d-cc97a98e94ff.png" xmltv_id="Heart East Anglia">Heart East Anglia</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjv||25a53553-e04d-549d-ab5d-6cd41cbb29a3.png" xmltv_id="Heart Essex">Heart Essex</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqw||55d99941-f19f-5018-b974-5b6e41dccd31.png" xmltv_id="Heart Kent">Heart Kent</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnm||4b8a1b7d-7f62-5104-9e13-4c55afe8d9ec.png" xmltv_id="Heart North East">Heart North East</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnc||e474f14a-0c21-5f10-b08c-86a41c88fc23.png" xmltv_id="Heart North West">Heart North West</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk2||0c513dea-0e86-5b19-ad24-6af2abf71911.png" xmltv_id="Heart North West and Wales">Heart North West and Wales</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm4||964f9a20-8b4b-50e8-a48c-fae179cdc4b4.png" xmltv_id="Heart Scotland">Heart Scotland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkk||ce2d0c84-0ea2-597e-b399-6147a3b9515a.png" xmltv_id="Heart South Coast">Heart South Coast</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjw||21407494-5b58-56b3-89d4-d11d243ff6ca.png" xmltv_id="Heart South Wales">Heart South Wales</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkc||ae6578f2-b182-5c4f-8f74-71481192cda8.png" xmltv_id="Heart Sussex">Heart Sussex</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm5||553636d9-64a8-57dc-b412-56b4cd497ed1.png" xmltv_id="Heart Thames Valley">Heart Thames Valley</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmw||7fbc99e6-877e-5ea5-996e-2bc1f6fd228c.png" xmltv_id="Heart West Midlands">Heart West Midlands</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmp||990a9cef-a044-5d36-9e6d-2769a3dba56e.png" xmltv_id="Heart Wiltshire">Heart Wiltshire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn8||34886ccf-b51e-577d-96f4-22e9d77ab4e8.png" xmltv_id="Heart Yorkshire">Heart Yorkshire</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkf||25218189-d904-5131-80ee-0dd9db81b818.png" xmltv_id="Heartland FM">Heartland FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8w" xmltv_id="Highland Radio">Highland Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htj6||f1b65c32-0a5d-5228-8c0d-6d56add0193f.png" xmltv_id="Hits Radio">Hits Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkn||c96e3350-6f2d-59e7-8fc0-0f3ff13fd162.png" xmltv_id="Hits Radio Bournemouth and Poole">Hits Radio Bournemouth and Poole</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn6||e8f8b73b-47fb-5f0d-b420-2956962111ce.png" xmltv_id="Hits Radio Manchester">Hits Radio Manchester</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmx||4ff7da9c-5f21-5814-b1c7-68c4d8a3be04.png" xmltv_id="Hope FM">Hope FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd6" xmltv_id="Hospital Radio Bedside">Hospital Radio Bedside</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvqc||79f13b97-fc56-5b80-ad92-b2be342a1176.png" xmltv_id="Hot Radio">Hot Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkd" xmltv_id="Inverness Hospital Radio">Inverness Hospital Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk6||ca3de7db-9873-5acf-9454-a2292c22765b.png" xmltv_id="Ipswich Community Radio">Ipswich Community Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8h||7626a985-3f5b-5071-87d4-9848f26798ec.png" xmltv_id="Ireland's Classic Hits">Ireland's Classic Hits</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnj||6e38b7e6-db0d-5ce7-87ed-436ea5b70893.png" xmltv_id="Island FM">Island FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmv||ec9a4f13-ef99-598f-a2a9-1fca5de6199c.png" xmltv_id="Isle of Wight Radio">Isle of Wight Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmy||a8768c1d-fac2-5d3d-96a1-10256db3e7e3.png" xmltv_id="Jackfm">Jackfm</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8z" xmltv_id="KCLR FM">KCLR FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8t" xmltv_id="KFM">KFM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htw7" xmltv_id="Khushkhabri">Khushkhabri</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkp||4fa385a2-81b0-52c2-8ca1-de7df749a5db.png" xmltv_id="Kingdom FM">Kingdom FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgp||14f978c8-e611-5d22-83d3-604bc392cb45.png" xmltv_id="Kiss 105-108">Kiss 105-108</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htxb||3c09856c-3a2e-5d18-99c0-2aaaf890e3cd.png" xmltv_id="LBC News">LBC News</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7q||2a5687fb-a5a1-583d-909a-189c785e1cc7.png" xmltv_id="Life FM">Life FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmm||af203288-1085-564e-9e6c-65136de97c54.png" xmltv_id="Lincs FM">Lincs FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7p||1bfefcc0-02eb-5dee-8470-a053b17717af.png" xmltv_id="Live 95FM">Live 95FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8y" xmltv_id="LMFM">LMFM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgm||f385cfde-90f0-5c3d-9e4d-b715ba464af5.png" xmltv_id="Metro Radio">Metro Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmn||897d0187-99ca-5bbd-93a8-14de632e9bc1.png" xmltv_id="MFR FM">MFR FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj8" xmltv_id="Mid &amp; North West FM">Mid &amp; North West FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht85" xmltv_id="Midlands 103">Midlands 103</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn4||254f6c54-9f3f-52fe-9f8f-774d44a72fe0.png" xmltv_id="More Radio Mid Sussex">More Radio Mid Sussex</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvms||b94084f6-e385-5f15-ba5d-e85a113d65d5.png" xmltv_id="Newport City Radio">Newport City Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htxs||583ffa35-7dd7-50bc-aa40-ef5152039bd9.png" xmltv_id="Newstalk 106-108 FM">Newstalk 106-108 FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8m" xmltv_id="Northern Sound">Northern Sound</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk7||bfe762c9-a795-5a2b-a356-3c5c2219ecbd.png" xmltv_id="Northsound 1">Northsound 1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvn7||4a93a55c-c216-5cd0-ae85-9d020ab1abd5.png" xmltv_id="Northsound 2">Northsound 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht79" xmltv_id="Ocean FM">Ocean FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnt||481c8bb8-1d90-51b4-aa2a-c4390783ddd8.png" xmltv_id="Onda Cero Marbella">Onda Cero Marbella</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnf||d4248b39-9222-58bc-9393-26275ad78225.png" xmltv_id="Original 106 FM">Original 106 FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htxz" xmltv_id="Panjab Radio">Panjab Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htmp||f87e92a4-a3db-5003-95fb-af570de15003.png" xmltv_id="Premier Christian Radio">Premier Christian Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmh||2b4b606b-5b0e-5eeb-bee5-f9df115be612.png" xmltv_id="Pulse 1">Pulse 1</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkt||bc3ec464-5ab6-5bda-9947-764ff59f6d0a.png" xmltv_id="Pure Radio">Pure Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk5||41d1e55a-3d80-59b6-a73e-869e49759ba5.png" xmltv_id="Q">Q</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkb||399325d6-ce99-5784-8336-3a148c6e3cad.png" xmltv_id="Radio Altea">Radio Altea</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgk||23b81bed-db83-5e4d-8b9f-2db22a577a2a.png" xmltv_id="Radio Borders">Radio Borders</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvd5" xmltv_id="Radio Caroline">Radio Caroline</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgj||d2e581f7-5283-55f9-b251-0da14b0ecb7d.png" xmltv_id="Radio City">Radio City</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkj||55e3889a-2ac3-59d0-b36b-1bdb4573db8d.png" xmltv_id="Radio City Talk">Radio City Talk</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7n" xmltv_id="Radio Kerry">Radio Kerry</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8r||0e49c413-9208-5b49-9426-5e84fb6acaf1.png" xmltv_id="Radio Maria Ireland">Radio Maria Ireland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm8" xmltv_id="Radio Tyneside 93.6FM">Radio Tyneside 93.6FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnw||91800b80-e71c-54a4-9069-92219725435f.png" xmltv_id="Radio XL">Radio XL</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm6||7d71c031-60df-576d-b9a1-4e461e5ccd7d.png" xmltv_id="Rathergood Radio">Rathergood Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7t||f9846e26-fef9-5ae0-8afa-bb55cef85b01.png" xmltv_id="Red FM">Red FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnz||3edfcfec-f916-5705-8aa9-d37ea97c7964.png" xmltv_id="Riviera Radio">Riviera Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdh" xmltv_id="Rock FM">Rock FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httk||7ec22fb4-bc30-5e5b-a08e-32205f4d3b89.png" xmltv_id="RTE 2FM">RTE 2FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht77||5cdfedaa-c59f-52cb-8859-945a99701e42.png" xmltv_id="RTÉ 2XM">RTÉ 2XM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht76||cd46625e-a20f-5306-896d-77da40a27a2a.png" xmltv_id="RTÉ Gold">RTÉ Gold</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7m||99007012-b7f2-5ef5-bbae-25e2e416965d.png" xmltv_id="RTÉ Jr Radio">RTÉ Jr Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httm||a31b06c5-3910-5007-904b-9af92a81ae39.png" xmltv_id="RTÉ lyric fm">RTÉ lyric fm</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht75||26d44844-bff4-5ca5-9f3e-bc2cc67f360f.png" xmltv_id="RTÉ Pulse">RTÉ Pulse</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7c||8c3620e3-41f7-598a-9ca5-21b0ad76fef6.png" xmltv_id="RTÉ Radio 1 Extra">RTÉ Radio 1 Extra</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="httn||07265f44-7cc4-59fa-a5c5-5db982f94b5d.png" xmltv_id="RTÉ Radio 1 FM">RTÉ Radio 1 FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht89||bab3aaf4-6c56-5f17-b8e3-28ab5041ade4.png" xmltv_id="RTÉ Radio 1 LW">RTÉ Radio 1 LW</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htqc||bd668195-95ad-5197-a04d-683edea8a7b5.png" xmltv_id="RTÉ Raidió na Gaeltachta">RTÉ Raidió na Gaeltachta</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8q" xmltv_id="Shannonside">Shannonside</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnx" xmltv_id="Share Radio">Share Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvkr||ea1e0fe9-5b04-5994-8cdf-5b531a723ed1.png" xmltv_id="Signal 1 96.9FM">Signal 1 96.9FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htnc" xmltv_id="Smooth Radio 102.2">Smooth Radio 102.2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhz||8cd0a3e1-5a53-54cc-9558-195f9b6508f5.png" xmltv_id="Smooth Radio 105.2">Smooth Radio 105.2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvh2||17351fa0-09b1-5f73-9183-c6b87a12a5f2.png" xmltv_id="Smooth Radio 105.7">Smooth Radio 105.7</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8s" xmltv_id="South East Radio">South East Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmf" xmltv_id="Southampton Hospital Radio">Southampton Hospital Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmd||6d832f57-d3dc-5c3b-823f-d5add69a16ce.png" xmltv_id="Spectrum Radio FM">Spectrum Radio FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8n||e921adae-471b-512e-8cd8-7a04a432f028.png" xmltv_id="Spin 1038">Spin 1038</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvj7" xmltv_id="Stafford FM">Stafford FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht22" xmltv_id="Sukh Sagar">Sukh Sagar</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnk||63887e65-be04-56ad-89fb-a29f8c2fc488.png" xmltv_id="Sunshine 855">Sunshine 855</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvg2" xmltv_id="Talk Radio">Talk Radio</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htnp||b35260db-46be-523f-940c-3371f0707753.png" xmltv_id="talkSPORT DAB">talkSPORT DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdf||98e34f92-a846-5e11-a74c-8188f2c7087b.png" xmltv_id="talkSPORT Scotland">talkSPORT Scotland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk9||1ed2a1b4-ed18-5059-84fc-5dd52d17b67d.png" xmltv_id="Tay 2">Tay 2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvnb||8c77ad6c-c0df-52e6-a3bd-494a36756e37.png" xmltv_id="Tay FM">Tay FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvgn||100cad42-bf61-5788-baa1-e426b7c3d4db.png" xmltv_id="TFM">TFM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvm2||9a37fe99-955d-55b2-9ed5-b9be26231d18.png" xmltv_id="The Wave">The Wave</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhp||5e586765-43b1-548f-a917-71301e8df5ea.png" xmltv_id="Three Counties Radio 90.4/92.1/94.7/103.8FM">Three Counties Radio 90.4/92.1/94.7/103.8FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhr||b15b3ca6-b290-5ef2-b7dc-7a7f2b78b5a3.png" xmltv_id="Three Counties Radio 95.5FM">Three Counties Radio 95.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvht" xmltv_id="Three Counties Radio 98FM">Three Counties Radio 98FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhq||84b61501-d462-5602-a41b-4e7ac0f04933.png" xmltv_id="Three Counties Radio 104.5FM">Three Counties Radio 104.5FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvhs" xmltv_id="Three Counties Radio DAB">Three Counties Radio DAB</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht8v||c627f001-8503-58a9-a28b-2f57079f2389.png" xmltv_id="Tipp FM">Tipp FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7h||69ffdfee-5235-578f-bab3-e83532df029c.png" xmltv_id="Today FM">Today FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvmb" xmltv_id="Touch Radio 96.2">Touch Radio 96.2</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht4f" xmltv_id="TWR">TWR</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="htqg||1d9ce637-0fa7-5dff-becf-1880acdefc6e.png" xmltv_id="U105">U105</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvvs" xmltv_id="UCB Ireland">UCB Ireland</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht7r||925e539a-8fc6-5b27-86a2-8e4273ecd84a.png" xmltv_id="UCC 98.3FM">UCC 98.3FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvdj||c2e93e3d-6505-56b6-b270-71aefcacf022.png" xmltv_id="Viking FM">Viking FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvfp" xmltv_id="Wave 105">Wave 105</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvk8||5a8150aa-bab4-5f31-a45f-52a1a7e0f354.png" xmltv_id="WCR FM">WCR FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjr||04d6005b-78f5-586c-80b2-b9bc3f9cd4ca.png" xmltv_id="West Sound 1035AM">West Sound 1035AM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvjq||63963d53-9722-5d0a-b93d-3006ebb01a20.png" xmltv_id="West Sound FM">West Sound FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht82||ce5caa32-ba3d-5d30-a0d7-b9e9061fb632.png" xmltv_id="WLR FM">WLR FM</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="ht4p" xmltv_id="WRN Europe">WRN Europe</channel>
+    <channel site="[ENC][EX]radiotimes.com[radio]_0" site_id="hvns||d438e0fc-df76-5705-a62e-b6dd39d207e7.png" xmltv_id="Youthcomm Radio">Youthcomm Radio</channel>
+  </channels>
+</site>
