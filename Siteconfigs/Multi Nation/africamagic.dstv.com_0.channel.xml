@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="africamagic.dstv.com_0">
+  <channels>
+    <channel site="africamagic.dstv.com_0" site_id="1" xmltv_id="Africa Magic Showcase">Africa Magic Showcase</channel>
+    <channel site="africamagic.dstv.com_0" site_id="2" xmltv_id="Africa Magic Epic">Africa Magic Epic</channel>
+    <channel site="africamagic.dstv.com_0" site_id="4" xmltv_id="Africa Magic Urban">Africa Magic Urban</channel>
+    <channel site="africamagic.dstv.com_0" site_id="5" xmltv_id="Africa Magic Family">Africa Magic Family</channel>
+    <channel site="africamagic.dstv.com_0" site_id="7" xmltv_id="Africa Magic Hausa">Africa Magic Hausa</channel>
+    <channel site="africamagic.dstv.com_0" site_id="8" xmltv_id="Africa Magic Yoruba">Africa Magic Yoruba</channel>
+    <channel site="africamagic.dstv.com_0" site_id="9" xmltv_id="Africa Magic IGBO">Africa Magic IGBO</channel>
+    <channel site="africamagic.dstv.com_0" site_id="10" xmltv_id="Nigerian Festivals">Nigerian Festivals</channel>
+  </channels>
+</site>
