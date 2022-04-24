@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="guia-tv.pt_0">
+  <channels>
+    <channel site="guia-tv.pt_0" site_id="rtp-1||rtp.png" xmltv_id="RTP 1">RTP 1</channel>
+    <channel site="guia-tv.pt_0" site_id="rtp-1||rtp.png" xmltv_id="RTP 2">RTP 2</channel>
+    <channel site="guia-tv.pt_0" site_id="rtp-2||sic.png" xmltv_id="SIC">SIC</channel>
+    <channel site="guia-tv.pt_0" site_id="rtp-2||tvi.png" xmltv_id="TVI">TVI</channel>
+    <channel site="guia-tv.pt_0" site_id="sic||hollywood.png" xmltv_id="Hollywood">Hollywood</channel>
+    <channel site="guia-tv.pt_0" site_id="sic||axn.png" xmltv_id="AXN">AXN</channel>
+    <channel site="guia-tv.pt_0" site_id="tvi||fox.png" xmltv_id="FOX">FOX</channel>
+    <channel site="guia-tv.pt_0" site_id="tvi||fox.png" xmltv_id="FOX Life">FOX Life</channel>
+    <channel site="guia-tv.pt_0" site_id="hollywood||sport-tv.png" xmltv_id="SPORT TV+">SPORT TV+</channel>
+    <channel site="guia-tv.pt_0" site_id="hollywood||sport-tv.png" xmltv_id="SPORT TV1">SPORT TV1</channel>
+    <channel site="guia-tv.pt_0" site_id="axn||sport-tv.png" xmltv_id="SPORT TV2">SPORT TV2</channel>
+    <channel site="guia-tv.pt_0" site_id="axn||sport-tv.png" xmltv_id="SPORT TV3">SPORT TV3</channel>
+    <channel site="guia-tv.pt_0" site_id="fox||sic.png" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel site="guia-tv.pt_0" site_id="fox||fox.png" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel site="guia-tv.pt_0" site_id="fox-life||sic.png" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel site="guia-tv.pt_0" site_id="fox-life||discovery.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="guia-tv.pt_0" site_id="sport-tv-mais||sic.png" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel site="guia-tv.pt_0" site_id="sport-tv1||axn.png" xmltv_id="AXN BLACK">AXN BLACK</channel>
+    <channel site="guia-tv.pt_0" site_id="sport-tv1||cnn-portugal.png" xmltv_id="CNN Portugal">CNN Portugal</channel>
+    <channel site="guia-tv.pt_0" site_id="sport-tv2||axn.png" xmltv_id="AXN White">AXN White</channel>
+  </channels>
+</site>

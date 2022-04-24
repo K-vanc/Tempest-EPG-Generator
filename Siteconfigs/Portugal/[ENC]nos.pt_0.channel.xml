@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]nos.pt_0">
+  <channels>
+    <channel site="[ENC]nos.pt_0" site_id="5||RTP1" xmltv_id="RTP 1">RTP 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="3||RTP2" xmltv_id="RTP 2">RTP 2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="7||SIC" xmltv_id="SIC">SIC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="8||TVI" xmltv_id="TVI">TVI</channel>
+    <channel site="[ENC]nos.pt_0" site_id="9||SICN" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel site="[ENC]nos.pt_0" site_id="64||RTP3" xmltv_id="RTP 3">RTP 3</channel>
+    <channel site="[ENC]nos.pt_0" site_id="160||cnnportugal" xmltv_id="CNN Portugal">CNN Portugal</channel>
+    <channel site="[ENC]nos.pt_0" site_id="381||CMTV" xmltv_id="CMTV">CMTV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="416||SPTVMAIS" xmltv_id="SPORT TV+">SPORT TV+</channel>
+    <channel site="[ENC]nos.pt_0" site_id="230||GLOBO" xmltv_id="Globo">Globo</channel>
+    <channel site="[ENC]nos.pt_0" site_id="565||CANAL11HD" xmltv_id="Canal 11 HD">Canal 11 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="382||TVIREAL" xmltv_id="TVI Reality">TVI Reality</channel>
+    <channel site="[ENC]nos.pt_0" site_id="71||SICM" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel site="[ENC]nos.pt_0" site_id="251||SICCARAS" xmltv_id="SIC Caras">SIC Caras</channel>
+    <channel site="[ENC]nos.pt_0" site_id="61||SICR" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel site="[ENC]nos.pt_0" site_id="547||NOSSTUDIOSHD" xmltv_id="NOS Studios HD">NOS Studios HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="683||CDEST" xmltv_id="Em Destaque">Em Destaque</channel>
+    <channel site="[ENC]nos.pt_0" site_id="80||RTPM" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel site="[ENC]nos.pt_0" site_id="682||CCONV" xmltv_id="Canal Convidado">Canal Convidado</channel>
+    <channel site="[ENC]nos.pt_0" site_id="137||SPTV_1HD" xmltv_id="SPORT TV1 HD">SPORT TV1 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="187||SPTV_2HD" xmltv_id="SPORT TV2 HD">SPORT TV2 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="188||SPTV_3HD" xmltv_id="SPORT TV3 HD">SPORT TV3 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="247||SPTV_4HD" xmltv_id="SPORT TV4 HD">SPORT TV4 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="180||SPTV_5HD" xmltv_id="SPORT TV5 HD">SPORT TV5 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="610||SPTV_6HD" xmltv_id="Sport TV 6 HD">Sport TV 6 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="449||NBATVHD" xmltv_id="Sport TV NBA">Sport TV NBA</channel>
+    <channel site="[ENC]nos.pt_0" site_id="245||BENFICATV1HD" xmltv_id="BTV1 HD">BTV1 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="423||PORTOHD" xmltv_id="Porto Canal HD">Porto Canal HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="352||SPORTINGTVHD" xmltv_id="Sporting TV HD">Sporting TV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="518||canalnos1" xmltv_id="ELEVEN SPORTS 1">ELEVEN SPORTS 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="519||canalnos2" xmltv_id="ELEVEN SPORTS 2">ELEVEN SPORTS 2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="513||DESP3HD" xmltv_id="ELEVEN SPORTS 3">ELEVEN SPORTS 3</channel>
+    <channel site="[ENC]nos.pt_0" site_id="514||DESP4HD" xmltv_id="ELEVEN SPORTS 4">ELEVEN SPORTS 4</channel>
+    <channel site="[ENC]nos.pt_0" site_id="515||DESP5HD" xmltv_id="ELEVEN SPORTS 5">ELEVEN SPORTS 5</channel>
+    <channel site="[ENC]nos.pt_0" site_id="516||DESP6HD" xmltv_id="ELEVEN SPORTS 6">ELEVEN SPORTS 6</channel>
+    <channel site="[ENC]nos.pt_0" site_id="66||DISNY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]nos.pt_0" site_id="94||Nicke" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]nos.pt_0" site_id="31||PANDA" xmltv_id="Canal Panda">Canal Panda</channel>
+    <channel site="[ENC]nos.pt_0" site_id="176||PANDABIGGS" xmltv_id="Biggs">Biggs</channel>
+    <channel site="[ENC]nos.pt_0" site_id="226||DISNEYJUNIOR" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]nos.pt_0" site_id="252||CART" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="444||NICKJR" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC]nos.pt_0" site_id="448||BABYTV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="553||SICKHD" xmltv_id="SIC K HD">SIC K HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="597||PANDAKHD" xmltv_id="Panda KIDS">Panda KIDS</channel>
+    <channel site="[ENC]nos.pt_0" site_id="16||TVCineTop" xmltv_id="TVCine TOP">TVCine TOP</channel>
+    <channel site="[ENC]nos.pt_0" site_id="18||TVCineEdition" xmltv_id="TVCine EDITION">TVCine EDITION</channel>
+    <channel site="[ENC]nos.pt_0" site_id="76||TVCineEmotion" xmltv_id="TVCine EMOTION">TVCine EMOTION</channel>
+    <channel site="[ENC]nos.pt_0" site_id="84||TVCineAction" xmltv_id="TVCine ACTION">TVCine ACTION</channel>
+    <channel site="[ENC]nos.pt_0" site_id="13||HOLLY" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel site="[ENC]nos.pt_0" site_id="546||NOSSTUDIOS" xmltv_id="NOS Studios">NOS Studios</channel>
+    <channel site="[ENC]nos.pt_0" site_id="51||FASH" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="130||EENTER" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC]nos.pt_0" site_id="164||AXNMovies" xmltv_id="AXN Movies">AXN Movies</channel>
+    <channel site="[ENC]nos.pt_0" site_id="77||AXN" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]nos.pt_0" site_id="436||AMC" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="85||FOX" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]nos.pt_0" site_id="86||FOXLIFE" xmltv_id="FOX Life">FOX Life</channel>
+    <channel site="[ENC]nos.pt_0" site_id="177||FOXNEXT" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel site="[ENC]nos.pt_0" site_id="114||FOXCRIME" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel site="[ENC]nos.pt_0" site_id="116||FX" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel site="[ENC]nos.pt_0" site_id="542||SYFY" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC]nos.pt_0" site_id="163||SET" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC]nos.pt_0" site_id="235||CanalQB" xmltv_id="Canal Q">Canal Q</channel>
+    <channel site="[ENC]nos.pt_0" site_id="23||TLC" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="36||MTV" xmltv_id="MTV Portugal">MTV Portugal</channel>
+    <channel site="[ENC]nos.pt_0" site_id="101||TVR" xmltv_id="Record TV">Record TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="530||InvestigationDiscovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+    <channel site="[ENC]nos.pt_0" site_id="141||TVCineTop" xmltv_id="TVCine TOP HD">TVCine TOP HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="74||TVCineEdition" xmltv_id="TVCine EDITION HD">TVCine EDITION HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="223||TVCineEmotion" xmltv_id="TVCine EMOTION HD">TVCine EMOTION HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="224||TVCineAction" xmltv_id="TVCine ACTION HD">TVCine ACTION HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="14||HOLLYHD" xmltv_id="Canal Hollywood HD">Canal Hollywood HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="548||NOSSTUDIOSHD" xmltv_id="NOS Studios HD">NOS Studios HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="202||EENTERHD" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="47||FASHIONTVHD" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="415||AMCHD" xmltv_id="AMC HD">AMC HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="113||FXHD" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="161||AXNHD" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="194||AXNMoviesHD" xmltv_id="AXN Movies HD">AXN Movies HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="175||FOXLIFEHD" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="174||FOXHD" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="201||SYFYHD" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="244||FOXCRIMEHD" xmltv_id="FOX Crime HD">FOX Crime HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="242||FOXMOVIESHD" xmltv_id="FOX Movies HD">FOX Movies HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="75||SONYTVHD" xmltv_id="AXN White HD">AXN White HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="574||tvificcao" xmltv_id="TVI Ficção HD">TVI Ficção HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="572||casacozhd" xmltv_id="Casa e Cozinha HD">Casa e Cozinha HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="243||24KITCHENHD" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="62||FOODNETWORKHD" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="377||MTV" xmltv_id="MTV Portugal HD">MTV Portugal HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="600||galeria" xmltv_id="Canal Galeria">Canal Galeria</channel>
+    <channel site="[ENC]nos.pt_0" site_id="22||Discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]nos.pt_0" site_id="59||NGC" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]nos.pt_0" site_id="82||NGCWILD" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="20||ODIS" xmltv_id="Odisseia">Odisseia</channel>
+    <channel site="[ENC]nos.pt_0" site_id="100||TRAVEL" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]nos.pt_0" site_id="19||HIST" xmltv_id="Canal História">Canal História</channel>
+    <channel site="[ENC]nos.pt_0" site_id="411||AMCCrime" xmltv_id="AMC Crime">AMC Crime</channel>
+    <channel site="[ENC]nos.pt_0" site_id="81||AMCBreak" xmltv_id="AMC Break">AMC Break</channel>
+    <channel site="[ENC]nos.pt_0" site_id="561||DISCOVERYHD" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="134||NGCHD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="83||NGCWILDHD" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="441||ODISSEIAHD" xmltv_id="ODISSEIA HD">ODISSEIA HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="70||TRAVELHD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="544||HistoriaHD" xmltv_id="Canal História HD">Canal História HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="545||AMCCrime" xmltv_id="AMC Crime HD">AMC Crime HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="509||AMCBreak" xmltv_id="AMC Break HD">AMC Break HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="538||ZAPVIVAHD" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="588||galeria" xmltv_id="Canal Galeria">Canal Galeria</channel>
+    <channel site="[ENC]nos.pt_0" site_id="167||ZENNATUR" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="510||SAUDEMAIS" xmltv_id="S+ HD">S+ HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="10||EUROS" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="128||EUROS2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="78||Ext_Spt" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="17||SPTV_1" xmltv_id="SPORT TV1">SPORT TV1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="95||SPTV_2" xmltv_id="SPORT TV2">SPORT TV2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="136||SPTV_3" xmltv_id="SPORT TV3">SPORT TV3</channel>
+    <channel site="[ENC]nos.pt_0" site_id="246||SPTV_4" xmltv_id="SPORT TV4">SPORT TV4</channel>
+    <channel site="[ENC]nos.pt_0" site_id="179||SPTV_5" xmltv_id="SPORT TV5">SPORT TV5</channel>
+    <channel site="[ENC]nos.pt_0" site_id="249||BENFICATV1" xmltv_id="BTV1">BTV1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="105||PORTO" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel site="[ENC]nos.pt_0" site_id="351||SPORTINGTV" xmltv_id="Sporting TV">Sporting TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="181||BOISHD" xmltv_id="Toros TV HD">Toros TV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="129||CACAPESCA" xmltv_id="Caça e Pesca">Caça e Pesca</channel>
+    <channel site="[ENC]nos.pt_0" site_id="145||EurosportHD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="563||EUROS2HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="72||FUELHD" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="354||MOTORVISIONHD" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="679||NAUTICAL" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC]nos.pt_0" site_id="680||HORSE" xmltv_id="Horse TV">Horse TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="236||FIGHTHD" xmltv_id="Fight Network HD">Fight Network HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="35||MTV00s" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC]nos.pt_0" site_id="560||MTVLIVE" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="[ENC]nos.pt_0" site_id="34||MCM" xmltv_id="MCM Top">MCM Top</channel>
+    <channel site="[ENC]nos.pt_0" site_id="50||MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC]nos.pt_0" site_id="368||MCMPOP" xmltv_id="MCM Pop">MCM Pop</channel>
+    <channel site="[ENC]nos.pt_0" site_id="272||AFROMUSIC" xmltv_id="Afro Music Channel">Afro Music Channel</channel>
+    <channel site="[ENC]nos.pt_0" site_id="543||Trace_Toca" xmltv_id="Trace Toca">Trace Toca</channel>
+    <channel site="[ENC]nos.pt_0" site_id="42||iconcertshd" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="356||MEZZOLIVEHD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="65||TRACEURBANHD" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="111||GLOBONOWHD" xmltv_id="Globo Now HD">Globo Now HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="30||RECORDNEWS" xmltv_id="Record News">Record News</channel>
+    <channel site="[ENC]nos.pt_0" site_id="112||PFC" xmltv_id="PFC">PFC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="350||TVRHD" xmltv_id="Record TV HD">Record TV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="58||C180" xmltv_id="Canal 180">Canal 180</channel>
+    <channel site="[ENC]nos.pt_0" site_id="426||KURIAKOSTV" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="142||CANCAONOVA" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel site="[ENC]nos.pt_0" site_id="571||AzoresTV" xmltv_id="AzoresTV by VITEC – TESTE">AzoresTV by VITEC – TESTE</channel>
+    <channel site="[ENC]nos.pt_0" site_id="107||RTPMAD" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel site="[ENC]nos.pt_0" site_id="106||RTPACO" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel site="[ENC]nos.pt_0" site_id="592||RTPACOHD" xmltv_id="RTP Açores HD">RTP Açores HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="27||RTPA" xmltv_id="RTP África">RTP África</channel>
+    <channel site="[ENC]nos.pt_0" site_id="138||TPA" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel site="[ENC]nos.pt_0" site_id="237||TCVINT" xmltv_id="TCV Internacional">TCV Internacional</channel>
+    <channel site="[ENC]nos.pt_0" site_id="343||STVNOTICIAS" xmltv_id="STV Notícias">STV Notícias</channel>
+    <channel site="[ENC]nos.pt_0" site_id="570||TVM" xmltv_id="TVM Internacional">TVM Internacional</channel>
+    <channel site="[ENC]nos.pt_0" site_id="229||LOCALVISAOTVHD" xmltv_id="Localvisão TV HD">Localvisão TV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="38||BBCP" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC]nos.pt_0" site_id="55||RAI1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="25||EURON" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]nos.pt_0" site_id="26||CNN" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]nos.pt_0" site_id="39||SKYN" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]nos.pt_0" site_id="45||BBCW" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC]nos.pt_0" site_id="108||JAZEERA" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]nos.pt_0" site_id="109||FRANCE24" xmltv_id="France 24 (I)">France 24 (I)</channel>
+    <channel site="[ENC]nos.pt_0" site_id="132||FRANCE24FR" xmltv_id="France 24 (F)">France 24 (F)</channel>
+    <channel site="[ENC]nos.pt_0" site_id="52||CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="44||BLOOM" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC]nos.pt_0" site_id="172||TVE24" xmltv_id="TVE 24h">TVE 24h</channel>
+    <channel site="[ENC]nos.pt_0" site_id="120||PHOEINFO" xmltv_id="Phoenix Infonews">Phoenix Infonews</channel>
+    <channel site="[ENC]nos.pt_0" site_id="165||RUSSIAT" xmltv_id="Russia Today">Russia Today</channel>
+    <channel site="[ENC]nos.pt_0" site_id="46||NHK" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="312||cgtn" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]nos.pt_0" site_id="49||PARLA" xmltv_id="ARTV">ARTV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="54||TVGALIZA" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel site="[ENC]nos.pt_0" site_id="48||TVEINT" xmltv_id="TVEi">TVEi</channel>
+    <channel site="[ENC]nos.pt_0" site_id="121||CUBAVINT" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
+    <channel site="[ENC]nos.pt_0" site_id="33||TELESUR" xmltv_id="TeleSUR">TeleSUR</channel>
+    <channel site="[ENC]nos.pt_0" site_id="37||M6" xmltv_id="M6">M6</channel>
+    <channel site="[ENC]nos.pt_0" site_id="53||TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel site="[ENC]nos.pt_0" site_id="41||ARTE" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC]nos.pt_0" site_id="28||BVN" xmltv_id="BVN">BVN</channel>
+    <channel site="[ENC]nos.pt_0" site_id="200||SUPERRTL" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]nos.pt_0" site_id="40||RTL" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]nos.pt_0" site_id="115||DTSWELLE" xmltv_id="DW">DW</channel>
+    <channel site="[ENC]nos.pt_0" site_id="541||DW_Alemao" xmltv_id="DW (Alemão)">DW (Alemão)</channel>
+    <channel site="[ENC]nos.pt_0" site_id="502||ARD" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="504||ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]nos.pt_0" site_id="676||3SAT" xmltv_id="3SAT">3SAT</channel>
+    <channel site="[ENC]nos.pt_0" site_id="677||KIKA" xmltv_id="KiKa">KiKa</channel>
+    <channel site="[ENC]nos.pt_0" site_id="117||RTRPLNET" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="[ENC]nos.pt_0" site_id="123||TVRI" xmltv_id="TVR Internacional">TVR Internacional</channel>
+    <channel site="[ENC]nos.pt_0" site_id="124||TVBLGARIA" xmltv_id="BNT World">BNT World</channel>
+    <channel site="[ENC]nos.pt_0" site_id="24||1MAIS1" xmltv_id="1+1">1+1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="681||NICKUKR" xmltv_id="Nickelodeon Ukraine Pluto TV">Nickelodeon Ukraine Pluto TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="119||PHOECNE" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel site="[ENC]nos.pt_0" site_id="234||KBSWORLDHD" xmltv_id="KBS World HD">KBS World HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="316||CCTV4" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel site="[ENC]nos.pt_0" site_id="521||IUTV" xmltv_id="IUTV">IUTV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="531||CTC" xmltv_id="CTC">CTC</channel>
+    <channel site="[ENC]nos.pt_0" site_id="144||SETA" xmltv_id="SET Asia">SET Asia</channel>
+    <channel site="[ENC]nos.pt_0" site_id="143||MAX" xmltv_id="MAX">MAX</channel>
+    <channel site="[ENC]nos.pt_0" site_id="57||ZEETV" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="371||DOGTV" xmltv_id="DOGTV">DOGTV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="383||TVIREAL" xmltv_id="TVI Reality - Câmara 1">TVI Reality - Câmara 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="384||TVIREAL" xmltv_id="TVI Reality - Câmara 2">TVI Reality - Câmara 2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="385||TVIREAL" xmltv_id="TVI Reality - Câmara 3">TVI Reality - Câmara 3</channel>
+    <channel site="[ENC]nos.pt_0" site_id="386||TVIREAL" xmltv_id="TVI Reality - Câmara 4">TVI Reality - Câmara 4</channel>
+    <channel site="[ENC]nos.pt_0" site_id="387||TVIREAL" xmltv_id="TVI Reality - Mosaico">TVI Reality - Mosaico</channel>
+    <channel site="[ENC]nos.pt_0" site_id="671||hottaboo" xmltv_id="HOT Taboo">HOT Taboo</channel>
+    <channel site="[ENC]nos.pt_0" site_id="672||hotman" xmltv_id="HOT Man">HOT Man</channel>
+    <channel site="[ENC]nos.pt_0" site_id="171||HOT" xmltv_id="HOT">HOT</channel>
+    <channel site="[ENC]nos.pt_0" site_id="222||HOTHD" xmltv_id="HOT HD">HOT HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="69||PLBOYHD" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="393||VENUS" xmltv_id="Venus">Venus</channel>
+    <channel site="[ENC]nos.pt_0" site_id="365||PENTHOUSEHD1" xmltv_id="Penthouse HD1">Penthouse HD1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="364||SEXTREME" xmltv_id="Sextreme">Sextreme</channel>
+    <channel site="[ENC]nos.pt_0" site_id="349||CTESTE" xmltv_id="Canal de Teste">Canal de Teste</channel>
+    <channel site="[ENC]nos.pt_0" site_id="139||RTPHD" xmltv_id="RTP 1 HD">RTP 1 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="554||RTP2HD" xmltv_id="RTP 2 HD">RTP 2 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="418||SICHD" xmltv_id="SIC HD">SIC HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="555||TVIHD" xmltv_id="TVI HD">TVI HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="419||SICNHD" xmltv_id="SIC Notícias HD">SIC Notícias HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="556||RTP3HD" xmltv_id="RTP 3 HD">RTP 3 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="557||cnnportugalhd" xmltv_id="CNN Portugal HD">CNN Portugal HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="425||CMTVHD" xmltv_id="CMTV HD">CMTV HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="417||SPTVMAISHD" xmltv_id="SPORT TV+ HD">SPORT TV+ HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="447||GLOBOHD" xmltv_id="Globo HD">Globo HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="566||CANAL11HD" xmltv_id="Canal 11 HD">Canal 11 HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="567||TVIREALHD" xmltv_id="TVI Reality HD">TVI Reality HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="420||SICMHD" xmltv_id="SIC Mulher HD">SIC Mulher HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="421||SICCHD" xmltv_id="SIC Caras HD">SIC Caras HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="422||SICRHD" xmltv_id="SIC Radical HD">SIC Radical HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="678||RTPM" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel site="[ENC]nos.pt_0" site_id="609||PORTO" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel site="[ENC]nos.pt_0" site_id="608||SPORTINGTV" xmltv_id="Sporting TV">Sporting TV</channel>
+    <channel site="[ENC]nos.pt_0" site_id="594||DISNYHD" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="593||pandahd" xmltv_id="Canal Panda HD">Canal Panda HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="673||DISNEYJRHD" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="552||SICK" xmltv_id="SIC K">SIC K</channel>
+    <channel site="[ENC]nos.pt_0" site_id="501||SAT1" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC]nos.pt_0" site_id="503||PROSIEBEN" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC]nos.pt_0" site_id="505||VIVAGERMANY" xmltv_id="VIVA Germany">VIVA Germany</channel>
+    <channel site="[ENC]nos.pt_0" site_id="506||DSF" xmltv_id="DSF">DSF</channel>
+    <channel site="[ENC]nos.pt_0" site_id="508||RAI2" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="[ENC]nos.pt_0" site_id="193||ACOLH" xmltv_id="ACOLH">ACOLH</channel>
+    <channel site="[ENC]nos.pt_0" site_id="389||noshd4k" xmltv_id="NOS Ultra HD 4K">NOS Ultra HD 4K</channel>
+    <channel site="[ENC]nos.pt_0" site_id="395||ATIVNOS" xmltv_id="Ativação NOS">Ativação NOS</channel>
+    <channel site="[ENC]nos.pt_0" site_id="408||CANALNOSHD" xmltv_id="Canal NOS HD">Canal NOS HD</channel>
+    <channel site="[ENC]nos.pt_0" site_id="437||CANALNOSMADEIRA" xmltv_id="Canal NOS Madeira">Canal NOS Madeira</channel>
+    <channel site="[ENC]nos.pt_0" site_id="999||CANALNOSHD" xmltv_id="Canal NOS HD">Canal NOS HD</channel>
+  </channels>
+</site>
