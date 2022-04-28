@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="kyknet.dstv.com_0">
+  <channels>
+    <channel site="kyknet.dstv.com_0" site_id="4" xmltv_id="kykNET Lekker">kykNET Lekker</channel>
+    <channel site="kyknet.dstv.com_0" site_id="2" xmltv_id="kykNET">kykNET</channel>
+    <channel site="kyknet.dstv.com_0" site_id="3" xmltv_id="kykNET&amp;kie">kykNET&amp;kie</channel>
+    <channel site="kyknet.dstv.com_0" site_id="1" xmltv_id="kykNET NOU!">kykNET NOU!</channel>
+  </channels>
+</site>

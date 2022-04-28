@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="mzansimagic.dstv.com_0">
+  <channels>
+    <channel site="mzansimagic.dstv.com_0" site_id="1" xmltv_id="Mzansi Magic | 161">Mzansi Magic | 161</channel>
+    <channel site="mzansimagic.dstv.com_0" site_id="2" xmltv_id="Mzansi Wethu | 163">Mzansi Wethu | 163</channel>
+    <channel site="mzansimagic.dstv.com_0" site_id="3" xmltv_id="Mzansi Bioskop | 164">Mzansi Bioskop | 164</channel>
+    <channel site="mzansimagic.dstv.com_0" site_id="4" xmltv_id="Mzansi Magic Music | 321">Mzansi Magic Music | 321</channel>
+  </channels>
+</site>
