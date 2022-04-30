@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]fetchtv.com.au_0">
+  <channels>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1583||1583" xmltv_id="&amp;TV">&amp;TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="250187||44" xmltv_id="10 Adelaide">10 Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251840||9" xmltv_id="10 Albury">10 Albury</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388612||46" xmltv_id="10 BOLD Adelaide">10 BOLD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388611||49" xmltv_id="10 BOLD Brisbane">10 BOLD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428862||1028" xmltv_id="10 BOLD Central">10 BOLD Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426603||998" xmltv_id="10 BOLD Central Qld">10 BOLD Central Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431665||1670" xmltv_id="10 BOLD Gold Coast">10 BOLD Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429416||1083" xmltv_id="10 BOLD Griffith">10 BOLD Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388610||48" xmltv_id="10 BOLD Melbourne">10 BOLD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430840||1135" xmltv_id="10 BOLD Mildura">10 BOLD Mildura</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="406681||23" xmltv_id="10 BOLD Northern NSW">10 BOLD Northern NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422428||958" xmltv_id="10 BOLD NSW">10 BOLD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422432||959" xmltv_id="10 BOLD NSW">10 BOLD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="416647||218" xmltv_id="10 BOLD NT">10 BOLD NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388613||41" xmltv_id="10 BOLD Perth">10 BOLD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422291||955" xmltv_id="10 BOLD QLD">10 BOLD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429042||1058" xmltv_id="10 BOLD SA">10 BOLD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429037||1062" xmltv_id="10 BOLD South East SA">10 BOLD South East SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388609||67" xmltv_id="10 BOLD Sydney">10 BOLD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422292||961" xmltv_id="10 BOLD TAS">10 BOLD TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422289||953" xmltv_id="10 BOLD VIC">10 BOLD VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428123||1013" xmltv_id="10 BOLD WA">10 BOLD WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="246955||127" xmltv_id="10 Brisbane">10 Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430950||1148" xmltv_id="10 Central">10 Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426599||1002" xmltv_id="10 Central QLD">10 Central QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="392279||26" xmltv_id="10 DDT">10 DDT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289727||197" xmltv_id="10 Gold Coast">10 Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431561||1472" xmltv_id="10 HD Adelaide">10 HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431562||1478" xmltv_id="10 HD Brisbane">10 HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431563||1475" xmltv_id="10 HD Melbourne">10 HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431564||1484" xmltv_id="10 HD Perth">10 HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431565||1481" xmltv_id="10 HD Sydney">10 HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="250185||42" xmltv_id="10 Melbourne">10 Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289726||187" xmltv_id="10 Northern NSW">10 Northern NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289724||111" xmltv_id="10 NSW">10 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="403766||962" xmltv_id="10 Peach Adelaide">10 Peach Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="403765||963" xmltv_id="10 Peach Brisbane">10 Peach Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430960||1149" xmltv_id="10 Peach Central">10 Peach Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422296||996" xmltv_id="10 Peach Darwin">10 Peach Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422431||957" xmltv_id="10 Peach Gold Coast">10 Peach Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421643||893" xmltv_id="10 Peach Griffith">10 Peach Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="403767||167" xmltv_id="10 Peach Melbourne">10 Peach Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422290||956" xmltv_id="10 Peach Northern NSW">10 Peach Northern NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="406567||15" xmltv_id="10 Peach NSW">10 Peach NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="403768||964" xmltv_id="10 Peach Perth">10 Peach Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="406568||14" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426600||997" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422293||954" xmltv_id="10 Peach SA">10 Peach SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="272971||180" xmltv_id="10 Peach South East SA">10 Peach South East SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="403769||965" xmltv_id="10 Peach Sydney">10 Peach Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="406689||19" xmltv_id="10 Peach TAS">10 Peach TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="406565||16" xmltv_id="10 Peach VIC">10 Peach VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428122||1014" xmltv_id="10 Peach WA">10 Peach WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="16173||65" xmltv_id="10 Perth">10 Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251843||8" xmltv_id="10 QLD">10 QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="275039||183" xmltv_id="10 SA">10 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432203||2330" xmltv_id="10 SA">10 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432209||2336" xmltv_id="10 SA">10 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432215||2328" xmltv_id="10 SA">10 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432259||2358" xmltv_id="10 SHAKE Adelaide">10 SHAKE Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432258||2361" xmltv_id="10 SHAKE Brisbane">10 SHAKE Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432257||2357" xmltv_id="10 SHAKE Melbourne">10 SHAKE Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431667||1667" xmltv_id="10 SHAKE NSW">10 SHAKE NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432260||2360" xmltv_id="10 SHAKE Perth">10 SHAKE Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431668||1679" xmltv_id="10 SHAKE QLD">10 SHAKE QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432256||2359" xmltv_id="10 SHAKE Sydney">10 SHAKE Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431991||2052" xmltv_id="10 SHAKE TAS">10 SHAKE TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431669||1682" xmltv_id="10 SHAKE VIC">10 SHAKE VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428254||1017" xmltv_id="10 Shepparton">10 Shepparton</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="85459||143" xmltv_id="10 Sydney">10 Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="272547||2" xmltv_id="10 TAS">10 TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251839||185" xmltv_id="10 VIC">10 VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289725||190" xmltv_id="10 Wagga Wagga">10 Wagga Wagga</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432198||2342" xmltv_id="10HD DDT">10HD DDT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431703||1707" xmltv_id="10HD Gold Coast">10HD Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429410||1084" xmltv_id="10HD Griffith">10HD Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430839||1134" xmltv_id="10HD Mildura">10HD Mildura</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431702||1710" xmltv_id="10HD Northern NSW">10HD Northern NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431664||1685" xmltv_id="10HD NSW">10HD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431662||1673" xmltv_id="10HD QLD">10HD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432204||2333" xmltv_id="10HD SA">10HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432210||2324" xmltv_id="10HD SA">10HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432216||2326" xmltv_id="10HD SA">10HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429034||1065" xmltv_id="10HD South East SA">10HD South East SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431674||1688" xmltv_id="10HD TAS">10HD TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431663||1676" xmltv_id="10HD VIC">10HD VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="424003||980" xmltv_id="10HD WA">10HD WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251883||105" xmltv_id="31 Digital">31 Digital</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="422857||966" xmltv_id="44Adelaide">44Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428970||1055" xmltv_id="4ME Regional">4ME Regional</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429233||1071" xmltv_id="4ME WA">4ME WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251861||53" xmltv_id="7 Central">7 Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251862||54" xmltv_id="7 Darwin">7 Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251835||189" xmltv_id="7 SA">7 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251859||27" xmltv_id="7 SA">7 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432199||2341" xmltv_id="7 SA">7 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432205||2332" xmltv_id="7 SA">7 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432211||2325" xmltv_id="7 SA">7 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251856||35" xmltv_id="7 TAS">7 TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431542||1457" xmltv_id="7flix Brisbane">7flix Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431610||1616" xmltv_id="7flix Gold Coast">7flix Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431541||1460" xmltv_id="7flix NSW">7flix NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431817||1856" xmltv_id="7flix Prime NSW">7flix Prime NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431816||1859" xmltv_id="7flix Prime QLD">7flix Prime QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431818||1853" xmltv_id="7flix Prime VIC">7flix Prime VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431546||1463" xmltv_id="7flix QLD">7flix QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431543||1454" xmltv_id="7flix SA">7flix SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431544||1469" xmltv_id="7flix VIC">7flix VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431545||1466" xmltv_id="7flix WA">7flix WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431613||1619" xmltv_id="7HD Adelaide">7HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431612||1622" xmltv_id="7HD Brisbane">7HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="268822||201" xmltv_id="7HD Griffith">7HD Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431614||1628" xmltv_id="7HD Melbourne">7HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432019||2127" xmltv_id="7HD NT">7HD NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431619||1631" xmltv_id="7HD Perth">7HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391416||32" xmltv_id="7HD QLD, Toowoomba">7HD QLD, Toowoomba</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="381172||85" xmltv_id="7HD Queensland, Cairns">7HD Queensland, Cairns</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391417||33" xmltv_id="7HD Queensland, Mackay">7HD Queensland, Mackay</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289718||58" xmltv_id="7HD Queensland, Rockhampton">7HD Queensland, Rockhampton</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289717||51" xmltv_id="7HD Queensland, Townsville">7HD Queensland, Townsville</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391419||29" xmltv_id="7HD Queensland, Wide Bay">7HD Queensland, Wide Bay</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251823||160" xmltv_id="7HD SA">7HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432200||2343" xmltv_id="7HD SA">7HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432206||2335" xmltv_id="7HD SA">7HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432212||2338" xmltv_id="7HD SA">7HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431611||1625" xmltv_id="7HD Sydney">7HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431764||1772" xmltv_id="7HD TAS">7HD TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388567||210" xmltv_id="7mate Adelaide">7mate Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388566||209" xmltv_id="7mate Brisbane">7mate Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430949||1147" xmltv_id="7mate Central">7mate Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="413691||75" xmltv_id="7mate Darwin">7mate Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432006||2064" xmltv_id="7mate HD Adelaide">7mate HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432005||2067" xmltv_id="7mate HD Brisbane">7mate HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432003||2058" xmltv_id="7mate HD Melbourne">7mate HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432007||2061" xmltv_id="7mate HD Perth">7mate HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432255||2356" xmltv_id="7mate HD QLD">7mate HD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432004||2070" xmltv_id="7mate HD Sydney">7mate HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388547||87" xmltv_id="7mate Melbourne">7mate Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430014||1108" xmltv_id="7mate NSW">7mate NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="388568||202" xmltv_id="7mate Perth">7mate Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391953||71" xmltv_id="7mate Prime NSW">7mate Prime NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391924||95" xmltv_id="7mate Prime Qld">7mate Prime Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391960||156" xmltv_id="7mate Prime Victoria">7mate Prime Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426593||999" xmltv_id="7mate QLD">7mate QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429035||1063" xmltv_id="7mate SA">7mate SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429038||1056" xmltv_id="7mate SA">7mate SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="387291||57" xmltv_id="7mate Sydney">7mate Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="394044||528" xmltv_id="7mate TAS">7mate TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2146||2146" xmltv_id="7plus AVC">7plus AVC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="410802||102" xmltv_id="7TWO Adelaide">7TWO Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="410800||149" xmltv_id="7TWO Brisbane">7TWO Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430948||1146" xmltv_id="7TWO Central">7TWO Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426591||1003" xmltv_id="7TWO Central Qld">7TWO Central Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411736||66" xmltv_id="7TWO Darwin">7TWO Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430263||1111" xmltv_id="7TWO Griffith">7TWO Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="425342||994" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="410799||150" xmltv_id="7TWO Melbourne">7TWO Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="410801||148" xmltv_id="7TWO Perth">7TWO Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="412512||164" xmltv_id="7TWO Prime NSW">7TWO Prime NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="412513||3" xmltv_id="7TWO Prime Qld">7TWO Prime Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="412514||64" xmltv_id="7TWO Prime Vic">7TWO Prime Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430557||1117" xmltv_id="7TWO QLD">7TWO QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429036||1061" xmltv_id="7TWO SA">7TWO SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429039||1057" xmltv_id="7TWO SA">7TWO SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="410798||166" xmltv_id="7TWO Sydney">7TWO Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411737||146" xmltv_id="7TWO Tas">7TWO Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="425019||988" xmltv_id="9 Albury">9 Albury</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251836||188" xmltv_id="9 Griffith">9 Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289733||10" xmltv_id="9 Mackay">9 Mackay</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251821||159" xmltv_id="9 Mildura">9 Mildura</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432055||2207" xmltv_id="9 NSW">9 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289732||11" xmltv_id="9 QLD">9 QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411105||78" xmltv_id="9 SA">9 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="420676||602" xmltv_id="9 SA">9 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432201||2329" xmltv_id="9 SA">9 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432207||2334" xmltv_id="9 SA">9 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432213||2339" xmltv_id="9 SA">9 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="249724||163" xmltv_id="9 TAS">9 TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251820||158" xmltv_id="9 VIC">9 VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251825||162" xmltv_id="9 WA">9 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="249943||50" xmltv_id="9 Wagga">9 Wagga</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429033||1066" xmltv_id="9Gem Adelaide">9Gem Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391183||134" xmltv_id="9Gem Brisbane">9Gem Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="394041||152" xmltv_id="9Gem Darwin">9Gem Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432051||2188" xmltv_id="9Gem HD Adelaide">9Gem HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432049||2182" xmltv_id="9Gem HD Brisbane">9Gem HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432050||2185" xmltv_id="9Gem HD Darwin">9Gem HD Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432048||2194" xmltv_id="9Gem HD Melbourne">9Gem HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432052||2191" xmltv_id="9Gem HD Perth">9Gem HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432047||2197" xmltv_id="9Gem HD Sydney">9Gem HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391132||119" xmltv_id="9Gem Melbourne">9Gem Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421321||885" xmltv_id="9Gem NSW">9Gem NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391133||97" xmltv_id="9Gem Perth">9Gem Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421322||882" xmltv_id="9Gem QLD">9Gem QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429040||1054" xmltv_id="9Gem SA">9Gem SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431261||1266" xmltv_id="9Gem South East SA">9Gem South East SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391134||121" xmltv_id="9Gem Sydney">9Gem Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407824||98" xmltv_id="9Gem TAS">9Gem TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421323||883" xmltv_id="9Gem VIC">9Gem VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428146||1016" xmltv_id="9Gem WA">9Gem WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429032||1064" xmltv_id="9Go! Adelaide">9Go! Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407658||59" xmltv_id="9Go! Brisbane">9Go! Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="420314||558" xmltv_id="9Go! Darwin">9Go! Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407804||130" xmltv_id="9Go! Mackay">9Go! Mackay</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407657||61" xmltv_id="9Go! Melbourne">9Go! Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="396557||1" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432059||2216" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432060||2219" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432061||2222" xmltv_id="9Go! QLD">9Go! QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="429041||1059" xmltv_id="9Go! SA">9Go! SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431263||1265" xmltv_id="9Go! South East SA">9Go! South East SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407760||88" xmltv_id="9Go! Sydney">9Go! Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="413281||142" xmltv_id="9Go! TAS">9Go! TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407805||154" xmltv_id="9Go! VIC">9Go! VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="407827||99" xmltv_id="9Go! WA">9Go! WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428147||1015" xmltv_id="9Go! WA">9Go! WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431504||1427" xmltv_id="9HD Adelaide">9HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432230||2353" xmltv_id="9HD Albury">9HD Albury</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431506||1421" xmltv_id="9HD Brisbane">9HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431509||1409" xmltv_id="9HD Darwin">9HD Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431508||1412" xmltv_id="9HD Gold Coast">9HD Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432057||2213" xmltv_id="9HD Griffith">9HD Griffith</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431573||1526" xmltv_id="9HD Mackay">9HD Mackay</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431505||1424" xmltv_id="9HD Melbourne">9HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432231||2352" xmltv_id="9HD Mildura">9HD Mildura</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432056||2210" xmltv_id="9HD NSW">9HD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431507||1418" xmltv_id="9HD Perth">9HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432058||2204" xmltv_id="9HD QLD">9HD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431568||1541" xmltv_id="9HD Riverland">9HD Riverland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432202||2331" xmltv_id="9HD SA">9HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432208||2337" xmltv_id="9HD SA">9HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432214||2327" xmltv_id="9HD SA">9HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431503||1415" xmltv_id="9HD Sydney">9HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431574||1532" xmltv_id="9HD TAS">9HD TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431575||1535" xmltv_id="9HD VIC">9HD VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431576||1529" xmltv_id="9HD WA">9HD WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431572||1523" xmltv_id="9HD Wagga">9HD Wagga</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431514||1439" xmltv_id="9Life Adelaide">9Life Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431512||1436" xmltv_id="9Life Brisbane">9Life Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432305||2369" xmltv_id="9Life Broken Hill">9Life Broken Hill</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431784||1817" xmltv_id="9Life Darwin">9Life Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431511||1433" xmltv_id="9Life Melbourne">9Life Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431945||2019" xmltv_id="9Life NSW">9Life NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431515||1442" xmltv_id="9Life Perth">9Life Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431959||2016" xmltv_id="9Life QLD">9Life QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431977||2025" xmltv_id="9Life SA">9Life SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431992||2055" xmltv_id="9Life SA">9Life SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431510||1430" xmltv_id="9Life Sydney">9Life Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431974||2028" xmltv_id="9Life TAS">9Life TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431967||2022" xmltv_id="9Life VIC">9Life VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431980||2031" xmltv_id="9Life WA">9Life WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2149||2149" xmltv_id="9Now AVC">9Now AVC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432220||2346" xmltv_id="9Rush Adelaide">9Rush Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432221||2345" xmltv_id="9Rush Brisbane">9Rush Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432224||2348" xmltv_id="9Rush Melbourne">9Rush Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432225||2347" xmltv_id="9Rush Perth">9Rush Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432219||2344" xmltv_id="9Rush Sydney">9Rush Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432086||2305" xmltv_id="ABC Adelaide">ABC Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432092||2288" xmltv_id="ABC Brisbane">ABC Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432091||2287" xmltv_id="ABC Canberra">ABC Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432095||2240" xmltv_id="ABC Classic Adelaide">ABC Classic Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432094||2239" xmltv_id="ABC Classic Brisbane">ABC Classic Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432099||2238" xmltv_id="ABC Classic Canberra">ABC Classic Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432098||2237" xmltv_id="ABC Classic Darwin">ABC Classic Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432097||2242" xmltv_id="ABC Classic Hobart">ABC Classic Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432093||2243" xmltv_id="ABC Classic Melbourne">ABC Classic Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432096||2241" xmltv_id="ABC Classic Perth">ABC Classic Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432080||2254" xmltv_id="ABC Classic Sydney">ABC Classic Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432102||2260" xmltv_id="ABC Country Adelaide">ABC Country Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432101||2273" xmltv_id="ABC Country Brisbane">ABC Country Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432106||2274" xmltv_id="ABC Country Canberra">ABC Country Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432105||2263" xmltv_id="ABC Country Darwin">ABC Country Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432104||2262" xmltv_id="ABC Country Hobart">ABC Country Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432100||2261" xmltv_id="ABC Country Melbourne">ABC Country Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432103||2272" xmltv_id="ABC Country Perth">ABC Country Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432081||2253" xmltv_id="ABC Country Sydney">ABC Country Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432090||2286" xmltv_id="ABC Darwin">ABC Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432089||2306" xmltv_id="ABC Hobart">ABC Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2152||2152" xmltv_id="ABC iview">ABC iview</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432137||2299" xmltv_id="ABC Jazz Adelaide">ABC Jazz Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432136||2300" xmltv_id="ABC Jazz Brisbane">ABC Jazz Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432141||2298" xmltv_id="ABC Jazz Canberra">ABC Jazz Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432140||2297" xmltv_id="ABC Jazz Darwin">ABC Jazz Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432139||2302" xmltv_id="ABC Jazz Hobart">ABC Jazz Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432135||2301" xmltv_id="ABC Jazz Melbourne">ABC Jazz Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432138||2303" xmltv_id="ABC Jazz Perth">ABC Jazz Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="390716||214" xmltv_id="ABC Jazz Sydney">ABC Jazz Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432109||2259" xmltv_id="ABC Kids Listen Adelaide">ABC Kids Listen Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432108||2258" xmltv_id="ABC Kids Listen Brisbane">ABC Kids Listen Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432113||2267" xmltv_id="ABC Kids Listen Canberra">ABC Kids Listen Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432112||2268" xmltv_id="ABC Kids Listen Darwin">ABC Kids Listen Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432111||2264" xmltv_id="ABC Kids Listen Hobart">ABC Kids Listen Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432107||2285" xmltv_id="ABC Kids Listen Melbourne">ABC Kids Listen Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432110||2266" xmltv_id="ABC Kids Listen Perth">ABC Kids Listen Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432082||2252" xmltv_id="ABC Kids Listen Sydney">ABC Kids Listen Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="284791||170" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="284792||171" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="284793||172" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="284794||168" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="284795||169" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="390740||138" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="390741||137" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="428688||1026" xmltv_id="ABC Kids/ABC TV Plus">ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411316||18" xmltv_id="ABC ME NSW">ABC ME NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411319||21" xmltv_id="ABC ME NT">ABC ME NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411320||177" xmltv_id="ABC ME Qld">ABC ME Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411321||205" xmltv_id="ABC ME SA">ABC ME SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411323||207" xmltv_id="ABC ME Tas">ABC ME Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411324||86" xmltv_id="ABC ME Vic">ABC ME Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411325||176" xmltv_id="ABC ME WA">ABC ME WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432088||2307" xmltv_id="ABC Melbourne">ABC Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431553||1502" xmltv_id="ABC NEWS ACT">ABC NEWS ACT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411534||91" xmltv_id="ABC NEWS Northern Territory">ABC NEWS Northern Territory</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391135||120" xmltv_id="ABC NEWS NSW">ABC NEWS NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391138||115" xmltv_id="ABC NEWS Queensland">ABC NEWS Queensland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432149||2245" xmltv_id="ABC News Radio">ABC News Radio</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391137||122" xmltv_id="ABC NEWS South Australia">ABC NEWS South Australia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="411535||84" xmltv_id="ABC NEWS Tasmania">ABC NEWS Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391136||123" xmltv_id="ABC NEWS Victoria">ABC NEWS Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391139||114" xmltv_id="ABC NEWS Western Australia">ABC NEWS Western Australia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432087||2304" xmltv_id="ABC Perth">ABC Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432116||2244" xmltv_id="ABC RN Adelaide">ABC RN Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432115||2269" xmltv_id="ABC RN Brisbane">ABC RN Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432120||2279" xmltv_id="ABC RN Canberra">ABC RN Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432119||2255" xmltv_id="ABC RN Darwin">ABC RN Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432118||2265" xmltv_id="ABC RN Hobart">ABC RN Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432114||2270" xmltv_id="ABC RN Melbourne">ABC RN Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432117||2271" xmltv_id="ABC RN Perth">ABC RN Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432083||2251" xmltv_id="ABC RN Sydney">ABC RN Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432079||2290" xmltv_id="ABC Sydney">ABC Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="275885||17" xmltv_id="ABC TV ACT">ABC TV ACT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431732||1728" xmltv_id="ABC TV HD ACT">ABC TV HD ACT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431733||1731" xmltv_id="ABC TV HD NSW">ABC TV HD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431734||1734" xmltv_id="ABC TV HD NT">ABC TV HD NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431735||1737" xmltv_id="ABC TV HD Queensland">ABC TV HD Queensland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431736||1740" xmltv_id="ABC TV HD South Australia">ABC TV HD South Australia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431737||1743" xmltv_id="ABC TV HD Tasmania">ABC TV HD Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431738||1722" xmltv_id="ABC TV HD Victoria">ABC TV HD Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431739||1725" xmltv_id="ABC TV HD Western Australia">ABC TV HD Western Australia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="18294||107" xmltv_id="ABC TV NSW">ABC TV NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251888||101" xmltv_id="ABC TV NT">ABC TV NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="246952||128" xmltv_id="ABC TV QLD">ABC TV QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="86170||109" xmltv_id="ABC TV SA">ABC TV SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="86162||136" xmltv_id="ABC TV Tasmania">ABC TV Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="92843||203" xmltv_id="ABC TV Victoria">ABC TV Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="249832||12" xmltv_id="ABC TV WA">ABC TV WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431369||1316" xmltv_id="Aboriginal TV">Aboriginal TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1096||1096" xmltv_id="ACCTV">ACCTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="547||547" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="96||96" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431194||1246" xmltv_id="Aspire SA">Aspire SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431195||1247" xmltv_id="Aspire TAS">Aspire TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2373||2373" xmltv_id="Aussie Classics">Aussie Classics</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="224||224" xmltv_id="BabyTV">BabyTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2313||2313" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1346||1346" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1334||1334" xmltv_id="BBC First">BBC First</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2366||2366" xmltv_id="BBC Kids">BBC Kids</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1337||1337" xmltv_id="BBC UKTV">BBC UKTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="173||173" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1004||1004" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1847||1847" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1850||1850" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1580||1580" xmltv_id="Bindass">Bindass</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="900||900" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1361||1361" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251882||104" xmltv_id="Channel 31 Melbourne">Channel 31 Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1245||1245" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="86173||108" xmltv_id="Channel Nine Adelaide">Channel Nine Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="260461||89" xmltv_id="Channel Nine Brisbane">Channel Nine Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="86169||139" xmltv_id="Channel Nine Darwin">Channel Nine Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="260450||63" xmltv_id="Channel Nine Gold Coast">Channel Nine Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="252342||79" xmltv_id="Channel Nine Melbourne">Channel Nine Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="96115||145" xmltv_id="Channel Nine Perth">Channel Nine Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="18671||24" xmltv_id="Channel Nine Sydney">Channel Nine Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="85832||181" xmltv_id="Channel Seven Adelaide">Channel Seven Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="92783||184" xmltv_id="Channel Seven Brisbane">Channel Seven Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="96100||125" xmltv_id="Channel Seven Melbourne">Channel Seven Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="86178||113" xmltv_id="Channel Seven Perth">Channel Seven Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431666||1691" xmltv_id="Channel Seven Queensland, Gold Coast">Channel Seven Queensland, Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391420||100" xmltv_id="Channel Seven Queensland, Sunshine Coast">Channel Seven Queensland, Sunshine Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="18891||178" xmltv_id="Channel Seven Sydney">Channel Seven Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1244||1244" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2355||2355" xmltv_id="CMT">CMT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="47||47" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="608||608" xmltv_id="Colors">Colors</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1499||1499" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1930||1930" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2319||2319" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432144||2293" xmltv_id="Double J Adelaide">Double J Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432143||2296" xmltv_id="Double J Brisbane">Double J Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432148||2289" xmltv_id="Double J Canberra">Double J Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432147||2292" xmltv_id="Double J Darwin">Double J Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432146||2291" xmltv_id="Double J Hobart">Double J Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432142||2295" xmltv_id="Double J Melbourne">Double J Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432145||2294" xmltv_id="Double J Perth">Double J Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="390715||527" xmltv_id="Double J Sydney">Double J Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="199||199" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1258||1258" xmltv_id="EDGEsport">EDGEsport</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431371||1310" xmltv_id="Education TV">Education TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1719||1719" xmltv_id="eGG">eGG</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1128||1128" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1129||1129" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1598||1598" xmltv_id="ET Now">ET Now</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="553||553" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432261||2363" xmltv_id="Extra">Extra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="11277||1277" xmltv_id="Extra 2">Extra 2</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431202||1249" xmltv_id="Extra 2 SA">Extra 2 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431226||1257" xmltv_id="Extra 2 WA">Extra 2 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2375||2375" xmltv_id="Fail Army">Fail Army</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1073||1073" xmltv_id="FashionTV">FashionTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="234||234" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251860||52" xmltv_id="GWN7">GWN7</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426811||1005" xmltv_id="GWN7mate">GWN7mate</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426810||1006" xmltv_id="GWN7TWO">GWN7TWO</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1349||1349" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1637||1637" xmltv_id="Hillsong">Hillsong</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1364||1364" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="624||624" xmltv_id="HUM TV">HUM TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="264823||82" xmltv_id="Imparja">Imparja</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430903||1139" xmltv_id="Imparja GEM NSW">Imparja GEM NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426597||1001" xmltv_id="Imparja GEM Qld">Imparja GEM Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430904||1140" xmltv_id="Imparja GO! NSW">Imparja GO! NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="426595||1000" xmltv_id="Imparja GO! Qld">Imparja GO! Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="264824||80" xmltv_id="Imparja Television Qld">Imparja Television Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2380||2380" xmltv_id="Insight TV">Insight TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2382||2382" xmltv_id="InTrouble">InTrouble</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2320||2320" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2381||2381" xmltv_id="InWonder">InWonder</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431098||1210" xmltv_id="ishoptv NSW">ishoptv NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431099||1209" xmltv_id="ishoptv QLD">ishoptv QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431100||1214" xmltv_id="ishoptv VIC">ishoptv VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1613||1613" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1713||1713" xmltv_id="Movie Box">Movie Box</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2349||2349" xmltv_id="Movie Store AVC">Movie Store AVC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2309||2309" xmltv_id="MSNBC">MSNBC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="124||124" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="198||198" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="654||654" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="613||613" xmltv_id="MTV India">MTV India</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1343||1343" xmltv_id="Nat Geo WILD">Nat Geo WILD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="20||20" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="408550||30" xmltv_id="NBN 9GEM Gold Coast">NBN 9GEM Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432070||2232" xmltv_id="NBN 9GEM Gold Coast HD">NBN 9GEM Gold Coast HD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="408549||62" xmltv_id="NBN 9GEM NSW">NBN 9GEM NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432069||2235" xmltv_id="NBN 9GEM NSW HD">NBN 9GEM NSW HD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421319||881" xmltv_id="NBN 9GO! NSW">NBN 9GO! NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="421320||884" xmltv_id="NBN 9GO! Queensland">NBN 9GO! Queensland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431557||1487" xmltv_id="NBN 9HD Gold Coast">NBN 9HD Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431558||1490" xmltv_id="NBN 9HD NSW">NBN 9HD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431560||1496" xmltv_id="NBN 9Life Gold Coast">NBN 9Life Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431559||1493" xmltv_id="NBN 9Life NSW">NBN 9Life NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432262||2362" xmltv_id="NBN Extra">NBN Extra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="281938||77" xmltv_id="NBN Gold Coast">NBN Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="18017||5" xmltv_id="NBN NSW">NBN NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="610||610" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="611||611" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="616||616" xmltv_id="NDTV India">NDTV India</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1367||1367" xmltv_id="News18">News18</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1242||1242" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2365||2365" xmltv_id="Nick Music">Nick Music</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1241||1241" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430922||1144" xmltv_id="NITV NSW">NITV NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431030||1151" xmltv_id="NITV NT">NITV NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430924||1143" xmltv_id="NITV QLD">NITV QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430923||1141" xmltv_id="NITV SA">NITV SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431029||1150" xmltv_id="NITV TAS">NITV TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430925||1145" xmltv_id="NITV VIC">NITV VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430926||1142" xmltv_id="NITV WA">NITV WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2378||2378" xmltv_id="Nosey">Nosey</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1243||1243" xmltv_id="Now Showing">Now Showing</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432068||2229" xmltv_id="Openshop">Openshop</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2379||2379" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2130||2130" xmltv_id="Oxygen">Oxygen</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2376||2376" xmltv_id="People Are Awesome">People Are Awesome</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289720||126" xmltv_id="PRIME7">PRIME7</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="381167||110" xmltv_id="PRIME7">PRIME7</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="286937||182" xmltv_id="PRIME7 Gold Coast">PRIME7 Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431872||1903" xmltv_id="PRIME7 HD">PRIME7 HD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431874||1927" xmltv_id="PRIME7 HD">PRIME7 HD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431871||1924" xmltv_id="PRIME7 HD Gold Coast">PRIME7 HD Gold Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431873||1921" xmltv_id="PRIME7 HD Northern, Newcastle">PRIME7 HD Northern, Newcastle</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431875||1918" xmltv_id="PRIME7 HD Southern, Canberra">PRIME7 HD Southern, Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431876||1915" xmltv_id="PRIME7 HD Southern, Orange">PRIME7 HD Southern, Orange</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431877||1912" xmltv_id="PRIME7 HD Southern, South Coast">PRIME7 HD Southern, South Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431878||1909" xmltv_id="PRIME7 HD Southern, Wagga Wagga">PRIME7 HD Southern, Wagga Wagga</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431879||1906" xmltv_id="PRIME7 HD Southern, Wollongong">PRIME7 HD Southern, Wollongong</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431880||1897" xmltv_id="PRIME7 HD Victoria, Albury">PRIME7 HD Victoria, Albury</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431881||1900" xmltv_id="PRIME7 HD Victoria, Gippsland">PRIME7 HD Victoria, Gippsland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431882||1894" xmltv_id="PRIME7 HD Victoria, Regional">PRIME7 HD Victoria, Regional</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289721||194" xmltv_id="PRIME7 Northern, Newcastle">PRIME7 Northern, Newcastle</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289722||191" xmltv_id="PRIME7 Southern, Canberra">PRIME7 Southern, Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="381170||83" xmltv_id="PRIME7 Southern, Orange">PRIME7 Southern, Orange</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391723||90" xmltv_id="PRIME7 Southern, South Coast">PRIME7 Southern, South Coast</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="289723||192" xmltv_id="PRIME7 Southern, Wagga Wagga">PRIME7 Southern, Wagga Wagga</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="381168||55" xmltv_id="PRIME7 Southern, Wollongong">PRIME7 Southern, Wollongong</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="277145||103" xmltv_id="PRIME7 Victoria, Albury">PRIME7 Victoria, Albury</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="392906||93" xmltv_id="PRIME7 Victoria, Gippsland">PRIME7 Victoria, Gippsland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251838||186" xmltv_id="PRIME7 Victoria, Regional">PRIME7 Victoria, Regional</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1272||1272" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431208||1250" xmltv_id="RACING.COM NSW">RACING.COM NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431477||1379" xmltv_id="RACING.COM NT">RACING.COM NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431210||1253" xmltv_id="RACING.COM QLD">RACING.COM QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431211||1252" xmltv_id="RACING.COM SA">RACING.COM SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431478||1382" xmltv_id="RACING.COM TAS">RACING.COM TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431209||1251" xmltv_id="RACING.COM VIC">RACING.COM VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431212||1254" xmltv_id="RACING.COM WA">RACING.COM WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1604||1604" xmltv_id="Rai Italia">Rai Italia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1610||1610" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1607||1607" xmltv_id="Rai World Premium">Rai World Premium</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1601||1601" xmltv_id="Rishtey">Rishtey</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1216||1216" xmltv_id="SAB">SAB</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431867||1876" xmltv_id="SBN NSW">SBN NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431865||1888" xmltv_id="SBN NT">SBN NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431866||1873" xmltv_id="SBN Queensland">SBN Queensland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431870||1885" xmltv_id="SBN South Australia">SBN South Australia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431869||1882" xmltv_id="SBN Tasmania">SBN Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431868||1879" xmltv_id="SBN Victoria">SBN Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431767||1790" xmltv_id="SBS Arabic24 NSW">SBS Arabic24 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431769||1784" xmltv_id="SBS Arabic24 NT">SBS Arabic24 NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431768||1787" xmltv_id="SBS Arabic24 Qld">SBS Arabic24 Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431771||1778" xmltv_id="SBS Arabic24 SA">SBS Arabic24 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431774||1793" xmltv_id="SBS Arabic24 Tasmania">SBS Arabic24 Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431773||1781" xmltv_id="SBS Arabic24 Victoria">SBS Arabic24 Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431770||1775" xmltv_id="SBS Arabic24 WA">SBS Arabic24 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431932||1961" xmltv_id="SBS Chill">SBS Chill</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="259105||118" xmltv_id="SBS Eastern">SBS Eastern</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431491||1391" xmltv_id="SBS Food NSW">SBS Food NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431496||1388" xmltv_id="SBS Food NT">SBS Food NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431494||1397" xmltv_id="SBS Food QLD">SBS Food QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431495||1385" xmltv_id="SBS Food SA">SBS Food SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431497||1400" xmltv_id="SBS Food TAS">SBS Food TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431492||1403" xmltv_id="SBS Food VIC">SBS Food VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431493||1394" xmltv_id="SBS Food WA">SBS Food WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391141||37" xmltv_id="SBS HD Adelaide">SBS HD Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391142||38" xmltv_id="SBS HD Brisbane">SBS HD Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391143||39" xmltv_id="SBS HD Melbourne">SBS HD Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="413062||133" xmltv_id="SBS HD NT">SBS HD NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391144||40" xmltv_id="SBS HD Perth">SBS HD Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="391140||36" xmltv_id="SBS HD Sydney">SBS HD Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="413061||131" xmltv_id="SBS HD Tasmania">SBS HD Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="273191||6" xmltv_id="SBS Melbourne">SBS Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="273204||106" xmltv_id="SBS NT">SBS NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2143||2143" xmltv_id="SBS On Demand AVC">SBS On Demand AVC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431934||1967" xmltv_id="SBS PopAsia">SBS PopAsia</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431933||1964" xmltv_id="SBS PopDesi">SBS PopDesi</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="264783||76" xmltv_id="SBS Queensland">SBS Queensland</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="394033||529" xmltv_id="SBS Radio 1 NSW">SBS Radio 1 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417928||541" xmltv_id="SBS Radio 1 NT">SBS Radio 1 NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417927||543" xmltv_id="SBS Radio 1 Qld">SBS Radio 1 Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417930||538" xmltv_id="SBS Radio 1 SA">SBS Radio 1 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417931||539" xmltv_id="SBS Radio 1 Tas">SBS Radio 1 Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417903||532" xmltv_id="SBS Radio 1 Vic">SBS Radio 1 Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417929||540" xmltv_id="SBS Radio 1 WA">SBS Radio 1 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="394034||530" xmltv_id="SBS Radio 2 NSW">SBS Radio 2 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417933||537" xmltv_id="SBS Radio 2 NT">SBS Radio 2 NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417932||536" xmltv_id="SBS Radio 2 Qld">SBS Radio 2 Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417937||535" xmltv_id="SBS Radio 2 SA">SBS Radio 2 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417938||542" xmltv_id="SBS Radio 2 Tas">SBS Radio 2 Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417904||533" xmltv_id="SBS Radio 2 Vic">SBS Radio 2 Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="417936||534" xmltv_id="SBS Radio 2 WA">SBS Radio 2 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431081||1225" xmltv_id="SBS Radio 3 NSW">SBS Radio 3 NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431082||1227" xmltv_id="SBS Radio 3 NT">SBS Radio 3 NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431083||1224" xmltv_id="SBS Radio 3 Qld">SBS Radio 3 Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431084||1221" xmltv_id="SBS Radio 3 SA">SBS Radio 3 SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431085||1222" xmltv_id="SBS Radio 3 Tas">SBS Radio 3 Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431086||1226" xmltv_id="SBS Radio 3 Vic">SBS Radio 3 Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431087||1223" xmltv_id="SBS Radio 3 WA">SBS Radio 3 WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="259106||117" xmltv_id="SBS SA">SBS SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="251831||193" xmltv_id="SBS Sydney">SBS Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="264617||174" xmltv_id="SBS Tasmania">SBS Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431775||1796" xmltv_id="SBS VICELAND HD NSW">SBS VICELAND HD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431783||1805" xmltv_id="SBS VICELAND HD NT">SBS VICELAND HD NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431776||1799" xmltv_id="SBS VICELAND HD Qld">SBS VICELAND HD Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431781||1808" xmltv_id="SBS VICELAND HD SA">SBS VICELAND HD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431780||1811" xmltv_id="SBS VICELAND HD Tas">SBS VICELAND HD Tas</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431777||1802" xmltv_id="SBS VICELAND HD Vic">SBS VICELAND HD Vic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431782||1814" xmltv_id="SBS VICELAND HD WA">SBS VICELAND HD WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="259107||116" xmltv_id="SBS WA">SBS WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432034||2172" xmltv_id="SBS World Movies Darwin">SBS World Movies Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432033||2178" xmltv_id="SBS World Movies NSW">SBS World Movies NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432035||2175" xmltv_id="SBS World Movies QLD">SBS World Movies QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432036||2166" xmltv_id="SBS World Movies SA">SBS World Movies SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432037||2169" xmltv_id="SBS World Movies Tasmania">SBS World Movies Tasmania</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432038||2160" xmltv_id="SBS World Movies Victoria">SBS World Movies Victoria</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432039||2163" xmltv_id="SBS World Movies WA">SBS World Movies WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1215||1215" xmltv_id="SET">SET</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431952||2013" xmltv_id="Sky News Regional">Sky News Regional</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431095||1211" xmltv_id="Sky News Regional NSW">Sky News Regional NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431096||1213" xmltv_id="Sky News Regional QLD">Sky News Regional QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432323||2370" xmltv_id="Sky News Regional SA">Sky News Regional SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431097||1212" xmltv_id="Sky News Regional VIC">Sky News Regional VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1267||1267" xmltv_id="Sneak Peek">Sneak Peek</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1328||1328" xmltv_id="Sony Max">Sony Max</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431746||1751" xmltv_id="Southern Cross TVSN NSW">Southern Cross TVSN NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431747||1748" xmltv_id="Southern Cross TVSN NT">Southern Cross TVSN NT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431749||1754" xmltv_id="Southern Cross TVSN Qld">Southern Cross TVSN Qld</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431748||1757" xmltv_id="Southern Cross TVSN SA">Southern Cross TVSN SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431136||1228" xmltv_id="SpreeTV NSW">SpreeTV NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431142||1232" xmltv_id="SpreeTV QLD">SpreeTV QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431143||1229" xmltv_id="SpreeTV SA">SpreeTV SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431141||1230" xmltv_id="SpreeTV VIC">SpreeTV VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431144||1231" xmltv_id="SpreeTV WA">SpreeTV WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1116||1116" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="607||607" xmltv_id="Star Gold">Star Gold</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="606||606" xmltv_id="Star Plus">Star Plus</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1358||1358" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2155||2155" xmltv_id="tenplay AVC">tenplay AVC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1352||1352" xmltv_id="The Food Network">The Food Network</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="2377||2377" xmltv_id="The Pet Collective">The Pet Collective</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1592||1592" xmltv_id="Times Now">Times Now</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="196||196" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431370||1325" xmltv_id="Tourism TV">Tourism TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="993||993" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432123||2282" xmltv_id="triple j Adelaide">triple j Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432122||2281" xmltv_id="triple j Brisbane">triple j Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432127||2278" xmltv_id="triple j Canberra">triple j Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432126||2277" xmltv_id="triple j Darwin">triple j Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432125||2276" xmltv_id="triple j Hobart">triple j Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432121||2280" xmltv_id="triple j Melbourne">triple j Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432124||2275" xmltv_id="triple j Perth">triple j Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432084||2257" xmltv_id="triple j Sydney">triple j Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432130||2249" xmltv_id="triple j Unearthed Adelaide">triple j Unearthed Adelaide</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432129||2284" xmltv_id="triple j Unearthed Brisbane">triple j Unearthed Brisbane</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432134||2250" xmltv_id="triple j Unearthed Canberra">triple j Unearthed Canberra</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432133||2246" xmltv_id="triple j Unearthed Darwin">triple j Unearthed Darwin</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432132||2247" xmltv_id="triple j Unearthed Hobart">triple j Unearthed Hobart</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432128||2283" xmltv_id="triple j Unearthed Melbourne">triple j Unearthed Melbourne</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432131||2248" xmltv_id="triple j Unearthed Perth">triple j Unearthed Perth</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="432085||2256" xmltv_id="triple j Unearthed Sydney">triple j Unearthed Sydney</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431372||1313" xmltv_id="TVNT">TVNT</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="371465||60" xmltv_id="TVS">TVS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430637||1119" xmltv_id="TVSN NSW">TVSN NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430652||1121" xmltv_id="TVSN QLD">TVSN QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430653||1122" xmltv_id="TVSN SA">TVSN SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431149||1233" xmltv_id="TVSN TAS">TVSN TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430654||1123" xmltv_id="TVSN VIC">TVSN VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="430651||1120" xmltv_id="TVSN WA">TVSN WA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1820||1820" xmltv_id="UFC">UFC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1340||1340" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1577||1577" xmltv_id="UTV Movies">UTV Movies</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="12201||2201" xmltv_id="VICELAND SD ceased">VICELAND SD ceased</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431089||1207" xmltv_id="WIN GOLD NSW">WIN GOLD NSW</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431092||1208" xmltv_id="WIN GOLD QLD">WIN GOLD QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431367||1322" xmltv_id="WIN Gold SA">WIN Gold SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431688||1698" xmltv_id="WIN GOLD SA">WIN GOLD SA</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431091||1204" xmltv_id="WIN GOLD TAS">WIN GOLD TAS</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431090||1205" xmltv_id="WIN GOLD VIC">WIN GOLD VIC</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="431689||1701" xmltv_id="WIN TVSN QLD">WIN TVSN QLD</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="415671||217" xmltv_id="WTV">WTV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="11769||1769" xmltv_id="YESSHOP no longer broadcasting">YESSHOP no longer broadcasting</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="604||604" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="603||603" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1595||1595" xmltv_id="Zoom">Zoom</channel>
+    <channel site="[ENC][EX]fetchtv.com.au_0" site_id="1370||1370" xmltv_id="ZooMoo">ZooMoo</channel>
+  </channels>
+</site>
