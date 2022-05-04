@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="raiplay.it_0">
+  <channels>
+    <channel site="raiplay.it_0" site_id="rai-1" xmltv_id="Rai1">Rai1</channel>
+    <channel site="raiplay.it_0" site_id="rai-2" xmltv_id="Rai2">Rai2</channel>
+    <channel site="raiplay.it_0" site_id="rai-3" xmltv_id="Rai3">Rai3</channel>
+    <channel site="raiplay.it_0" site_id="rai-4" xmltv_id="Rai4">Rai4</channel>
+    <channel site="raiplay.it_0" site_id="rai-5" xmltv_id="Rai5">Rai5</channel>
+    <channel site="raiplay.it_0" site_id="rai-movie" xmltv_id="RaiMovie">RaiMovie</channel>
+    <channel site="raiplay.it_0" site_id="rai-premium" xmltv_id="RaiPremium">RaiPremium</channel>
+    <channel site="raiplay.it_0" site_id="rai-gulp" xmltv_id="RaiGulp">RaiGulp</channel>
+    <channel site="raiplay.it_0" site_id="rai-yoyo" xmltv_id="RaiYoyo">RaiYoyo</channel>
+    <channel site="raiplay.it_0" site_id="rai-storia" xmltv_id="RaiStoria">RaiStoria</channel>
+    <channel site="raiplay.it_0" site_id="rai-scuola" xmltv_id="RaiScuola">RaiScuola</channel>
+    <channel site="raiplay.it_0" site_id="rai-news-24" xmltv_id="RaiNews24">RaiNews24</channel>
+    <channel site="raiplay.it_0" site_id="rai-sport-piu-hd" xmltv_id="RaiSportpiuHD">RaiSportpiuHD</channel>
+    <channel site="raiplay.it_0" site_id="rai-sport" xmltv_id="RaiSport">RaiSport</channel>
+    <channel site="raiplay.it_0" site_id="raiplay" xmltv_id="RaiPlay">RaiPlay</channel>
+    <channel site="raiplay.it_0" site_id="raiplay-2" xmltv_id="RaiPlay2">RaiPlay2</channel>
+    <channel site="raiplay.it_0" site_id="rai-radio-2" xmltv_id="RaiRadio2">RaiRadio2</channel>
+  </channels>
+</site>
