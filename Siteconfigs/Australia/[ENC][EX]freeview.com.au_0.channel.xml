@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]freeview.com.au_0">
+  <channels>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Canberra] SBS VICELAND HD">[Canberra] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Canberra] SBS Food">[Canberra] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Canberra] NITV">[Canberra] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Canberra] ABC ME">[Canberra] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Canberra] ABC NEWS">[Canberra] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Canberra] SBS">[Canberra] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0211:0211||ABC" xmltv_id="[Canberra] ABC TV">[Canberra] ABC TV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Canberra] ABC Kids/ABC TV Plus">[Canberra] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Canberra] SBS World Movies">[Canberra] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[CatchAll] SBS VICELAND HD">[CatchAll] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[CatchAll] SBS Food">[CatchAll] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[CatchAll] NITV">[CatchAll] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[CatchAll] ABC ME">[CatchAll] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[CatchAll] ABC NEWS">[CatchAll] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[CatchAll] SBS">[CatchAll] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[CatchAll] ABC Kids/ABC TV Plus">[CatchAll] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[CatchAll] SBS World Movies">[CatchAll] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[NSW] SBS VICELAND HD">[NSW] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[NSW] SBS Food">[NSW] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[NSW] NITV">[NSW] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[NSW] ABC ME">[NSW] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[NSW] ABC NEWS">[NSW] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[NSW] SBS">[NSW] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[NSW] ABC Kids/ABC TV Plus">[NSW] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[NSW] SBS World Movies">[NSW] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Newcastle] SBS VICELAND HD">[Newcastle] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Newcastle] SBS Food">[Newcastle] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Newcastle] NITV">[Newcastle] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Newcastle] ABC ME">[Newcastle] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Newcastle] ABC NEWS">[Newcastle] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Newcastle] SBS">[Newcastle] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Newcastle] ABC Kids/ABC TV Plus">[Newcastle] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Newcastle] SBS World Movies">[Newcastle] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Northern Rivers] SBS VICELAND HD">[Northern Rivers] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Northern Rivers] SBS Food">[Northern Rivers] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Northern Rivers] NITV">[Northern Rivers] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Northern Rivers] ABC ME">[Northern Rivers] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Northern Rivers] ABC NEWS">[Northern Rivers] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Northern Rivers] SBS">[Northern Rivers] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Northern Rivers] ABC Kids/ABC TV Plus">[Northern Rivers] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Northern Rivers] SBS World Movies">[Northern Rivers] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Orange, Dubbo, Wagga] SBS VICELAND HD">[Orange, Dubbo, Wagga] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Orange, Dubbo, Wagga] SBS Food">[Orange, Dubbo, Wagga] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Orange, Dubbo, Wagga] NITV">[Orange, Dubbo, Wagga] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Orange, Dubbo, Wagga] ABC ME">[Orange, Dubbo, Wagga] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Orange, Dubbo, Wagga] ABC NEWS">[Orange, Dubbo, Wagga] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Orange, Dubbo, Wagga] SBS">[Orange, Dubbo, Wagga] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Orange, Dubbo, Wagga] ABC Kids/ABC TV Plus">[Orange, Dubbo, Wagga] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Orange, Dubbo, Wagga] SBS World Movies">[Orange, Dubbo, Wagga] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Sydney] SBS VICELAND HD">[Sydney] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0602:0621||10HD" xmltv_id="[Sydney] 10 HD Sydney">[Sydney] 10 HD Sydney</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0502:0525||7Flix" xmltv_id="[Sydney] 7flix">[Sydney] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0420:0424||9Life" xmltv_id="[Sydney] 9Life">[Sydney] 9Life</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Sydney] SBS Food">[Sydney] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Sydney] NITV">[Sydney] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Sydney] ABC ME">[Sydney] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0502:0522||7Two" xmltv_id="[Sydney] 7TWO">[Sydney] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0602:0628||10Peach" xmltv_id="[Sydney] 10 Peach">[Sydney] 10 Peach</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Sydney] ABC NEWS">[Sydney] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Tamworth] SBS VICELAND HD">[Tamworth] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Tamworth] SBS Food">[Tamworth] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Tamworth] NITV">[Tamworth] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Tamworth] ABC ME">[Tamworth] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Tamworth] ABC NEWS">[Tamworth] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Tamworth] SBS">[Tamworth] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Tamworth] ABC Kids/ABC TV Plus">[Tamworth] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Tamworth] SBS World Movies">[Tamworth] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Taree] SBS VICELAND HD">[Taree] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Taree] SBS Food">[Taree] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Taree] NITV">[Taree] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Taree] ABC ME">[Taree] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Taree] ABC NEWS">[Taree] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Taree] SBS">[Taree] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Taree] ABC Kids/ABC TV Plus">[Taree] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Taree] SBS World Movies">[Taree] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Wollongong] SBS VICELAND HD">[Wollongong] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Wollongong] SBS Food">[Wollongong] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Wollongong] NITV">[Wollongong] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Wollongong] ABC ME">[Wollongong] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Wollongong] ABC NEWS">[Wollongong] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Wollongong] SBS">[Wollongong] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Wollongong] ABC Kids/ABC TV Plus">[Wollongong] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Wollongong] SBS World Movies">[Wollongong] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Northern Territory] SBS VICELAND HD">[Northern Territory] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Northern Territory] SBS Food">[Northern Territory] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Northern Territory] NITV">[Northern Territory] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Northern Territory] ABC ME">[Northern Territory] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Northern Territory] ABC NEWS">[Northern Territory] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Northern Territory] SBS">[Northern Territory] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Northern Territory] ABC Kids/ABC TV Plus">[Northern Territory] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Northern Territory] SBS World Movies">[Northern Territory] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Regional] SBS VICELAND HD">[Regional] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Regional] SBS Food">[Regional] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Regional] NITV">[Regional] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Regional] ABC ME">[Regional] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Regional] ABC NEWS">[Regional] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Regional] SBS">[Regional] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Regional] ABC Kids/ABC TV Plus">[Regional] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Regional] SBS World Movies">[Regional] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Queensland] SBS VICELAND HD">[Queensland] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Queensland] SBS Food">[Queensland] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Queensland] NITV">[Queensland] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Queensland] ABC ME">[Queensland] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Queensland] ABC NEWS">[Queensland] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Queensland] SBS">[Queensland] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Queensland] ABC Kids/ABC TV Plus">[Queensland] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Queensland] SBS World Movies">[Queensland] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Brisbane] SBS VICELAND HD">[Brisbane] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0604:0641||10HD" xmltv_id="[Brisbane] 10 HD Brisbane">[Brisbane] 10 HD Brisbane</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0504:0545||7Flix" xmltv_id="[Brisbane] 7flix">[Brisbane] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0400:0407||9Life" xmltv_id="[Brisbane] 9Life">[Brisbane] 9Life</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Brisbane] SBS Food">[Brisbane] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Brisbane] NITV">[Brisbane] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Brisbane] ABC ME">[Brisbane] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0504:0542||7Two" xmltv_id="[Brisbane] 7TWO">[Brisbane] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0604:0648||10Peach" xmltv_id="[Brisbane] 10 Peach">[Brisbane] 10 Peach</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0400:040A||9Gem" xmltv_id="[Brisbane] 9Gem">[Brisbane] 9Gem</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Cairns] SBS VICELAND HD">[Cairns] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Cairns] SBS Food">[Cairns] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Cairns] NITV">[Cairns] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0900:0912||7Two" xmltv_id="[Cairns] 7TWO">[Cairns] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Cairns] ABC ME">[Cairns] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Cairns] ABC NEWS">[Cairns] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0900:0910||7HD" xmltv_id="[Cairns] Seven">[Cairns] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Cairns] SBS">[Cairns] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Cairns] ABC Kids/ABC TV Plus">[Cairns] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Cairns] SBS World Movies">[Cairns] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Goldcoast] SBS VICELAND HD">[Goldcoast] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0507:0570||7" xmltv_id="[Goldcoast] Seven">[Goldcoast] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Goldcoast] SBS Food">[Goldcoast] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Goldcoast] NITV">[Goldcoast] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Goldcoast] ABC ME">[Goldcoast] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Goldcoast] ABC NEWS">[Goldcoast] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Goldcoast] SBS">[Goldcoast] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Goldcoast] ABC Kids/ABC TV Plus">[Goldcoast] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Goldcoast] SBS World Movies">[Goldcoast] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0441:0472||9HD" xmltv_id="[Goldcoast] 9HD">[Goldcoast] 9HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Mackay] SBS VICELAND HD">[Mackay] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Mackay] SBS Food">[Mackay] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Mackay] NITV">[Mackay] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0920:0932||7Two" xmltv_id="[Mackay] 7TWO">[Mackay] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Mackay] ABC ME">[Mackay] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0920:0930||7HD" xmltv_id="[Mackay] Seven">[Mackay] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Mackay] ABC NEWS">[Mackay] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Mackay] SBS">[Mackay] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Mackay] ABC Kids/ABC TV Plus">[Mackay] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Mackay] SBS World Movies">[Mackay] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Maryborough] SBS VICELAND HD">[Maryborough] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0900:0915||7Flix" xmltv_id="[Maryborough] 7flix">[Maryborough] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Maryborough] SBS Food">[Maryborough] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Maryborough] NITV">[Maryborough] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0950:0962||7Two" xmltv_id="[Maryborough] 7TWO">[Maryborough] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Maryborough] ABC ME">[Maryborough] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0950:0960||7" xmltv_id="[Maryborough] Seven">[Maryborough] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Maryborough] ABC NEWS">[Maryborough] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Maryborough] SBS">[Maryborough] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Maryborough] ABC Kids/ABC TV Plus">[Maryborough] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Rockhampton] SBS VICELAND HD">[Rockhampton] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Rockhampton] SBS Food">[Rockhampton] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Rockhampton] NITV">[Rockhampton] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0930:0942||7Two" xmltv_id="[Rockhampton] 7TWO">[Rockhampton] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Rockhampton] ABC ME">[Rockhampton] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Rockhampton] ABC NEWS">[Rockhampton] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0930:0940||7HD" xmltv_id="[Rockhampton] Seven">[Rockhampton] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Rockhampton] SBS">[Rockhampton] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Rockhampton] ABC Kids/ABC TV Plus">[Rockhampton] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Rockhampton] SBS World Movies">[Rockhampton] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Toowoomba] SBS VICELAND HD">[Toowoomba] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Toowoomba] SBS Food">[Toowoomba] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Toowoomba] NITV">[Toowoomba] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0960:0972||7Two" xmltv_id="[Toowoomba] 7TWO">[Toowoomba] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Toowoomba] ABC ME">[Toowoomba] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Toowoomba] ABC NEWS">[Toowoomba] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Toowoomba] SBS">[Toowoomba] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Toowoomba] ABC Kids/ABC TV Plus">[Toowoomba] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Toowoomba] SBS World Movies">[Toowoomba] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0960:0970||7HD" xmltv_id="[Toowoomba] 7HD">[Toowoomba] 7HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Townsville] SBS VICELAND HD">[Townsville] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Townsville] SBS Food">[Townsville] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Townsville] NITV">[Townsville] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0910:0922||7Two" xmltv_id="[Townsville] 7TWO">[Townsville] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Townsville] ABC ME">[Townsville] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Townsville] ABC NEWS">[Townsville] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0910:0920||7HD" xmltv_id="[Townsville] Seven">[Townsville] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Townsville] SBS">[Townsville] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Townsville] ABC Kids/ABC TV Plus">[Townsville] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Townsville] SBS World Movies">[Townsville] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Widebay] SBS VICELAND HD">[Widebay] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Widebay] SBS Food">[Widebay] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Widebay] NITV">[Widebay] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0940:0952||7Two" xmltv_id="[Widebay] 7TWO">[Widebay] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Widebay] ABC ME">[Widebay] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0940:0950||7HD" xmltv_id="[Widebay] Seven">[Widebay] Seven</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Widebay] ABC NEWS">[Widebay] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Widebay] SBS">[Widebay] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Widebay] ABC Kids/ABC TV Plus">[Widebay] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Widebay] SBS World Movies">[Widebay] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[South Australia] SBS VICELAND HD">[South Australia] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[South Australia] SBS Food">[South Australia] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[South Australia] NITV">[South Australia] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[South Australia] ABC ME">[South Australia] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[South Australia] ABC NEWS">[South Australia] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[South Australia] SBS">[South Australia] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[South Australia] ABC Kids/ABC TV Plus">[South Australia] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[South Australia] SBS World Movies">[South Australia] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Adelaide] SBS VICELAND HD">[Adelaide] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0605:0651||10HD" xmltv_id="[Adelaide] 10 HD Adelaide">[Adelaide] 10 HD Adelaide</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0505:0555||7Flix" xmltv_id="[Adelaide] 7flix">[Adelaide] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0450:0454||9Life" xmltv_id="[Adelaide] 9Life">[Adelaide] 9Life</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Adelaide] SBS Food">[Adelaide] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Adelaide] NITV">[Adelaide] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0450:0457||9Gem" xmltv_id="[Adelaide] 9Gem">[Adelaide] 9Gem</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Adelaide] ABC ME">[Adelaide] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0505:0552||7Two" xmltv_id="[Adelaide] 7TWO">[Adelaide] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0605:0658||10Peach" xmltv_id="[Adelaide] 10 Peach">[Adelaide] 10 Peach</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Regional] SBS VICELAND HD">[Regional] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Regional] SBS Food">[Regional] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Regional] NITV">[Regional] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Regional] ABC ME">[Regional] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Regional] ABC NEWS">[Regional] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Regional] SBS">[Regional] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Regional] ABC Kids/ABC TV Plus">[Regional] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Regional] SBS World Movies">[Regional] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Tasmania] SBS VICELAND HD">[Tasmania] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Tasmania] SBS Food">[Tasmania] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Tasmania] NITV">[Tasmania] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Tasmania] ABC ME">[Tasmania] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Tasmania] ABC NEWS">[Tasmania] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Tasmania] SBS">[Tasmania] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Tasmania] ABC Kids/ABC TV Plus">[Tasmania] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Tasmania] SBS World Movies">[Tasmania] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Hobart] SBS VICELAND HD">[Hobart] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Hobart] SBS Food">[Hobart] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Hobart] NITV">[Hobart] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Hobart] ABC ME">[Hobart] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Hobart] ABC NEWS">[Hobart] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Hobart] SBS">[Hobart] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Hobart] ABC Kids/ABC TV Plus">[Hobart] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0271:0271||ABC" xmltv_id="[Hobart] ABC TV">[Hobart] ABC TV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Hobart] SBS World Movies">[Hobart] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Launceston] SBS VICELAND HD">[Launceston] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Launceston] SBS Food">[Launceston] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Launceston] NITV">[Launceston] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Launceston] ABC ME">[Launceston] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Launceston] ABC NEWS">[Launceston] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Launceston] SBS">[Launceston] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Launceston] ABC Kids/ABC TV Plus">[Launceston] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Launceston] SBS World Movies">[Launceston] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Victoria] SBS VICELAND HD">[Victoria] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Victoria] SBS Food">[Victoria] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Victoria] NITV">[Victoria] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Victoria] ABC ME">[Victoria] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Victoria] ABC NEWS">[Victoria] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Victoria] SBS">[Victoria] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Victoria] ABC Kids/ABC TV Plus">[Victoria] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Victoria] SBS World Movies">[Victoria] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Albury] SBS VICELAND HD">[Albury] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Albury] SBS Food">[Albury] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Albury] NITV">[Albury] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Albury] ABC ME">[Albury] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Albury] ABC NEWS">[Albury] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Albury] SBS">[Albury] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Albury] ABC Kids/ABC TV Plus">[Albury] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Albury] SBS World Movies">[Albury] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Ballarat] SBS VICELAND HD">[Ballarat] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Ballarat] SBS Food">[Ballarat] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Ballarat] NITV">[Ballarat] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Ballarat] ABC ME">[Ballarat] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Ballarat] ABC NEWS">[Ballarat] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Ballarat] SBS">[Ballarat] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Ballarat] ABC Kids/ABC TV Plus">[Ballarat] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Ballarat] SBS World Movies">[Ballarat] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Bendigo] SBS VICELAND HD">[Bendigo] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Bendigo] SBS Food">[Bendigo] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Bendigo] NITV">[Bendigo] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Bendigo] ABC ME">[Bendigo] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Bendigo] ABC NEWS">[Bendigo] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Bendigo] SBS">[Bendigo] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Bendigo] ABC Kids/ABC TV Plus">[Bendigo] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Bendigo] SBS World Movies">[Bendigo] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Gippsland] SBS VICELAND HD">[Gippsland] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Gippsland] SBS Food">[Gippsland] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Gippsland] NITV">[Gippsland] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Gippsland] ABC ME">[Gippsland] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Gippsland] ABC NEWS">[Gippsland] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Gippsland] SBS">[Gippsland] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Gippsland] ABC Kids/ABC TV Plus">[Gippsland] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Gippsland] SBS World Movies">[Gippsland] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Melbourne] SBS VICELAND HD">[Melbourne] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0603:0631||10HD" xmltv_id="[Melbourne] 10 HD Melbourne">[Melbourne] 10 HD Melbourne</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0503:0535||7Flix" xmltv_id="[Melbourne] 7flix">[Melbourne] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0430:0433||9Life" xmltv_id="[Melbourne] 9Life">[Melbourne] 9Life</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Melbourne] SBS Food">[Melbourne] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Melbourne] NITV">[Melbourne] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Melbourne] ABC ME">[Melbourne] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0503:0532||7Two" xmltv_id="[Melbourne] 7TWO">[Melbourne] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0603:0638||10Peach" xmltv_id="[Melbourne] 10 Peach">[Melbourne] 10 Peach</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Melbourne] ABC NEWS">[Melbourne] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Shepparton] SBS VICELAND HD">[Shepparton] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Shepparton] SBS Food">[Shepparton] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Shepparton] NITV">[Shepparton] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Shepparton] ABC ME">[Shepparton] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Shepparton] ABC NEWS">[Shepparton] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Shepparton] SBS">[Shepparton] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Shepparton] ABC Kids/ABC TV Plus">[Shepparton] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Shepparton] SBS World Movies">[Shepparton] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Western Australia] SBS VICELAND HD">[Western Australia] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Western Australia] SBS Food">[Western Australia] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Western Australia] NITV">[Western Australia] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Western Australia] ABC ME">[Western Australia] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Western Australia] ABC NEWS">[Western Australia] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[Western Australia] SBS">[Western Australia] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[Western Australia] ABC Kids/ABC TV Plus">[Western Australia] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[Western Australia] SBS World Movies">[Western Australia] SBS World Movies</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[Perth] SBS VICELAND HD">[Perth] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0607:0681||10HD" xmltv_id="[Perth] 10 HD Perth">[Perth] 10 HD Perth</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0506:0565||7Flix" xmltv_id="[Perth] 7flix">[Perth] 7flix</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1012:0460:0464||9Life" xmltv_id="[Perth] 9Life">[Perth] 9Life</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[Perth] SBS Food">[Perth] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[Perth] NITV">[Perth] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[Perth] ABC ME">[Perth] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1013:0506:0562||7Two" xmltv_id="[Perth] 7TWO">[Perth] 7TWO</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1014:0607:0688||10Peach" xmltv_id="[Perth] 10 Peach">[Perth] 10 Peach</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[Perth] ABC NEWS">[Perth] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0303||SBSViceland" xmltv_id="[REGIONAL WA] SBS VICELAND HD">[REGIONAL WA] SBS VICELAND HD</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0304||SBSFood" xmltv_id="[REGIONAL WA] SBS Food">[REGIONAL WA] SBS Food</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0305||SBSNITV" xmltv_id="[REGIONAL WA] NITV">[REGIONAL WA] NITV</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0224||ABCMe" xmltv_id="[REGIONAL WA] ABC ME">[REGIONAL WA] ABC ME</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0220||ABCNews" xmltv_id="[REGIONAL WA] ABC NEWS">[REGIONAL WA] ABC NEWS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0301||SBS" xmltv_id="[REGIONAL WA] SBS">[REGIONAL WA] SBS</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="1010:0221:0222||ABCKidsTVPlus" xmltv_id="[REGIONAL WA] ABC Kids/ABC TV Plus">[REGIONAL WA] ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC][EX]freeview.com.au_0" site_id="3202:0300:0307||SBSWorldMovies" xmltv_id="[REGIONAL WA] SBS World Movies">[REGIONAL WA] SBS World Movies</channel>
+  </channels>
+</site>
