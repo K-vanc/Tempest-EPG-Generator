@@ -9,7 +9,7 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 
 | Total Available Siteconfigs | Total Covered Countries | Total Available Channels |
 | :---: | :---: | :---: |
-| 169 | 141 | +154500 |
+| 170 | 141 | +154500 |
 
 <br>
 <h3>Live Demo : "https://tempestepg.000webhostapp.com/"</h3>
