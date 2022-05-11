@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="beinsports.com[HK]_0">
+  <channels>
+    <channel site="beinsports.com[HK]_0" site_id="1" xmltv_id="BS1">BS1</channel>
+    <channel site="beinsports.com[HK]_0" site_id="2" xmltv_id="BS2">BS2</channel>
+  </channels>
+</site>
