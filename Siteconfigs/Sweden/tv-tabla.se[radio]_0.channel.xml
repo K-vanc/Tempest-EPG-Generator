@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tv-tabla.se[radio]_0">
+  <channels>
+    <channel site="tv-tabla.se[radio]_0" site_id="p1" xmltv_id="P1">P1</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p2" xmltv_id="P2">P2</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p3" xmltv_id="P3">P3</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4stockholm" xmltv_id="P4 Stockholm">P4 Stockholm</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p2musik" xmltv_id="P2 Språk och musik">P2 Språk och musik</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4blekinge" xmltv_id="P4 Blekinge">P4 Blekinge</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4dalarna" xmltv_id="P4 Dalarna">P4 Dalarna</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4gavleborg" xmltv_id="P4 Gävleborg">P4 Gävleborg</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4goteborg" xmltv_id="P4 Göteborg">P4 Göteborg</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4gotland" xmltv_id="P4 Gotland">P4 Gotland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4halland" xmltv_id="P4 Halland">P4 Halland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4jamtland" xmltv_id="P4 Jämtland">P4 Jämtland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4jonkoping" xmltv_id="P4 Jönköping">P4 Jönköping</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4kalmar" xmltv_id="P4 Kalmar">P4 Kalmar</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4kristianstad" xmltv_id="P4 Kristianstad">P4 Kristianstad</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4kronoberg" xmltv_id="P4 Kronoberg">P4 Kronoberg</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4malmohus" xmltv_id="P4 Malmöhus">P4 Malmöhus</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4norrbotten" xmltv_id="P4 Norrbotten">P4 Norrbotten</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4orebro" xmltv_id="P4 Örebro">P4 Örebro</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4ostergotland" xmltv_id="P4 Östergötland">P4 Östergötland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4sjuharad" xmltv_id="P4 Sjuhärad">P4 Sjuhärad</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4skaraborg" xmltv_id="P4 Skaraborg">P4 Skaraborg</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4sormland" xmltv_id="P4 Sörmland">P4 Sörmland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4uppland" xmltv_id="P4 Uppland">P4 Uppland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4varmland" xmltv_id="P4 Värmland">P4 Värmland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4vast" xmltv_id="P4 Väst">P4 Väst</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4vasterbotten" xmltv_id="P4 Västerbotten">P4 Västerbotten</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4vasternorrland" xmltv_id="P4 Västernorrland">P4 Västernorrland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="p4vastmanland" xmltv_id="P4 Västmanland">P4 Västmanland</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="srsápmi" xmltv_id="SR Sápmi">SR Sápmi</channel>
+    <channel site="tv-tabla.se[radio]_0" site_id="sverigesradiofinska" xmltv_id="Sveriges Radio Finska">Sveriges Radio Finska</channel>
+  </channels>
+</site>

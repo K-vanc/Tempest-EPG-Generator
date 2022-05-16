@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'tv-tabla.se[radio]',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-05-16',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/Stockholm',
+  'culture' => 'sv',
+  'max_day' => '7',
+  'url1' => 'https://tv-tabla.se/radio/tabla/##channel##/##urldate1##/',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'content_type1' => 'text/html; charset=utf-8',
+  'urldate_format1' => '#weekdayname#mandag|tisdag|onsdag|torsdag|fredag|lordag|sondag',
+  'show' => '(<tr class="u">.*?<\\/tr>)',
+  'start' => '<td>(\\d{2}[:\\.]\\d{2})<\\/td>',
+  'start_format' => 'H#i',
+  'title' => '<h2.*?>(.*?)<\\/h2>',
+  'desc' => '<p>(.*?)<\\/p>',
+  'pagekey1' => '<a href="(.*?)"',
+  'detail_url1' => 'https://tv-tabla.se##pagekey1##',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'detail_content_type1' => 'text/html; charset=utf-8',
+  'detail_desc' => '<\\/span><p>(.*?)<\\/p>',
+  'detail_showicon' => '<img src="(.*?)"',
+  'ccurl1' => 'https://tv-tabla.se/radio/',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cccontent_type1' => 'text/html; charset=utf-8',
+  'ccchannel_block' => '<li class="header"><a href=".*?<\\/li>',
+  'ccchannel_id' => 'href="\\/radio\\/tabla\\/(.*?)\\/',
+  'ccchannel_name' => '<\\/i>(.*?)<\\/a>',
+);
+?>
