@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="bbcbenelux.com_0">
+  <channels>
+    <channel site="bbcbenelux.com_0" site_id="bbc-first||-neutral.251b5a785b0dde02db76db165a147d30.jpg" xmltv_id="BBC First">BBC First</channel>
+    <channel site="bbcbenelux.com_0" site_id="bbc-one||.6890b3ed54f1c871de9d33e833ef3164.png" xmltv_id="BBC One">BBC One</channel>
+    <channel site="bbcbenelux.com_0" site_id="bbc-two||.171d4ea9127fa564fb88e945d24b9d51.png" xmltv_id="BBC Two">BBC Two</channel>
+    <channel site="bbcbenelux.com_0" site_id="bbc-four||.8aba4a901b264afc441790b0ca2f2efd.png" xmltv_id="BBC Four">BBC Four</channel>
+    <channel site="bbcbenelux.com_0" site_id="bbc-entertainment||.45d99ea0f0e57086bc021ae48fe75107.png" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="bbcbenelux.com_0" site_id="cbeebies||.61a0df82c92c435f9dc24ef856d4c08c.jpg" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="bbcbenelux.com_0" site_id="cbbc||.e758c4bc2a0145c134c858f03427b90d.png" xmltv_id="CBBC">CBBC</channel>
+  </channels>
+</site>

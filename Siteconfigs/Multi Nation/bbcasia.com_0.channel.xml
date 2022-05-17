@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="bbcasia.com_0">
+  <channels>
+    <channel site="bbcasia.com_0" site_id="bbc-earth||.cacee1426c0d641195a68d892c9dcf8f.jpg" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="bbcasia.com_0" site_id="bbc-lifestyle||-asia.6fe22894bde3b7318e5faa0e6ce26899.png" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel site="bbcasia.com_0" site_id="cbeebies||.61a0df82c92c435f9dc24ef856d4c08c.jpg" xmltv_id="CBeebies">CBeebies</channel>
+  </channels>
+</site>

@@ -1,0 +1,38 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'bbcasia.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-05-17',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'en',
+  'max_day' => '60',
+  'episodeOption' => '1',
+  'url1' => 'https://www.bbcasia.com/smapi/schedule/asia/##channel##?timezone=Asia%2FSingapore&date=##urldate1##',
+  'requestOption1' => '1',
+  'content_type1' => 'application/json; charset=utf-8',
+  'urldate_format1' => 'Y-m-d',
+  'show' => '({.*?}}})',
+  'start' => '"start":"(.*?)",',
+  'start_format' => 'Y-m-d H#i#s',
+  'stop' => '"end":"(.*?)",',
+  'stop_format' => 'Y-m-d H#i#s',
+  'title' => '"title":"(.*?)","',
+  'subtitle' => '"episode":{.*?"title":"(.*?)","||#replace#((?:\\s)?(?:[Ss]erie(?:s)?|[Ee]pisode)\\s\\d+(?:,)?)||',
+  'desc' => '"episode":{.*?"synopsis":"(.*?)","|>|"synopsis":"(.*?)","||#replace#(\\s\\d+(?:\\/\\d+)?)$||',
+  'season' => '"series":{.*?"number":(\\d+)',
+  'episode' => '"episode":{.*?"number":(\\d+)',
+  'episode_total' => '"episode":{.*?"synopsis":".*?\\.\\s\\d+\\/(\\d+)","',
+  'channel_logo' => '||#add#https://www.bbcasia.com/_next/static/media/patch-200##cclogo##',
+  'ccurl1' => 'https://www.bbcasia.com/tv-guide',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cccontent_type1' => 'text/html; charset=utf-8',
+  'ccchannel_block' => '<div class="form-field.*?<\\/div>',
+  'ccchannel_id' => 'name="(.*?)"',
+  'ccchannel_name' => '<label.*?>(.*?)<\\/label>',
+  'ccchannel_logo' => '||#set#.cacee1426c0d641195a68d892c9dcf8f.jpg|-asia.6fe22894bde3b7318e5faa0e6ce26899.png|.61a0df82c92c435f9dc24ef856d4c08c.jpg',
+);
+?>
