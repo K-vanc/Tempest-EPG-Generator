@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="bbcstudios.com.au_0">
+  <channels>
+    <channel site="bbcstudios.com.au_0" site_id="bbc-earth||patch-200.cacee1426c0d641195a68d892c9dcf8f.jpg" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="bbcstudios.com.au_0" site_id="bbc-first||logo-trans.1108d55b91fb2f127d9681c4986278e8.png" xmltv_id="BBC First">BBC First</channel>
+    <channel site="bbcstudios.com.au_0" site_id="bbc-uktv||logo.41880b42cc835ce2c0bcc9d1590abdee.png" xmltv_id="BBC UKTV">BBC UKTV</channel>
+    <channel site="bbcstudios.com.au_0" site_id="cbeebies||patch-200.61a0df82c92c435f9dc24ef856d4c08c.jpg" xmltv_id="CBeebies">CBeebies</channel>
+  </channels>
+</site>
