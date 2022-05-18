@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]bbc.co.uk_0">
+  <channels>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcone" xmltv_id="[England] BBC One">[England] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbctwo" xmltv_id="[England] BBC Two">[England] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcthree" xmltv_id="[England] BBC Three">[England] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcfour" xmltv_id="[England] BBC Four">[England] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|radio1" xmltv_id="[England] BBC Radio 1">[England] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|cbbc" xmltv_id="[England] CBBC">[England] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|cbeebies" xmltv_id="[England] CBeebies">[England] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcscotland" xmltv_id="[England] BBC Scotland">[England] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcnews" xmltv_id="[England] BBC News">[England] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcparliament" xmltv_id="[England] BBC Parliament">[England] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcalba" xmltv_id="[England] BBC Alba">[England] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|s4c" xmltv_id="[England] S4C">[England] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcone" xmltv_id="[Northern Ireland] BBC One">[Northern Ireland] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbctwo" xmltv_id="[Northern Ireland] BBC Two">[Northern Ireland] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcthree" xmltv_id="[Northern Ireland] BBC Three">[Northern Ireland] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcfour" xmltv_id="[Northern Ireland] BBC Four">[Northern Ireland] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|radio1" xmltv_id="[Northern Ireland] BBC Radio 1">[Northern Ireland] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|cbbc" xmltv_id="[Northern Ireland] CBBC">[Northern Ireland] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|cbeebies" xmltv_id="[Northern Ireland] CBeebies">[Northern Ireland] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcscotland" xmltv_id="[Northern Ireland] BBC Scotland">[Northern Ireland] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcnews" xmltv_id="[Northern Ireland] BBC News">[Northern Ireland] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcparliament" xmltv_id="[Northern Ireland] BBC Parliament">[Northern Ireland] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcalba" xmltv_id="[Northern Ireland] BBC Alba">[Northern Ireland] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|s4c" xmltv_id="[Northern Ireland] S4C">[Northern Ireland] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcone" xmltv_id="[Scotland] BBC One">[Scotland] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbctwo" xmltv_id="[Scotland] BBC Two">[Scotland] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcthree" xmltv_id="[Scotland] BBC Three">[Scotland] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcfour" xmltv_id="[Scotland] BBC Four">[Scotland] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|radio1" xmltv_id="[Scotland] BBC Radio 1">[Scotland] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|cbbc" xmltv_id="[Scotland] CBBC">[Scotland] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|cbeebies" xmltv_id="[Scotland] CBeebies">[Scotland] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcscotland" xmltv_id="[Scotland] BBC Scotland">[Scotland] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcnews" xmltv_id="[Scotland] BBC News">[Scotland] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcparliament" xmltv_id="[Scotland] BBC Parliament">[Scotland] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|bbcalba" xmltv_id="[Scotland] BBC Alba">[Scotland] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sc|##|s4c" xmltv_id="[Scotland] S4C">[Scotland] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcone" xmltv_id="[Wales] BBC One">[Wales] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbctwo" xmltv_id="[Wales] BBC Two">[Wales] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcthree" xmltv_id="[Wales] BBC Three">[Wales] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcfour" xmltv_id="[Wales] BBC Four">[Wales] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|radio1" xmltv_id="[Wales] BBC Radio 1">[Wales] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|cbbc" xmltv_id="[Wales] CBBC">[Wales] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|cbeebies" xmltv_id="[Wales] CBeebies">[Wales] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcscotland" xmltv_id="[Wales] BBC Scotland">[Wales] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcnews" xmltv_id="[Wales] BBC News">[Wales] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcparliament" xmltv_id="[Wales] BBC Parliament">[Wales] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcalba" xmltv_id="[Wales] BBC Alba">[Wales] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|s4c" xmltv_id="[Wales] S4C">[Wales] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcone" xmltv_id="[Cambridge] BBC One">[Cambridge] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbctwo" xmltv_id="[Cambridge] BBC Two">[Cambridge] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcthree" xmltv_id="[Cambridge] BBC Three">[Cambridge] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcfour" xmltv_id="[Cambridge] BBC Four">[Cambridge] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|radio1" xmltv_id="[Cambridge] BBC Radio 1">[Cambridge] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|cbbc" xmltv_id="[Cambridge] CBBC">[Cambridge] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|cbeebies" xmltv_id="[Cambridge] CBeebies">[Cambridge] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcscotland" xmltv_id="[Cambridge] BBC Scotland">[Cambridge] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcnews" xmltv_id="[Cambridge] BBC News">[Cambridge] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcparliament" xmltv_id="[Cambridge] BBC Parliament">[Cambridge] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcalba" xmltv_id="[Cambridge] BBC Alba">[Cambridge] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|s4c" xmltv_id="[Cambridge] S4C">[Cambridge] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcone" xmltv_id="[Channel Islands] BBC One">[Channel Islands] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbctwo" xmltv_id="[Channel Islands] BBC Two">[Channel Islands] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcthree" xmltv_id="[Channel Islands] BBC Three">[Channel Islands] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcfour" xmltv_id="[Channel Islands] BBC Four">[Channel Islands] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|radio1" xmltv_id="[Channel Islands] BBC Radio 1">[Channel Islands] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|cbbc" xmltv_id="[Channel Islands] CBBC">[Channel Islands] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|cbeebies" xmltv_id="[Channel Islands] CBeebies">[Channel Islands] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcscotland" xmltv_id="[Channel Islands] BBC Scotland">[Channel Islands] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcnews" xmltv_id="[Channel Islands] BBC News">[Channel Islands] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcparliament" xmltv_id="[Channel Islands] BBC Parliament">[Channel Islands] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcalba" xmltv_id="[Channel Islands] BBC Alba">[Channel Islands] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|s4c" xmltv_id="[Channel Islands] S4C">[Channel Islands] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcone" xmltv_id="[East] BBC One">[East] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbctwo" xmltv_id="[East] BBC Two">[East] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcthree" xmltv_id="[East] BBC Three">[East] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcfour" xmltv_id="[East] BBC Four">[East] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|radio1" xmltv_id="[East] BBC Radio 1">[East] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|cbbc" xmltv_id="[East] CBBC">[East] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|cbeebies" xmltv_id="[East] CBeebies">[East] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcscotland" xmltv_id="[East] BBC Scotland">[East] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcnews" xmltv_id="[East] BBC News">[East] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcparliament" xmltv_id="[East] BBC Parliament">[East] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|bbcalba" xmltv_id="[East] BBC Alba">[East] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ea|##|s4c" xmltv_id="[East] S4C">[East] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcone" xmltv_id="[East Midlands] BBC One">[East Midlands] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbctwo" xmltv_id="[East Midlands] BBC Two">[East Midlands] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcthree" xmltv_id="[East Midlands] BBC Three">[East Midlands] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcfour" xmltv_id="[East Midlands] BBC Four">[East Midlands] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|radio1" xmltv_id="[East Midlands] BBC Radio 1">[East Midlands] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|cbbc" xmltv_id="[East Midlands] CBBC">[East Midlands] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|cbeebies" xmltv_id="[East Midlands] CBeebies">[East Midlands] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcscotland" xmltv_id="[East Midlands] BBC Scotland">[East Midlands] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcnews" xmltv_id="[East Midlands] BBC News">[East Midlands] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcparliament" xmltv_id="[East Midlands] BBC Parliament">[East Midlands] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|bbcalba" xmltv_id="[East Midlands] BBC Alba">[East Midlands] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="em|##|s4c" xmltv_id="[East Midlands] S4C">[East Midlands] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcone" xmltv_id="[East Yorks &amp; Lincs] BBC One">[East Yorks &amp; Lincs] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbctwo" xmltv_id="[East Yorks &amp; Lincs] BBC Two">[East Yorks &amp; Lincs] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcthree" xmltv_id="[East Yorks &amp; Lincs] BBC Three">[East Yorks &amp; Lincs] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcfour" xmltv_id="[East Yorks &amp; Lincs] BBC Four">[East Yorks &amp; Lincs] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|radio1" xmltv_id="[East Yorks &amp; Lincs] BBC Radio 1">[East Yorks &amp; Lincs] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|cbbc" xmltv_id="[East Yorks &amp; Lincs] CBBC">[East Yorks &amp; Lincs] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|cbeebies" xmltv_id="[East Yorks &amp; Lincs] CBeebies">[East Yorks &amp; Lincs] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcscotland" xmltv_id="[East Yorks &amp; Lincs] BBC Scotland">[East Yorks &amp; Lincs] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcnews" xmltv_id="[East Yorks &amp; Lincs] BBC News">[East Yorks &amp; Lincs] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcparliament" xmltv_id="[East Yorks &amp; Lincs] BBC Parliament">[East Yorks &amp; Lincs] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|bbcalba" xmltv_id="[East Yorks &amp; Lincs] BBC Alba">[East Yorks &amp; Lincs] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ey|##|s4c" xmltv_id="[East Yorks &amp; Lincs] S4C">[East Yorks &amp; Lincs] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcone" xmltv_id="[London] BBC One">[London] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbctwo" xmltv_id="[London] BBC Two">[London] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcthree" xmltv_id="[London] BBC Three">[London] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcfour" xmltv_id="[London] BBC Four">[London] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|radio1" xmltv_id="[London] BBC Radio 1">[London] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|cbbc" xmltv_id="[London] CBBC">[London] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|cbeebies" xmltv_id="[London] CBeebies">[London] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcscotland" xmltv_id="[London] BBC Scotland">[London] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcnews" xmltv_id="[London] BBC News">[London] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcparliament" xmltv_id="[London] BBC Parliament">[London] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|bbcalba" xmltv_id="[London] BBC Alba">[London] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="lo|##|s4c" xmltv_id="[London] S4C">[London] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcone" xmltv_id="[North East &amp; Cumbria] BBC One">[North East &amp; Cumbria] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbctwo" xmltv_id="[North East &amp; Cumbria] BBC Two">[North East &amp; Cumbria] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcthree" xmltv_id="[North East &amp; Cumbria] BBC Three">[North East &amp; Cumbria] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcfour" xmltv_id="[North East &amp; Cumbria] BBC Four">[North East &amp; Cumbria] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|radio1" xmltv_id="[North East &amp; Cumbria] BBC Radio 1">[North East &amp; Cumbria] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|cbbc" xmltv_id="[North East &amp; Cumbria] CBBC">[North East &amp; Cumbria] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|cbeebies" xmltv_id="[North East &amp; Cumbria] CBeebies">[North East &amp; Cumbria] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcscotland" xmltv_id="[North East &amp; Cumbria] BBC Scotland">[North East &amp; Cumbria] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcnews" xmltv_id="[North East &amp; Cumbria] BBC News">[North East &amp; Cumbria] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcparliament" xmltv_id="[North East &amp; Cumbria] BBC Parliament">[North East &amp; Cumbria] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|bbcalba" xmltv_id="[North East &amp; Cumbria] BBC Alba">[North East &amp; Cumbria] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ne|##|s4c" xmltv_id="[North East &amp; Cumbria] S4C">[North East &amp; Cumbria] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcone" xmltv_id="[North West] BBC One">[North West] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbctwo" xmltv_id="[North West] BBC Two">[North West] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcthree" xmltv_id="[North West] BBC Three">[North West] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcfour" xmltv_id="[North West] BBC Four">[North West] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|radio1" xmltv_id="[North West] BBC Radio 1">[North West] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|cbbc" xmltv_id="[North West] CBBC">[North West] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|cbeebies" xmltv_id="[North West] CBeebies">[North West] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcscotland" xmltv_id="[North West] BBC Scotland">[North West] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcnews" xmltv_id="[North West] BBC News">[North West] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcparliament" xmltv_id="[North West] BBC Parliament">[North West] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcalba" xmltv_id="[North West] BBC Alba">[North West] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|s4c" xmltv_id="[North West] S4C">[North West] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcone" xmltv_id="[Oxfordshire] BBC One">[Oxfordshire] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbctwo" xmltv_id="[Oxfordshire] BBC Two">[Oxfordshire] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcthree" xmltv_id="[Oxfordshire] BBC Three">[Oxfordshire] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcfour" xmltv_id="[Oxfordshire] BBC Four">[Oxfordshire] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|radio1" xmltv_id="[Oxfordshire] BBC Radio 1">[Oxfordshire] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|cbbc" xmltv_id="[Oxfordshire] CBBC">[Oxfordshire] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|cbeebies" xmltv_id="[Oxfordshire] CBeebies">[Oxfordshire] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcscotland" xmltv_id="[Oxfordshire] BBC Scotland">[Oxfordshire] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcnews" xmltv_id="[Oxfordshire] BBC News">[Oxfordshire] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcparliament" xmltv_id="[Oxfordshire] BBC Parliament">[Oxfordshire] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcalba" xmltv_id="[Oxfordshire] BBC Alba">[Oxfordshire] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|s4c" xmltv_id="[Oxfordshire] S4C">[Oxfordshire] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcone" xmltv_id="[South] BBC One">[South] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbctwo" xmltv_id="[South] BBC Two">[South] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcthree" xmltv_id="[South] BBC Three">[South] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcfour" xmltv_id="[South] BBC Four">[South] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|radio1" xmltv_id="[South] BBC Radio 1">[South] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|cbbc" xmltv_id="[South] CBBC">[South] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|cbeebies" xmltv_id="[South] CBeebies">[South] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcscotland" xmltv_id="[South] BBC Scotland">[South] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcnews" xmltv_id="[South] BBC News">[South] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcparliament" xmltv_id="[South] BBC Parliament">[South] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcalba" xmltv_id="[South] BBC Alba">[South] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="so|##|s4c" xmltv_id="[South] S4C">[South] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcone" xmltv_id="[South East] BBC One">[South East] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbctwo" xmltv_id="[South East] BBC Two">[South East] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcthree" xmltv_id="[South East] BBC Three">[South East] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcfour" xmltv_id="[South East] BBC Four">[South East] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|radio1" xmltv_id="[South East] BBC Radio 1">[South East] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|cbbc" xmltv_id="[South East] CBBC">[South East] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|cbeebies" xmltv_id="[South East] CBeebies">[South East] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcscotland" xmltv_id="[South East] BBC Scotland">[South East] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcnews" xmltv_id="[South East] BBC News">[South East] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcparliament" xmltv_id="[South East] BBC Parliament">[South East] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|bbcalba" xmltv_id="[South East] BBC Alba">[South East] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="se|##|s4c" xmltv_id="[South East] S4C">[South East] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcone" xmltv_id="[South West] BBC One">[South West] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbctwo" xmltv_id="[South West] BBC Two">[South West] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcthree" xmltv_id="[South West] BBC Three">[South West] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcfour" xmltv_id="[South West] BBC Four">[South West] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|radio1" xmltv_id="[South West] BBC Radio 1">[South West] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|cbbc" xmltv_id="[South West] CBBC">[South West] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|cbeebies" xmltv_id="[South West] CBeebies">[South West] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcscotland" xmltv_id="[South West] BBC Scotland">[South West] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcnews" xmltv_id="[South West] BBC News">[South West] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcparliament" xmltv_id="[South West] BBC Parliament">[South West] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|bbcalba" xmltv_id="[South West] BBC Alba">[South West] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="sw|##|s4c" xmltv_id="[South West] S4C">[South West] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcone" xmltv_id="[West] BBC One">[West] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbctwo" xmltv_id="[West] BBC Two">[West] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcthree" xmltv_id="[West] BBC Three">[West] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcfour" xmltv_id="[West] BBC Four">[West] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|radio1" xmltv_id="[West] BBC Radio 1">[West] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|cbbc" xmltv_id="[West] CBBC">[West] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|cbeebies" xmltv_id="[West] CBeebies">[West] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcscotland" xmltv_id="[West] BBC Scotland">[West] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcnews" xmltv_id="[West] BBC News">[West] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcparliament" xmltv_id="[West] BBC Parliament">[West] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|bbcalba" xmltv_id="[West] BBC Alba">[West] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="we|##|s4c" xmltv_id="[West] S4C">[West] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcone" xmltv_id="[West Midlands] BBC One">[West Midlands] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbctwo" xmltv_id="[West Midlands] BBC Two">[West Midlands] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcthree" xmltv_id="[West Midlands] BBC Three">[West Midlands] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcfour" xmltv_id="[West Midlands] BBC Four">[West Midlands] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|radio1" xmltv_id="[West Midlands] BBC Radio 1">[West Midlands] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|cbbc" xmltv_id="[West Midlands] CBBC">[West Midlands] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|cbeebies" xmltv_id="[West Midlands] CBeebies">[West Midlands] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcscotland" xmltv_id="[West Midlands] BBC Scotland">[West Midlands] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcnews" xmltv_id="[West Midlands] BBC News">[West Midlands] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcparliament" xmltv_id="[West Midlands] BBC Parliament">[West Midlands] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|bbcalba" xmltv_id="[West Midlands] BBC Alba">[West Midlands] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="wm|##|s4c" xmltv_id="[West Midlands] S4C">[West Midlands] S4C</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcone" xmltv_id="[Yorkshire] BBC One">[Yorkshire] BBC One</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbctwo" xmltv_id="[Yorkshire] BBC Two">[Yorkshire] BBC Two</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcthree" xmltv_id="[Yorkshire] BBC Three">[Yorkshire] BBC Three</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcfour" xmltv_id="[Yorkshire] BBC Four">[Yorkshire] BBC Four</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|radio1" xmltv_id="[Yorkshire] BBC Radio 1">[Yorkshire] BBC Radio 1</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|cbbc" xmltv_id="[Yorkshire] CBBC">[Yorkshire] CBBC</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|cbeebies" xmltv_id="[Yorkshire] CBeebies">[Yorkshire] CBeebies</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcscotland" xmltv_id="[Yorkshire] BBC Scotland">[Yorkshire] BBC Scotland</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcnews" xmltv_id="[Yorkshire] BBC News">[Yorkshire] BBC News</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcparliament" xmltv_id="[Yorkshire] BBC Parliament">[Yorkshire] BBC Parliament</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|bbcalba" xmltv_id="[Yorkshire] BBC Alba">[Yorkshire] BBC Alba</channel>
+    <channel site="[ENC]bbc.co.uk_0" site_id="yo|##|s4c" xmltv_id="[Yorkshire] S4C">[Yorkshire] S4C</channel>
+  </channels>
+</site>
