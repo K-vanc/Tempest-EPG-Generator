@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]hd-plus.de_0">
+  <channels>
+    <channel site="[ENC]hd-plus.de_0" site_id="das-erste-hd" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="zdf-hd" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rtl-hd" xmltv_id="RTL HD">RTL HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sat-1-hd" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="vox-hd" xmltv_id="VOX HD">VOX HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="prosieben-hd" xmltv_id="ProSieben HD">ProSieben HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="kabel-eins-hd" xmltv_id="kabel eins HD">kabel eins HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rtl-ii-hd" xmltv_id="RTL II HD">RTL II HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sat-1-gold-hd" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rtl-nitro-hd" xmltv_id="NITRO HD">NITRO HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="dmax-hd" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tele-5-hd" xmltv_id="TELE 5 HD">TELE 5 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="prosieben-maxx-hd" xmltv_id="ProSieben MAXX HD">ProSieben MAXX HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sixx-hd" xmltv_id="sixx HD">sixx HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="super-rtl-hd" xmltv_id="SUPER RTL HD">SUPER RTL HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="disney-channel-hd" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="comedy-central" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="deluxe-music-hd" xmltv_id="DELUXE MUSIC HD">DELUXE MUSIC HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-hd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="n24-hd" xmltv_id="Welt HD">Welt HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="n-tv-hd" xmltv_id="n-tv HD">n-tv HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sport1-hd" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="eurosport-hd" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="wdr-fernsehen-hd" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="kika-hd" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="phoenix-hd" xmltv_id="PHOENIX HD">PHOENIX HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="bloomberg-tv-europe" xmltv_id="Bloomberg TV Europe">Bloomberg TV Europe</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="hr-fernsehen-hd" xmltv_id="hr-Fernsehen HD">hr-Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="viva" xmltv_id="VIVA">VIVA</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="one-hd" xmltv_id="ONE HD">ONE HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="kabel-eins-classics" xmltv_id="kabel eins CLASSICS">kabel eins CLASSICS</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rtl-living" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tagesschau24-hd" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="kinowelt-tv" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="ard-alpha" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rbb-fernsehen-hd" xmltv_id="rbb Fernsehen HD">rbb Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="ndr-fernsehen-hd" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="3sat-hd" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="zdfneo-hd" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="anixe-hd" xmltv_id="Anixe HD">Anixe HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="astrotv" xmltv_id="AstroTV">AstroTV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sonnenklar-tv-hd" xmltv_id="sonnenklar.TV HD">sonnenklar.TV HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="classica" xmltv_id="Classica">Classica</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="nat-geo-hd" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="disney-cinemagic-hd" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="arte-hd" xmltv_id="ARTE HD">ARTE HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="13th-street-hd" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="discovery-channel-hd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="history-hd" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="junior" xmltv_id="Junior">Junior</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="passion" xmltv_id="Passion">Passion</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rtl-crime-hd" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="syfy-hd" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-action-hd" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-cinema-plus1-hd" xmltv_id="Sky Cinema +1 HD">Sky Cinema +1 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-cinema-plus24-hd" xmltv_id="Sky Cinema +24 HD">Sky Cinema +24 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-cinema-hd" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-comedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-emotion" xmltv_id="Sky Emotion">Sky Emotion</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-krimi" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-nostalgie" xmltv_id="Sky Nostalgie">Sky Nostalgie</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-sport-hd-1" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-sport-hd-2" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="servustv-hd-deutschland" xmltv_id="ServusTV HD Deutschland">ServusTV HD Deutschland</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mdr-fernsehen-hd" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="fox-hd" xmltv_id="Fox HD">Fox HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-sport-news-hd" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="disney-junior-hd" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sat-1-emotions" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-atlantic-hd" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-hits-hd" xmltv_id="Sky Hits HD">Sky Hits HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="bayerisches-fernsehen-hd" xmltv_id="Bayerisches Fernsehen HD">Bayerisches Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="swr-fernsehen-hd" xmltv_id="SWR Fernsehen HD">SWR Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tnt-film" xmltv_id="TNT Film">TNT Film</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tnt-serie-hd" xmltv_id="TNT Serie HD">TNT Serie HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-bundesliga-hd-1" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="1-2-3-tv-hd" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="a-tv" xmltv_id="a.tv">a.tv</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="atv-hd" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="atv2" xmltv_id="ATV2">ATV2</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="bibel-tv-hd" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="channel-21" xmltv_id="Channel 21">Channel 21</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="deutsches-musik-fernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="die-neue-zeit-tv" xmltv_id="DIE NEUE ZEIT TV">DIE NEUE ZEIT TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="donau-tv" xmltv_id="DONAU TV">DONAU TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="e-entertainment-hd" xmltv_id="E! ENTERTAINMENT HD">E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="euronews" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="franken-fernsehen" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="gotv" xmltv_id="gotv">gotv</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="hope-channel" xmltv_id="HOPE Channel">HOPE Channel</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="hse24-hd" xmltv_id="HSE24 HD">HSE24 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="hse24-extra-hd" xmltv_id="HSE24 Extra HD">HSE24 Extra HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="intv" xmltv_id="intv">intv</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="jml" xmltv_id="JML">JML</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="juwelo-hd" xmltv_id="Juwelo HD">Juwelo HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="goldstar-tv" xmltv_id="Goldstar TV">Goldstar TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="k-tv" xmltv_id="K-TV">K-TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="l-tv" xmltv_id="L-TV">L-TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="motorvision-tv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="mtv-music-24" xmltv_id="MTV Music 24">MTV Music 24</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="muenchen-tv" xmltv_id="münchen.tv">münchen.tv</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="muehlviertel-tv" xmltv_id="Mühlviertel TV">Mühlviertel TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="nl-1" xmltv_id="NL 1">NL 1</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="nl-2" xmltv_id="NL 2">NL 2</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="nl-3" xmltv_id="NL 3">NL 3</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="orf-eins-hd" xmltv_id="ORF eins HD">ORF eins HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="orf2" xmltv_id="ORF2">ORF2</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="orf-iii-hd" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="orf-sport-plus-hd" xmltv_id="ORF Sport + HD">ORF Sport + HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="parlamentsfernsehen-des-deutschen-bundestages" xmltv_id="Parlamentsfernsehen des Deutschen Bundestages">Parlamentsfernsehen des Deutschen Bundestages</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="pearl-tv-hd" xmltv_id="Pearl.tv HD">Pearl.tv HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="puls-4-hd" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="qvc-hd" xmltv_id="QVC HD">QVC HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="qvc-plus-hd" xmltv_id="QVC Plus HD">QVC Plus HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="regio-tv" xmltv_id="Regio TV">Regio TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rfo" xmltv_id="RFO">RFO</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rhein-main-tv" xmltv_id="Rhein-Main-TV">Rhein-Main-TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="ric" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="rhein-neckar-fernsehen" xmltv_id="Rhein-Neckar Fernsehen">Rhein-Neckar Fernsehen</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="romance-tv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="srf-1-hd" xmltv_id="SRF 1 HD">SRF 1 HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="srf-zwei-hd" xmltv_id="SRF zwei HD">SRF zwei HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-bundesliga-hd-2" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-bundesliga-hd-3" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-bundesliga-hd-4" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sky-sport-austria-hd" xmltv_id="Sky Sport Austria HD">Sky Sport Austria HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sport1-plus-hd" xmltv_id="sport1+ HD">sport1+ HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sport1-us-hd" xmltv_id="sport1 US HD">sport1 US HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sportdigital" xmltv_id="sportdigital">sportdigital</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="sr-fernsehen-hd" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="allgaeu-tv" xmltv_id="allgäu.tv">allgäu.tv</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tv-mittelrhein" xmltv_id="TV Mittelrhein">TV Mittelrhein</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tv-oberfranken" xmltv_id="TV Oberfranken">TV Oberfranken</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="tva-ostbayern" xmltv_id="TVA Ostbayern">TVA Ostbayern</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="universal-channel-hd" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="welt-der-wunder-tv" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
+    <channel site="[ENC]hd-plus.de_0" site_id="zdfinfo-hd" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+  </channels>
+</site>
