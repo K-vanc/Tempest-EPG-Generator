@@ -100,7 +100,7 @@ return array (
   'cccontent_type3' => 'application/json;charset=UTF-8',
   'cccustom_header3' => 'token: ##grabber_1##',
   'ccsubpage_format3' => '##grabber_3##',
-  'ccchannel_block' => '\\{"stationID":"\\d+","name.*?\\}\\}',
+  'ccchannel_block' => '\\{"stationID":"\\d+","name.*?(?:\\}|\\])\\}',
   'ccchannel_id' => '\\{"stationID":"(.*?)","',
   'ccchannel_name' => '"affiliate":"(.*?)","|>|"name":"(.*?)","|>|,"callsign":"(.*?)","',
   'ccchannel_logo' => '.*\\{"URL":".*?stationLogos(.*?)",\\S+"category":"light"',
