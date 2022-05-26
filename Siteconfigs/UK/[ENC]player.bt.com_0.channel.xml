@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]player.bt.com_0">
+  <channels>
+    <channel site="[ENC]player.bt.com_0" site_id="hs44" xmltv_id="BBC One London">BBC One London</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstw" xmltv_id="BBC Two England">BBC Two England</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs45" xmltv_id="ITV London">ITV London</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsty" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstz" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst2" xmltv_id="ITV2">ITV2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst5" xmltv_id="BBC Four">BBC Four</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst6" xmltv_id="ITV3">ITV3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs9k" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst8" xmltv_id="QUEST">QUEST</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst9" xmltv_id="E4">E4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvb" xmltv_id="Film4">Film4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvc" xmltv_id="Channel 4+1">Channel 4+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvd" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvf" xmltv_id="Really">Really</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvg" xmltv_id="More 4">More 4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvh" xmltv_id="Dave">Dave</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvj" xmltv_id="Drama">Drama</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvk" xmltv_id="5USA">5USA</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswm" xmltv_id="TJC">TJC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvxt" xmltv_id="BBC Three">BBC Three</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxb" xmltv_id="W">W</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvp" xmltv_id="ITV4">ITV4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvq" xmltv_id="Yesterday">Yesterday</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvr" xmltv_id="ITVBe">ITVBe</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvs" xmltv_id="ITV2 +1">ITV2 +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvt" xmltv_id="E4+1">E4+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvv" xmltv_id="4Music">4Music</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvw" xmltv_id="5STAR">5STAR</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvx" xmltv_id="5ACTION">5ACTION</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvy" xmltv_id="GREAT! movies">GREAT! movies</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs46" xmltv_id="ITV +1 London">ITV +1 London</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hst7" xmltv_id="Pick">Pick</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv4" xmltv_id="QVC Beauty">QVC Beauty</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv5" xmltv_id="QVC Style">QVC Style</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv6" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv7" xmltv_id="Quest Red">Quest Red</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw2" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv9" xmltv_id="GREAT! movies action">GREAT! movies action</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswb" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswc" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswd" xmltv_id="Gems TV">Gems TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswf" xmltv_id="Channel 5+1">Channel 5+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswg" xmltv_id="Film4+1">Film4+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswh" xmltv_id="Challenge">Challenge</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswj" xmltv_id="4seven">4seven</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswk" xmltv_id="GREAT! tv">GREAT! tv</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvm" xmltv_id="Ideal World">Ideal World</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswn" xmltv_id="GREAT! movies classic">GREAT! movies classic</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht94" xmltv_id="5Select">5Select</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswq" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxt" xmltv_id="ITVBe +1">ITVBe +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswr" xmltv_id="ITV3 +1">ITV3 +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvyt" xmltv_id="Drama+1">Drama+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswt" xmltv_id="GREAT! movies +1">GREAT! movies +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswv" xmltv_id="Blaze">Blaze</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsww" xmltv_id="FreeSports">FreeSports</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswx" xmltv_id="TBN UK">TBN UK</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswy" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hswz" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsv8" xmltv_id="CBS Justice">CBS Justice</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw8" xmltv_id="QUEST+1">QUEST+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw4" xmltv_id="Quest Red+1">Quest Red+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw5" xmltv_id="Jewellery Maker">Jewellery Maker</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht9s" xmltv_id="Hobby Maker">Hobby Maker</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvn" xmltv_id="Dave Ja Vu">Dave Ja Vu</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw7" xmltv_id="Yesterday+1">Yesterday+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxf" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsw9" xmltv_id="TCC">TCC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxc" xmltv_id="Blaze+1">Blaze+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxd" xmltv_id="Talking Pictures TV">Talking Pictures TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxk" xmltv_id="Together TV">Together TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxm" xmltv_id="PBS America">PBS America</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxg" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxh" xmltv_id="More4+1">More4+1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxp" xmltv_id="PBS America +1">PBS America +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsws" xmltv_id="ITV4 +1">ITV4 +1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht9t" xmltv_id="That's TV">That's TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvyx" xmltv_id="That's Music">That's Music</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxr" xmltv_id="Craft Extra">Craft Extra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxs" xmltv_id="Forces TV">Forces TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxv" xmltv_id="BBC One HD">BBC One HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxw" xmltv_id="BBC Two HD">BBC Two HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs47" xmltv_id="ITV HD">ITV HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxy" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsxz" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx2" xmltv_id="BBC Four HD">BBC Four HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx4" xmltv_id="BBC News Channel HD">BBC News Channel HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvxv" xmltv_id="BBC Three HD">BBC Three HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx5" xmltv_id="QVC HD">QVC HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx6" xmltv_id="QVC Beauty HD">QVC Beauty HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx8" xmltv_id="QUEST HD">QUEST HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsx9" xmltv_id="CBBC">CBBC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyb" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyc" xmltv_id="CITV">CITV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyd" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyf" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyg" xmltv_id="POP">POP</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyh" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="htdr" xmltv_id="KetchupTv">KetchupTv</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="htdq" xmltv_id="YAAAS!">YAAAS!</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyj" xmltv_id="BBC News Channel">BBC News Channel</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyk" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsym" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyp" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht7w" xmltv_id="GB News">GB News</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvyy" xmltv_id="TalkTV">TalkTV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyq" xmltv_id="BBC Red Button">BBC Red Button</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht9v" xmltv_id="On Demand 365">On Demand 365</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyr" xmltv_id="BBC RB 1">BBC RB 1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsys" xmltv_id="ADULT smileTV3">ADULT smileTV3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyt" xmltv_id="ADULT Babestn">ADULT Babestn</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyv" xmltv_id="ADULT Xpanded TV">ADULT Xpanded TV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyy" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyz" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy2" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy4" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy5" xmltv_id="BBC Radio 4 FM">BBC Radio 4 FM</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy6" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy7" xmltv_id="BBC Radio 5 live sports extra">BBC Radio 5 live sports extra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy8" xmltv_id="BBC Radio 6 Music">BBC Radio 6 Music</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy9" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszb" xmltv_id="BBC Asian Network">BBC Asian Network</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszc" xmltv_id="BBC World Service Online">BBC World Service Online</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszd" xmltv_id="Hits Radio">Hits Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszf" xmltv_id="KISS FRESH">KISS FRESH</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszg" xmltv_id="KISS">KISS</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszh" xmltv_id="KISSTORY">KISSTORY</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszj" xmltv_id="Magic">Magic</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszk" xmltv_id="Greatest Hits Radio">Greatest Hits Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszm" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszn" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszp" xmltv_id="BBC Radio Berkshire">BBC Radio Berkshire</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszq" xmltv_id="BBC Three Counties Radio">BBC Three Counties Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszs" xmltv_id="BBC Radio London">BBC Radio London</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs2d" xmltv_id="BBC Surrey">BBC Surrey</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszv" xmltv_id="talkSPORT">talkSPORT</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszw" xmltv_id="Capital">Capital</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszx" xmltv_id="Premier Radio">Premier Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszy" xmltv_id="Absolute Radio">Absolute Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszz" xmltv_id="Heart">Heart</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsz2" xmltv_id="RNIB Connect">RNIB Connect</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsz4" xmltv_id="Classic FM">Classic FM</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsz5" xmltv_id="LBC">LBC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs2f" xmltv_id="BBC Essex">BBC Essex</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="htdk" xmltv_id="Sky News.">Sky News.</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmx" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmy" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmz" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsm2" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsn9" xmltv_id="BT TV Preview">BT TV Preview</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs9n" xmltv_id="BritBox">BritBox</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsm8" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsm9" xmltv_id="Netflix">Netflix</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnb" xmltv_id="Prime Video">Prime Video</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnc" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnd" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvpf" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq5" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq6" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq7" xmltv_id="GOLD">GOLD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq8" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq4" xmltv_id="Sky Max">Sky Max</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq9" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrb" xmltv_id="SyFy">SyFy</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrc" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrd" xmltv_id="Sky Arts.">Sky Arts.</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrh" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrj" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrk" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrm" xmltv_id="Sky History">Sky History</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsq2" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hvpg" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrp" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrq" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrr" xmltv_id="GOLD HD">GOLD HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrs" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrn" xmltv_id="Sky Max HD">Sky Max HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrt" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrv" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrw" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsrx" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr2" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr4" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr5" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr6" xmltv_id="Sky History HD">Sky History HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr7" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnp" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnq" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnr" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsnv" xmltv_id="AMC HD">AMC HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="htdm" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspc" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspd" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspf" xmltv_id="BT Sport 3">BT Sport 3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspg" xmltv_id="BT Sport//ESPN">BT Sport//ESPN</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsph" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspj" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspk" xmltv_id="Box Nation">Box Nation</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr8" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsr9" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssb" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssc" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssd" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssf" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssg" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssh" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssj" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssk" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssm" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspn" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspp" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspq" xmltv_id="BT Sport 3 HD">BT Sport 3 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspr" xmltv_id="BT Sport Ultimate">BT Sport Ultimate</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsps" xmltv_id="BT Sport//ESPN HD">BT Sport//ESPN HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspt" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspv" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssn" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssp" xmltv_id="Sky Sports Main Event HD">Sky Sports Main Event HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssq" xmltv_id="Sky Sports Premier League HD">Sky Sports Premier League HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssr" xmltv_id="Sky Sports Football HD">Sky Sports Football HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsss" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsst" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssv" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssw" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssx" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssy" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hssz" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspy" xmltv_id="BT Sport X1">BT Sport X1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hspz" xmltv_id="BT Sport X2">BT Sport X2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp2" xmltv_id="BT Sport X3">BT Sport X3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp4" xmltv_id="BT Sport X4">BT Sport X4</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp5" xmltv_id="BT Sport X5">BT Sport X5</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp6" xmltv_id="BT Sport X6">BT Sport X6</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp7" xmltv_id="BT Sport X1 HD">BT Sport X1 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp8" xmltv_id="BT Sport X2 HD">BT Sport X2 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsp9" xmltv_id="BT Sport X3 HD">BT Sport X3 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqb" xmltv_id="BT Sport X4 HD">BT Sport X4 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqc" xmltv_id="BT Sport X5 HD">BT Sport X5 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqd" xmltv_id="BT Sport X6 HD">BT Sport X6 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="ht78" xmltv_id="BT Sport Ultimate HDR">BT Sport Ultimate HDR</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss2" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss4" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss5" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss6" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss7" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss8" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hss9" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstb" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstc" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstd" xmltv_id="Nick Junior HD">Nick Junior HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqs" xmltv_id="BT Sport Box Office">BT Sport Box Office</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqt" xmltv_id="BT Sport Box Office 2">BT Sport Box Office 2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsqv" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs9q" xmltv_id="Sky Sports Box Office 2 HD">Sky Sports Box Office 2 HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsk5" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsk6" xmltv_id="Sky Cinema Ultimate Action">Sky Cinema Ultimate Action</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsk7" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsk8" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmb" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmc" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmd" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmf" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmg" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsmh" xmltv_id="Sky Cinema Sci-Fi &amp; Horror">Sky Cinema Sci-Fi &amp; Horror</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstf" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstg" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsth" xmltv_id="Sky Cinema Ultimate Action HD">Sky Cinema Ultimate Action HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstj" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstk" xmltv_id="Sky Cinema Greats HD">Sky Cinema Greats HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstn" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstp" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstq" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstr" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsts" xmltv_id="Sky Cinema Drama HD">Sky Cinema Drama HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hstt" xmltv_id="Sky Cinema Sci-Fi &amp; Horror HD">Sky Cinema Sci-Fi &amp; Horror HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsvx" xmltv_id="5ACTION">5ACTION</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs6v" xmltv_id="BBC One Scotland HD">BBC One Scotland HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs6x" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyy" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsyz" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy2" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy4" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy5" xmltv_id="BBC Radio 4 FM">BBC Radio 4 FM</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy6" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy7" xmltv_id="BBC Radio 5 live sports extra">BBC Radio 5 live sports extra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy8" xmltv_id="BBC Radio 6 Music">BBC Radio 6 Music</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsy9" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszd" xmltv_id="Hits Radio">Hits Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszk" xmltv_id="Greatest Hits Radio">Greatest Hits Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszn" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszp" xmltv_id="BBC Radio Berkshire">BBC Radio Berkshire</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszq" xmltv_id="BBC Three Counties Radio">BBC Three Counties Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszs" xmltv_id="BBC Radio London">BBC Radio London</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszt" xmltv_id="BBC Radio Oxford">BBC Radio Oxford</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszx" xmltv_id="Premier Radio">Premier Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs5j" xmltv_id="BBC Radio Solent Dorset">BBC Radio Solent Dorset</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hszy" xmltv_id="Absolute Radio">Absolute Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs7n" xmltv_id="Trans World Radio">Trans World Radio</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hs2s" xmltv_id="BBC Radio Sheffield">BBC Radio Sheffield</channel>
+    <channel site="[ENC]player.bt.com_0" site_id="hsz6" xmltv_id="BBC Radio Gloucestershire">BBC Radio Gloucestershire</channel>
+  </channels>
+</site>
