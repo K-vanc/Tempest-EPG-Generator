@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvguia.es_0">
+  <channels>
+    <channel site="[ENC]tvguia.es_0" site_id="la-1" xmltv_id="La 1">La 1</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="la-2" xmltv_id="La 2">La 2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="cuatro" xmltv_id="Cuatro">Cuatro</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="telecinco" xmltv_id="Telecinco">Telecinco</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="la-sexta" xmltv_id="La Sexta">La Sexta</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="divinity" xmltv_id="Divinity">Divinity</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="dkiss" xmltv_id="DKiss">DKiss</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="ten" xmltv_id="TEN">TEN</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="be-mad" xmltv_id="Be Mad">Be Mad</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="mega" xmltv_id="Mega">Mega</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="energy" xmltv_id="Energy">Energy</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="fdf" xmltv_id="FDF">FDF</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="atreseries" xmltv_id="Atreseries">Atreseries</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="neox" xmltv_id="Neox">Neox</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="nova" xmltv_id="Nova">Nova</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="trece" xmltv_id="TRECE">TRECE</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="boing" xmltv_id="Boing">Boing</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="clan" xmltv_id="Clan">Clan</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="teledeporte" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="gol" xmltv_id="GOL">GOL</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="real-madrid-tv" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="bom-cine" xmltv_id="BOM Cine">BOM Cine</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="el-toro-tv" xmltv_id="El Toro TV">El Toro TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="telemadrid" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="la-otra" xmltv_id="La Otra">La Otra</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="8madrid-tv" xmltv_id="8Madrid TV">8Madrid TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tv3" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="8tv" xmltv_id="8tv">8tv</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="super3-33" xmltv_id="Super3 33">Super3 33</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="esport3" xmltv_id="Esport3">Esport3</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="barca-tv" xmltv_id="Barça TV">Barça TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="beteve" xmltv_id="betevé">betevé</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="a-punt" xmltv_id="À Punt">À Punt</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="la-8-mediterraneo" xmltv_id="La 8 Mediterráneo">La 8 Mediterráneo</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="canal-sur" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="andalucia-tv" xmltv_id="Andalucía TV">Andalucía TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tvg" xmltv_id="TVG">TVG</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tvg2" xmltv_id="TVG2">TVG2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="etb-1" xmltv_id="ETB 1">ETB 1</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="etb-2" xmltv_id="ETB 2">ETB 2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tv-canaria" xmltv_id="TV Canaria">TV Canaria</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="cmmedia" xmltv_id="CMMedia">CMMedia</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="ib3" xmltv_id="IB3">IB3</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="aragon-tv" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="7rm" xmltv_id="7RM">7RM</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="canal-extremadura" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tpa" xmltv_id="TPA">TPA</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="cyl7" xmltv_id="CyL7">CyL7</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="la-8" xmltv_id="La 8">La 8</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="decasa" xmltv_id="Decasa">Decasa</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="canal-cocina" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="national-geographic-wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="odisea" xmltv_id="Odisea">Odisea</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="historia" xmltv_id="Historia">Historia</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="amc-crime" xmltv_id="AMC Crime">AMC Crime</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="amc-break" xmltv_id="AMC Break">AMC Break</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="fox" xmltv_id="Fox">Fox</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="calle-13" xmltv_id="Calle 13">Calle 13</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="dark" xmltv_id="DARK">DARK</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tnt" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="cosmo" xmltv_id="Cosmo">Cosmo</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-fest" xmltv_id="M+ Fest">M+ Fest</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="sundance-tv" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="xtrm" xmltv_id="XTRM">XTRM</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="canal-hollywood" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="tcm" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="somos" xmltv_id="Somos">Somos</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="cero" xmltv_id="#0">#0</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-estrenos" xmltv_id="M+ Estrenos">M+ Estrenos</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-estrenos-2" xmltv_id="M+ Estrenos 2">M+ Estrenos 2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-accion" xmltv_id="M+ Acción">M+ Acción</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-comedia" xmltv_id="M+ Comedia">M+ Comedia</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-drama" xmltv_id="M+ Drama">M+ Drama</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-clasicos" xmltv_id="M+ Clásicos">M+ Clásicos</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-cine-espanol" xmltv_id="M+ Cine Español">M+ Cine Español</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-series" xmltv_id="M+ Series">M+ Series</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-series-2" xmltv_id="M+ Series 2">M+ Series 2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-deportes" xmltv_id="M+ Deportes">M+ Deportes</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-golf" xmltv_id="M+ Golf">M+ Golf</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-laliga" xmltv_id="M+ LaLiga">M+ LaLiga</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="movistar-liga-de-campeones" xmltv_id="M+ Liga de Campeones">M+ Liga de Campeones</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="dazn-f1" xmltv_id="DAZN F1">DAZN F1</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="dazn-1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="vamos" xmltv_id="#Vamos">#Vamos</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="toros-tv" xmltv_id="Toros TV">Toros TV</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]tvguia.es_0" site_id="ubeat" xmltv_id="UBEAT">UBEAT</channel>
+  </channels>
+</site>
