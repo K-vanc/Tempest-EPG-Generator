@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tv.nu_0">
+  <channels>
+    <channel site="[ENC]tv.nu_0" site_id="51" xmltv_id="SVT1">SVT1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="52" xmltv_id="SVT2">SVT2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="60" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="27" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="63" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel site="[ENC]tv.nu_0" site_id="65" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC]tv.nu_0" site_id="64" xmltv_id="Sjuan">Sjuan</channel>
+    <channel site="[ENC]tv.nu_0" site_id="66" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC]tv.nu_0" site_id="67" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel site="[ENC]tv.nu_0" site_id="68" xmltv_id="TV10">TV10</channel>
+    <channel site="[ENC]tv.nu_0" site_id="70" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel site="[ENC]tv.nu_0" site_id="88" xmltv_id="TV12">TV12</channel>
+    <channel site="[ENC]tv.nu_0" site_id="45" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="132" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30228" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]tv.nu_0" site_id="49" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel site="[ENC]tv.nu_0" site_id="53" xmltv_id="SVT24">SVT24</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30233" xmltv_id="Godare">Godare</channel>
+    <channel site="[ENC]tv.nu_0" site_id="55" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel site="[ENC]tv.nu_0" site_id="91" xmltv_id="C More First">C More First</channel>
+    <channel site="[ENC]tv.nu_0" site_id="93" xmltv_id="C More Hits">C More Hits</channel>
+    <channel site="[ENC]tv.nu_0" site_id="47" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]tv.nu_0" site_id="4" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel site="[ENC]tv.nu_0" site_id="134" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="105" xmltv_id="V Film Action">V Film Action</channel>
+    <channel site="[ENC]tv.nu_0" site_id="104" xmltv_id="V Film Premiere">V Film Premiere</channel>
+    <channel site="[ENC]tv.nu_0" site_id="131" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="100" xmltv_id="C More Series">C More Series</channel>
+    <channel site="[ENC]tv.nu_0" site_id="125" xmltv_id="C More Fotboll">C More Fotboll</channel>
+    <channel site="[ENC]tv.nu_0" site_id="126" xmltv_id="C More Hockey">C More Hockey</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30215" xmltv_id="Sportkanalen">Sportkanalen</channel>
+    <channel site="[ENC]tv.nu_0" site_id="151" xmltv_id="C More Live">C More Live</channel>
+    <channel site="[ENC]tv.nu_0" site_id="122" xmltv_id="C More Live 2">C More Live 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="123" xmltv_id="C More Live 3">C More Live 3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="124" xmltv_id="C More Live 4">C More Live 4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30194" xmltv_id="C More Live 5">C More Live 5</channel>
+    <channel site="[ENC]tv.nu_0" site_id="101" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel site="[ENC]tv.nu_0" site_id="106" xmltv_id="V Film Hits">V Film Hits</channel>
+    <channel site="[ENC]tv.nu_0" site_id="108" xmltv_id="V Film Family">V Film Family</channel>
+    <channel site="[ENC]tv.nu_0" site_id="107" xmltv_id="V Series">V Series</channel>
+    <channel site="[ENC]tv.nu_0" site_id="136" xmltv_id="V Sport 1">V Sport 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="137" xmltv_id="V Sport Football">V Sport Football</channel>
+    <channel site="[ENC]tv.nu_0" site_id="140" xmltv_id="V Sport Vinter">V Sport Vinter</channel>
+    <channel site="[ENC]tv.nu_0" site_id="120" xmltv_id="V Sport Motor">V Sport Motor</channel>
+    <channel site="[ENC]tv.nu_0" site_id="139" xmltv_id="V Sport Golf">V Sport Golf</channel>
+    <channel site="[ENC]tv.nu_0" site_id="74" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel site="[ENC]tv.nu_0" site_id="71" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel site="[ENC]tv.nu_0" site_id="76" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC]tv.nu_0" site_id="33" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
+    <channel site="[ENC]tv.nu_0" site_id="18" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC]tv.nu_0" site_id="6" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30197" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30152" xmltv_id="Nick JR (lång tablå)">Nick JR (lång tablå)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="146" xmltv_id="Nick JR">Nick JR</channel>
+    <channel site="[ENC]tv.nu_0" site_id="142" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]tv.nu_0" site_id="128" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30211" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]tv.nu_0" site_id="46" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC]tv.nu_0" site_id="162" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC]tv.nu_0" site_id="75" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC]tv.nu_0" site_id="119" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC]tv.nu_0" site_id="57" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="82" xmltv_id="DR1">DR1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="21" xmltv_id="NRK1">NRK1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="22" xmltv_id="NRK2">NRK2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="26" xmltv_id="TV2 (Norge)">TV2 (Norge)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="145" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC]tv.nu_0" site_id="38" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC]tv.nu_0" site_id="10" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="23" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC]tv.nu_0" site_id="9" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="129" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]tv.nu_0" site_id="69" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="[ENC]tv.nu_0" site_id="12" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel site="[ENC]tv.nu_0" site_id="3" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]tv.nu_0" site_id="7" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="[ENC]tv.nu_0" site_id="81" xmltv_id="TV Finland">TV Finland</channel>
+    <channel site="[ENC]tv.nu_0" site_id="72" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC]tv.nu_0" site_id="2" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]tv.nu_0" site_id="111" xmltv_id="Axess TV">Axess TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="16" xmltv_id="Euro News">Euro News</channel>
+    <channel site="[ENC]tv.nu_0" site_id="43" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC]tv.nu_0" site_id="80" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]tv.nu_0" site_id="141" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]tv.nu_0" site_id="143" xmltv_id="Kanal 10">Kanal 10</channel>
+    <channel site="[ENC]tv.nu_0" site_id="164" xmltv_id="C More Sport SF-Kanalen">C More Sport SF-Kanalen</channel>
+    <channel site="[ENC]tv.nu_0" site_id="147" xmltv_id="OUTtv">OUTtv</channel>
+    <channel site="[ENC]tv.nu_0" site_id="58" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel site="[ENC]tv.nu_0" site_id="39" xmltv_id="FUEL TV">FUEL TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="36" xmltv_id="WILD TV HD">WILD TV HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="15" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="154" xmltv_id="Viasat Sport HD">Viasat Sport HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="40" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="159" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30123" xmltv_id="DR2">DR2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30132" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30130" xmltv_id="H2">H2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30133" xmltv_id="TV3 Danmark">TV3 Danmark</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30125" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30127" xmltv_id="DR Ultra">DR Ultra</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30126" xmltv_id="DR K">DR K</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30134" xmltv_id="3 Plus Danmark">3 Plus Danmark</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30128" xmltv_id="DR3">DR3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30129" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30124" xmltv_id="TV2">TV2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30138" xmltv_id="TV3 Norge">TV3 Norge</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30147" xmltv_id="V4">V4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30146" xmltv_id="NRK3">NRK3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30145" xmltv_id="Yle TV2">Yle TV2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30149" xmltv_id="MTV3">MTV3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30151" xmltv_id="Disney Junior (lång tablå)">Disney Junior (lång tablå)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30150" xmltv_id="Nelonen">Nelonen</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30137" xmltv_id="Yle TV1">Yle TV1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30136" xmltv_id="Yle Teema &amp; Fem">Yle Teema &amp; Fem</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30139" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30140" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30142" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30141" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC]tv.nu_0" site_id="161" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="35" xmltv_id="NHK World Europe">NHK World Europe</channel>
+    <channel site="[ENC]tv.nu_0" site_id="34" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="32" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="54" xmltv_id="SVT Barn">SVT Barn</channel>
+    <channel site="[ENC]tv.nu_0" site_id="112" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tv.nu_0" site_id="1" xmltv_id="TV Chile Internacional">TV Chile Internacional</channel>
+    <channel site="[ENC]tv.nu_0" site_id="86" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="84" xmltv_id="HRT1">HRT1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="28" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="25" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]tv.nu_0" site_id="13" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="14" xmltv_id="History (UK)">History (UK)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="11" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]tv.nu_0" site_id="8" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel site="[ENC]tv.nu_0" site_id="5" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel site="[ENC]tv.nu_0" site_id="20" xmltv_id="E!">E!</channel>
+    <channel site="[ENC]tv.nu_0" site_id="24" xmltv_id="GOD TV">GOD TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="19" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30168" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30175" xmltv_id="Bloomberg TV HD (UK)">Bloomberg TV HD (UK)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30154" xmltv_id="C More Mix">C More Mix</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30225" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30178" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30184" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30185" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30186" xmltv_id="eSportsTV HD">eSportsTV HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30187" xmltv_id="V Sport Premium">V Sport Premium</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30189" xmltv_id="C More Stars">C More Stars</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30191" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30192" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30216" xmltv_id="History HD (Internationell)">History HD (Internationell)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30193" xmltv_id="DW">DW</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30195" xmltv_id="China Global Television Network">China Global Television Network</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30196" xmltv_id="China Global Television Network 9 Documentary">China Global Television Network 9 Documentary</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30200" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30209" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30231" xmltv_id="STRIVE Sport TV">STRIVE Sport TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30213" xmltv_id="NRK Super / NRK3 HD">NRK Super / NRK3 HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30230" xmltv_id="Motorvision TV (DE)">Motorvision TV (DE)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30214" xmltv_id="Expressen TV">Expressen TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30226" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="56" xmltv_id="BraZZers TV Plus">BraZZers TV Plus</channel>
+    <channel site="[ENC]tv.nu_0" site_id="153" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel site="[ENC]tv.nu_0" site_id="148" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC]tv.nu_0" site_id="41" xmltv_id="Adult Channel Nightly">Adult Channel Nightly</channel>
+    <channel site="[ENC]tv.nu_0" site_id="37" xmltv_id="Adult Channel">Adult Channel</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30157" xmltv_id="Penthouse HD 1">Penthouse HD 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30158" xmltv_id="Penthouse HD 2">Penthouse HD 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30232" xmltv_id="V Sport Extra">V Sport Extra</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30221" xmltv_id="ATG Live">ATG Live</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30222" xmltv_id="Kanal 5 Danmark">Kanal 5 Danmark</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30223" xmltv_id="Djazz HD">Djazz HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30234" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30235" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30236" xmltv_id="National Geographic (International)">National Geographic (International)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30237" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30239" xmltv_id="Mitteldeutscher Rundfunk (MDF)">Mitteldeutscher Rundfunk (MDF)</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30240" xmltv_id="CuriosityStream">CuriosityStream</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30241" xmltv_id="Curiosity Stream EU">Curiosity Stream EU</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30249" xmltv_id="eSportsone">eSportsone</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30256" xmltv_id="Discovery+ Extra 1">Discovery+ Extra 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30253" xmltv_id="Discovery+ Extra 2">Discovery+ Extra 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30250" xmltv_id="Discovery+ Extra 3">Discovery+ Extra 3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30257" xmltv_id="Discovery+ Extra 4">Discovery+ Extra 4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30255" xmltv_id="Discovery+ Extra 5">Discovery+ Extra 5</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30251" xmltv_id="Discovery+ Extra 6">Discovery+ Extra 6</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30252" xmltv_id="Discovery+ Extra 7">Discovery+ Extra 7</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30254" xmltv_id="Discovery+ Extra 8">Discovery+ Extra 8</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30258" xmltv_id="V Sport Live 1">V Sport Live 1</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30259" xmltv_id="V Sport Live 3">V Sport Live 3</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30260" xmltv_id="V Sport Live 2">V Sport Live 2</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30261" xmltv_id="V Sport Live 5">V Sport Live 5</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30262" xmltv_id="V Sport Live 4">V Sport Live 4</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30263" xmltv_id="Paramount+ Series">Paramount+ Series</channel>
+    <channel site="[ENC]tv.nu_0" site_id="30264" xmltv_id="Paramount+ Movies">Paramount+ Movies</channel>
+  </channels>
+</site>
