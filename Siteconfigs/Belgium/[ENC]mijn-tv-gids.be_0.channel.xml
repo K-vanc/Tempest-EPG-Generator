@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]mijn-tv-gids.be_0">
+  <channels>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="313|##|een" xmltv_id="EEN">EEN</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="581|##|canvas" xmltv_id="CANVAS">CANVAS</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="148|##|vtm" xmltv_id="VTM">VTM</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="467|##|vtm2" xmltv_id="VTM2">VTM2</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="150|##|vier" xmltv_id="VIER">VIER</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="296|##|vijf" xmltv_id="VIJF">VIJF</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="541|##|vtm3" xmltv_id="VTM3">VTM3</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="14|##|arte" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1916|##|tipik" xmltv_id="TIPIK">TIPIK</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="24|##|la-une-rtbf" xmltv_id="LA UNE (RTBF)">LA UNE (RTBF)</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="19|##|rtl-tvi" xmltv_id="RTL TVI">RTL TVI</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1|##|tf1" xmltv_id="TF1">TF1</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="2|##|france-2" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="3|##|france-3" xmltv_id="FRANCE 3">FRANCE 3</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="321|##|france-4" xmltv_id="FRANCE 4">FRANCE 4</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="67|##|club-rtl" xmltv_id="CLUB RTL">CLUB RTL</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="69|##|france-5" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="717|##|la-trois" xmltv_id="LA TROIS">LA TROIS</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="536|##|play-more-kicks" xmltv_id="PLAY MORE Kicks">PLAY MORE Kicks</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1116|##|paramount-channel" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="304|##|e-entertainment" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="199|##|tv-breizh" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="74|##|13eme-rue" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="281|##|plug-rtl" xmltv_id="PLUG RTL">PLUG RTL</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1907|##|vtm-gold" xmltv_id="VTM GOLD">VTM GOLD</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="688|##|vtm4" xmltv_id="VTM4">VTM4</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1729|##|warner-tv" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1655|##|zes" xmltv_id="ZES">ZES</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="164|##|ketnet" xmltv_id="KETNET">KETNET</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="528|##|nickelodeon" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="93|##|cartoon-network" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="269|##|boomerang" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1168|##|studio100tv" xmltv_id="STUDIO100tv">STUDIO100tv</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1170|##|vtm-kids" xmltv_id="VTM KIDS">VTM KIDS</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1384|##|pebble-tv" xmltv_id="PEBBLE TV">PEBBLE TV</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="618|##|eurosport-nl" xmltv_id="EUROSPORT NL">EUROSPORT NL</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="323|##|eurosport-2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="138|##|automoto" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="535|##|mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="86|##|mezzo" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="845|##|trace-urban" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="539|##|national-geographic" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="292|##|discovery-channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="344|##|france-o" xmltv_id="FRANCE ?">FRANCE ?</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="1167|##|njam-" xmltv_id="NJAM !">NJAM !</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="258|##|playboy-tv" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="139|##|npo1" xmltv_id="NPO1">NPO1</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="140|##|npo2" xmltv_id="NPO2">NPO2</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="141|##|npo3" xmltv_id="NPO3">NPO3</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="120|##|rai-1" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="119|##|bbc-entertainment" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="129|##|bbc1" xmltv_id="BBC1">BBC1</channel>
+    <channel site="[ENC]mijn-tv-gids.be_0" site_id="130|##|bbc2" xmltv_id="BBC2">BBC2</channel>
+  </channels>
+</site>
