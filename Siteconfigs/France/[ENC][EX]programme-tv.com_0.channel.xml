@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]programme-tv.com_0">
+  <channels>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1|##|tf1" xmltv_id="TF1">TF1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="2|##|france-2" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="3|##|france-3" xmltv_id="FRANCE 3">FRANCE 3</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="16|##|canal-" xmltv_id="CANAL +">CANAL +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="69|##|france-5" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="13|##|m6" xmltv_id="M6">M6</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="14|##|arte" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1032|##|c8" xmltv_id="C8">C8</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="70|##|tmc" xmltv_id="TMC">TMC</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="318|##|tfx" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1033|##|cstar" xmltv_id="CSTAR">CSTAR</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1047|##|6ter" xmltv_id="6TER">6TER</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="321|##|france-4" xmltv_id="FRANCE 4">FRANCE 4</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1048|##|rmc-story" xmltv_id="RMC STORY">RMC STORY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="22|##|paris-premiere" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="315|##|public-senat-lcp-an" xmltv_id="PUBLIC SENAT - LCP AN">PUBLIC SENAT - LCP AN</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="27|##|tv5-monde" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="221|##|kto" xmltv_id="KTO">KTO</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1916|##|tipik" xmltv_id="TIPIK">TIPIK</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="402|##|8-mont-blanc" xmltv_id="8 MONT-BLANC">8 MONT-BLANC</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="282|##|canal-cinema" xmltv_id="CANAL + CINEMA">CANAL + CINEMA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="314|##|canal-decale" xmltv_id="CANAL + DECALE">CANAL + DECALE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="239|##|cine-premier" xmltv_id="CINE + PREMIER">CINE + PREMIER</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="240|##|cine-emotion" xmltv_id="CINE + EMOTION">CINE + EMOTION</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="291|##|cine-famiz" xmltv_id="CINE + FAMIZ">CINE + FAMIZ</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="241|##|cine-frisson" xmltv_id="CINE + FRISSON">CINE + FRISSON</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="244|##|cine-classic" xmltv_id="CINE + CLASSIC">CINE + CLASSIC</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="646|##|cine-club" xmltv_id="CINE + CLUB">CINE + CLUB</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="172|##|tcm-cinema" xmltv_id="TCM CINEMA">TCM CINEMA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="611|##|ocs-choc" xmltv_id="OCS CHOC">OCS CHOC</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="609|##|ocs-max" xmltv_id="OCS MAX">OCS MAX</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="613|##|ocs-geants" xmltv_id="OCS GEANTS">OCS GEANTS</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="63|##|action" xmltv_id="ACTION">ACTION</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1125|##|ocs-city" xmltv_id="OCS CITY">OCS CITY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1116|##|paramount-channel" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1727|##|polar-" xmltv_id="POLAR +">POLAR +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="322|##|w9" xmltv_id="W9">W9</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1045|##|tf1-series-films" xmltv_id="TF1 S?ries Films">TF1 S?ries Films</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="199|##|tv-breizh" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="74|##|13eme-rue" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="26|##|jimmy" xmltv_id="JIMMY">JIMMY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="34|##|serie-club" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="362|##|syfy" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="31|##|rtl-9" xmltv_id="RTL 9">RTL 9</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="73|##|comedie-" xmltv_id="COMEDIE +">COMEDIE +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1723|##|altice-studio" xmltv_id="ALTICE STUDIO">ALTICE STUDIO</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="178|##|game-one" xmltv_id="GAME ONE">GAME ONE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="304|##|e-entertainment" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="59|##|ab1" xmltv_id="AB1">AB1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="229|##|ab3" xmltv_id="AB3">AB3</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1729|##|warner-tv" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="361|##|gulli" xmltv_id="GULLI">GULLI</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1050|##|cherie-25" xmltv_id="CHERIE 25">CHERIE 25</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="377|##|nickelodeon" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="279|##|piwi-" xmltv_id="PIWI +">PIWI +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="212|##|tiji" xmltv_id="TIJI">TIJI</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="90|##|teletoon-" xmltv_id="TELETOON +">TELETOON +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="445|##|canal-family" xmltv_id="CANAL + FAMILY">CANAL + FAMILY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="64|##|disney-channel" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="88|##|mangas" xmltv_id="MANGAS">MANGAS</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="93|##|cartoon-network" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="269|##|boomerang" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="87|##|canal-j" xmltv_id="CANAL J">CANAL J</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="766|##|boing" xmltv_id="BOING">BOING</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1200|##|disney-cinema" xmltv_id="DISNEY CINEMA">DISNEY CINEMA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="871|##|disney-junior" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="658|##|disney-xd" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1046|##|lequipe-21" xmltv_id="L'EQUIPE 21">L'EQUIPE 21</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="83|##|eurosport" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="284|##|canal-sport" xmltv_id="CANAL + SPORT">CANAL + SPORT</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="252|##|sport-" xmltv_id="SPORT +">SPORT +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="323|##|eurosport-2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="138|##|automoto" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="984|##|bein-sports-1" xmltv_id="BEIN SPORTS 1">BEIN SPORTS 1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1016|##|bein-sports-2" xmltv_id="BEIN SPORTS 2">BEIN SPORTS 2</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1172|##|bein-sports-3" xmltv_id="BEIN SPORTS 3">BEIN SPORTS 3</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="884|##|equidia" xmltv_id="EQUIDIA">EQUIDIA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="180|##|info-sport" xmltv_id="INFO SPORT">INFO SPORT</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="911|##|nautical-channel" xmltv_id="NAUTICAL CHANNEL">NAUTICAL CHANNEL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="423|##|oltv" xmltv_id="OLTV">OLTV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1578|##|rmc-sport-1" xmltv_id="RMC SPORT 1">RMC SPORT 1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="584|##|rmc-sport-2" xmltv_id="RMC SPORT 2">RMC SPORT 2</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="664|##|rmc-sport-3" xmltv_id="RMC SPORT 3">RMC SPORT 3</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="320|##|nrj12" xmltv_id="NRJ12">NRJ12</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="85|##|mcm" xmltv_id="MCM">MCM</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="96|##|mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="115|##|m6-music" xmltv_id="M6 MUSIC">M6 MUSIC</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="845|##|trace-urban" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="86|##|mezzo" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="933|##|mezzo-live-hd" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="844|##|stingray-brava" xmltv_id="STINGRAY BRAVA">STINGRAY BRAVA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="381|##|melody" xmltv_id="MELODY">MELODY</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="427|##|nrj-hits" xmltv_id="NRJ HITS">NRJ HITS</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1049|##|rmc-decouverte" xmltv_id="RMC DECOUVERTE">RMC DECOUVERTE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="21|##|planete-" xmltv_id="PLANETE +">PLANETE +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="48|##|teva" xmltv_id="TEVA">TEVA</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="79|##|histoire" xmltv_id="HISTOIRE">HISTOIRE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="344|##|france-o" xmltv_id="FRANCE ?">FRANCE ?</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="292|##|discovery-channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="228|##|national-geographic-channel" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL">NATIONAL GEOGRAPHIC CHANNEL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="127|##|chasse-peche" xmltv_id="CHASSE &amp; PECHE">CHASSE &amp; PECHE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="89|##|animaux" xmltv_id="ANIMAUX">ANIMAUX</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="414|##|planete-ae" xmltv_id="PLANETE+ AE">PLANETE+ AE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="82|##|seasons-" xmltv_id="SEASONS +">SEASONS +</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="345|##|ushuaia-tv" xmltv_id="USHUAIA TV">USHUAIA TV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="71|##|voyage" xmltv_id="VOYAGE">VOYAGE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="637|##|national-geographic-wild" xmltv_id="NATIONAL GEOGRAPHIC WILD">NATIONAL GEOGRAPHIC WILD</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="446|##|planete-ci" xmltv_id="PLANETE+ CI">PLANETE+ CI</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1199|##|science-vie-tv" xmltv_id="SCIENCE &amp; VIE TV">SCIENCE &amp; VIE TV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="255|##|toute-lhistoire" xmltv_id="TOUTE L'HISTOIRE">TOUTE L'HISTOIRE</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1195|##|trek" xmltv_id="TREK">TREK</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="155|##|lci" xmltv_id="LCI">LCI</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="179|##|cnews" xmltv_id="CNEWS">CNEWS</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="363|##|bfm-tv" xmltv_id="BFM TV">BFM TV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="175|##|demain" xmltv_id="DEMAIN">DEMAIN</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="419|##|france-24" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="55|##|xxl" xmltv_id="XXL">XXL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="258|##|playboy-tv" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="444|##|pink-x" xmltv_id="PINK X">PINK X</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="119|##|bbc-entertainment" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="120|##|rai-1" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="129|##|bbc1" xmltv_id="BBC1">BBC1</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="130|##|bbc2" xmltv_id="BBC2">BBC2</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="968|##|rts-deux" xmltv_id="RTS DEUX">RTS DEUX</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="967|##|rts-un" xmltv_id="RTS UN">RTS UN</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="24|##|la-une-rtbf" xmltv_id="LA UNE (RTBF)">LA UNE (RTBF)</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="67|##|club-rtl" xmltv_id="CLUB RTL">CLUB RTL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="717|##|la-trois" xmltv_id="LA TROIS">LA TROIS</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="19|##|rtl-tvi" xmltv_id="RTL TVI">RTL TVI</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="281|##|plug-rtl" xmltv_id="PLUG RTL">PLUG RTL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1873|##|ln24" xmltv_id="LN24">LN24</channel>
+  </channels>
+</site>
