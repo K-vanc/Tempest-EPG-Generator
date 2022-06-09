@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="programmatileorasis.gr_0">
+  <channels>
+    <channel site="programmatileorasis.gr_0" site_id="/free/18/ΕΡΤ1" xmltv_id="[Free] ΕΡΤ1">[Free] ΕΡΤ1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/87/ΕΡΤ2" xmltv_id="[Free] ΕΡΤ2">[Free] ΕΡΤ2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/2/ANT1" xmltv_id="[Free] ANT1">[Free] ANT1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/3/STAR" xmltv_id="[Free] STAR">[Free] STAR</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/5/ALPHA" xmltv_id="[Free] ALPHA">[Free] ALPHA</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/7/ΣΚΑΪ" xmltv_id="[Free] ΣΚΑΪ">[Free] ΣΚΑΪ</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/1/MEGA" xmltv_id="[Free] MEGA">[Free] MEGA</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/99/Open Beyond" xmltv_id="[Free] Open Beyond">[Free] Open Beyond</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/6/ΕΡΤ3" xmltv_id="[Free] ΕΡΤ3">[Free] ΕΡΤ3</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/74/Nickelodeon" xmltv_id="[Free] Nickelodeon">[Free] Nickelodeon</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/122/Smile" xmltv_id="[Free] Smile">[Free] Smile</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/17/TV ΜΑΚΕΔΟΝΙΑ" xmltv_id="[Free] TV ΜΑΚΕΔΟΝΙΑ">[Free] TV ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/free/80/ΒΟΥΛΗ" xmltv_id="[Free] ΒΟΥΛΗ">[Free] ΒΟΥΛΗ</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/74/Nickelodeon" xmltv_id="[Nova] Nickelodeon">[Nova] Nickelodeon</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/20/Animal Planet" xmltv_id="[Nova] Animal Planet">[Nova] Animal Planet</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/43/Boomerang" xmltv_id="[Nova] Boomerang">[Nova] Boomerang</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/116/CNN" xmltv_id="[Nova] CNN">[Nova] CNN</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/21/Discovery Channel" xmltv_id="[Nova] Discovery Channel">[Nova] Discovery Channel</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/44/Disney Channel" xmltv_id="[Nova] Disney Channel">[Nova] Disney Channel</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/42/Disney XD" xmltv_id="[Nova] Disney XD">[Nova] Disney XD</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/106/E! Entertainment" xmltv_id="[Nova] E! Entertainment">[Nova] E! Entertainment</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/35/EuroSport1" xmltv_id="[Nova] EuroSport1">[Nova] EuroSport1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/36/EuroSport2" xmltv_id="[Nova] EuroSport2">[Nova] EuroSport2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/66/Euronews" xmltv_id="[Nova] Euronews">[Nova] Euronews</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/37/FOX" xmltv_id="[Nova] FOX">[Nova] FOX</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/65/FOXlife" xmltv_id="[Nova] FOXlife">[Nova] FOXlife</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/19/MAD" xmltv_id="[Nova] MAD">[Nova] MAD</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/16/MTV" xmltv_id="[Nova] MTV">[Nova] MTV</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/114/MTV Hits" xmltv_id="[Nova] MTV Hits">[Nova] MTV Hits</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/113/MTV Live" xmltv_id="[Nova] MTV Live">[Nova] MTV Live</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/111/Mad GREEKZ" xmltv_id="[Nova] Mad GREEKZ">[Nova] Mad GREEKZ</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/52/Nat Geo Wild" xmltv_id="[Nova] Nat Geo Wild">[Nova] Nat Geo Wild</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/109/National Geographic HD" xmltv_id="[Nova] National Geographic HD">[Nova] National Geographic HD</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/24/NovaCinema1" xmltv_id="[Nova] NovaCinema1">[Nova] NovaCinema1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/25/NovaCinema2" xmltv_id="[Nova] NovaCinema2">[Nova] NovaCinema2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/33/NovaCinema3" xmltv_id="[Nova] NovaCinema3">[Nova] NovaCinema3</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/104/NovaCinema4" xmltv_id="[Nova] NovaCinema4">[Nova] NovaCinema4</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/115/Novalife" xmltv_id="[Nova] Novalife">[Nova] Novalife</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/34/The History Channel" xmltv_id="[Nova] The History Channel">[Nova] The History Channel</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/23/Travel Channel" xmltv_id="[Nova] Travel Channel">[Nova] Travel Channel</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/27/NovaSports1" xmltv_id="[Nova] NovaSports1">[Nova] NovaSports1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/28/NovaSports2" xmltv_id="[Nova] NovaSports2">[Nova] NovaSports2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/29/NovaSports3" xmltv_id="[Nova] NovaSports3">[Nova] NovaSports3</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/30/NovaSports4" xmltv_id="[Nova] NovaSports4">[Nova] NovaSports4</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/nova/31/NovaSports5" xmltv_id="[Nova] NovaSports5">[Nova] NovaSports5</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/74/Nickelodeon" xmltv_id="[Cosmote] Nickelodeon">[Cosmote] Nickelodeon</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/50/Al Jazeera" xmltv_id="[Cosmote] Al Jazeera">[Cosmote] Al Jazeera</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/78/BBC World News" xmltv_id="[Cosmote] BBC World News">[Cosmote] BBC World News</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/58/Bloomberg" xmltv_id="[Cosmote] Bloomberg">[Cosmote] Bloomberg</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/117/CBS Reality" xmltv_id="[Cosmote] CBS Reality">[Cosmote] CBS Reality</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/81/CNBC" xmltv_id="[Cosmote] CNBC">[Cosmote] CNBC</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/83/Cosmote Cinema 1" xmltv_id="[Cosmote] Cosmote Cinema 1">[Cosmote] Cosmote Cinema 1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/95/Cosmote Cinema 2" xmltv_id="[Cosmote] Cosmote Cinema 2">[Cosmote] Cosmote Cinema 2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/96/Cosmote Cinema 3" xmltv_id="[Cosmote] Cosmote Cinema 3">[Cosmote] Cosmote Cinema 3</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/97/Cosmote Cinema 4" xmltv_id="[Cosmote] Cosmote Cinema 4">[Cosmote] Cosmote Cinema 4</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/98/Cosmote History" xmltv_id="[Cosmote] Cosmote History">[Cosmote] Cosmote History</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/68/Cosmote Sport 1" xmltv_id="[Cosmote] Cosmote Sport 1">[Cosmote] Cosmote Sport 1</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/56/Cosmote Sport 2" xmltv_id="[Cosmote] Cosmote Sport 2">[Cosmote] Cosmote Sport 2</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/69/Cosmote Sport 3" xmltv_id="[Cosmote] Cosmote Sport 3">[Cosmote] Cosmote Sport 3</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/92/Cosmote Sport 4" xmltv_id="[Cosmote] Cosmote Sport 4">[Cosmote] Cosmote Sport 4</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/93/Cosmote Sport 5" xmltv_id="[Cosmote] Cosmote Sport 5">[Cosmote] Cosmote Sport 5</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/94/Cosmote Sport 6" xmltv_id="[Cosmote] Cosmote Sport 6">[Cosmote] Cosmote Sport 6</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/61/Deutsche Welle" xmltv_id="[Cosmote] Deutsche Welle">[Cosmote] Deutsche Welle</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/66/Euronews" xmltv_id="[Cosmote] Euronews">[Cosmote] Euronews</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/37/FOX" xmltv_id="[Cosmote] FOX">[Cosmote] FOX</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/65/FOXlife" xmltv_id="[Cosmote] FOXlife">[Cosmote] FOXlife</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/48/Fashion TV" xmltv_id="[Cosmote] Fashion TV">[Cosmote] Fashion TV</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/60/France 24 Fr" xmltv_id="[Cosmote] France 24 Fr">[Cosmote] France 24 Fr</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/76/MAD Hits" xmltv_id="[Cosmote] MAD Hits">[Cosmote] MAD Hits</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/52/Nat Geo Wild" xmltv_id="[Cosmote] Nat Geo Wild">[Cosmote] Nat Geo Wild</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/77/TLC" xmltv_id="[Cosmote] TLC">[Cosmote] TLC</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/86/Village Cinema" xmltv_id="[Cosmote] Village Cinema">[Cosmote] Village Cinema</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/84/iConcerts HD" xmltv_id="[Cosmote] iConcerts HD">[Cosmote] iConcerts HD</channel>
+    <channel site="programmatileorasis.gr_0" site_id="/otetv/80/ΒΟΥΛΗ" xmltv_id="[Cosmote] ΒΟΥΛΗ">[Cosmote] ΒΟΥΛΗ</channel>
+  </channels>
+</site>
