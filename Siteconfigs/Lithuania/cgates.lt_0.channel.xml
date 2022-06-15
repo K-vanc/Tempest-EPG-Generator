@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="cgates.lt_0">
+  <channels>
+    <channel site="cgates.lt_0" site_id="lrt-televizija-hd/||2017/10/logo-lrt-tv-hd-spot.png" xmltv_id="LRT Televizija HD">LRT Televizija HD</channel>
+    <channel site="cgates.lt_0" site_id="lrt-kultura-hd/||2017/10/logo-lrt-plius-hd-spot-1.png" xmltv_id="LRT Plius HD">LRT Plius HD</channel>
+    <channel site="cgates.lt_0" site_id="tv3-hd/||2018/01/logo-tv3-hd-spot-2.png.webp" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel site="cgates.lt_0" site_id="tv6-hd/||2018/01/logo-tv6-hd-spot-1.png.webp" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel site="cgates.lt_0" site_id="tv8-hd/||2018/05/logo-tv8-hd-spot-1.png.webp" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="cgates.lt_0" site_id="lnk-hd/||2018/11/logo-lnk-hd-spot.png.webp" xmltv_id="LNK HD">LNK HD</channel>
+    <channel site="cgates.lt_0" site_id="btv-hd/||2018/11/logo-btv-hd-spot.png.webp" xmltv_id="BTV HD">BTV HD</channel>
+    <channel site="cgates.lt_0" site_id="info-tv-hd/||2018/11/logo-info-tv-hd-spot.png.webp" xmltv_id="Info TV HD">Info TV HD</channel>
+    <channel site="cgates.lt_0" site_id="tv1-hd/||2018/11/logo-tv1-hd-spot.png.webp" xmltv_id="TV1 HD">TV1 HD</channel>
+    <channel site="cgates.lt_0" site_id="lietuvos-ryto-tv-hd/||2018/01/logo-lrtv-hd-spot.png.webp" xmltv_id="Lietuvos ryto TV HD">Lietuvos ryto TV HD</channel>
+    <channel site="cgates.lt_0" site_id="delfi-tv-hd/||2020/02/logo-delfi-tv-hd-spot-1.png" xmltv_id="Delfi TV HD">Delfi TV HD</channel>
+    <channel site="cgates.lt_0" site_id="balticum-tv/||2017/10/logo-balticum.png.webp" xmltv_id="Balticum TV">Balticum TV</channel>
+    <channel site="cgates.lt_0" site_id="lrt-lituanica/||2017/10/logo-lrt-lituanica-1.png" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
+    <channel site="cgates.lt_0" site_id="seimas-tiesiogiai/||2017/10/logo-seimas-tiesiogiai.png.webp" xmltv_id="Seimas tiesiogiai">Seimas tiesiogiai</channel>
+    <channel site="cgates.lt_0" site_id="dzukijos-tv/||2017/10/logo-dzukijos-tv.png.webp" xmltv_id="Dzūkijos TV">Dzūkijos TV</channel>
+    <channel site="cgates.lt_0" site_id="marijampoles-tv/||2017/10/logo-marijampoles-tv.png.webp" xmltv_id="Marijampolės TV">Marijampolės TV</channel>
+    <channel site="cgates.lt_0" site_id="siauliu-televizija/||2017/10/logo-siauliu-televizija.png.webp" xmltv_id="Šiaulių televizija">Šiaulių televizija</channel>
+    <channel site="cgates.lt_0" site_id="geru-naujienu-televizija/||2017/10/logo-gntv.png.webp" xmltv_id="Gerų naujienų televizija">Gerų naujienų televizija</channel>
+    <channel site="cgates.lt_0" site_id="tv7/||2017/10/logo-tv7.png.webp" xmltv_id="TV7">TV7</channel>
+    <channel site="cgates.lt_0" site_id="2tv/||2017/10/logo-2tv.png" xmltv_id="2TV">2TV</channel>
+    <channel site="cgates.lt_0" site_id="tv3-plus-hd/||2022/06/logo-tv3-plus-hd-spot.png" xmltv_id="TV3 Plus HD">TV3 Plus HD</channel>
+    <channel site="cgates.lt_0" site_id="star-family/||2022/03/logo-star-family.png" xmltv_id="Star Family">Star Family</channel>
+    <channel site="cgates.lt_0" site_id="star-cinema/||2022/03/logo-star-cinema.png" xmltv_id="Star Cinema">Star Cinema</channel>
+    <channel site="cgates.lt_0" site_id="fox-hd/||2017/10/logo-fox-hd-1.png.webp" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="cgates.lt_0" site_id="fox-life/||2017/10/logo-fox-life.png.webp" xmltv_id="FOX Life">FOX Life</channel>
+    <channel site="cgates.lt_0" site_id="sony-channel-hd/||2017/10/logo-duo-3-hd-spot.png" xmltv_id="Duo 3 HD">Duo 3 HD</channel>
+    <channel site="cgates.lt_0" site_id="duo-7/||2017/10/logo-kanal7.png" xmltv_id="Kanal 7">Kanal 7</channel>
+    <channel site="cgates.lt_0" site_id="balticum-auksinis/||2017/10/logo-balticum-auksinis.png.webp" xmltv_id="Balticum Auksinis">Balticum Auksinis</channel>
+    <channel site="cgates.lt_0" site_id="vip-comedy/||2017/10/logo-vip-comedy.png.webp" xmltv_id="ViP Comedy">ViP Comedy</channel>
+    <channel site="cgates.lt_0" site_id="film-ua-drama/||2022/03/logo-filmuadrama.png" xmltv_id="Film UA Drama">Film UA Drama</channel>
+    <channel site="cgates.lt_0" site_id="docubox-hd/||2022/03/logo-docubox-hd-spot.png" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel site="cgates.lt_0" site_id="discovery-channel-hd/||2021/01/logo-discovery-hd-spot.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="cgates.lt_0" site_id="id-xtra-hd/||2017/10/logo-id-hd-spot.png" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel site="cgates.lt_0" site_id="tlc/||2017/10/logo-tlc.png.webp" xmltv_id="TLC">TLC</channel>
+    <channel site="cgates.lt_0" site_id="national-geographic-hd/||2017/10/logo-nat-geo-hd.png.webp" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="cgates.lt_0" site_id="animal-planet-hd/||2017/10/logo-animal-planet-hd-spot.png.webp" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="cgates.lt_0" site_id="travel-channel-hd/||2017/10/logo-travel-channel-hd.png.webp" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="cgates.lt_0" site_id="viasat-history/||2017/10/logo-viasat-history-hd-spot-1.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="cgates.lt_0" site_id="eurosport-1-hd/||2017/10/logo-eurosport-1-hd-spot.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="cgates.lt_0" site_id="eurosport-2-hd/||2017/10/logo-eurosport-2-hd-spot.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="cgates.lt_0" site_id="tv3-sport-open-hd/||2021/01/logo-tv3-sport-open-hd-spot.png" xmltv_id="TV3 Sport Open HD">TV3 Sport Open HD</channel>
+    <channel site="cgates.lt_0" site_id="sport-1-hd/||2017/10/logo-sport1-hd.png.webp" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="cgates.lt_0" site_id="quiz-tv/||2022/05/logo-quiz-tv.png" xmltv_id="Quiz TV">Quiz TV</channel>
+    <channel site="cgates.lt_0" site_id="mtv-live-hd/||2017/10/logo-mtv-live-hd-spot.png.webp" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="cgates.lt_0" site_id="mezzo/||2017/10/logo-mezzo.png.webp" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="cgates.lt_0" site_id="luxe-tv-hd/||2017/10/logo-luxe-tv.png.webp" xmltv_id="Luxe.TV HD">Luxe.TV HD</channel>
+    <channel site="cgates.lt_0" site_id="hgtv-hd/||2020/10/logo-hgtv-hd-spot.png" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="cgates.lt_0" site_id="fashion-tv/||2017/10/logo-fashion-tv.png.webp" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="cgates.lt_0" site_id="food-network/||2017/10/logo-food-networks.png.webp" xmltv_id="Food Network">Food Network</channel>
+    <channel site="cgates.lt_0" site_id="nickelodeon/||2017/10/logo-nickelodeon.png.webp" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="cgates.lt_0" site_id="nick-toons/||2017/10/logo-nick-toons.png.webp" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel site="cgates.lt_0" site_id="nick-jr/||2017/10/logo-nick-jr.png.webp" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="cgates.lt_0" site_id="cartoon-network/||2017/10/logo-cartoon-network.png.webp" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="cgates.lt_0" site_id="kidzone-tv/||2017/10/logo-kidzone-tv-2.png" xmltv_id="KidZone TV">KidZone TV</channel>
+    <channel site="cgates.lt_0" site_id="smartzone-hd/||2018/02/logo-smartzone-hd-spot.png.webp" xmltv_id="Smartzone HD">Smartzone HD</channel>
+    <channel site="cgates.lt_0" site_id="rtv-international/||2017/10/logo-rtvi.png.webp" xmltv_id="RTV International">RTV International</channel>
+    <channel site="cgates.lt_0" site_id="nastojashcheje-vremya/||2017/10/logo-nv.png.webp" xmltv_id="Nastojashcheje Vremya">Nastojashcheje Vremya</channel>
+    <channel site="cgates.lt_0" site_id="cnn-international/||2017/10/logo-cnn-1.png.webp" xmltv_id="CNN International">CNN International</channel>
+    <channel site="cgates.lt_0" site_id="bbc-world-news/||2017/10/logo-bbc-world-news.png.webp" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="cgates.lt_0" site_id="bloomberg-television/||2017/10/logo-bloomberg.png.webp" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
+    <channel site="cgates.lt_0" site_id="cnbc-europe/||2017/10/logo-cnbc-europe.png.webp" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="cgates.lt_0" site_id="euronews/||2017/10/logo-euronews-hd-spot.png.webp" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel site="cgates.lt_0" site_id="euronews-2/||2018/08/logo-euronews-ru-1.png.webp" xmltv_id="Euronews RU">Euronews RU</channel>
+    <channel site="cgates.lt_0" site_id="tvp-polonia/||2017/10/logo-tvp-polonia-1.png" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="cgates.lt_0" site_id="rtl/||2017/10/logo-rtl-1.png" xmltv_id="RTL">RTL</channel>
+    <channel site="cgates.lt_0" site_id="deutsche-welle/||2017/10/logo-dw.png.webp" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel site="cgates.lt_0" site_id="fox/||2017/10/logo-fox.png.webp" xmltv_id="FOX">FOX</channel>
+    <channel site="cgates.lt_0" site_id="sony-turbo-hd/||2017/10/logo-duo-6-hd-spot.png" xmltv_id="Duo 6 HD">Duo 6 HD</channel>
+    <channel site="cgates.lt_0" site_id="balticum-platinum-hd/||2017/10/logo-balticum-platinum-hd.png.webp" xmltv_id="Balticum Platinum HD">Balticum Platinum HD</channel>
+    <channel site="cgates.lt_0" site_id="filmzone-hd/||2017/10/logo-filmzone-plus-hd.png.webp" xmltv_id="FilmZone+ HD">FilmZone+ HD</channel>
+    <channel site="cgates.lt_0" site_id="filmzone/||2017/10/logo-filmzone.png.webp" xmltv_id="FilmZone">FilmZone</channel>
+    <channel site="cgates.lt_0" site_id="filmbox/||2018/12/logo-filmbox.png.webp" xmltv_id="FilmBox">FilmBox</channel>
+    <channel site="cgates.lt_0" site_id="filmbox-arthouse/||2018/12/logo-filmbox-arthouse.png.webp" xmltv_id="FilmBox ArtHouse">FilmBox ArtHouse</channel>
+    <channel site="cgates.lt_0" site_id="epic-drama-hd/||2019/11/logo-epic-drama-hd-spot.png.webp" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel site="cgates.lt_0" site_id="eurochannel/||2017/10/logo-eurochannel.png.webp" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel site="cgates.lt_0" site_id="bolt/||2022/03/logo-bolt.png" xmltv_id="Bolt">Bolt</channel>
+    <channel site="cgates.lt_0" site_id="tv-1000-premium-hd/||2019/02/logo-tv3-film-hd-spot.png.webp" xmltv_id="TV3 Film HD">TV3 Film HD</channel>
+    <channel site="cgates.lt_0" site_id="tv-1000/||2017/10/logo-tv1000-1.png" xmltv_id="TV 1000">TV 1000</channel>
+    <channel site="cgates.lt_0" site_id="tv-1000-world-kino/||2017/10/logo-tv1000-world-kino.png" xmltv_id="TV 1000 World Kino">TV 1000 World Kino</channel>
+    <channel site="cgates.lt_0" site_id="tv-1000-action/||2017/10/logo-tv1000-action-1.png" xmltv_id="TV 1000 Action">TV 1000 Action</channel>
+    <channel site="cgates.lt_0" site_id="discovery-science-hd/||2017/10/logo-discovery-science-hd-spot.png.webp" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel site="cgates.lt_0" site_id="dtx-hd/||2017/10/logo-dtx-hd.png.webp" xmltv_id="DTX HD">DTX HD</channel>
+    <channel site="cgates.lt_0" site_id="national-geographic-channel/||2017/10/logo-nat-geo.png.webp" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel site="cgates.lt_0" site_id="viasat-explore/||2017/10/logo-viasat-explore-hd-spot-1.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="cgates.lt_0" site_id="viasat-nature/||2017/10/logo-viasat-nature-hd-spot-1.png" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="cgates.lt_0" site_id="dacha/||2022/03/logo-dacha.png" xmltv_id="Dacha">Dacha</channel>
+    <channel site="cgates.lt_0" site_id="kus-kus/||2022/03/logo-kus-kus.png" xmltv_id="Kus-Kus">Kus-Kus</channel>
+    <channel site="cgates.lt_0" site_id="setanta-sports-hd/||2017/10/logo-setanta-sports-1-hd-spot.png" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel site="cgates.lt_0" site_id="fight-sports-hd/||2017/10/logo-fight-sports-hd.png.webp" xmltv_id="Fight Sports HD">Fight Sports HD</channel>
+    <channel site="cgates.lt_0" site_id="extreme-sports/||2017/10/logo-extreme-sports.png.webp" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel site="cgates.lt_0" site_id="fastfun-box-hd/||2017/10/logo-fast-and-fun-box-hd-spot.png.webp" xmltv_id="Fast&amp;Fun Box HD">Fast&amp;Fun Box HD</channel>
+    <channel site="cgates.lt_0" site_id="game-toon-hd/||2019/11/logo-game-toon-hd-spot.png.webp" xmltv_id="Game Toon HD">Game Toon HD</channel>
+    <channel site="cgates.lt_0" site_id="mtv-hits/||2017/10/logo-mtv-hits.png.webp" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="cgates.lt_0" site_id="vh1/||2017/10/logo-mtv-00s.png" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="cgates.lt_0" site_id="boomerang/||2017/10/logo-boomerang.png.webp" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="cgates.lt_0" site_id="kidzone-plus-hd/||2017/10/logo-kidzone-mini-hd-spot.png" xmltv_id="KidZone Mini HD">KidZone Mini HD</channel>
+    <channel site="cgates.lt_0" site_id="arirang-tv/||2017/10/logo-arirang.png.webp" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="cgates.lt_0" site_id="tvp-info/||2017/12/logo-tvp-info.png.webp" xmltv_id="TVP Info">TVP Info</channel>
+    <channel site="cgates.lt_0" site_id="tvp-wilno/||2020/10/logo-tvp-wilno.png" xmltv_id="TVP Wilno">TVP Wilno</channel>
+    <channel site="cgates.lt_0" site_id="inter-plus/||2022/03/logo-inter.png" xmltv_id="Inter+">Inter+</channel>
+    <channel site="cgates.lt_0" site_id="1plus1/||2022/03/logo-11.png" xmltv_id="1+1">1+1</channel>
+    <channel site="cgates.lt_0" site_id="ukraine-24/||2017/10/logo-ukraine24.png.webp" xmltv_id="Ukraine 24">Ukraine 24</channel>
+    <channel site="cgates.lt_0" site_id="france-24/||2017/10/logo-france24-1.png.webp" xmltv_id="France 24">France 24</channel>
+    <channel site="cgates.lt_0" site_id="blue-hustler/||2017/10/logo-blue-hustler.png.webp" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel site="cgates.lt_0" site_id="zvaigzde-tv/||2017/10/logo-zvaigzde-tv.png.webp" xmltv_id="Žvaigždė.TV">Žvaigždė.TV</channel>
+    <channel site="cgates.lt_0" site_id="viasat-sport-baltic-hd/||2018/07/logo-tv3-sport-hd-spot.png.webp" xmltv_id="TV3 Sport HD">TV3 Sport HD</channel>
+    <channel site="cgates.lt_0" site_id="tvplay-sports-plus-hd/||2018/10/logo-tv3-sport-2-hd-spot.png.webp" xmltv_id="TV3 Sport 2 HD">TV3 Sport 2 HD</channel>
+    <channel site="cgates.lt_0" site_id="amc/||2017/10/logo-amc.png.webp" xmltv_id="AMC">AMC</channel>
+    <channel site="cgates.lt_0" site_id="nat-geo-wild/||2017/10/logo-nat-geo-wild.png.webp" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="cgates.lt_0" site_id="history-channel-hd/||2017/10/logo-history-channel-hd.png.webp" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel site="cgates.lt_0" site_id="cbs-reality/||2017/10/logo-cbs-reality.png.webp" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="cgates.lt_0" site_id="playboy-tv/||2017/10/logo-playboy-tv.png.webp" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="cgates.lt_0" site_id="vivid-touch/||2021/05/logo-vivid-touch.png" xmltv_id="Vivid Touch">Vivid Touch</channel>
+    <channel site="cgates.lt_0" site_id="jim-jam/||2017/10/logo-jimjam.png.webp" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel site="cgates.lt_0" site_id="da-vinci-learning/||2017/10/logo-da-vinci-learning.png.webp" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel site="cgates.lt_0" site_id="tiji/||2021/01/logo-tiji.png" xmltv_id="Tiji">Tiji</channel>
+    <channel site="cgates.lt_0" site_id="gulli-girl/||2021/01/logo-gulli-girl.png" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel site="cgates.lt_0" site_id="baby-tv/||2017/10/logo-baby-tv.png.webp" xmltv_id="Baby TV">Baby TV</channel>
+  </channels>
+</site>
