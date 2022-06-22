@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]ontvtonight.com[AU]_0">
+  <channels>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1990/abc-tv" xmltv_id="[Free TV] ABC TV">[Free TV] ABC TV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2984/abc-tv-hd" xmltv_id="[Free TV] ABC TV HD">[Free TV] ABC TV HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2043/abc-kids-abc-tv-plus" xmltv_id="[Free TV] ABC Kids / ABC TV Plus">[Free TV] ABC Kids / ABC TV Plus</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2096/abc-me" xmltv_id="[Free TV] ABC ME">[Free TV] ABC ME</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2149/abc-news" xmltv_id="[Free TV] ABC NEWS">[Free TV] ABC NEWS</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1639/seven" xmltv_id="[Free TV] Seven">[Free TV] Seven</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2890/7-hd" xmltv_id="[Free TV] 7 HD">[Free TV] 7 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1679/7two" xmltv_id="[Free TV] 7TWO">[Free TV] 7TWO</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1732/7mate" xmltv_id="[Free TV] 7mate">[Free TV] 7mate</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2773/7flix" xmltv_id="[Free TV] 7flix">[Free TV] 7flix</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1761/nine" xmltv_id="[Free TV] Nine">[Free TV] Nine</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2749/9-hd" xmltv_id="[Free TV] 9 HD">[Free TV] 9 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1849/gem" xmltv_id="[Free TV] GEM">[Free TV] GEM</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1796/go" xmltv_id="[Free TV] GO">[Free TV] GO</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2730/9life" xmltv_id="[Free TV] 9Life">[Free TV] 9Life</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|3326/9rush" xmltv_id="[Free TV] 9Rush">[Free TV] 9Rush</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1899/10" xmltv_id="[Free TV] 10">[Free TV] 10</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|1937/10-peach" xmltv_id="[Free TV] 10 Peach">[Free TV] 10 Peach</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2439/10-bold" xmltv_id="[Free TV] 10 Bold">[Free TV] 10 Bold</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|3346/10-shake" xmltv_id="[Free TV] 10 Shake">[Free TV] 10 Shake</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2795/10-hd" xmltv_id="[Free TV] 10 HD">[Free TV] 10 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2490/tvsn" xmltv_id="[Free TV] TVSN">[Free TV] TVSN</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2627/spreetv" xmltv_id="[Free TV] SpreeTV">[Free TV] SpreeTV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2333/sbs-one" xmltv_id="[Free TV] SBS One">[Free TV] SBS One</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2598/sbs-hd" xmltv_id="[Free TV] SBS HD">[Free TV] SBS HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|3040/viceland-hd" xmltv_id="[Free TV] Viceland HD">[Free TV] Viceland HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2386/sbs-world-movies" xmltv_id="[Free TV] SBS World Movies">[Free TV] SBS World Movies</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2682/sbs-food" xmltv_id="[Free TV] SBS Food">[Free TV] SBS Food</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2545/nitv" xmltv_id="[Free TV] NITV">[Free TV] NITV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|3457/sbs-worldwatch" xmltv_id="[Free TV] SBS WorldWatch">[Free TV] SBS WorldWatch</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="o|##|2865/racingcom" xmltv_id="[Free TV] RACING.COM">[Free TV] RACING.COM</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3431/dreamworks" xmltv_id="[Free TV + Pay TV] DreamWorks">[Free TV + Pay TV] DreamWorks</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3321/fox-one" xmltv_id="[Free TV + Pay TV] FOX One">[Free TV + Pay TV] FOX One</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3318/fox-one-hd" xmltv_id="[Free TV + Pay TV] FOX One HD">[Free TV + Pay TV] FOX One HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3322/fox-scifi-hd" xmltv_id="[Free TV + Pay TV] FOX SciFi HD">[Free TV + Pay TV] FOX SciFi HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3323/fox-sleuth-hd" xmltv_id="[Free TV + Pay TV] FOX Sleuth HD">[Free TV + Pay TV] FOX Sleuth HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3345/lmn-hd" xmltv_id="[Free TV + Pay TV] LMN HD">[Free TV + Pay TV] LMN HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3432/pbs-kids" xmltv_id="[Free TV + Pay TV] PBS Kids">[Free TV + Pay TV] PBS Kids</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1990/abc-tv" xmltv_id="[Free TV + Pay TV] ABC TV">[Free TV + Pay TV] ABC TV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2984/abc-tv-hd" xmltv_id="[Free TV + Pay TV] ABC TV HD">[Free TV + Pay TV] ABC TV HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2043/abc-kids-abc-tv-plus" xmltv_id="[Free TV + Pay TV] ABC Kids / ABC TV Plus">[Free TV + Pay TV] ABC Kids / ABC TV Plus</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2096/abc-me" xmltv_id="[Free TV + Pay TV] ABC ME">[Free TV + Pay TV] ABC ME</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2149/abc-news" xmltv_id="[Free TV + Pay TV] ABC NEWS">[Free TV + Pay TV] ABC NEWS</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1639/seven" xmltv_id="[Free TV + Pay TV] Seven">[Free TV + Pay TV] Seven</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2890/7-hd" xmltv_id="[Free TV + Pay TV] 7 HD">[Free TV + Pay TV] 7 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1679/7two" xmltv_id="[Free TV + Pay TV] 7TWO">[Free TV + Pay TV] 7TWO</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1732/7mate" xmltv_id="[Free TV + Pay TV] 7mate">[Free TV + Pay TV] 7mate</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2773/7flix" xmltv_id="[Free TV + Pay TV] 7flix">[Free TV + Pay TV] 7flix</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1761/nine" xmltv_id="[Free TV + Pay TV] Nine">[Free TV + Pay TV] Nine</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2749/9-hd" xmltv_id="[Free TV + Pay TV] 9 HD">[Free TV + Pay TV] 9 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1849/gem" xmltv_id="[Free TV + Pay TV] GEM">[Free TV + Pay TV] GEM</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1796/go" xmltv_id="[Free TV + Pay TV] GO">[Free TV + Pay TV] GO</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2730/9life" xmltv_id="[Free TV + Pay TV] 9Life">[Free TV + Pay TV] 9Life</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3326/9rush" xmltv_id="[Free TV + Pay TV] 9Rush">[Free TV + Pay TV] 9Rush</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1899/10" xmltv_id="[Free TV + Pay TV] 10">[Free TV + Pay TV] 10</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|1937/10-peach" xmltv_id="[Free TV + Pay TV] 10 Peach">[Free TV + Pay TV] 10 Peach</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2439/10-bold" xmltv_id="[Free TV + Pay TV] 10 Bold">[Free TV + Pay TV] 10 Bold</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3346/10-shake" xmltv_id="[Free TV + Pay TV] 10 Shake">[Free TV + Pay TV] 10 Shake</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2795/10-hd" xmltv_id="[Free TV + Pay TV] 10 HD">[Free TV + Pay TV] 10 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2490/tvsn" xmltv_id="[Free TV + Pay TV] TVSN">[Free TV + Pay TV] TVSN</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2627/spreetv" xmltv_id="[Free TV + Pay TV] SpreeTV">[Free TV + Pay TV] SpreeTV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2333/sbs-one" xmltv_id="[Free TV + Pay TV] SBS One">[Free TV + Pay TV] SBS One</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2598/sbs-hd" xmltv_id="[Free TV + Pay TV] SBS HD">[Free TV + Pay TV] SBS HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3040/viceland-hd" xmltv_id="[Free TV + Pay TV] Viceland HD">[Free TV + Pay TV] Viceland HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2386/sbs-world-movies" xmltv_id="[Free TV + Pay TV] SBS World Movies">[Free TV + Pay TV] SBS World Movies</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2682/sbs-food" xmltv_id="[Free TV + Pay TV] SBS Food">[Free TV + Pay TV] SBS Food</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2545/nitv" xmltv_id="[Free TV + Pay TV] NITV">[Free TV + Pay TV] NITV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3457/sbs-worldwatch" xmltv_id="[Free TV + Pay TV] SBS WorldWatch">[Free TV + Pay TV] SBS WorldWatch</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3242/foxtel-movies-action" xmltv_id="[Free TV + Pay TV] Foxtel Movies Action">[Free TV + Pay TV] Foxtel Movies Action</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3144/foxtel-movies-action-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Action HD">[Free TV + Pay TV] Foxtel Movies Action HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3198/foxtel-movies-comedy-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Comedy HD">[Free TV + Pay TV] Foxtel Movies Comedy HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3244/foxtel-movies-family" xmltv_id="[Free TV + Pay TV] Foxtel Movies Family">[Free TV + Pay TV] Foxtel Movies Family</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3202/foxtel-movies-family-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Family HD">[Free TV + Pay TV] Foxtel Movies Family HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3272/foxtel-movies-greats" xmltv_id="[Free TV + Pay TV] Foxtel Movies Greats">[Free TV + Pay TV] Foxtel Movies Greats</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3270/foxtel-movies-greats-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Greats HD">[Free TV + Pay TV] Foxtel Movies Greats HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3243/fox-showcase" xmltv_id="[Free TV + Pay TV] FOX Showcase">[Free TV + Pay TV] FOX Showcase</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3212/fox-showcase-hd" xmltv_id="[Free TV + Pay TV] FOX SHOWCASE HD">[Free TV + Pay TV] FOX SHOWCASE HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3241/foxtel-movies-drama" xmltv_id="[Free TV + Pay TV] Foxtel Movies Drama">[Free TV + Pay TV] Foxtel Movies Drama</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3201/foxtel-movies-drama-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Drama HD">[Free TV + Pay TV] Foxtel Movies Drama HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3224/premiere" xmltv_id="[Free TV + Pay TV] Premiere">[Free TV + Pay TV] Premiere</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3215/foxtel-movies-premiere-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Premiere HD">[Free TV + Pay TV] Foxtel Movies Premiere HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3222/foxtel-movies-romance" xmltv_id="[Free TV + Pay TV] Foxtel Movies Romance">[Free TV + Pay TV] Foxtel Movies Romance</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3199/foxtel-movies-romance-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Romance HD">[Free TV + Pay TV] Foxtel Movies Romance HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3200/foxtel-movies-thriller-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Thriller HD">[Free TV + Pay TV] Foxtel Movies Thriller HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3245/foxtel-movies-thriller" xmltv_id="[Free TV + Pay TV] Foxtel Movies Thriller">[Free TV + Pay TV] Foxtel Movies Thriller</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3324/foxtel-movies-ultra-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Ultra HD">[Free TV + Pay TV] Foxtel Movies Ultra HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3320/foxtel-movies-kids-hd" xmltv_id="[Free TV + Pay TV] Foxtel Movies Kids HD">[Free TV + Pay TV] Foxtel Movies Kids HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3188/fox-sports-news" xmltv_id="[Free TV + Pay TV] FOX SPORTS News">[Free TV + Pay TV] FOX SPORTS News</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3178/espn" xmltv_id="[Free TV + Pay TV] ESPN">[Free TV + Pay TV] ESPN</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3226/espn-hd" xmltv_id="[Free TV + Pay TV] ESPN HD">[Free TV + Pay TV] ESPN HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|2865/racingcom" xmltv_id="[Free TV + Pay TV] RACING.COM">[Free TV + Pay TV] RACING.COM</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3192/fox-comedy" xmltv_id="[Free TV + Pay TV] FOX Comedy">[Free TV + Pay TV] FOX Comedy</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3240/ae" xmltv_id="[Free TV + Pay TV] A&amp;E">[Free TV + Pay TV] A&amp;E</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3150/ae-hd" xmltv_id="[Free TV + Pay TV] A&amp;E HD">[Free TV + Pay TV] A&amp;E HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3149/acc" xmltv_id="[Free TV + Pay TV] ACC">[Free TV + Pay TV] ACC</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3154/fox-arena" xmltv_id="[Free TV + Pay TV] FOX ARENA">[Free TV + Pay TV] FOX ARENA</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3252/bbc-first" xmltv_id="[Free TV + Pay TV] BBC First">[Free TV + Pay TV] BBC First</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3251/bbc-first-hd" xmltv_id="[Free TV + Pay TV] BBC First HD">[Free TV + Pay TV] BBC First HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3256/boxsets" xmltv_id="[Free TV + Pay TV] Boxsets">[Free TV + Pay TV] Boxsets</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3253/boxsets-hd" xmltv_id="[Free TV + Pay TV] Boxsets HD">[Free TV + Pay TV] Boxsets HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3319/fox-funny-hd" xmltv_id="[Free TV + Pay TV] FOX Funny HD">[Free TV + Pay TV] FOX Funny HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3179/e" xmltv_id="[Free TV + Pay TV] E!">[Free TV + Pay TV] E!</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3185/fox-classics" xmltv_id="[Free TV + Pay TV] FOX Classics">[Free TV + Pay TV] FOX Classics</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3182/fox8-hd" xmltv_id="[Free TV + Pay TV] FOX8 HD">[Free TV + Pay TV] FOX8 HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3203/mtv" xmltv_id="[Free TV + Pay TV] MTV">[Free TV + Pay TV] MTV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3257/fox-docos-hd" xmltv_id="[Free TV + Pay TV] FOX Docos HD">[Free TV + Pay TV] FOX Docos HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3234/fox-crime" xmltv_id="[Free TV + Pay TV] FOX Crime">[Free TV + Pay TV] FOX Crime</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3147/uktv" xmltv_id="[Free TV + Pay TV] UKTV">[Free TV + Pay TV] UKTV</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3191/universal-channel" xmltv_id="[Free TV + Pay TV] Universal Channel">[Free TV + Pay TV] Universal Channel</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3266/universal-hd" xmltv_id="[Free TV + Pay TV] Universal HD">[Free TV + Pay TV] Universal HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3152/animal-planet" xmltv_id="[Free TV + Pay TV] Animal Planet">[Free TV + Pay TV] Animal Planet</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3159/bbc-earth-hd" xmltv_id="[Free TV + Pay TV] BBC Earth HD">[Free TV + Pay TV] BBC Earth HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3157/bbc-world-news" xmltv_id="[Free TV + Pay TV] BBC World News">[Free TV + Pay TV] BBC World News</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3166/cnbc" xmltv_id="[Free TV + Pay TV] CNBC">[Free TV + Pay TV] CNBC</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3168/cnn" xmltv_id="[Free TV + Pay TV] CNN">[Free TV + Pay TV] CNN</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3164/crime-investigation-network" xmltv_id="[Free TV + Pay TV] Crime &amp; Investigation Network">[Free TV + Pay TV] Crime &amp; Investigation Network</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3325/investigation-discovery" xmltv_id="[Free TV + Pay TV] Investigation Discovery">[Free TV + Pay TV] Investigation Discovery</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3172/discovery-channel" xmltv_id="[Free TV + Pay TV] Discovery Channel">[Free TV + Pay TV] Discovery Channel</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3171/discovery-hd" xmltv_id="[Free TV + Pay TV] Discovery HD">[Free TV + Pay TV] Discovery HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3173/discovery-turbo" xmltv_id="[Free TV + Pay TV] Discovery Turbo">[Free TV + Pay TV] Discovery Turbo</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3186/fox-news" xmltv_id="[Free TV + Pay TV] FOX NEWS">[Free TV + Pay TV] FOX NEWS</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3193/the-history-channel" xmltv_id="[Free TV + Pay TV] The History Channel">[Free TV + Pay TV] The History Channel</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3196/lifestyle-channel" xmltv_id="[Free TV + Pay TV] Lifestyle Channel">[Free TV + Pay TV] Lifestyle Channel</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3195/lifestyle-hd" xmltv_id="[Free TV + Pay TV] Lifestyle HD">[Free TV + Pay TV] Lifestyle HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3187/lifestyle-food" xmltv_id="[Free TV + Pay TV] Lifestyle FOOD">[Free TV + Pay TV] Lifestyle FOOD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3194/lifestyle-home" xmltv_id="[Free TV + Pay TV] Lifestyle HOME">[Free TV + Pay TV] Lifestyle HOME</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3205/nat-geo" xmltv_id="[Free TV + Pay TV] Nat Geo">[Free TV + Pay TV] Nat Geo</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3204/nat-geo-hd" xmltv_id="[Free TV + Pay TV] Nat Geo HD">[Free TV + Pay TV] Nat Geo HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3232/nat-geo-wild" xmltv_id="[Free TV + Pay TV] Nat Geo Wild">[Free TV + Pay TV] Nat Geo Wild</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3208/nat-geo-wild-hd" xmltv_id="[Free TV + Pay TV] Nat Geo Wild HD">[Free TV + Pay TV] Nat Geo Wild HD</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3155/sky-news-extra" xmltv_id="[Free TV + Pay TV] Sky News Extra">[Free TV + Pay TV] Sky News Extra</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3214/sky-news-australia" xmltv_id="[Free TV + Pay TV] Sky News Australia">[Free TV + Pay TV] Sky News Australia</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3273/sky-news-uk" xmltv_id="[Free TV + Pay TV] Sky News UK">[Free TV + Pay TV] Sky News UK</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3176/tlc" xmltv_id="[Free TV + Pay TV] TLC">[Free TV + Pay TV] TLC</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3162/bbc-cbeebies" xmltv_id="[Free TV + Pay TV] BBC CBeebies">[Free TV + Pay TV] BBC CBeebies</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3161/boomerang" xmltv_id="[Free TV + Pay TV] BOOMERANG">[Free TV + Pay TV] BOOMERANG</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3167/cartoon-network" xmltv_id="[Free TV + Pay TV] CARTOON NETWORK">[Free TV + Pay TV] CARTOON NETWORK</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3206/nickelodeon" xmltv_id="[Free TV + Pay TV] Nickelodeon">[Free TV + Pay TV] Nickelodeon</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3207/nick-jr" xmltv_id="[Free TV + Pay TV] Nick Jr">[Free TV + Pay TV] Nick Jr</channel>
+    <channel site="[ENC]ontvtonight.com[AU]_0" site_id="a|##|3344/cmt" xmltv_id="[Free TV + Pay TV] CMT">[Free TV + Pay TV] CMT</channel>
+  </channels>
+</site>
