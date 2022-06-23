@@ -1,0 +1,38 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'wavve.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-06-23',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Seoul',
+  'culture' => 'ko',
+  'max_day' => '7.1',
+  'rating_system' => 'KCC',
+  'url1' => 'https://apis.pooq.co.kr/live/epgs/channels/##channel##?enddatetime=##stopdate1##%2000%3A00&limit=1000&offset=0&orderby=old&startdatetime=##urldate1##%2000%3A00&apikey=E5F3E0D30947AA5440556471321BB6D9&credential=none&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json',
+  'content_type1' => 'application/json; charset=utf-8',
+  'origin_header1' => 'https://www.wavve.com',
+  'urldate_format1' => 'Y-m-d',
+  'stopdate_format1' => 'Y-m-d',
+  'show' => '({\\s*"cpid".*?})',
+  'start' => '"starttime": "(.*?)"',
+  'start_format' => 'Y-m-d H#i',
+  'stop' => '"endtime": "(.*?)"',
+  'stop_format' => 'Y-m-d H#i',
+  'title' => '"title": "(.*?)",',
+  'showicon' => '"image": "(.*?)"||#addstart#https://',
+  'channel_logo' => '"channelimage":\\s*"(.*?)"||#addstart#https://',
+  'rating' => '"targetage": "(?!0)(\\d+)',
+  'ccurl1' => 'https://apis.pooq.co.kr/live/epgs?enddatetime=##urldate1##%2005%3A01&genre=all&limit=500&offset=0&startdatetime=##urldate1##%2005%3A00&apikey=E5F3E0D30947AA5440556471321BB6D9&credential=none&device=pc&drm=wm&partner=pooq&pooqzone=none&region=kor&targetage=all',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'application/json',
+  'cccontent_type1' => 'application/json; charset=utf-8',
+  'ccorigin_header1' => 'https://www.wavve.com',
+  'ccurldate_format1' => 'Y-m-d',
+  'ccchannel_id' => ' "channelid": "(.*?)"',
+  'ccchannel_name' => '"channelname": "(.*?)"',
+);
+?>
