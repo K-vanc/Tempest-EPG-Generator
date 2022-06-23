@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="wavve.com_0">
+  <channels>
+    <channel site="wavve.com_0" site_id="K01" xmltv_id="KBS 1TV">KBS 1TV</channel>
+    <channel site="wavve.com_0" site_id="K02" xmltv_id="KBS 2TV">KBS 2TV</channel>
+    <channel site="wavve.com_0" site_id="M01" xmltv_id="MBC">MBC</channel>
+    <channel site="wavve.com_0" site_id="S01" xmltv_id="SBS">SBS</channel>
+    <channel site="wavve.com_0" site_id="E01" xmltv_id="EBS 1">EBS 1</channel>
+    <channel site="wavve.com_0" site_id="C2601" xmltv_id="TV CHOSUN">TV CHOSUN</channel>
+    <channel site="wavve.com_0" site_id="C2501" xmltv_id="채널A">채널A</channel>
+    <channel site="wavve.com_0" site_id="S06" xmltv_id="SBS Biz">SBS Biz</channel>
+    <channel site="wavve.com_0" site_id="F4301" xmltv_id="머니투데이방송">머니투데이방송</channel>
+    <channel site="wavve.com_0" site_id="K12" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="wavve.com_0" site_id="K25" xmltv_id="CGTN">CGTN</channel>
+    <channel site="wavve.com_0" site_id="K124" xmltv_id="슈퍼맨이 돌아왔다">슈퍼맨이 돌아왔다</channel>
+    <channel site="wavve.com_0" site_id="PM1" xmltv_id="MBC 무한도전">MBC 무한도전</channel>
+    <channel site="wavve.com_0" site_id="PM2" xmltv_id="MBC 나 혼자 산다">MBC 나 혼자 산다</channel>
+    <channel site="wavve.com_0" site_id="M12" xmltv_id="MBC 라디오스타">MBC 라디오스타</channel>
+    <channel site="wavve.com_0" site_id="M13" xmltv_id="MBC 서프라이즈">MBC 서프라이즈</channel>
+    <channel site="wavve.com_0" site_id="M15" xmltv_id="MBC 하이킥24 LIVE">MBC 하이킥24 LIVE</channel>
+    <channel site="wavve.com_0" site_id="M16" xmltv_id="MBC 드라마정주행24 LIVE">MBC 드라마정주행24 LIVE</channel>
+    <channel site="wavve.com_0" site_id="M17" xmltv_id="MBC 예능정주행24 LIVE">MBC 예능정주행24 LIVE</channel>
+    <channel site="wavve.com_0" site_id="M10" xmltv_id="ALL THE K-POP">ALL THE K-POP</channel>
+    <channel site="wavve.com_0" site_id="S15" xmltv_id="TV동물농장">TV동물농장</channel>
+    <channel site="wavve.com_0" site_id="S26" xmltv_id="SBS Plus 사연 많은 채널">SBS Plus 사연 많은 채널</channel>
+    <channel site="wavve.com_0" site_id="S22" xmltv_id="SBS F!l">SBS F!l</channel>
+    <channel site="wavve.com_0" site_id="S09" xmltv_id="SBS MTV">SBS MTV</channel>
+    <channel site="wavve.com_0" site_id="C2502" xmltv_id="채널A 플러스">채널A 플러스</channel>
+    <channel site="wavve.com_0" site_id="C2602" xmltv_id="TV CHOSUN2">TV CHOSUN2</channel>
+    <channel site="wavve.com_0" site_id="C7301" xmltv_id="동아TV">동아TV</channel>
+    <channel site="wavve.com_0" site_id="C6901" xmltv_id="폴라리스TV">폴라리스TV</channel>
+    <channel site="wavve.com_0" site_id="C5901" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="wavve.com_0" site_id="C8701" xmltv_id="텔레노벨라">텔레노벨라</channel>
+    <channel site="wavve.com_0" site_id="C5501" xmltv_id="채널J">채널J</channel>
+    <channel site="wavve.com_0" site_id="C3901" xmltv_id="채널W">채널W</channel>
+    <channel site="wavve.com_0" site_id="C8101" xmltv_id="JNG">JNG</channel>
+    <channel site="wavve.com_0" site_id="C7801" xmltv_id="블렌딩 뮤직비디오">블렌딩 뮤직비디오</channel>
+    <channel site="wavve.com_0" site_id="C5102" xmltv_id="AsiaM">AsiaM</channel>
+    <channel site="wavve.com_0" site_id="F2601" xmltv_id="인디필름">인디필름</channel>
+    <channel site="wavve.com_0" site_id="C4402" xmltv_id="ANIONE">ANIONE</channel>
+    <channel site="wavve.com_0" site_id="S10" xmltv_id="SBS Nick">SBS Nick</channel>
+    <channel site="wavve.com_0" site_id="E05" xmltv_id="EBS 키즈">EBS 키즈</channel>
+    <channel site="wavve.com_0" site_id="C6802" xmltv_id="브라보키즈">브라보키즈</channel>
+    <channel site="wavve.com_0" site_id="F1301" xmltv_id="대교어린이TV">대교어린이TV</channel>
+    <channel site="wavve.com_0" site_id="S05" xmltv_id="SBS Golf">SBS Golf</channel>
+    <channel site="wavve.com_0" site_id="F0501" xmltv_id="BTN">BTN</channel>
+    <channel site="wavve.com_0" site_id="F0601" xmltv_id="CTS기독교TV">CTS기독교TV</channel>
+    <channel site="wavve.com_0" site_id="F0701" xmltv_id="가톨릭평화방송">가톨릭평화방송</channel>
+    <channel site="wavve.com_0" site_id="E18" xmltv_id="자이언트 펭TV">자이언트 펭TV</channel>
+    <channel site="wavve.com_0" site_id="F4601" xmltv_id="JBOX">JBOX</channel>
+    <channel site="wavve.com_0" site_id="C5202" xmltv_id="iHQ 맛있는녀석들">iHQ 맛있는녀석들</channel>
+    <channel site="wavve.com_0" site_id="C5203" xmltv_id="iHQ 뚱TV">iHQ 뚱TV</channel>
+    <channel site="wavve.com_0" site_id="C5204" xmltv_id="iHQ SHOW">iHQ SHOW</channel>
+    <channel site="wavve.com_0" site_id="C5702" xmltv_id="노는채널 E채널">노는채널 E채널</channel>
+    <channel site="wavve.com_0" site_id="C5703" xmltv_id="콘텐츠공작소 t.cast">콘텐츠공작소 t.cast</channel>
+    <channel site="wavve.com_0" site_id="C2411" xmltv_id="MBN 예능 정주행">MBN 예능 정주행</channel>
+    <channel site="wavve.com_0" site_id="C2412" xmltv_id="MBN 실제상황">MBN 실제상황</channel>
+    <channel site="wavve.com_0" site_id="C6102" xmltv_id="애니플러스">애니플러스</channel>
+    <channel site="wavve.com_0" site_id="F0102" xmltv_id="포켓몬스터">포켓몬스터</channel>
+    <channel site="wavve.com_0" site_id="C6803" xmltv_id="헬로 브라보키즈">헬로 브라보키즈</channel>
+    <channel site="wavve.com_0" site_id="C6702" xmltv_id="캐리TV LIVE">캐리TV LIVE</channel>
+    <channel site="wavve.com_0" site_id="C9602" xmltv_id="핑크퐁 LIVE">핑크퐁 LIVE</channel>
+    <channel site="wavve.com_0" site_id="F1211" xmltv_id="ORIGINAL 로코">ORIGINAL 로코</channel>
+    <channel site="wavve.com_0" site_id="F1212" xmltv_id="ORIGINAL 학원">ORIGINAL 학원</channel>
+    <channel site="wavve.com_0" site_id="F1213" xmltv_id="ORIGINAL 스포츠예능">ORIGINAL 스포츠예능</channel>
+    <channel site="wavve.com_0" site_id="F1214" xmltv_id="ORIGINAL 청춘">ORIGINAL 청춘</channel>
+    <channel site="wavve.com_0" site_id="F1215" xmltv_id="ORIGINAL 생존">ORIGINAL 생존</channel>
+    <channel site="wavve.com_0" site_id="F1216" xmltv_id="ORIGINAL 블랙코미디">ORIGINAL 블랙코미디</channel>
+    <channel site="wavve.com_0" site_id="F1217" xmltv_id="ORIGINAL 어른멜로">ORIGINAL 어른멜로</channel>
+    <channel site="wavve.com_0" site_id="F1218" xmltv_id="ORIGINAL 아이돌">ORIGINAL 아이돌</channel>
+    <channel site="wavve.com_0" site_id="F1219" xmltv_id="ORIGINAL 판타지">ORIGINAL 판타지</channel>
+    <channel site="wavve.com_0" site_id="F1220" xmltv_id="ORIGINAL 코미디">ORIGINAL 코미디</channel>
+    <channel site="wavve.com_0" site_id="F1221" xmltv_id="ORIGINAL 로맨스">ORIGINAL 로맨스</channel>
+    <channel site="wavve.com_0" site_id="F1222" xmltv_id="wavve에서 오늘 뭐보지">wavve에서 오늘 뭐보지</channel>
+    <channel site="wavve.com_0" site_id="F1223" xmltv_id="Only wavve 아시아드라마">Only wavve 아시아드라마</channel>
+    <channel site="wavve.com_0" site_id="K07" xmltv_id="KBS1RADIO">KBS1RADIO</channel>
+    <channel site="wavve.com_0" site_id="K08" xmltv_id="KBSCOOLFM">KBSCOOLFM</channel>
+    <channel site="wavve.com_0" site_id="M08" xmltv_id="MBC FM4U">MBC FM4U</channel>
+    <channel site="wavve.com_0" site_id="M07" xmltv_id="MBC 표준 FM">MBC 표준 FM</channel>
+    <channel site="wavve.com_0" site_id="S07" xmltv_id="SBS 파워FM">SBS 파워FM</channel>
+    <channel site="wavve.com_0" site_id="S08" xmltv_id="SBS 러브FM">SBS 러브FM</channel>
+    <channel site="wavve.com_0" site_id="E06" xmltv_id="EBS FM">EBS FM</channel>
+    <channel site="wavve.com_0" site_id="C4501" xmltv_id="TBS FM LIVE">TBS FM LIVE</channel>
+    <channel site="wavve.com_0" site_id="C2107" xmltv_id="YTN 라디오">YTN 라디오</channel>
+    <channel site="wavve.com_0" site_id="C2707" xmltv_id="KISS - Dog &amp; Mom">KISS - Dog &amp; Mom</channel>
+  </channels>
+</site>
