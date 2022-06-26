@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'spotvasia.com[MY]',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-06-26',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Kuala_Lumpur',
+  'culture' => 'ms',
+  'max_day' => '15',
+  'url1' => 'https://www.spotvasia.com/schedule?country=6&channel=##channel##&fromDt=##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'content_type1' => 'text/html;charset=UTF-8',
+  'urldate_format1' => 'Ymd',
+  'show' => '<div class="schedule_list">.*?(?:<ul>)(.*?)(?:<\\/ul>).*?<\\/div>',
+  'start' => 'data-stime="(.*?)"||#replace#(\\D)||',
+  'start_format' => 'Hi',
+  'stop' => 'data-etime="(.*?)"||#replace#(\\D)||',
+  'stop_format' => 'Hi',
+  'title' => '<\\/li>\\s*<li>(.*?)<\\/li>',
+  'category' => 'class="(live|tape)"||#word#',
+  'channel_logo' => '||#add#https://cms.spotvasia.com/upload/channel/file_##cclogo##.png',
+  'pshown' => 'class="(repeat)"',
+  'ccurl1' => 'https://www.spotvasia.com/schedule?country=6',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cccontent_type1' => 'text/html;charset=UTF-8',
+  'ccchannel_block' => '<div class="logo_area swiper-slide(?:\\son)?">.*?<\\/div>',
+  'ccchannel_id' => 'channelView\\((\\d+)',
+  'ccchannel_name' => 'alt="(.*?)"||#addend# [HK]',
+  'ccchannel_logo' => '\\/file_(.*?)\\.',
+);
+?>

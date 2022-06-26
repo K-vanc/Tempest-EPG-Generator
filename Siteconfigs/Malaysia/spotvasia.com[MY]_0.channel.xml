@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="spotvasia.com[MY]_0">
+  <channels>
+    <channel site="spotvasia.com[MY]_0" site_id="1||e0e6fd1b-32a7-4279-9776-108d663e6192" xmltv_id="SPOTV [HK]">SPOTV [HK]</channel>
+    <channel site="spotvasia.com[MY]_0" site_id="2||15a81966-c8d6-492a-aed6-3c6a8ff34604" xmltv_id="SPOTV2 [HK]">SPOTV2 [HK]</channel>
+  </channels>
+</site>
