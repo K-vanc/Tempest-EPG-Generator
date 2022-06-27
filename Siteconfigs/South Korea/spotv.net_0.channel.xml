@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="spotv.net_0">
+  <channels>
+    <channel site="spotv.net_0" site_id="SPOTV||calendar_spotv.png" xmltv_id="SPOTV">SPOTV</channel>
+    <channel site="spotv.net_0" site_id="SPOTV2||calendar_spotv_2.png" xmltv_id="SPOTV 2">SPOTV 2</channel>
+    <channel site="spotv.net_0" site_id="SPOTVP||calendar_spotv_plus.png" xmltv_id="SPOTV PLUS">SPOTV PLUS</channel>
+    <channel site="spotv.net_0" site_id="SPOTVP||calendar_spotvgolf&amp;health.png" xmltv_id="SPOTV GOLF&amp;HEALTH">SPOTV GOLF&amp;HEALTH</channel>
+    <channel site="spotv.net_0" site_id="SPOTVG||calendar_spotv_games.png" xmltv_id="SPOTV GAMES">SPOTV GAMES</channel>
+    <channel site="spotv.net_0" site_id="SPOTVG||calendar_statv.png" xmltv_id="STATV">STATV</channel>
+  </channels>
+</site>
