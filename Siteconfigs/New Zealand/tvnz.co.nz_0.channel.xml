@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvnz.co.nz_0">
+  <channels>
+    <channel site="tvnz.co.nz_0" site_id="TV2PLUS1||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/7JdHrvOHwERUUNWIz7r2Fk/3dce886aae65aaa3ea367e7dacf8b415/tvnz-2-plus1-dark-motif_100x115.svg.3dce886aae65aaa3ea367e7dacf8b415.svg" xmltv_id="TV2PLUS1">TV2PLUS1</channel>
+    <channel site="tvnz.co.nz_0" site_id="TVONEPLUS1||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/4uEKQylrAFtBSLr1R1khGA/7d371a3bbcec93c33d9e6f2fb0a2ca25/tvnz-1-plus1-dark-motif_100x115.svg.7d371a3bbcec93c33d9e6f2fb0a2ca25.svg" xmltv_id="TVONEPLUS1">TVONEPLUS1</channel>
+    <channel site="tvnz.co.nz_0" site_id="TVONE||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/5ekGlKwrg9KUXZbJAZAg85/f0078d4efc4ab434e10438b0ff51e083/tvnz-1-dark-motif_100x115.svg.f0078d4efc4ab434e10438b0ff51e083.svg" xmltv_id="TVONE">TVONE</channel>
+    <channel site="tvnz.co.nz_0" site_id="TV2||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/2W2iZVb0NiFmHpP8Igcqwj/b197e8951f637b16423caacaf85d489f/tvnz-2-dark-motif_100x115.svg.b197e8951f637b16423caacaf85d489f.svg" xmltv_id="TV2">TV2</channel>
+    <channel site="tvnz.co.nz_0" site_id="dukeplus1||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/64gVTwoi9CbwVZX9YcDer0/b13d775b1845c4488c08859f23e10b2e/tvnz-DUKE-plus1-light-motif_100x115.svg.b13d775b1845c4488c08859f23e10b2e.svg" xmltv_id="dukeplus1">dukeplus1</channel>
+    <channel site="tvnz.co.nz_0" site_id="DUKE||https://play-images-prod-ctf.tech.tvnz.co.nz/api/v1/web/image/yaCHTrQsk7QsLleBrLQov/0406c60ab9d48774497de2fac7057c27/tvnz-duke-dark-motif_100x115.svg.0406c60ab9d48774497de2fac7057c27.svg" xmltv_id="DUKE">DUKE</channel>
+  </channels>
+</site>
