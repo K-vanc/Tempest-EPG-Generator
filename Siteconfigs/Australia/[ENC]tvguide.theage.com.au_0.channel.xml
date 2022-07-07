@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvguide.theage.com.au_0">
+  <channels>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|18671" xmltv_id="[Local] Nine / TCN">[Local] Nine / TCN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431503" xmltv_id="[Local] 9HD / HS9">[Local] 9HD / HS9</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|391134" xmltv_id="[Local] 9Gem / HNS">[Local] 9Gem / HNS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|407760" xmltv_id="[Local] 9Go! / GON">[Local] 9Go! / GON</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431510" xmltv_id="[Local] 9Life / LS9">[Local] 9Life / LS9</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432047" xmltv_id="[Local] 9Gem HD / 9Gem HD">[Local] 9Gem HD / 9Gem HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432219" xmltv_id="[Local] 9Rush / 9Rush">[Local] 9Rush / 9Rush</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|18294" xmltv_id="[Local] ABC TV / ABC TV">[Local] ABC TV / ABC TV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431733" xmltv_id="[Local] ABC TV HD / ABC TV">[Local] ABC TV HD / ABC TV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|284791" xmltv_id="[Local] ABC Kids/ABC TV Plus / ABC Kids/ABC TV Plus">[Local] ABC Kids/ABC TV Plus / ABC Kids/ABC TV Plus</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|411316" xmltv_id="[Local] ABC ME / ABC3 NSW">[Local] ABC ME / ABC3 NSW</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|391135" xmltv_id="[Local] ABC NEWS / MHS">[Local] ABC NEWS / MHS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|251831" xmltv_id="[Local] SBS / SBS">[Local] SBS / SBS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|391140" xmltv_id="[Local] SBS HD / BSS">[Local] SBS HD / BSS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431775" xmltv_id="[Local] SBS VICELAND HD / SBS VICELAND HD NSW">[Local] SBS VICELAND HD / SBS VICELAND HD NSW</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432033" xmltv_id="[Local] SBS World Movies / SBS">[Local] SBS World Movies / SBS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431491" xmltv_id="[Local] SBS Food / SBF">[Local] SBS Food / SBF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432415" xmltv_id="[Local] SBS World Watch / SBSWWN">[Local] SBS World Watch / SBSWWN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|18891" xmltv_id="[Local] Seven / ATN">[Local] Seven / ATN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431611" xmltv_id="[Local] 7HD / DSS">[Local] 7HD / DSS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|410798" xmltv_id="[Local] 7TWO / 7TWO">[Local] 7TWO / 7TWO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|387291" xmltv_id="[Local] 7mate / HS7">[Local] 7mate / HS7</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432004" xmltv_id="[Local] 7mate HD / SFNANZ">[Local] 7mate HD / SFNANZ</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431541" xmltv_id="[Local] 7flix / FLN">[Local] 7flix / FLN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|85459" xmltv_id="[Local] 10 / TEN">[Local] 10 / TEN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|403769" xmltv_id="[Local] 10 Peach / S1S">[Local] 10 Peach / S1S</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|388609" xmltv_id="[Local] 10 BOLD / OHS">[Local] 10 BOLD / OHS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432256" xmltv_id="[Local] 10 SHAKE / 10 SHAKE">[Local] 10 SHAKE / 10 SHAKE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431565" xmltv_id="[Local] 10 HD / THE">[Local] 10 HD / THE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|430637" xmltv_id="[Local] TVSN / TVSN">[Local] TVSN / TVSN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431136" xmltv_id="[Local] SpreeTV / SpreeTV">[Local] SpreeTV / SpreeTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|430922" xmltv_id="[Local] NITV / NNS">[Local] NITV / NNS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432068" xmltv_id="[Local] Openshop / OPS">[Local] Openshop / OPS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|431208" xmltv_id="[Local] RACING.COM / RACING.COM">[Local] RACING.COM / RACING.COM</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="73|##|432261" xmltv_id="[Local] Extra / Extra">[Local] Extra / Extra</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251264" xmltv_id="[Foxtel] Lifestyle Channel / LST">[Foxtel] Lifestyle Channel / LST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271839" xmltv_id="[Foxtel] Lifestyle FOOD / FOO">[Foxtel] Lifestyle FOOD / FOO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|422804" xmltv_id="[Foxtel] Lifestyle HOME / LifeStyle HOME">[Foxtel] Lifestyle HOME / LifeStyle HOME</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|274857" xmltv_id="[Foxtel] Lifestyle Channel +2 / LST2">[Foxtel] Lifestyle Channel +2 / LST2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409428" xmltv_id="[Foxtel] Lifestyle FOOD +2 / LF2">[Foxtel] Lifestyle FOOD +2 / LF2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|422805" xmltv_id="[Foxtel] Lifestyle HD / Lifestyle HD">[Foxtel] Lifestyle HD / Lifestyle HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432218" xmltv_id="[Foxtel] ABC TV / ABC TV">[Foxtel] ABC TV / ABC TV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432299" xmltv_id="[Foxtel] PBS Kids / PBS">[Foxtel] PBS Kids / PBS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432156" xmltv_id="[Foxtel] FOX One / F1S">[Foxtel] FOX One / F1S</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251333" xmltv_id="[Foxtel] UKTV / UKT">[Foxtel] UKTV / UKT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409422" xmltv_id="[Foxtel] FOX8 / FOX">[Foxtel] FOX8 / FOX</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432159" xmltv_id="[Foxtel] FOX Funny / FFS">[Foxtel] FOX Funny / FFS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251321" xmltv_id="[Foxtel] FOX ARENA / ARN">[Foxtel] FOX ARENA / ARN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251351" xmltv_id="[Foxtel] FOX Classics / FKC">[Foxtel] FOX Classics / FKC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251349" xmltv_id="[Foxtel] Universal Channel / HAL">[Foxtel] Universal Channel / HAL</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409418" xmltv_id="[Foxtel] FOX SHOWCASE / SHC">[Foxtel] FOX SHOWCASE / SHC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431278" xmltv_id="[Foxtel] BBC First / BSF">[Foxtel] BBC First / BSF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432170" xmltv_id="[Foxtel] FOX Sleuth / FSU">[Foxtel] FOX Sleuth / FSU</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431175" xmltv_id="[Foxtel] FOX Crime / IOI">[Foxtel] FOX Crime / IOI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|397629" xmltv_id="[Foxtel] FOX Comedy / HIT">[Foxtel] FOX Comedy / HIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|429246" xmltv_id="[Foxtel] A&amp;E / AES">[Foxtel] A&amp;E / AES</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432168" xmltv_id="[Foxtel] FOX SciFi / FIS">[Foxtel] FOX SciFi / FIS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251314" xmltv_id="[Foxtel] MTV / MTV">[Foxtel] MTV / MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271867" xmltv_id="[Foxtel] E! / ETV">[Foxtel] E! / ETV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271863" xmltv_id="[Foxtel] TLC / DTA">[Foxtel] TLC / DTA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431331" xmltv_id="[Foxtel] Boxsets / BXS">[Foxtel] Boxsets / BXS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431394" xmltv_id="[Foxtel] FOX Docos / SAR">[Foxtel] FOX Docos / SAR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432157" xmltv_id="[Foxtel] FOX One +2 / F12">[Foxtel] FOX One +2 / F12</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409433" xmltv_id="[Foxtel] FOX SHOWCASE +2 / SW2">[Foxtel] FOX SHOWCASE +2 / SW2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|274856" xmltv_id="[Foxtel] FOX8 +2 / FOX82">[Foxtel] FOX8 +2 / FOX82</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431182" xmltv_id="[Foxtel] FOX Crime +2 / IOI2">[Foxtel] FOX Crime +2 / IOI2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|274854" xmltv_id="[Foxtel] FOX ARENA +2 / ARN2">[Foxtel] FOX ARENA +2 / ARN2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432179" xmltv_id="[Foxtel] E! +2 / ET2">[Foxtel] E! +2 / ET2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|274855" xmltv_id="[Foxtel] FOX Classics +2 / FKC2">[Foxtel] FOX Classics +2 / FKC2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|274860" xmltv_id="[Foxtel] UKTV +2 / UKT2">[Foxtel] UKTV +2 / UKT2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432175" xmltv_id="[Foxtel] FOX Sleuth +2 / FS2">[Foxtel] FOX Sleuth +2 / FS2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432180" xmltv_id="[Foxtel] FOX Funny +2 / FF2">[Foxtel] FOX Funny +2 / FF2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409429" xmltv_id="[Foxtel] FOX Comedy +2 / HI2">[Foxtel] FOX Comedy +2 / HI2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432176" xmltv_id="[Foxtel] FOX SciFi +2 / FI2">[Foxtel] FOX SciFi +2 / FI2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|419261" xmltv_id="[Foxtel] TLC +2 / TLC +2">[Foxtel] TLC +2 / TLC +2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|283419" xmltv_id="[Foxtel] AURORA / AUR">[Foxtel] AURORA / AUR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251274" xmltv_id="[Foxtel] TVSN Shopping / TVSN Shopping">[Foxtel] TVSN Shopping / TVSN Shopping</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271589" xmltv_id="[Foxtel] EXPO / EXPO">[Foxtel] EXPO / EXPO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|280637" xmltv_id="[Foxtel] GOOD. / ACC">[Foxtel] GOOD. / ACC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431709" xmltv_id="[Foxtel] TBN Inspire / HLT">[Foxtel] TBN Inspire / HLT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431391" xmltv_id="[Foxtel] Daystar / DAS">[Foxtel] Daystar / DAS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431708" xmltv_id="[Foxtel] SonLife / SLT">[Foxtel] SonLife / SLT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432155" xmltv_id="[Foxtel] FOX One HD / F1H">[Foxtel] FOX One HD / F1H</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431320" xmltv_id="[Foxtel] FOX ARENA HD / ARD">[Foxtel] FOX ARENA HD / ARD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251262" xmltv_id="[Foxtel] FOX8 HD / FOX">[Foxtel] FOX8 HD / FOX</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432158" xmltv_id="[Foxtel] FOX Funny HD / FFH">[Foxtel] FOX Funny HD / FFH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431328" xmltv_id="[Foxtel] Universal HD / UND">[Foxtel] Universal HD / UND</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|386866" xmltv_id="[Foxtel] FOX SHOWCASE HD / SHC">[Foxtel] FOX SHOWCASE HD / SHC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431277" xmltv_id="[Foxtel] BBC First HD / BBC First HD">[Foxtel] BBC First HD / BBC First HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432169" xmltv_id="[Foxtel] FOX Sleuth HD / FSL">[Foxtel] FOX Sleuth HD / FSL</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432161" xmltv_id="[Foxtel] FOX Crime HD / FCH">[Foxtel] FOX Crime HD / FCH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|429245" xmltv_id="[Foxtel] A&amp;E HD / AED">[Foxtel] A&amp;E HD / AED</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432167" xmltv_id="[Foxtel] FOX SciFi HD / FSI">[Foxtel] FOX SciFi HD / FSI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431330" xmltv_id="[Foxtel] Boxsets HD / BXD">[Foxtel] Boxsets HD / BXD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431393" xmltv_id="[Foxtel] FOX Docos HD / HAR">[Foxtel] FOX Docos HD / HAR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251356" xmltv_id="[Foxtel] Premiere HD / SOD">[Foxtel] Premiere HD / SOD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431627" xmltv_id="[Foxtel] Foxtel Movies Hits HD / MVD">[Foxtel] Foxtel Movies Hits HD / MVD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430848" xmltv_id="[Foxtel] Family HD / MO7">[Foxtel] Family HD / MO7</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432152" xmltv_id="[Foxtel] Foxtel Movies Kids HD / MO8">[Foxtel] Foxtel Movies Kids HD / MO8</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409316" xmltv_id="[Foxtel] Action HD / STN">[Foxtel] Action HD / STN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430850" xmltv_id="[Foxtel] Comedy HD / MO1">[Foxtel] Comedy HD / MO1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430844" xmltv_id="[Foxtel] Thriller HD / MO3">[Foxtel] Thriller HD / MO3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430851" xmltv_id="[Foxtel] Romance HD / MO2">[Foxtel] Romance HD / MO2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430846" xmltv_id="[Foxtel] Drama HD / MO5">[Foxtel] Drama HD / MO5</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431903" xmltv_id="[Foxtel] Movies Greats HD / GRE">[Foxtel] Movies Greats HD / GRE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432235" xmltv_id="[Foxtel] LMN HD / LMH">[Foxtel] LMN HD / LMH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431322" xmltv_id="[Foxtel] FOX SPORTS News HD / FSD">[Foxtel] FOX SPORTS News HD / FSD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251347" xmltv_id="[Foxtel] FOX Cricket HD / F1D">[Foxtel] FOX Cricket HD / F1D</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|252415" xmltv_id="[Foxtel] FOX League HD / F2D">[Foxtel] FOX League HD / F2D</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|375224" xmltv_id="[Foxtel] FOX SPORTS 503 HD / F3D">[Foxtel] FOX SPORTS 503 HD / F3D</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|429084" xmltv_id="[Foxtel] FOX FOOTY HD / FOX FOOTY HD">[Foxtel] FOX FOOTY HD / FOX FOOTY HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431338" xmltv_id="[Foxtel] FOX SPORTS 505 HD / F4D">[Foxtel] FOX SPORTS 505 HD / F4D</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|419254" xmltv_id="[Foxtel] FOX SPORTS 506 HD / SPE">[Foxtel] FOX SPORTS 506 HD / SPE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|423299" xmltv_id="[Foxtel] ESPN HD / ESPN HD">[Foxtel] ESPN HD / ESPN HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|390634" xmltv_id="[Foxtel] ESPN2HD / ESPN">[Foxtel] ESPN2HD / ESPN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431753" xmltv_id="[Foxtel] FOX SPORTS MORE HD / FSM">[Foxtel] FOX SPORTS MORE HD / FSM</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431586" xmltv_id="[Foxtel] Sky Tbred HD / SRH">[Foxtel] Sky Tbred HD / SRH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|392392" xmltv_id="[Foxtel] Discovery HD / DHD">[Foxtel] Discovery HD / DHD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|392401" xmltv_id="[Foxtel] Nat Geo HD / NGD">[Foxtel] Nat Geo HD / NGD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431326" xmltv_id="[Foxtel] The History Channel HD / HSD">[Foxtel] The History Channel HD / HSD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|397628" xmltv_id="[Foxtel] BBC Earth HD / BBC Earth HD">[Foxtel] BBC Earth HD / BBC Earth HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409282" xmltv_id="[Foxtel] Nat Geo Wild HD / NAT GEO WILD HD">[Foxtel] Nat Geo Wild HD / NAT GEO WILD HD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431599" xmltv_id="[Foxtel] beIN SPORTS 1 HD / BE1">[Foxtel] beIN SPORTS 1 HD / BE1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431600" xmltv_id="[Foxtel] beIN SPORTS 2 HD / BE2">[Foxtel] beIN SPORTS 2 HD / BE2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431603" xmltv_id="[Foxtel] beIN SPORTS 3 HD / BE3">[Foxtel] beIN SPORTS 3 HD / BE3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431527" xmltv_id="[Foxtel] Sky News HD / NHD">[Foxtel] Sky News HD / NHD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431930" xmltv_id="[Foxtel] Sky News UK HD / SUH">[Foxtel] Sky News UK HD / SUH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432017" xmltv_id="[Foxtel] Fox News HD / FNH">[Foxtel] Fox News HD / FNH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432072" xmltv_id="[Foxtel] Foxtel Movies Ultra HD / K02">[Foxtel] Foxtel Movies Ultra HD / K02</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409419" xmltv_id="[Foxtel] Premiere / SHO">[Foxtel] Premiere / SHO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431628" xmltv_id="[Foxtel] Foxtel Movies Hits / MVS">[Foxtel] Foxtel Movies Hits / MVS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430849" xmltv_id="[Foxtel] Family / Family">[Foxtel] Family / Family</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432153" xmltv_id="[Foxtel] Foxtel Movies Kids / MO9">[Foxtel] Foxtel Movies Kids / MO9</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409425" xmltv_id="[Foxtel] Action / SHA">[Foxtel] Action / SHA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409165" xmltv_id="[Foxtel] Comedy / SHY">[Foxtel] Comedy / SHY</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430845" xmltv_id="[Foxtel] Thriller / SHH">[Foxtel] Thriller / SHH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409166" xmltv_id="[Foxtel] Romance / SHD">[Foxtel] Romance / SHD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|430847" xmltv_id="[Foxtel] Drama / MO6">[Foxtel] Drama / MO6</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431904" xmltv_id="[Foxtel] Movies Greats / GRR">[Foxtel] Movies Greats / GRR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432236" xmltv_id="[Foxtel] LMN / LMS">[Foxtel] LMN / LMS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|256320" xmltv_id="[Foxtel] Premiere +2 / SHO2">[Foxtel] Premiere +2 / SHO2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431044" xmltv_id="[Foxtel] Action+2 / MTA">[Foxtel] Action+2 / MTA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431043" xmltv_id="[Foxtel] Family +2 / MTF">[Foxtel] Family +2 / MTF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|376128" xmltv_id="[Foxtel] FOX SPORTS News / FSN">[Foxtel] FOX SPORTS News / FSN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409420" xmltv_id="[Foxtel] FOX Cricket / FS1">[Foxtel] FOX Cricket / FS1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409421" xmltv_id="[Foxtel] FOX League / SP2">[Foxtel] FOX League / SP2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409913" xmltv_id="[Foxtel] FOX SPORTS 503 / FS3">[Foxtel] FOX SPORTS 503 / FS3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|429292" xmltv_id="[Foxtel] FOX FOOTY / FAF">[Foxtel] FOX FOOTY / FAF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271865" xmltv_id="[Foxtel] FOX SPORTS 505 / FSP">[Foxtel] FOX SPORTS 505 / FSP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|419256" xmltv_id="[Foxtel] FOX SPORTS 506 / SPEED">[Foxtel] FOX SPORTS 506 / SPEED</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431754" xmltv_id="[Foxtel] FOX SPORTS MORE / FSS">[Foxtel] FOX SPORTS MORE / FSS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431941" xmltv_id="[Foxtel] Fox Sports UHD 1 / K01">[Foxtel] Fox Sports UHD 1 / K01</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251320" xmltv_id="[Foxtel] ESPN / ESP">[Foxtel] ESPN / ESP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|423300" xmltv_id="[Foxtel] ESPN2 / ESPN2">[Foxtel] ESPN2 / ESPN2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|386214" xmltv_id="[Foxtel] beIN SPORTS 1 / B1E">[Foxtel] beIN SPORTS 1 / B1E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431601" xmltv_id="[Foxtel] beIN SPORTS 2 / B2E">[Foxtel] beIN SPORTS 2 / B2E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431602" xmltv_id="[Foxtel] beIN SPORTS 3 / B3E">[Foxtel] beIN SPORTS 3 / B3E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251358" xmltv_id="[Foxtel] Sky Racing 1 / RACE">[Foxtel] Sky Racing 1 / RACE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|414098" xmltv_id="[Foxtel] Sky Racing 2 / Sky Racing 2">[Foxtel] Sky Racing 2 / Sky Racing 2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|414103" xmltv_id="[Foxtel] Sky Thoroughbred Central / Sky Thoroughbred C">[Foxtel] Sky Thoroughbred Central / Sky Thoroughbred C</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251268" xmltv_id="[Foxtel] Sky News Australia / SKY">[Foxtel] Sky News Australia / SKY</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|270681" xmltv_id="[Foxtel] Sky News Weather / SKY Weather">[Foxtel] Sky News Weather / SKY Weather</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|401438" xmltv_id="[Foxtel] Sky News Extra / Sky News Extra">[Foxtel] Sky News Extra / Sky News Extra</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431929" xmltv_id="[Foxtel] Sky News UK / SUK">[Foxtel] Sky News UK / SUK</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251270" xmltv_id="[Foxtel] FOX NEWS / NEWS">[Foxtel] FOX NEWS / NEWS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251341" xmltv_id="[Foxtel] CNN / CNN">[Foxtel] CNN / CNN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|256229" xmltv_id="[Foxtel] The History Channel / HST">[Foxtel] The History Channel / HST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|282414" xmltv_id="[Foxtel] Crime &amp; Investigation / CIN">[Foxtel] Crime &amp; Investigation / CIN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431698" xmltv_id="[Foxtel] A&amp;E +2 / E2A">[Foxtel] A&amp;E +2 / E2A</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251346" xmltv_id="[Foxtel] Discovery Channel / DIS">[Foxtel] Discovery Channel / DIS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251352" xmltv_id="[Foxtel] Nat Geo / NGE">[Foxtel] Nat Geo / NGE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|419251" xmltv_id="[Foxtel] BBC Earth / BBC Earth">[Foxtel] BBC Earth / BBC Earth</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432178" xmltv_id="[Foxtel] Investigation Discovery / DID">[Foxtel] Investigation Discovery / DID</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409683" xmltv_id="[Foxtel] Discovery Turbo / DIT">[Foxtel] Discovery Turbo / DIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251276" xmltv_id="[Foxtel] Animal Planet / ANI">[Foxtel] Animal Planet / ANI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|419252" xmltv_id="[Foxtel] Nat Geo Wild / NAT GEO WILD">[Foxtel] Nat Geo Wild / NAT GEO WILD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409431" xmltv_id="[Foxtel] Discovery Channel +2 / DS2">[Foxtel] Discovery Channel +2 / DS2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|409434" xmltv_id="[Foxtel] Discovery Turbo +2 / DI2">[Foxtel] Discovery Turbo +2 / DI2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251340" xmltv_id="[Foxtel] CNBC / CNBC">[Foxtel] CNBC / CNBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251338" xmltv_id="[Foxtel] BBC World News / BBC">[Foxtel] BBC World News / BBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271159" xmltv_id="[Foxtel] Bloomberg / BLA">[Foxtel] Bloomberg / BLA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|377786" xmltv_id="[Foxtel] Al Jazeera English / AJI">[Foxtel] Al Jazeera English / AJI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431798" xmltv_id="[Foxtel] TRT World / TRT">[Foxtel] TRT World / TRT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|417661" xmltv_id="[Foxtel] CGTN / CCTV">[Foxtel] CGTN / CCTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431122" xmltv_id="[Foxtel] CGTN-Documentary / CCD">[Foxtel] CGTN-Documentary / CCD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431123" xmltv_id="[Foxtel] NHK / NHK">[Foxtel] NHK / NHK</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251354" xmltv_id="[Foxtel] Nickelodeon / NIC">[Foxtel] Nickelodeon / NIC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271840" xmltv_id="[Foxtel] Nick Jr / NJR">[Foxtel] Nick Jr / NJR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|397630" xmltv_id="[Foxtel] BBC CBeebies / BBC CBeebies">[Foxtel] BBC CBeebies / BBC CBeebies</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251380" xmltv_id="[Foxtel] CARTOON NETWORK / TOON">[Foxtel] CARTOON NETWORK / TOON</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271829" xmltv_id="[Foxtel] BOOMERANG / BOOMERANG">[Foxtel] BOOMERANG / BOOMERANG</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432297" xmltv_id="[Foxtel] DreamWorks / DRM">[Foxtel] DreamWorks / DRM</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432233" xmltv_id="[Foxtel] Nick Music / NMU">[Foxtel] Nick Music / NMU</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|380333" xmltv_id="[Foxtel] MTV Hits / TMF">[Foxtel] MTV Hits / TMF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|271866" xmltv_id="[Foxtel] Club MTV / Club MTV">[Foxtel] Club MTV / Club MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|431759" xmltv_id="[Foxtel] MTV Classic / MTC">[Foxtel] MTV Classic / MTC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|432232" xmltv_id="[Foxtel] CMT / CMT">[Foxtel] CMT / CMT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251264" xmltv_id="[Foxtel Now] Lifestyle Channel / LST">[Foxtel Now] Lifestyle Channel / LST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271839" xmltv_id="[Foxtel Now] Lifestyle FOOD / FOO">[Foxtel Now] Lifestyle FOOD / FOO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|422804" xmltv_id="[Foxtel Now] Lifestyle HOME / LifeStyle HOME">[Foxtel Now] Lifestyle HOME / LifeStyle HOME</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431175" xmltv_id="[Foxtel Now] FOX Crime / IOI">[Foxtel Now] FOX Crime / IOI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409422" xmltv_id="[Foxtel Now] FOX8 / FOX">[Foxtel Now] FOX8 / FOX</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|397629" xmltv_id="[Foxtel Now] FOX Comedy / HIT">[Foxtel Now] FOX Comedy / HIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251321" xmltv_id="[Foxtel Now] FOX ARENA / ARN">[Foxtel Now] FOX ARENA / ARN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251349" xmltv_id="[Foxtel Now] Universal Channel / HAL">[Foxtel Now] Universal Channel / HAL</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409418" xmltv_id="[Foxtel Now] FOX SHOWCASE / SHC">[Foxtel Now] FOX SHOWCASE / SHC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431278" xmltv_id="[Foxtel Now] BBC First / BSF">[Foxtel Now] BBC First / BSF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|429246" xmltv_id="[Foxtel Now] A&amp;E / AES">[Foxtel Now] A&amp;E / AES</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251314" xmltv_id="[Foxtel Now] MTV / MTV">[Foxtel Now] MTV / MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271867" xmltv_id="[Foxtel Now] E! / ETV">[Foxtel Now] E! / ETV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271863" xmltv_id="[Foxtel Now] TLC / DTA">[Foxtel Now] TLC / DTA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251274" xmltv_id="[Foxtel Now] TVSN Shopping / TVSN Shopping">[Foxtel Now] TVSN Shopping / TVSN Shopping</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|430849" xmltv_id="[Foxtel Now] Family / Family">[Foxtel Now] Family / Family</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431628" xmltv_id="[Foxtel Now] Foxtel Movies Hits / MVS">[Foxtel Now] Foxtel Movies Hits / MVS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409419" xmltv_id="[Foxtel Now] Premiere / SHO">[Foxtel Now] Premiere / SHO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|430847" xmltv_id="[Foxtel Now] Drama / MO6">[Foxtel Now] Drama / MO6</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409425" xmltv_id="[Foxtel Now] Action / SHA">[Foxtel Now] Action / SHA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409165" xmltv_id="[Foxtel Now] Comedy / SHY">[Foxtel Now] Comedy / SHY</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409166" xmltv_id="[Foxtel Now] Romance / SHD">[Foxtel Now] Romance / SHD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|430845" xmltv_id="[Foxtel Now] Thriller / SHH">[Foxtel Now] Thriller / SHH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409420" xmltv_id="[Foxtel Now] FOX Cricket / FS1">[Foxtel Now] FOX Cricket / FS1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409421" xmltv_id="[Foxtel Now] FOX League / SP2">[Foxtel Now] FOX League / SP2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409913" xmltv_id="[Foxtel Now] FOX SPORTS 503 / FS3">[Foxtel Now] FOX SPORTS 503 / FS3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|429012" xmltv_id="[Foxtel Now] FOOTY PLAY + / FOOTY PLAY +">[Foxtel Now] FOOTY PLAY + / FOOTY PLAY +</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271865" xmltv_id="[Foxtel Now] FOX SPORTS 505 / FSP">[Foxtel Now] FOX SPORTS 505 / FSP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|419256" xmltv_id="[Foxtel Now] FOX SPORTS 506 / SPEED">[Foxtel Now] FOX SPORTS 506 / SPEED</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431754" xmltv_id="[Foxtel Now] FOX SPORTS MORE / FSS">[Foxtel Now] FOX SPORTS MORE / FSS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251320" xmltv_id="[Foxtel Now] ESPN / ESP">[Foxtel Now] ESPN / ESP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|423300" xmltv_id="[Foxtel Now] ESPN2 / ESPN2">[Foxtel Now] ESPN2 / ESPN2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|386214" xmltv_id="[Foxtel Now] beIN SPORTS 1 / B1E">[Foxtel Now] beIN SPORTS 1 / B1E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431601" xmltv_id="[Foxtel Now] beIN SPORTS 2 / B2E">[Foxtel Now] beIN SPORTS 2 / B2E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|431602" xmltv_id="[Foxtel Now] beIN SPORTS 3 / B3E">[Foxtel Now] beIN SPORTS 3 / B3E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251268" xmltv_id="[Foxtel Now] Sky News Australia / SKY">[Foxtel Now] Sky News Australia / SKY</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|270681" xmltv_id="[Foxtel Now] Sky News Weather / SKY Weather">[Foxtel Now] Sky News Weather / SKY Weather</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251270" xmltv_id="[Foxtel Now] FOX NEWS / NEWS">[Foxtel Now] FOX NEWS / NEWS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|256229" xmltv_id="[Foxtel Now] The History Channel / HST">[Foxtel Now] The History Channel / HST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|282414" xmltv_id="[Foxtel Now] Crime &amp; Investigation / CIN">[Foxtel Now] Crime &amp; Investigation / CIN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251346" xmltv_id="[Foxtel Now] Discovery Channel / DIS">[Foxtel Now] Discovery Channel / DIS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251352" xmltv_id="[Foxtel Now] Nat Geo / NGE">[Foxtel Now] Nat Geo / NGE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|419251" xmltv_id="[Foxtel Now] BBC Earth / BBC Earth">[Foxtel Now] BBC Earth / BBC Earth</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|409683" xmltv_id="[Foxtel Now] Discovery Turbo / DIT">[Foxtel Now] Discovery Turbo / DIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|419252" xmltv_id="[Foxtel Now] Nat Geo Wild / NAT GEO WILD">[Foxtel Now] Nat Geo Wild / NAT GEO WILD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251354" xmltv_id="[Foxtel Now] Nickelodeon / NIC">[Foxtel Now] Nickelodeon / NIC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271840" xmltv_id="[Foxtel Now] Nick Jr / NJR">[Foxtel Now] Nick Jr / NJR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|397630" xmltv_id="[Foxtel Now] BBC CBeebies / BBC CBeebies">[Foxtel Now] BBC CBeebies / BBC CBeebies</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|251380" xmltv_id="[Foxtel Now] CARTOON NETWORK / TOON">[Foxtel Now] CARTOON NETWORK / TOON</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="371|##|271829" xmltv_id="[Foxtel Now] BOOMERANG / BOOMERANG">[Foxtel Now] BOOMERANG / BOOMERANG</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251264" xmltv_id="[Optus TV feat. Foxtel] Lifestyle Channel / LST">[Optus TV feat. Foxtel] Lifestyle Channel / LST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271839" xmltv_id="[Optus TV feat. Foxtel] Lifestyle FOOD / FOO">[Optus TV feat. Foxtel] Lifestyle FOOD / FOO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|274857" xmltv_id="[Optus TV feat. Foxtel] Lifestyle Channel +2 / LST2">[Optus TV feat. Foxtel] Lifestyle Channel +2 / LST2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|272787" xmltv_id="[Optus TV feat. Foxtel] SBS VICELAND / SBS">[Optus TV feat. Foxtel] SBS VICELAND / SBS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431175" xmltv_id="[Optus TV feat. Foxtel] FOX Crime / IOI">[Optus TV feat. Foxtel] FOX Crime / IOI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251333" xmltv_id="[Optus TV feat. Foxtel] UKTV / UKT">[Optus TV feat. Foxtel] UKTV / UKT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409422" xmltv_id="[Optus TV feat. Foxtel] FOX8 / FOX">[Optus TV feat. Foxtel] FOX8 / FOX</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|397629" xmltv_id="[Optus TV feat. Foxtel] FOX Comedy / HIT">[Optus TV feat. Foxtel] FOX Comedy / HIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251321" xmltv_id="[Optus TV feat. Foxtel] FOX ARENA / ARN">[Optus TV feat. Foxtel] FOX ARENA / ARN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251351" xmltv_id="[Optus TV feat. Foxtel] FOX Classics / FKC">[Optus TV feat. Foxtel] FOX Classics / FKC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251349" xmltv_id="[Optus TV feat. Foxtel] Universal Channel / HAL">[Optus TV feat. Foxtel] Universal Channel / HAL</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409418" xmltv_id="[Optus TV feat. Foxtel] FOX SHOWCASE / SHC">[Optus TV feat. Foxtel] FOX SHOWCASE / SHC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431331" xmltv_id="[Optus TV feat. Foxtel] Boxsets / BXS">[Optus TV feat. Foxtel] Boxsets / BXS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271867" xmltv_id="[Optus TV feat. Foxtel] E! / ETV">[Optus TV feat. Foxtel] E! / ETV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251314" xmltv_id="[Optus TV feat. Foxtel] MTV / MTV">[Optus TV feat. Foxtel] MTV / MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431182" xmltv_id="[Optus TV feat. Foxtel] FOX Crime +2 / IOI2">[Optus TV feat. Foxtel] FOX Crime +2 / IOI2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|274856" xmltv_id="[Optus TV feat. Foxtel] FOX8 +2 / FOX82">[Optus TV feat. Foxtel] FOX8 +2 / FOX82</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|274855" xmltv_id="[Optus TV feat. Foxtel] FOX Classics +2 / FKC2">[Optus TV feat. Foxtel] FOX Classics +2 / FKC2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|274854" xmltv_id="[Optus TV feat. Foxtel] FOX ARENA +2 / ARN2">[Optus TV feat. Foxtel] FOX ARENA +2 / ARN2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|274860" xmltv_id="[Optus TV feat. Foxtel] UKTV +2 / UKT2">[Optus TV feat. Foxtel] UKTV +2 / UKT2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251274" xmltv_id="[Optus TV feat. Foxtel] TVSN Shopping / TVSN Shopping">[Optus TV feat. Foxtel] TVSN Shopping / TVSN Shopping</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271589" xmltv_id="[Optus TV feat. Foxtel] EXPO / EXPO">[Optus TV feat. Foxtel] EXPO / EXPO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|280637" xmltv_id="[Optus TV feat. Foxtel] GOOD. / ACC">[Optus TV feat. Foxtel] GOOD. / ACC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431320" xmltv_id="[Optus TV feat. Foxtel] FOX ARENA HD / ARD">[Optus TV feat. Foxtel] FOX ARENA HD / ARD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431328" xmltv_id="[Optus TV feat. Foxtel] Universal HD / UND">[Optus TV feat. Foxtel] Universal HD / UND</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431330" xmltv_id="[Optus TV feat. Foxtel] Boxsets HD / BXD">[Optus TV feat. Foxtel] Boxsets HD / BXD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430848" xmltv_id="[Optus TV feat. Foxtel] Family HD / MO7">[Optus TV feat. Foxtel] Family HD / MO7</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430846" xmltv_id="[Optus TV feat. Foxtel] Drama HD / MO5">[Optus TV feat. Foxtel] Drama HD / MO5</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430850" xmltv_id="[Optus TV feat. Foxtel] Comedy HD / MO1">[Optus TV feat. Foxtel] Comedy HD / MO1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430851" xmltv_id="[Optus TV feat. Foxtel] Romance HD / MO2">[Optus TV feat. Foxtel] Romance HD / MO2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430844" xmltv_id="[Optus TV feat. Foxtel] Thriller HD / MO3">[Optus TV feat. Foxtel] Thriller HD / MO3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431322" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS News HD / FSD">[Optus TV feat. Foxtel] FOX SPORTS News HD / FSD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431338" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS 505 HD / F4D">[Optus TV feat. Foxtel] FOX SPORTS 505 HD / F4D</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|419254" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS 506 HD / SPE">[Optus TV feat. Foxtel] FOX SPORTS 506 HD / SPE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|431326" xmltv_id="[Optus TV feat. Foxtel] The History Channel HD / HSD">[Optus TV feat. Foxtel] The History Channel HD / HSD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430849" xmltv_id="[Optus TV feat. Foxtel] Family / Family">[Optus TV feat. Foxtel] Family / Family</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409419" xmltv_id="[Optus TV feat. Foxtel] Premiere / SHO">[Optus TV feat. Foxtel] Premiere / SHO</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|256320" xmltv_id="[Optus TV feat. Foxtel] Premiere +2 / SHO2">[Optus TV feat. Foxtel] Premiere +2 / SHO2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430847" xmltv_id="[Optus TV feat. Foxtel] Drama / MO6">[Optus TV feat. Foxtel] Drama / MO6</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|430845" xmltv_id="[Optus TV feat. Foxtel] Thriller / SHH">[Optus TV feat. Foxtel] Thriller / SHH</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409420" xmltv_id="[Optus TV feat. Foxtel] FOX Cricket / FS1">[Optus TV feat. Foxtel] FOX Cricket / FS1</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409421" xmltv_id="[Optus TV feat. Foxtel] FOX League / SP2">[Optus TV feat. Foxtel] FOX League / SP2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|409913" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS 503 / FS3">[Optus TV feat. Foxtel] FOX SPORTS 503 / FS3</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251320" xmltv_id="[Optus TV feat. Foxtel] ESPN / ESP">[Optus TV feat. Foxtel] ESPN / ESP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|376128" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS News / FSN">[Optus TV feat. Foxtel] FOX SPORTS News / FSN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271865" xmltv_id="[Optus TV feat. Foxtel] FOX SPORTS 505 / FSP">[Optus TV feat. Foxtel] FOX SPORTS 505 / FSP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251358" xmltv_id="[Optus TV feat. Foxtel] Sky Racing 1 / RACE">[Optus TV feat. Foxtel] Sky Racing 1 / RACE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251268" xmltv_id="[Optus TV feat. Foxtel] Sky News Australia / SKY">[Optus TV feat. Foxtel] Sky News Australia / SKY</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|270681" xmltv_id="[Optus TV feat. Foxtel] Sky News Weather / SKY Weather">[Optus TV feat. Foxtel] Sky News Weather / SKY Weather</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251270" xmltv_id="[Optus TV feat. Foxtel] FOX NEWS / NEWS">[Optus TV feat. Foxtel] FOX NEWS / NEWS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251341" xmltv_id="[Optus TV feat. Foxtel] CNN / CNN">[Optus TV feat. Foxtel] CNN / CNN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|256229" xmltv_id="[Optus TV feat. Foxtel] The History Channel / HST">[Optus TV feat. Foxtel] The History Channel / HST</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|282414" xmltv_id="[Optus TV feat. Foxtel] Crime &amp; Investigation / CIN">[Optus TV feat. Foxtel] Crime &amp; Investigation / CIN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251346" xmltv_id="[Optus TV feat. Foxtel] Discovery Channel / DIS">[Optus TV feat. Foxtel] Discovery Channel / DIS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251352" xmltv_id="[Optus TV feat. Foxtel] Nat Geo / NGE">[Optus TV feat. Foxtel] Nat Geo / NGE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|419251" xmltv_id="[Optus TV feat. Foxtel] BBC Earth / BBC Earth">[Optus TV feat. Foxtel] BBC Earth / BBC Earth</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251276" xmltv_id="[Optus TV feat. Foxtel] Animal Planet / ANI">[Optus TV feat. Foxtel] Animal Planet / ANI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271863" xmltv_id="[Optus TV feat. Foxtel] TLC / DTA">[Optus TV feat. Foxtel] TLC / DTA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251338" xmltv_id="[Optus TV feat. Foxtel] BBC World News / BBC">[Optus TV feat. Foxtel] BBC World News / BBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271159" xmltv_id="[Optus TV feat. Foxtel] Bloomberg / BLA">[Optus TV feat. Foxtel] Bloomberg / BLA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|377786" xmltv_id="[Optus TV feat. Foxtel] Al Jazeera English / AJI">[Optus TV feat. Foxtel] Al Jazeera English / AJI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251340" xmltv_id="[Optus TV feat. Foxtel] CNBC / CNBC">[Optus TV feat. Foxtel] CNBC / CNBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|417661" xmltv_id="[Optus TV feat. Foxtel] CGTN / CCTV">[Optus TV feat. Foxtel] CGTN / CCTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251354" xmltv_id="[Optus TV feat. Foxtel] Nickelodeon / NIC">[Optus TV feat. Foxtel] Nickelodeon / NIC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271840" xmltv_id="[Optus TV feat. Foxtel] Nick Jr / NJR">[Optus TV feat. Foxtel] Nick Jr / NJR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|397630" xmltv_id="[Optus TV feat. Foxtel] BBC CBeebies / BBC CBeebies">[Optus TV feat. Foxtel] BBC CBeebies / BBC CBeebies</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251380" xmltv_id="[Optus TV feat. Foxtel] CARTOON NETWORK / TOON">[Optus TV feat. Foxtel] CARTOON NETWORK / TOON</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271829" xmltv_id="[Optus TV feat. Foxtel] BOOMERANG / BOOMERANG">[Optus TV feat. Foxtel] BOOMERANG / BOOMERANG</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|271866" xmltv_id="[Optus TV feat. Foxtel] Club MTV / Club MTV">[Optus TV feat. Foxtel] Club MTV / Club MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251273" xmltv_id="[Optus TV feat. Foxtel] Antenna / Antenna">[Optus TV feat. Foxtel] Antenna / Antenna</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="192|##|251271" xmltv_id="[Optus TV feat. Foxtel] RAI / RAI">[Optus TV feat. Foxtel] RAI / RAI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251349" xmltv_id="[Fetch] Universal Channel / HAL">[Fetch] Universal Channel / HAL</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251314" xmltv_id="[Fetch] MTV / MTV">[Fetch] MTV / MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271867" xmltv_id="[Fetch] E! / ETV">[Fetch] E! / ETV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271863" xmltv_id="[Fetch] TLC / DTA">[Fetch] TLC / DTA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|431566" xmltv_id="[Fetch] Comedy Central Australia / CCA">[Fetch] Comedy Central Australia / CCA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251333" xmltv_id="[Fetch] UKTV / UKT">[Fetch] UKTV / UKT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|431278" xmltv_id="[Fetch] BBC First / BSF">[Fetch] BBC First / BSF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251320" xmltv_id="[Fetch] ESPN / ESP">[Fetch] ESPN / ESP</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|432178" xmltv_id="[Fetch] Investigation Discovery / DID">[Fetch] Investigation Discovery / DID</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|423300" xmltv_id="[Fetch] ESPN2 / ESPN2">[Fetch] ESPN2 / ESPN2</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|409683" xmltv_id="[Fetch] Discovery Turbo / DIT">[Fetch] Discovery Turbo / DIT</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251346" xmltv_id="[Fetch] Discovery Channel / DIS">[Fetch] Discovery Channel / DIS</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|419251" xmltv_id="[Fetch] BBC Earth / BBC Earth">[Fetch] BBC Earth / BBC Earth</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251352" xmltv_id="[Fetch] Nat Geo / NGE">[Fetch] Nat Geo / NGE</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|419252" xmltv_id="[Fetch] Nat Geo Wild / NAT GEO WILD">[Fetch] Nat Geo Wild / NAT GEO WILD</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251276" xmltv_id="[Fetch] Animal Planet / ANI">[Fetch] Animal Planet / ANI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|386214" xmltv_id="[Fetch] beIN SPORTS 1 / B1E">[Fetch] beIN SPORTS 1 / B1E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|431601" xmltv_id="[Fetch] beIN SPORTS 2 / B2E">[Fetch] beIN SPORTS 2 / B2E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|431602" xmltv_id="[Fetch] beIN SPORTS 3 / B3E">[Fetch] beIN SPORTS 3 / B3E</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|432163" xmltv_id="[Fetch] MSNBC / MSNBC">[Fetch] MSNBC / MSNBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251340" xmltv_id="[Fetch] CNBC / CNBC">[Fetch] CNBC / CNBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251338" xmltv_id="[Fetch] BBC World News / BBC">[Fetch] BBC World News / BBC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251341" xmltv_id="[Fetch] CNN / CNN">[Fetch] CNN / CNN</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|431759" xmltv_id="[Fetch] MTV Classic / MTC">[Fetch] MTV Classic / MTC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|380333" xmltv_id="[Fetch] MTV Hits / TMF">[Fetch] MTV Hits / TMF</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271866" xmltv_id="[Fetch] Club MTV / Club MTV">[Fetch] Club MTV / Club MTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251354" xmltv_id="[Fetch] Nickelodeon / NIC">[Fetch] Nickelodeon / NIC</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271840" xmltv_id="[Fetch] Nick Jr / NJR">[Fetch] Nick Jr / NJR</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|251380" xmltv_id="[Fetch] CARTOON NETWORK / TOON">[Fetch] CARTOON NETWORK / TOON</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271829" xmltv_id="[Fetch] BOOMERANG / BOOMERANG">[Fetch] BOOMERANG / BOOMERANG</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|397630" xmltv_id="[Fetch] BBC CBeebies / BBC CBeebies">[Fetch] BBC CBeebies / BBC CBeebies</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|377786" xmltv_id="[Fetch] Al Jazeera English / AJI">[Fetch] Al Jazeera English / AJI</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|419614" xmltv_id="[Fetch] euronews / euronews">[Fetch] euronews / euronews</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|417810" xmltv_id="[Fetch] France 24 / France 24">[Fetch] France 24 / France 24</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|271159" xmltv_id="[Fetch] Bloomberg / BLA">[Fetch] Bloomberg / BLA</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|417661" xmltv_id="[Fetch] CGTN / CCTV">[Fetch] CGTN / CCTV</channel>
+    <channel site="[ENC]tvguide.theage.com.au_0" site_id="284|##|280637" xmltv_id="[Fetch] GOOD. / ACC">[Fetch] GOOD. / ACC</channel>
+  </channels>
+</site>
