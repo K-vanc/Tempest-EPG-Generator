@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'player.stv.tv',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-07-06',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/London',
+  'culture' => 'en',
+  'max_day' => '10.1',
+  'url1' => 'https://player.api.stv.tv/v1/schedule/?startTime=>%3D##urldate1##%2000%3A00%3A00&endTime=<%3D##stopdate1##%2000%3A00%3A00&orderBy=startTime&limit=1000&channel=##channel##&groupToken=0071',
+  'requestOption1' => '1',
+  'accept_header1' => '*/*',
+  'content_type1' => 'application/json',
+  'origin_header1' => 'https://player.stv.tv',
+  'urldate_format1' => 'Y-m-d',
+  'stopdate_format1' => 'Y-m-d',
+  'show' => '({"title".*?"endTime":.*?})',
+  'start' => '"startTime":"(.*?)\\+',
+  'start_format' => 'Y-m-d\\TH#i#s',
+  'stop' => '"endTime":"(.*?)\\+',
+  'stop_format' => 'Y-m-d\\TH#i#s',
+  'title' => '"title":"(.*?)",',
+  'desc' => '"summary":"(.*?)",',
+  'showicon' => '"images":\\[{"id":\\d+,"filename":"(.*?)"||#addstart#https://images.stv.tv/player/w720xh405/',
+  'channel_logo' => '||#add#https://images.stv.tv/player/h50xmFit/##cclogo##',
+  'ccurl1' => 'https://player.api.stv.tv/v1/channels?groupToken=0071',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => '*/*',
+  'cccontent_type1' => 'application/json',
+  'ccorigin_header1' => 'https://player.stv.tv',
+  'ccchannel_id' => '{"channel":"(.*?)"',
+  'ccchannel_name' => '","title":"(.*?)"',
+  'ccchannel_logo' => '"channelImage":{"id":\\d+,"filename":"(.*?)"',
+);
+?>
