@@ -12,7 +12,7 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 | 266 | 149 | +183500 |
 
 <br>
-<h3>Note: I will be in vacation till 27.07.22. Cya again new updates after this date..</h3>
+<h3>Note: I will be in vacation till 27.07.22. Cya again with new updates after this date..</h3>
 <br>
 <h3>Live Demo : <a href="https://tempestepg.000webhostapp.com/">https://tempestepg.000webhostapp.com/</a></h3>
 <br><br>
