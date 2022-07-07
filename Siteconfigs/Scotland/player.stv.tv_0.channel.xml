@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="player.stv.tv_0">
+  <channels>
+    <channel site="player.stv.tv_0" site_id="stv||687401-stv.png" xmltv_id="STV">STV</channel>
+    <channel site="player.stv.tv_0" site_id="stv-plus-1||687402-stv-1.png" xmltv_id="STV +1">STV +1</channel>
+  </channels>
+</site>
