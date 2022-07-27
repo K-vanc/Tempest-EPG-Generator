@@ -12,8 +12,6 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 | 266 | 149 | +183500 |
 
 <br>
-<h3>Note: I will be in vacation till 27.07.22. Cya again with new updates after this date..</h3>
-<br>
 <h3>Live Demo : <a href="https://tempestepg.000webhostapp.com/">https://tempestepg.000webhostapp.com/</a></h3>
 <br><br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/154066443-d8d8f358-9985-477f-9667-d53aa409c6b3.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>
