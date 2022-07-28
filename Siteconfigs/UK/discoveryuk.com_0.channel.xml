@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="discoveryuk.com_0">
+  <channels>
+    <channel site="discoveryuk.com_0" site_id="discovery-channel" xmltv_id="Discovery">Discovery</channel>
+    <channel site="discoveryuk.com_0" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="discoveryuk.com_0" site_id="id" xmltv_id="ID">ID</channel>
+    <channel site="discoveryuk.com_0" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="discoveryuk.com_0" site_id="science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="discoveryuk.com_0" site_id="turbo" xmltv_id="Turbo">Turbo</channel>
+    <channel site="discoveryuk.com_0" site_id="discovery-history" xmltv_id="Discovery History">Discovery History</channel>
+  </channels>
+</site>
