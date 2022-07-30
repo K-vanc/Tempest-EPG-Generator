@@ -15,6 +15,6 @@ till the defined "Expiry Date" but cannot edit or debug their content. Siteconfi
 siteconfig file in "Y-m-d" format as below;<br>
 ![image](https://user-images.githubusercontent.com/97025515/181880112-eb9438d6-4d1e-4fb7-bb74-70e2ebde01bc.png)
 <br>
-# IMPORTANT NOTE
+# !!IMPORTANT NOTE!!
 Please note that expiry date for the first published "[ENC][EX]" siteconfig files (which Siteconfig expiry date line is not available) were set to "03-08-2022" and they will 
 be unusuable after this date. Please redownload new siteconfig files which were set to "03-08-2023" as expiry date. 
