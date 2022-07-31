@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]thetimes.co.uk_0">
+  <channels>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="81" xmltv_id="RTE One">RTE One</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="82" xmltv_id="RTE2">RTE2</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="84" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="83" xmltv_id="TG4">TG4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1209" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1929" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="4" xmltv_id="BBC One England">BBC One England</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="9" xmltv_id="BBC One East">BBC One East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="10" xmltv_id="BBC One East Midlands">BBC One East Midlands</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="11" xmltv_id="BBC One West Midlands">BBC One West Midlands</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="18" xmltv_id="BBC One West">BBC One West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="12" xmltv_id="BBC One Yorkshire">BBC One Yorkshire</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="13" xmltv_id="BBC One North East">BBC One North East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="14" xmltv_id="BBC One North West">BBC One North West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="713" xmltv_id="BBC One London">BBC One London</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="15" xmltv_id="BBC One South">BBC One South</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="16" xmltv_id="BBC One South East">BBC One South East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="17" xmltv_id="BBC One South West">BBC One South West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1" xmltv_id="BBC One Northern Ireland">BBC One Northern Ireland</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="2" xmltv_id="BBC One Scotland">BBC One Scotland</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="3" xmltv_id="BBC One Wales">BBC One Wales</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="52" xmltv_id="BBC Two England">BBC Two England</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="22" xmltv_id="BBC Two East">BBC Two East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="23" xmltv_id="BBC Two East Midlands">BBC Two East Midlands</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="24" xmltv_id="BBC Two West Midlands">BBC Two West Midlands</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="32" xmltv_id="BBC Two West">BBC Two West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="25" xmltv_id="BBC Two Yorkshire">BBC Two Yorkshire</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="26" xmltv_id="BBC Two North East">BBC Two North East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="27" xmltv_id="BBC Two North West">BBC Two North West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="724" xmltv_id="BBC Two London">BBC Two London</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="29" xmltv_id="BBC Two South">BBC Two South</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="30" xmltv_id="BBC Two South East">BBC Two South East</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="31" xmltv_id="BBC Two South West">BBC Two South West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="19" xmltv_id="BBC Two Northern Ireland">BBC Two Northern Ireland</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="20" xmltv_id="BBC Two Scotland">BBC Two Scotland</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="21" xmltv_id="BBC Two Wales">BBC Two Wales</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="43" xmltv_id="ITV Anglia">ITV Anglia</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="47" xmltv_id="ITV Central">ITV Central</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="36" xmltv_id="ITV Yorkshire">ITV Yorkshire</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="35" xmltv_id="ITV Granada">ITV Granada</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="37" xmltv_id="ITV Tyne Tees">ITV Tyne Tees</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="38" xmltv_id="ITV Border">ITV Border</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="49" xmltv_id="ITV London">ITV London</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="42" xmltv_id="ITV Meridian">ITV Meridian</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="46" xmltv_id="ITV West">ITV West</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="48" xmltv_id="ITV West Country">ITV West Country</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="39" xmltv_id="UTV">UTV</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="40" xmltv_id="STV Central">STV Central</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="41" xmltv_id="STV North">STV North</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="45" xmltv_id="ITV Wales">ITV Wales</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="53" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="54" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="742" xmltv_id="BBC Four">BBC Four</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="451" xmltv_id="ITV2">ITV2</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1065" xmltv_id="ITV3">ITV3</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1174" xmltv_id="ITV4">ITV4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1900" xmltv_id="ITVBe">ITVBe</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="605" xmltv_id="E4">E4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1167" xmltv_id="More4">More4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="220" xmltv_id="Film4">Film4</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1946" xmltv_id="Talking Pictures">Talking Pictures</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="2141" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="908" xmltv_id="Yesterday">Yesterday</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1172" xmltv_id="Pick">Pick</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="74" xmltv_id="Dave">Dave</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1798" xmltv_id="Drama">Drama</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1290" xmltv_id="5USA">5USA</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1289" xmltv_id="5STAR">5STAR</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1936" xmltv_id="5Spike">5Spike</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1859" xmltv_id="5Select">5Select</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1548" xmltv_id="True Entertainment">True Entertainment</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1031" xmltv_id="The Horror Channel">The Horror Channel</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1084" xmltv_id="Really">Really</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1483" xmltv_id="Quest">Quest</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="56" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="733" xmltv_id="CBBC">CBBC</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="734" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="222" xmltv_id="Sky One">Sky One</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1628" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="602" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="122" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1441" xmltv_id="W">W</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="134" xmltv_id="Gold">Gold</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="185" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="154" xmltv_id="Alibi">Alibi</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1660" xmltv_id="PBS America">PBS America</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="984" xmltv_id="Fox">Fox</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="169" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="177" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="171" xmltv_id="History">History</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="993" xmltv_id="Eden">Eden</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="155" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="161" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1804" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1806" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="431" xmltv_id="Sky Main Event">Sky Main Event</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1889" xmltv_id="Sky Premier League">Sky Premier League</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="2086" xmltv_id="Sky Football">Sky Football</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="433" xmltv_id="Sky Cricket">Sky Cricket</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="437" xmltv_id="Sky Golf">Sky Golf</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="275" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1076" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1320" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1327" xmltv_id="Sky Cinema Select">Sky Cinema Select</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1326" xmltv_id="Sky Cinema Superheros">Sky Cinema Superheros</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1324" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1323" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1783" xmltv_id="Sky Cinema Disney">Sky Cinema Disney</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1322" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1319" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1328" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1329" xmltv_id="Sky Cinema Sci-Fi / Horror">Sky Cinema Sci-Fi / Horror</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="187" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1680" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel site="[ENC]thetimes.co.uk_0" site_id="1431" xmltv_id="Movies 4 Men">Movies 4 Men</channel>
+  </channels>
+</site>
