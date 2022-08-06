@@ -16,7 +16,7 @@ return array (
   'content_type1' => 'application/json; charset=UTF-8',
   'origin_header1' => 'https://tver.jp',
   'custom_header1' => 'x-tver-platform-type: web',
-  'urldate_format1' => 'Y%2Fm%2Fd',
+  'urldate_format1' => 'Y%2\\Fm%2\\Fd',
   'show' => '{"broadcaster":{"id":"##channel##".*?"programs":\\[.*?(?:{)(.*?)(?:}}).*?\\]}',
   'start' => '"startAt":(\\d+)',
   'start_format' => 'unix',
