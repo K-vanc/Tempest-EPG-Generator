@@ -33,7 +33,7 @@ return array (
   'cccontent_type1' => 'application/json; charset=UTF-8',
   'ccorigin_header1' => 'https://tver.jp',
   'cccustom_header1' => 'x-tver-platform-type: web',
-  'ccurldate_format1' => 'Y%2Fm%2Fd',
+  'ccurldate_format1' => 'Y%2\\Fm%2\\Fd',
   'ccsubpage_format1' => 'ota|bs',
   'ccchannel_block' => '"contents":\\[.*?(?:{"broadcaster":)(.*?)(?:}).*?\\]||#ccsubpage#set(ota|bs)',
   'ccchannel_id' => '#__#(.*?\\|##\\|)|#|"id":"(\\d+)',
