@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tver.jp_0">
+  <channels>
+    <channel site="tver.jp_0" site_id="ota|##|120" xmltv_id="NHK総合・東京">NHK総合・東京</channel>
+    <channel site="tver.jp_0" site_id="ota|##|124" xmltv_id="NHK Eテレ・東京">NHK Eテレ・東京</channel>
+    <channel site="tver.jp_0" site_id="ota|##|128" xmltv_id="日テレ">日テレ</channel>
+    <channel site="tver.jp_0" site_id="ota|##|138" xmltv_id="テレビ朝日">テレビ朝日</channel>
+    <channel site="tver.jp_0" site_id="ota|##|131" xmltv_id="TBS">TBS</channel>
+    <channel site="tver.jp_0" site_id="ota|##|142" xmltv_id="テレビ東京">テレビ東京</channel>
+    <channel site="tver.jp_0" site_id="ota|##|134" xmltv_id="フジテレビ">フジテレビ</channel>
+    <channel site="tver.jp_0" site_id="ota|##|399" xmltv_id="TOKYO　MX">TOKYO　MX</channel>
+    <channel site="tver.jp_0" site_id="bs|##|1" xmltv_id="NHKBS1">NHKBS1</channel>
+    <channel site="tver.jp_0" site_id="bs|##|3" xmltv_id="NHKBSプレミアム">NHKBSプレミアム</channel>
+    <channel site="tver.jp_0" site_id="bs|##|5" xmltv_id="BS日テレ">BS日テレ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|8" xmltv_id="BS朝日">BS朝日</channel>
+    <channel site="tver.jp_0" site_id="bs|##|11" xmltv_id="BS-TBS">BS-TBS</channel>
+    <channel site="tver.jp_0" site_id="bs|##|14" xmltv_id="ＢＳテレ東">ＢＳテレ東</channel>
+    <channel site="tver.jp_0" site_id="bs|##|17" xmltv_id="BSフジ">BSフジ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|20" xmltv_id="WOWOWプライム">WOWOWプライム</channel>
+    <channel site="tver.jp_0" site_id="bs|##|21" xmltv_id="WOWOWライブ">WOWOWライブ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|22" xmltv_id="WOWOWシネマ">WOWOWシネマ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|23" xmltv_id="スターチャンネル1">スターチャンネル1</channel>
+    <channel site="tver.jp_0" site_id="bs|##|24" xmltv_id="スターチャンネル2">スターチャンネル2</channel>
+    <channel site="tver.jp_0" site_id="bs|##|25" xmltv_id="スターチャンネル3">スターチャンネル3</channel>
+    <channel site="tver.jp_0" site_id="bs|##|26" xmltv_id="BS11イレブン">BS11イレブン</channel>
+    <channel site="tver.jp_0" site_id="bs|##|27" xmltv_id="BS12トゥエルビ">BS12トゥエルビ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|28" xmltv_id="放送大学ｅｘ">放送大学ｅｘ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|29" xmltv_id="放送大学ｏｎ">放送大学ｏｎ</channel>
+    <channel site="tver.jp_0" site_id="bs|##|30" xmltv_id="グリーンチャンネル">グリーンチャンネル</channel>
+    <channel site="tver.jp_0" site_id="bs|##|31" xmltv_id="BSアニマックス">BSアニマックス</channel>
+    <channel site="tver.jp_0" site_id="bs|##|33" xmltv_id="BSスカパー!">BSスカパー!</channel>
+    <channel site="tver.jp_0" site_id="bs|##|34" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
+    <channel site="tver.jp_0" site_id="bs|##|35" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
+    <channel site="tver.jp_0" site_id="bs|##|36" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
+    <channel site="tver.jp_0" site_id="bs|##|37" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
+    <channel site="tver.jp_0" site_id="bs|##|38" xmltv_id="BS釣りビジョン">BS釣りビジョン</channel>
+    <channel site="tver.jp_0" site_id="bs|##|39" xmltv_id="WOWOWプラス">WOWOWプラス</channel>
+    <channel site="tver.jp_0" site_id="bs|##|40" xmltv_id="日本映画専門ch">日本映画専門ch</channel>
+    <channel site="tver.jp_0" site_id="bs|##|41" xmltv_id="ディズニーch">ディズニーch</channel>
+    <channel site="tver.jp_0" site_id="bs|##|61" xmltv_id="スターチャンネル">スターチャンネル</channel>
+    <channel site="tver.jp_0" site_id="bs|##|260" xmltv_id="BS松竹東急">BS松竹東急</channel>
+    <channel site="tver.jp_0" site_id="bs|##|263" xmltv_id="BSJapanext">BSJapanext</channel>
+    <channel site="tver.jp_0" site_id="bs|##|265" xmltv_id="BSよしもと">BSよしもと</channel>
+  </channels>
+</site>
