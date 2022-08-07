@@ -1,0 +1,38 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'dubaione.ae',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-08-07',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Dubai',
+  'culture' => 'en',
+  'max_day' => '4',
+  'url1' => 'https://www.dubaione.ae/content/dubaione/en-ae/##urldate1##.html',
+  'requestOption1' => '1',
+  'content_type1' => 'text/html; charset=UTF-8',
+  'custom_header1' => 'content-language: en',
+  'urldate_format1' => '#daylist#schedule|schedule.2|schedule.3|schedule.4',
+  'show' => 'SCHEDULE LIST START.*?(?:<li>)(.*?)(?:<\\/div>\\s*<\\/li>).*?SCHEDULE LIST END',
+  'start' => 'UAE:\\s*(\\d{2}[\\.:]\\d{2})',
+  'start_format' => 'H#i',
+  'title' => '<h5>(.*?)<\\/h5>',
+  'desc' => '<p>(.*?)<\\/p>',
+  'showicon' => 'src=\'(.*?)\'||#addstart#https://www.dubaione.ae',
+  'channel_logo' => '||#add#https://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png',
+  'pagekey1' => '<a href=\'(.*?)\'',
+  'detail_url1' => 'https://www.dubaione.ae##pagekey1##',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'detail_content_type1' => 'text/html; charset=UTF-8',
+  'detail_title' => '<h1>(.*?)<\\/h1>',
+  'detail_desc' => '<p align="justify">(.*?)<\\/p>',
+  'detail_showicon' => '<figure class="th-themepost-img">\\s*<img src="(.*?)"||#addstart#https://www.dubaione.ae',
+  'detail_actor' => 'Actors\\s*<\\/strong>\\s*-(.*?)<\\/h5>||#split#(,)',
+  'detail_director' => 'Director\\s*<\\/strong>\\s*-(.*?)<\\/h5>||#split#(,)',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#dubaione',
+  'ccchannel_name' => '||#set#Dubai One ',
+);
+?>
