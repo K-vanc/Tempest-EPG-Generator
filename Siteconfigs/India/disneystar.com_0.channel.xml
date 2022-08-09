@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="disneystar.com_0">
+  <channels>
+    <channel site="disneystar.com_0" site_id="10000000000080000" xmltv_id="STAR PLUS">STAR PLUS</channel>
+    <channel site="disneystar.com_0" site_id="10000000006010000" xmltv_id="STAR PLUS HD">STAR PLUS HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000053350000" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel site="disneystar.com_0" site_id="10000000053360000" xmltv_id="Star Bharat HD">Star Bharat HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000130000" xmltv_id="Star Utsav">Star Utsav</channel>
+    <channel site="disneystar.com_0" site_id="10000000043030000" xmltv_id="Star Utsav Movies">Star Utsav Movies</channel>
+    <channel site="disneystar.com_0" site_id="10000000000110000" xmltv_id="Star Gold">Star Gold</channel>
+    <channel site="disneystar.com_0" site_id="10000000006960000" xmltv_id="Star Gold HD">Star Gold HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000050920000" xmltv_id="Star Gold Select HD">Star Gold Select HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000009260000" xmltv_id="Star Gold 2">Star Gold 2</channel>
+    <channel site="disneystar.com_0" site_id="10000000004370000" xmltv_id="Star Jalsha">Star Jalsha</channel>
+    <channel site="disneystar.com_0" site_id="10000000041830000" xmltv_id="Star Jalsha HD">Star Jalsha HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000013240000" xmltv_id="Jalsha Movies">Jalsha Movies</channel>
+    <channel site="disneystar.com_0" site_id="10000000041840000" xmltv_id="Jalsha Movies HD">Jalsha Movies HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000004700000" xmltv_id="Star Pravah">Star Pravah</channel>
+    <channel site="disneystar.com_0" site_id="10000000042610000" xmltv_id="Star Pravah HD">Star Pravah HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000001470000" xmltv_id="Asianet">Asianet</channel>
+    <channel site="disneystar.com_0" site_id="10000000036310000" xmltv_id="Asianet HD">Asianet HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000001480000" xmltv_id="Asianet Plus">Asianet Plus</channel>
+    <channel site="disneystar.com_0" site_id="10000000010950000" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel site="disneystar.com_0" site_id="10000000002090000" xmltv_id="Star Suvarna">Star Suvarna</channel>
+    <channel site="disneystar.com_0" site_id="10000000017180000" xmltv_id="Star Suvarna Plus">Star Suvarna Plus</channel>
+    <channel site="disneystar.com_0" site_id="10000000000820000" xmltv_id="Vijay TV">Vijay TV</channel>
+    <channel site="disneystar.com_0" site_id="10000000044330000" xmltv_id="Vijay HD">Vijay HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000120000" xmltv_id="Star World">Star World</channel>
+    <channel site="disneystar.com_0" site_id="10000000006980000" xmltv_id="Star World HD">Star World HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000017700000" xmltv_id="Star World Premiere HD">Star World Premiere HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000100000" xmltv_id="Star Movies">Star Movies</channel>
+    <channel site="disneystar.com_0" site_id="10000000006970000" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000034570000" xmltv_id="Star Movies Select HD">Star Movies Select HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000160000" xmltv_id="Fox Life">Fox Life</channel>
+    <channel site="disneystar.com_0" site_id="10000000013350000" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000170000" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel site="disneystar.com_0" site_id="10000000005780000" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000005680000" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="disneystar.com_0" site_id="10000000013430000" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000005860000" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="disneystar.com_0" site_id="10000000013410000" xmltv_id="Baby TV HD">Baby TV HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000000190000" xmltv_id="Star Sports 1">Star Sports 1</channel>
+    <channel site="disneystar.com_0" site_id="10000000014200000" xmltv_id="Star Sports 2">Star Sports 2</channel>
+    <channel site="disneystar.com_0" site_id="10000000061080000" xmltv_id="Star Sports 3">Star Sports 3</channel>
+    <channel site="disneystar.com_0" site_id="10000000002650000" xmltv_id="Star Sports 1 Hindi">Star Sports 1 Hindi</channel>
+    <channel site="disneystar.com_0" site_id="10000000027760000" xmltv_id="Star Sports Select 1">Star Sports Select 1</channel>
+    <channel site="disneystar.com_0" site_id="10000000052670000" xmltv_id="Star Sports Select 2">Star Sports Select 2</channel>
+    <channel site="disneystar.com_0" site_id="10000000006760000" xmltv_id="Star Sports 1 HD">Star Sports 1 HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000005870000" xmltv_id="Star Sports 2 HD">Star Sports 2 HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000027750000" xmltv_id="Star Sports 1 HD Hindi">Star Sports 1 HD Hindi</channel>
+    <channel site="disneystar.com_0" site_id="10000000047500000" xmltv_id="Star Sports Select 1 HD">Star Sports Select 1 HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000047510000" xmltv_id="Star Sports Select 2 HD">Star Sports Select 2 HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000053100000" xmltv_id="Star Sports First">Star Sports First</channel>
+    <channel site="disneystar.com_0" site_id="10000000001220000" xmltv_id="Star Maa">Star Maa</channel>
+    <channel site="disneystar.com_0" site_id="10000000047540000" xmltv_id="Star Maa HD">Star Maa HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000006690000" xmltv_id="Star Maa Movies">Star Maa Movies</channel>
+    <channel site="disneystar.com_0" site_id="10000000004000000" xmltv_id="Star Maa Music">Star Maa Music</channel>
+    <channel site="disneystar.com_0" site_id="10000000006700000" xmltv_id="Star Maa Gold">Star Maa Gold</channel>
+    <channel site="disneystar.com_0" site_id="10000000000140000" xmltv_id="Star Sports 1 Tamil">Star Sports 1 Tamil</channel>
+    <channel site="disneystar.com_0" site_id="10000000048000000" xmltv_id="Vijay Super">Vijay Super</channel>
+    <channel site="disneystar.com_0" site_id="10000000062140000" xmltv_id="Star Sports 1 Telugu">Star Sports 1 Telugu</channel>
+    <channel site="disneystar.com_0" site_id="10000000062600000" xmltv_id="Star Sports 1 Kannada">Star Sports 1 Kannada</channel>
+    <channel site="disneystar.com_0" site_id="10000000052790000" xmltv_id="Star Maa Movies HD">Star Maa Movies HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000052720000" xmltv_id="Star Gold Select">Star Gold Select</channel>
+    <channel site="disneystar.com_0" site_id="10000000053040000" xmltv_id="Star Suvarna HD">Star Suvarna HD</channel>
+    <channel site="disneystar.com_0" site_id="10000000064430000" xmltv_id="Star Sports 1 Bangla">Star Sports 1 Bangla</channel>
+    <channel site="disneystar.com_0" site_id="10000000066960000" xmltv_id="Star Sports 1 Marathi">Star Sports 1 Marathi</channel>
+  </channels>
+</site>
