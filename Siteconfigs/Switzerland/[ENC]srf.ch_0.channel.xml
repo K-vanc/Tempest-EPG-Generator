@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]srf.ch_0">
+  <channels>
+    <channel site="[ENC]srf.ch_0" site_id="23FFBE1B-65CE-4188-ADD2-C724186C2C9F||srf" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="E4D5AD08-C1E8-46A3-BB58-4875051D60D2||srf" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel site="[ENC]srf.ch_0" site_id="34c2819e-e715-43d7-9026-40a443152a97||srf" xmltv_id="SRF info">SRF info</channel>
+    <channel site="[ENC]srf.ch_0" site_id="ard||non-srg" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC]srf.ch_0" site_id="zdf||non-srg" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]srf.ch_0" site_id="orf-1||non-srg" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="orf-2||non-srg" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC]srf.ch_0" site_id="3sat||non-srg" xmltv_id="3Sat">3Sat</channel>
+    <channel site="[ENC]srf.ch_0" site_id="arte||non-srg" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC]srf.ch_0" site_id="kika||non-srg" xmltv_id="KiKa">KiKa</channel>
+    <channel site="[ENC]srf.ch_0" site_id="rtl||non-srg" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]srf.ch_0" site_id="rtl-2||non-srg" xmltv_id="RTL II">RTL II</channel>
+    <channel site="[ENC]srf.ch_0" site_id="sat1||non-srg" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="pro7||non-srg" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC]srf.ch_0" site_id="vox||non-srg" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC]srf.ch_0" site_id="kabel-1||non-srg" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC]srf.ch_0" site_id="super-rtl||non-srg" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC]srf.ch_0" site_id="3plus||non-srg" xmltv_id="3+">3+</channel>
+    <channel site="[ENC]srf.ch_0" site_id="4plus||non-srg" xmltv_id="4+">4+</channel>
+    <channel site="[ENC]srf.ch_0" site_id="5plus||non-srg" xmltv_id="5+">5+</channel>
+    <channel site="[ENC]srf.ch_0" site_id="puls8||non-srg" xmltv_id="Puls 8">Puls 8</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-1||non-srg" xmltv_id="Tele 1">Tele 1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-bern||non-srg" xmltv_id="Tele Bärn">Tele Bärn</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-basel||non-srg" xmltv_id="Tele Basel">Tele Basel</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-m1||non-srg" xmltv_id="Tele M1">Tele M1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-ostch||non-srg" xmltv_id="TVO Tele Ostschweiz">TVO Tele Ostschweiz</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-suedostch||non-srg" xmltv_id="Tele Südostschweiz">Tele Südostschweiz</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-top||non-srg" xmltv_id="Tele Top">Tele Top</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tele-zuri||non-srg" xmltv_id="Tele Züri">Tele Züri</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tv-24||non-srg" xmltv_id="TV24">TV24</channel>
+    <channel site="[ENC]srf.ch_0" site_id="tv-25||non-srg" xmltv_id="TV25">TV25</channel>
+    <channel site="[ENC]srf.ch_0" site_id="br||non-srg" xmltv_id="BR">BR</channel>
+    <channel site="[ENC]srf.ch_0" site_id="swr||non-srg" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]srf.ch_0" site_id="ndr||non-srg" xmltv_id="NDR">NDR</channel>
+    <channel site="[ENC]srf.ch_0" site_id="wdr||non-srg" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC]srf.ch_0" site_id="dmax||non-srg" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]srf.ch_0" site_id="rtl-nitro||non-srg" xmltv_id="Nitro">Nitro</channel>
+    <channel site="[ENC]srf.ch_0" site_id="nick||non-srg" xmltv_id="Nickelodeon / CC">Nickelodeon / CC</channel>
+    <channel site="[ENC]srf.ch_0" site_id="eurosport||non-srg" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC]srf.ch_0" site_id="zdf-neo||non-srg" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="[ENC]srf.ch_0" site_id="143932a79bb5a123a646b68b1d1188d7ae493e5b||rts" xmltv_id="RTS 1">RTS 1</channel>
+    <channel site="[ENC]srf.ch_0" site_id="d7dfff28deee44e1d3c49a3d37d36d492b29671b||rts" xmltv_id="RTS 2">RTS 2</channel>
+  </channels>
+</site>
