@@ -1,5 +1,5 @@
 After downloading and inserting the file to siteconfig folder,<br>
-you can create your own channel list for ontvtonight and o.canada.com based on zip/postal code you want.<br>
+you can create your own channel list for ontvtonight, o.canada.com and thestar.com based on zip/postal code you want.<br>
 All you need to do is, going into "Channel Generator" tab<br>
 Choosing siteconfig file from loader<br>
 And typing your zip/postal code into "User Key" box such as M5G1P5 etc.<br>
