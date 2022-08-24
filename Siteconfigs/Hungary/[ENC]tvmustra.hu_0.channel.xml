@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvmustra.hu_0">
+  <channels>
+    <channel site="[ENC]tvmustra.hu_0" site_id="360TUNEBOX" xmltv_id="360TuneBox">360TuneBox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="3SAT" xmltv_id="3Sat">3Sat</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ALJAZEERA" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="AMC" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ANIMALPLANETHD" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ARD" xmltv_id="ARD1">ARD1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ARENA4" xmltv_id="Aréna4">Aréna4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ARTE" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ATV" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ATVSPIRIT" xmltv_id="ATV SPIRIT">ATV SPIRIT</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BABYTV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BABYFIRST" xmltv_id="Babyfirst">Babyfirst</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BALATONTV" xmltv_id="Balaton TV">Balaton TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BBCEARTH" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BBCENTERTAINMENT" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BONUMTV" xmltv_id="Bonum TV">Bonum TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BOOMERANG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="BRAZZERSTVEUROPE" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CARTOON" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CBSREALITY" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CINEMAX" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CINEMAX2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CLUBMTV" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="COMEDY" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="COMEDYFAMILY" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="COOL" xmltv_id="Cool TV">Cool TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CRIME_INVESTIGATION" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="D1" xmltv_id="D1">D1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DAVINCILEARNING" xmltv_id="Da Vinci Tv">Da Vinci Tv</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DIGIANIMALWORLD" xmltv_id="DIGI Animal World">DIGI Animal World</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DIGILIFE" xmltv_id="DIGI Life">DIGI Life</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DIGIWORLD" xmltv_id="DIGI World">DIGI World</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DIKHTV" xmltv_id="Dikh TV">Dikh TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DISCOVERYCHANNEL" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DISCOVERYSCIENCE" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DISCOVERYTURBOXTRA" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DISNEY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DOCUBOX" xmltv_id="Docubox">Docubox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DUCKTV" xmltv_id="Duck Tv">Duck Tv</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DUNA" xmltv_id="Duna TV">Duna TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DUNAWORLD" xmltv_id="Duna World">Duna World</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="E_ENTERTAINMENT" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ENGLISH_CLUB_TV" xmltv_id="English Club TV">English Club TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EPICDRAMA" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EROX" xmltv_id="Eroxxx HD">Eroxxx HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EURONEWS" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EUROSPORT2" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EUROSPORT4K" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EUROSPORT" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="EXTREMESPORTS" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FTV" xmltv_id="Fashion TV Europe">Fashion TV Europe</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FASHIONBOX" xmltv_id="Fashionbox">Fashionbox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FEM3" xmltv_id="Fem3">Fem3</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FIGHTBOX" xmltv_id="FightBox">FightBox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMCAFE" xmltv_id="Film Café">Film Café</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMMANIA" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMPLUSSZ" xmltv_id="Film+">Film+</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILM4" xmltv_id="Film4">Film4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOX" xmltv_id="Filmbox">Filmbox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOXARTHOUSE" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOXHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOXFAMILY" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOXPREMIUM" xmltv_id="FilmBox Prémium">FilmBox Prémium</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMBOXSTARS" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FILMNOW" xmltv_id="FilmNow">FilmNow</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FH" xmltv_id="Fishing and Hunting Channel">Fishing and Hunting Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FITHD" xmltv_id="Fit HD">Fit HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FIXTV" xmltv_id="FixTV HD">FixTV HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FOODNETWORK" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FONIXTV" xmltv_id="Főnix Tv">Főnix Tv</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FTVHD" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="FUNBOX" xmltv_id="FunBox UHD">FunBox UHD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="GALAXY4" xmltv_id="Galaxy4">Galaxy4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="GAMETOON" xmltv_id="Gametoon">Gametoon</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HIT_MUSIC" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HATOSCSATORNA" xmltv_id="Hatos csatorna">Hatos csatorna</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HBO" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HBO2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HBO3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HIRTV" xmltv_id="HIR TV">HIR TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="THEHISTORYCHANNEL" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HISTORY2" xmltv_id="History2">History2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HRT1" xmltv_id="HRT-1">HRT-1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HRT2" xmltv_id="HRT-2">HRT-2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="HUSTLERTV" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="DISCOVERYID" xmltv_id="ID: Investigation Discovery">ID: Investigation Discovery</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="IZAURATV" xmltv_id="Izaura TV">Izaura TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="JAZZTV" xmltv_id="JazzTV">JazzTV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="JOCKYTV" xmltv_id="Jocky TV">Jocky TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="KIKA" xmltv_id="Kika">Kika</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="LIFETV" xmltv_id="LifeTv">LifeTv</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="LOVE_NATURE" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="M1HD" xmltv_id="m1 HD">m1 HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="M2HD" xmltv_id="m2 HD">m2 HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="M4" xmltv_id="m4">m4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="M4_SPORT_PLUSZ" xmltv_id="m4sport+">m4sport+</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="M5" xmltv_id="m5">m5</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MATCH4" xmltv_id="Match 4">Match 4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MEZZO" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MEZZOHD" xmltv_id="MEZZOHD">MEZZOHD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MINIMAX" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MOZIPLUSZ" xmltv_id="Mozi+">Mozi+</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MOZIVERZUM" xmltv_id="Moziverzum">Moziverzum</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MR1KOSSUTH" xmltv_id="MR1-Kossuth">MR1-Kossuth</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MR2PETOFI" xmltv_id="MR2-Petőfi">MR2-Petőfi</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MR3BARTOK" xmltv_id="MR3-Bartók">MR3-Bartók</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MR4NEMZETISEGI" xmltv_id="MR4-Nemzetiségi">MR4-Nemzetiségi</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MR6DANKO" xmltv_id="MR6-Dankó">MR6-Dankó</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTV00S" xmltv_id="MTV 00's">MTV 00's</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTV80S" xmltv_id="MTV 80's">MTV 80's</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTV90S" xmltv_id="MTV 90's">MTV 90's</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTVEURO" xmltv_id="MTV Euro">MTV Euro</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTVHITS" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTVHUNGARY" xmltv_id="MTV Hungary">MTV Hungary</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MTVLIVEHD" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MUSIC_CHANNEL" xmltv_id="Music Channel">Music Channel</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="MUZSIKA" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NATIONALGEOGRAPHIC" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NATGEOHD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NATIONALGEOWILD" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NATIONALGEOWILDHD" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NAUTICALCHANNEL" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NICK_JR" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NICKELODEON" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="NICKTOONS" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ORF1" xmltv_id="ORF1">ORF1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ORF2" xmltv_id="ORF2">ORF2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ORT1" xmltv_id="ORT1">ORT1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="OZONETV" xmltv_id="OzoneTv">OzoneTv</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PARAMOUNT_NETWORK" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PAXTV" xmltv_id="Pax TV">Pax TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PLAYBOYTV" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PRIME" xmltv_id="Prime">Prime</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PRIVATETV" xmltv_id="Private TV">Private TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="PRO7" xmltv_id="PRO 7">PRO 7</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RAIUNO" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="REDLIGHTHD" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTL" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTL2" xmltv_id="RTL 2 (Magyar)">RTL 2 (Magyar)</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTLGOLD" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTLKLUB" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTLPLUSZ" xmltv_id="RTL+">RTL+</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RTL2_DE" xmltv_id="RTL2">RTL2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SAT1" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SLAGERTV" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SMILEOFACHILD" xmltv_id="Smile of a Child">Smile of a Child</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SOROZATPLUSSZ" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPEKTRUM" xmltv_id="Spektrum">Spektrum</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPEKTRUMHD" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPEKTRUMHOME" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPILER1TV" xmltv_id="Spíler1 TV">Spíler1 TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPILER2TV" xmltv_id="Spíler2 TV">Spíler2 TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPORT1" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SPORT2" xmltv_id="Sport2">Sport2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CLASSICA" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="CMUSIC" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ICONCERT" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="STORY4" xmltv_id="Story4">Story4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SUPERRTL" xmltv_id="Super Rtl">Super Rtl</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SUPERTV2" xmltv_id="Super TV2">Super TV2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="SUPERONEHD" xmltv_id="Superone HD">Superone HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TEENNICK" xmltv_id="TeenNick">TeenNick</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TELEPAKS" xmltv_id="Telepaks">Telepaks</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="THEHISTORYCHANNELHD" xmltv_id="The History HD">The History HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TOLNATAJTV" xmltv_id="Tolnatáj TV">Tolnatáj TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TRAVELCHANNELHD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TRAVELXP" xmltv_id="TravelXP">TravelXP</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="RUSSIAN_KINO" xmltv_id="TV 1000 Russian Kino">TV 1000 Russian Kino</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TVPAPRIKA" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV2" xmltv_id="TV2">TV2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV2COMEDY" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV2_KIDS" xmltv_id="TV2 Kids">TV2 Kids</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV2SEF" xmltv_id="TV2 Séf">TV2 Séf</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV4" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TV5MONDE" xmltv_id="TV5">TV5</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="TVE" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASAT2" xmltv_id="Viasat 2">Viasat 2</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASAT3" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASAT6" xmltv_id="Viasat 6">Viasat 6</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASATEXPLORE" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASAT_FILM" xmltv_id="Viasat Film">Viasat Film</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASATHISTORY" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VIASATNATURE" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="VOX" xmltv_id="Vox">Vox</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ZEGTV" xmltv_id="Zeg TV">Zeg TV</channel>
+    <channel site="[ENC]tvmustra.hu_0" site_id="ZENEBUTIK" xmltv_id="Zenebutik">Zenebutik</channel>
+  </channels>
+</site>
