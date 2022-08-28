@@ -13,6 +13,10 @@ As the owner,copyright holder and developer of Tempest project, I hereby declare
 ## Tempest License System
 What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or something like that. Tempest is completely free-to-use without any user license or subscription etc. and it always will be. You can also freely download and use shared preconfigured unlocked and/or locked siteconfig files.
 <br>As in every free project, you may donate to support me and project so I can buy some super-critical increased corrosion resistance on elevated temperature materials to develop Tempest's fusion engine or just some coffee pods(some good ones are really expensive..)
+<br><br>Unfortunately (thanks God), I don't have such amazing function as quoted below;<br>
+>"to have full access (250 channels you need to donate 5 euro for 1 year, if you need more channels just donate more as a multi, 10 euro = 500 channels.....15euro=750 channels and so on)."
+>
+So you may sadly enjoy Tempest, if you really need such functionality.. 
 ## Tempest Donation System
 This is the heart of the project. As I mentioned above, donations are not mandatory to use Tempest but with each donation;<br>
 <br>🔹 You will be effected %0.0000001 less from planet's gravitational force (you can test it by yourself on your home scales)
