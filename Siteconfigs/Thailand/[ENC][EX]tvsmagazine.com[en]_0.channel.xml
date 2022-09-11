@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvsmagazine.com[en]_0">
+  <channels>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|1||sm_176.jpg" xmltv_id="TR FILM HD">TR FILM HD</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|2||sm_221.jpg" xmltv_id="TR FILM HD2">TR FILM HD2</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|3||sm_057.jpg" xmltv_id="TR MOVIE HITS">TR MOVIE HITS</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|4||sm_244.jpg" xmltv_id="TR CHIN MORE">TR CHIN MORE</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|5||sm_WARNR.jpg" xmltv_id="WARNER">WARNER</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|6||sm_KBS.jpg" xmltv_id="KBS">KBS</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|7||sm_222.jpg" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|8||sm_CMC.png" xmltv_id="CELESTIAL">CELESTIAL</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|9||sm_048.jpg" xmltv_id="TVB">TVB</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|10||sm_094.jpg" xmltv_id="TR THAI FILM">TR THAI FILM</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|11||sm_006.jpg" xmltv_id="TR FILM ASIA">TR FILM ASIA</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|12||sm_243.jpg" xmltv_id="TR KOR MORE">TR KOR MORE</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|13||sm_158.jpg" xmltv_id="TR ASIAN MORE">TR ASIAN MORE</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|14||sm_002.jpg" xmltv_id="TR SERIES">TR SERIES</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|15||sm_096.jpg" xmltv_id="TVN">TVN</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Movies|##|16||sm_212.jpg" xmltv_id="GEM">GEM</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|1||sm_040.jpg" xmltv_id="040">040</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|2||sm_120.jpg" xmltv_id="120">120</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|3||sm_177.jpg" xmltv_id="177">177</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|4||sm_208.jpg" xmltv_id="208">208</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|5||sm_174.jpg" xmltv_id="174">174</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|6||sm_034.jpg" xmltv_id="034">034</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|7||sm_FNW.jpg" xmltv_id="FNW">FNW</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|8||sm_KMTV.jpg" xmltv_id="KMTV">KMTV</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|9||sm_130.jpg" xmltv_id="130">130</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Entertainment|##|10||sm_214.jpg" xmltv_id="214">214</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|1||sm_DHDW.jpg" xmltv_id="DHDW">DHDW</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|2||sm_141.png" xmltv_id="141">141</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|3||sm_163.png" xmltv_id="163">163</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|4||sm_NATGEO.png" xmltv_id="NATGEO">NATGEO</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|5||sm_EXPW.jpg" xmltv_id="EXPW">EXPW</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|6||sm_EXPL.jpg" xmltv_id="EXPL">EXPL</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|7||sm_EXPSC.jpg" xmltv_id="EXPSC">EXPSC</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|8||sm_008.jpg" xmltv_id="008">008</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|9||sm_231.jpg" xmltv_id="231">231</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|10||sm_068.jpg" xmltv_id="068">068</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|11||sm_024.jpg" xmltv_id="024">024</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Knowledge|##|12||sm_213.jpg" xmltv_id="213">213</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|1||sm_233.jpg" xmltv_id="233">233</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|2||sm_234.jpg" xmltv_id="234">234</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|3||sm_097.jpg" xmltv_id="097">097</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|4||sm_123.jpg" xmltv_id="123">123</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|5||sm_184.jpg" xmltv_id="184">184</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|6||sm_062.jpg" xmltv_id="062">062</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|7||sm_045.jpg" xmltv_id="045">045</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|8||sm_165.jpg" xmltv_id="165">165</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|9||sm_088.jpg" xmltv_id="088">088</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|10||sm_164.jpg" xmltv_id="164">164</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|11||sm_NBATV.jpg" xmltv_id="NBATV">NBATV</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|12||sm_095.jpg" xmltv_id="095">095</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|13||sm_BEIN1.jpg" xmltv_id="BEIN1">BEIN1</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|14||sm_240.jpg" xmltv_id="240">240</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|15||sm_BEIN2.jpg" xmltv_id="BEIN2">BEIN2</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|16||sm_241.jpg" xmltv_id="241">241</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|17||sm_056.jpg" xmltv_id="056">056</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|18||sm_105.jpg" xmltv_id="105">105</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|19||sm_251.jpg" xmltv_id="251">251</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Sport|##|20||sm_252.jpg" xmltv_id="252">252</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|1||sm_021.jpg" xmltv_id="021">021</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|2||sm_001.png" xmltv_id="001">001</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|3||sm_PHOENIX.jpg" xmltv_id="PHOENIX">PHOENIX</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|4||sm_BBCN.jpg" xmltv_id="BBCN">BBCN</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|5||sm_CNBC.jpg" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|6||sm_TNN2.jpg" xmltv_id="TNN2">TNN2</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|7||sm_026.jpg" xmltv_id="026">026</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="News|##|8||sm_028.jpg" xmltv_id="028">028</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|1||sm_TSPPL.jpg" xmltv_id="TSPPL">TSPPL</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|2||sm_SPKJMP.jpg" xmltv_id="SPKJMP">SPKJMP</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|3||sm_245.jpg" xmltv_id="245">245</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|4||sm_111.jpg" xmltv_id="111">111</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|5||sm_NICK.jpg" xmltv_id="NICK">NICK</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Kids|##|6||sm_CNET.jpg" xmltv_id="CNET">CNET</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|1||sm_WORKP.jpg" xmltv_id="WORKP">WORKP</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|2||sm_T4U.jpg" xmltv_id="T4U">T4U</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|3||sm_N25.jpg" xmltv_id="N25">N25</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|4||sm_N27.jpg" xmltv_id="N27">N27</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|5||sm_MONO.png" xmltv_id="MONO">MONO</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|6||sm_ONE.jpg" xmltv_id="ONE">ONE</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|7||sm_TRATH.jpg" xmltv_id="TRATH">TRATH</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|8||sm_N33.jpg" xmltv_id="N33">N33</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|9||sm_N34.jpg" xmltv_id="N34">N34</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|10||sm_7HD.jpg" xmltv_id="7HD">7HD</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|11||sm_N36.jpg" xmltv_id="N36">N36</channel>
+    <channel site="[ENC][EX]tvsmagazine.com[en]_0" site_id="Digital|##|12||sm_N07.jpg" xmltv_id="N07">N07</channel>
+  </channels>
+</site>
