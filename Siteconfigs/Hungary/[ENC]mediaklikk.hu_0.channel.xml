@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]mediaklikk.hu_0">
+  <channels>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="dn|##|3||0" xmltv_id="Duna">Duna</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m1|##|1||0" xmltv_id="M1">M1</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m2|##|2||0" xmltv_id="M2">M2</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m3|##|26||0" xmltv_id="M3">M3</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m4|##|30||0" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m5|##|33||0" xmltv_id="M5">M5</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="dw|##|4||0" xmltv_id="Duna World">Duna World</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="m4p|##|34||0" xmltv_id="M4 Sport +">M4 Sport +</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="ks|##|6||1" xmltv_id="Kossuth">Kossuth</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="pl|##|21||1" xmltv_id="Petőfi">Petőfi</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="br|##|12||1" xmltv_id="Bartók">Bartók</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="dk|##|9||1" xmltv_id="Dankó">Dankó</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="nm|##|18||1" xmltv_id="Nemzetiségi">Nemzetiségi</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="dr|##|29||1" xmltv_id="Duna World">Duna World</channel>
+    <channel site="[ENC]mediaklikk.hu_0" site_id="pm|##|15||1" xmltv_id="Parlamenti">Parlamenti</channel>
+  </channels>
+</site>
