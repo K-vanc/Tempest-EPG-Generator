@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="zita.be_0">
+  <channels>
+    <channel site="zita.be_0" site_id="id-een" xmltv_id="EEN">EEN</channel>
+    <channel site="zita.be_0" site_id="id-canvas" xmltv_id="CANVAS">CANVAS</channel>
+    <channel site="zita.be_0" site_id="id-vtm" xmltv_id="VTM">VTM</channel>
+    <channel site="zita.be_0" site_id="id-vtm 2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel site="zita.be_0" site_id="id-vtm 3" xmltv_id="VTM 3">VTM 3</channel>
+    <channel site="zita.be_0" site_id="id-vtm 4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel site="zita.be_0" site_id="id-play4" xmltv_id="Play4">Play4</channel>
+    <channel site="zita.be_0" site_id="id-play5" xmltv_id="Play5">Play5</channel>
+    <channel site="zita.be_0" site_id="id-play6" xmltv_id="Play6">Play6</channel>
+    <channel site="zita.be_0" site_id="id-ketnet" xmltv_id="KETNET">KETNET</channel>
+    <channel site="zita.be_0" site_id="id-vtm kids" xmltv_id="VTM Kids">VTM Kids</channel>
+    <channel site="zita.be_0" site_id="id-njam" xmltv_id="NJAM">NJAM</channel>
+    <channel site="zita.be_0" site_id="id-la une" xmltv_id="LA UNE">LA UNE</channel>
+    <channel site="zita.be_0" site_id="id-tipik" xmltv_id="TIPIK">TIPIK</channel>
+    <channel site="zita.be_0" site_id="id-rtl-tvi" xmltv_id="RTL-TVI">RTL-TVI</channel>
+    <channel site="zita.be_0" site_id="id-club rtl" xmltv_id="CLUB RTL">CLUB RTL</channel>
+    <channel site="zita.be_0" site_id="id-tf1" xmltv_id="TF1">TF1</channel>
+    <channel site="zita.be_0" site_id="id-france 2" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel site="zita.be_0" site_id="id-tv5 monde" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="zita.be_0" site_id="id-npo 1" xmltv_id="NPO 1">NPO 1</channel>
+    <channel site="zita.be_0" site_id="id-npo 2" xmltv_id="NPO 2">NPO 2</channel>
+    <channel site="zita.be_0" site_id="id-npo 3" xmltv_id="NPO 3">NPO 3</channel>
+    <channel site="zita.be_0" site_id="id-fox" xmltv_id="FOX">FOX</channel>
+    <channel site="zita.be_0" site_id="id-tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="zita.be_0" site_id="id-bbc 1" xmltv_id="BBC 1">BBC 1</channel>
+    <channel site="zita.be_0" site_id="id-bbc 2" xmltv_id="BBC 2">BBC 2</channel>
+    <channel site="zita.be_0" site_id="id-discovery" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel site="zita.be_0" site_id="id-ngc" xmltv_id="NGC">NGC</channel>
+    <channel site="zita.be_0" site_id="id-mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="zita.be_0" site_id="id-cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="zita.be_0" site_id="id-eurosport" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel site="zita.be_0" site_id="id-ard" xmltv_id="ARD">ARD</channel>
+    <channel site="zita.be_0" site_id="id-wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="zita.be_0" site_id="id-zdf" xmltv_id="ZDF">ZDF</channel>
+  </channels>
+</site>
