@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]humo.be_0">
+  <channels>
+    <channel site="[ENC]humo.be_0" site_id="een" xmltv_id="Eén">Eén</channel>
+    <channel site="[ENC]humo.be_0" site_id="canvas" xmltv_id="Canvas">Canvas</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtm" xmltv_id="VTM">VTM</channel>
+    <channel site="[ENC]humo.be_0" site_id="play4" xmltv_id="Play 4">Play 4</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtm2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtm3" xmltv_id="VTM 3">VTM 3</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtm4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel site="[ENC]humo.be_0" site_id="play5" xmltv_id="Play 5">Play 5</channel>
+    <channel site="[ENC]humo.be_0" site_id="play6" xmltv_id="Play 6">Play 6</channel>
+    <channel site="[ENC]humo.be_0" site_id="play7" xmltv_id="Play 7">Play 7</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtmgold" xmltv_id="VTM Gold">VTM Gold</channel>
+    <channel site="[ENC]humo.be_0" site_id="npo-1" xmltv_id="NPO-1">NPO-1</channel>
+    <channel site="[ENC]humo.be_0" site_id="npo-2" xmltv_id="NPO-2">NPO-2</channel>
+    <channel site="[ENC]humo.be_0" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]humo.be_0" site_id="discovery-vlaanderen" xmltv_id="Discovery Vlaanderen">Discovery Vlaanderen</channel>
+    <channel site="[ENC]humo.be_0" site_id="npo-3" xmltv_id="NPO-3">NPO-3</channel>
+    <channel site="[ENC]humo.be_0" site_id="njam" xmltv_id="Njam!">Njam!</channel>
+    <channel site="[ENC]humo.be_0" site_id="tlc-vl" xmltv_id="TLC VL">TLC VL</channel>
+    <channel site="[ENC]humo.be_0" site_id="foxhd" xmltv_id="FoxHD">FoxHD</channel>
+    <channel site="[ENC]humo.be_0" site_id="bbc-one" xmltv_id="BBC-one">BBC-one</channel>
+    <channel site="[ENC]humo.be_0" site_id="bbc-two" xmltv_id="BBC-two">BBC-two</channel>
+    <channel site="[ENC]humo.be_0" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC]humo.be_0" site_id="eurosport1be" xmltv_id="Eurosport-1 BE">Eurosport-1 BE</channel>
+    <channel site="[ENC]humo.be_0" site_id="la-une" xmltv_id="La Une">La Une</channel>
+    <channel site="[ENC]humo.be_0" site_id="tipik" xmltv_id="Tipik">Tipik</channel>
+    <channel site="[ENC]humo.be_0" site_id="france2" xmltv_id="France2">France2</channel>
+    <channel site="[ENC]humo.be_0" site_id="france3" xmltv_id="France3">France3</channel>
+    <channel site="[ENC]humo.be_0" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC]humo.be_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]humo.be_0" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC]humo.be_0" site_id="comedy-central-vl" xmltv_id="Comedy Central VL">Comedy Central VL</channel>
+    <channel site="[ENC]humo.be_0" site_id="mtv-vlaanderen" xmltv_id="MTV Vlaanderen">MTV Vlaanderen</channel>
+    <channel site="[ENC]humo.be_0" site_id="la-trois" xmltv_id="La Trois">La Trois</channel>
+    <channel site="[ENC]humo.be_0" site_id="tve-inter" xmltv_id="TVE Inter.">TVE Inter.</channel>
+    <channel site="[ENC]humo.be_0" site_id="rtl-tvi-hd" xmltv_id="RTL-TVi-hd">RTL-TVi-hd</channel>
+    <channel site="[ENC]humo.be_0" site_id="rai-uno" xmltv_id="RAI Uno">RAI Uno</channel>
+    <channel site="[ENC]humo.be_0" site_id="tf1" xmltv_id="TF1">TF1</channel>
+    <channel site="[ENC]humo.be_0" site_id="ketnet" xmltv_id="Ketnet">Ketnet</channel>
+    <channel site="[ENC]humo.be_0" site_id="vtm-kids" xmltv_id="VTM KIDS">VTM KIDS</channel>
+    <channel site="[ENC]humo.be_0" site_id="studio-100-tv" xmltv_id="Studio 100 TV">Studio 100 TV</channel>
+    <channel site="[ENC]humo.be_0" site_id="disney-channel" xmltv_id="Disney Channel VL">Disney Channel VL</channel>
+    <channel site="[ENC]humo.be_0" site_id="nickelodeon-spike" xmltv_id="Nickelodeon - Spike">Nickelodeon - Spike</channel>
+    <channel site="[ENC]humo.be_0" site_id="cartoon24" xmltv_id="Cartoon24">Cartoon24</channel>
+  </channels>
+</site>
