@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]linternaute.com_0">
+  <channels>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tf1||192.png?14" xmltv_id="TF1">TF1</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-france-2||4.png?14" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-france-3||80.png?14" xmltv_id="France 3">France 3</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-plus||34.png?14" xmltv_id="Canal+">Canal+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-france-5||47.png?14" xmltv_id="France 5">France 5</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-m6||118.png?14" xmltv_id="M6">M6</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-arte||111.png?14" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-c8||445.png?14" xmltv_id="C8">C8</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-w9||119.png?14" xmltv_id="W9">W9</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ocs-geants||734.png?14" xmltv_id="OCS Géants">OCS Géants</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tmc||195.png?14" xmltv_id="TMC">TMC</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tfx||446.png?14" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-nrj12||444.png?14" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-la-chaine-parlementaire||234.png?14" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-france-4||78.png?14" xmltv_id="France 4">France 4</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-bfmtv||481.png?14" xmltv_id="BFMTV">BFMTV</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-cnews||226.png?14" xmltv_id="CNEWS">CNEWS</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-cstar||458.png?14" xmltv_id="CSTAR">CSTAR</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-gulli||482.png?14" xmltv_id="Gulli">Gulli</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tf1-series-films||1404.png?14" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-l-equipe||1401.png?14" xmltv_id="L'Equipe">L'Equipe</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-6ter||1403.png?14" xmltv_id="6ter">6ter</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rmc-story||1402.png?14" xmltv_id="RMC Story">RMC Story</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rmc-decouverte||1400.png?14" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-cherie-25||1399.png?14" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-paris-premiere||145.png?14" xmltv_id="Paris Première">Paris Première</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-sport||35.png?14" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-cinema||33.png?14" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-planete||147.png?14" xmltv_id="Planète+">Planète+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-lci-la-chaine-info||112.png?14" xmltv_id="LCI - La Chaîne Info">LCI - La Chaîne Info</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-eurosport-1||76.png?14" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-equidia||64.png?14" xmltv_id="Equidia">Equidia</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-golf-plus||1295.png?14" xmltv_id="Golf+">Golf+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ocs-max||730.png?14" xmltv_id="OCS Max">OCS Max</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-mezzo||125.png?14" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-bein-sports-1||1290.png?14" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-discovery-channel||400.png?14" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-mtv||128.png?14" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ocs-city||733.png?14" xmltv_id="OCS City">OCS City</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tcm||185.png?14" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-teva||191.png?14" xmltv_id="Téva">Téva</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rmc-sport-2||2666.png?14" xmltv_id="RMC Sport 2">RMC Sport 2</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-scifi||479.png?14" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-plus-series||1563.png?14" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-bein-sports-3||1335.png?14" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-cinecinema-premier||282.png?14" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-e||405.png?14" xmltv_id="E !">E !</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-13eme-rue||2.png?14" xmltv_id="13eme RUE">13eme RUE</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-franceinfo||2111.png?14" xmltv_id="Franceinfo">Franceinfo</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ocs-choc||732.png?14" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rmc-sport-1||2665.png?14" xmltv_id="RMC Sport 1">RMC Sport 1</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-bein-sports-2||1304.png?14" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-disney-channel||58.png?14" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ab1||5.png?14" xmltv_id="AB 1">AB 1</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tv5monde||205.png?14" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-euronews||140.png?14" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-mcm||121.png?14" xmltv_id="MCM">MCM</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-comedie||54.png?14" xmltv_id="Comédie+">Comédie+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-disney-junior||300.png?14" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-piwi||344.png?14" xmltv_id="Piwi+">Piwi+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-ushuaia-tv||451.png?14" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-j||32.png?14" xmltv_id="Canal J">Canal J</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-canal-kids||657.png?14" xmltv_id="Canal+ KIDS">Canal+ KIDS</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rtl9||115.png?14" xmltv_id="RTL 9">RTL 9</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-histoire-tv||88.png?14" xmltv_id="Histoire TV">Histoire TV</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-serieclub||49.png?14" xmltv_id="serieclub">serieclub</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-nickelodeon||473.png?14" xmltv_id="Nickelodéon">Nickelodéon</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-kto||110.png?14" xmltv_id="KTO">KTO</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-national-geographic-wild||719.png?14" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-rmc-sport-access-2||675.png?14" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-national-geographic||243.png?14" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-teletoon||197.png?14" xmltv_id="TéléToon+">TéléToon+</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-nickelodeon-junior||888.png?14" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-science-vie-tv||63.png?14" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-cartoon-network||36.png?14" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-melody||265.png?14" xmltv_id="Melody">Melody</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-mangas||6.png?14" xmltv_id="Mangas">Mangas</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-j-one||1585.png?14" xmltv_id="J-One">J-One</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-boomerang||321.png?14" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-game-one||87.png?14" xmltv_id="Game One">Game One</channel>
+    <channel site="[ENC]linternaute.com_0" site_id="programme-tiji||229.png?14" xmltv_id="TIJI">TIJI</channel>
+  </channels>
+</site>
