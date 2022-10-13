@@ -1,343 +1,319 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]magentatv.at_0">
   <channels>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Magenta_PULS24_HD||7111.f" xmltv_id="Magenta HD">Magenta HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_eins_HD||1277.f" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Wien_HD||1276.f" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ATV_HD||7052.f" xmltv_id="ATV HD">ATV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:PULS_4_HD||7090.f" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Servus_TV_HD||7116.f" xmltv_id="Servus TV HD">Servus TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF_HD||3045.f" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ProSieben_HD||7088.f" xmltv_id="ProSieben HD">ProSieben HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_HD||4637.f" xmltv_id="RTL HD">RTL HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:W24_HD||7113.f" xmltv_id="W24 HD">W24 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VOX_HD||7135.f" xmltv_id="VOX HD">VOX HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sat_1_HD||7096.f" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_III_HD||7153.f" xmltv_id="ORF III HD">ORF III HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Das_Erste_HD||3006.f" xmltv_id="Das Erste HD">Das Erste HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:kabel_eins_HD||7067.f" xmltv_id="Kabel Eins HD">Kabel Eins HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_II_HD||7134.f" xmltv_id="RTLZWEI HD">RTLZWEI HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ATV_II_HD||8284.f" xmltv_id="ATV2 HD">ATV2 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:PULS24_HD||2061.f" xmltv_id="PULS24 HD">PULS24 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:oe24_TV_HD||8418.f" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:n_tv_HD||0280.f" xmltv_id="n-tv HD">n-tv HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:exxpress_TV||exxpress_TV.f" xmltv_id="eXXpressTV">eXXpressTV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sat_1_Gold_HD||Sat_1_Gold_HD.f" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_Nitro_HD||7207.f" xmltv_id="Nitro HD">Nitro HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sixx_Austria_HD||Sixx_Austria_HD.f" xmltv_id="sixx austria HD">sixx austria HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTLplus_HD||0279.f" xmltv_id="RTLup HD">RTLup HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ProSieben_Maxx_HD||ProSieben_Maxx_HD.f" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:DMAX_HD||DMAX_HD.f" xmltv_id="DMAX HD">DMAX HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:kabel_eins_Doku_HD||kabel_eins_Doku_HD.f" xmltv_id="Kabel Eins Doku HD">Kabel Eins Doku HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:N24_Austria||8260.f" xmltv_id="N24 doku">N24 doku</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF_neo_HD||1293.f" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:EinsFestival_HD||7061.f" xmltv_id="One HD">One HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Comedy_Central_VIVA_HD||8421.f" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TLC_HD||8072.f" xmltv_id="TLC HD">TLC HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TELE_5||1055.f" xmltv_id="TELE 5">TELE 5</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:arte_HD||1090.f" xmltv_id="arte HD">arte HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:3sat_HD||1287.f" xmltv_id="3sat HD">3sat HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:BR_HD||1288.f" xmltv_id="BR Fernsehen HD">BR Fernsehen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:R9_HD||8711.f" xmltv_id="R9 HD">R9 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Schau_TV_HD||760945.f" xmltv_id="Schau TV HD">Schau TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:krone_tv_HD||9121.f" xmltv_id="krone.tv HD">krone.tv HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:OKTO_HD||7059.HD.f" xmltv_id="Okto HD">Okto HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ARCADIA_World_HD||8710.f" xmltv_id="ARCADIA World HD">ARCADIA World HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Phoenix_HD||7084.f" xmltv_id="phoenix HD">phoenix HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF_info_HD||7114.f" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:tagesschau24_HD||8713.f" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ARD_alpha_HD||1021.f" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Bibel_TV_HD||8068.f" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:WDR_Koeln_HD||1290.f" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MDR_HD||7068.f" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:SWR_HD||1289.f" xmltv_id="SWR HD">SWR HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:NDR_FS_NDS_HD||1291.f" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:hessen_fernsehen_HD||8070.f" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RBB_Berlin_HD||8712.f" xmltv_id="rbb HD">rbb HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:SRF_Info_HD||1066.f" xmltv_id="SRF info HD">SRF info HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:SR_HD||8739.f" xmltv_id="SR HD">SR HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:KI_KA_HD||1292.f" xmltv_id="KiKA HD">KiKA HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Super_RTL_HD||7210.f" xmltv_id="Super RTL HD">Super RTL HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Nickelodeon_HD||8471.f" xmltv_id="Nick HD">Nick HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Disney_Channel||1051.f" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RiC||7091.f" xmltv_id="RiC">RiC</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Cartoon_Network_HD||7054.f" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:fix___foxi||3044.f" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Baby_TV||0008.f" xmltv_id="Baby TV">Baby TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Nick_Junior||3060.f" xmltv_id="Nick Junior">Nick Junior</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Deluxe_Music_HD||4630.f" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:gotv||1057.f" xmltv_id="gotv">gotv</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MTV_HD||3014.f" xmltv_id="MTV HD">MTV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Melodie_TV||7069.f" xmltv_id="Melodie TV">Melodie TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:QVC_HD||4674.f" xmltv_id="QVC HD">QVC HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HSE24_HD||4681.f" xmltv_id="HSE HD">HSE HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:QVC_2_HD||4675.f" xmltv_id="QVC 2 HD">QVC 2 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HSE24_Extra_HD||5031.f" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:123_tv||3000.f" xmltv_id="123.tv">123.tv</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HSE24_Trend||0202.f" xmltv_id="HSE Trend">HSE Trend</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:QVC_Beauty_Style||4676.f" xmltv_id="QVC Style">QVC Style</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HGTV||HGTV.f" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Auto_Motor_und_Sport_Channel_UHD_Hinweistafel||1319.f" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_Sport__HD||7154.f" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Eurosport_1_HD||1091.f" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sport_1_HD||4555.f" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Laola1_TV_HD||Laola1_TV_HD.f" xmltv_id="Laola1.TV HD">Laola1.TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:AlpentourTV_HD||9091.f" xmltv_id="K19">K19</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sport1__HD||3039.f" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:sportdigital_HD||8251.f" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Auto_Motor_und_Sport_Channel_HD||4562.f" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Motorvision_HD||8470.f" xmltv_id="Motorvision HD">Motorvision HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sport_1_US_HD||4696.f" xmltv_id="eSports1 HD">eSports1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Extreme_Sports_Channel||1236.f" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Burgenland_HD||7074.f" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_K_rnten_HD||7149.f" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Nieder_sterreich_HD||7150.f" xmltv_id="ORF 2 Nö HD">ORF 2 Nö HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Ober_sterreich_HD||7151.f" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Salzburg_HD||7078.f" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Steiermark_HD||7148.f" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Tirol_HD||7152.f" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Vorarlberg_HD||7082.f" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Hitradio_OE3_HD||1000.f" xmltv_id="Hitradio OE3 HD">Hitradio OE3 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Europa||4914.f" xmltv_id="ORF 2 EUROPE">ORF 2 EUROPE</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Tirol_TV_HD||753386.f" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Laendle_TV_HD||9068.f" xmltv_id="Ländle TV HD">Ländle TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:WNTV_HD||WNTV_HD.f" xmltv_id="WNTV HD">WNTV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:KT_1||KT_1.f" xmltv_id="KT 1">KT 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VOD_Fullscreen||1311.f" xmltv_id="Magenta On Demand">Magenta On Demand</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:13TH_STREET_HD||1282.f" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_Crime_HD||4591.f" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Universal_Channel_HD||5194.f" xmltv_id="Universal TV HD">Universal TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Syfy_HD||1108.f" xmltv_id="Syfy HD">Syfy HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TNT_Serie_HD||1107.f" xmltv_id="Warner TV Serie HD">Warner TV Serie HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TNT_Comedy_HD||4525.f" xmltv_id="Warner TV Comedy HD">Warner TV Comedy HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Kinowelt_TV_HD||4633.f" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:kabel_eins_classics_HD||8071.f" xmltv_id="kabel eins CLASSICS HD">kabel eins CLASSICS HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Romance_TV_HD||1318.f" xmltv_id="Romance TV HD">Romance TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_Passion_HD||4635.f" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Heimatkanal||3011.f" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Krimi||1052.f" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:BBC_Entertainment||0184.f" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sat_1_emotions_HD||Sat_1_emotions_HD.f" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ProSieben_FUN_HD||ProSieben_FUN_HD.f" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:GEO_Television_HD||GEO_Television_HD.f" xmltv_id="GEO Television HD">GEO Television HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Spiegel_Geschichte_HD||9098.f" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Spiegel_Wissen_HD||Spiegel_Wissen_HD.f" xmltv_id="SPIEGEL TV Wissen HD">SPIEGEL TV Wissen HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:History_HD||1094.f" xmltv_id="History HD">History HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Nat_Geo_HD||1103.f" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Nat_Geo_People_HD||4634.f" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Planet_HD||1316.f" xmltv_id="Bergblick">Bergblick</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:A_E_HD||7224.f" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_Living_HD||4642.f" xmltv_id="RTL Living HD">RTL Living HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Bongusto_HD||3058.f" xmltv_id="Bongusto HD">Bongusto HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Fashion_TV_HD||4697.f" xmltv_id="Fashion-TV HD">Fashion-TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:E__Entertainment_HD||7244.f" xmltv_id="E! HD">E! HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VH_1_Classic||1178.f" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Gute_Laune_TV||1078.f" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Classica_HD||1102.f" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MTV_live_HD||2071.f" xmltv_id="MTV live HD">MTV live HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Euronews||1025.f" xmltv_id="euronews HD">euronews HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:BBC_World||0011.f" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:CNN||1166.f" xmltv_id="CNN International">CNN International</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:CNBC||0016.f" xmltv_id="CNBC">CNBC</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TV5Monde_Europe||1202.f" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:France_24||1140.f" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Russia_today||1182.f" xmltv_id="RT">RT</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:CCTV_News||0132.f" xmltv_id="CGTN">CGTN</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Bloomberg_Europe||1185.f" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:YouTube_App||channel_logo_you-tube" xmltv_id="YouTube">YouTube</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:PrimeVideo_App||channel_logo_prime-video" xmltv_id="Prime Video">Prime Video</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:YouTubeKids_App||channel_logo_you-tube-kids" xmltv_id="YouTube Kids">YouTube Kids</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_eins||1006.f" xmltv_id="ORF 1">ORF 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Wien||7083.f" xmltv_id="ORF 2 Wien">ORF 2 Wien</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ATV||1013.f" xmltv_id="ATV">ATV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:PULS_4||7089.f" xmltv_id="PULS 4">PULS 4</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Servus_TV||7115.f" xmltv_id="Servus TV">Servus TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ProSieben||7087.f" xmltv_id="ProSieben">ProSieben</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL||7092.f" xmltv_id="RTL">RTL</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VOX||7112.f" xmltv_id="VOX">VOX</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sat_1||7095.f" xmltv_id="SAT.1">SAT.1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_III||3042.f" xmltv_id="ORF III">ORF III</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:kabel_eins||7066.f" xmltv_id="Kabel Eins">Kabel Eins</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_II||7093.f" xmltv_id="RTLZWEI">RTLZWEI</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ATV_II||7053.f" xmltv_id="ATV2">ATV2</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:PULS24||2061.f" xmltv_id="PULS24">PULS24</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:oe24_TV||8418.f" xmltv_id="oe24.TV">oe24.TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:n_tv||8987.f" xmltv_id="n-tv">n-tv</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:krone_tv||9120.f" xmltv_id="krone.tv">krone.tv</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:OKTO||7059.f" xmltv_id="Okto">Okto</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sat_1_Gold||4647.f" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTL_Nitro||7164.f" xmltv_id="Nitro">Nitro</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sixx_Austria||4580.f" xmltv_id="sixx austria">sixx austria</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTLplus||8689.f" xmltv_id="RTLup">RTLup</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Pro7_Maxx||4715.f" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:DMAX||1072.f" xmltv_id="DMAX">DMAX</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:kabel_eins_Doku||8417.f" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Super_RTL||7109.f" xmltv_id="Super RTL">Super RTL</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF_Sport_||7079.f" xmltv_id="ORF Sport+">ORF Sport+</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VESTI||VESTI.f" xmltv_id="VESTI">VESTI</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Toxic_TV_HD||Toxic_TV_HD.f" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Film_Klub||Film_Klub.f" xmltv_id="Film Klub">Film Klub</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTS_Sat||1254.f" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTV_Montenegro||1246.f" xmltv_id="RTCG SAT">RTCG SAT</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Eurosport_Srbija||7058.f" xmltv_id="Eurosport 1 Srbija">Eurosport 1 Srbija</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HRT_TV_1||3012.f" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TV_Polonia||3041.f" xmltv_id="TV Polonia">TV Polonia</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Duna_TV||7060.f" xmltv_id="Duna TV">Duna TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TRT_International||7110.f" xmltv_id="TRT World">TRT World</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Eurosport_Turkce||7064.f" xmltv_id="Eurosport Türkiye">Eurosport Türkiye</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Klasik_TV||Klasik_TV.f" xmltv_id="Klasik TV">Klasik TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Habertuerk_TV||Habertuerk_TV.f" xmltv_id="Habertürk TV">Habertürk TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Al_Jazeera||0004.f" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:24_Vesti_news||7050.f" xmltv_id="24 Vesti">24 Vesti</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RAI_Uno||0083.f" xmltv_id="RAI Uno">RAI Uno</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RAI_Due||1015.f" xmltv_id="RAI Due">RAI Due</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RAI_Tre||1045.f" xmltv_id="RAI Tre">RAI Tre</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RTR_Planeta||7094.f" xmltv_id="RTR Planeta">RTR Planeta</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:EDTV_1||3055.f" xmltv_id="Dubai TV">Dubai TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:CCTV4||7056.f" xmltv_id="CCTV4">CCTV4</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MTV_90s||4608.f" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MTV_Dance||1172.f" xmltv_id="Club MTV">Club MTV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MTVhits_||2072.f" xmltv_id="MTVhits!">MTVhits!</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:VH_1_Europe||0145.f" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Hayat||4520.f" xmltv_id="Hayat">Hayat</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Pink_Plus||1243.f" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Pink_Extra||1250.f" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Pink_Film||4926.f" xmltv_id="Pink Film">Pink Film</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Pink_Music||3015.f" xmltv_id="Pink Music">Pink Music</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Blue_Hustler||1219.f" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Hustler_TV||0146.f" xmltv_id="Hustler TV">Hustler TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Evil_Angel_HD||8250.f" xmltv_id="Evil Angel HD">Evil Angel HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Lokal_TV_Wien||Lokal_TV_Wien.f" xmltv_id="Lokal TV">Lokal TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Magenta_PULS24||7111.f" xmltv_id="Magenta PULS24">Magenta PULS24</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF||0125.f" xmltv_id="ZDF">ZDF</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Das_Erste||1001.f" xmltv_id="Das Erste">Das Erste</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF_neo||1023.f" xmltv_id="ZDFneo">ZDFneo</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:EinsFestival||1028.f" xmltv_id="One">One</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Comedy_Central_VIVA||3043.f" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:TLC||6977.f" xmltv_id="TLC">TLC</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:arte||1003.f" xmltv_id="arte">arte</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:3sat||1004.f" xmltv_id="3sat">3sat</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:BR||1031.f" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Phoenix||1024.f" xmltv_id="phoenix">phoenix</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ZDF_info||1022.f" xmltv_id="ZDFinfo">ZDFinfo</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:tagesschau24||1032.f" xmltv_id="tagesschau24">tagesschau24</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:WDR||1027.f" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:MDR||1020.f" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:SWR||1029.f" xmltv_id="SWR Fernsehen">SWR Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:NDR||1011.f" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:hessen_fernsehen||1017.f" xmltv_id="HR">HR</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:RBB_Fernsehen||1018.f" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:KI_KA||1033.f" xmltv_id="KiKA">KiKA</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Nickelodeon||8458.f" xmltv_id="Nick">Nick</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:QVC||3017.f" xmltv_id="QVC">QVC</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HSE24||1008.f" xmltv_id="HSE">HSE</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:QVC_Plus||4552.f" xmltv_id="QVC ZWEI">QVC ZWEI</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:HSE24_Extra||4557.f" xmltv_id="HSE Extra">HSE Extra</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Eurosport_1||1026.f" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sport_1||1009.f" xmltv_id="Sport 1">Sport 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Tirol_TV||753386.f" xmltv_id="Tirol TV">Tirol TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:L_ndle_TV||765648.f" xmltv_id="Ländle TV">Ländle TV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:W24||7113.f" xmltv_id="W24">W24</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:WNTV||WNTV_HD.f" xmltv_id="WNTV">WNTV</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Burgenland||7074.f" xmltv_id="ORF 2 Burgenland">ORF 2 Burgenland</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_K_rnten||7075.f" xmltv_id="ORF 2 Kärnten">ORF 2 Kärnten</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Nieder_sterreich||7076.f" xmltv_id="ORF 2 Nö">ORF 2 Nö</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Ober_sterreich||7077.f" xmltv_id="ORF 2 Oberösterreich">ORF 2 Oberösterreich</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Salzburg||7078.f" xmltv_id="ORF 2 Salzburg">ORF 2 Salzburg</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Steiermark||7080.f" xmltv_id="ORF 2 Steiermark">ORF 2 Steiermark</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Tirol||7081.f" xmltv_id="ORF 2 Tirol">ORF 2 Tirol</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:ORF2_Vorarlberg||7082.f" xmltv_id="ORF 2 Vorarlberg">ORF 2 Vorarlberg</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_1||8428.f" xmltv_id="Sky One HD">Sky One HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Nature_HD||Sky_Nature_HD.f" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Documentaries_HD||Sky_Documentaries_HD.f" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Disney_XD||1085.f" xmltv_id="Boomerang">Boomerang</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Popup_Channel_HD||9067.f" xmltv_id="Sky Replay HD">Sky Replay HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Crime_HD||Sky_Crime_HD.f" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Comedy_HD||Sky_Comedy_HD.f" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Atlantic_HD||4615.f" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Cinema_HD||4592.f" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Hits_HD||4648.f" xmltv_id="Sky Cinema Best of HD">Sky Cinema Best of HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Cinema_Family_HD||8427.HD.f" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Disney_Cinemagic_HD||9076.f" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Cinema_Action_HD||3061.HD.f" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Cinema_Thriller_HD||3021.f" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Cinema__24||3022.f" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Nostalgie||3025.f" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Comedy||3074.f" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_News_HD||4595.f" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_HD||8089.f" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_2_HD||8126.f" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_3_HD||8127.f" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_4_HD||8128.f" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_5_HD||Sky_Sport_Austria_5_HD.f" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_6_HD||Sky_Sport_Austria_6_HD.f" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_Austria_7_HD||Sky_Sport_Austria_7_HD.f" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_F1_HD||Sky_Sport_F1_HD.f" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_1||4593.f" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_2||4594.f" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_3||4682.f" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_4||4683.f" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_5||4684.f" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_6||7105.f" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_7||7106.f" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_8||7107.f" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_9||7108.f" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_10||7103.f" xmltv_id="Sky Sport HD 10">Sky Sport HD 10</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Sport_HD_11||7104.f" xmltv_id="Sky Sport HD 11">Sky Sport HD 11</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_1||4649.f" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_2||4680.f" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_3||4679.f" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_4||4678.f" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_5||7098.f" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_6||7099.f" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_7||7100.f" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_8||7101.f" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_9||7102.f" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sky_Bundesliga_HD_10||7097.f" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Austria||Total_Hits_Austria.f" xmltv_id="Total Hits Österreich">Total Hits Österreich</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Deutschland||Total_Hits_Deutschland.f" xmltv_id="Total Hits Deutschland">Total Hits Deutschland</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_UK||Total_Hits_UK.f" xmltv_id="Total Hits UK">Total Hits UK</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Italien||Total_Hits_Italien.f" xmltv_id="Total Hits Italien">Total Hits Italien</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Spanien||Total_Hits_Spanien.f" xmltv_id="Total Hits Spanien">Total Hits Spanien</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Frankreich||Total_Hits_Frankreich.f" xmltv_id="Total Hits Frankreich">Total Hits Frankreich</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Kuschelsongs||Kuschelsongs.f" xmltv_id="Kuschelsongs">Kuschelsongs</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:All_Day_Party||All_Day_Party.f" xmltv_id="All Day Party">All Day Party</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:2000s||2000s.f" xmltv_id="2000's">2000's</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:90s||90s.f" xmltv_id="90's">90's</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:80s||80s.f" xmltv_id="80's">80's</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:70s||70s.f" xmltv_id="Soho 70's">Soho 70's</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:60s||60s.f" xmltv_id="60's">60's</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Rock_n_Roll_Era||Rock_n_Roll_Era.f" xmltv_id="Rock'n'Roll">Rock'n'Roll</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Revival||Revival.f" xmltv_id="Revival - 60er &amp; 70er">Revival - 60er &amp; 70er</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Ultimate_Urban||Ultimate_Urban.f" xmltv_id="Urban - Germany">Urban - Germany</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Groove_Disco_Funk||Groove_Disco_Funk.f" xmltv_id="Groove (Disco &amp; Funk)">Groove (Disco &amp; Funk)</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Classic_RnB_Soul||Classic_RnB_Soul.f" xmltv_id="Classic R'n'B &amp; Soul">Classic R'n'B &amp; Soul</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Reggae||Reggae.f" xmltv_id="Reggae">Reggae</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Blues||Blues.f" xmltv_id="Blues">Blues</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Dance_Floor_Fillers||Dance_Floor_Fillers.f" xmltv_id="Dance Floor Fillers">Dance Floor Fillers</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Bass_Breaks_Beates||Bass_Breaks_Beates.f" xmltv_id="Bass Breaks &amp; Beats">Bass Breaks &amp; Beats</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Chillout||Chillout.f" xmltv_id="Chillout">Chillout</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:The_Alternative||The_Alternative.f" xmltv_id="The Alternative">The Alternative</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Rock_Anthems||Rock_Anthems.f" xmltv_id="Rock Anthems">Rock Anthems</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Classic_Rock||Classic_Rock.f" xmltv_id="Classic Rock">Classic Rock</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Headbangers||Headbangers.f" xmltv_id="Headbangers">Headbangers</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Indie_Classic||Indie_Classic.f" xmltv_id="Indie Classic">Indie Classic</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Romantische_Klassik||Romantische_Klassik.f" xmltv_id="Classical Calm">Classical Calm</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Populaere_Klassik||Populaere_Klassik.f" xmltv_id="Classical Greats">Classical Greats</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Orchester_Klassik||Orchester_Klassik.f" xmltv_id="Orchester Klassik">Orchester Klassik</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Cool_Jazz||Cool_Jazz.f" xmltv_id="Cool Jazz">Cool Jazz</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Jass_Classics||Jass_Classics.f" xmltv_id="Jazz Classics">Jazz Classics</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Cocktail_Lounge||Cocktail_Lounge.f" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Hot_Country||Hot_Country.f" xmltv_id="Hot Country">Hot Country</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Latin||Latin.f" xmltv_id="Latin">Latin</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:World_Carnival||World_Carnival.f" xmltv_id="World Carnival">World Carnival</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Chansons||Chansons.f" xmltv_id="Chansons">Chansons</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Kinder||Kinder.f" xmltv_id="Kinder">Kinder</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Schlager||Schlager.f" xmltv_id="Schlager">Schlager</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Sommer_Hits||Sommer_Hits.f" xmltv_id="Sommer Hits">Sommer Hits</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Volksmusik||Volksmusik.f" xmltv_id="Volksmusik">Volksmusik</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Tuerk_Muezigi||Tuerk_Muezigi.f" xmltv_id="Türk Müzigi">Türk Müzigi</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Total_Hits_Poland||Total_Hits_Poland.f" xmltv_id="Total Hits Polen">Total Hits Polen</channel>
-    <channel site="[ENC][EX]magentatv.at_0" site_id="lgi-at-prodobo-master:Event_Specials||Event_Specials.f" xmltv_id="Event-Specials">Event-Specials</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288083||0ddd7e93c2e99b2f55bfc7c30de6f01d.117394.PNG" xmltv_id="Magenta HD">Magenta HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288091||852193aa0a1d33adffafec540a125f72.88636.PNG" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206963752351||2e76623eae47010ec60534ae37dd5e67.101720.PNG" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288109||6f8e16d8d35f461a1097ed89658cca17.88733.PNG" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288121||b490e0e7a51778e8df8459b2463f7cb8.88738.PNG" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800168||78aa95e161d5a6704307acd8d38862e6.99536.PNG" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776230||a0817df17d04fa76bf30122e276d0dcc.67217.PNG" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776235||d39d1744327673f6745901271b4785d0.98841.PNG" xmltv_id="ProSieben HD">ProSieben HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288143||a8a4d33885c86e1bef5d18edadcaa50b.98827.PNG" xmltv_id="RTL HD">RTL HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288149||dce8d8c82acfda147bfa4fb011fb3d16.116013.PNG" xmltv_id="W24 HD">W24 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776257||8929e86e6188b6836c75a62367b0e8a1.83871.PNG" xmltv_id="VOX HD">VOX HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206963752404||1c618cf8bf4e989ab3069d4e9a22c4fd.98840.PNG" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776268||928d4cbc9d0f91fd3bf227a46949fe12.99318.PNG" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776277||2ea40dbc42380d6da30e6ad4f5a8d03f.90447.PNG" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800213||31b711f89e33eac86f5835bde7163066.99522.PNG" xmltv_id="Kabel Eins HD">Kabel Eins HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206963752417||b8b8b060b6218aaf77a9515281e8c42f.98829.PNG" xmltv_id="RTLZWEI HD">RTLZWEI HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800229||b0613aff085d3aeec3feca8a49f04b52.101672.PNG" xmltv_id="ATV2 HD">ATV2 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288206||4c42e27de8d048ee793f80d815a95b18.112506.PNG" xmltv_id="PULS24 HD">PULS24 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776306||16a95edd17f3147b1f03a408fb33ca83.100923.PNG" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776317||fcbea68c60d335659a270429ce745a5b.89070.PNG" xmltv_id="n-tv HD">n-tv HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="234851368438||d38c0003ee34bb1d1ed87de83b04f55a.121254.PNG" xmltv_id="eXXpressTV">eXXpressTV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206963752441||eba7b347e32a822bed648262190c587d.100837.PNG" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288223||bd8c894ff94252794998c00fc3e0f1c5.105869.PNG" xmltv_id="Nitro HD">Nitro HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800268||8b6f3f65dfab6995055e7a6e46bd5b59.100838.PNG" xmltv_id="sixx austria HD">sixx austria HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966311961||7d9ddaa394b5dd5a3af6483cd3129c6c.105905.PNG" xmltv_id="RTLup HD">RTLup HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966311964||4940d515c57ccd6d6c06b03350ae7e2a.100836.PNG" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966311975||fc140737d441c7160724ab1dd93e4377.101673.PNG" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288240||547cafeed94195f6e0482dbf5a692b33.118440.PNG" xmltv_id="Kabel Eins Doku HD">Kabel Eins Doku HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800282||9dec68c6d3713c55594cbbb5b83ecef5.106374.PNG" xmltv_id="N24 doku">N24 doku</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800291||09a2df5d58dbb70692846b05c6affa05.90438.PNG" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800302||70e129e76d0e780fbf79b6d65a5daae5.90457.PNG" xmltv_id="One HD">One HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966311993||d402e2f96702ea8134382498275fc0f7.107213.PNG" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800316||c4e7d134a11229b79399201220cf4e02.90213.PNG" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312002||ae50ec0977a953ff0ea9d33a6533f8b9.67303.PNG" xmltv_id="TELE 5">TELE 5</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800328||2fe14541753688d6b641ecdf685b94b3.87847.PNG" xmltv_id="arte HD">arte HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312019||69cc02ee0ce33627b9b9f7159ac0d043.83545.PNG" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800334||b360f732b764968464a65f6daa233c24.90446.PNG" xmltv_id="BR Fernsehen HD">BR Fernsehen HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776420||dd1c8ce2731b5391cebd5181442a24fe.107212.PNG" xmltv_id="R9 HD">R9 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206964776430||b496dafe925d53cf4e76bd57e71c2728.113660.PNG" xmltv_id="Schau TV HD">Schau TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312058||e350be8fc5698d519cac9f455a73c0c4.117392.PNG" xmltv_id="krone.tv HD">krone.tv HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312068||a0ac01c0e4688f342ebd65375873376d.117405.PNG" xmltv_id="Okto HD">Okto HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800368||e6df47bc794671b538559442b28a3f83.117152.PNG" xmltv_id="ARCADIA World HD">ARCADIA World HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312077||6c79e075fb8fc60c48cbe727ef70309d.83627.PNG" xmltv_id="phoenix HD">phoenix HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312080||3ba7b26152562eb86fef2bc56d802b43.83543.PNG" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800383||74953c68a964369c76baa1a02529574c.90439.PNG" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966823973||ce4d860e2ce9e19b6d5b47341ec92a6c.110440.PNG" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288371||8b54f2d7ac75f7342a445cae7b95bff8.90442.PNG" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312109||6db2e2465168ec1a5d865da4884632b8.56311.PNG" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966823986||d14ae76b265f1b5fd67a4763874cf9f1.90462.PNG" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966823998||8fe98981957eb6e09c521260dfe5adeb.83772.PNG" xmltv_id="SWR HD">SWR HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312140||6132fe7b678d56eb89a796d4c64e2f80.83624.PNG" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312157||3d3e6805d22e92dd149166a3f23c2863.90459.PNG" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824018||0a7eb096fed76938443b4fe9b1651bba.91975.PNG" xmltv_id="rbb HD">rbb HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824029||0f328245db1c6143973683538e5c9c5c.99249.PNG" xmltv_id="SRF info HD">SRF info HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824037||85ca76919d984f4a9e4da6df3398f1ec.99511.PNG" xmltv_id="SR HD">SR HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312188||041e7d212f60f039b6199d952f6d76bc.83615.PNG" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800435||22e1de856d4558ff88104d0f61a81c81.83643.PNG" xmltv_id="Super RTL HD">Super RTL HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824059||8a0982b2771b26c8fdc0a81687fe3201.100835.PNG" xmltv_id="Nick HD">Nick HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312209||ad8cecc8caa990416e4c94b96f158721.83574.PNG" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965800445||955ba489ebeea0c81ccc8603f6a0d269.84136.PNG" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032280||fbd7ef8e9f1f23f6040944f504dfd527.91064.PNG" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032281||64a691f62bfc575aed54febe49a0cf5b.91390.PNG" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032321||39dab3ff07845293b7afd913098c794f.83553.PNG" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032356||8a20cb50f188baa8fa0394d464d0df78.83738.PNG" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="282543656024||11aff32c75bee7dffe456d1e216716bc.123926.PNG" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288423||8ca669aa086e9a1234ba44306bf182a2.106108.PNG" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206965288434||18187b8935f0efe043d8a609aa485fcf.90466.PNG" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312231||e5b326a00f7995f8772fefae7c243765.89579.PNG" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312237||8ff69adafb7287d61f86a19276b63f01.83633.PNG" xmltv_id="QVC HD">QVC HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967335978||43aa96804110451c2309e4399c91badc.83595.PNG" xmltv_id="HSE HD">HSE HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967847966||4e444621c6f6b805353e72d9709b19b6.90465.PNG" xmltv_id="QVC 2 HD">QVC 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824118||7be8018b5e97da480dff90c3764f6dd0.90460.PNG" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312266||ac51217420e9347fa965301a5082225c.53409.PNG" xmltv_id="123.tv">123.tv</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336020||dd09b62459a79c5cad996fcbb0343bf0.83610.PNG" xmltv_id="HSE Trend">HSE Trend</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312277||328a6db1e9ad7bb4b585a1fbf70400d8.83634.PNG" xmltv_id="QVC Style">QVC Style</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824149||119eb01db9eaa9c6204048417c79e0b0.111015.PNG" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568164||0c21096de8a59b0cd24a45091e2fb195.118311.PNG" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824154||6110c1c6cd6f2f5ad690ad834a5b6297.99347.PNG" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312300||2d731462800ddc203ecbeead170cef05.83583.PNG" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967848012||8c1998162a4b8056a85b883932a4d583.84002.PNG" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312315||f7a70bf0e89efef866eb99480cbf9bfe.117393.PNG" xmltv_id="Laola1.TV HD">Laola1.TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312329||4b157e09bb2054fd4e302af727f699f4.117389.PNG" xmltv_id="K19">K19</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336046||5d38ab417e336d0cec871d6f5e91f29e.83768.PNG" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336053||e66a4774fd6ee7f38afacf56a2e5dee4.92464.PNG" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824192||2ea57ad21dfee8654e950ae9f50c78b1.83549.PNG" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336067||a764159769f494a9e8149bdcbea8173d.92453.PNG" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967848043||3f3cbc00c474adec784e236f5c397beb.83682.PNG" xmltv_id="eSports1 HD">eSports1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="288804392373||36fcad48a588a53896c554c09c12f13a.124282.PNG" xmltv_id="Streamster.tv">Streamster.tv</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824208||42b353ffbda86ebe4c10d68db6681224.101712.PNG" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966312362||4b8e5a048560b19e72f6b0d72e2292a0.101713.PNG" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824225||030c5edfed672dd6bd6b5aa581f80e22.101714.PNG" xmltv_id="ORF 2 Nö HD">ORF 2 Nö HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824236||11077d2eb9c20ef7ecab9a24cf643d3e.101715.PNG" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967848086||bf63fafc6bb797fde5c3fbd2d7ad1fcc.101716.PNG" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824253||4756b42a933d189acc3d8004ac6d8700.101717.PNG" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336249||e371314c58a0b4fcc74cb7baef94b4e2.101718.PNG" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967336325||c0f5d0ca29f1f7c6397a6acda3be5afd.101719.PNG" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967848295||805502b6154ba96bd0af604e15b6f9cd.113323.PNG" xmltv_id="Hitradio OE3 HD">Hitradio OE3 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824308||5f111bdf51ef45df5e4f6b3eb6b66822.83941.PNG" xmltv_id="ORF 2 EUROPE">ORF 2 EUROPE</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969895972||96c47a3b98a9d23027102d60dad707e9.84014.PNG" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408219||641147ece86e2d95087f964a40bcf0cd.116178.PNG" xmltv_id="Ländle TV HD">Ländle TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969895991||85dbef6a0213d97caad8915f4032b04f.117402.PNG" xmltv_id="WNTV HD">WNTV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824334||4f20c8eba72dac0591a4dca78855904e.88605.PNG" xmltv_id="KT 1">KT 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408253||0ddd7e93c2e99b2f55bfc7c30de6f01d.117395.PNG" xmltv_id="Magenta On Demand">Magenta On Demand</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969383991||a17a39d92bb5ce414b7f8515492ac4d2.83544.PNG" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032332||b5998d7ea86cf7cd5d5d7c9d10accb7a.83645.PNG" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969383998||7dc68627cd4aff20b94010db1af27c24.84374.PNG" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384001||65e6e2614841dfc5ea14ae35f8904c12.86884.PNG" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408273||9059b0eeea331118c4e6dfe0e57ebf9d.83867.PNG" xmltv_id="Warner TV Serie HD">Warner TV Serie HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824377||86f5726136c5737fedda85436bdfeb23.90373.PNG" xmltv_id="Warner TV Comedy HD">Warner TV Comedy HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384018||4f437c9b798ebdcb6c073cdfbd928a6a.83614.PNG" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568111||a6ee5692ed7a4d3466d76aacedab98f2.84348.PNG" xmltv_id="kabel eins CLASSICS HD">kabel eins CLASSICS HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384021||90ff7fb1d766a9b7319c2938f47339bd.83638.PNG" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568087||436745ac0fc7d2bd4d55e6326529e6db.83636.PNG" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408290||b3aa6e7292f0069f7096ba79bf251bd3.83873.PNG" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032342||00bcd352d17a5de5d9c4ecf6cabfbc60.83683.PNG" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568056||4e7db05872b223bde4518c737d3886ee.80561.PNG" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568112||6caed43c32a7a33c431f2f9ab5d6056a.84356.PNG" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824407||30ed75f6d830c7a0ec678cb63b2b9df9.83631.PNG" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032285||82e6fe466e73e8150ed049290c0dc4c9.95663.PNG" xmltv_id="GEO Television HD">GEO Television HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568027||8ffee10077a74596910d217f4d5c5861.90374.PNG" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568105||f5f2f5de573ffa74681e1598be93ceb0.84055.PNG" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032329||5d5d728e704057eb633e57b4c6f3d4ed.83592.PNG" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568122||10c1111318dfb614a02f8dd36124c769.86877.PNG" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568124||7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568085||5384fbef28d56c2dde5a395d5104a51d.83629.PNG" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568024||b5b92d83bbe978c5903287fb4ac6bbb4.90284.PNG" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032331||4e22091fb62de68690710b7058adde2b.83644.PNG" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032322||cd009de76430039525636f2552130824.83563.PNG" xmltv_id="Bongusto HD">Bongusto HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032287||5d8381fa31ef5cd23d0f767de538ad51.99092.PNG" xmltv_id="Fashion-TV HD">Fashion-TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032357||bc30d25247c12dfe3a82c723eb567b2a.83739.PNG" xmltv_id="E! HD">E! HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568038||d1a99ba5158dc94abd5aa276c5b1abbc.56244.PNG" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032316||554344058bde37bf3ff06fe7b42fd923.53649.PNG" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032325||7065ed4ab4bbace6f6a5e76746bf6522.83568.PNG" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568047||e7e89dae812c421dc3bdc210f9dca831.61176.PNG" xmltv_id="MTV live HD">MTV live HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896072||bf2d6ca20bc1e1bd76446821ca55daa0.59421.PNG" xmltv_id="euronews HD">euronews HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824417||080463a1a436b9dc45b7456358a07f85.36844.PNG" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206966824423||ae9c916b88d3e71513ea844882228465.17664.PNG" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408317||0c2112d5740716ba9dd03d44e78b04e9.16230.PNG" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384071||72cc4de31ad39c4745ab8753f113bc09.21495.PNG" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384080||ed20c184aa448960029484662ccee060.60562.PNG" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896101||6470a30d04c2e4e3d9eccad4e7ee4bf6.1.PNG" xmltv_id="RT">RT</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896108||2667e3902605b9ee796a7417d5b949d1.104529.PNG" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032310||bc099446e27a5d8ed74246adac7bcd77.53557.PNG" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896113||4095c083feda581b844a84bee7f0d3eb.83943.PNG" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968871962||da64101b28824cbec2b9d19a2de3f9c8.90473.PNG" xmltv_id="Servus TV">Servus TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384112||fe5c1d0f2ed9f64920c35ca197b69fa7.88654.PNG" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968871975||d9870f616d5e042d245d5c265442be26.53955.PNG" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408368||32271fb63e0d2f86292527fe23064a39.66616.PNG" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408378||14775e362127f32b3a75381f4425d12d.88677.PNG" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968871991||831d7188f4c913e41c104c8da055e248.88602.PNG" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384154||ac5d936616fc08462177240be54ef8a9.83956.PNG" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968872008||16a95edd17f3147b1f03a408fb33ca83.104782.PNG" xmltv_id="oe24.TV">oe24.TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896174||1bf7d3e7e8ed59fbc7ea4842359fb3da.106110.PNG" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384179||e350be8fc5698d519cac9f455a73c0c4.116245.PNG" xmltv_id="krone.tv">krone.tv</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384183||ab843f14ce6b2588a33562f52b5e81a6.90471.PNG" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408401||fc033cadfad87d2686f60f21732fe0a4.105868.PNG" xmltv_id="Nitro">Nitro</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384188||5b760abf70b331776524f7529f4b0acd.88687.PNG" xmltv_id="sixx austria">sixx austria</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408431||d410bcecd489b0b1c85f8c7410f5d966.53951.PNG" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970408437||10427154240869c5075329c45ff181c1.90469.PNG" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896231||cb2f2df1053f6f8345ea73795c2e1763.83579.PNG" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968872074||3baed8487d936067682170eeb62463ef.100867.PNG" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970919968||123d94da400b6e415af0f7c16ed7f874.52814.PNG" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="229039144336||b579524265655a468d108fc7e190f74b.120849.PNG" xmltv_id="VESTI">VESTI</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="229041703980||6ac863ecb7aaa88e6bf230fbeb20ab91.120851.PNG" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="229041191972||b8217e4b330106755666ad07d47f292a.120850.PNG" xmltv_id="Film Klub">Film Klub</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896252||27c98fbb0f304d63deb57239fda712dd.100435.PNG" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032397||3044510cdb878aa323335f893a58cf4a.116014.PNG" xmltv_id="RTCG SAT">RTCG SAT</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032402||62c43d94bfe650aaae6ca4e0f240cb62.116299.PNG" xmltv_id="Eurosport 1 Srbija">Eurosport 1 Srbija</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568053||19850f271f57c55019aa0674a9c0980e.77390.PNG" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032413||472d26c3dce5eb0d388eb3cb615a999b.19134.PNG" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032406||af19dd25df4c365df74384be677f5f23.116513.PNG" xmltv_id="Duna TV">Duna TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969896262||d8145c79c8fb187c34538b8e41112bbf.105269.PNG" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032393||62c43d94bfe650aaae6ca4e0f240cb62.115650.PNG" xmltv_id="Eurosport Türkiye">Eurosport Türkiye</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032407||cdcc6b1e4a6b998b740c665c2c4d6d2f.116980.PNG" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032391||245ba7f820fd5021d622fff788fa675e.113713.PNG" xmltv_id="Habertürk TV">Habertürk TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032418||e7333f88afbe8cf294198ef7d7e9de44.49968.PNG" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568042||44675c8ba6bc4fd49ed4acb377526712.56693.PNG" xmltv_id="24 Vesti">24 Vesti</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225890344066||29c7e74c945e6ce0903525adf6f7c7c8.21834.PNG" xmltv_id="RAI Uno">RAI Uno</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225890855955||46581011c74bba808e90c3da7e777932.21812.PNG" xmltv_id="RAI Due">RAI Due</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225890344089||e1d6742b50df6f2c5723a14e235d54f0.53928.PNG" xmltv_id="RAI Tre">RAI Tre</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568130||119053ab7d96814616bbbdb0d3a42f03.100021.PNG" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032394||53a7c4736d059a5bb79c860333701958.115802.PNG" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032415||320e25b03b36f84869aaf8eee75657ca.24248.PNG" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568012||9abd3db79a24f85eeb7da8784364510e.89005.PNG" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568013||590f2027ee704fd3b95fd5c016dd57d6.89006.PNG" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568011||5454355f4e632959c86e72e322f232e8.89004.PNG" xmltv_id="MTVhits!">MTVhits!</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568039||4bbba44cf43782467e9354defd13301d.56245.PNG" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032405||c57ae6d31bb82cd863f995c5d8987d09.116302.PNG" xmltv_id="Hayat">Hayat</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568052||df5c2592c900dfe3c11fee61a95d48a4.76822.PNG" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568152||2f3b2686844eb2fce0741643f221f31c.108108.PNG" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568106||a3a5aeef7017b8b32b2c979515d77cf9.84154.PNG" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032318||0b4d4ca35fd8837ef1b94c3d26bf0840.82378.PNG" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384229||18b69961e10491143b823399edea3cd0.84034.PNG" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206970919990||29f15043b6ad5a6e62e48492141dbe55.90212.PNG" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384238||00ee48ef9201ae0ec5a118b65619891c.88731.PNG" xmltv_id="Nick">Nick</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968872127||62c43d94bfe650aaae6ca4e0f240cb62.66603.PNG" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206968872135||6f235d0d56496b9647465386eb39c389.67214.PNG" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206969384250||dce8d8c82acfda147bfa4fb011fb3d16.88716.PNG" xmltv_id="W24">W24</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032386||64689692ecf9dba45b55883903860eef.101090.PNG" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="229429288190||c202aeb92098dbe130757b704e2ad4ee.119982.PNG" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="229429799984||6f82597e03448dbcc3ce40569ddc64c4.119981.PNG" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="306844200112||7df3ba769a745495c84f150f9cc139c8.125325.PNG" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568109||b8fa1a37c9b97aba76dd16e922ae46fb.84318.PNG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568156||1bccc2dd446bb8e52fc040ec74568ee6.111212.PNG" xmltv_id="Sky Replay HD">Sky Replay HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568161||7a16ae98f1f51af113ccaf1fa6b7c9e8.117520.PNG" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568162||490900a34337c95ca8c99865d4cae3d5.117521.PNG" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032335||9243fd038941d335692fb1a8e825f004.83666.PNG" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032340||24f2b8c3f5fe5c88cfeb0e47ff8a3907.83675.PNG" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032336||e687fd593a2725eab73b7ba2a716de0b.83668.PNG" xmltv_id="Sky Cinema Best of HD">Sky Cinema Best of HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032385||ae9637e4af35383a78e65ee74b98806b.100790.PNG" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032388||d8353ee2a1707804c76888f28c84da81.112534.PNG" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032334||7a1a8dd0e130abc5800a5d62e48e2a44.83664.PNG" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032392||290e24a180bbf28ea44e77799fd29740.114216.PNG" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032339||36dcd7b7e574632479aa8a42fd9197b3.83672.PNG" xmltv_id="Sky Cinema Premieren +24 HD">Sky Cinema Premieren +24 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568093||04d6b133a6ac0c21267606b902125e59.83897.PNG" xmltv_id="Sky Cinema Classics HD">Sky Cinema Classics HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568104||df74808c6b499ddb3d0d10d416b92556.84054.PNG" xmltv_id="Sky Cinema Fun HD">Sky Cinema Fun HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="206967848002||83efd73dee95a2124a2fe042466fce9a.87131.PNG" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032291||6e0e71c344c303b36273bead41a289b2.99806.PNG" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568157||5484314cedd9b03c9222eca8823cd4f0.111742.PNG" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568158||b8d62a1e2bcd48827f5e2eea647c6918.111743.PNG" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032387||ccff82f6c64a2719bec856708037ec3f.111744.PNG" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="215440936100||423ca334fd90aba1b7522281d8ea872a.120028.PNG" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="215440936101||f8f8f6b33ea8946b5b66376940779284.120029.PNG" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="215440936102||4d9047f74a373b77ed5e57b849033c08.120030.PNG" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="301712936303||d52d6292e99e3e1d903d9f817d3f2074.125287.PNG" xmltv_id="Sky Sport Premier League HD">Sky Sport Premier League HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="301709352380||da38edb912b7767ca59db55d5109ffd7.125289.PNG" xmltv_id="Sky Sport Golf HD">Sky Sport Golf HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568163||453a0dc334cfabfd87a6420d45bacf6d.117522.PNG" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032347||870884616a6fd0f90587ab34331ad094.125288.PNG" xmltv_id="Sky Sport Mix HD">Sky Sport Mix HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032358||efec0f385f59857d1ff9b15057993192.125286.PNG" xmltv_id="Sky Sport Tennis HD">Sky Sport Tennis HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568115||a8e337887c90ff8a7bd77668767a8470.83725.PNG" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568116||2a353f2b54b1173785cd482f99b2f00d.83740.PNG" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568117||10af902f7a3524b8139cbee1c1e98dec.84360.PNG" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568118||483a9cffc058d01f3e9a613ae14f4f0b.84361.PNG" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568119||23ab2abf29a81cfa8b011cce58d1773f.84362.PNG" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568108||272d8c8df0bb5af616063764326ad6cb.84366.PNG" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568110||e43497d2d46e90d1364e5c698da5bd70.84367.PNG" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568113||9f4188e90b25fa0352c057469ba4ee30.84368.PNG" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568114||2ea9f34e24096c5e2e9970445445d676.84369.PNG" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="301712936310||77477fa9ebb487c6d65578be8470d8b5.84357.PNG" xmltv_id="Sky Sport 10 HD">Sky Sport 10 HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568125||586f139954f045d151b4340ee490445a.125282.PNG" xmltv_id="Sky Bundesliga HD">Sky Bundesliga HD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568030||2b27095e10a04aefa4507e9b423750be.86882.PNG" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032273||33dad54a924450ba69bc00ab1d31eb18.90482.PNG" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207382568028||3b39b56ec6f2a0d221a7e32d36e6c0ff.90483.PNG" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032275||00ea69bd029d60bfe72a3f0f6e7e414f.90408.PNG" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032276||a403f216ce50dd12a508746c195ca450.90486.PNG" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032277||b3cad8c55c707bc9e8e4287b1b0e3f61.90488.PNG" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032278||65987862a56b2125c1d59692e798adac.90489.PNG" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032279||58a6cb165cb792c6e7a0618df4e4e083.90490.PNG" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="207381032274||5992dbef6b32453dfb3c0ee5aab1d49c.90492.PNG" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="301713448071||615540d64955fb118d05d8570a237336.90484.PNG" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="224890919986||97916a3d48edbdb8188d19810fe9856f.113323-1.PNG" xmltv_id="Hitradio Ö3">Hitradio Ö3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952285||97916a3d48edbdb8188d19810fe9856f.999-333425.PNG" xmltv_id="FM4">FM4</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952304||97916a3d48edbdb8188d19810fe9856f.999-197696.PNG" xmltv_id="Ö2 Wien">Ö2 Wien</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440291||97916a3d48edbdb8188d19810fe9856f.999-160805.PNG" xmltv_id="Ö2 Niederösterreich">Ö2 Niederösterreich</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225893928278||97916a3d48edbdb8188d19810fe9856f.999-239654.PNG" xmltv_id="Ö2 Burgenland">Ö2 Burgenland</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952331||97916a3d48edbdb8188d19810fe9856f.999-168248.PNG" xmltv_id="Ö2 Steiermark">Ö2 Steiermark</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464086||97916a3d48edbdb8188d19810fe9856f.999-228280.PNG" xmltv_id="Ö2 Kärnten">Ö2 Kärnten</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440332||97916a3d48edbdb8188d19810fe9856f.999-786535.PNG" xmltv_id="Ö2 Oberösterreich">Ö2 Oberösterreich</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440342||97916a3d48edbdb8188d19810fe9856f.999-368164.PNG" xmltv_id="Ö2 Salzburg">Ö2 Salzburg</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464109||97916a3d48edbdb8188d19810fe9856f.999-246101.PNG" xmltv_id="Ö2 Tirol">Ö2 Tirol</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225893928312||97916a3d48edbdb8188d19810fe9856f.999-174631.PNG" xmltv_id="Ö2 Vorarlberg">Ö2 Vorarlberg</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952366||97916a3d48edbdb8188d19810fe9856f.999-104316.PNG" xmltv_id="Ö1">Ö1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952372||97916a3d48edbdb8188d19810fe9856f.999-116005.PNG" xmltv_id="Ö1 DD">Ö1 DD</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952377||97916a3d48edbdb8188d19810fe9856f.999-136510.PNG" xmltv_id="radio klassik Stephansdom">radio klassik Stephansdom</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440398||97916a3d48edbdb8188d19810fe9856f.999-156684.PNG" xmltv_id="RADIO MARIA">RADIO MARIA</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894952409||97916a3d48edbdb8188d19810fe9856f.999-268141.PNG" xmltv_id="LoungeFM">LoungeFM</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440407||97916a3d48edbdb8188d19810fe9856f.999-168840.PNG" xmltv_id="Superfly.fm">Superfly.fm</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225894440419||97916a3d48edbdb8188d19810fe9856f.999-171389.PNG" xmltv_id="radio 88.6">radio 88.6</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464173||97916a3d48edbdb8188d19810fe9856f.999-296137.PNG" xmltv_id="Radio Arabella">Radio Arabella</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464193||97916a3d48edbdb8188d19810fe9856f.999-107457.PNG" xmltv_id="Radio Ö24">Radio Ö24</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895975957||97916a3d48edbdb8188d19810fe9856f.999-129270.PNG" xmltv_id="Radio Energy">Radio Energy</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225893928399||97916a3d48edbdb8188d19810fe9856f.999-103426.PNG" xmltv_id="Radio Orange 94,0">Radio Orange 94,0</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464216||97916a3d48edbdb8188d19810fe9856f.999-637827.PNG" xmltv_id="Klassik Radio">Klassik Radio</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="224890919993||97916a3d48edbdb8188d19810fe9856f.999-284858.PNG" xmltv_id="Bayern 1">Bayern 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225893928433||97916a3d48edbdb8188d19810fe9856f.999-240561.PNG" xmltv_id="Bayern 2">Bayern 2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464225||97916a3d48edbdb8188d19810fe9856f.999-318461.PNG" xmltv_id="Bayern 3">Bayern 3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="224872488137||97916a3d48edbdb8188d19810fe9856f.999-301657.PNG" xmltv_id="BR-Klassik">BR-Klassik</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976011||97916a3d48edbdb8188d19810fe9856f.999-103705.PNG" xmltv_id="BR24">BR24</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976033||97916a3d48edbdb8188d19810fe9856f.999-202049.PNG" xmltv_id="hr2-kultur">hr2-kultur</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488066||97916a3d48edbdb8188d19810fe9856f.999-219098.PNG" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488075||97916a3d48edbdb8188d19810fe9856f.999-895665.PNG" xmltv_id="WDR 3">WDR 3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976074||97916a3d48edbdb8188d19810fe9856f.999-271954.PNG" xmltv_id="SWR 2">SWR 2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225410600318||97916a3d48edbdb8188d19810fe9856f.999-292961.PNG" xmltv_id="1LIVE">1LIVE</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464253||97916a3d48edbdb8188d19810fe9856f.999-150339.PNG" xmltv_id="1 LIVE diggi">1 LIVE diggi</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488098||97916a3d48edbdb8188d19810fe9856f.999-896311.PNG" xmltv_id="Fritz">Fritz</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488105||97916a3d48edbdb8188d19810fe9856f.999-169089.PNG" xmltv_id="N-JOY">N-JOY</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976110||97916a3d48edbdb8188d19810fe9856f.999-229347.PNG" xmltv_id="radioeins">radioeins</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488118||97916a3d48edbdb8188d19810fe9856f.999-286106.PNG" xmltv_id="Radio SRF 2 Kultur">Radio SRF 2 Kultur</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488138||97916a3d48edbdb8188d19810fe9856f.999-134004.PNG" xmltv_id="Radio Nacional">Radio Nacional</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976120||97916a3d48edbdb8188d19810fe9856f.999-300241.PNG" xmltv_id="RTL Radio">RTL Radio</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000030||97916a3d48edbdb8188d19810fe9856f.999-196024.PNG" xmltv_id="Deutschlandfunk">Deutschlandfunk</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000046||97916a3d48edbdb8188d19810fe9856f.999-475914.PNG" xmltv_id="Deutschland Radio Kultur">Deutschland Radio Kultur</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976140||97916a3d48edbdb8188d19810fe9856f.999-250999.PNG" xmltv_id="MDR Sputnik">MDR Sputnik</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464322||97916a3d48edbdb8188d19810fe9856f.999-149876.PNG" xmltv_id="NDR2">NDR2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464329||97916a3d48edbdb8188d19810fe9856f.999-254098.PNG" xmltv_id="NDR Info">NDR Info</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464336||97916a3d48edbdb8188d19810fe9856f.999-235993.PNG" xmltv_id="SWR 3">SWR 3</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488223||97916a3d48edbdb8188d19810fe9856f.999-327848.PNG" xmltv_id="WDR 2">WDR 2</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="224889384048||97916a3d48edbdb8188d19810fe9856f.999-166849.PNG" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464353||97916a3d48edbdb8188d19810fe9856f.999-313968.PNG" xmltv_id="Radio SRF 1">Radio SRF 1</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976189||97916a3d48edbdb8188d19810fe9856f.999-157156.PNG" xmltv_id="Radio Swiss Pop">Radio Swiss Pop</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000125||97916a3d48edbdb8188d19810fe9856f.999-200635.PNG" xmltv_id="Radio Swiss Classic">Radio Swiss Classic</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000148||97916a3d48edbdb8188d19810fe9856f.999-328307.PNG" xmltv_id="Radio Swiss Jazz">Radio Swiss Jazz</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000158||97916a3d48edbdb8188d19810fe9856f.999-263505.PNG" xmltv_id="HIT Radio FFH">HIT Radio FFH</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464364||97916a3d48edbdb8188d19810fe9856f.999-886142.PNG" xmltv_id="planet radio">planet radio</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976219||97916a3d48edbdb8188d19810fe9856f.999-750737.PNG" xmltv_id="NDR Kultur">NDR Kultur</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488283||97916a3d48edbdb8188d19810fe9856f.999-333460.PNG" xmltv_id="SWR 4 Baden-Württemberg">SWR 4 Baden-Württemberg</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488308||97916a3d48edbdb8188d19810fe9856f.999-202708.PNG" xmltv_id="Radio Exterior de Espana">Radio Exterior de Espana</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464394||97916a3d48edbdb8188d19810fe9856f.999-196262.PNG" xmltv_id="Radio Horeb">Radio Horeb</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225897000223||97916a3d48edbdb8188d19810fe9856f.999-354856.PNG" xmltv_id="ERF Plus">ERF Plus</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464407||97916a3d48edbdb8188d19810fe9856f.999-332996.PNG" xmltv_id="BBC English">BBC English</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488344||97916a3d48edbdb8188d19810fe9856f.999-315314.PNG" xmltv_id="RFI Francais">RFI Francais</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225896488354||97916a3d48edbdb8188d19810fe9856f.999-114958.PNG" xmltv_id="Rete Uno">Rete Uno</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895976320||97916a3d48edbdb8188d19810fe9856f.999-363418.PNG" xmltv_id="WRN English Europe">WRN English Europe</channel>
+    <channel site="[ENC][EX]magentatv.at_0" site_id="225895464441||97916a3d48edbdb8188d19810fe9856f.999-137382.PNG" xmltv_id="Radio Osttirol">Radio Osttirol</channel>
   </channels>
 </site>
