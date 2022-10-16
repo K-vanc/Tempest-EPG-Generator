@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]kbro.com.tw_0">
+  <channels>
+    <channel site="[ENC]kbro.com.tw_0" site_id="9001" xmltv_id="節目表HD">節目表HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="3" xmltv_id="公用頻道HD">公用頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="4" xmltv_id="凱擘大台北生活頻道HD">凱擘大台北生活頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="5" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="606" xmltv_id="民視HD">民視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="7" xmltv_id="人間衛視HD">人間衛視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="215" xmltv_id="台視HD">台視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1009" xmltv_id="大愛HD">大愛HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1010" xmltv_id="中視HD">中視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="11" xmltv_id="霹靂台灣台HD">霹靂台灣台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="12" xmltv_id="華視HD">華視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1013" xmltv_id="公視HD">公視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="14" xmltv_id="公視台語台HD">公視台語台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="15" xmltv_id="好消息HD">好消息HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="16" xmltv_id="原住民族電視台HD">原住民族電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="17" xmltv_id="客家電視台HD">客家電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="18" xmltv_id="國家地理頻道HD">國家地理頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="19" xmltv_id="Discovery 頻道HD">Discovery 頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="21" xmltv_id="TLC 旅遊生活頻道HD">TLC 旅遊生活頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="20" xmltv_id="動物星球頻道HD">動物星球頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="22" xmltv_id="CN卡通頻道HD">CN卡通頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1023" xmltv_id="尼克兒童頻道HD">尼克兒童頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="24" xmltv_id="momo親子台HD">momo親子台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="25" xmltv_id="東森幼幼台HD">東森幼幼台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="26" xmltv_id="緯來綜合台HD">緯來綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="27" xmltv_id="八大第一台HD">八大第一台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1028" xmltv_id="八大綜合台HD">八大綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="29" xmltv_id="三立台灣台HD">三立台灣台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="30" xmltv_id="三立都會台HD">三立都會台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="631" xmltv_id="衛視中文台HD">衛視中文台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1032" xmltv_id="東森綜合台HD">東森綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1033" xmltv_id="超視HD">超視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1035" xmltv_id="東森購物2台HD">東森購物2台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="34" xmltv_id="momo購物2台HD">momo購物2台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1036" xmltv_id="中天綜合台HD">中天綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="37" xmltv_id="東風衛視台HD">東風衛視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="38" xmltv_id="年代MUCH台HD">年代MUCH台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="39" xmltv_id="中天娛樂台HD">中天娛樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1040" xmltv_id="東森戲劇台HD">東森戲劇台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1041" xmltv_id="八大戲劇台HD">八大戲劇台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="42" xmltv_id="TVBS歡樂台HD">TVBS歡樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="43" xmltv_id="緯來戲劇台HD">緯來戲劇台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="44" xmltv_id="高點電視台HD">高點電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="46" xmltv_id="JET 綜合台HD">JET 綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1047" xmltv_id="東森購物3台HD">東森購物3台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1048" xmltv_id="東森購物1台HD">東森購物1台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="49" xmltv_id="momo購物1台HD">momo購物1台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="549" xmltv_id="壹電視新聞HD">壹電視新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="50" xmltv_id="年代新聞HD">年代新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="51" xmltv_id="東森新聞HD">東森新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="53" xmltv_id="民視新聞台HD">民視新聞台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="54" xmltv_id="三立新聞HD">三立新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="55" xmltv_id="TVBS新聞台 HD">TVBS新聞台 HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1056" xmltv_id="TVBS HD">TVBS HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1057" xmltv_id="東森財經新聞HD">東森財經新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1058" xmltv_id="非凡新聞HD">非凡新聞HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="59" xmltv_id="viva購物1台HD">viva購物1台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1060" xmltv_id="東森購物5台HD">東森購物5台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="61" xmltv_id="衛視電影台HD">衛視電影台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="62" xmltv_id="東森電影台HD">東森電影台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="63" xmltv_id="緯來電影台HD">緯來電影台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="64" xmltv_id="LS龍祥電影台HD">LS龍祥電影台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="65" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="66" xmltv_id="東森洋片台HD">東森洋片台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="67" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="68" xmltv_id="好萊塢電影台HD">好萊塢電影台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="69" xmltv_id="STAR Movies Gold HD">STAR Movies Gold HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="70" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="71" xmltv_id="緯來育樂台HD">緯來育樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="72" xmltv_id="緯來體育台HD">緯來體育台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1098" xmltv_id="ELEVEN SPORTS 1 HD">ELEVEN SPORTS 1 HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="210" xmltv_id="ELEVEN SPORTS 2 HD">ELEVEN SPORTS 2 HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="200" xmltv_id="MOMO綜合台HD">MOMO綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1076" xmltv_id="博斯運動一台">博斯運動一台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="75" xmltv_id="緯來日本台HD">緯來日本台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="76" xmltv_id="國興衛視HD">國興衛視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="217" xmltv_id="STAR World HD">STAR World HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2084" xmltv_id="靖天購物一台">靖天購物一台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="85" xmltv_id="Animax(HD)">Animax(HD)</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="108" xmltv_id="信吉電視台HD">信吉電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="79" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2080" xmltv_id="中台灣生活網頻道HD">中台灣生活網頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1085" xmltv_id="寰宇新聞台灣台">寰宇新聞台灣台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="77" xmltv_id="Z頻道HD">Z頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="95" xmltv_id="冠軍電視台HD">冠軍電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="86" xmltv_id="八大娛樂台HD">八大娛樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="106" xmltv_id="三立iNEWS HD">三立iNEWS HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="88" xmltv_id="非凡商業台HD">非凡商業台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1125" xmltv_id="幸福空間居家台HD">幸福空間居家台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="91" xmltv_id="運通財經台HD">運通財經台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="94" xmltv_id="全球財經台HD">全球財經台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1211" xmltv_id="誠心電視台HD">誠心電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1095" xmltv_id="中部人文台HD">中部人文台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1084" xmltv_id="華藝台灣台HD">華藝台灣台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="96" xmltv_id="台灣綜合台HD">台灣綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2023" xmltv_id="海豚綜合台HD">海豚綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="112" xmltv_id="威達超舜生活台HD">威達超舜生活台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="87" xmltv_id="台灣藝術台HD">台灣藝術台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1101" xmltv_id="新彰生活台HD">新彰生活台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="101" xmltv_id="華藏電視台HD">華藏電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="103" xmltv_id="十方法界電視台HD">十方法界電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="81" xmltv_id="世界電視台HD">世界電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="107" xmltv_id="佛衛慈悲台HD">佛衛慈悲台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="98" xmltv_id="信大電視台HD">信大電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2030" xmltv_id="全大電視台HD">全大電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="158" xmltv_id="美麗人生購物台HD">美麗人生購物台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1109" xmltv_id="正德電視台HD">正德電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="99" xmltv_id="天良綜合台HD">天良綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="100" xmltv_id="番薯電視台HD">番薯電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2028" xmltv_id="富立電視台HD">富立電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="110" xmltv_id="華視教育體育文化台HD">華視教育體育文化台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="113" xmltv_id="冠軍夢想台HD">冠軍夢想台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="115" xmltv_id="新天地民俗台HD">新天地民俗台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="116" xmltv_id="三聖電視台HD">三聖電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="117" xmltv_id="樂視台HD">樂視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1107" xmltv_id="天美麗電視台HD">天美麗電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="120" xmltv_id="雙子衛視HD">雙子衛視HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="105" xmltv_id="NHK HD">NHK HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1123" xmltv_id="國會頻道1台HD">國會頻道1台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="124" xmltv_id="國會頻道2台HD">國會頻道2台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1126" xmltv_id="高點育樂台HD">高點育樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1127" xmltv_id="滾動力 rollor HD">滾動力 rollor HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1128" xmltv_id="ETtoday綜合台HD">ETtoday綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="129" xmltv_id="智林體育台HD">智林體育台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="130" xmltv_id="唯心電視台HD">唯心電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="301" xmltv_id="民視第一台HD">民視第一台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1300" xmltv_id="民視台灣台HD">民視台灣台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="153" xmltv_id="中視菁采台HD">中視菁采台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1154" xmltv_id="中視新聞台HD">中視新聞台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="302" xmltv_id="台視新聞台HD">台視新聞台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="308" xmltv_id="台視財經台HD">台視財經台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="157" xmltv_id="台視綜合台HD">台視綜合台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="168" xmltv_id="狼谷育樂台HD">狼谷育樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="216" xmltv_id="公視3台HD">公視3台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1202" xmltv_id="Baby TV HD">Baby TV HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1303" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="237" xmltv_id="Boomerang卡通台">Boomerang卡通台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="238" xmltv_id="達文西頻道">達文西頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="234" xmltv_id="Discovery Asia">Discovery Asia</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="219" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="121" xmltv_id="國家地理國際頻道">國家地理國際頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="154" xmltv_id="國家地理野生高畫質頻道">國家地理野生高畫質頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2211" xmltv_id="Discovery科學頻道">Discovery科學頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="194" xmltv_id="tvN HD">tvN HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="212" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1204" xmltv_id="星衛娛樂台HD">星衛娛樂台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="123" xmltv_id="緯來精采台HD">緯來精采台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2203" xmltv_id="韓國娛樂台KMTV">韓國娛樂台KMTV</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1216" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1219" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2218" xmltv_id="EVE HD">EVE HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="2219" xmltv_id="Cmusic HD">Cmusic HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="220" xmltv_id="Food Network美食台頻道">Food Network美食台頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="221" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="307" xmltv_id="寰宇新聞台">寰宇新聞台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1305" xmltv_id="亞洲旅遊台">亞洲旅遊台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="304" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="206" xmltv_id="亞洲美食頻道">亞洲美食頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="239" xmltv_id="HGTV居家樂活頻道">HGTV居家樂活頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1234" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="228" xmltv_id="TV5法式生活頻道HD">TV5法式生活頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="236" xmltv_id="古典音樂台">古典音樂台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1230" xmltv_id="LOVE NATURE">LOVE NATURE</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1231" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="230" xmltv_id="CATCHPLAY電影台">CATCHPLAY電影台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1208" xmltv_id="amc最愛電影">amc最愛電影</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="122" xmltv_id="HBO HD頻道">HBO HD頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="163" xmltv_id="HBO強檔鉅獻HD">HBO強檔鉅獻HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="162" xmltv_id="HBO原創鉅獻HD">HBO原創鉅獻HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="164" xmltv_id="HBO溫馨家庭HD">HBO溫馨家庭HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="233" xmltv_id="星衛HD電影台">星衛HD電影台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="231" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1241" xmltv_id="ROCK Entertainment HD">ROCK Entertainment HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="1225" xmltv_id="歐洲體育台HD">歐洲體育台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="224" xmltv_id="博斯高球台HD">博斯高球台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="245" xmltv_id="博斯高球2台">博斯高球2台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="240" xmltv_id="博斯無限二台">博斯無限二台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="241" xmltv_id="博斯魅力台">博斯魅力台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="242" xmltv_id="博斯網球台">博斯網球台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="243" xmltv_id="博斯運動二台">博斯運動二台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="244" xmltv_id="博斯無限台">博斯無限台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="111" xmltv_id="大愛2台HD">大愛2台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="330" xmltv_id="好消息2台HD">好消息2台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="309" xmltv_id="TaiwanPlus HD">TaiwanPlus HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="254" xmltv_id="彭博財經頻道HD">彭博財經頻道HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="311" xmltv_id="CNBC Asia HD">CNBC Asia HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="252" xmltv_id="BBC世界新聞台HD">BBC世界新聞台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="306" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="255" xmltv_id="德國之聲電視台HD">德國之聲電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="256" xmltv_id="法國TV5電視台HD">法國TV5電視台HD</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="290" xmltv_id="彩虹頻道">彩虹頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="291" xmltv_id="彩虹e台">彩虹e台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="292" xmltv_id="彩虹電影台">彩虹電影台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="293" xmltv_id="K頻道">K頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="904" xmltv_id="潘朵啦玩美台">潘朵啦玩美台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="905" xmltv_id="潘朵啦粉紅台">潘朵啦粉紅台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="906" xmltv_id="驚豔成人電影台">驚豔成人電影台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="907" xmltv_id="香蕉台">香蕉台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="297" xmltv_id="松視1台(HD)">松視1台(HD)</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="298" xmltv_id="松視2台">松視2台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="299" xmltv_id="松視3台">松視3台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="300" xmltv_id="松視4台">松視4台</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="912" xmltv_id="JStar極限台電影頻道">JStar極限台電影頻道</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="422" xmltv_id="華語流行暢銷">華語流行暢銷</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="423" xmltv_id="華語抒情歌曲">華語抒情歌曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="401" xmltv_id="西洋排行新曲">西洋排行新曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="402" xmltv_id="西洋流行暢銷">西洋流行暢銷</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="403" xmltv_id="西洋精選情歌">西洋精選情歌</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="404" xmltv_id="50,60年代西洋歌曲">50,60年代西洋歌曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="409" xmltv_id="爵士演唱">爵士演唱</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="410" xmltv_id="爵士演奏">爵士演奏</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="415" xmltv_id="Bossa Nova巴西爵士">Bossa Nova巴西爵士</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="411" xmltv_id="沙發音樂">沙發音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="416" xmltv_id="古典樂">古典樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="417" xmltv_id="鋼琴演奏">鋼琴演奏</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="418" xmltv_id="水晶音樂">水晶音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="419" xmltv_id="舒適環境音樂">舒適環境音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="420" xmltv_id="季節音樂">季節音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="426" xmltv_id="輕柔音樂">輕柔音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="405" xmltv_id="R&amp;B節奏藍調">R&amp;B節奏藍調</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="406" xmltv_id="HIP HOP饒舌嘻哈">HIP HOP饒舌嘻哈</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="408" xmltv_id="搖滾樂">搖滾樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="407" xmltv_id="派對音樂">派對音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="413" xmltv_id="東洋流行暢銷">東洋流行暢銷</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="414" xmltv_id="J&amp;T流行音樂">J&amp;T流行音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="430" xmltv_id="POP流行新曲">POP流行新曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="421" xmltv_id="懷舊留聲機">懷舊留聲機</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="424" xmltv_id="中國古典樂">中國古典樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="412" xmltv_id="昭和平成演歌名曲">昭和平成演歌名曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="425" xmltv_id="兒童音樂">兒童音樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="427" xmltv_id="生日快樂">生日快樂</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="428" xmltv_id="結婚進行曲/晚安曲">結婚進行曲/晚安曲</channel>
+    <channel site="[ENC]kbro.com.tw_0" site_id="429" xmltv_id="亞洲廣播電台">亞洲廣播電台</channel>
+  </channels>
+</site>
