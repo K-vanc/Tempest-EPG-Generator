@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'primetv.co.nz',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-10-17',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'en',
+  'max_day' => '7.1',
+  'rating_system' => 'OFLC',
+  'episodeOption' => '1',
+  'url1' => 'https://web-epg.sky.co.nz/prod/epgs/v1?start=##urldate1##&end=##stopdate1##&channelNumber=4',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/plain, */*',
+  'content_type1' => 'application/json;charset=UTF-8',
+  'host_header1' => 'web-epg.sky.co.nz',
+  'urldate_format1' => 'java',
+  'stopdate_format1' => 'java',
+  'show' => '({\\s*"id".*?})',
+  'start' => '"start" : "(.*?)",',
+  'start_format' => 'java',
+  'stop' => '"end" : "(.*?)",',
+  'stop_format' => 'java',
+  'title' => '"title" : "(.*?)",',
+  'desc' => '"synopsis" : "(.*?)",||#replace#(\\.\\s*[SE](?:p)?\\d+.*)||',
+  'category' => '"genres" : \\[ "(.*?)" \\]||#split#(\\/)',
+  'season' => '\\.\\s*S(\\d+)',
+  'episode' => '\\s*Ep(\\d+)',
+  'channel_logo' => '||#add#https://www.primetv.co.nz/o/primetv-theme/images/logo//prime-tv-logo-light.svg',
+  'rating' => '"rating" : "(.*?)",',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#prime',
+  'ccchannel_name' => '||#set#Prime',
+);
+?>
