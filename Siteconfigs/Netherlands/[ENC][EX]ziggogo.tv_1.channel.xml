@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]ziggogo.tv_1">
+  <channels>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000001_019401||npo1" xmltv_id="NPO 1">NPO 1</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000002_019402||npo2" xmltv_id="NPO 2">NPO 2</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000003_019405||npo3" xmltv_id="NPO 3">NPO 3</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000004_019461||rtl4_v6" xmltv_id="RTL 4">RTL 4</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000005_019462||rtl5_2017" xmltv_id="RTL 5">RTL 5</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000006_019130||sbs6_2018" xmltv_id="SBS6">SBS6</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000007_019181||rtl7_2017" xmltv_id="RTL 7">RTL 7</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000008_019442||veronica_disney_2018" xmltv_id="Veronica / Disney XD">Veronica / Disney XD</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000009_019024||net5_5" xmltv_id="Net5">Net5</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000010_019422||rtl8_2017" xmltv_id="RTL 8">RTL 8</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000011_019563||fox_v2" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000012_019191||rtl_z" xmltv_id="RTL Z">RTL Z</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000013_019327||ziggo_tv_1" xmltv_id="Ziggo TV">Ziggo TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000014_019661||ziggo_sport_sport_2021" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000015_019166||comedy_central_v2" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000016_019388||paramount_network_2022" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000017_019222||discovery_hd_v2" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000018_019221||nat_geo_v3" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000019_019671||sbs9_2018" xmltv_id="SBS9">SBS9</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000020_019432||eurosport1_v2" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000021_019566||TLC_2022" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000022_019328||bbc_first" xmltv_id="BBC First">BBC First</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000023_019363||mtv_hd" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000024_019701||24_kitchen_2022" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000025_019708||xite_2017" xmltv_id="XITE">XITE</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000027_019330||disney_channel_2022" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000028_019705||historyhd" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000029_019046||nickelodeon_v5" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000030_019152||ons_2018" xmltv_id="ONS">ONS</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000031_019362||een_v3" xmltv_id="één">één</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000032_019226||canvas_v2" xmltv_id="Canvas">Canvas</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000033_019025||ketnet_v2" xmltv_id="Ketnet">Ketnet</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000034_020027||ard_hd" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000035_020028||zdf_hd" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000036_019465||wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000037_019186||ndr" xmltv_id="NDR">NDR</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000038_019063||rtl_television_v2" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000039_019153||sat_1" xmltv_id="Sat. 1">Sat. 1</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000040_020022||bbc_one_hd" xmltv_id="BBC One">BBC One</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000041_019369||bbc_two_hd" xmltv_id="BBC Two">BBC Two</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000044_019491||bbc_entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000045_019354||tv5_monde_2022" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000046_020053||arte" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000047_019428||tve" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000048_020052||mediaset_italia" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000049_019514||rtv7" xmltv_id="RTV-7">RTV-7</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000050_019353||trt_turk" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000051_019047||2m" xmltv_id="2M">2M</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000214_020004||njam_2022" xmltv_id="njam!">njam!</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000063_019307||npo1_extra_2022" xmltv_id="NPO 1 Extra">NPO 1 Extra</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000080_019484||npo2_extra_2022" xmltv_id="NPO 2 Extra">NPO 2 Extra</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000114_019151||npo_politiek_nieuws_2022" xmltv_id="NPO Politiek en Nieuws">NPO Politiek en Nieuws</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000213_020003||filmbox_2022" xmltv_id="FilmBox">FilmBox</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000052_019655||film1_premiere_1" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000053_019653||film1_action_1" xmltv_id="Film1 Action">Film1 Action</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000054_019654||film1_family_1" xmltv_id="Film1 Family">Film1 Family</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000055_019645||film1_drama_1" xmltv_id="Film1 Drama">Film1 Drama</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000056_019483||rtl_crime2" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000057_019493||crime_invest" xmltv_id="Crime+Investigation">Crime+Investigation</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000058_019381||investigation_discovery_2020" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000059_019252||comedy_central_extra_2018" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000060_019297||shorts_tv2" xmltv_id="Shorts TV">Shorts TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000061_019331||e_entertainment_new" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000064_019275||outtv_v4" xmltv_id="OUTTV">OUTTV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000067_020024||fashiontv" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000068_020055||myzen_tv" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000069_020071||horse_country" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000072_019298||rtl_lounge_v2" xmltv_id="RTL Lounge">RTL Lounge</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000216_019122||curiosity_channel_2022" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000075_019246||discovery_science_2017" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000077_019706||natgeowild_hd_v2" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000191_019261||love_nature_hd" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000078_020002||animal_planet_hd_v2" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000081_020051||family7" xmltv_id="Family7">Family7</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000193_019342||tommy_tv" xmltv_id="Tommy TV">Tommy TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000084_019301||nick_toons1" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000085_019494||nick_music" xmltv_id="Nick Music">Nick Music</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000087_019303||nick_jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000088_019251||cartoon_network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000090_019492||boomerang_1" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000091_019490||babytv_2018" xmltv_id="BabyTV">BabyTV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000215_020005||ducktv_2022" xmltv_id="ducktv">ducktv</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000093_019299||rtl_telekids_2017" xmltv_id="RTL Telekids">RTL Telekids</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000212_020042||nickelodeon_ukraine_2022" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000094_019321||ziggo_sport_select_2021" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000095_019371||ziggo_sport_voetbal_2021" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000096_019382||ziggo_sport_golf_2021" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000097_019370||ziggo_sport_racing_2021" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000098_019255||ziggo_sport_docu_2021" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000099_019256||ziggo_sport_tennis_2021" xmltv_id="Ziggo Sport Tennis">Ziggo Sport Tennis</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000103_019581||eurosport2_v2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000107_019441||espn_2021" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000108_019561||espn2_2021" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000109_019464||espn3_2021" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000110_019562||espn4_2021" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000115_019447||cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000116_019005||bbc_world_news_v2" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000117_019351||euronews_1" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000118_019350||al_jazeera_english1" xmltv_id="Aljazeera English">Aljazeera English</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000119_019481||cnbc" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000120_020046||cgtn" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000122_019495||tv_538_2" xmltv_id="TV538">TV538</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000123_019304||mtv_90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000126_019486||mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000135_020029||mtv_live_hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000125_019294||slam_tv_v2" xmltv_id="SLAM!TV">SLAM!TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000124_019487||dance_television" xmltv_id="DanceTelevision">DanceTelevision</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000127_019295||stingray_lite_tv" xmltv_id="Stingray LiteTV">Stingray LiteTV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000128_019254||mtv80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000133_019271||100pnl_tv" xmltv_id="100% NL TV">100% NL TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000132_019278||tv_oranje" xmltv_id="TV Oranje">TV Oranje</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000134_019296||192_tv" xmltv_id="192TV">192TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000131_019248||stingray_djazz" xmltv_id="Stingray DJAZZ">Stingray DJAZZ</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000130_019274||mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000129_020044||stingray_classica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000136_019583||rtv_noord" xmltv_id="RTV Noord">RTV Noord</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000137_019214||omroep_friesland_1" xmltv_id="Omrop Fryslân">Omrop Fryslân</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000138_019591||rtv_drenthe_1" xmltv_id="RTV Drenthe">RTV Drenthe</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000139_019592||rtv_oost_1" xmltv_id="RTV Oost">RTV Oost</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000140_019594||omroep_gelderland" xmltv_id="Omroep Gelderland">Omroep Gelderland</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000141_019209||omroep_flevoland" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000142_019211||nh_nieuws" xmltv_id="NH Nieuws">NH Nieuws</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000143_019207||rtv_utrecht_2" xmltv_id="RTV Utrecht">RTV Utrecht</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000144_019212||tv_west" xmltv_id="RTV West">RTV West</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000145_019208||tv_rijnmond_v2" xmltv_id="RTV Rijnmond">RTV Rijnmond</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000146_019213||omroep_zeeland2" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000147_019593||omroep_brabant" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000148_019144||l1_limburg_2022" xmltv_id="L1 TV">L1 TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000149_019210||at5_new" xmltv_id="AT5">AT5</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000150_020075||utsav_plus" xmltv_id="Utsav Plus">Utsav Plus</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000151_020074||utsav_gold" xmltv_id="Utsav Gold">Utsav Gold</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000152_020077||zee-tv-2018" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000153_020076||zee-cinema-2018" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000154_020078||zing_2017" xmltv_id="Zing">Zing</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000155_020073||set_asia" xmltv_id="SET Asia">SET Asia</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000156_020072||show_tv" xmltv_id="ShowTürk">ShowTürk</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000157_019270||euro_d1" xmltv_id="Euro D">Euro D</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000158_019266||eurostar" xmltv_id="Eurostar">Eurostar</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000159_019273||haberturk" xmltv_id="Habertürk">Habertürk</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000160_019277||tv8" xmltv_id="TV8 Int.">TV8 Int.</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000162_019250||trt_cocuk" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000163_019272||atv" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000164_020070||trt_muzik" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000170_019515||secret-circle" xmltv_id="Secret Circle">Secret Circle</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000171_019313||penthouse_gold" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000172_019302||evil_angel" xmltv_id="Evil Angel">Evil Angel</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000173_019305||passie_xxx" xmltv_id="PassieXXX">PassieXXX</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000174_019311||dusk" xmltv_id="DUSK">DUSK</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000175_019312||mvholland_hard" xmltv_id="Meiden van Holland Hard">Meiden van Holland Hard</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000176_019308||xmo_1" xmltv_id="X-MO">X-MO</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_000217_019123||playboytv_europe_2022" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel site="[ENC][EX]ziggogo.tv_1" site_id="NL_005049_018501||radio_npo_radio2_soul_jazz" xmltv_id="NPO Radio 2 Soul &amp; Jazz">NPO Radio 2 Soul &amp; Jazz</channel>
+  </channels>
+</site>
