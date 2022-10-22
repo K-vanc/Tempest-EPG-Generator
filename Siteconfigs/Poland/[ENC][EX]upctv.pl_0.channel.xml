@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]upctv.pl_0">
+  <channels>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_1_HD||4850.f.8ef0b1817211a4effa60c09a9b342d4ff3c60aa9" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_2_HD||4852.f.cab4a4e7495624b12739d59cf83746d3e040ce55" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_HD||4783.f.a7feb78f9f4b3e3e3ec66f8c6c4eeb3da32e7b2c" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV4_HD||8109.f.cf5b4e8578e725c0b632f42ddc1fbdde0d7460fd" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_HD||4818.f.c0dde75988740247aeabdaef7da96f4776cf74b7" xmltv_id="TVN HD">TVN HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_24_dubel||4825.f.de74c8a18c2edb5fceaf930395f5dbe3d3d5c5f6" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_7_HD||4827.f.2aa01c16e696a28bf8499a9c21085e6544f79487" xmltv_id="TVN7 HD">TVN7 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV_Puls_HD||7133.f.1447e03e6abb4511b1dbf1ce671d3e1c110715e8" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_1_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Comedy_Central_HD_dubel||8094.f.18c38e149fe2efb030074402cf6806389eff7965" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TTV_HD_dubel||4808.f.63743e3df726b4e853b84f6f37cb2ffd5eea5656" xmltv_id="TTV HD">TTV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_HD_dubel||4721.f.2ce8b3995cf003495a37ad7dc7e94e524e5db162" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="PULS_2_HD_dubel||7250.f.0f6f91e674f400a4b1079ae8251dd5076f330c4f" xmltv_id="PULS 2">PULS 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Prime_Video_APP||Prime_Video_APP.f.529fb13147f243b2c607bba5525bd109699c5822" xmltv_id="Amazon Prime">Amazon Prime</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Info_HD||4833.f.0736b83ee70680e0b795b1ed900af7d5f8bfe462" xmltv_id="TVP Info HD">TVP Info HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Warszawa||4853.f.0f55584b9455262f3572a23e69d522aa460a2bf4" xmltv_id="TVP 3 Warszawa">TVP 3 Warszawa</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_24_HD||4825.f.de74c8a18c2edb5fceaf930395f5dbe3d3d5c5f6" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_24_BIS||4817.f.c21828d5b6afcb9d8264e092d8c3ec1c81f565bd" xmltv_id="TVN24 BiS">TVN24 BiS</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Meteo||4819.f.ff452b71a54e45004b8e2b5ef85004c8f8ecae8f" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_News_HD||4957.f.d9088ebc884a210f30621b4cec657adee0cb59b6" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Biznes||4780.f.871d874b7342e332e7fd83f997c6e3991e9fb6ce" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Superstacja_HD||4799.f.10f18b60e5244590d468813eb0daab35f5776e1b" xmltv_id="Wydarzenia24">Wydarzenia24</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV_Republika||4947.f.81306980f6b7d74f3a2e7b125a1824e7f3b6cb54" xmltv_id="TV Republika">TV Republika</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Fabula_HD_dubel||7231.f.650a9ed16df4a2dbfb8272a6ad43d19094317211" xmltv_id="TVN Fabuła HD">TVN Fabuła HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Style_HD_dubel||4821.f.a4781f062bd9c82b82a1a1d7c2a506216be1a115" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLC_HD_dubel||4805.f.df24987532f02a48ec730aac2987a47b844a7896" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TTV_HD||4808.f.63743e3df726b4e853b84f6f37cb2ffd5eea5656" xmltv_id="TTV HD">TTV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Food_HD_dubel||7242.f.d5d7f25b39aa79fb44b5d53907be5237f970f2d3" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Travel_Channel_dubel||4807.f.6c7f483efe70fa0c30352d5eeae54646a982d522" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ID_HD_dubel||6991.f.940cc6de2c5b350a0a5b19a66cbfee7948dcd76c" xmltv_id="ID HD">ID HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Turbo_HD_dubel||4823.f.4108309fb3409e490409a48c90a023a1c62200e6" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_Science_dubel||4723.f.69806a2357b74a56deab10f120816fb774ad7d94" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_Turbo_Extra_dubel||4724.f.7cfdefc3a9a875b7991ea4ce7d389b022b775f92" xmltv_id="DTX">DTX</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="VOD_full_Barker||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC NA ŻĄDANIE">UPC NA ŻĄDANIE</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_HD_dubel||6978.f.ea4d871fdd2d0bd60d951b8deee02339a9538f5c" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Lifestyle_HD_dubel||4880.f.9b16453cfdbeb52f28995ebec68b198dd29409bd" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Brit_HD_dubel||7221.f.2e07d4e79d81cef62098a0f0d1304d8ec14c6f72" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_HD_dubel||4878.f.df6458addaff47d0df4dd738e79c285f2007ec43" xmltv_id="BBC First">BBC First</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Earth_HD_dubel||7220.f.65e4f58d7242fb3cb7c75fdf266ace5b5af34d80" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_CBeebies_dubel||6980.f.a55881807aecb4b627825bfaf010bd8768c08834" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_Black_dubel||4870.f.e58f01fe937fb8313e19108a0dfc44c8049a05ab" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Romance_HD_dubel||6988.f.e0b524f25f7afe7d79cc2c5a3bbc8c5dbd188057" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Promo_3||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Promo">Promo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="YoutubeKids_APP||YoutubeKids_APP.f.fe6b0ea4b7475bb1f2418f3b875dfc3d0367d6cc" xmltv_id="YouTube Kids">YouTube Kids</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Youtube_APP||Youtube_APP.f.4830b891f0b1916cd19b390f5d38ba468aef689f" xmltv_id="YouTube">YouTube</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_1||8903.f.0c6ec6bda476193e501d6034d3218828360def3e" xmltv_id="Polsat Sport Premium 1 HD">Polsat Sport Premium 1 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_2||8904.f.66d9755fa8b2e0dccb068c3199ca69b37947d28f" xmltv_id="Polsat Sport Premium 2 HD">Polsat Sport Premium 2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_3||8905.f.2780f1169c9a09bb5aa7923164f13b874114850d" xmltv_id="Polsat Sport Premium 3 PPV HD">Polsat Sport Premium 3 PPV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_4||8906.f.33239f90b13bc9ff83f1a682ba207f98e87cbebc" xmltv_id="Polsat Sport Premium 4 PPV HD">Polsat Sport Premium 4 PPV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_5||8907.f.97d446f343f56429963f6e1648274412944c8eb0" xmltv_id="Polsat Sport Premium 5 PPV HD">Polsat Sport Premium 5 PPV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Premium_6||8908.f.8de29c5fd155ac420981c5f80a550d1c7c46d947" xmltv_id="Polsat Sport Premium 6 PPV HD">Polsat Sport Premium 6 PPV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="PPV_App||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="KSW 61">KSW 61</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="PPV_HD||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="KSW 61">KSW 61</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Interaktywna_Galeria_UPC||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Galeria UPC">Galeria UPC</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_2_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_HD||4831.f.5427d44b35a6f333d1a5d3aebb38dc53444bd5c5" xmltv_id="TVP HD">TVP HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Rozrywka||4846.f.8bde99c11b4fdbabb621857fdc90ed31f521737d" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Polonia||4845.f.33822a51b2025b37eab3cae8903b15657ca4971b" xmltv_id="TVP Polonia HD">TVP Polonia HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_2_HD||8110.f.9495cd6d067a1837439f55350cd8fa05e5ac7370" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV6_HD||4815.f.25c165f1b23cdacb488481e54f3a91f391e00415" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV_Okazje_HD||9112.f.edb853c637167dc206bac217961cc907cbce43c8" xmltv_id="TV Okazje HD">TV Okazje HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="PULS_2_HD||7250.f.0f6f91e674f400a4b1079ae8251dd5076f330c4f" xmltv_id="PULS 2">PULS 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Tele_5_HD||7132.f.77e99973abd0c0278876b3ec442eb8585b9f7da3" xmltv_id="Tele 5 HD">Tele 5 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polonia1||4778.f.e1a5a7ed82bd472b3455e6849096ebef38431f56" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVS_HD||4856.f.311ebad7dac97df5b51ea170fcad80d9d9d84915" xmltv_id="TVS HD">TVS HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ESKA_TV_HD||8282.f.fa8ab0aa75e535d1a4ea1db77cdd1312c62c0d9f" xmltv_id="ESKA TV HD">ESKA TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nowa_TV_HD||8430.f.ae39c8b9dd2a9a47c5c74ac60988606eadcf02e4" xmltv_id="NOWA TV HD">NOWA TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Zoom_TV_HD||8424.f.128967d5422377adedc0ffcf5572350280c5919f" xmltv_id="Zoom TV HD">Zoom TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Metro_HD||8440.f.1b628f39d81045b9fb9c23c1eb1d49ac60279e33" xmltv_id="Metro HD">Metro HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="WP_1_HD||8441.f.b5d187d5077b5fdb57b09641f2ab9b58076158b2" xmltv_id="WP">WP</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV_Trwam||4811.f.e71189cc1c1ca631ba158f332ac702c51b0bd706" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Rodzina_HD||8161.f.fd375649d38d5712212a0ca3f9a9fb394e19f42c" xmltv_id="Polsat Rodzina">Polsat Rodzina</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Super_Polsat_HD||8449.f.2b7468fb818c799cf8c2e1fe8f97ee1da0ce5e19" xmltv_id="Super Polsat HD">Super Polsat HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="NTL_Radomsko||8468.f.780777a64121a7095c7b2a2159705bc5f5914b49" xmltv_id="TVC HD">TVC HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="wPolscepl_4K||771595.f.a307b9eea06e738c358bc9d25331173ec0fe9e31" xmltv_id="wPolsce.pl UHD">wPolsce.pl UHD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="wPolscepl||771595.f.a307b9eea06e738c358bc9d25331173ec0fe9e31" xmltv_id="wPolsce.pl">wPolsce.pl</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Biznes24_HD||0332.f.a8401420b40cabca122fb53c17d454a5d53a5dbe" xmltv_id="BIZNES24 HD">BIZNES24 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVR||4854.f.294b9927e3fb56148266d16d1f9cb7867bea536a" xmltv_id="HOME TV HD">HOME TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_3_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Antena_HD||0747.f.becd20beb8e60b40f1d9cb760e79776002e2c9bc" xmltv_id="Antena HD">Antena HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_4_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Kino_Polska||8926.f.de3a5e27f7fca78f1cd4f705f5fbdcd4fa7a4475" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Stopklatka_HD||633.f.67b99fdf157f08d19346dd19d684d74c9b0d66d0" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ale_kino_HD||4874.f.20294f930ad638f3fa40de29a82d196c3ef5721f" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Film_HD||7120.f.bc6fa779b4ecd80cee89e7a3c69b72c96ddb7f35" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Paramount_HD||8096.f.b802313ada7accba60afb1b755cc82082bd82c1b" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TCM||4800.f.2feb778a1fbc29e08497cf9c6b084b2701109933" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CBS_Europa||4896.f.c1c1b7c27591346ba8bed39fc0e7a872cba732e5" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Sundance_HD||4798.f.cd1c2c744841364bb20c60e818bb946ac2ed3473" xmltv_id="Sundance TV HD">Sundance TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_5_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Fabula_HD||7231.f.650a9ed16df4a2dbfb8272a6ad43d19094317211" xmltv_id="TVN Fabuła HD">TVN Fabuła HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Seriale||4847.f.d30c04ad82b381b16f6e4bd27db7a18a7a223acd" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Romans||4948.f.0f0d10b01885e28c73436a1388cda693eebae8f3" xmltv_id="Polsat Seriale HD">Polsat Seriale HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_HD||6978.f.ea4d871fdd2d0bd60d951b8deee02339a9538f5c" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_Spin_HD||6979.f.8114bcfed696c120032654834629df5ee8566bb3" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_White||4869.f.1dc4ff288e2137fb31b62f5ae6b90751250f9bb3" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AXN_Black||4870.f.e58f01fe937fb8313e19108a0dfc44c8049a05ab" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Comedy_Central_HD||8094.f.18c38e149fe2efb030074402cf6806389eff7965" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Comedy_Central_Family||4903.f.dc1fb2bc8529b0bed1051a1fe0f42c5bbc666e22" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FOX_Life_HD||4746.f.600ee5b826c536147b125b86d24c05c9c83ba02e" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FOX_HD||4744.f.4a262ac1a6f9dfa2e03e497f189da0693a0e5391" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="DIZI_HD||dizi.f.7b6303fe6f3e9e974a982a4a848c05c504eca173" xmltv_id="DIZI HD">DIZI HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Romance_HD||6988.f.e0b524f25f7afe7d79cc2c5a3bbc8c5dbd188057" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Epic_Drama_HD||8743.f.45d76c4dddafbbcdd003e4020946d38c2e9c6a33" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="AMC_HD||8523.f.787a886ff3cf079ea2d2723a2fe603aa6b4eed14" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Bollywood_HD||8521.f.d71f6a6f0a090abadae313d3128cbf7002eec602" xmltv_id="Bollywood">Bollywood</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Novela_TV_HD||8522.f.ca4233ca02a7025b743ab9502500f0adacffc38b" xmltv_id="Novela TV">Novela TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_HD||4890.f.ec73ffd10cd7833eb2a5f1e2c7d72dc3adf1a2c5" xmltv_id="CANAL+ PREMIUM">CANAL+ PREMIUM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_1_HD||4885.f.d3f659ff87c334abff7dab484b34060fce9fd9aa" xmltv_id="CANAL+ 1">CANAL+ 1</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Film_HD||4889.f.6d22ebe6786e3956e12930bb4dcb2929f4c5dab6" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Seriale_HD||4888.f.016e376bfcaff1b492130f5e92c380882e9f0a02" xmltv_id="CANAL+ SERIALE">CANAL+ SERIALE</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Family_HD||4886.f.fff16fea52809760e2c0284c35a4ebd1e9b248d8" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Dokument_HD||7233.f.542ab7b14ee4b20a022fda3ab44ba8abc716ee56" xmltv_id="CANAL+ DOKUMENT">CANAL+ DOKUMENT</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Sport_HD||4892.f.6b92e17ff4766fb9e87142a737ce15f986a13da4" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CANAL_Sport_2_HD||7234.f.0c5eda9e8b8bf6150ee6d7aab4dad806633b2956" xmltv_id="CANAL+ SPORT 2">CANAL+ SPORT 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_HD_dubel||8118.f.7368c60247faacebdb1ab56bf4e0c601a456e24a" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_4K_dubel||122136.f.90eaf64838ceca88bb5636627a2ff436f3eb87d1" xmltv_id="Eleven Sports 1 4K">Eleven Sports 1 4K</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_Sports_HD_dubel||8119.f.bc870e4f81e1c475d2391c41e8e24bd0b6c27e72" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_Extra_HD_dubel||8431.f.ef789bad21d402d857762e8f12f51a69c04bbc9d" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="HBO_HD||4750.f.1e8985de6b52effc02b7d47ff636dedfaaea4a97" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="HBO_2_HD||4752.f.29ef5003d3df9788324bb51dcdf3093b3b443b00" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="HBO_3_HD||4749.f.96424f7a5e1986ca2a0c9e361d01e1b7ac778a79" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Cinemax_HD||4899.f.868fc17990215d8c6971dde349d1217bdf0056ae" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Cinemax_2_HD||4901.f.44c1ae791a77bcae1f3cd7ca354cd1e355614e1f" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox||4739.f.69dae0228457b7d18f72b03b9186e6426f00c4cb" xmltv_id="KinoTV">KinoTV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox_HD||4742.f.543d328897ba884002a4fa7866ef713fc7221f36" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox_Extra||4740.f.9b0925c6773e5ed26b86a8a8f3d10bb9b87c1969" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox_Family||765864.f.9dbbe7db4c52248963af1344c38ac7e58c26d526" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox_Action||7124.f.16d84576e66a5a365bec68bdb618409808120435" xmltv_id="FilmBox Action">FilmBox Action</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FilmBox_Arthouse_HD||7123.f.ad2d98f332547d7e63603eaac71251eca9ca1c95" xmltv_id="FilmBox Arthouse HD">FilmBox Arthouse HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FunBox_HD||1331.f.c99aa810c4601853e391a7ea58b22e8bb2b99b3c" xmltv_id="FunBox HD">FunBox HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FunBox_4K||1331.f.c99aa810c4601853e391a7ea58b22e8bb2b99b3c" xmltv_id="FunBox 4K">FunBox 4K</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Promo_4||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Promo">Promo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Promo_2||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Promo">Promo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="National_Geographic_HD||4772.f.f93d815ff1061d21b6f6d5ad31bfec575e823fcb" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="NatGeoWild_HD||765894.f.9aa606944f830a10d33182c3b41f29c160c4dba4" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nat_Geo_People_HD||8300.f.3417bf33acfe1445f180742b42ef839efdeceaa4" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_HD||4721.f.2ce8b3995cf003495a37ad7dc7e94e524e5db162" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_Science||4723.f.69806a2357b74a56deab10f120816fb774ad7d94" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_Turbo_Extra||4724.f.7cfdefc3a9a875b7991ea4ce7d389b022b775f92" xmltv_id="DTX">DTX</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Turbo_HD||4823.f.4108309fb3409e490409a48c90a023a1c62200e6" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Animal_Planet_HD||4875.f.bd50ef0edb46e8c6d09090dd891766a31029d11a" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Travel_Channel_HD||4807.f.6c7f483efe70fa0c30352d5eeae54646a982d522" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Planete_HD||4776.f.cdd7282a7967d0a6b438e2aa5e401c3571a7117f" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Fokus_HD||7139.f.5e1002911918905f0f35da851b2ac6737288c7cd" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Kultura||4844.f.05a731beccf4e4d1c6a5f337f66f823a74a4e3c9" xmltv_id="TVP Kultura HD">TVP Kultura HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Historia||4832.f.86a5f5141ce689961e0ce21e125bc85044a6a801" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="History_HD||4753.f.c298999ecea26381c7ea4f8da6899fa9c2ebfcc0" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Discovery_Historia||4722.f.e85634a02eb0e0d12418715274d84e3c25af2d80" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Viasat_History_HD||6986.f.bc58dd8b214b791745126ed2273f0b26f55da471" xmltv_id="Polsat Viasat History HD">Polsat Viasat History HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Earth_HD||7220.f.65e4f58d7242fb3cb7c75fdf266ace5b5af34d80" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Adventure_TV_HD||7243.f.75c84ac1205d04100a521eb983b12a33086445e9" xmltv_id="Adventure HD">Adventure HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Viasat_Explore_HD||6985.f.4b2f008da5e859f985fe28520db651b49e7ae9a2" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Viasat_Nature||6987.f.81a18de1b7daa9ecf75f60ea47fdb0d9f30fdfee" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Doku_HD||8915.f.90c7030eb229059f12210a8ff65392807c92c727" xmltv_id="Polsat Doku HD">Polsat Doku HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="DocuBox_HD||8923.f.68f6375a377821b32b989b2be552f0e299d5e462" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Dokument_HD||9123.f.32eb2d810489c6c7dabb84d3a24f4aa7c49534f7" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="H2_HD||122615.f.5296b924df2d6fc997a7d809ce862f2754a2f183" xmltv_id="H2">H2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Studiomed_HD||sudiomed.f.0a3ce6b3a00adcb408254e05390d5b8a09cb94b3" xmltv_id="Studiomed TV">Studiomed TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_6_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVN_Style_HD||4821.f.a4781f062bd9c82b82a1a1d7c2a506216be1a115" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Animal_Planet||4866.f.6cee920342065ea0220cf4be6d4f9a8e3f4343d8" xmltv_id="Discovery Life HD">Discovery Life HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Cafe_HD||8111.f.54cc24af7e27e88f03e232fcde104bbbdc14bff2" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Play_HD||8112.f.b2ebadd91159760e348a686567e2802b08a386db" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Crime_Investigation_Polsat||4904.f.165d660d9c5d2a7a3e632ec54fdfe5a53586faa5" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ID_HD||6991.f.940cc6de2c5b350a0a5b19a66cbfee7948dcd76c" xmltv_id="ID HD">ID HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLC_HD||4805.f.df24987532f02a48ec730aac2987a47b844a7896" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="HGTV_dubel||4819.f.ff452b71a54e45004b8e2b5ef85004c8f8ecae8f" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="DOMO_HD||4730.f.fb66568cb5857a55df71b3e32ac4cd8b56bcc071" xmltv_id="CANAL+ Domo">CANAL+ Domo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="kuchnia_HD||4761.f.7b90c6521ec49c6222518b1b4e6496271e45476a" xmltv_id="CANAL+ Kuchnia">CANAL+ Kuchnia</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Food_HD||7242.f.d5d7f25b39aa79fb44b5d53907be5237f970f2d3" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Lifestyle_HD||4880.f.9b16453cfdbeb52f28995ebec68b198dd29409bd" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_HD||4878.f.df6458addaff47d0df4dd738e79c285f2007ec43" xmltv_id="BBC First">BBC First</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_Brit_HD||7221.f.2e07d4e79d81cef62098a0f0d1304d8ec14c6f72" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Fashion_HD||4697.f.688d6ec67b94d8d1910128fc1b44faf6c2ef3df6" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CBS_Reality||4897.f.9ebd062f3c08bae2e0ca3b6aaa325f37057746b5" xmltv_id="CBS Reality HD">CBS Reality HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Active_Family_HD||3080.f.6cb5f5f7c1cf52e73e7a6b22651f6dda5f8820ee" xmltv_id="Active Family HD">Active Family HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Edusat||4732.f.f900be8599e2357ec4212c125820bcf8920dce78" xmltv_id="Red Carpet TV">Red Carpet TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Ultra_TV_4K||1332.f.3c525060d881cea831d8df3763f474110eecbd87" xmltv_id="ULTRA TV">ULTRA TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Ultra_TV_HD||1332.f.3c525060d881cea831d8df3763f474110eecbd87" xmltv_id="ULTRA TV">ULTRA TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Insight_TV_4K||9084.f.4f5f19ad36a4dd928e22dfd2bb85bf214d33e394" xmltv_id="INULTRA">INULTRA</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Insight_TV_HD||9084.f.4f5f19ad36a4dd928e22dfd2bb85bf214d33e394" xmltv_id="INULTRA">INULTRA</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Kobieta_HD||0333.f.c9b9117860b3aa07bb201bad167e97e092c7b52c" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Promo_1||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Promo">Promo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_Sport_HD||4949.f.d0de73bb0df1adf973528f640bb8ab970ff2583e" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="nSport_HD||6984.f.935c508e955967033c37c2c806a7ece0f29a9ede" xmltv_id="CANAL+ Sport 5">CANAL+ Sport 5</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_HD||4789.f.15900f7bbaaed988ee93e51642b2a471e6f6efba" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_Extra_HD||4788.f.4bbd67edea07c3236dfeb53b793d2080bd75d1bd" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Fight_HD||8735.f.0de132490375924cf9f3ae8ce464496c3006ab49" xmltv_id="Polsat Sport Fight HD">Polsat Sport Fight HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Sport_News_HD||4957.f.43d697b8b485d9b854f8162662635e1f1e960ded" xmltv_id="Polsat Sport News HD">Polsat Sport News HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_Games_HD||8130.f.e1bf2b9229ee8c041223fc7bb39ffa684b056a37" xmltv_id="Polsat Games">Polsat Games</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eurosport_HD||4735.f.96b8ffb042e9f8173457807b0b43434c2a3a7017" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eurosport_2_HD||4737.f.c9c31c86d6baca1923162ef0424ff825ea7a48f2" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_4K||122136.f.90eaf64838ceca88bb5636627a2ff436f3eb87d1" xmltv_id="Eleven Sports 1 4K">Eleven Sports 1 4K</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_HD||8118.f.7368c60247faacebdb1ab56bf4e0c601a456e24a" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_Sports_HD||8119.f.bc870e4f81e1c475d2391c41e8e24bd0b6c27e72" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eleven_Extra_HD||8431.f.ef789bad21d402d857762e8f12f51a69c04bbc9d" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Sportklub_HD||4796.f.95d8ed997406c2638286b25ce93051d6e9dceba8" xmltv_id="SportKlub HD">SportKlub HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Fightklub_HD||8120.f.7ee25b336403c11e3b30b17ba8d0cadcd8781502" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Extreme_Sports||765861.f.2459dead32e0984431b9cee5f87bf80ab0292cdc" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Motowizja_HD||8121.f.396efcee28f023bd064ab77adc3476fe368b1767" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nautical_Channel||1252.f.0276d695fe017f4474a309ac5f30d6aa1d22a3a1" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Golf_Channel_HD||8507.f.b5f508acdba85d1d2c46ee78e612ee72c554d8ba" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="FightBox_HD||8924.f.03d07c08421d15f83cb07893d085a0ecaf4f5403" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="GameToon_HD||8925.f.d6f4878400c9939873d2b9329cadbfc2b4de5168" xmltv_id="GameTOON HD">GameTOON HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Dla_dzieci_OD||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="Dla dzieci na żądanie">Dla dzieci na żądanie</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_ABC||4958.f.d6cb6cf99251d4e704ec45b01235f4c3d0ad027e" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polsat_JimJam||4757.f.951a3283e1c876f3561a3df204769fd05762c9c1" xmltv_id="JimJam Polsat">JimJam Polsat</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Disney_Junior||4726.f.8de64299c1ad441b8399d61648ddaf8fc12f9b71" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MiniMini_HD||6983.f.90abff59b6554d6275d375138d3d85d42d892e7e" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_CBeebies||6980.f.a55881807aecb4b627825bfaf010bd8768c08834" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nick_Jr||8095.f.cc2014a7fc8c91eb5012bf333f86eaede03ee748" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nickelodeon||4773.f.2335f1f890f9cb693a9e5c8f63e4418e0cbe7761" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nicktoons_HD||8734.f.0f3762295994eb097d790ae7ccec8ff686e2d0e9" xmltv_id="Nicktoons HD">Nicktoons HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Disney_Channel||4725.f.0013baec98d1c7e8afac111178609762c3d5c370" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Disney_XD||4727.f.598325d788e96b27355fe9770436f233cc991150" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Cartoon_Network||4893.f.21790e5e5656ecee2c5b9bddf5315cbb7942a631" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Boomerang||8746.f.558420337b1c9feab112465a9b5102355d17e9d9" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="teleTOON_HD||4802.f.31715b92f703910c3180f2d426f8bd991944d5bb" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Da_Vinci_Learning||4906.f.d8b21212259a6d91bb8a2677ae81e5ea1560a7f6" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Ginx_TV||0159.f.f3b4254a71b82b60f1001691a7bb086e09d44a24" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Top_Kids_HD||8306.f.badccdfa20e5aee7650ab0800d46638d5465488f" xmltv_id="Top Kids HD">Top Kids HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Baby_First_TV||4877.f.9cefd210eaae81c32e653cde9469a9735c174568" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Top_Kids_Jr_HD||4981.f.93bd31bac4033e4637bad19a6ca96f9dfe79a421" xmltv_id="Junior Music">Junior Music</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TLA_7_DAWN||upclogo.f.865a05f998e7688e1aea3912de4fbaf1ae1d089b" xmltv_id="UPC poleca">UPC poleca</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nickelodeon_UA||nick_ua.f.2335f1f890f9cb693a9e5c8f63e4418e0cbe7761" xmltv_id="Nickelodeon Ukraina PlutoTV">Nickelodeon Ukraina PlutoTV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ESKA_EXTRA_HD||8401.f.b5408b7a3fefc1f3361db20134d68722a622f853" xmltv_id="Eska TV EXTRA HD">Eska TV EXTRA HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MTV_Polska||4768.f.d1d28bc260e080a6ffe88a8437703d94b0f2d668" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Viva_Polska||4864.f.19c2f27e9a31cc309f444e22270a7f41467fa3a7" xmltv_id="Nick Music">Nick Music</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="4fun_tv||4873.f.d89f91d706f7a6864b8b8861b3d822ad1cbcb4e6" xmltv_id="4fun.tv">4fun.tv</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="RBL_TV||4794.f.ad29f7bd72e0b57d068685f6e45563232b7990f4" xmltv_id="4FUN KIDS">4FUN KIDS</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Muzo_TV||7137.f.3ecaeb4428db3b1680cb4bf4dbebafc461c80ce8" xmltv_id="Polsat Music HD">Polsat Music HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Stars_TV_HD||7251.f.4ca8f0dd8fa118e05e71bf518c58afaf6f2b2466" xmltv_id="Stars.tv HD">Stars.tv HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="VH_1||4863.f.cfbfe93d022c231d9c4162face3e9fe960d8356c" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="VOX_Music_TV||7211.f.d50690c4fa0cbe466c7f335c8589ecb35bf256fd" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polo_TV||4777.f.987c8fda63c6d8de451606e8dcd0cbb0a354ee09" xmltv_id="Polo TV HD">Polo TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV_DISCO||4812.f.651b2a524e4bec9925d67e75120874a6bf2c498c" xmltv_id="4FUN DANCE">4FUN DANCE</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Disco_Polo_Music||7125.f.7d37adf857dfeb488193f7dbdd06dd75201c9202" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MTV_Hits||7159.f.cea0f45bd58e4ddf6a3bff775e5ad3c7997688a6" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MTV_Dance||7158.f.4467e0651552eb32ab23177a5b97ed000ac78981" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MTV_Live_HD||757576.f.33e45f408fc99288113b736c826edffb0e697f0e" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MTV_Rocks||7160.f.3aaad70dce2302b6f978ef0e50aed94bfd95da89" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Power_TV_HD||7249.f.c8c164e08346ac8a2bd65bbd339edc8087311e00" xmltv_id="Power TV HD">Power TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Nuta_TV_HD||8409.f.7aae673ff0a413153c9cb6a95de500ad9aa9e2ff" xmltv_id="Nuta HD">Nuta HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Kino_Polska_Muzyka||4759.f.a535d8d10bb710385ae7e254e5e744451845b96b" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Mezzo||4765.f.ec1e59c5ff4ef45fd1b8c76ac18a950586beffd0" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Mezzo_Live_HD||4766.f.d42c54a90e6bd6cac3508c82292bb9504e318950" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Mixtape_HD||mixtape.f.2f6584f1c48f6d65c0c31cdc8328770613580c1e" xmltv_id="Mixtape">Mixtape</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="MusicBox_HD||9027.f.82e57d2b3c204a75a88b49fdf16c93e3adb5c1f4" xmltv_id="Music Box Polska">Music Box Polska</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Euronews||2038.f.a79847fa483584aeca622969dbec3cedbca13c77" xmltv_id="euronews HD">euronews HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="BBC_World_News||0011.f.3101f507436337740c8eb2a7f82ad4a22c23cdb3" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Bloomberg||2009.f.23905ec739b46765ddd6d6fe2e079e837e84a694" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="CNN||1166.f.cf4dddb07c70abe8829571c1e9d61faef1104814" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Ukraina_24||ukraina24.f.06a50f249e43a15fdfb01058991440a5c216412e" xmltv_id="Ukraine 1">Ukraine 1</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TVP_World||tvpworld.f.eecc798e0913a82ce068ec8c4acd8c611e2f4090" xmltv_id="TVP World">TVP World</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Deutsche_Welle||4667.f.6168023a4c972ca2a2c3748038d3b4fb06e6e83e" xmltv_id="Deutsche Welle HD">Deutsche Welle HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TV5Monde||1202.f.b6c989cc7360d615958d378c799d41bb839698ff" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="France_24||1140.f.a6228c3bf02576c0ebd7aed6ddcea4c313d47fa2" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Belsat||9124.f.f018f130b6640f07a69862bc245d36ba5a19ad0c" xmltv_id="Biełsat">Biełsat</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Sky_News||skynews.f.adc3a03291334b7ae481d9602a69b1437056da84" xmltv_id="Sky News Int.">Sky News Int.</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Hustler_TV||4943.f.eeb58033a677bdb537bf7d126af1f67ac9bd4530" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Daring_TV||4945.f.8cd5db24b5338fa5de7aceea81fb488f78c7c9a0" xmltv_id="Private TV HD">Private TV HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Brazzers_TV||4944.f.71dc7a75cf09b7e1340a3b6705c30d69467b0262" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Erox_HD||9015.f.252f4705848ab05352626477e80f14dd5b3715bd" xmltv_id="Erox HD">Erox HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Eroxxx_HD||9016.f.97cb61acba32191bf30f4f9bf20046ad493b73b6" xmltv_id="Eroxxx HD">Eroxxx HD</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polskie_Radio_Jedynka||jedynka_pr.c62d11a95e1f4e9b8b353a151445633b564a3a03" xmltv_id="Polskie Radio Jedynka">Polskie Radio Jedynka</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polskie_Radio_Dwojka||dwojka_pr.b3954a411e2e8ccf9e68e4bde82293c38a34b977" xmltv_id="Polskie Radio Dwójka">Polskie Radio Dwójka</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polskie_Radio_Trojka||troja_pr.cfdb72ea036b9fc4ae3c850e77fb101db8b9abe4" xmltv_id="Polskie Radio Trójka">Polskie Radio Trójka</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Polskie_Radio_Czworka||PR24.9c98aa813428e9c0f17a518a1170cc448ab2bfcf" xmltv_id="Polskie Radio 24">Polskie Radio 24</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="RMF_FM||rmf.d4b2d7213f4da7277f9481a0dc17d2f094bc6187" xmltv_id="RMF FM">RMF FM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="RMF_Classic||rmf_classic.46972b33eb7aad4f3b7de8c84236841ca8ec7084" xmltv_id="RMF Classic">RMF Classic</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="RMF_Maxxx||rmf_maxxx.7a64062b9004d2f0d9a3049c98dd063ec0184c70" xmltv_id="RMF Maxxx">RMF Maxxx</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_ZET||radio_zet.f.454e58d1fa7249e344f5932b5d362f1c6ce797bd" xmltv_id="Radio ZET">Radio ZET</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Antyradio||anty_radio.2ee24fab98899f8643242c6e82cc1658a50eaee4" xmltv_id="Antyradio">Antyradio</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_ZET_Chilli||radio_chillizet.f.3468deed1db78b31ae3e963568175cc52123145e" xmltv_id="Chilli ZET">Chilli ZET</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Muzo_fm||muzo_fm.686ab20acb890d74e8081e636a1a87ff65d43755" xmltv_id="Muzo.fm">Muzo.fm</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="TOK_FM||tok_fm.ab20144b840e28bc21dd042756655cd9bfd94709" xmltv_id="TOK FM">TOK FM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_ZET_Gold||160x104_Melo_Radio" xmltv_id="Meloradio">Meloradio</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="VOX_FM||radio_vox_fm.26d3e6d6818416f5e08040b328d3b6ecd6c6f96c" xmltv_id="VOX FM">VOX FM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="ESKA_Rock||eska_rock.525aeebd231cad08c09855261dc92f87f8d8d54d" xmltv_id="ESKA Rock">ESKA Rock</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="KOLOR_103_FM||radio_kolor.f.a5dc5d4923e9058263d341b7d1d3f24e61ff3762" xmltv_id="KOLOR 103 FM">KOLOR 103 FM</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_Zlote_Przeboje||Radio_zlote_przeboje.7fe0976d91f7c52c4c6477cd0c92d3c1d79ccba6" xmltv_id="Radio Złote Przeboje">Radio Złote Przeboje</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_ESKA||radio_eska.4ff43a4e01867ba4f1c4cc2f5f8ab56ac550ff09" xmltv_id="Radio Eska">Radio Eska</channel>
+    <channel site="[ENC][EX]upctv.pl_0" site_id="Radio_Wawa||radio_supernova.3f8dd0c07ead5e3a94bcea73d0fba8dd7677f236" xmltv_id="Radio Supernova">Radio Supernova</channel>
+  </channels>
+</site>
