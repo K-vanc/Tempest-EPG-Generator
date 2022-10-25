@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvdaldia.cl_0">
+  <channels>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="telecanal" xmltv_id="Telecanal">Telecanal</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="lared" xmltv_id="La Red">La Red</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="tvmas" xmltv_id="TV+">TV+</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="tvn" xmltv_id="TVN">TVN</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="mega" xmltv_id="Mega">Mega</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="chilevision" xmltv_id="Chilevisión">Chilevisión</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="canal13" xmltv_id="Canal 13">Canal 13</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="ntv" xmltv_id="NTV (Canal Cultural Familiar)">NTV (Canal Cultural Familiar)</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="mega2" xmltv_id="Mega 2">Mega 2</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="ucv" xmltv_id="UCV Televisión">UCV Televisión</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="canalisb" xmltv_id="Canal ISB San Bernardo">Canal ISB San Bernardo</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="c9biobio" xmltv_id="Canal 9 Bío Bío TV">Canal 9 Bío Bío TV</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="24horas" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="13c" xmltv_id="13C">13C</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="megaplus" xmltv_id="Mega Plus">Mega Plus</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="cocinaviva" xmltv_id="Cocina Viva">Cocina Viva</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="etc" xmltv_id="ETC TV">ETC TV</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="senpaitv" xmltv_id="Senpai TV">Senpai TV</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="viaxesports" xmltv_id="Vía X Esports">Vía X Esports</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="nexoplay" xmltv_id="NexoPlay">NexoPlay</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="mundoeducativo" xmltv_id="Mundo Educativo (Mundo)">Mundo Educativo (Mundo)</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="megaficcion" xmltv_id="Mega Ficción">Mega Ficción</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="rectv" xmltv_id="REC TV">REC TV</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="viax" xmltv_id="Vía X">Vía X</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="viax2" xmltv_id="Vía X 2">Vía X 2</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="zonalatina" xmltv_id="Zona Latina">Zona Latina</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="artv" xmltv_id="ARTV">ARTV</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="docu" xmltv_id="Docu">Docu</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="tntsports" xmltv_id="TNT Sports">TNT Sports</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="cdo" xmltv_id="CDO Premium">CDO Premium</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="gozatv" xmltv_id="Goza TV (Mundo)">Goza TV (Mundo)</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="ecool" xmltv_id="E Cool TV (Mundo)">E Cool TV (Mundo)</channel>
+  </channels>
+</site>
