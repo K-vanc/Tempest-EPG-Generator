@@ -12,6 +12,8 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 | 324 | 152 | +217500 |
 
 <br>
+<h2>!!Notice: Hi everyone. I will be in vacation till 10th of November. Cya again after this date with new updates. Thanks for using Tempest..!!</h2>
+<br>
 <h3>Live Demo : <a href="https://tempestepg.000webhostapp.com/">https://tempestepg.000webhostapp.com/</a></h3>
 <br><br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/154066443-d8d8f358-9985-477f-9667-d53aa409c6b3.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>
