@@ -9,7 +9,7 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 
 | Total Available Siteconfigs | Total Covered Countries | Total Available Channels |
 | :---: | :---: | :---: |
-| 324 | 152 | +217500 |
+| 325 | 152 | +217500 |
 
 <br>
 <h2>!!Notice: Hi everyone. I will be in vacation till 10th of November. Cya again after this date with new updates. Thanks for using Tempest..!!</h2>
