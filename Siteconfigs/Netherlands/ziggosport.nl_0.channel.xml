@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="ziggosport.nl_0">
+  <channels>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Select" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Voetbal" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Golf" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Racing" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Docu" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Tennis" xmltv_id="Ziggo Sport Tennis">Ziggo Sport Tennis</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport 14" xmltv_id="Ziggo Sport 14">Ziggo Sport 14</channel>
+  </channels>
+</site>
