@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tv.search.ch_0">
+  <channels>
+    <channel site="[ENC]tv.search.ch_0" site_id="sf1" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="sf2" xmltv_id="SRF 2">SRF 2</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="orf2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="rtlch" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="rtl2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="voxch" xmltv_id="Vox">Vox</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="sat1ch" xmltv_id="Sat 1">Sat 1</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="pro7ch" xmltv_id="Pro 7">Pro 7</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="k1ch" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel site="[ENC]tv.search.ch_0" site_id="3plus" xmltv_id="3+">3+</channel>
+  </channels>
+</site>
