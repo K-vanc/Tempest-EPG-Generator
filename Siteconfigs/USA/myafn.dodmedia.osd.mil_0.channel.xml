@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="myafn.dodmedia.osd.mil_0">
+  <channels>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="2" xmltv_id="AFN|prime Atlantic">AFN|prime Atlantic</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="5" xmltv_id="AFN|news">AFN|news</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="1" xmltv_id="AFN|sports">AFN|sports</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="4" xmltv_id="AFN|prime Pacific">AFN|prime Pacific</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="3" xmltv_id="AFN|spectrum">AFN|spectrum</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="6" xmltv_id="AFN|sports2">AFN|sports2</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="8" xmltv_id="AFN|family,AFN|pulse">AFN|family,AFN|pulse</channel>
+    <channel site="myafn.dodmedia.osd.mil_0" site_id="9" xmltv_id="AFN|movie">AFN|movie</channel>
+  </channels>
+</site>
