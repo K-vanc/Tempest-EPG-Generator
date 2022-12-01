@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="diemaxtra.nova.bg_0">
+  <channels>
+    <channel site="diemaxtra.nova.bg_0" site_id="diemasport" xmltv_id="DIEMA SPORT">DIEMA SPORT</channel>
+    <channel site="diemaxtra.nova.bg_0" site_id="diemasport2" xmltv_id="DIEMA SPORT 2">DIEMA SPORT 2</channel>
+    <channel site="diemaxtra.nova.bg_0" site_id="diemasport3" xmltv_id="DIEMA SPORT 3">DIEMA SPORT 3</channel>
+  </channels>
+</site>
