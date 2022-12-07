@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]hoerzu.de_1">
+  <channels>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|daserste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|sat1" xmltv_id="Sat.1">Sat.1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|prosieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|kabeleins" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|rtlzwei" xmltv_id="RTL Zwei">RTL Zwei</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|vox" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|arte" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|3sat" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|ndr" xmltv_id="NDR">NDR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|wdr" xmltv_id="WDR">WDR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|mdr" xmltv_id="MDR">MDR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|br" xmltv_id="BR">BR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|swr" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|hr" xmltv_id="HR">HR</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|rbb" xmltv_id="RBB">RBB</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|srfernsehen" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|phoenix" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="|##|ardalpha" xmltv_id="ARD alpha">ARD alpha</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|one" xmltv_id="One">One</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|welt" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|n-tv" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|bild" xmltv_id="Bild">Bild</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|disneychannel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|sixx" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|servustv" xmltv_id="Servus TV">Servus TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|nitro" xmltv_id="NITRO">NITRO</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tele5" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|superrtl" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|kika" xmltv_id="KiKA">KiKA</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|nick" xmltv_id="Nick">Nick</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|comedycentral" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|eurosport1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|sport1" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|esports1" xmltv_id="eSports1">eSports1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|kabel1doku" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|n24doku" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|prosiebenmaxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|sat1gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|voxup" xmltv_id="VOXup">VOXup</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|rtlup" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|weltderwunder" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|homeundgardentv" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|healthtv" xmltv_id="Health TV">Health TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|anixeplus" xmltv_id="Anixe Plus">Anixe Plus</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|ric" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|deluxemusic" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|deutschesmusikfernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|qvc" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|hse" xmltv_id="HSE">HSE</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|channel21" xmltv_id="Channel 21">Channel 21</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|sonnenklartv" xmltv_id="sonnenklar.tv">sonnenklar.tv</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|deraktionaertv" xmltv_id="Der Aktionär TV">Der Aktionär TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|dwenglish" xmltv_id="DW English">DW English</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tvberlin" xmltv_id="TV.Berlin">TV.Berlin</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|hamburg1" xmltv_id="Hamburg 1">Hamburg 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|muenchentv" xmltv_id="München TV">München TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|rhein-neckar-fernsehen" xmltv_id="Rhein-Neckar-Fernsehen">Rhein-Neckar-Fernsehen</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|rheinmaintv" xmltv_id="rheinmainTV">rheinmainTV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|spreekanal" xmltv_id="Spreekanal">Spreekanal</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|orf1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|orf2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|orf3" xmltv_id="ORF 3">ORF 3</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|orfsportplus" xmltv_id="ORF Sport +">ORF Sport +</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|atv" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|atv2" xmltv_id="ATV2">ATV2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|puls4" xmltv_id="Puls 4">Puls 4</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|servustvaustria" xmltv_id="Servus TV Austria">Servus TV Austria</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|sixxaustria" xmltv_id="sixx Austria">sixx Austria</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|srf1" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|srf2" xmltv_id="SRF 2">SRF 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|srfinfo" xmltv_id="SRF info">SRF info</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|3plus" xmltv_id="3plus">3plus</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|5plus" xmltv_id="5plus">5plus</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|startv" xmltv_id="Star TV">Star TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|bibeltv" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|dieneuezeit" xmltv_id="Die Neue Zeit">Die Neue Zeit</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|bbcentertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|bbcworldnews" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|cnbcpaneurope" xmltv_id="CNBC Paneurope">CNBC Paneurope</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tv5monde" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|france24" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|rougetv" xmltv_id="Rouge TV">Rouge TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|dr1" xmltv_id="DR 1">DR 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|tv2" xmltv_id="TV 2">TV 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="?getAdditionalPages=true|##|trttuerk" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemapremieren" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemapremierenplus24" xmltv_id="Sky Cinema Premieren +24">Sky Cinema Premieren +24</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemaaction" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemafun" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemathriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemabestof" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemaclassics" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemafamily" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycinemaspecial" xmltv_id="Sky Cinema Special">Sky Cinema Special</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycomedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skycrime" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skyatlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skyone" xmltv_id="Sky One">Sky One</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skyreplay" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skyshowcase" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skykrimi" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skydocumentaries" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skynature" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skysportbundesliga" xmltv_id="Sky Sport Bundesliga">Sky Sport Bundesliga</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/|##|skysporttopevent" xmltv_id="Sky Sport Top Event">Sky Sport Top Event</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportmix" xmltv_id="Sky Sport Mix">Sky Sport Mix</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportpremierleague" xmltv_id="Sky Sport Premier League">Sky Sport Premier League</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysporttennis" xmltv_id="Sky Sport Tennis">Sky Sport Tennis</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportgolf" xmltv_id="Sky Sport Golf">Sky Sport Golf</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportf1" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportnews" xmltv_id="Sky Sport News">Sky Sport News</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|skysportaustria1" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|eurosport1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|sportdigitalfussball" xmltv_id="Sportdigital Fußball">Sportdigital Fußball</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|motorvisiontv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|discoverychannel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|history" xmltv_id="History">History</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|crimeplusinvestigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|spiegelgeschichte" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|curiositychannel" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|13thstreet" xmltv_id="13th Street">13th Street</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|universaltv" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|warnertvserie" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|warnertvfilm" xmltv_id="Warner TV Film">Warner TV Film</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|warnertvcomedy" xmltv_id="Warner TV Comedy">Warner TV Comedy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|romancetv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|e!entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|beate-uhsetv" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|junior" xmltv_id="Junior">Junior</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|nickjr" xmltv_id="NICK Jr.">NICK Jr.</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|mtvlivehd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="sky/?getAdditionalPages=true|##|jukebox" xmltv_id="Jukebox">Jukebox</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|13thstreet" xmltv_id="13th Street">13th Street</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|warnertvserie" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|kinowelttv" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|kabeleinsclassics" xmltv_id="Kabel Eins Classics">Kabel Eins Classics</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|silverline" xmltv_id="Silverline">Silverline</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|warnertvfilm" xmltv_id="Warner TV Film">Warner TV Film</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|sonyaxn" xmltv_id="Sony AXN">Sony AXN</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|sat1emotions" xmltv_id="Sat.1 emotions">Sat.1 emotions</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|prosiebenfun" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|rtlcrime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|rtlpassion" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|universaltv" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|sonychannel" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|geotelevision" xmltv_id="Geo Television">Geo Television</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|history" xmltv_id="History">History</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|curiositychannel" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|discoverychannel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/|##|bergblick" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|weltderwunder" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|sportdigitalfussball" xmltv_id="Sportdigital Fußball">Sportdigital Fußball</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|sport1plus" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|extremesportschannel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|nauticalchannel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|automotorundsportchannel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|motorvisiontv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|magentawm1" xmltv_id="Magenta WM 1">Magenta WM 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|rtlliving" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|bongusto" xmltv_id="BonGusto">BonGusto</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|crimeplusinvestigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|warnertvcomedy" xmltv_id="Warner TV Comedy">Warner TV Comedy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|romancetv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|gutelaunetv" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|mtvhits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|mtvlivehd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|mtv80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|stingrayclassica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|nickjr" xmltv_id="NICK Jr.">NICK Jr.</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|fixundfoxi" xmltv_id="Fix&amp;Foxi">Fix&amp;Foxi</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|e!entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|bbcentertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|lustpur" xmltv_id="Lust Pur">Lust Pur</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="kabel-pay-tv/?getAdditionalPages=true|##|penthousepassionhd" xmltv_id="Penthouse Passion HD">Penthouse Passion HD</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|13thstreet" xmltv_id="13th Street">13th Street</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|universaltv" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|warnertvfilm" xmltv_id="Warner TV Film">Warner TV Film</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|warnertvserie" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|sonyaxn" xmltv_id="Sony AXN">Sony AXN</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|sonychannel" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|kinowelttv" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|kabeleinsclassics" xmltv_id="Kabel Eins Classics">Kabel Eins Classics</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|sat1emotions" xmltv_id="Sat.1 emotions">Sat.1 emotions</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|prosiebenfun" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|rtlcrime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|rtlpassion" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|sportdigitalfussball" xmltv_id="Sportdigital Fußball">Sportdigital Fußball</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|sport1plus" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|morethansportstv" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|esports1" xmltv_id="eSports1">eSports1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|extremesportschannel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/|##|automotorundsportchannel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|motorvisiontv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|magentawm1" xmltv_id="Magenta WM 1">Magenta WM 1</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|discoverychannel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|geotelevision" xmltv_id="Geo Television">Geo Television</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|history" xmltv_id="History">History</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|spiegelgeschichte" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|curiositychannel" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|bergblick" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|jukebox" xmltv_id="Jukebox">Jukebox</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|deutschesmusikfernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|nickjr" xmltv_id="NICK Jr.">NICK Jr.</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|warnertvcomedy" xmltv_id="Warner TV Comedy">Warner TV Comedy</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|romancetv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|crimeplusinvestigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|bongusto" xmltv_id="BonGusto">BonGusto</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|rtlliving" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|healthtv" xmltv_id="Health TV">Health TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|e!entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|bluehustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|lustpur" xmltv_id="Lust Pur">Lust Pur</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|playboytv" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="[ENC][EX]hoerzu.de_1" site_id="magentatv/?getAdditionalPages=true|##|penthousepassionhd" xmltv_id="Penthouse Passion HD">Penthouse Passion HD</channel>
+  </channels>
+</site>
