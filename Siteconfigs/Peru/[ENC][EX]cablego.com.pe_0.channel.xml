@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]cablego.com.pe_0">
+  <channels>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|LATINA" xmltv_id="LATINA">LATINA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|BHTV" xmltv_id="BHTV">BHTV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|PANAMERICANATV" xmltv_id="PANAMERICANA TV">PANAMERICANA TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|WILLAX" xmltv_id="WILLAX">WILLAX</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|TVPERU" xmltv_id="TV PERU">TV PERU</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|ATVHD" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|PBO" xmltv_id="PBO">PBO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|ATVMAS" xmltv_id="ATV+">ATV+</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|CONECTA2" xmltv_id="CONECTA2 TV">CONECTA2 TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|GLOBAL" xmltv_id="GLOBAL">GLOBAL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|EXITOSATV" xmltv_id="EXITOSA TV">EXITOSA TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|USMPTV" xmltv_id="USMP TV">USMP TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|NATIVA" xmltv_id="NATIVA">NATIVA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|CANALCONGRESO" xmltv_id="CONGRESO TV">CONGRESO TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|FOXCHANNEL" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|ID" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|FX" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|AMC" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|PARAMOUNTCH" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="0|##|CloverCH" xmltv_id="CLOVER CHANNEL">CLOVER CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|CINECANAL" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|SONYMOVIES" xmltv_id="SONY MOVIES">SONY MOVIES</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|EUROPAEUROPA" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|FILMSandARTS" xmltv_id="FILMS &amp; ARTS">FILMS &amp; ARTS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DEPELICULA" xmltv_id="DE PELICULA">DE PELICULA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|GOLDENEDGE" xmltv_id="GOLDEN EDGE">GOLDEN EDGE</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|GOLDENLATINO" xmltv_id="GOLDEN LATINO">GOLDEN LATINO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|AZCINEMA" xmltv_id="CINEMA INOLVIDABLE">CINEMA INOLVIDABLE</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DISCOVERYCHANNEL" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|NATGEO" xmltv_id="NATGEO">NATGEO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|ANIMALPLANET" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DISCOVERYSCIENCE" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DISCOVERYTURBO" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DISCOVERYTHEATER" xmltv_id="DISCOVERY THEATER">DISCOVERY THEATER</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|DISCOVERYWORLD" xmltv_id="DISCOVERY WORLD">DISCOVERY WORLD</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|PASIONES" xmltv_id="PASIONES">PASIONES</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|TELEMUNDO" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|UNIVISION" xmltv_id="UNIVISION">UNIVISION</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|AZCORAZON" xmltv_id="CORAZON">CORAZON</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="1|##|CHESTRELLAS" xmltv_id="CANAL DE LAS ESTRELLAS">CANAL DE LAS ESTRELLAS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|TELENOVELAS" xmltv_id="TELENOVELAS">TELENOVELAS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|KANALD" xmltv_id="KANAL D">KANAL D</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|HOMEANDHEALTH" xmltv_id="HOME &amp; HEALTH">HOME &amp; HEALTH</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|TRAVELANDLIVING" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|MASCHIC" xmltv_id="MAS CHIC">MAS CHIC</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|GOURMET" xmltv_id="GOURMET">GOURMET</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|FOODNETWORK" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|DISTRITOCOMEDIA" xmltv_id="DISTRITO COMEDIA">DISTRITO COMEDIA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|AZMUNDO" xmltv_id="MUNDO">MUNDO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|DISCOVERYKIDS" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|DISNEYJUNIOR" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|DREAMWORKS" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|NICKELODEON" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|DISNEYCHANNEL" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|NICKJR" xmltv_id="NICK JR">NICK JR</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|BITME" xmltv_id="BITME">BITME</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|ZOOMOO" xmltv_id="ZOOMOO">ZOOMOO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|ESPN" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="2|##|ESPN2" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|ESPN3" xmltv_id="ESPN3">ESPN3</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|FOXSPORTS" xmltv_id="ESPN4">ESPN4</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|ESPNMAS" xmltv_id="ESPN EXTRA">ESPN EXTRA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|FOXSPORTS2" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|FOXSPORTS3" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|OVACION" xmltv_id="OVACION">OVACION</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|NOTICIASCARACOL" xmltv_id="NOTICIAS CARACOL">NOTICIAS CARACOL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|SBTBRASIL" xmltv_id="SBT Brasil">SBT Brasil</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|MTV" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|NICKMUSIC" xmltv_id="NICKMUSIC">NICKMUSIC</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|KARIBENA" xmltv_id="KARIBEÑA">KARIBEÑA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|TELEHITLATINO" xmltv_id="TELEHIT LATINO">TELEHIT LATINO</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|BANDAMAX" xmltv_id="BANDAMAX">BANDAMAX</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|TELEHITMUSICA" xmltv_id="TELEHIT MUSICA">TELEHIT MUSICA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|TELEFE" xmltv_id="TELEFE">TELEFE</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|TRECEARGENTINA" xmltv_id="TRECE ARGENTINA">TRECE ARGENTINA</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|CGTN" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|IVCNETWORKS" xmltv_id="IVC NETWORKS">IVC NETWORKS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|ANTENA3" xmltv_id="ANTENA 3">ANTENA 3</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="3|##|ECUADORTV" xmltv_id="ECUADOR TV">ECUADOR TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|PLAYBOY" xmltv_id="PLAYBOY">PLAYBOY</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|VENUS" xmltv_id="VENUS">VENUS</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|AMERICATV" xmltv_id="AMERICA TV">AMERICA TV</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|SONY" xmltv_id="SONY">SONY</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|WARNERCHANNEL" xmltv_id="WARNER CH">WARNER CH</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|AXN" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|UNIVERSAL" xmltv_id="UNIVERSAL">UNIVERSAL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|LIFETIME" xmltv_id="LIFE TIME">LIFE TIME</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|SYFY" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|AandEMUNDO" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|STUDIOUNIVERSAL" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|HISTORYCHANNEL" xmltv_id="HISTORY CHANNEL">HISTORY CHANNEL</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|HISTORY2" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|ECH" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]cablego.com.pe_0" site_id="4|##|DW" xmltv_id="DW">DW</channel>
+  </channels>
+</site>
