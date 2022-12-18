@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]vivoplay.com.br_0">
+  <channels>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH17||00/03/47/3478448_5B67A39A93423B6D" xmltv_id="TV Assembléia">TV Assembléia</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH191||00/03/16/3163575_A424E2A24860A027" xmltv_id="RBI">RBI</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2070||00/03/11/3116417_E4F9DB3F0AB7D55C" xmltv_id="CANAL TESTE CURITIBA">CANAL TESTE CURITIBA</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3144||00/03/25/3250035_A3A51C1451B8A2D4" xmltv_id="TV Tribuna HD">TV Tribuna HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3288||00/03/34/3342018_99B729D5C8CB63F4" xmltv_id="Multishow Fuso">Multishow Fuso</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3653||00/03/11/3116411_E5E02D2432750942" xmltv_id="Curta! HD">Curta! HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3740" xmltv_id="Programação TPOA2">Programação TPOA2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3742" xmltv_id="Programação TPOA4">Programação TPOA4</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3744" xmltv_id="Programação TPOA6">Programação TPOA6</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3767||00/04/07/4077935_2C6D99D7BAA57135" xmltv_id="Premiere HD">Premiere HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3835||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Anhanguera HD">TV Anhanguera HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3836||00/03/34/3346110_F118D3BC53C549E3" xmltv_id="TV Atalaia HD">TV Atalaia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5493" xmltv_id="Gazeta HD">Gazeta HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH86||00/04/98/4982783_B268B348E6EEDDC3" xmltv_id="TV Brasil 2">TV Brasil 2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH102||00/03/11/3114776_A156992527475080" xmltv_id="TV SENADO">TV SENADO</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH70||00/03/11/3114777_59A403FCB58D9EA4" xmltv_id="TV JUSTIÇA">TV JUSTIÇA</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH48||00/11/58/11582161_46AE9A693119D6D9" xmltv_id="Canal Educação">Canal Educação</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH51||00/03/72/3729413_AEF3A7538A89446F" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2042||00/03/43/3439065_868A80678746D5FD" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5576||00/09/79/9796101_C13318AD4F8CD04E" xmltv_id="COM Brasil">COM Brasil</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5554||00/09/08/9083554_75B09A0C037C7FEF" xmltv_id="TV Novo Tempo">TV Novo Tempo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH208||00/03/43/3437703_B7FE7B5401939ADC" xmltv_id="Tooncast">Tooncast</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH120||00/03/43/3433083_FB876F47DBAD1E1C" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH136||00/03/43/3431858_40D4876E368BAABC" xmltv_id="Woohoo">Woohoo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2044||00/03/43/3437876_150DF8E189BD6314" xmltv_id="Travel Box Brasil">Travel Box Brasil</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH57||00/03/19/3195749_136A2C542B14775F" xmltv_id="Globo SP HD">Globo SP HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3649||00/03/81/3816734_A49DB4E639E7CFA5" xmltv_id="TV Brasil HD">TV Brasil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3401||00/03/48/3483804_CCD8C63974D8D7DC" xmltv_id="Rede Século 21">Rede Século 21</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH930||00/03/11/3114780_BC3327E6071EE122" xmltv_id="Cultura HD">Cultura HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5492||00/03/11/3114780_BC3327E6071EE122" xmltv_id="Cultura HD">Cultura HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6287||00/13/47/13470664_A8A275DA6249D168" xmltv_id="TV Conecta">TV Conecta</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH104||00/03/11/3114781_8A79A56AC242FD83" xmltv_id="SBT HD">SBT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH875||00/03/43/3431871_702462B2453DCECF" xmltv_id="VTV SBT HD">VTV SBT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH907||00/03/45/3455912_1763D3C15D804038" xmltv_id="SBT Ribeirão HD">SBT Ribeirão HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1316||00/03/24/3249972_93ED6398B7A9270D" xmltv_id="TV Thathi">TV Thathi</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2398||00/03/43/3435735_2BBAC97249E1B8E7" xmltv_id="TV Sorocaba HD">TV Sorocaba HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3082||00/03/19/3190511_4B030A68E8E65F29" xmltv_id="Rede Massa HD">Rede Massa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3083||00/03/19/3190509_C3CDBC0740B58DB4" xmltv_id="SBT Rio HD">SBT Rio HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3131||00/03/23/3233119_FFA2E93C6A6AE194" xmltv_id="SBT Nova Friburgo">SBT Nova Friburgo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3138||00/03/23/3233117_0C9D301134309766" xmltv_id="TV Alterosa">TV Alterosa</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3165||00/03/34/3346091_CB13A3B03D8AC43C" xmltv_id="SBT Interior HD">SBT Interior HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3167||00/03/34/3346088_75883A417263FFB2" xmltv_id="SBT RS HD">SBT RS HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3180||00/07/23/7232434_4A592233E0BAA971" xmltv_id="SCC SBT HD">SCC SBT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3193||00/03/34/3346083_32EFE52AF9D258AD" xmltv_id="TV Tribuna HD">TV Tribuna HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3398||00/03/81/3812451_2EE7973E2C0EDF72" xmltv_id="TV Cidade HD">TV Cidade HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3399||00/03/81/3812448_245F6B36A50619ED" xmltv_id="TV Alterosa HD">TV Alterosa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3469||00/03/81/3812346_64631DCC251C9CFC" xmltv_id="TV Alterosa Leste HD">TV Alterosa Leste HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3472||00/03/81/3812629_26DD07CAC559B690" xmltv_id="TV Tibagi HD">TV Tibagi HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3750||00/03/97/3979810_B5F01264507AD3AF" xmltv_id="TV Alterosa HD">TV Alterosa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3857||00/03/11/3114781_8A79A56AC242FD83" xmltv_id="TV Vitoriosa HD - SBT">TV Vitoriosa HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3931||00/03/97/3979810_B5F01264507AD3AF" xmltv_id="SBT - Rede Massa TV Naipi">SBT - Rede Massa TV Naipi</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3932||00/03/97/3979810_B5F01264507AD3AF" xmltv_id="TV Alterosa HD - SBT">TV Alterosa HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4034||00/03/43/3435804_D9B82B5BEF683107" xmltv_id="Rede Massa HD - SBT">Rede Massa HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5686||00/11/74/11748774_6041148868BC54D7" xmltv_id="SBT">SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3834||00/06/47/6479172_E09D6E871E8C1B02" xmltv_id="RBS TV">RBS TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5596||00/06/47/6479146_8432F4CCEC214423" xmltv_id="RBS TV Erechim- TV Globo">RBS TV Erechim- TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5673||00/11/38/11387476_D4E50056C94684AC" xmltv_id="RBS TV Bagé - Globo">RBS TV Bagé - Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6233||00/11/38/11387476_D4E50056C94684AC" xmltv_id="RBS TV Uruguaiana">RBS TV Uruguaiana</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH95||00/03/53/3536553_892D906E19C1FDE9" xmltv_id="Record HD">Record HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH904||00/03/24/3249986_D442BD290D60DDC9" xmltv_id="Record Litoral HD">Record Litoral HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH917||00/03/45/3455909_FEC455F7579ED79C" xmltv_id="TVB Campinas HD">TVB Campinas HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1315||00/03/34/3346146_038D179C3FC94454" xmltv_id="Record Interior HD">Record Interior HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2397||00/03/25/3250044_7CA6A8E60D9C68F7" xmltv_id="Record Paulista HD">Record Paulista HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3085||00/03/19/3190513_5EF1ADA8430DED08" xmltv_id="Record Rio HD">Record Rio HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3088||00/03/19/3190514_4FDFBB9B01718A40" xmltv_id="RIC TV HD">RIC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3132||00/03/23/3233116_110591B8C0FA98F7" xmltv_id="TV Rede Mais Varginha">TV Rede Mais Varginha</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3160||00/03/34/3346145_F21E6EA13A58E4CF" xmltv_id="Record TV Rio Preto HD">Record TV Rio Preto HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3186||00/03/29/3298007_6EBD9B7E817890F3" xmltv_id="NDTV HD">NDTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3192||00/03/34/3346096_778E6505C0B24B26" xmltv_id="TV Vitória HD">TV Vitória HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3372||00/03/81/3812626_555058CFF2DC17EA" xmltv_id="RIC TV HD">RIC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3471||00/03/81/3812638_0A844146F3E1B400" xmltv_id="TV Leste">TV Leste</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3474||00/03/81/3812628_4FA594BF9F0495CE" xmltv_id="RIC TV Maringá">RIC TV Maringá</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3549||00/03/81/3812625_95432EF38D089A84" xmltv_id="NDTV HD">NDTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3829||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="NDTV HD">NDTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3833||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="NDTV HD">NDTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3837||00/03/81/3812625_95432EF38D089A84" xmltv_id="NDTV HD">NDTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3859||00/03/81/3812625_95432EF38D089A84" xmltv_id="TV Paranaíba HD - Record TV">TV Paranaíba HD - Record TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3930||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="Record - RIC TV OESTE">Record - RIC TV OESTE</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4075||00/11/94/11941466_BC8334D041CEE04E" xmltv_id="Rádio Jornal Fluminense de Campos HD - Record">Rádio Jornal Fluminense de Campos HD - Record</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH98||00/03/20/3202334_6AE25992A641D3CB" xmltv_id="RedeTV! HD">RedeTV! HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3169||00/03/34/3346243_F95B66681FF4BFAF" xmltv_id="TV Pampa HD">TV Pampa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3191||00/03/34/3346182_43192E22B4EE0E64" xmltv_id="Rede TV! ES HD">Rede TV! ES HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3827||00/03/73/3732267_F7B181A9A3F08427" xmltv_id="TV Pampa HD">TV Pampa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4071||00/03/73/3732266_DD8C13C31C28497B" xmltv_id="REDETV HD">REDETV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5632||00/10/68/10684684_F2C2A200FA515426" xmltv_id="TV Cultura Litoral">TV Cultura Litoral</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH143||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="Band HD">Band HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH867||00/03/86/3869199_A7C51DBC735A6BB4" xmltv_id="Band Campinas HD">Band Campinas HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH894||00/03/86/3869006_E8569F0A50A14050" xmltv_id="TV Clube HD">TV Clube HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH897||00/03/86/3869013_5D235EF84F5D0297" xmltv_id="Band Vale HD">Band Vale HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH911||00/03/86/3869207_54338A96566ECAD4" xmltv_id="TVB Band HD">TVB Band HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3087||00/03/19/3190527_50BA97EE550AF2BA" xmltv_id="Band Rio HD">Band Rio HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3089||00/03/86/3869200_DB630E436020FD39" xmltv_id="Band Curitiba HD">Band Curitiba HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3136||00/03/86/3869201_53B113A245507F8F" xmltv_id="Band Minas BH HD">Band Minas BH HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3146||00/03/86/3869214_07EB26B70D8E1593" xmltv_id="Band Rio Interior HD">Band Rio Interior HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3147||00/03/86/3869203_F1278612B1ED6983" xmltv_id="Band Paulista HD">Band Paulista HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3164||00/03/86/3869204_299B46D701004EBA" xmltv_id="Band RS HD">Band RS HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3185||00/03/86/3869208_95800EF67F317816" xmltv_id="TV Catarina HD">TV Catarina HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3189||00/03/86/3869206_C80E06EE02275B5D" xmltv_id="TV Capixaba HD">TV Capixaba HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3377||00/03/81/3812461_AFCADFD7FA4243A8" xmltv_id="Record TV Minas BH">Record TV Minas BH</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3395||00/03/81/3812621_73C8405CC11B03FD" xmltv_id="TV Tarobá HD">TV Tarobá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3475||00/03/81/3812627_95DA01F6CA52EEC1" xmltv_id="TV Maringá HD">TV Maringá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3860||00/03/86/3869201_53B113A245507F8F" xmltv_id="Band Triângulo HD">Band Triângulo HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3928||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="TV Tarobá Cascavel HD">TV Tarobá Cascavel HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4070||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="BAND HD">BAND HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3716||00/10/45/10450973_D99BF29D5D039A9E" xmltv_id="Ideal">Ideal</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3547||00/03/69/3695133_3FD14DF43F10658E" xmltv_id="Gospel HD">Gospel HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2889||00/12/72/12726256_7FCA1FF76B29AFE7" xmltv_id="Futura HD">Futura HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2050||00/03/92/3926177_52DFCD9BE82608E4" xmltv_id="Aviso">Aviso</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4050||00/06/48/6484024_27835C7981400442" xmltv_id="Rede Brasil HD">Rede Brasil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH891||00/03/11/3114900_989122ED3BE71D02" xmltv_id="Gazeta HD">Gazeta HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4122||00/03/11/3114900_989122ED3BE71D02" xmltv_id="TV Gazeta HD">TV Gazeta HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3546||00/03/68/3684238_72691D01C85A539E" xmltv_id="Rede Vida HD">Rede Vida HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3648||00/03/81/3816709_09929ED021BFBC6E" xmltv_id="TV Aparecida HD">TV Aparecida HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3652||00/03/81/3816713_168EF81A0FF877B4" xmltv_id="Canção Nova HD">Canção Nova HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1194||00/03/11/3116403_9E31240A619AD2D9" xmltv_id="Vivo Ajuda">Vivo Ajuda</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH132||00/09/35/9351567_2697C52EB2221A05" xmltv_id="Guia Vivo TV">Guia Vivo TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH81||00/03/11/3114908_4D12CC29E7B73D78" xmltv_id="BIS HD">BIS HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH151||00/03/11/3114909_FD3076E234C0C522" xmltv_id="OFF HD">OFF HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1210||00/09/76/9760136_2F65534C9CCA32CF" xmltv_id="SporTV 3 HD">SporTV 3 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH217||00/09/76/9760139_35DCF658F568277B" xmltv_id="Sportv 2 HD">Sportv 2 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH216||00/09/76/9760132_8EB9B6A86FD79B7B" xmltv_id="Sportv HD">Sportv HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH213||00/12/63/12636011_5F32AC7ACE93517F" xmltv_id="Globo News HD">Globo News HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH214||00/03/11/3114961_120F304252C372D2" xmltv_id="GNT HD">GNT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH215||00/03/11/3114962_E9AA5B92DB6B5AAE" xmltv_id="Multishow HD:">Multishow HD:</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH677||00/08/41/8411309_9F7C801D5C050137" xmltv_id="Viva HD">Viva HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH56||00/11/86/11867116_1453C12018B6CE42" xmltv_id="Modo Viagem">Modo Viagem</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4092||00/07/31/7311966_16E52EB63B6CE50B" xmltv_id="YouTube Kids">YouTube Kids</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3872||00/04/20/4207429_1EE26F2DD692BAF2" xmltv_id="Gloobinho HD">Gloobinho HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH770||00/08/69/8694894_BA6A9407B955944F" xmltv_id="Discovery Kids HD">Discovery Kids HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH147||00/03/16/3163535_E08190CF7ADE8A9F" xmltv_id="Gloob HD">Gloob HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2791||00/03/11/3115036_EF8BDCBB6BD91B81" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2443||00/09/00/9009029_EB0B49D16D082AC5" xmltv_id="TV Rá Tim Bum">TV Rá Tim Bum</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5629||00/11/86/11867110_CFABBDBD2773118D" xmltv_id="Dreamworks">Dreamworks</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH42||00/03/43/3437758_325C3D023A790747" xmltv_id="Disney HD">Disney HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5630||00/10/69/10690864_2570816EAD6A71C5" xmltv_id="Zoomoo">Zoomoo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2102||00/03/11/3115040_1DBC5CEF6EA0E9FB" xmltv_id="Tooncast">Tooncast</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH934||00/03/43/3431535_ADFA3D496D1B4EED" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH773||00/03/43/3431537_AD7D5373BF730D8D" xmltv_id="Cartoon HD">Cartoon HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2794||00/10/12/10126671_49DF0A22B1E74D27" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5631||00/11/86/11867105_90C43BA737202E0B" xmltv_id="Box Kids">Box Kids</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5574||00/09/78/9787039_D0C0B6F1FD51659F" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3545||00/03/69/3694072_BA798ECC508B1183" xmltv_id="ESPN Extra">ESPN Extra</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH211||00/11/86/11867115_3A16152FF6774779" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH464||00/10/38/10384486_AB8E9D8C388586FE" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH49||00/10/38/10384489_E5C95719BCA28E67" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH144||00/10/38/10384490_2B51FCB830037A84" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH855||00/03/16/3163512_59E44E394A0EDA19" xmltv_id="Fox Sports 2 HD">Fox Sports 2 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH928||00/06/82/6825702_24A813F69C7B50CE" xmltv_id="Bandsports HD">Bandsports HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2106||00/03/11/3116385_0BDEB14E4C54493B" xmltv_id="Woohoo">Woohoo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4068||00/06/71/6711228_154BC2F6F4BAB060" xmltv_id="CNN Brasil HD">CNN Brasil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5577||00/09/79/9799738_B8107F93E067F865" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5573||00/10/56/10567678_DC35880547CC06A8" xmltv_id="Jovem Pan News">Jovem Pan News</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5553||00/09/08/9083560_323C237389CB7B10" xmltv_id="Terra Viva">Terra Viva</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2795||00/08/79/8796530_99EF0CE2E6CCC8B3" xmltv_id="Band News HD">Band News HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2067||00/03/11/3116409_A8CA93749FDAF8A1" xmltv_id="CNNi">CNNi</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2442||00/03/11/3116398_6AF43CFC889A7F62" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2091||00/03/11/3116736_5C2D5C92CEE5D9CD" xmltv_id="Record News">Record News</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4104||00/07/14/7146011_412356182209A40D" xmltv_id="Agro+">Agro+</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2045||00/03/11/3116442_751C456C0EA5E5B7" xmltv_id="Fox News">Fox News</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2066||00/03/11/3116408_8C4F511AFC31B23F" xmltv_id="Climatempo">Climatempo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6284||00/13/33/13337082_6DD1D003EBB76581" xmltv_id="Canal Rural">Canal Rural</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6285||00/13/33/13337080_D30C6D6066C648FB" xmltv_id="Canal do Criador">Canal do Criador</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH39||00/03/11/3116418_973D80529B29DB21" xmltv_id="Discovery Theater">Discovery Theater</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH769||00/06/19/6199854_48DD635CA70680D9" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2199||00/04/34/4342613_52DE484CB67EA51C" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH149||00/10/54/10547174_512368CB040E9FAE" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2449||00/10/54/10547176_12B4E3AC635D200C" xmltv_id="History 2">History 2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH857||00/03/18/3183255_E4F1DF7C400C2F53" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1253||00/03/11/3116423_01D7E1AB09137043" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3286||00/03/34/3345029_CA9A40858535B51A" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5575||00/10/42/10428067_426A8C37FCAE9CFA" xmltv_id="Smithsonian">Smithsonian</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3544||00/06/82/6825704_4A17EA73C2D87A16" xmltv_id="FashionTV HD">FashionTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3651||00/03/43/3437876_150DF8E189BD6314" xmltv_id="Travel Box Brazil HD">Travel Box Brazil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5684||00/11/74/11743664_55469C6FF58B8483" xmltv_id="Empreender">Empreender</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6232||00/12/42/12426313_412D0C465C2C77F3" xmltv_id="Markket">Markket</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6288||00/13/44/13444107_A10BE4FB0D11948A" xmltv_id="Trade TV">Trade TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1360||00/05/90/5906424_BD23C8BC79E0BBF5" xmltv_id="Vivo Play">Vivo Play</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5552||00/09/08/9083574_4148A127A9C4F5B3" xmltv_id="Sabor &amp; Arte">Sabor &amp; Arte</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3960||00/04/98/4982782_2C3F0CE8D1052BD8" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3874||00/04/22/4222613_8046E28EEC62E89A" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3811||00/09/53/9532178_A9B967E186CF234C" xmltv_id="Dog TV">Dog TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1242||00/03/11/3116424_08201B8544EA5CC4" xmltv_id="Discovery World">Discovery World</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH771||00/03/11/3117298_576AD5EA0FC8CAD2" xmltv_id="Discovery Home&amp;Health HD">Discovery Home&amp;Health HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1252||00/03/11/3116395_40D20FD85676D010" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2200||00/10/73/10739844_4CC033F87794F097" xmltv_id="Cinecanal">Cinecanal</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2055||00/07/29/7292197_164EC0E7C3B27CBE" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH29||00/03/11/3114277_E4691230419284B7" xmltv_id="TV CÂMARA">TV CÂMARA</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2073||00/03/11/3116426_512F139F08782B06" xmltv_id="E! HD">E! HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2792||00/03/43/3431529_D57A32BFCB51A5BC" xmltv_id="Arte 1 HD">Arte 1 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH128||00/03/19/3190491_2D77DCBC7DFB4EB3" xmltv_id="Tru TV HD">Tru TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2793||00/03/11/3116393_32283E6F63E3FA72" xmltv_id="TNT Séries HD">TNT Séries HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH32||00/03/47/3478445_07063DF098753756" xmltv_id="TV Aberta">TV Aberta</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4103||00/07/29/7299477_EC23678702C7A351" xmltv_id="Trace Brazuca">Trace Brazuca</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2064||00/13/14/13140106_24B3D06ACA40DFFC" xmltv_id="K Chef TV Plus">K Chef TV Plus</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3736||00/13/14/13140096_01540286B4558BC5" xmltv_id="K Chef TV Plus">K Chef TV Plus</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH36||00/03/47/3478439_75D07F56134A09B0" xmltv_id="Canal Universitário">Canal Universitário</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3379||00/13/46/13467795_B0B1949E7BAB2B2E" xmltv_id="Fish TV">Fish TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH469||00/03/16/3163549_67C6B5E33A474731" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH61||00/03/43/3437297_357BB3374E500EDF" xmltv_id="GLOBO">GLOBO</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5590||00/11/86/11867146_A00292870F677FAB" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4112||00/09/63/9639220_47CFA0C3DB249BC3" xmltv_id="MTV LIVE">MTV LIVE</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4091||00/07/31/7311964_871F285EA57A9764" xmltv_id="YouTube">YouTube</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5480||00/08/37/8378154_80FB4045C502B668" xmltv_id="Music Box Brazil">Music Box Brazil</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5581||00/10/39/10399523_9B1C5EF1555B31AC" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5580||00/11/86/11867104_4F7C97B49745C5A3" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH157||00/03/11/3116386_4A2933F990D8D333" xmltv_id="Warner HD">Warner HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH152||00/05/38/5388559_C4C605DD343130B2" xmltv_id="Sony HD">Sony HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH52||00/08/37/8376102_566FA4AE85E9DCC8" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH854||00/03/11/3116447_ADADB5E7F9638850" xmltv_id="FX HD">FX HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH158||00/03/11/3116377_07E5F98C69568540" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH150||00/03/11/3116374_5B04666C991C8684" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH37" xmltv_id="Canal de São Paulo">Canal de São Paulo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2444||00/03/11/3116734_76426D1F43DDD73D" xmltv_id="Prime Box Brazil HD">Prime Box Brazil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH653||00/03/11/3116744_787D266860F47AB0" xmltv_id="TBS HD">TBS HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH28||00/03/78/3780367_B9CD7EF8FDFFC71E" xmltv_id="REDE 21">REDE 21</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH126||00/03/11/3116394_9509CCCE621F82F2" xmltv_id="TNT HD">TNT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH108||00/03/19/3190492_9E4E9614C21AA2AF" xmltv_id="Space HD">Space HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH932||00/03/11/3116407_6B706B96531B5813" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH649||00/03/11/3116410_B639329E18E76B78" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2093||00/03/47/3472926_E6819194924F0EE0" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2080||00/03/11/3118497_61C93507875FDA75" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH936||00/03/82/3828917_13736897C3A7EE56" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH79||00/03/11/3116463_33A5D1EB1DC86AA7" xmltv_id="Megapix HD">Megapix HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH929||00/11/86/11867108_E367EBE364D74520" xmltv_id="Canal Brasil HD">Canal Brasil HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2100||00/03/11/3116745_28FFF376F4E755E6" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH772||00/07/52/7520987_643D4B8AB3878E2D" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH949||00/07/02/7028250_D8AB1C22244B1BCD" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5578||00/09/79/9799514_101A9DADD3EEFF22" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1193||00/05/90/5906428_452E54FC39F70CD2" xmltv_id="Vivo Play">Vivo Play</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH183||00/03/11/3116411_E5E02D2432750942" xmltv_id="Curta!">Curta!</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH182||00/03/16/3163537_068A70F63E96FC68" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH459||00/03/11/3116449_FA01B469D0D9F34E" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH462" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH460||00/03/11/3116450_EA39EAF03513E09A" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH461||00/03/16/3163539_3A523BE1CBEE67AF" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH76||00/06/56/6567647_1894F12940AE9C0B" xmltv_id="HBO Pop HD">HBO Pop HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH933||00/06/56/6567646_E492630862D38530" xmltv_id="HBO Mundi HD">HBO Mundi HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH931||00/06/56/6567650_E6C5AF690B81E082" xmltv_id="HBO Xtreme HD">HBO Xtreme HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4090||00/07/31/7311974_52E4F4DBAD6FF067" xmltv_id="Prime Video">Prime Video</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH119||00/05/49/5490338_72914EC3B218B291" xmltv_id="Telecine HD">Telecine HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH111||00/05/49/5490652_855B7A34DD928D19" xmltv_id="Telecine Action HD">Telecine Action HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH154||00/05/49/5490654_95D0F84C173E9B34" xmltv_id="Telecine Touch HD">Telecine Touch HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH155||00/05/49/5490949_9F93958623372B39" xmltv_id="Telecine Fun HD">Telecine Fun HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH112||00/05/49/5490950_57638750CC29E112" xmltv_id="Telecine Pipoca HD">Telecine Pipoca HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH218||00/05/49/5490953_EF67ADD4EF6D246F" xmltv_id="Telecine Cult HD">Telecine Cult HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3650||00/03/81/3816731_45B1BFA1F1025883" xmltv_id="NHK HD">NHK HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2090||00/03/11/3116735_D33EF137B6C221CF" xmltv_id="RAI">RAI</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2071||00/03/11/3118494_FF63BA66B78B4311" xmltv_id="DW">DW</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2172||00/03/11/3116738_4B699CD802C526BF" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2173||00/03/11/3116753_C7527B78FF1A6CF2" xmltv_id="Telefe">Telefe</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2104||00/03/11/3116390_D6D06CBDEA0E7393" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2105||00/03/11/3116389_3E3C0A16E193C738" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4033||00/07/56/7562514_E06AE9A98BB4180E" xmltv_id="Vivo Valoriza">Vivo Valoriza</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6318||00/13/87/13879597_92B8E53977B545B4" xmltv_id="STAR+">STAR+</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4137||00/12/36/12361298_43FCC026DC5A0767" xmltv_id="Disney +">Disney +</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3734||00/11/86/11867147_D77418DEBA0E434F" xmltv_id="NETFLIX">NETFLIX</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH123||00/03/11/3116726_60C5FB22A537ECDF" xmltv_id="Premiere HD">Premiere HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH142||00/03/11/3116727_C6E63EF281B5ABF5" xmltv_id="Premiere HD2">Premiere HD2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH937||00/03/11/3116728_3DC72E8B5B0E8FBB" xmltv_id="Premiere HD 3">Premiere HD 3</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1995||00/09/32/9324487_CD7C0BF1FB9D8394" xmltv_id="Premiere HD 4">Premiere HD 4</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1996||00/03/11/3116730_E08C6506930921AD" xmltv_id="Premiere HD 5">Premiere HD 5</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2440||00/03/11/3116731_6CF46E0B8ADC2087" xmltv_id="Premiere HD6">Premiere HD6</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2441||00/03/11/3116732_725060167CA23478" xmltv_id="Premiere HD7">Premiere HD7</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2439||00/03/11/3116733_8D719D8074AD841E" xmltv_id="Premiere HD8">Premiere HD8</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5670||00/11/74/11743948_74F607B5145B192B" xmltv_id="Premiere HD9">Premiere HD9</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1211||00/03/16/3163507_E61987F5EC9675E7" xmltv_id="Combate HD">Combate HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5478||00/10/41/10414829_A1124E50B9ACCDCD" xmltv_id="Campeonato Carioca">Campeonato Carioca</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5479||00/10/41/10414832_F396B8D305EBF01F" xmltv_id="Campeonato Carioca 2">Campeonato Carioca 2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH204" xmltv_id="RIT">RIT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH219" xmltv_id="Globo HD Teste">Globo HD Teste</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2028||00/03/34/3342113_2D2748F1A776CD89" xmltv_id="BBB Mosaico HD">BBB Mosaico HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2023||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB1 HD">BBB1 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2025||00/03/11/3116766_820228FD0BFF595F" xmltv_id="BBB2 HD">BBB2 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5582||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 3">BBB 3</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5583||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 4">BBB 4</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5584||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 5">BBB 5</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5585||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 6">BBB 6</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5586||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 7">BBB 7</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5587||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 8">BBB 8</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH870||00/03/45/3455610_5DADA5158ADD5AEE" xmltv_id="EPTV Campinas HD">EPTV Campinas HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5588||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 9">BBB 9</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5589||00/03/11/3116761_8F22668B29B96DDF" xmltv_id="BBB 10">BBB 10</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4107||00/07/23/7232028_7811BA7D8CAB5F86" xmltv_id="Novidades">Novidades</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH900||00/03/45/3455613_13E4B5CBF344D70D" xmltv_id="EPTV Ribeirão HD">EPTV Ribeirão HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH902||00/03/45/3455915_B045FE2419F617D9" xmltv_id="TV Vanguarda HD">TV Vanguarda HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH912||00/03/85/3856799_DD4C9236802F4B14" xmltv_id="TV Câmara de Ribeirão">TV Câmara de Ribeirão</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2081||00/08/82/8829571_AB7074440A3B6027" xmltv_id="Sexy Hot">Sexy Hot</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH914||00/03/85/3856796_68B3E372B0CD899A" xmltv_id="Boa Vontade SJC">Boa Vontade SJC</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH919||00/03/43/3431914_0E16005C5C0B4AA8" xmltv_id="TV Tribuna Santos HD">TV Tribuna Santos HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH920||00/03/43/3431913_1B787CEEE220418C" xmltv_id="Rede Século 22">Rede Século 22</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH921||00/03/43/3431868_B960ACD1F1E51BF0" xmltv_id="VTV SBT HD">VTV SBT HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH60||00/03/47/3478440_E3825F81430013C6" xmltv_id="Gospel">Gospel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH75||00/12/63/12639370_28CB363B2E016B34" xmltv_id="CBI">CBI</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1237||00/03/25/3250068_E6D29F72E1811FAF" xmltv_id="TVT SD">TVT SD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1313" xmltv_id="Comutação HD">Comutação HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1314" xmltv_id="Comutação">Comutação</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH1358||00/03/86/3869224_32F308C2135BF0CD" xmltv_id="Santa Cecília TV">Santa Cecília TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2393||00/03/86/3869223_315D71E121F86500" xmltv_id="TV Osasco">TV Osasco</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2399||00/06/82/6825708_149F17D74F10FED7" xmltv_id="TV TEM Sorocaba HD">TV TEM Sorocaba HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2418||00/12/63/12639370_28CB363B2E016B34" xmltv_id="CBI">CBI</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH196||00/03/24/3249933_1CBE515E7FBD0DED" xmltv_id="CNT">CNT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2426||00/03/83/3832473_70FB727A099B35EE" xmltv_id="TV Câmara Sorocaba">TV Câmara Sorocaba</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2427||00/03/86/3869221_18A59399842E61C1" xmltv_id="Canal Comunitário de Santos">Canal Comunitário de Santos</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2428||00/03/86/3869222_62AB8478F1C38AD8" xmltv_id="TV Câmara Campinas">TV Câmara Campinas</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2429||00/03/85/3856795_D0EC3049E691166B" xmltv_id="TV Camara de SJC">TV Camara de SJC</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2430" xmltv_id="Canal Universitário UNICAMP">Canal Universitário UNICAMP</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2432||00/03/86/3869215_663163817B04F846" xmltv_id="TV Câmara Piracicaba">TV Câmara Piracicaba</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2433" xmltv_id="TV MAX">TV MAX</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2434||00/03/85/3856792_DD19859B58CBAFAD" xmltv_id="TV Ativa">TV Ativa</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2435||00/03/86/3869216_ED31FEA33104B1FB" xmltv_id="TV Câmara de Valinhos">TV Câmara de Valinhos</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2436||00/03/85/3856801_9A630BF0866A3E9B" xmltv_id="TV Sol">TV Sol</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2437||00/03/85/3856798_6FDA374C3C120877" xmltv_id="TV Câmara de Americana">TV Câmara de Americana</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5486" xmltv_id="TESTE 7">TESTE 7</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5487" xmltv_id="TESTE 8">TESTE 8</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2716||00/03/25/3250065_C4C5D6BB6C9CEAEF" xmltv_id="Polishop">Polishop</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5489" xmltv_id="TESTE 10">TESTE 10</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2817||00/03/83/3832474_6AA4EB6B218227A9" xmltv_id="TV 100% Vida Santos">TV 100% Vida Santos</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2818||00/03/85/3856802_2844908BE08CBC6A" xmltv_id="TV Univap SJC">TV Univap SJC</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3081||00/03/19/3190504_9C8CD80E6AA60E6A" xmltv_id="Globo RPC HD">Globo RPC HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3084||00/03/19/3190501_201A3ACD677BF177" xmltv_id="TV Globo HD">TV Globo HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3086||00/03/19/3190535_C19FD6CA35BD53B1" xmltv_id="É-Paraná HD">É-Paraná HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3090||00/03/19/3190536_BD65E4CEDA60043C" xmltv_id="Rede Mercosul HD">Rede Mercosul HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3100||00/03/83/3832405_D8F92C725FF9B3B5" xmltv_id="NGT">NGT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3130||00/03/23/3233111_AE9E31F4C612AFD1" xmltv_id="TV Passaponte HD">TV Passaponte HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3133||00/03/23/3233118_3297F7BBB7A4A299" xmltv_id="TV Rio Sul HD">TV Rio Sul HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3134||00/03/23/3233115_723D583405FC71D4" xmltv_id="EPTV Sul de Minas">EPTV Sul de Minas</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3135||00/03/23/3233112_47C44D3DD4776194" xmltv_id="TV Diário Mogi das Cruzes HD">TV Diário Mogi das Cruzes HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3137||00/03/23/3233113_74FCC3C21C6FE05E" xmltv_id="TV Vanguarda Taubaté">TV Vanguarda Taubaté</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3145||00/03/86/3869198_2E7CD813AE32663C" xmltv_id="Band Brasília HD">Band Brasília HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3148||00/06/82/6825726_D221955621916122" xmltv_id="TV TEM Bauru HD">TV TEM Bauru HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3149||00/03/24/3249987_D489D73217DD91BD" xmltv_id="Globo Brasília HD">Globo Brasília HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3150||00/03/25/3250029_B03699D3DF1C5496" xmltv_id="TV Asa Branca HD">TV Asa Branca HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3151||00/03/24/3249997_0096E403B270BE8A" xmltv_id="Record Brasília HD">Record Brasília HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3152||00/03/25/3250033_A9F2F10F59D2FAAC" xmltv_id="TV Clube">TV Clube</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3153||00/03/25/3250011_034048EAF991F2E1" xmltv_id="TV Brasília HD">TV Brasília HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3154||00/03/24/3249985_3E17BF1BF1970A20" xmltv_id="SBT Brasília HD">SBT Brasília HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3155||00/03/25/3250040_8D82B14218254178" xmltv_id="SBT Central HD">SBT Central HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3156||00/03/25/3250022_71F6B70FBDBC91BA" xmltv_id="TV Jornal">TV Jornal</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3157||00/06/82/6825710_96CB2FA1D789350A" xmltv_id="TV TEM Itapetininga HD">TV TEM Itapetininga HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3158||00/03/34/3346046_329BBC21120BF3B6" xmltv_id="TV Grande Rio HD">TV Grande Rio HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3159||00/06/82/6825724_14C9F53AF84C3917" xmltv_id="TV TEM SJRP HD">TV TEM SJRP HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3161||00/03/34/3346110_F118D3BC53C549E3" xmltv_id="Record RS HD">Record RS HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3162||00/03/25/3250051_8CD09DD5C5FFD917" xmltv_id="Record TV Cabralia HD">Record TV Cabralia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3163||00/03/34/3346181_539F2A678FEC8996" xmltv_id="Ulbra TV HD">Ulbra TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3166||00/06/47/6479140_56DF347B672AC432" xmltv_id="RBS TV">RBS TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3168||00/03/25/3250047_5708FD6716630468" xmltv_id="TV Santa Cruz HD">TV Santa Cruz HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3170||00/03/25/3250045_D384DDEB2F15AD0C" xmltv_id="TV Aratu">TV Aratu</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3171||00/03/86/3869197_A8D2B33B2F6738FD" xmltv_id="Band Bahia HD">Band Bahia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3181||00/03/34/3346082_9FED016C4D50C825" xmltv_id="TV Cidade Verde HD">TV Cidade Verde HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3182||00/03/29/3297969_C0C5C519084B2E50" xmltv_id="NSC TV HD">NSC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3183||00/03/29/3298150_3D2D331C3C200649" xmltv_id="Record News SC HD">Record News SC HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3184||00/03/86/3869205_375B282B19D82F44" xmltv_id="Band Teresina HD">Band Teresina HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3187||00/03/34/3346094_D8AF220014446075" xmltv_id="TV Antena 10 HD">TV Antena 10 HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3188||00/03/34/3346049_366E40F6C71686E4" xmltv_id="TV Clube HD">TV Clube HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3190||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Gazeta HD">TV Gazeta HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3194||00/03/34/3346052_C3317A4721D529D3" xmltv_id="TV Sudoeste HD">TV Sudoeste HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3196||00/03/34/3346080_66B9D2393894FD85" xmltv_id="EPTV Central São Carlos HD">EPTV Central São Carlos HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3261||00/03/43/3436114_3C6B214562A16A80" xmltv_id="Record News ES HD">Record News ES HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH466" xmltv_id="Canal Teste 1">Canal Teste 1</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH467" xmltv_id="Canal Teste 2">Canal Teste 2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3099||00/03/30/3309804_7E7CDD9A6E43A46E" xmltv_id="CNT Americana">CNT Americana</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2000" xmltv_id="Canal de Testes">Canal de Testes</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3101||00/03/83/3832406_972879AD77DB499F" xmltv_id="Rede Família">Rede Família</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3373||00/03/81/3812396_0F08E134E5F78293" xmltv_id="TV Cabo Branco HD">TV Cabo Branco HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3714||00/12/92/12920788_98D76495C51AA18E" xmltv_id="In Channel App Disney+">In Channel App Disney+</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3374||00/03/81/3812397_03F04EF550536342" xmltv_id="TV Globo Belo Horizonte HD">TV Globo Belo Horizonte HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3715||00/12/92/12920788_98D76495C51AA18E" xmltv_id="Testes de apps Mediaroom">Testes de apps Mediaroom</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3375||00/03/81/3812618_7F13585188602978" xmltv_id="Nordes TV HD">Nordes TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3376||00/03/81/3812393_8354D13BAF3F93CF" xmltv_id="RPC HD">RPC HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5488" xmltv_id="TESTE 9">TESTE 9</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3378||00/03/81/3812395_F7D394A47D728E22" xmltv_id="TV Verdes Mares HD">TV Verdes Mares HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3380||00/03/81/3812447_F91B34A96E2482CD" xmltv_id="TV Alterosa HD">TV Alterosa HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3381||00/03/81/3812528_623F49E1DAF5D585" xmltv_id="TV Goiás HD">TV Goiás HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3382||00/03/81/3812399_7550A5EE69CE40E8" xmltv_id="TV Bahia HD">TV Bahia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3383||00/03/81/3812619_9E7C6635B2EF06E1" xmltv_id="TV Goiânia HD">TV Goiânia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3384||00/03/81/3812466_8E98919FCCB27EAD" xmltv_id="Record TV Itapoan HD">Record TV Itapoan HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3385||00/03/81/3812457_DAFB43D284758F0D" xmltv_id="TV Tambaú HD">TV Tambaú HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3386||00/03/72/3728822_908E56B1FBE627C8" xmltv_id="TV Assembleia Piaui">TV Assembleia Piaui</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3387||00/07/35/7354406_7B34B43F34A8847C" xmltv_id="TV Arapuan HD">TV Arapuan HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3388||00/03/81/3812449_FCD4486890629EDD" xmltv_id="TV Jornal HD">TV Jornal HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3389||00/03/81/3812475_E977E4AE37D7B9DF" xmltv_id="TV Cidade HD">TV Cidade HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3390||00/03/81/3812358_286469FCD1A70F58" xmltv_id="TV Subaé HD">TV Subaé HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3391||00/03/81/3812394_112FACA1DFF9A494" xmltv_id="TV Anhanguera Goiânia HD">TV Anhanguera Goiânia HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3392||00/03/81/3812398_7DF63B5157190EF3" xmltv_id="TV Globo Recife HD">TV Globo Recife HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3393||00/03/81/3812453_44E4B1245914DF98" xmltv_id="TV Serra Dourada HD">TV Serra Dourada HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3394||00/03/81/3812551_4BF4B566F4822F42" xmltv_id="TV Correio HD">TV Correio HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3396||00/03/81/3812452_254FFD378DFFF4AD" xmltv_id="TV Jangadeiro HD">TV Jangadeiro HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3397||00/03/81/3812620_CC7405E0E6E450C6" xmltv_id="TV Manaíra HD">TV Manaíra HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3400||00/03/81/3812450_DE61A618FA4660DF" xmltv_id="TV Aratu HD">TV Aratu HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3470||00/03/81/3812403_A8BCF900AD93C699" xmltv_id="Inter TV dos Vales HD">Inter TV dos Vales HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3473||00/03/81/3812406_E88771957DDB367D" xmltv_id="RPC Maringá HD">RPC Maringá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3476||00/03/81/3812458_C064F1A690A87C79" xmltv_id="TV Campo Grande HD">TV Campo Grande HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3477||00/03/81/3812402_249A305511201C0C" xmltv_id="TV Morena HD">TV Morena HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3478||00/03/81/3812569_C377B988ABC56409" xmltv_id="Rede MS">Rede MS</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3479||00/03/81/3812622_36A25EBD7316773C" xmltv_id="TV Interativa">TV Interativa</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3480||00/03/81/3812400_96CDDF2913382347" xmltv_id="TV Gazeta Sul HD">TV Gazeta Sul HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3481||00/06/47/6479170_C5C9E661C6CA01D9" xmltv_id="RBS TV">RBS TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3548||00/03/81/3812407_DBC8993617D475C3" xmltv_id="NSC TV HD">NSC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3550||00/03/81/3812401_4C58B170CE403362" xmltv_id="TV Integração">TV Integração</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3737||00/06/47/6479142_AE2DDC26EEECCC0C" xmltv_id="RBS TV">RBS TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3739" xmltv_id="Programação TPOA1">Programação TPOA1</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3741" xmltv_id="Programação TPOA3">Programação TPOA3</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3743" xmltv_id="Programação TPOA5">Programação TPOA5</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3751||00/03/97/3979809_571AF946820153DC" xmltv_id="TV Integração HD">TV Integração HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3764||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Anhanguera HD">TV Anhanguera HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3765||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="TV Sucesso HD">TV Sucesso HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3808||00/03/45/3455910_AB188D595A8A76DA" xmltv_id="Band Cuiabá HD">Band Cuiabá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3809||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="TV Vila Real">TV Vila Real</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3810||00/03/34/3346182_43192E22B4EE0E64" xmltv_id="TV Pantanal">TV Pantanal</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3812||00/04/13/4137595_AB3E1F2E58602912" xmltv_id="TV Guarulhos">TV Guarulhos</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3813||00/03/97/3979810_B5F01264507AD3AF" xmltv_id="SBT Cuiabá HD">SBT Cuiabá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3814||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Centro América HD">TV Centro América HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3815||00/03/43/3435804_D9B82B5BEF683107" xmltv_id="TV Em Tempo">TV Em Tempo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3816||00/03/44/3443006_217BDC02991705E0" xmltv_id="Rede Amazônica">Rede Amazônica</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3817||00/03/43/3437298_63A9E28CEB357A70" xmltv_id="Record Manaus">Record Manaus</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3818||00/03/73/3732267_F7B181A9A3F08427" xmltv_id="INOVA TV HD">INOVA TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3819||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="Band Manaus">Band Manaus</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3820||00/03/43/3436114_3C6B214562A16A80" xmltv_id="TV Diário">TV Diário</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3823||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="Globo - TV Fronteira President">Globo - TV Fronteira President</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3824||00/03/97/3979810_B5F01264507AD3AF" xmltv_id="SBT Tocantins HD">SBT Tocantins HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3825||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="Record TV Tocantins HD">Record TV Tocantins HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3826||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="NSC TV HD">NSC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3828||00/03/19/3195749_136A2C542B14775F" xmltv_id="TV Sergipe HD">TV Sergipe HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3830||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="NSC TV HD">NSC TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3831||00/03/43/3436114_3C6B214562A16A80" xmltv_id="Record News Cuiabá HD">Record News Cuiabá HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3832||00/06/47/6479144_BD7A613CCBE26AE5" xmltv_id="RBS TV HD">RBS TV HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3845||00/06/47/6479146_8432F4CCEC214423" xmltv_id="RBS TV Pelotas - TV Globo">RBS TV Pelotas - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3846||00/03/73/3732267_F7B181A9A3F08427" xmltv_id="TV Pampa Sul HD - Rede TV">TV Pampa Sul HD - Rede TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3847||00/03/11/3114781_8A79A56AC242FD83" xmltv_id="SBT Belém HD">SBT Belém HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3848||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Liberal Belém HD - TV Globo">TV Liberal Belém HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3849||00/03/81/3812625_95432EF38D089A84" xmltv_id="Record TV Belém HD">Record TV Belém HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3850||00/03/34/3346182_43192E22B4EE0E64" xmltv_id="TV Líder HD - RedeTV!">TV Líder HD - RedeTV!</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3851||00/03/86/3869201_53B113A245507F8F" xmltv_id="RBA TV HD - Band">RBA TV HD - Band</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3852||00/03/43/3435804_D9B82B5BEF683107" xmltv_id="TV Difusora HD - SBT">TV Difusora HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3853||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Mirante HD - TV Globo">TV Mirante HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3854||00/03/73/3732267_F7B181A9A3F08427" xmltv_id="TV São Luis HD - RedeTV!">TV São Luis HD - RedeTV!</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3855||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="TV Metropolitana HD - Band">TV Metropolitana HD - Band</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3858||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Integração HD - TV Globo">TV Integração HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3861||00/03/43/3435804_D9B82B5BEF683107" xmltv_id="SBT Vale">SBT Vale</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3862||00/03/43/3437298_63A9E28CEB357A70" xmltv_id="Record Tocantins">Record Tocantins</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3870" xmltv_id="TV Pai Eterno">TV Pai Eterno</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3871" xmltv_id="Gloobinho">Gloobinho</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3873" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3914||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="Band Maceió HD">Band Maceió HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3915||00/03/11/3114781_8A79A56AC242FD83" xmltv_id="TV Ponta Verde HD">TV Ponta Verde HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3916||00/04/00/4000153_325A6F98A786C9F9" xmltv_id="TV Gazeta HD - TV Globo">TV Gazeta HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3917||00/03/81/3812625_95432EF38D089A84" xmltv_id="TV Pajuçara HD - Record">TV Pajuçara HD - Record</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3929||00/03/19/3195749_136A2C542B14775F" xmltv_id="TV Integração HD - TV Globo">TV Integração HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3933||00/03/19/3195749_136A2C542B14775F" xmltv_id="RPC Paranavaí HD">RPC Paranavaí HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3934||00/03/19/3195749_136A2C542B14775F" xmltv_id="TV Globo - RPC Cascavel">TV Globo - RPC Cascavel</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3958||00/04/98/4988596_3039B1BBC21A7F0B" xmltv_id="ECO TV">ECO TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3959" xmltv_id="TV Ilha do Sol">TV Ilha do Sol</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3966||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Gazeta Noroeste">TV Gazeta Noroeste</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH3967||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Gazeta Norte">TV Gazeta Norte</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4035||00/03/44/3443006_217BDC02991705E0" xmltv_id="RPC HD - TV Globo">RPC HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4039||00/03/43/3435804_D9B82B5BEF683107" xmltv_id="SBT Rondonópolis HD">SBT Rondonópolis HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4040||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Centro América Rondonópolis HD">TV Centro América Rondonópolis HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4041||00/03/81/3812657_E9D29E43D63E7E09" xmltv_id="TV Cidade Verde Rondonópolis HD">TV Cidade Verde Rondonópolis HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4042||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Anhanguera Anápolis HD - TV Globo">TV Anhanguera Anápolis HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4044||00/04/00/4000154_9C04ECDD84CD7018" xmltv_id="TV Cidade Rondonópolis HD">TV Cidade Rondonópolis HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4066||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Anhanguera Rio Verde HD">TV Anhanguera Rio Verde HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4069||00/03/44/3443006_217BDC02991705E0" xmltv_id="TV Anhanguera Itumbiara HD">TV Anhanguera Itumbiara HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4073||00/11/75/11753773_5CC240A11587B4CA" xmltv_id="RPC Foz do Iguaçu HD - TV Globo">RPC Foz do Iguaçu HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4074||00/11/75/11753772_C5D180E47EC46DB2" xmltv_id="Inter TV Planicíes - TV Globo">Inter TV Planicíes - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4076||00/11/75/11753771_FD77F659CEE971F4" xmltv_id="TV Morena Ponta Porã HD - TV Globo">TV Morena Ponta Porã HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4077" xmltv_id="TV Campo Grande - Band HD">TV Campo Grande - Band HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4078||00/11/75/11753768_81C8E3FFC9534714" xmltv_id="RBS TV Santa Rosa - TV Globo">RBS TV Santa Rosa - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4079" xmltv_id="Rede TV (TV Pampa Norte)">Rede TV (TV Pampa Norte)</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4080||00/11/75/11753767_A828E12D1EEF8258" xmltv_id="Globo - NSC TV Criciúma">Globo - NSC TV Criciúma</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4084" xmltv_id="TV Capital HD">TV Capital HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4085" xmltv_id="TV Cidade de SINOP">TV Cidade de SINOP</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4086" xmltv_id="TV Centro América HD">TV Centro América HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4089||00/11/75/11753766_473FF4C627511A99" xmltv_id="Inter TV Alto Litoral - Globo HD">Inter TV Alto Litoral - Globo HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4093||00/10/45/10451250_C258760DB84322F2" xmltv_id="TV Educação">TV Educação</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4094||00/11/75/11753879_C7AB6770BB03FF82" xmltv_id="Univesp TV">Univesp TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4097" xmltv_id="TV Anhanguera Catalão HD">TV Anhanguera Catalão HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4106||00/11/75/11753877_7D3F2FC496801D4B" xmltv_id="RedeTV! Tocantins HD">RedeTV! Tocantins HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4108" xmltv_id="TV PARAIBA HD">TV PARAIBA HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4117" xmltv_id="TV Borborema HD">TV Borborema HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4123" xmltv_id="Inter TV Grande Minas">Inter TV Grande Minas</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4125||00/11/75/11753765_CE3A7E0767C08ADB" xmltv_id="NSC TV Centro-Oeste - TV Globo">NSC TV Centro-Oeste - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4131||00/11/75/11753878_5FBC160AC24E4F0E" xmltv_id="TV Ponta Negra HD - SBT">TV Ponta Negra HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4132||00/11/75/11753876_7D9C38487D4DD6BE" xmltv_id="TV Tropical HD - Record">TV Tropical HD - Record</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4133||00/11/75/11753761_3C277F3F66B4D7F6" xmltv_id="Band Natal HD">Band Natal HD</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH4134||00/11/75/11753764_1484A8121DBC3F4A" xmltv_id="TV Inter Cabugi HD - TV Globo">TV Inter Cabugi HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5481" xmltv_id="TV Itapê">TV Itapê</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5490||00/08/78/8782071_848189C6B5A592FB" xmltv_id="TV A Crítica">TV A Crítica</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5555||00/09/08/9088123_7C49088661FD9219" xmltv_id="RPC Guarapuava HD - TV Globo">RPC Guarapuava HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5556||00/03/11/3114781_8A79A56AC242FD83" xmltv_id="TV Vitoriosa HD - SBT">TV Vitoriosa HD - SBT</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5557||00/03/19/3195749_136A2C542B14775F" xmltv_id="TV Integração HD - TV Globo">TV Integração HD - TV Globo</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5661||00/11/17/11175413_407C896DA81AAA7C" xmltv_id="TV Câmara Distrital">TV Câmara Distrital</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5685||00/11/74/11748887_FBC2613821BA6F12" xmltv_id="Band">Band</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5687||00/11/74/11748773_BACACC01A5B58A13" xmltv_id="Rede TV">Rede TV</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH5688||00/11/74/11748764_AB9F5B9E9BBB0FBB" xmltv_id="Record">Record</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH2887" xmltv_id="HDCM2">HDCM2</channel>
+    <channel site="[ENC][EX]vivoplay.com.br_0" site_id="LCH6241||00/11/38/11387476_D4E50056C94684AC" xmltv_id="TV Anhanguera Luziânia">TV Anhanguera Luziânia</channel>
+  </channels>
+</site>
