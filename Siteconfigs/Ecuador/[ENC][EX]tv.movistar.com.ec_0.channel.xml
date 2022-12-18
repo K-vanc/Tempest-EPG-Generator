@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv.movistar.com.ec_0">
+  <channels>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3977||00/07/60/7603589_43F3B1A7231ED027" xmltv_id="El Canal Del Futbol">El Canal Del Futbol</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4136||00/08/44/8446014_AB2B95F841C5C790" xmltv_id="EL CANAL DEL FUTBOL 2">EL CANAL DEL FUTBOL 2</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3415||00/06/38/6381762_3BCDE7B21593DCAF" xmltv_id="TNT HD">TNT HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3414||00/06/84/6840720_AEB0D89DD5B9FA4C" xmltv_id="PARAMOUNT HD">PARAMOUNT HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3423||00/06/40/6402153_5D2A8E4CA7E0087D" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3097||00/06/40/6400745_DED2A560408C223A" xmltv_id="SPACE HD">SPACE HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4016||00/06/40/6400877_2A9597A863DAD7FE" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4027||00/06/40/6402102_E78633969AA98172" xmltv_id="UNIVERSAL CHANNEL">UNIVERSAL CHANNEL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3902||00/06/38/6381761_1B6CA9B0AAD15C8F" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3420||00/06/40/6402129_A027CB53A4AC65D9" xmltv_id="FX HD">FX HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4025||00/06/40/6402156_509AFA5B12D1E5F9" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4013||00/06/40/6400603_DE0CBB7B732B556A" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3098||00/08/35/8355162_9D5F70421EBFB84B" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4011||00/06/40/6402265_9A16CAF7C07017A3" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4017||00/06/40/6402029_63C699E0EA1EFEB6" xmltv_id="SONY HD">SONY HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4031||00/06/40/6402025_7930297E846EF33B" xmltv_id="WARNER CHANNEL HD">WARNER CHANNEL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4028||00/06/40/6404318_A08760A31E4E9381" xmltv_id="DISCOVERY CHANNEL HD">DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3403||00/06/31/6310574_FDBA1F86CF41A989" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4018||00/10/55/10556449_1A6D8A2DB98235CD" xmltv_id="HISTORY CHANNEL HD">HISTORY CHANNEL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4029||00/10/55/10556454_1534264D9C0B8BFC" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4023||00/07/52/7522972_D23BD84A0800ADB3" xmltv_id="ID - INVESTIGATION DISCOVERY">ID - INVESTIGATION DISCOVERY</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4020||00/06/40/6404400_715F24BDA274C0D1" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4026||00/11/47/11470349_2B54A1C94E8999B4" xmltv_id="HOME &amp; HEALTH HD">HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4019||00/06/40/6404405_CD52322046D5E2FB" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4032||00/06/40/6404319_0E77CAEB731055C1" xmltv_id="DISCOVERY HOME &amp; GARDEN">DISCOVERY HOME &amp; GARDEN</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4022||00/06/40/6402370_721F7ED3E1D94D33" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4021||00/07/17/7174958_C8682663671689F2" xmltv_id="LIFETIME">LIFETIME</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4024||00/06/40/6404328_6EA16AC5A8C8CA82" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3442||00/06/40/6404323_63237090D01F24CE" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4012||00/06/40/6400496_F73CF76E891B89F0" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3094||00/10/11/10113696_046392A4A17B42D1" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3419||00/06/40/6400460_CFCF7C91055A9854" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3421||00/06/40/6400461_87A7107EB8B5D8EB" xmltv_id="FOX SPORTS 3 HD">FOX SPORTS 3 HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3405||00/06/38/6383309_6BDEDCF4D8E84A20" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4119||00/06/38/6383310_007CE9E18A928D1C" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3424||00/06/38/6383311_78D38321059792D4" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3409||00/11/46/11469886_D6DB7B0A33033721" xmltv_id="ESPN EXTRA HD">ESPN EXTRA HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4015||00/06/40/6404287_505AB80A6A512184" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3436||00/06/40/6404292_3B9E6CB449FA9F91" xmltv_id="NICK HD">NICK HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3422||00/06/40/6404293_8FA593EEBEDAE2FA" xmltv_id="NICK JR">NICK JR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3443||00/06/40/6404284_14348DA622E37938" xmltv_id="DISNEY CHANNEL HD">DISNEY CHANNEL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3444||00/06/40/6404285_B2AAA26F953BA65C" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3417||00/10/11/10113697_F122B11142813549" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3404||00/06/40/6404291_317D0944FCAE9FC2" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3432||00/06/40/6404296_E5D89B4533D93187" xmltv_id="TOONCAST">TOONCAST</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4014||00/06/40/6402311_E32FDB9336BD052C" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3429||00/06/40/6402245_C6769A3F09CF8D21" xmltv_id="COMEDY CENTRAL HD">COMEDY CENTRAL HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3406||00/06/40/6402303_A33849F933ADA8BD" xmltv_id="HTV">HTV</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3410||00/06/31/6310601_CDA7FB49C0753B8E" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3402||00/06/40/6402293_ED7DBFA4CA85ED1C" xmltv_id="CNN ESPAÑOL">CNN ESPAÑOL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3411||00/06/40/6402269_E7AF95BCD440D5F8" xmltv_id="CNN INTERNACIONAL">CNN INTERNACIONAL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH5485||00/08/56/8565314_BF4CE6D70940DBFE" xmltv_id="TELEAMAZONAS">TELEAMAZONAS</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH5541||00/08/87/8874001_4B9B979A499B0C26" xmltv_id="ECUAVISA NACIONAL">ECUAVISA NACIONAL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3875||00/07/05/7052143_8C00928A47E2EB43" xmltv_id="ECUAVISA INTERNACIONAL">ECUAVISA INTERNACIONAL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3654||00/07/05/7052139_86E81486DCC7B262" xmltv_id="TC TELEVISION">TC TELEVISION</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3703||00/07/05/7052141_37A3AE440B9C7E74" xmltv_id="TELERAMA">TELERAMA</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3095" xmltv_id="OROMAR">OROMAR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3806||00/06/70/6706227_29A1664B380F2491" xmltv_id="INTI">INTI</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3430||00/06/40/6404165_72D0392FCC660718" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3907||00/06/40/6404168_D505AFC331359E2E" xmltv_id="HBO PLUS">HBO PLUS</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3908||00/06/40/6404166_44AAB142C8AA2E73" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH3909||00/08/55/8553111_DD5F4931A18250EE" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH4121||00/07/80/7805922_305EE8CADF43D343" xmltv_id="TUCANCHA">TUCANCHA</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ec_0" site_id="LCH6234||00/06/59/6590543_006D4CC6C7A47333" xmltv_id="SY FY">SY FY</channel>
+  </channels>
+</site>
