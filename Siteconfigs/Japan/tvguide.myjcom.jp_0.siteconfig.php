@@ -45,7 +45,7 @@ return array (
   'ccrequestOption1' => '1',
   'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'ccchannel_block' => '{"channelType".*?"channelName".*?}',
-  'ccchannel_id' => '"channelType":"(\\d+)"|#|[|_|]"serviceId":"(\\d+)|#|[|_|]"networkId":"(\\d+)',
+  'ccchannel_id' => '"channelType":(\\d+)|#|[|_|]"serviceId":"(\\d+)|#|[|_|]"networkId":(\\d+)',
   'ccchannel_name' => '"channelName":"(.*?)"',
   'ccchannel_logo' => 'ch_logo\\/(.*?)-400x400',
 );
