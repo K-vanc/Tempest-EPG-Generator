@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'mytvsuper.com[en]',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-12-24',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Hong_Kong',
+  'culture' => 'en',
+  'max_day' => '8.1',
+  'episodeOption' => '1',
+  'url1' => 'https://content-api.mytvsuper.com/v1/epg?network_code=##channel##&from=##urldate1##&to=##stopdate1##&platform=web',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/plain, */*',
+  'content_type1' => 'application/json; charset=utf-8',
+  'origin_header1' => 'https://www.mytvsuper.com',
+  'urldate_format1' => 'Ymd',
+  'stopdate_format1' => 'Ymd',
+  'show' => '({"start_datetime".*?})',
+  'start' => '"start_datetime":"(.*?)"',
+  'start_format' => 'Y-m-d H#i#s',
+  'title' => '"programme_title_en":"(.*?)",',
+  'desc' => '"episode_synopsis_en":"(.*?)",',
+  'episode' => ',"episode_no":"(\\d+)',
+  'channel_logo' => '||#add#https://assets.mytvsuper.com/channel/##cclogo##',
+  'ccurl1' => 'https://content-api.mytvsuper.com/v1/channel/list?platform=web',
+  'ccrequestOption1' => '1',
+  'cccontent_type1' => 'application/json; charset=utf-8',
+  'ccchannel_block' => '{"channel_no".*?,"tags":',
+  'ccchannel_id' => ',"network_code":"(.*?)",',
+  'ccchannel_name' => '{"channel_no":\\d+,"name_tc":".*?","name_en":"(.*?)",',
+  'ccchannel_logo' => '"landscape_poster":".*?\\/channel\\/(.*?)"',
+);
+?>
