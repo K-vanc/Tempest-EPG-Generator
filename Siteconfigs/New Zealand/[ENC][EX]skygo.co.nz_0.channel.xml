@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]skygo.co.nz_0">
   <channels>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0101||53/151daf8eb4ac63d85a50c3944efefa3d.png" xmltv_id="Prime">Prime</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SKY1||41/166a713e4d8f58ea1fb2c2a61f38042e.png" xmltv_id="Sky 5">Sky 5</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SKY2||104/96130bcbac7c9b2bbbdd25ceb9a572ee.png" xmltv_id="Vibe">Vibe</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="UKTV||42/48843466883cb93d6657b9e1117ad971.png" xmltv_id="BBC UKTV">BBC UKTV</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0031||5/61a1dec90c543771b7ce1e4c0e836644.png" xmltv_id="SoHo">SoHo</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0092||10/5f8cda0f66826b282bfa199578257d8b.png" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="ECHL||46/52f12631008f746123d3e233c7de8207.png" xmltv_id="E!">E!</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0022||9/fb117c0521ee30549e35c3d7cde5546c.png" xmltv_id="MTV">MTV</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0098||50/f63c5e16645800274a3b3191b7587b7d.png" xmltv_id="TLC">TLC</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="LIV1||48/8b215b00e5e257a775d1f08cea572d57.png" xmltv_id="Living">Living</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0197||77/ab3b32f7b2646fcf0db29a59478a8a05.png" xmltv_id="ID">ID</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0198||78/4e3d37c47dc61bceea43c0bfc4a8c840.png" xmltv_id="Universal TV">Universal TV</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="MOVI||19/235bcc4a07b49d7b21e856bff53bb495.png" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="MOV3||20/80ca1a61bfb742f35a10d58c63a7c600.png" xmltv_id="SKY Movies Greats">SKY Movies Greats</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0155||49/5ddfe091c9c497d49b54c59324402b3b.png" xmltv_id="Rialto">Rialto</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0162||22/2edac4b77a12151c2e11f6f62631d792.png" xmltv_id="Sky Sport Select">Sky Sport Select</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT1||1/16c095e9fc0bb9ef7db438b4e0d73a79.png" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT2||11/6688eae4f10aec4096cf1a373489f7fd.png" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT3||12/9bf41c99127b4a5572b161268bbc1d13.png" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0009||16/dd3c703d8d6dc1f97659437f41892084.png" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0001||34/5fbb7e81ed871028afeaeac7b5cd4ce8.png" xmltv_id="Sky Sport 4">Sky Sport 4</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0002||35/219d60a8291ebe326fd27a58b2f650dd.png" xmltv_id="Sky Sport 5">Sky Sport 5</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0003||36/41a21afa20e96a4fefdab7a25091d2b2.png" xmltv_id="Sky Sport 6">Sky Sport 6</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0004||17/d5b2ddbe5274b490879e54f3453f8d40.png" xmltv_id="Sky Sport 8">Sky Sport 8</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0016||18/119c6de60d1d6a7e48bd3e3e15fbb6ba.png" xmltv_id="Sky Sport 9">Sky Sport 9</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0170||54/b1fbe19056c6a42799856ae193b4d3a7.png" xmltv_id="Sky Sport Pop-Up 1">Sky Sport Pop-Up 1</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0026||39/0d3a2aa845cd069c6f1c6a30b84077ec.png" xmltv_id="ESPN">ESPN</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0082||40/0076f48b1763bd30c4867f2c63ef62af.png" xmltv_id="ESPN2">ESPN2</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0093||37/91c40ec2dfbe54e5b7a1e0a11310382a.png" xmltv_id="TAB Trackside 1">TAB Trackside 1</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0094||38/45ccd5cf2c15b04dec6c8a6fc35dd0b2.png" xmltv_id="TAB Trackside 2">TAB Trackside 2</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="DISC||44/71517f1e08c3667d1ac64a4a6858d2dd.png" xmltv_id="Discovery">Discovery</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="NATG||21/f8f88a62016a6a94edfcb504f553b5d5.png" xmltv_id="National Geographic">National Geographic</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="HIST||47/f205c01b9068763b2898150b47e92fc0.png" xmltv_id="HISTORY">HISTORY</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="DOCO||4/5f8a3d8848c0a55c8f2d0ef599daa8ae.png" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0100||45/5ee409ce63300af03301e07718bab2c4.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="NEWS||58/659dfa74586cd3c818f6e0a1dc3fb909.png" xmltv_id="Sky News">Sky News</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="CNNS||57/998773701dc63a098adc733c81391cb5.png" xmltv_id="CNN">CNN</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="BBCV||56/294002f88137b93e68802f4d7a38015a.png" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0021||7/505fa84230dbe3376fdd97847317081e.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="CRTN||43/c1cef45528539140dbbcead7a9ffc47f.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0166||52/26d8bc288b2e29d50ef14fa6dac18f7a.png" xmltv_id="CBeebies">CBeebies</channel>
-    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0020||8/356deec3a0e9f4e01a0ead2457bff923.png" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0101||dcojl03mw8gy/7obDvDTY8JU6XSSCHaJFYt/f8b0efa1cf015dfc85e8c33faa66d852/Prime.png" xmltv_id="Prime">Prime</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SKY1||dcojl03mw8gy/6i8PqlDIyLN6Qe5Y9hlko/3237b19cb96f1439627c0f243df505b7/5.png" xmltv_id="Sky 5">Sky 5</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SKY2||dcojl03mw8gy/4C5W3bvWxMZaosAYhc4gOF/5bb3538094e37589754caa1ca160a050/Vibe.png" xmltv_id="Vibe">Vibe</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="UKTV||dcojl03mw8gy/4n9hNuA8TUWu0JNevZajLp/bc6ad1c8ae8e73503415ce690892d411/BBC_uktv.png" xmltv_id="BBC UKTV">BBC UKTV</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0031||dcojl03mw8gy/19uyHgWDIrdsbAvnaifV5O/2c3f48be8b7c4e47111a1a148f2f5d8a/SoHo.png" xmltv_id="SoHo">SoHo</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0198||dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" xmltv_id="Universal">Universal</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0092||dcojl03mw8gy/5ZMuW5fL4MzvyUE7MqCCdz/88ea8ed620a486f997e07d47d3bc867c/Comedy_Central.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="ECHL||dcojl03mw8gy/741isamXrAKIPTfKoUUAa4/59ef04f6ceb65bd6961485cea206ef2b/E_.png" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0022||dcojl03mw8gy/zXbxDr1uvAtsXDDsp73rA/583b87d900020d4ac371d1fb32dea5d1/MTV.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0098||dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="LIV1||dcojl03mw8gy/7doHB6Jd9TJ3sdXrCYZuBh/0b14d9afb4d08774d73f641b0b560392/Living_Channel.png" xmltv_id="Living">Living</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0197||dcojl03mw8gy/1BBuJmPeNz2TqofYZIIcPI/e375b242072fecd0d74859cfe2599b45/ID.png" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0155||dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" xmltv_id="Rialto">Rialto</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="MOVI||dcojl03mw8gy/23RkexBUGiJIg5pZrgog5W/c4e86f15be68ea7bb19485f7added05e/Sky_Movies_Premiere.png" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="MOV3||dcojl03mw8gy/3yUGDdxxxYUhE2r2nIMd0t/cba2bf01592446d9ac94fde3f5773be4/Sky_Movies_Greats.png" xmltv_id="Sky Movies Greats">Sky Movies Greats</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0162||dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" xmltv_id="Sky Sport Select">Sky Sport Select</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT1||dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT2||dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="SPT3||dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0001||dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png" xmltv_id="Sky Sport 4">Sky Sport 4</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0002||dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png" xmltv_id="Sky Sport 5">Sky Sport 5</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0003||dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png" xmltv_id="Sky Sport 6">Sky Sport 6</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0009||dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0004||dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png" xmltv_id="Sky Sport Premier League">Sky Sport Premier League</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0016||dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png" xmltv_id="Sky Sport 9">Sky Sport 9</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0170||dcojl03mw8gy/7Lv1TSqmsISgXi87qv83dx/bc7c13558e76328eaa63caa393de9013/Sky_Sports_Pop-Up_1.png" xmltv_id="Sky Sport Pop-Up 1">Sky Sport Pop-Up 1</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0026||dcojl03mw8gy/2fIOtL3s8jEH8xBYOrStcX/0073e945ae106236a808851818d2e723/ESPN.png" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0082||dcojl03mw8gy/3fTSsxpHHLRnEtSs4eTKtO/1ffb263a0e8e663feac0e11cda63c638/ESPN2.png" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0093||dcojl03mw8gy/jlO8SF7pOUCKvLxFgGeEp/ffd71238b6b59adc772bb1fa3a010841/Trackside_1.png" xmltv_id="Trackside 1">Trackside 1</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0094||dcojl03mw8gy/2yrL7jlBD9zNmt8u7UX5hy/fef8a99c97a3bcff473d41fd0534882e/Trackside_2.png" xmltv_id="Trackside 2">Trackside 2</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="DISC||dcojl03mw8gy/61RGM4MHjXJYN7S4CvbRQH/ce7ad024cd2892a15e7124ad652b6a64/Discovery.png" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="NATG||dcojl03mw8gy/n1C09pufwAFDFmxjDhGfA/58b8acb3375386c4938a1835d6f98a44/National_Geographic.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="ANIM||dcojl03mw8gy/2OVeEOf8lRvWR2EzTOYJMx/13c19a41c27e194ec3229b705b1ae82b/Animal_Planet.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="HIST||dcojl03mw8gy/2I1BQhTrmRtF7uNAoNCy3a/bda87380360a1ea8a7bd583e764ff810/History_Channel.png" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="DOCO||dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/3d3b69aa51458dd4fa8b936968c2f2be/BBC_Earth.png" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0100||dcojl03mw8gy/593fHeUTE88UEqJhy6faGg/991571d0ef4fcea278edbe1c7669ca58/Discovery_Turbo.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="NEWS||dcojl03mw8gy/517TOXDfiWc7rG4t0iC0r2/4060217d7e846753cb73cca856ce8aeb/Sky_News.png" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="CNNS||dcojl03mw8gy/4i9O0yxfPsllklNYOY1JEt/40fd8d535615038b066a2241378cadbf/CNN.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="BBCV||dcojl03mw8gy/8qUWsA9yKV9JIxpHTArfX/8388adae21fb9212c37e208b781af56b/BBC_World_News.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0021||dcojl03mw8gy/XAylSKAdDuJCKAWhptEC9/864d71a73e6ad88af0113bd29836ee42/Nick.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="CRTN||dcojl03mw8gy/5Qs6P0EvGD8ver0uerofJW/ca1fc144bfbe7d0b87644c2de88285e0/Cartoon_Network.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0166||dcojl03mw8gy/6x6SVtdBYcIL4FemJah3oh/bc6ba686f00a2c7495eb83703ea80d84/Ceebies.png" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC][EX]skygo.co.nz_0" site_id="0020||dcojl03mw8gy/5MgpP4mal4tiQ6qWbv8bVz/aba00b2fd3692303a235fd2949a1886c/Nick_JR.png" xmltv_id="Nick Jr">Nick Jr</channel>
   </channels>
 </site>
