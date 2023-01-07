@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv.tele2play.se_0">
+  <channels>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69430||96/c0774c50398b6ab065aae405e70c65" xmltv_id="SVT1">SVT1</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69431||d8/ed85665fd57b6a2ec69e4b9e954505" xmltv_id="SVT2">SVT2</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76805||a6/050f1338d25d6c8dd043d27fc16deb" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="54090||fb/8e94f298a2f3cb78041ec37d29021b" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76808||a4/3704edf14fdd69dcbf1c01b2f0c161" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76810||90/3ccece9a879312e5027cef8aead223" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76809||ce/16b11006b865cfed03ca880bd2fda5" xmltv_id="Sjuan">Sjuan</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76811||85/e7fc7aca3e97543abe6ea8e84789d8" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76812||2c/7cead10c1a37ef9c2ba8149e05a2f2" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76813||2c/46a2cfefde7d95f7d6f9d17f4275d1" xmltv_id="TV10">TV10</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76825||31/23ecfd1b837f86a7df5faff7ef8dcf" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77657||db/b8ba181f1d1f97381864d65b86de7a" xmltv_id="TV12">TV12</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77726||0f/213258b2ac3b7c2b4609a5cb7e5a86" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="114314||fd/cb33f3399656d1010720950b62c61f" xmltv_id="Godare">Godare</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69426||a0/225a8547a128d08d446d0305dfeeeb" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="107718||c7/d21c4449a085a1b5070587ba1078c0" xmltv_id="ATG Live">ATG Live</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98543||15/5e7eaa7d8b39ff9c4adddb807318bd" xmltv_id="V Sport Extra HD">V Sport Extra HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69429||dd/4d73b556a04a8590a51728a5f8b2ef" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76804||cb/7d162645a53a40fafde287e22f2a71" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76806||fb/415b701cb1ffe88019fb22655dfed0" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76807||52/7b19c9260578c7e3664c62b12d1cf6" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83127||7b/2d7d34f45ae07aec7d4e21803585cf" xmltv_id="KANAL 5 HD">KANAL 5 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83524||8a/f55866d48d3beb436046ada64019a8" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="106567||ef/94ca0c21d4cd3dd491d639beb6815d" xmltv_id="Sjuan HD">Sjuan HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="108964||ff/35b1e862161ac14725fac51aec189b" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98333||27/9fec6a0fec7a870e94a037110f85af" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="108965||39/e52cd55ed4f3a055665d7435927cb1" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98336||0e/e036be411236d8fb32d365759da296" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98728||4a/211e8664fae2d8eb5fa834a2f824de" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77397||fe/a3bf1fa93971dc37f221bfc19bcd3c" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76857||ab/e5df22fa5bd98d6dbce2115f1ae73a" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="87852||02/db0be4f27d3037071812d158b0779e" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98339||e6/4a3021eccfe2ed325008f89ca839e6" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77396||95/cc7fbcea084c75eb1024538c883c08" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76858||25/0f29d5f2317422566718b7b70349c0" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98727||94/3cd45e63472c078168db15fbb00e59" xmltv_id="H2 HD">H2 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69421||14/62672e6b0b3cb4a0069b60c3b4c889" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77691||ff/581b739d7b327c41deb2f8661cf4cb" xmltv_id="Axess TV">Axess TV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="92257||65/65dd72ef7245a0c4fedb583fa29413" xmltv_id="Expressen TV">Expressen TV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69424||ec/b0fdf42dd86d897dafe8c8850da9c3" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69434||41/96ec0b0743b9a95288c0d84cb02795" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69425||7a/568702d483b77cb957504bb6b59d33" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83371||3b/148063de133669b577c05dfea10f88" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="114774||1e/e06c7474741feafbd29673c4269a2a" xmltv_id="Curiosity Stream EU">Curiosity Stream EU</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91961||6c/00e17142dda0c3fe577d450aae4a26" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="89005||ac/f6845a10efcccebc16640c15ef6976" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77692||6c/ddd35667a68d2cd7f568270a5df846" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69974||8a/5063dfca858df264ce775c7d709f17" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="74635||ba/dd084a01c42ae7f766de02a7481da7" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77693||b0/7b491d511eeb3c77596159779c9319" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="56245||29/caea2e1031a6b5b43c0798f1577233" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76844||34/a2bb35a8888ffc0672eff9aa3fce09" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76843||8f/b78cbfcf83af093e191091137b21e1" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91956||e0/c66bec22397c83246ff637ca0cb675" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76827||f6/685bc13914123177f587386054971d" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="102773||54/d10e14905dc81672c5da3202aefa58" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="56271||44/51b6de7a690d4b526bc0c056621e6c" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="67637||61/abaf729394c35a59e4704012d7733a" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="52550||fd/d5ae8d3473b23b82d5f16479916f6d" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="122288||72/c279f4de33493ead425511c7ec0e39" xmltv_id="SkyShowtime 2">SkyShowtime 2</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="122289||78/e3b946f083ab375d160ad52ae833e1" xmltv_id="SkyShowtime 1">SkyShowtime 1</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="78643||5c/efaffaea2c91c189872402a06dd8ed" xmltv_id="OUTtv">OUTtv</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="100236||aa/63e1c840c1642d5d81f39fe6d38857" xmltv_id="C More Stars HD">C More Stars HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77661||52/788ae123e2e7573943365477b9ebf9" xmltv_id="C More First HD">C More First HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="82273||0c/1db049747be03b307ef942e51af80e" xmltv_id="V Series HD">V Series HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77688||84/cad050ce65d43163ea6e6442008b6b" xmltv_id="V Film Family">V Film Family</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="76831||29/8952ea4bf2734746005914f750218f" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77700||f7/7c234b04f865dd078071d5e0dd7dc1" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77689||9d/379e547a06f003d1d3a152ff9290d8" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77678||50/ddf22f6aa672ac3ed86f17fee937ee" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="107029||ee/bb87964c269b09a953c5918638ee09" xmltv_id="Sport Expressen TV">Sport Expressen TV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="87661||8a/3933bc45fbea34a7a8ebf9f1bfc200" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77725||a2/720b1bd673199950247286a6fda816" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77699||5d/29e07e34892258fcab6f17fc6b746d" xmltv_id="C More Live HD">C More Live HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="100285||c9/c87779718052b5d728fc23c3bd2721" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83504||5a/d05ebec4b8ddfd4588f35223ffa171" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77730||df/ea63a87ca8739979774b96b82960a2" xmltv_id="V Sport Fotboll HD">V Sport Fotboll HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83537||fb/1781e10cf0d2a412a0a01764708fa1" xmltv_id="V Sport Vinter HD">V Sport Vinter HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77718||33/9fb68e00a7d5ec2bf3d148d54ce29f" xmltv_id="C More Hockey">C More Hockey</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77717||91/607ea1c1a7d8857e432cb8c869b935" xmltv_id="C More Fotboll">C More Fotboll</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="56232||ef/ad8065cd8c2ecb85bced6d9542b71b" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77675||b8/6a0076a60c6e731f8194edafb2d2b9" xmltv_id="C More Hits HD">C More Hits HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="78748||ac/eeaed2c2d9298f5f94aa39834ecc86" xmltv_id="C More Series HD">C More Series HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="17664||57/cbb773b41ca79c2969ca0e0327be18" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="108178||e6/e54813326a9edbb908707bb38c61e8" xmltv_id="Di TV HD">Di TV HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="16230||7e/d64e3c43e489eebe607331d078e14c" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="36844||8f/4be8746a9ec410c4c06ceb6b1e6af6" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="99333||72/014a37c47e28f636b1779328fd207f" xmltv_id="Kunskapskanalen HD">Kunskapskanalen HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="69428||b0/e4f1b1bdbbbb2e41d624ef79873b12" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="49968||1e/4953f498eae58f613de7badb1728f4" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83018||4b/bbeabceed200bd3d2cce88a37357a7" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="106537||bc/ecf84f65e142bce5fdebcbf7de6951" xmltv_id="Sportkanalen HD">Sportkanalen HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77712||d9/db447cca7b8c7acf881147cb9f5344" xmltv_id="V Sport Motor HD">V Sport Motor HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="82271||50/76bb518dbb4763f3e8ba15c0ff0514" xmltv_id="V Sport 1 HD">V Sport 1 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="102328||80/de35604b22d9b6c0ff92b7b3910cd2" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="82275||8d/0536cdc81139df51a72ce09dd79b30" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="100128||b8/89fb0b14a45939ab7b2dd6ea55e01d" xmltv_id="V Sport Premium HD">V Sport Premium HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="83272||56/03588b8d14dbb8d697fce164fe6197" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="100984||72/2946c6e86f7606960f21d715247673" xmltv_id="SVTB/SVT24 HD">SVTB/SVT24 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="78627||73/bc9ee304b6236767583af7f5b6f4e6" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="80769||56/c1815f841242deada6efca505fe054" xmltv_id="Nick JR">Nick JR</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77727||cf/deca59e892f72e7ac300e4c97489c5" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="78552||53/ec6ab07a6fd907bd93a54c500cce0f" xmltv_id="SVT Barn/SVT24">SVT Barn/SVT24</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="101757||bd/8aa83f934161820a473d3a8f943571" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="78625||64/4b0921cb99f4b5a2ebdbedd30ca02a" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="102771||fe/53e55a1c59b413ced025313a0cfdc5" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="102770||32/d35397e92c04525e033d681d7d9a05" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="82404||6e/31eb70560479ea71d989a45f7cfb62" xmltv_id="Suryoyo Sat">Suryoyo Sat</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91132||fa/0fb142332d349a859d1938770feacf" xmltv_id="C More Fotboll HD">C More Fotboll HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91133||78/c9642fe1d88f8ed462094ba8fb14e5" xmltv_id="C More Hockey HD">C More Hockey HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="97326||78/dbee89653721b608876ec7d0f2e9a2" xmltv_id="C More Mix HD">C More Mix HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="97327||64/9ed4aca75d419df1ed088012d64b43" xmltv_id="C More Mix">C More Mix</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77714||8e/fcfb95d9a4f97570895659b94f36c4" xmltv_id="C More Live 2">C More Live 2</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77715||bf/b62ebdefa4f422755740f912bbbb53" xmltv_id="C More Live 3">C More Live 3</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="77716||c5/39051b6e120e571e7bb35bc4f75a48" xmltv_id="C More Live 4">C More Live 4</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91141||41/5ac4226825d75c84f4a04d441afba9" xmltv_id="C More Live 2 HD">C More Live 2 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91142||cd/3889ff29a911eeb31eb4d7ce66cbc5" xmltv_id="C More Live 3 HD">C More Live 3 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="91170||90/11582bb1da9abb83679b2e6787a8ac" xmltv_id="C More Live 4 HD">C More Live 4 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="101912||e0/eed54807dc5c573c6d41572b1ef098" xmltv_id="C More Live 5 HD">C More Live 5 HD</channel>
+    <channel site="[ENC][EX]tv.tele2play.se_0" site_id="98742||56/acd3161c78fae6ee98dd11f7bf3ade" xmltv_id="Tele2">Tele2</channel>
+  </channels>
+</site>
