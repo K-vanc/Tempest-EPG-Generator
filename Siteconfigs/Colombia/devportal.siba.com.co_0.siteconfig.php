@@ -10,7 +10,7 @@ return array (
   'culture' => 'es',
   'max_day' => '30.1',
   'url1' => 'http://devportal.siba.com.co/index.php?action=grilla',
-  'requestOption1' => '1',
+  'requestOption1' => '2',
   'post_data1' => 'ciudad=13&servicio=##ccsubpage##&ini=##urldate1##&end=##stopdate1##&cat=&chn=##channel##&str=&',
   'accept_header1' => 'application/json, text/javascript, */*; q=0.01',
   'content_type1' => 'application/x-www-form-urlencoded; charset=UTF-8',
