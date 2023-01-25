@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="itv.com_0">
+  <channels>
+    <channel site="itv.com_0" site_id="itv" xmltv_id="ITV">ITV</channel>
+    <channel site="itv.com_0" site_id="itv2" xmltv_id="ITV2">ITV2</channel>
+    <channel site="itv.com_0" site_id="itvbe" xmltv_id="ITVBe">ITVBe</channel>
+    <channel site="itv.com_0" site_id="itv3" xmltv_id="ITV3">ITV3</channel>
+    <channel site="itv.com_0" site_id="itv4" xmltv_id="ITV4">ITV4</channel>
+    <channel site="itv.com_0" site_id="citv" xmltv_id="CITV">CITV</channel>
+  </channels>
+</site>
