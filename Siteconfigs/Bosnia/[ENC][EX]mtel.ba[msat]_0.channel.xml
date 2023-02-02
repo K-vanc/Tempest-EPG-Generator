@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]mtel.ba[msat]_0">
+  <channels>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="m:SAT Info||m%3ASAT+Info" xmltv_id="m:SAT Info">m:SAT Info</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTRS||RTRS" xmltv_id="RTRS">RTRS</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="BN HD||BN+HD" xmltv_id="BN HD">BN HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Superstar HD||Superstar+HD" xmltv_id="Superstar HD">Superstar HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="ATV HD||ATV+HD" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="BHT 1||BHT+1" xmltv_id="BHT 1">BHT 1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="FTV||FTV" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva||Prva" xmltv_id="Prva">Prva</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="OBN||OBN" xmltv_id="OBN">OBN</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink BH||Pink+BH" xmltv_id="Pink BH">Pink BH</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Blic TV HD||Blic+TV+HD" xmltv_id="Blic TV HD">Blic TV HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Kurir TV||Kurir+TV" xmltv_id="Kurir TV">Kurir TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS 1 HD||RTS+1+HD" xmltv_id="RTS 1 HD">RTS 1 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS 2 HD||RTS+2+HD" xmltv_id="RTS 2 HD">RTS 2 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink||Pink" xmltv_id="Pink">Pink</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="B92||B92" xmltv_id="B92">B92</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Happy TV||Happy+TV" xmltv_id="Happy TV">Happy TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="K1||K1" xmltv_id="K1">K1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Vesti||Vesti" xmltv_id="Vesti">Vesti</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Tanjug TV||Tanjug+TV" xmltv_id="Tanjug TV">Tanjug TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Red TV||Red+TV" xmltv_id="Red TV">Red TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euronews Serbia||Euronews+Serbia" xmltv_id="Euronews Serbia">Euronews Serbia</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV DR||TV+DR" xmltv_id="TV DR">TV DR</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="BN 2 HD||BN+2+HD" xmltv_id="BN 2 HD">BN 2 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTRS Plus||RTRS+Plus" xmltv_id="RTRS Plus">RTRS Plus</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Bloomberg Adria||Bloomberg+Adria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Kazbuka||Kazbuka" xmltv_id="Kazbuka">Kazbuka</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Nova BH||Nova+BH" xmltv_id="Nova BH">Nova BH</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Kitchen TV||Kitchen+TV" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Studio B||Studio+B" xmltv_id="Studio B">Studio B</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Agro TV HD||Agro+TV+HD" xmltv_id="Agro TV HD">Agro TV HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Dexy TV||Dexy+TV" xmltv_id="Dexy TV">Dexy TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Toxic TV||Toxic+TV" xmltv_id="Toxic TV">Toxic TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva MAX||Prva+MAX" xmltv_id="Prva MAX">Prva MAX</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Toxic Folk||Toxic+Folk" xmltv_id="Toxic Folk">Toxic Folk</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Insta TV||Insta+TV" xmltv_id="Insta TV">Insta TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Premium 1||Arena+Premium+1" xmltv_id="Arena Premium 1">Arena Premium 1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Premium 2||Arena+Premium+2" xmltv_id="Arena Premium 2">Arena Premium 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Premium 3||Arena+Premium+3" xmltv_id="Arena Premium 3">Arena Premium 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 1 HD||Arena+Sport+1+HD" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 2 HD||Arena+Sport+2+HD" xmltv_id="Arena Sport 2 HD">Arena Sport 2 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 3 HD||Arena+Sport+3+HD" xmltv_id="Arena Sport 3 HD">Arena Sport 3 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Život||RTS+%C5%BDivot" xmltv_id="RTS Život">RTS Život</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Drama||RTS+Drama" xmltv_id="RTS Drama">RTS Drama</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS 3||RTS+3" xmltv_id="RTS 3">RTS 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 4 HD||Arena+Sport+4+HD" xmltv_id="Arena Sport 4 HD">Arena Sport 4 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 5 HD||Arena+Sport+5+HD" xmltv_id="Arena Sport 5 HD">Arena Sport 5 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="NBA TV HD||NBA+TV+HD" xmltv_id="NBA TV HD">NBA TV HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Trezor||RTS+Trezor" xmltv_id="RTS Trezor">RTS Trezor</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Kolo||RTS+Kolo" xmltv_id="RTS Kolo">RTS Kolo</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Eurosport 1 HD||Eurosport+1+HD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Eurosport 2 HD||Eurosport+2+HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="SOS Kanal Plus||SOS+Kanal+Plus" xmltv_id="SOS Kanal Plus">SOS Kanal Plus</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Klasika||RTS+Klasika" xmltv_id="RTS Klasika">RTS Klasika</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Muzika||RTS+Muzika" xmltv_id="RTS Muzika">RTS Muzika</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Sport 6 HD||Arena+Sport+6+HD" xmltv_id="Arena Sport 6 HD">Arena Sport 6 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Premier League TV||Premier+League+TV" xmltv_id="Premier League TV">Premier League TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="FACE TV||FACE+TV" xmltv_id="FACE TV">FACE TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTV 1||RTV+1" xmltv_id="RTV 1">RTV 1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTV 2||RTV+2" xmltv_id="RTV 2">RTV 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTL||RTL" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTL 2||RTL+2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV K3||TV+K3" xmltv_id="TV K3">TV K3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Nickelodeon||Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV Hram||TV+Hram" xmltv_id="TV Hram">TV Hram</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Minimax||Minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Nickelodeon Junior||Nickelodeon+Junior" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Hype TV||Hype+TV" xmltv_id="Hype TV">Hype TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="K:CN||K%3ACN" xmltv_id="K:CN">K:CN</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Jim Jam||Jim+Jam" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Moj astrolog||Moj+astrolog" xmltv_id="Moj astrolog">Moj astrolog</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Ekovizija||Ekovizija" xmltv_id="Ekovizija">Ekovizija</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Esport||Arena+Esport" xmltv_id="Arena Esport">Arena Esport</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV Nikšić||TV+Nik%C5%A1i%C4%87" xmltv_id="TV Nikšić">TV Nikšić</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HRT 3||HRT+3" xmltv_id="HRT 3">HRT 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Balkan Trip||Balkan+Trip" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Premium||Pink+Premium" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Film Klub||Film+Klub" xmltv_id="Film Klub">Film Klub</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Action||Pink+Action" xmltv_id="Pink Action">Pink Action</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Thriller||Pink+Thriller" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Crime &amp; Mystery||Pink+Crime+%26+Mystery" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Comedy||Pink+Comedy" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Timeless Dizi Channel||Timeless+Dizi+Channel" xmltv_id="Timeless Dizi Channel">Timeless Dizi Channel</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Western||Pink+Western" xmltv_id="Pink Western">Pink Western</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Sci-Fi &amp; Fantasy||Pink+Sci-Fi+%26+Fantasy" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Film||Pink+Film" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV 1000||TV+1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="AMC||AMC" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Epic Drama||Epic+Drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Hayat HD||Hayat+HD" xmltv_id="Hayat HD">Hayat HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Kuvo TV||Kuvo+TV" xmltv_id="Kuvo TV">Kuvo TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Klasik||Klasik" xmltv_id="Klasik">Klasik</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="FOX||FOX" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="FOX CRIME||FOX+CRIME" xmltv_id="FOX CRIME">FOX CRIME</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HAYAT PLUS||HAYAT+PLUS" xmltv_id="HAYAT PLUS">HAYAT PLUS</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HBO HD||HBO+HD" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HBO 2 HD||HBO+2+HD" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HBO 3||HBO+3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="CINEMAX||CINEMAX" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="CINEMAX 2||CINEMAX+2" xmltv_id="CINEMAX 2">CINEMAX 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena Fight||Arena+Fight" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Liverpool FC TV||Liverpool+FC+TV" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="DOX TV||DOX+TV" xmltv_id="DOX TV">DOX TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Superstar 2 TV HD||Superstar+2+TV+HD" xmltv_id="Superstar 2 TV HD">Superstar 2 TV HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Family||Pink+Family" xmltv_id="Pink Family">Pink Family</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Serije||Pink+Serije" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva Life||Prva+Life" xmltv_id="Prva Life">Prva Life</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva Files||Prva+Files" xmltv_id="Prva Files">Prva Files</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva Kick||Prva+Kick" xmltv_id="Prva Kick">Prva Kick</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Prva World||Prva+World" xmltv_id="Prva World">Prva World</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euro Cinema 1||Euro+Cinema+1" xmltv_id="Euro Cinema 1">Euro Cinema 1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euro Cinema 2||Euro+Cinema+2" xmltv_id="Euro Cinema 2">Euro Cinema 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euro Cinema 3||Euro+Cinema+3" xmltv_id="Euro Cinema 3">Euro Cinema 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euro Cinema 4||Euro+Cinema+4" xmltv_id="Euro Cinema 4">Euro Cinema 4</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Svet HD||RTS+Svet+HD" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RTS Poletarac||RTS+Poletarac" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Al Jazeera||Al+Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Koreni||Koreni" xmltv_id="Koreni">Koreni</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV Mreža Most||TV+Mre%C5%BEa+Most" xmltv_id="TV Mreža Most">TV Mreža Most</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Arena sport 1x2||Arena+sport+1x2" xmltv_id="Arena sport 1x2">Arena sport 1x2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TLC||TLC" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Reality||Pink+Reality" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Discovery Channel||Discovery+Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Animal Planet||Animal+Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Travel Channel||Travel+Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="National Geographic||National+Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="National Geographic Wild||National+Geographic+Wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="History 2||History+2" xmltv_id="History 2">History 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Viasat History||Viasat+History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Viasat Explore||Viasat+Explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Turizam TV||Turizam+TV" xmltv_id="Turizam TV">Turizam TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HGTV||HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="ID||ID" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="CBS Reality||CBS+Reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Viasat Nature||Viasat+Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="DM SAT||DM+SAT" xmltv_id="DM SAT">DM SAT</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="K:CN 2 Music||K%3ACN+2+Music" xmltv_id="K:CN 2 Music">K:CN 2 Music</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="K:CN 3||K%3ACN+3" xmltv_id="K:CN 3">K:CN 3</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HAYATOVCI||HAYATOVCI" xmltv_id="HAYATOVCI">HAYATOVCI</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Fashion||Fashion" xmltv_id="Fashion">Fashion</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HAYAT FOLK||HAYAT+FOLK" xmltv_id="HAYAT FOLK">HAYAT FOLK</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HAYAT MUSIC||HAYAT+MUSIC" xmltv_id="HAYAT MUSIC">HAYAT MUSIC</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Music||Pink+Music" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="PINK HITS||PINK+HITS" xmltv_id="PINK HITS">PINK HITS</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink&amp;Roll||Pink%26Roll" xmltv_id="Pink&amp;Roll">Pink&amp;Roll</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="BN Music||BN+Music" xmltv_id="BN Music">BN Music</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Toxic Rap||Toxic+Rap" xmltv_id="Toxic Rap">Toxic Rap</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="City Play||City+Play" xmltv_id="City Play">City Play</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Bravo Music||Bravo+Music" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Pink Music 2||Pink+Music+2" xmltv_id="Pink Music 2">Pink Music 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="TV D+||TV+D%2B" xmltv_id="TV D+">TV D+</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="CNN||CNN" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Fox News Channel||Fox+News+Channel" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Euronews||Euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Jeka Muzzik||Jeka+Muzzik" xmltv_id="Jeka Muzzik">Jeka Muzzik</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="DW English||DW+English" xmltv_id="DW English">DW English</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HRT 1||HRT+1" xmltv_id="HRT 1">HRT 1</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HRT 2||HRT+2" xmltv_id="HRT 2">HRT 2</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Dorcel||Dorcel" xmltv_id="Dorcel">Dorcel</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="RT NEWS TV||RT+NEWS+TV" xmltv_id="RT NEWS TV">RT NEWS TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Brazzers TV||Brazzers+TV" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="Erotic||Erotic" xmltv_id="Erotic">Erotic</channel>
+    <channel site="[ENC][EX]mtel.ba[msat]_0" site_id="HUSTLER||HUSTLER" xmltv_id="HUSTLER">HUSTLER</channel>
+  </channels>
+</site>
