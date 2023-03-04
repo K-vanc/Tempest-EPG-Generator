@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]i.mjh.nz_0">
+  <channels>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-1" xmltv_id="TVNZ 1">TVNZ 1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-2" xmltv_id="TVNZ 2">TVNZ 2</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-three" xmltv_id="Three">Three</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-bravo" xmltv_id="Bravo">Bravo</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-maori-tv" xmltv_id="Whakaata Māori">Whakaata Māori</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-duke" xmltv_id="DUKE">DUKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-2-plus1" xmltv_id="TVNZ 2 plus 1">TVNZ 2 plus 1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-eden" xmltv_id="eden">eden</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-bravo-plus1" xmltv_id="Bravo PLUS 1">Bravo PLUS 1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-1-plus1" xmltv_id="TVNZ 1 plus 1">TVNZ 1 plus 1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvnz-duke-plus1" xmltv_id="TVNZ DUKE+1">TVNZ DUKE+1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-three-plus1" xmltv_id="ThreePlus1">ThreePlus1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-nz" xmltv_id="RUSH">RUSH</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-te-reo" xmltv_id="Te Reo">Te Reo</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-prime" xmltv_id="PRIME">PRIME</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-eden-plus1" xmltv_id="eden+1">eden+1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-prime-plus1" xmltv_id="PRIME +1">PRIME +1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-shine-tv" xmltv_id="Shine TV">Shine TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-firstlight" xmltv_id="Firstlight">Firstlight</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-hope-channel" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-chinese-tv28" xmltv_id="Chinese TV28">Chinese TV28</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-chinese-tv29" xmltv_id="Chinese TV29">Chinese TV29</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-parliament-tv" xmltv_id="Parliament TV">Parliament TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-apna-television" xmltv_id="APNA Television">APNA Television</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-panda-tv" xmltv_id="Panda TV">Panda TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-wairarapa-tv" xmltv_id="Wairarapa TV">Wairarapa TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-trackside-1" xmltv_id="TAB Trackside 1">TAB Trackside 1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-trackside-2" xmltv_id="TAB Trackside 2">TAB Trackside 2</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-ch200" xmltv_id="CH200">CH200</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-juice-tv" xmltv_id="Juice TV">Juice TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvsn-shopping" xmltv_id="TVSN Shopping">TVSN Shopping</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-syd1" xmltv_id="Seven">Seven</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-syd2" xmltv_id="7two">7two</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-syd3" xmltv_id="7mate">7mate</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-syd6" xmltv_id="7flix">7flix</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-9-nsw" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-gem-nsw" xmltv_id="9Gem">9Gem</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-go-nsw" xmltv_id="9Go!">9Go!</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-life-nsw" xmltv_id="9Life">9Life</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-nsw" xmltv_id="9Rush">9Rush</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-nsw" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10-nsw" xmltv_id="10">10</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10bold-nsw" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10peach-nsw" xmltv_id="10 Peach">10 Peach</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10shake-nsw" xmltv_id="10 SHAKE">10 SHAKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-snowy-mountains" xmltv_id="Snowy Mountains Television">Snowy Mountains Television</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mel1" xmltv_id="Seven">Seven</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mel2" xmltv_id="7two">7two</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mel3" xmltv_id="7mate">7mate</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mel6" xmltv_id="7flix">7flix</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-9-vic" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-gem-vic" xmltv_id="9Gem">9Gem</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-go-vic" xmltv_id="9Go!">9Go!</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-life-vic" xmltv_id="9Life">9Life</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-vic" xmltv_id="9Rush">9Rush</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-vic" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10-vic" xmltv_id="10">10</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10bold-vic" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10peach-vic" xmltv_id="10 Peach">10 Peach</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10shake-vic" xmltv_id="10 SHAKE">10 SHAKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-c31" xmltv_id="Channel 31">Channel 31</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-3aw-melbourne" xmltv_id="3AW Melbourne">3AW Melbourne</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bri1" xmltv_id="Seven">Seven</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bri2" xmltv_id="7two">7two</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bri3" xmltv_id="7mate">7mate</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bri6" xmltv_id="7flix">7flix</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-9-qld" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-gem-qld" xmltv_id="9Gem">9Gem</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-go-qld" xmltv_id="9Go!">9Go!</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-life-qld" xmltv_id="9Life">9Life</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-qld" xmltv_id="9Rush">9Rush</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-qld" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10-qld" xmltv_id="10">10</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10bold-qld" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10peach-qld" xmltv_id="10 Peach">10 Peach</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10shake-qld" xmltv_id="10 SHAKE">10 SHAKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per1" xmltv_id="Seven">Seven</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per2" xmltv_id="7two">7two</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per3" xmltv_id="7mate">7mate</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per6" xmltv_id="7flix">7flix</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-9-wa" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-gem-wa" xmltv_id="9Gem">9Gem</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-go-wa" xmltv_id="9Go!">9Go!</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-life-wa" xmltv_id="9Life">9Life</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-wa" xmltv_id="9Rush">9Rush</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-wa" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10-wa" xmltv_id="10">10</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10bold-wa" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10peach-wa" xmltv_id="10 Peach">10 Peach</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10shake-wa" xmltv_id="10 SHAKE">10 SHAKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ade1" xmltv_id="Seven">Seven</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ade2" xmltv_id="7two">7two</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ade3" xmltv_id="7mate">7mate</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ade6" xmltv_id="7flix">7flix</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-9-sa" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-gem-sa" xmltv_id="9Gem">9Gem</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-go-sa" xmltv_id="9Go!">9Go!</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-life-sa" xmltv_id="9Life">9Life</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-rush-sa" xmltv_id="9Rush">9Rush</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-sa" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10-sa" xmltv_id="10">10</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10bold-sa" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10peach-sa" xmltv_id="10 Peach">10 Peach</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-10shake-sa" xmltv_id="10 SHAKE">10 SHAKE</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-c44" xmltv_id="Channel 44">Channel 44</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-act" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-nt" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-tas" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas02" xmltv_id="Border Security Australia">Border Security Australia</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-rac" xmltv_id="Racing.com">Racing.com</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ausbz" xmltv_id="ausbiz">ausbiz</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas01" xmltv_id="iWonder Documentaries">iWonder Documentaries</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-out" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per1ml" xmltv_id="Seven | Subtitles">Seven | Subtitles</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas04" xmltv_id="All Saints">All Saints</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas05" xmltv_id="Supercars Replays">Supercars Replays</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas06" xmltv_id="Travel Australia">Travel Australia</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas07" xmltv_id="Big Brother">Big Brother</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-per3ml" xmltv_id="7mate | Subtitles">7mate | Subtitles</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ftv" xmltv_id="FuelTV">FuelTV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-gus" xmltv_id="Gusto">Gusto</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas03" xmltv_id="Better Homes And Gardens">Better Homes And Gardens</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas33" xmltv_id="Bathurst Throwback">Bathurst Throwback</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas35" xmltv_id="Equestrian Channel">Equestrian Channel</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas21" xmltv_id="Crazy In Love">Crazy In Love</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas22" xmltv_id="My Kitchen Rules">My Kitchen Rules</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas23" xmltv_id="Holey Moley Australia">Holey Moley Australia</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas24" xmltv_id="Bondi Vet">Bondi Vet</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas25" xmltv_id="Australia's Got Talent">Australia's Got Talent</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas26" xmltv_id="Home and Away Classics">Home and Away Classics</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas27" xmltv_id="Heartbreak Island AUS">Heartbreak Island AUS</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas28" xmltv_id="LIV Golf Replays">LIV Golf Replays</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas29" xmltv_id="Cooking &amp; Culture">Cooking &amp; Culture</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas30" xmltv_id="Creative Kids">Creative Kids</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas31" xmltv_id="Ultimate Tag">Ultimate Tag</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas32" xmltv_id="Farmer Wants a Wife">Farmer Wants a Wife</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mtu" xmltv_id="MyTime Movie Network">MyTime Movie Network</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ria" xmltv_id="Rialto">Rialto</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-pul" xmltv_id="Pulse TV">Pulse TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-ahm" xmltv_id="Action Hollywood Movies">Action Hollywood Movies</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-wtn" xmltv_id="Wicked Tuna">Wicked Tuna</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas20" xmltv_id="Winners and Losers">Winners and Losers</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas14" xmltv_id="Australian Drama">Australian Drama</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas13" xmltv_id="Blue Light">Blue Light</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-mvs" xmltv_id="MovieSphere">MovieSphere</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-lov" xmltv_id="NatureTime">NatureTime</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas11" xmltv_id="Blue Heelers">Blue Heelers</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas10" xmltv_id="SAS Australia">SAS Australia</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas09" xmltv_id="A Country Practice">A Country Practice</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-cas08" xmltv_id="Surfing">Surfing</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-dst" xmltv_id="Dust">Dust</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-btv" xmltv_id="Bloomberg Tv">Bloomberg Tv</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bqt" xmltv_id="Bloomberg Originals">Bloomberg Originals</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-amc" xmltv_id="Anger Management">Anger Management</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-htv" xmltv_id="HauntTV">HauntTV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-rmc" xmltv_id="River Monsters">River Monsters</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-7-bnet" xmltv_id="7Bravo">7Bravo</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-tvsn-shopping-au" xmltv_id="TVSN Shopping">TVSN Shopping</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-kids" xmltv_id="ABC Kids">ABC Kids</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-tv-plus" xmltv_id="ABC TV Plus">ABC TV Plus</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-me" xmltv_id="ABC ME">ABC ME</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-news" xmltv_id="ABC NEWS">ABC NEWS</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-90-seconds-news" xmltv_id="ABC News in 90 Seconds">ABC News in 90 Seconds</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-90-seconds-business" xmltv_id="ABC Business in 90 Seconds">ABC Business in 90 Seconds</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-90-seconds-sport" xmltv_id="ABC Sport in 90 Seconds">ABC Sport in 90 Seconds</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-abc-90-seconds-weather" xmltv_id="ABC Weather in 90 Seconds">ABC Weather in 90 Seconds</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs" xmltv_id="SBS">SBS</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs-viceland" xmltv_id="SBS VICELAND">SBS VICELAND</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs-food" xmltv_id="SBS Food">SBS Food</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs-world-movies" xmltv_id="SBS World Movies">SBS World Movies</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs-nitv" xmltv_id="NITV">NITV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sbs-world-watch" xmltv_id="SBS World Watch">SBS World Watch</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sky-racing-1" xmltv_id="Sky Racing #1">Sky Racing #1</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sky-racing-2" xmltv_id="Sky Racing #2">Sky Racing #2</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-sky-racing-thoroughbred" xmltv_id="Sky Racing - Thoroughbred Central">Sky Racing - Thoroughbred Central</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-good-dot" xmltv_id="GOOD.">GOOD.</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-redbull-tv" xmltv_id="Redbull TV">Redbull TV</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-channel-news-asia" xmltv_id="Channel News Asia (CNA)">Channel News Asia (CNA)</channel>
+    <channel site="[ENC]i.mjh.nz_0" site_id="all/epg.xml|##|mjh-metv" xmltv_id="MeTV">MeTV</channel>
+  </channels>
+</site>
