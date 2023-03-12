@@ -2,30 +2,190 @@
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]mujtvprogram.cz_0">
   <channels>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="1||221c83bb0fc366a6af5a167d5558781e" xmltv_id="ČT1">ČT1</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="2||930021742680a86aabfe6100a6899d2b" xmltv_id="ČT2">ČT2</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="3||60712218b2910fb81fc217d672f602af" xmltv_id="Nova">Nova</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="4||aa330a12f11883b0f0fe6a45702e8e04" xmltv_id="Prima">Prima</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="89||b248cb57e2fb343e1effe7bc682aa6bd" xmltv_id="TV Barrandov">TV Barrandov</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="24||8c4acbba033b894bf86f38727e4842c3" xmltv_id="ČT24">ČT24</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="559||c2d8401ab82b123bd0a64e5f551e9a5f" xmltv_id="Nova Gold">Nova Gold</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="181||af41e26050d9dbe2388a68dc9fb87f10" xmltv_id="Jednotka">Jednotka</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="314||f7374332cf28043a6ae3e77640f188e9" xmltv_id="RELAX">RELAX</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="304||f5dbde9996dd8d622a9358be9160502a" xmltv_id="TV Lux">TV Lux</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="379||e40bd2279b88dab77b024d002dea6187" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="225||745ac38c76bf918e605379f63c57710a" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="82||3bfcbc78d72ec27d51e11e87111f092d" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="98||50445f7e728fcee74d6ae3cf26a10e01" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="582||caeabe147aa699c15c59110fa2ce9bef" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="333||b6e1910c8b4528b6ce4a552add1ea837" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="207||d25d1265a9805809cd7ba60783dd666c" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="14||13cbd6322cbef4ccbf92bac33e2ba415" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="384||ba38b0a7435dae958e5de733973004dc" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="105||98ba5aa2f0524629d8e1545015ffb54f" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="13||8b1078a2a5e66e1fc66863c0a54cd499" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="570||5f14208e2f909f37a6b3686e601658b4" xmltv_id="UP Network">UP Network</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="410||f6d7d5a74345a83697f7f2de2ff8dc65" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="338" xmltv_id="FashionBox HD">FashionBox HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="78||171d42bbb605364a78987918bdcd06b3" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="454||cf272e1353caa1c5b2a218139c203d2d" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="9||206f0baaf3ae62b0fedd0c4150916af9" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="6||978d92c9ea2b035e3d55b592106c4bab" xmltv_id="HBO2">HBO2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="512||2e2ecd1433ea6e8c3ed4d99c7bcef5ad" xmltv_id="HBO3">HBO3</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="7||3cec25ae0771314599f5318ff16610bb" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="112||17117b7e39721b3d81d91d635795eba5" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="5||256d42b0fbf7431d5c080332fd09f963" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="64||f29d13d4b36e71c9a1e6499756ec2a97" xmltv_id="FilmBox">FilmBox</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="65||ffa5c58c7c21beebcc26cdd54bff5f89" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="601||b45753e5445cae78d5108034155e5f2c" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="397||9d64faa8b43d7f33d32c4c95e274d4a0" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="357||49deb09a8187efe4affc74274017f77b" xmltv_id="ČT :D">ČT :D</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="355||f92320a5b4604bdc832b23f055933046" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="108||7419cc50113d014caae9363fcc3cc067" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="66||9deac106d859eca97e7d7816302dd5c0" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="206||355e24aea9fbc0e5c4fc7d5dfb882194" xmltv_id="Retro">Retro</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="20||d2dd7c5975b51cb388666c3758fb7159" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="19||53dc07653d530076f167ea95490e5bca" xmltv_id="ÓČKO">ÓČKO</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="365||5e0df0df1e7e319815dc87f47a8dcbfa" xmltv_id="Rebel">Rebel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="371||d3e92d9b489c94da42fc211d902fba93" xmltv_id="ÓČKO EXPRES">ÓČKO EXPRES</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="110||b323f2ad3200cb938b43bed58dd8fbf9" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="352||460ca6f9fc6e5e67e423f483ca1efa28" xmltv_id="ÓČKO STAR">ÓČKO STAR</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="383||3908ce66327022c16ae2a9073b585c43" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="72||0bd717f5b87b04bc1e39b886a492567d" xmltv_id="Hustler">Hustler</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="127||f71b0fb59b7e005fd9e060eea105750e" xmltv_id="LEO TV">LEO TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="328||dee396776bc113f556347793d23e8731" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="74||79ac117d490302b81ab08c8c3a682a64" xmltv_id="Private TV">Private TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="146||1388992aba6750aeeb12fa042586de82" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="300||3826a98d95f23374ac25adfb13bdc4f6" xmltv_id="Erox HD">Erox HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="138||3168d1ca7f445d6b89a77d5329305a3e" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="217||950a54b3a65a25c8d9f003083a74045f" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="97||bbb84b4d1ca953f3c377978a766bc0f4" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="141||c8c33a855a6ae66832b9ba6429a6efd2" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="122||ff6e1b5bec09ceb85b9b9342b58b0588" xmltv_id="France 24 (FR)">France 24 (FR)</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="284||4907f451ddc509622b32067835e9cdd6" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="117||7505128184d9d8a64f3bbef90d3d9947" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="41||477dcc38e54309f5db7aec56b62b4cdf" xmltv_id="ORF2">ORF2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="344||417142095fa934ab9c9f02e2bf7d5a9a" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="12||d25a71d1efc626184305c8d9fbfc5b68" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="317||782fd3bb0aaf3867bc18c399fe28f1d7" xmltv_id="DocuBox">DocuBox</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="757||2ac5f861a1f776dd20bff205cd073393" xmltv_id="CS Mystery">CS Mystery</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="119||7bfaa5386645ef6c8fbddd94d47f12d9" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="816||90a8dc111210aa78cc7a0e31f01c96f7" xmltv_id="Film Europe + HD">Film Europe + HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="73||ffd005bf07fcb0e034d255c1ea53d407" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="398||844f6dc14d61dd5965f197c6020b5fcb" xmltv_id="Jojko">Jojko</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="624||991b80efeb8cec05d61213d8d1820eef" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="233||661af53f8f3b997611c29f844c7006fd" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="364||6e2d5618d8cabcdc95105f08e8bb46e2" xmltv_id="Senzi">Senzi</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="131||27e7dbe166967d96e2a6435897f75f29" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="159||1f8effe964d4a3046cfeff9ef2946195" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="103" xmltv_id="Playboy">Playboy</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="276||4425e4caeaf9607e60681d9ff33952c4" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="396||133f1365aef6283aa5e367fb2288846e" xmltv_id="France 24 (EN)">France 24 (EN)</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="152||9046d3cea04d647952ba3265738ed6d8" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="393||dad48d516fbdb30321564701cc3faa04" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="47||fd20572bc1e36aa10cb9c333f2cef002" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="288||dbb39c059ce76bc028e3c1ff3ef6d860" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="40||422162d3082a84fc97a7fb9b3ad6823f" xmltv_id="ORF1">ORF1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="475||cbc6e86958703869b7b086ddba1da30d" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="21||f0578ba97cddee9b0580d06620967602" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="214||25bd26f8922442392251d4f9a9ff54e1" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="11||80827a7225497dfb53f37650fd8b4840" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="125||7d71be02a17f95f286b3feaa9bac2f7b" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="808||d91a50abe9e154fad4be716760a11e51" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="102||c7de2df3c8b3e40cc59af7f696341cec" xmltv_id="Fishing &amp; Hunting">Fishing &amp; Hunting</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="568||618f6448461bb9567fe7fe8e51e01ab7" xmltv_id="Mňau TV">Mňau TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="271||90ff2af980995a625afa54398f16e93b" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="759||7a38a2357ec572283831961a47f46e92" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="728||29814e891919655c74f472bd00501ea0" xmltv_id="LALA TV">LALA TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="158||0be43cccc1f96e3923354014116d07aa" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="67||f38d12b7f31bca39abb7db4587a78647" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="727||837622a6d6ce69dd8c568888aaaaae60" xmltv_id="Óčko Black HD">Óčko Black HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="377||afa748221b5ca190f07ccd80165aa3c6" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="533||f710f096d8a1ccb88bedbf3d8f6c0c9c" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="761||5ef2c19dd1070d963592331a1ff4c6aa" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="243||f5451b5b1cf547bc51dc5abaa121ce83" xmltv_id="Duna (SK)">Duna (SK)</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="307||e9b2e0342bdab9bc31d63b5f3becc49b" xmltv_id="M1">M1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="50||418e0d04529ea3aaa2bc2c925ddf5982" xmltv_id="RTL2">RTL2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="46||58d350c6065d9355a52c6dbc3b31b185" xmltv_id="3SAT">3SAT</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="354||1a7d3d27a2237b56d0bfe0a0cffec86b" xmltv_id="KiKA">KiKA</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="42||e9240338c5bf1bfe2f43a041dd0cff37" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="356||6d23a34e1b778ffab0f43df9b5867812" xmltv_id="M2">M2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="755||56c3885c06f7afa10cdbdde74bd2cacc" xmltv_id="CS History">CS History</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="10||46a3495ba191cc4e08a7451b8d5ca5dd" xmltv_id="Spektrum">Spektrum</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="15||0378bc778d9119b7b71e54b4f26b00f8" xmltv_id="CS Film">CS Film</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="121||094c1197addd33a645d3d81668bc6fe9" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="394||181ab2ae0a67e37a124ffc6e7c285693" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="756||6253fdaa2cac2512b4d1c999257f8479" xmltv_id="CS Horror">CS Horror</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="32||a9796d9f8fb016a7c5a8e03b993b0cb9" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="376||8eda5979c1e6a9d668a2c137810ad681" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="109||c41009da991fa34dd6a3838f023a95db" xmltv_id="Ducktv">Ducktv</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="622||5f4ddcb70e7b7be962748d13ce162561" xmltv_id="Nick Jr. Czech">Nick Jr. Czech</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="841||d68a50deaed130de7bd33ad0f189589a" xmltv_id="Šlágr Premium">Šlágr Premium</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="892||4499ebafb26a915859febcb4306703ca" xmltv_id="Vixen">Vixen</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="39||f54e290782e8352303cfe43ce949d339" xmltv_id="Polsat">Polsat</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="37||770431539d1fa662f705c1c05a0dd943" xmltv_id="TVP 1">TVP 1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="38||e2ce4065f27ce199f7613f38878cef72" xmltv_id="TVP 2">TVP 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="303||75ea163a957eb26ec06f85471849522d" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="61||5fb0f492ec2d16b633ea3c65d6c03f83" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="453||f2464856c0987f1260ba96bd10155b84" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="404||968f7dcf315da21c8d46c68cee0be070" xmltv_id="Fast&amp;FunBox HD">Fast&amp;FunBox HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="30||85da52bf2e7e3f8d31f74ef14b0cb82a" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="29||61d1d85856fbd7bdc0dc8b1090a50ae6" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="368||09b0e4393039647e27a1f7749ef9edc8" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="63||6405d5794dcd14a21741af44a947b6d1" xmltv_id="Film+">Film+</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="272||bd9b2369268541fb93d4e66fcfa96549" xmltv_id="Film Europe">Film Europe</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="323||43b7d9719218e79c4331ce1e488260a5" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="162||e3fc1a91d6c5ed7c80958c4ab7d13fde" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="137||2360c2f7051e121028f85bb63bf5410e" xmltv_id="RT">RT</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="2||930021742680a86aabfe6100a6899d2b" xmltv_id="ČT2">ČT2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="723||ac6c69625699eaecc9b39f7ea4d69b8c" xmltv_id="Skylink 7">Skylink 7</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="3||60712218b2910fb81fc217d672f602af" xmltv_id="Nova">Nova</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="358||2321936145b564cadab76b11be414b15" xmltv_id="ČT art">ČT art</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="180||790271bf84f7851efcdc0a12076fd4f7" xmltv_id="Dvojka">Dvojka</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="459||2c14c2cb14a6ab09ecc930c06de52c2f" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="184||1afc210ac052b9273f87bf5fdaf516c9" xmltv_id="PLUS">PLUS</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="268||823c4e23f7e767c43d69a8d431fa12f7" xmltv_id="TV 8">TV 8</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="532||26b6f679c3959e07eae32c09a361e644" xmltv_id="JOJ Family">JOJ Family</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="423||ddd8469fe80299db01ec4f90ee4911c5" xmltv_id="Mňam TV">Mňam TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="471||2bc6e6eb5ae6dfa71b0d0ff63501466d" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="77||f7a1a62bb85220c1543d18237187af81" xmltv_id="JimJam">JimJam</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="106||82d61cd2f24941449ccea01018a9c26d" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="89||b248cb57e2fb343e1effe7bc682aa6bd" xmltv_id="TV Barrandov">TV Barrandov</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="818||a1c9d2c600a34f92762af5e08003c2c1" xmltv_id="CNN Prima News">CNN Prima News</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="558||25ebf360f8f0468e1718867e521bfdfe" xmltv_id="Nova Action">Nova Action</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="560||c1a9cba821271db0677a95b4e971e9dc" xmltv_id="Nova Fun">Nova Fun</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="559||c2d8401ab82b123bd0a64e5f551e9a5f" xmltv_id="Nova Gold">Nova Gold</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="474||84812352443b158ef7588f9e79c48e41" xmltv_id="Prima MAX">Prima MAX</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="92||856df71312a0fbdd13d7a3d897939eae" xmltv_id="Prima COOL">Prima COOL</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="226||afdd434566239dfa7b1c905f5a2c13d1" xmltv_id="Prima Love">Prima Love</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="475||cbc6e86958703869b7b086ddba1da30d" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="608||f5f408ddd53640116492b80c837ae5b1" xmltv_id="Prim KRIMI">Prim KRIMI</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="455||2997ac41a7346f4a000a80ed21c9ebe1" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="494||3d4a0d28e35d9a621709eafed2607692" xmltv_id="Nova International">Nova International</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="185||62c2a4ee85ca43296f502887aa2249ee" xmltv_id="JOJ">JOJ</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="606||facfd0bf62f131886ae61469dcd729eb" xmltv_id="Televize Seznam">Televize Seznam</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="75||2cdfb1e25a1c38ac5a07b1fb42125f15" xmltv_id="TV Noe">TV Noe</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="24||8c4acbba033b894bf86f38727e4842c3" xmltv_id="ČT24">ČT24</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="1016||97c4094b535828580db20c8d7166bd80" xmltv_id="RTVS 24">RTVS 24</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="192||b6cd5e1b46e3289109677f63c813c4bd" xmltv_id="TA3">TA3</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="495||1e5edc666f6748d00ece0e8c8fd92d8b" xmltv_id="Markíza International">Markíza International</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="1040||ab73879fdf9b10e1deb0224bfbb3cfd8" xmltv_id="CANAL+ Sport">CANAL+ Sport</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="18||731498bd1afcd17e53643dd75a9a10ea" xmltv_id="ČT sport">ČT sport</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="17||11dac2d7fe5514e362318f0f212a840c" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
     <channel site="[ENC]mujtvprogram.cz_0" site_id="466||52b4f4f976af662468915020f177bc6d" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="333||b6e1910c8b4528b6ce4a552add1ea837" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="78||171d42bbb605364a78987918bdcd06b3" xmltv_id="Nova Cinema">Nova Cinema</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="454||cf272e1353caa1c5b2a218139c203d2d" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="6||978d92c9ea2b035e3d55b592106c4bab" xmltv_id="HBO2">HBO2</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="7||3cec25ae0771314599f5318ff16610bb" xmltv_id="Cinemax">Cinemax</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="5||256d42b0fbf7431d5c080332fd09f963" xmltv_id="HBO">HBO</channel>
-    <channel site="[ENC]mujtvprogram.cz_0" site_id="357||49deb09a8187efe4affc74274017f77b" xmltv_id="ČT :D">ČT :D</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="904" xmltv_id="Nova Sport 3">Nova Sport 3</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="905" xmltv_id="Nova Sport 4">Nova Sport 4</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="16||566e52b95baae881c30bdb6a78f3d669" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="25||9028cafedb8845db469da758c7813987" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="93||d0f82af73dc56eada0688322c7a53f35" xmltv_id="Sport 2">Sport 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="528" xmltv_id="Premier Sport">Premier Sport</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="902" xmltv_id="Premier Sport 2">Premier Sport 2</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="85||77145a11db98d58216052dd47f12a8bd" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="301||1b22577d975f70df2b9b9c8c28584789" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="897||105dd0f9660f7921d17dff31eed161bf" xmltv_id="Prima STAR">Prima STAR</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="923||842a86fcc3e208def1111a707f7859ad" xmltv_id="Prima Show">Prima Show</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="296||a525a102fb950e7f64e3b72572728135" xmltv_id="Náš region TV">Náš region TV</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="1049||78100f2725f85fc35a1de7bc88b6ce14" xmltv_id="Canal+ Action">Canal+ Action</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="369||dcce8445e7c707239857e2fb3213ea52" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="370||e4f5ce21e5c4ac42ff8a3c1d99ead13b" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="31||1804d66c2d3b101b4bc5d70e93a837c2" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="234||99c87946872c81f46190c77af7cd1d89" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="232||50afa67f9cc8ba3fb582be8c144ad602" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="361||413ace70c79033b503e862328bc481f3" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="49||7cb9005e66956c56fd0671ee79ee2471" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="1050||bdeec8f81739ad1c7fc8f633d4ad6b0d" xmltv_id="Story 4">Story 4</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="326||9859d11592ac520dd0f738a8a3c0f662" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]mujtvprogram.cz_0" site_id="23||4ae5879279815ab1b81c8ea438df9c08" xmltv_id="CNN">CNN</channel>
   </channels>
 </site>
