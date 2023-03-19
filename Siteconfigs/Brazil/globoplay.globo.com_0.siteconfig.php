@@ -32,7 +32,7 @@ return array (
   'desc' => '"description":"(.*?)","',
   'category' => '"(live)Broadcast":true',
   'channel_logo' => '"channel":{.*?"logo":"(.*?)"',
-  'rating' => '"contentRating":"(?!0)(\\d+)|#|[| | |]"contentRatingCriteria":\\["(.*?)"\\}||#replace#(",")##(^\\s*\\|\\s*)##^(\\d+)|| / ####A\\1',
+  'rating' => '"contentRating":"(?!0)(\\d+)|#|[| | |]"contentRatingCriteria":\\["(.*?)"\\]||#replace#(",")##(^\\s*\\|\\s*)##^(\\d+)|| / ####A\\1',
   'ccurl1' => 'https://cocoon.globo.com/v2/user/logged',
   'ccrequestOption1' => '2',
   'ccaccept_header1' => '*/*',
