@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]nettvplus.com_0">
+  <channels>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3210" xmltv_id="NetTV Plus Info Kanal">NetTV Plus Info Kanal</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3203" xmltv_id="N1 HD SRB">N1 HD SRB</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3216" xmltv_id="Nova S HD">Nova S HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6974" xmltv_id="RTS 1">RTS 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3268" xmltv_id="Pink HD">Pink HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3304" xmltv_id="Prva Srpska TV HD">Prva Srpska TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6979" xmltv_id="Nova Max">Nova Max</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3231" xmltv_id="B92">B92</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6818" xmltv_id="Shoppster TV">Shoppster TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3459" xmltv_id="Vavoom">Vavoom</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3111" xmltv_id="Cinemania HD">Cinemania HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3146" xmltv_id="Grand TV">Grand TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3161" xmltv_id="IDJ TV HD">IDJ TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6976" xmltv_id="Grand Nostalgija">Grand Nostalgija</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3103" xmltv_id="Brainz TV HD">Brainz TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3303" xmltv_id="Prva Plus">Prva Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6978" xmltv_id="Nova Series">Nova Series</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3148" xmltv_id="Happy TV">Happy TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6980" xmltv_id="Insta TV">Insta TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3241" xmltv_id="RED TV">RED TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6973" xmltv_id="RTS 2">RTS 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6972" xmltv_id="RTS 3">RTS 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="7032" xmltv_id="RTS Svet">RTS Svet</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6958" xmltv_id="Insajder TV">Insajder TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3242" xmltv_id="Vesti">Vesti</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3340" xmltv_id="RT Vojvodina 1">RT Vojvodina 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3341" xmltv_id="RT Vojvodina 2">RT Vojvodina 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3181" xmltv_id="KCN 1">KCN 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3397" xmltv_id="Studio B">Studio B</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6787" xmltv_id="Zadruga 1">Zadruga 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6788" xmltv_id="Zadruga 2">Zadruga 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6789" xmltv_id="Zadruga 3">Zadruga 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6790" xmltv_id="Zadruga 4">Zadruga 4</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3280" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3294" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3282" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3264" xmltv_id="Pink HA HA">Pink HA HA</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3272" xmltv_id="Pink LOL">Pink LOL</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3305" xmltv_id="Prva World">Prva World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3302" xmltv_id="Prva Kick">Prva Kick</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3281" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3261" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3275" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3243" xmltv_id="Pink Action">Pink Action</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3291" xmltv_id="Pink Western">Pink Western</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3290" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3248" xmltv_id="Pink Crime&amp;Mystery">Pink Crime&amp;Mystery</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3247" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3284" xmltv_id="Pink Sci-Fi&amp;Fantasy">Pink Sci-Fi&amp;Fantasy</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3283" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3246" xmltv_id="Pink Classic">Pink Classic</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3267" xmltv_id="Pink Horror">Pink Horror</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3292" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3258" xmltv_id="Pink Family">Pink Family</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3285" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3287" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3240" xmltv_id="Pikaboo">Pikaboo</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6839" xmltv_id="IDJ Kids">IDJ Kids</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6782" xmltv_id="Test Ch2">Test Ch2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6783" xmltv_id="Test ch67">Test ch67</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3269" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3289" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6946" xmltv_id="Duck TV">Duck TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3460" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3462" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3463" xmltv_id="ViasatNature HD">ViasatNature HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6792" xmltv_id="Nova Sport SRB">Nova Sport SRB</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3369" xmltv_id="SportKlub 1 HD">SportKlub 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3371" xmltv_id="SportKlub 2 HD">SportKlub 2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3373" xmltv_id="SportKlub 3 HD">SportKlub 3 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3376" xmltv_id="SportKlub 4 HD">SportKlub 4 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3377" xmltv_id="SportKlub 5 HD">SportKlub 5 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3378" xmltv_id="SportKlub 6">SportKlub 6</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3379" xmltv_id="SportKlub 7">SportKlub 7</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3380" xmltv_id="SportKlub 8">SportKlub 8</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3381" xmltv_id="SportKlub 9">SportKlub 9</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3368" xmltv_id="SportKlub 10">SportKlub 10</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3386" xmltv_id="SportKlub HD">SportKlub HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3387" xmltv_id="SK World">SK World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6901" xmltv_id="Diema Sport">Diema Sport</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6907" xmltv_id="Diema Sport 2">Diema Sport 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6930" xmltv_id="Diema Sport 3">Diema Sport 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6903" xmltv_id="Nova Sport BG">Nova Sport BG</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3385" xmltv_id="SK Golf HD">SK Golf HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3135" xmltv_id="SK Fight">SK Fight</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3260" xmltv_id="Pink Fight">Pink Fight</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3384" xmltv_id="SK Esports HD">SK Esports HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6892" xmltv_id="RING">RING</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3389" xmltv_id="Šport TV 1 HD">Šport TV 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3391" xmltv_id="Šport TV 2 HD">Šport TV 2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3188" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3122" xmltv_id="DM Sat">DM Sat</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3145" xmltv_id="Grand TV 2">Grand TV 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3263" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3277" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3178" xmltv_id="KCN 2">KCN 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3177" xmltv_id="KCN 3">KCN 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3125" xmltv_id="TV Duga">TV Duga</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3245" xmltv_id="Pink Bravo Music">Pink Bravo Music</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3276" xmltv_id="Pink Music 2">Pink Music 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3265" xmltv_id="Pink Hits 1">Pink Hits 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3266" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3226" xmltv_id="NTM Pop">NTM Pop</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3227" xmltv_id="NTM Rock">NTM Rock</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3224" xmltv_id="NTM Folk">NTM Folk</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3225" xmltv_id="NTM Melos">NTM Melos</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3223" xmltv_id="NTM Energies">NTM Energies</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3262" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3270" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3090" xmltv_id="Aurora TV">Aurora TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6820" xmltv_id="Televizija Srpske Dijaspore">Televizija Srpske Dijaspore</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3087" xmltv_id="Amari TV">Amari TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3232" xmltv_id="Okto TV">Okto TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3440" xmltv_id="TV Istok">TV Istok</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3439" xmltv_id="TV Istok 2">TV Istok 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3278" xmltv_id="City Play">City Play</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3244" xmltv_id="Pink &amp; Roll">Pink &amp; Roll</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3472" xmltv_id="YU Planet">YU Planet</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6850" xmltv_id="PTV Vienna">PTV Vienna</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6779" xmltv_id="Top Sound">Top Sound</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3092" xmltv_id="Balkanika">Balkanika</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3197" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6844" xmltv_id="Super SAT TV">Super SAT TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6851" xmltv_id="B1 TV">B1 TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3316" xmltv_id="TV RAS">TV RAS</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3366" xmltv_id="SOS Plus">SOS Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3095" xmltv_id="Belle Amie">Belle Amie</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3207" xmltv_id="Naša TV">Naša TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3483" xmltv_id="TV Hram HD">TV Hram HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3237" xmltv_id="Palma Plus">Palma Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3220" xmltv_id="RTV Novi Pazar">RTV Novi Pazar</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3351" xmltv_id="Sandžak TV">Sandžak TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6962" xmltv_id="POWER TV">POWER TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3435" xmltv_id="TV Bor">TV Bor</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3353" xmltv_id="SatTV">SatTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3257" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3286" xmltv_id="Pink Show">Pink Show</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3271" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3335" xmltv_id="RTV City Ub">RTV City Ub</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3182" xmltv_id="KTV">KTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3443" xmltv_id="TV Kladovo">TV Kladovo</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3413" xmltv_id="TeslaVision">TeslaVision</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3259" xmltv_id="Pink Fashion">Pink Fashion</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3288" xmltv_id="Pink Style">Pink Style</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3279" xmltv_id="Pink Pedia">Pink Pedia</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3293" xmltv_id="Pink World">Pink World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3127" xmltv_id="EDU TV">EDU TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3450" xmltv_id="TV Rubin">TV Rubin</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3339" xmltv_id="RTV Mlava">RTV Mlava</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3444" xmltv_id="TV Leskovac">TV Leskovac</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3455" xmltv_id="TV Vlasotince">TV Vlasotince</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3434" xmltv_id="TV AS">TV AS</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3468" xmltv_id="TV V5">TV V5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3175" xmltv_id="Kanal M">Kanal M</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3449" xmltv_id="TV Puls">TV Puls</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3438" xmltv_id="TV IKS">TV IKS</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3454" xmltv_id="TV Subotica">TV Subotica</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3180" xmltv_id="Lav Plus">Lav Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3471" xmltv_id="Yu Eco RTV">Yu Eco RTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6909" xmltv_id="Kristal TV">Kristal TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3215" xmltv_id="Nova M HD">Nova M HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6945" xmltv_id="TV Vijesti">TV Vijesti</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3274" xmltv_id="Pink Media CG">Pink Media CG</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3360" xmltv_id="SK CG HD">SK CG HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6944" xmltv_id="Gradska radio televizija">Gradska radio televizija</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3097" xmltv_id="BHT1">BHT1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3214" xmltv_id="Nova BH HD">Nova BH HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3100" xmltv_id="BN TV">BN TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3150" xmltv_id="Hayat HD">Hayat HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3201" xmltv_id="N1 HD BiH">N1 HD BiH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3134" xmltv_id="Federalna TV">Federalna TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3104" xmltv_id="Bujrum TV">Bujrum TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3338" xmltv_id="HIT Televizija Brčko">HIT Televizija Brčko</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3132" xmltv_id="Face TV HD">Face TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="7033" xmltv_id="BN 2 TV">BN 2 TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3099" xmltv_id="BN Music">BN Music</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3273" xmltv_id="Pink Media BH">Pink Media BH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3084" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3149" xmltv_id="Hayat Folk">Hayat Folk</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3151" xmltv_id="Hayat Music">Hayat Music</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3153" xmltv_id="Hayat Plus">Hayat Plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3152" xmltv_id="Hayatovci">Hayatovci</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3417" xmltv_id="TNT Kids">TNT Kids</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3451" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3154" xmltv_id="Hema TV">Hema TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3345" xmltv_id="RTV TK">RTV TK</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3230" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6793" xmltv_id="Nova Sport BIH">Nova Sport BIH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3382" xmltv_id="Sport Klub BIH">Sport Klub BIH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3347" xmltv_id="RTV Zenica">RTV Zenica</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3448" xmltv_id="RTV IS">RTV IS</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3337" xmltv_id="RTV HB">RTV HB</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3456" xmltv_id="RTV Vogošća">RTV Vogošća</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3083" xmltv_id="Alfa TV">Alfa TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3357" xmltv_id="Sevdah TV">Sevdah TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3236" xmltv_id="OTV Valentino">OTV Valentino</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3447" xmltv_id="HTV Oscar C">HTV Oscar C</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3479" xmltv_id="TV Glas Drine">TV Glas Drine</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3166" xmltv_id="Izvorna TV">Izvorna TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3355" xmltv_id="TV Sehara">TV Sehara</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3130" xmltv_id="EuroPlus TV">EuroPlus TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3173" xmltv_id="Kanal 6">Kanal 6</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3430" xmltv_id="Televizija 5 BIH">Televizija 5 BIH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3344" xmltv_id="RTV Slon">RTV Slon</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3452" xmltv_id="TV Simić">TV Simić</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3298" xmltv_id="Posavina TV">Posavina TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3480" xmltv_id="Naša TV BIH">Naša TV BIH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3190" xmltv_id="MiM">MiM</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3191" xmltv_id="Super Media TV">Super Media TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3112" xmltv_id="CITY TV">CITY TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3202" xmltv_id="N1 HD HR">N1 HD HR</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3156" xmltv_id="HRT 1">HRT 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3157" xmltv_id="HRT 2">HRT 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3217" xmltv_id="Nova HR">Nova HR</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3123" xmltv_id="Doma TV">Doma TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3326" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3325" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3158" xmltv_id="HRT 3">HRT 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3159" xmltv_id="HRT 4">HRT 4</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6786" xmltv_id="Laudato TV">Laudato TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3218" xmltv_id="Nova World">Nova World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3329" xmltv_id="RTL World">RTL World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3160" xmltv_id="HRT Int.">HRT Int.</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3458" xmltv_id="Vavoom HR">Vavoom HR</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3238" xmltv_id="Pikaboo HR">Pikaboo HR</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3327" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6967" xmltv_id="IDJ KIDS HR">IDJ KIDS HR</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3383" xmltv_id="Sport Klub HR HD">Sport Klub HR HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3155" xmltv_id="HNTV">HNTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3113" xmltv_id="CMC">CMC</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3169" xmltv_id="Jugoton">Jugoton</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3473" xmltv_id="Z1">Z1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3475" xmltv_id="Zdrava TV">Zdrava TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3193" xmltv_id="MrežaTV Zagreb">MrežaTV Zagreb</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3167" xmltv_id="OTV">OTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3176" xmltv_id="KanalRI">KanalRI</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3235" xmltv_id="Osječka TV">Osječka TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3442" xmltv_id="TV Jadran">TV Jadran</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3364" xmltv_id="Slavonska TV">Slavonska TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3457" xmltv_id="Varaždinska TV">Varaždinska TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3465" xmltv_id="Vinkovačka TV">Vinkovačka TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3334" xmltv_id="RTV Banovina">RTV Banovina</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3192" xmltv_id="TV Dalmacija">TV Dalmacija</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6810" xmltv_id="CroTV">CroTV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6938" xmltv_id="Diadora TV">Diadora TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6939" xmltv_id="TV Nova Pula">TV Nova Pula</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6941" xmltv_id="Dubrovačka TV">Dubrovačka TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6942" xmltv_id="Libertas TV">Libertas TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3194" xmltv_id="MRT 1">MRT 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3195" xmltv_id="MRT 2">MRT 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3196" xmltv_id="MRT">MRT</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3453" xmltv_id="TV Sitel">TV Sitel</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3172" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3071" xmltv_id="24 Vesti">24 Vesti</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6960" xmltv_id="NAŠA TV MK">NAŠA TV MK</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3358" xmltv_id="Shutel TV">Shutel TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3362" xmltv_id="Sky Folk HD">Sky Folk HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3162" xmltv_id="IN TV">IN TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3433" xmltv_id="TV Alfa">TV Alfa</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3412" xmltv_id="Telma TV">Telma TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3093" xmltv_id="Balkan Music HD">Balkan Music HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3365" xmltv_id="TV Sonce">TV Sonce</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3342" xmltv_id="RTV SLO1">RTV SLO1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3343" xmltv_id="RTV SLO2">RTV SLO2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3297" xmltv_id="POP TV">POP TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3429" xmltv_id="TV3 Medias">TV3 Medias</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3295" xmltv_id="Planet TV HD">Planet TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3436" xmltv_id="TV Čarli">TV Čarli</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3144" xmltv_id="Golica TV">Golica TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3174" xmltv_id="Kanal A">Kanal A</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3446" xmltv_id="TV Maribor">TV Maribor</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3388" xmltv_id="Sport Klub 1 SLO HD">Sport Klub 1 SLO HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3211" xmltv_id="NET TV">NET TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3239" xmltv_id="Pikaboo SLO">Pikaboo SLO</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3256" xmltv_id="Pink Erotic">Pink Erotic</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3249" xmltv_id="Pink Erotic 2">Pink Erotic 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3250" xmltv_id="Pink Erotic 3">Pink Erotic 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3251" xmltv_id="Pink Erotic 4">Pink Erotic 4</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3252" xmltv_id="Pink Erotic 5">Pink Erotic 5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3253" xmltv_id="Pink Erotic 6">Pink Erotic 6</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3254" xmltv_id="Pink Erotic 7">Pink Erotic 7</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3255" xmltv_id="Pink Erotic 8">Pink Erotic 8</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3299" xmltv_id="Private TV">Private TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3126" xmltv_id="Dusk!">Dusk!</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3124" xmltv_id="Dreamporn HD">Dreamporn HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3394" xmltv_id="SRF 1 HD">SRF 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3395" xmltv_id="SRF zwei HD">SRF zwei HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3072" xmltv_id="3 Plus HD">3 Plus HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3075" xmltv_id="4 Plus HD">4 Plus HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3076" xmltv_id="5 Plus HD">5 Plus HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3396" xmltv_id="SRF info HD">SRF info HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3088" xmltv_id="ARD HD">ARD HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3474" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3233" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3234" xmltv_id="ORF 2 HD">ORF 2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3476" xmltv_id="RTL CH">RTL CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3300" xmltv_id="PRO7">PRO7</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3352" xmltv_id="SAT1">SAT1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3467" xmltv_id="VOX CH">VOX CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3477" xmltv_id="RTL 2 CH">RTL 2 CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3171" xmltv_id="Kabel1">Kabel1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3427" xmltv_id="TV24 HD">TV24 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3428" xmltv_id="TV25 HD">TV25 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3306" xmltv_id="Puls 8 HD">Puls 8 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3089" xmltv_id="Arte Deutsch HD">Arte Deutsch HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3073" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3350" xmltv_id="S1 HD">S1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3411" xmltv_id="Tele Zuri">Tele Zuri</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3402" xmltv_id="Tele Barn">Tele Barn</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3405" xmltv_id="Tele M1">Tele M1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3400" xmltv_id="Tele 1">Tele 1</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3403" xmltv_id="Telebasel">Telebasel</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3406" xmltv_id="TVO">TVO</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3409" xmltv_id="Tele Top">Tele Top</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3407" xmltv_id="TV Sudostschweiz">TV Sudostschweiz</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3401" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3328" xmltv_id="RTL Nitro CH">RTL Nitro CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3301" xmltv_id="Pro7 Maxx CH">Pro7 Maxx CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3359" xmltv_id="Sixx CH">Sixx CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3399" xmltv_id="SWR HD">SWR HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3470" xmltv_id="WDR HD">WDR HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3209" xmltv_id="NDR HD">NDR HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3206" xmltv_id="Welt">Welt</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3229" xmltv_id="n-tv CH">n-tv CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3128" xmltv_id="Euronews DE">Euronews DE</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3117" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3131" xmltv_id="Eurosport 1 D">Eurosport 1 D</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3367" xmltv_id="Sport 1 DE">Sport 1 DE</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3398" xmltv_id="Super RTL CH">Super RTL CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3212" xmltv_id="Nick/Comedy">Nick/Comedy</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3213" xmltv_id="Nickelodeon HD CH">Nickelodeon HD CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3179" xmltv_id="KiKa HD">KiKa HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3118" xmltv_id="Disney Channel D">Disney Channel D</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3198" xmltv_id="MTV HD CH">MTV HD CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3466" xmltv_id="Comedy Central Schweiz">Comedy Central Schweiz</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3116" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3120" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3418" xmltv_id="Toggo plus">Toggo plus</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3356" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3415" xmltv_id="TLC Deutschland">TLC Deutschland</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3410" xmltv_id="Tele Zentralschweiz HD">Tele Zentralschweiz HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3333" xmltv_id="RTS un HD">RTS un HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3332" xmltv_id="RTS deux HD">RTS deux HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3414" xmltv_id="TF1 CH HD">TF1 CH HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3189" xmltv_id="M6 CH HD">M6 CH HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3138" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3139" xmltv_id="France 3">France 3</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3416" xmltv_id="TMC CH">TMC CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3221" xmltv_id="NRJ12 HD">NRJ12 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3222" xmltv_id="NT1 CH">NT1 CH</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3105" xmltv_id="C8 HD">C8 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3469" xmltv_id="W9">W9</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3187" xmltv_id="Leman Bleu TV">Leman Bleu TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3186" xmltv_id="La Tele">La Tele</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3106" xmltv_id="Canal 9">Canal 9</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3107" xmltv_id="Canal Alpha NE">Canal Alpha NE</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3147" xmltv_id="Gulli HD">Gulli HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3137" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3431" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3432" xmltv_id="TV8 Mont Blanc">TV8 Mont Blanc</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3404" xmltv_id="Tele Bielingue">Tele Bielingue</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3319" xmltv_id="Rouge TV HD">Rouge TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3445" xmltv_id="TVM3 RSI">TVM3 RSI</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3140" xmltv_id="France 4">France 4</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3141" xmltv_id="France 5">France 5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3096" xmltv_id="BFM TV HD">BFM TV HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3082" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3115" xmltv_id="Cstar HD">Cstar HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3320" xmltv_id="RSI La1 HD">RSI La1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3321" xmltv_id="RSI La2 HD">RSI La2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3307" xmltv_id="Rai 1 HD">Rai 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3308" xmltv_id="Rai 2 HD">Rai 2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3309" xmltv_id="Rai 3 HD">Rai 3 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3108" xmltv_id="Canale 5 HD">Canale 5 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3164" xmltv_id="Italia 1 HD">Italia 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3317" xmltv_id="Rete 4 HD">Rete 4 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3121" xmltv_id="DMAX Italia">DMAX Italia</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3310" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3314" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3312" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3165" xmltv_id="Italia 2">Italia 2</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3110" xmltv_id="Cielo">Cielo</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3184" xmltv_id="La 7">La 7</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3408" xmltv_id="Tele Ticino">Tele Ticino</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3313" xmltv_id="Rai Sport">Rai Sport</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6936" xmltv_id="Smile TV">Smile TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3102" xmltv_id="Boing">Boing</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3163" xmltv_id="IRIS">IRIS</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3183" xmltv_id="La5">La5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3185" xmltv_id="La 7d">La 7d</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3219" xmltv_id="Nove">Nove</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3315" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3109" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3311" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3419" xmltv_id="Top Crime">Top Crime</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3324" xmltv_id="RTL 102.5">RTL 102.5</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3136" xmltv_id="Focus TV">Focus TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3114" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3094" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3085" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3363" xmltv_id="SKY News">SKY News</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3437" xmltv_id="RTV Espana">RTV Espana</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3129" xmltv_id="EuroNews">EuroNews</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3199" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3461" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3074" xmltv_id="4fun TV">4fun TV</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3330" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3318" xmltv_id="Rossia 24">Rossia 24</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3349" xmltv_id="Russia Today">Russia Today</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3348" xmltv_id="RT Documentary">RT Documentary</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6963" xmltv_id="FREEDOM">FREEDOM</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6964" xmltv_id="1+1 Ukaraina">1+1 Ukaraina</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3354" xmltv_id="Saudi Quran">Saudi Quran</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3422" xmltv_id="TRT Avaz">TRT Avaz</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3421" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="3423" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6931" xmltv_id="Nova Sports Prime">Nova Sports Prime</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6932" xmltv_id="Nova Sports 1 HD">Nova Sports 1 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6840" xmltv_id="Nova Sports 2 HD">Nova Sports 2 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6836" xmltv_id="Nova Sports 3 HD">Nova Sports 3 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6841" xmltv_id="Nova Sports 4 HD">Nova Sports 4 HD</channel>
+    <channel site="[ENC][EX]nettvplus.com_0" site_id="6957" xmltv_id="NovaSport Start">NovaSport Start</channel>
+  </channels>
+</site>
