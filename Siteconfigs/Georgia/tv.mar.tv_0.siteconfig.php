@@ -6,7 +6,7 @@ return array (
   'creator_name' => 'Kivanc',
   'creation_date' => '2023-03-22',
   'rev_no' => 'R0',
-  'timezone' => 'Asia/Tbilisi',
+  'timezone' => '##usertime##',
   'culture' => 'ka',
   'max_day' => '5.1',
   'pastdayremover' => 'on',
