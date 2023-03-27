@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="rts.rs_0">
+  <channels>
+    <channel site="rts.rs_0" site_id="tv/rts1" xmltv_id="РТС 1">РТС 1</channel>
+    <channel site="rts.rs_0" site_id="tv/rts2" xmltv_id="РТС 2">РТС 2</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-digital" xmltv_id="РТС 3">РТС 3</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-sat" xmltv_id="РТС Свет">РТС Свет</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-nauka" xmltv_id="РТС Наука">РТС Наука</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-drama" xmltv_id="РТС Драма">РТС Драма</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-zivot" xmltv_id="РТС Живот">РТС Живот</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-klasika" xmltv_id="РТС Класика">РТС Класика</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-kolo" xmltv_id="РТС Коло">РТС Коло</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-trezor" xmltv_id="РТС Трезор">РТС Трезор</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-muzika" xmltv_id="РТС Музика">РТС Музика</channel>
+    <channel site="rts.rs_0" site_id="tv/rts-poletarac" xmltv_id="РТС Полетарац">РТС Полетарац</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-beograd-1" xmltv_id="Радио Београд 1">Радио Београд 1</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-beograd-2" xmltv_id="Радио Београд 2">Радио Београд 2</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-beograd-3" xmltv_id="Радио Београд 3">Радио Београд 3</channel>
+    <channel site="rts.rs_0" site_id="radio/beograd-202" xmltv_id="Београд 202">Београд 202</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-pletenica" xmltv_id="Радио Плетеница">Радио Плетеница</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-rokenroler" xmltv_id="Радио Рокенролер">Радио Рокенролер</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-dzuboks" xmltv_id="Радио Џубокс">Радио Џубокс</channel>
+    <channel site="rts.rs_0" site_id="radio/radio-vrteska" xmltv_id="Радио Вртешка">Радио Вртешка</channel>
+    <channel site="rts.rs_0" site_id="radio/arhiv" xmltv_id="Архив">Архив</channel>
+  </channels>
+</site>
