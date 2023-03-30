@@ -28,8 +28,8 @@ return array (
   'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'cccontent_type1' => 'text/html; charset=UTF-8',
   'cchost_header1' => 'www.indihometv.com',
-  'ccchannel_block' => '<a class="channel-item.*?<\\/a>',
+  'ccchannel_block' => '<a (?:class="channel-item|data-toggle="modal").*?<\\/a>',
   'ccchannel_id' => 'data-url=".*?\\/livetv\\/(.*?)"',
-  'ccchannel_name' => 'data-name="(.*?)">',
+  'ccchannel_name' => 'data-name="(.*?)"',
 );
 ?>
