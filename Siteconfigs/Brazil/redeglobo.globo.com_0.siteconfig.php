@@ -1,0 +1,36 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'redeglobo.globo.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-04-01',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'pt',
+  'max_day' => '3.1',
+  'url1' => 'https://redeglobo.globo.com/##channel##/programacao/',
+  'requestOption1' => '1',
+  'urldate_format1' => '#range#Ymd',
+  'grabber_1' => 'on',
+  'gpattern_1' => '(.)||#replace#(.+)##(,)||##urldate1####|',
+  'show' => 'data-container-date="(?:##grabber_1##)">.*?(?:<div class="row">)(.*?)(?:<\\/div>\\s*<\\/div>\\s*<\\/div>).*?<\\/section>\\s*<\\/div>',
+  'start' => 'data-start-time="(\\d+)',
+  'start_format' => 'unix',
+  'stop' => 'data-end-time="(\\d+)',
+  'stop_format' => 'unix',
+  'title' => '"program-name">(.*?)<\\/',
+  'title_original' => '<dt>Título Original<\\/dt>\\s*<dd>(.*?)<\\/dd>||#culture#en',
+  'desc' => '<p>(.*?)<\\/p>',
+  'category' => '<dt>Gênero<\\/dt>\\s*<dd>(.*?)(?:<dt>|<\\/dl>)||#split#(<br>|;)',
+  'showicon' => 'id="schedule-thumb".*?<img src="(.*?)"',
+  'actor' => '<dt>Elenco<\\/dt>\\s*<dd>(.*?)(?:<dt>|<\\/dl>)||#split#(<br>|;)',
+  'director' => '<dt>Direção<\\/dt>\\s*<dd>(.*?)(?:<dt>|<\\/dl>)||#split#(<br>|;)',
+  'country' => '<dt>Nacionalidade<\\/dt>\\s*<dd>(.*?)(?:<dt>|<\\/dl>)||#split#(<br>|;)',
+  'videoquality' => '<i class="schedule-item-content-attrac-tecinfo--(hd)||#upper#',
+  'ccurl1' => 'https://redeglobo.globo.com/globobrasilia/programacao/',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '<option value="https:.*?\\.com\\/(.*?)\\/programacao',
+  'ccchannel_name' => '<option value="https:.*?\\.com\\/.*?\\/programacao\\/">(.*?)<\\/option>',
+);
+?>

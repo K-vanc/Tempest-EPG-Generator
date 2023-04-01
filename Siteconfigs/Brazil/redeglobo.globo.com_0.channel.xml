@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="redeglobo.globo.com_0">
+  <channels>
+    <channel site="redeglobo.globo.com_0" site_id="globobrasilia" xmltv_id="Regionais - Globo Brasília">Regionais - Globo Brasília</channel>
+    <channel site="redeglobo.globo.com_0" site_id="globonordeste" xmltv_id="Regionais - Globo Nordeste">Regionais - Globo Nordeste</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rio" xmltv_id="Regionais - rio">Regionais - rio</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sao-paulo" xmltv_id="Regionais - são paulo">Regionais - são paulo</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvcentroamerica" xmltv_id="TV Centro América">TV Centro América</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvmorena/corumba" xmltv_id="TV Morena - Corumba">TV Morena - Corumba</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvmorena/ponta-pora" xmltv_id="TV Morena - Ponta Pora">TV Morena - Ponta Pora</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rn/intertvrn/costa-branca" xmltv_id="Inter TV RN - costa branca">Inter TV RN - costa branca</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rn/intertvrn/natal" xmltv_id="Inter TV RN - natal">Inter TV RN - natal</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvverdesmares" xmltv_id="TV Verdes Mares">TV Verdes Mares</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvverdesmares/tv-cariri" xmltv_id="TV Verdes Mares - TV Cariri">TV Verdes Mares - TV Cariri</channel>
+    <channel site="redeglobo.globo.com_0" site_id="redebahia" xmltv_id="Rede Bahia">Rede Bahia</channel>
+    <channel site="redeglobo.globo.com_0" site_id="pi/redeclube" xmltv_id="Rede Clube">Rede Clube</channel>
+    <channel site="redeglobo.globo.com_0" site_id="pe/tvasabranca" xmltv_id="TV Asa Branca">TV Asa Branca</channel>
+    <channel site="redeglobo.globo.com_0" site_id="pe/tvgranderio" xmltv_id="TV Grande Rio">TV Grande Rio</channel>
+    <channel site="redeglobo.globo.com_0" site_id="tvparaiba" xmltv_id="TV Paraíba">TV Paraíba</channel>
+    <channel site="redeglobo.globo.com_0" site_id="pa/tvtapajos" xmltv_id="TV Tapajós">TV Tapajós</channel>
+    <channel site="redeglobo.globo.com_0" site_id="redeamazonica/amapa" xmltv_id="Rede Amazônica - amapá">Rede Amazônica - amapá</channel>
+    <channel site="redeglobo.globo.com_0" site_id="pa/tvliberal" xmltv_id="TV Liberal">TV Liberal</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/eptv/campinas-e-regiao" xmltv_id="EPTV - campinas e região">EPTV - campinas e região</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/eptv/sul-de-minas" xmltv_id="EPTV - sul de minas">EPTV - sul de minas</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvtem/bauru" xmltv_id="TV TEM - Bauru">TV TEM - Bauru</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvtem/itapetininga" xmltv_id="TV TEM - itapetininga">TV TEM - itapetininga</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvtem/sorocaba-e-regiao" xmltv_id="TV TEM - sorocaba e região">TV TEM - sorocaba e região</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvdiario" xmltv_id="TV Diário">TV Diário</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvfronteira" xmltv_id="TV Fronteira">TV Fronteira</channel>
+    <channel site="redeglobo.globo.com_0" site_id="mg/tvintegracao/juiz-de-fora" xmltv_id="TV Integração - Juiz de fora">TV Integração - Juiz de fora</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rj/tvriosul" xmltv_id="TV Rio Sul">TV Rio Sul</channel>
+    <channel site="redeglobo.globo.com_0" site_id="sp/tvtribuna" xmltv_id="TV Tribuna">TV Tribuna</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rs/rbstvrs" xmltv_id="RBS TV">RBS TV</channel>
+    <channel site="redeglobo.globo.com_0" site_id="rpc" xmltv_id="RPC">RPC</channel>
+  </channels>
+</site>
