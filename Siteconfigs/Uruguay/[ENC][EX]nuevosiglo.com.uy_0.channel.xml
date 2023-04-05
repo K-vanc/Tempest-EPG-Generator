@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]nuevosiglo.com.uy_0">
+  <channels>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO" xmltv_id="HBO (100)">HBO (100)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CINECANAL" xmltv_id="CINECANAL (130)">CINECANAL (130)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CINEMAX" xmltv_id="CINEMAX (131)">CINEMAX (131)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TNT" xmltv_id="TNT (132)">TNT (132)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SPACE" xmltv_id="SPACE (133)">SPACE (133)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="STUDIO UNIVERSAL" xmltv_id="STUDIO UNIVERSAL (135)">STUDIO UNIVERSAL (135)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="I-SAT" xmltv_id="I-SAT (136)">I-SAT (136)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TCM" xmltv_id="TCM (137)">TCM (137)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EUROCHANNEL" xmltv_id="EUROCHANNEL (139)">EUROCHANNEL (139)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="PARAMOUNT NETWORK" xmltv_id="PARAMOUNT NETWORK (142)">PARAMOUNT NETWORK (142)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="STAR CHANNEL" xmltv_id="STAR CHANNEL (150)">STAR CHANNEL (150)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="WARNER" xmltv_id="WARNER (151)">WARNER (151)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SONY" xmltv_id="SONY (152)">SONY (152)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="AXN" xmltv_id="AXN (153)">AXN (153)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL CHANNEL" xmltv_id="UNIVERSAL CHANNEL (154)">UNIVERSAL CHANNEL (154)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="AMC" xmltv_id="AMC (155)">AMC (155)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TNT SERIES" xmltv_id="TNT SERIES (156)">TNT SERIES (156)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FX" xmltv_id="FX (157)">FX (157)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SY FY" xmltv_id="SY FY (158)">SY FY (158)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="A.E MUNDO" xmltv_id="A&amp;E MUNDO (159)">A&amp;E MUNDO (159)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FILM.ARTS" xmltv_id="FILM&amp;ARTS (160)">FILM&amp;ARTS (160)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY ID" xmltv_id="DISCOVERY ID (161)">DISCOVERY ID (161)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO HD" xmltv_id="HBO HD (200)">HBO HD (200)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO 2 HD" xmltv_id="HBO 2 HD (201)">HBO 2 HD (201)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO PLUS HD" xmltv_id="HBO PLUS HD (202)">HBO PLUS HD (202)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO FAMILY HD" xmltv_id="HBO FAMILY HD (204)">HBO FAMILY HD (204)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO SIGNATURE HD" xmltv_id="HBO SIGNATURE HD (205)">HBO SIGNATURE HD (205)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO MUNDI HD" xmltv_id="HBO MUNDI HD (211)">HBO MUNDI HD (211)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO XTREME HD" xmltv_id="HBO XTREME HD (212)">HBO XTREME HD (212)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HBO POP HD" xmltv_id="HBO POP HD (214)">HBO POP HD (214)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL PREMIERE HD" xmltv_id="UNIVERSAL PREMIERE HD (215)">UNIVERSAL PREMIERE HD (215)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL CINEMA HD" xmltv_id="UNIVERSAL CINEMA HD (217)">UNIVERSAL CINEMA HD (217)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL CRIME HD" xmltv_id="UNIVERSAL CRIME HD (218)">UNIVERSAL CRIME HD (218)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL COMEDY HD" xmltv_id="UNIVERSAL COMEDY HD (219)">UNIVERSAL COMEDY HD (219)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL REALITY HD" xmltv_id="UNIVERSAL REALITY HD (220)">UNIVERSAL REALITY HD (220)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CINECANAL HD" xmltv_id="CINECANAL HD (230)">CINECANAL HD (230)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CINEMAX HD" xmltv_id="CINEMAX HD (231)">CINEMAX HD (231)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TNT HD" xmltv_id="TNT HD (232)">TNT HD (232)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SPACE HD" xmltv_id="SPACE HD (233)">SPACE HD (233)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="STUDIO UNIVERSAL HD" xmltv_id="STUDIO UNIVERSAL HD (235)">STUDIO UNIVERSAL HD (235)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EUROPA EUROPA" xmltv_id="EUROPA EUROPA (238)">EUROPA EUROPA (238)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EUROCHANNEL HD" xmltv_id="EUROCHANNEL HD (239)">EUROCHANNEL HD (239)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="PARAMOUNT NETWORK HD" xmltv_id="PARAMOUNT NETWORK HD (242)">PARAMOUNT NETWORK HD (242)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="A3CINE" xmltv_id="A3CINE (244)">A3CINE (244)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GOLDEN PLUS" xmltv_id="GOLDEN PLUS (246)">GOLDEN PLUS (246)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GOLDEN PREMIER HD" xmltv_id="GOLDEN PREMIER HD (247)">GOLDEN PREMIER HD (247)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SONY MOVIES HD" xmltv_id="SONY MOVIES HD (249)">SONY MOVIES HD (249)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="STAR CHANNEL HD" xmltv_id="STAR CHANNEL HD (250)">STAR CHANNEL HD (250)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="WARNER HD" xmltv_id="WARNER HD (251)">WARNER HD (251)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SONY HD" xmltv_id="SONY HD (252)">SONY HD (252)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="AXN HD" xmltv_id="AXN HD (253)">AXN HD (253)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="UNIVERSAL CHANNEL HD" xmltv_id="UNIVERSAL CHANNEL HD (254)">UNIVERSAL CHANNEL HD (254)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="AMC HD" xmltv_id="AMC HD (255)">AMC HD (255)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TNT SERIES HD" xmltv_id="TNT SERIES HD (256)">TNT SERIES HD (256)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FX HD" xmltv_id="FX HD (257)">FX HD (257)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="A.E MUNDO HD" xmltv_id="A&amp;E MUNDO HD (259)">A&amp;E MUNDO HD (259)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FILM.ARTS HD" xmltv_id="FILM&amp;ARTS HD (260)">FILM&amp;ARTS HD (260)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY ID HD" xmltv_id="DISCOVERY ID HD (261)">DISCOVERY ID HD (261)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ANTENA3 HD" xmltv_id="ANTENA3 HD (263)">ANTENA3 HD (263)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ATRESERIES" xmltv_id="ATRESERIES (264)">ATRESERIES (264)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TBS" xmltv_id="TBS (265)">TBS (265)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ENTERTAINMENT TELEVISION" xmltv_id="ENTERTAINMENT TELEVISION (300)">ENTERTAINMENT TELEVISION (300)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HOME AND HEALTH" xmltv_id="HOME AND HEALTH (301)">HOME AND HEALTH (301)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EL GOURMET" xmltv_id="EL GOURMET (302)">EL GOURMET (302)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MAS CHIC" xmltv_id="MAS CHIC (303)">MAS CHIC (303)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="LIFETIME" xmltv_id="LIFETIME (304)">LIFETIME (304)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CIUDAD MAGAZINE" xmltv_id="CIUDAD MAGAZINE (306)">CIUDAD MAGAZINE (306)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TRU TV" xmltv_id="TRU TV (307)">TRU TV (307)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="PASIONES" xmltv_id="PASIONES (308)">PASIONES (308)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TELEMUNDO" xmltv_id="TELEMUNDO (309)">TELEMUNDO (309)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GLITZ" xmltv_id="GLITZ (310)">GLITZ (310)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="IVC" xmltv_id="IVC (313)">IVC (313)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY" xmltv_id="DISCOVERY (321)">DISCOVERY (321)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TLC" xmltv_id="TLC (325)">TLC (325)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NATIONAL GEOGRAPHIC" xmltv_id="NATIONAL GEOGRAPHIC (326)">NATIONAL GEOGRAPHIC (326)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ANIMAL PLANET" xmltv_id="ANIMAL PLANET (328)">ANIMAL PLANET (328)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HISTORY" xmltv_id="HISTORY (329)">HISTORY (329)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="H2" xmltv_id="H2 (330)">H2 (330)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HGTV" xmltv_id="HGTV (350)">HGTV (350)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HOME AND HEALTH HD" xmltv_id="HOME AND HEALTH HD (351)">HOME AND HEALTH HD (351)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EL GOURMET HD" xmltv_id="EL GOURMET HD (352)">EL GOURMET HD (352)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOOD NETWORK" xmltv_id="FOOD NETWORK (353)">FOOD NETWORK (353)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MAS CHIC HD" xmltv_id="MAS CHIC HD (354)">MAS CHIC HD (354)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CIUDAD MAGAZINE HD" xmltv_id="CIUDAD MAGAZINE HD (355)">CIUDAD MAGAZINE HD (355)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HOLA TV" xmltv_id="HOLA TV (356)">HOLA TV (356)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TRU TV HD" xmltv_id="TRU TV HD (358)">TRU TV HD (358)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TELEMUNDO HD" xmltv_id="TELEMUNDO HD (359)">TELEMUNDO HD (359)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="LAS ESTRELLAS HD" xmltv_id="LAS ESTRELLAS HD (361)">LAS ESTRELLAS HD (361)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="KANAL D DRAMA" xmltv_id="KANAL D DRAMA (362)">KANAL D DRAMA (362)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY TLC HD" xmltv_id="DISCOVERY TLC HD (370)">DISCOVERY TLC HD (370)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY HD" xmltv_id="DISCOVERY HD (371)">DISCOVERY HD (371)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY HD THEATER" xmltv_id="DISCOVERY HD THEATER (372)">DISCOVERY HD THEATER (372)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY WORLD HD" xmltv_id="DISCOVERY WORLD HD (373)">DISCOVERY WORLD HD (373)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY SCIENCE HD" xmltv_id="DISCOVERY SCIENCE HD (374)">DISCOVERY SCIENCE HD (374)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY TURBO HD" xmltv_id="DISCOVERY TURBO HD (376)">DISCOVERY TURBO HD (376)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NAT GEO HD" xmltv_id="NAT GEO HD (377)">NAT GEO HD (377)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ANIMAL PLANET HD" xmltv_id="ANIMAL PLANET HD (379)">ANIMAL PLANET HD (379)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="HISTORY HD" xmltv_id="HISTORY HD (380)">HISTORY HD (380)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="H2 HD" xmltv_id="H2 HD (381)">H2 HD (381)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL 4 MONTECARLO" xmltv_id="CANAL 4 MONTECARLO (400)">CANAL 4 MONTECARLO (400)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SAETA" xmltv_id="SAETA (401)">SAETA (401)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TELEDOCE" xmltv_id="TELEDOCE (402)">TELEDOCE (402)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL 5" xmltv_id="CANAL 5 (403)">CANAL 5 (403)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="VTV" xmltv_id="VTV (404)">VTV (404)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="VTV PLUS" xmltv_id="VTV PLUS (405)">VTV PLUS (405)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TEVECIUDAD" xmltv_id="TEVECIUDAD (406)">TEVECIUDAD (406)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL 4 MONTECARLO" xmltv_id="CANAL 4 MONTECARLO (420)">CANAL 4 MONTECARLO (420)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SAETA" xmltv_id="SAETA (421)">SAETA (421)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TELEDOCE HD" xmltv_id="TELEDOCE HD (422)">TELEDOCE HD (422)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL 5" xmltv_id="CANAL 5 (423)">CANAL 5 (423)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="VTV HD" xmltv_id="VTV HD (424)">VTV HD (424)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="VTV PLUS HD" xmltv_id="VTV PLUS HD (425)">VTV PLUS HD (425)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TEVECIUDAD HD" xmltv_id="TEVECIUDAD HD (426)">TEVECIUDAD HD (426)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NUEVO SIGLO TV" xmltv_id="NUEVO SIGLO TV (470)">NUEVO SIGLO TV (470)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS 1" xmltv_id="NS EVENTOS 1 (471)">NS EVENTOS 1 (471)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS 2" xmltv_id="NS EVENTOS 2 (472)">NS EVENTOS 2 (472)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS 3" xmltv_id="NS EVENTOS 3 (473)">NS EVENTOS 3 (473)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS HD" xmltv_id="NS EVENTOS HD (475)">NS EVENTOS HD (475)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS 2 HD" xmltv_id="NS EVENTOS 2 HD (476)">NS EVENTOS 2 HD (476)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NS EVENTOS 3 HD" xmltv_id="NS EVENTOS 3 HD (477)">NS EVENTOS 3 HD (477)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NUEVO SIGLO TV HD" xmltv_id="NUEVO SIGLO TV HD (485)">NUEVO SIGLO TV HD (485)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN" xmltv_id="ESPN (500)">ESPN (500)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 2" xmltv_id="ESPN 2 (501)">ESPN 2 (501)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 3" xmltv_id="ESPN 3 (502)">ESPN 3 (502)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 4" xmltv_id="ESPN 4 (510)">ESPN 4 (510)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOX SPORTS 2" xmltv_id="FOX SPORTS 2 (511)">FOX SPORTS 2 (511)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOX SPORTS 3" xmltv_id="FOX SPORTS 3 (512)">FOX SPORTS 3 (512)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TYC SPORTS" xmltv_id="TYC SPORTS (520)">TYC SPORTS (520)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GOL TV" xmltv_id="GOL TV (522)">GOL TV (522)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SPORTV" xmltv_id="SPORTV (524)">SPORTV (524)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN HD" xmltv_id="ESPN HD (550)">ESPN HD (550)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 2 HD" xmltv_id="ESPN 2 HD (551)">ESPN 2 HD (551)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 3 HD" xmltv_id="ESPN 3 HD (552)">ESPN 3 HD (552)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN EXTRA HD" xmltv_id="ESPN EXTRA HD (553)">ESPN EXTRA HD (553)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ESPN 4 HD" xmltv_id="ESPN 4 HD (560)">ESPN 4 HD (560)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOX SPORTS 2 HD" xmltv_id="FOX SPORTS 2 HD (561)">FOX SPORTS 2 HD (561)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOX SPORTS 3 HD" xmltv_id="FOX SPORTS 3 HD (562)">FOX SPORTS 3 HD (562)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TYC SPORTS HD" xmltv_id="TYC SPORTS HD (570)">TYC SPORTS HD (570)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GOL TV" xmltv_id="GOL TV (572)">GOL TV (572)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TN" xmltv_id="TN (600)">TN (600)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CRONICA TV" xmltv_id="CRONICA TV (601)">CRONICA TV (601)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CNN EN ESPAÑOL" xmltv_id="CNN EN ESPAÑOL (602)">CNN EN ESPAÑOL (602)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="FOX NEWS" xmltv_id="FOX NEWS (604)">FOX NEWS (604)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="BBC NEWS" xmltv_id="BBC NEWS (605)">BBC NEWS (605)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="BLOOMBERG" xmltv_id="BLOOMBERG (606)">BLOOMBERG (606)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL 24 HS" xmltv_id="CANAL 24 HS (607)">CANAL 24 HS (607)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="C5N" xmltv_id="C5N (609)">C5N (609)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="A24" xmltv_id="A24 (616)">A24 (616)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TVE" xmltv_id="TVE (620)">TVE (620)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="GALICIA TV" xmltv_id="GALICIA TV (621)">GALICIA TV (621)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CANAL VASCO" xmltv_id="CANAL VASCO (622)">CANAL VASCO (622)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TV 5" xmltv_id="TV 5 (623)">TV 5 (623)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="RAI" xmltv_id="RAI (624)">RAI (624)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DEUTSCHE WELLE" xmltv_id="DEUTSCHE WELLE (625)">DEUTSCHE WELLE (625)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="AMERICA 2" xmltv_id="AMERICA 2 (627)">AMERICA 2 (627)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TVN CHILE" xmltv_id="TVN CHILE (628)">TVN CHILE (628)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="REDE TV" xmltv_id="REDE TV (632)">REDE TV (632)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="REDE RECORD" xmltv_id="REDE RECORD (633)">REDE RECORD (633)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TN HD" xmltv_id="TN HD (650)">TN HD (650)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="LN." xmltv_id="LN+ (651)">LN+ (651)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="26 TV HD" xmltv_id="26 TV HD (658)">26 TV HD (658)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TELEFE INTER" xmltv_id="TELEFE INTER (669)">TELEFE INTER (669)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TVE HD" xmltv_id="TVE HD (670)">TVE HD (670)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TV GLOBO HD" xmltv_id="TV GLOBO HD (681)">TV GLOBO HD (681)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISNEY" xmltv_id="DISNEY (700)">DISNEY (700)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISNEY JR" xmltv_id="DISNEY JR (702)">DISNEY JR (702)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY KIDS" xmltv_id="DISCOVERY KIDS (703)">DISCOVERY KIDS (703)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CARTOON NETWORK" xmltv_id="CARTOON NETWORK (704)">CARTOON NETWORK (704)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="TOONCAST" xmltv_id="TOONCAST (705)">TOONCAST (705)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CARTOONITO" xmltv_id="CARTOONITO (706)">CARTOONITO (706)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NICK JR" xmltv_id="NICK JR (707)">NICK JR (707)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="NICKELODEON" xmltv_id="NICKELODEON (708)">NICKELODEON (708)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="BABY TV" xmltv_id="BABY TV (709)">BABY TV (709)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISNEY HD" xmltv_id="DISNEY HD (720)">DISNEY HD (720)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="DISCOVERY KIDS HD" xmltv_id="DISCOVERY KIDS HD (723)">DISCOVERY KIDS HD (723)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="CARTOON NETWORK HD" xmltv_id="CARTOON NETWORK HD (724)">CARTOON NETWORK HD (724)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="EWTN" xmltv_id="EWTN (740)">EWTN (740)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MTV" xmltv_id="MTV (750)">MTV (750)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MTV HITS" xmltv_id="MTV HITS (751)">MTV HITS (751)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MTV CLUB" xmltv_id="MTV CLUB (752)">MTV CLUB (752)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MTV 80S" xmltv_id="MTV 80S (754)">MTV 80S (754)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="QUIERO" xmltv_id="QUIERO (756)">QUIERO (756)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="MTV HD" xmltv_id="MTV HD (770)">MTV HD (770)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="ALLEGRO HD" xmltv_id="ALLEGRO HD (771)">ALLEGRO HD (771)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="VENUS" xmltv_id="VENUS (850)">VENUS (850)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="PLAYBOY" xmltv_id="PLAYBOY (851)">PLAYBOY (851)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="SEXTREME" xmltv_id="SEXTREME (852)">SEXTREME (852)</channel>
+    <channel site="[ENC][EX]nuevosiglo.com.uy_0" site_id="PENTHOUSE" xmltv_id="PENTHOUSE (853)">PENTHOUSE (853)</channel>
+  </channels>
+</site>
