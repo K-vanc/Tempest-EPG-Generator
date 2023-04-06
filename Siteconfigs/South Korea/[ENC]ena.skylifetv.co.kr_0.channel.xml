@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]ena.skylifetv.co.kr_0">
+  <channels>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/ENA||ena.skylifetv.co.kr\/ENA" xmltv_id="ENA">ENA</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="mediagenie.co.kr/ENA_DRAMA||mediagenie.co.kr\/ENA_DRAMA" xmltv_id="ENA DRAMA">ENA DRAMA</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/ENA_PLAY||ena.skylifetv.co.kr\/ENA_PLAY" xmltv_id="ENA PLAY">ENA PLAY</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="mediagenie.co.kr/ENA_STORY||mediagenie.co.kr\/ENA_STORY" xmltv_id="ENA STORY">ENA STORY</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/ONCE||ena.skylifetv.co.kr\/ONCE" xmltv_id="ONCE">ONCE</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/OLIFE||ena.skylifetv.co.kr\/OLIFE" xmltv_id="OLIFE">OLIFE</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/skyUHD||ena.skylifetv.co.kr\/skyUHD" xmltv_id="skyUHD">skyUHD</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="mediagenie.co.kr/CHING||mediagenie.co.kr\/CHING" xmltv_id="CHING">CHING</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="mediagenie.co.kr/ONT||mediagenie.co.kr\/ONT" xmltv_id="ONT">ONT</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="mediagenie.co.kr/Healthmedi||mediagenie.co.kr\/Healthmedi" xmltv_id="HEALTHMEDI">HEALTHMEDI</channel>
+    <channel site="[ENC]ena.skylifetv.co.kr_0" site_id="ena.skylifetv.co.kr/kidstalktalkplus||ena.skylifetv.co.kr\/kidstalktalkplus" xmltv_id="kids talk talk plus">kids talk talk plus</channel>
+  </channels>
+</site>
