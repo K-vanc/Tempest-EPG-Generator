@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]dstv.com_1">
+  <channels>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|101||HDT" xmltv_id="M-Net HD [South Africa]">M-Net HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|103||VAM" xmltv_id="1 Magic HD [South Africa]">1 Magic HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|104||M1D" xmltv_id="M Movies 1 [South Africa]">M Movies 1 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|106||MAP" xmltv_id="M Movies 2 [South Africa]">M Movies 2 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|107||MCH" xmltv_id="M Movies 3 [South Africa]">M Movies 3 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|108||MZE" xmltv_id="M Movies 4 [South Africa]">M Movies 4 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|109||35H" xmltv_id="SWITCH’D ON Channel 109 (HD) [South Africa]">SWITCH’D ON Channel 109 (HD) [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|110||35K" xmltv_id="SWITCH’D ON Channel 110 (HD) [South Africa]">SWITCH’D ON Channel 110 (HD) [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|112||SUH" xmltv_id="Studio Universal HD [South Africa]">Studio Universal HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|113||35E" xmltv_id="MovieRoom [South Africa]">MovieRoom [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|114||ITH" xmltv_id="KIX [South Africa]">KIX [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|115||MFH" xmltv_id="ME Channel [South Africa]">ME Channel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|116||V30" xmltv_id="VUZU HD [South Africa]">VUZU HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|117||UHD" xmltv_id="Universal TV HD [South Africa]">Universal TV HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|118||TEL" xmltv_id="TeleMundo English [South Africa]">TeleMundo English [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|119||B23" xmltv_id="BBC First HD [South Africa]">BBC First HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|120||B26" xmltv_id="BBC Brit HD [South Africa]">BBC Brit HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|121||DHD" xmltv_id="Discovery Channel HD [South Africa]">Discovery Channel HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|122||CC7" xmltv_id="Comedy Central [South Africa]">Comedy Central [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|124||E26" xmltv_id="E! Entertainment HD [South Africa]">E! Entertainment HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|126||FOC" xmltv_id="FOX Life [South Africa]">FOX Life [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|127||M30" xmltv_id="Ginx eSports HD [South Africa]">Ginx eSports HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|129||BHD" xmltv_id="BET [South Africa]">BET [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|130||MTV" xmltv_id="MTV [South Africa]">MTV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|131||LTE" xmltv_id="Lifetime Entertainment [South Africa]">Lifetime Entertainment [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|132||RTK" xmltv_id="CBS Reality [South Africa]">CBS Reality [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|133||FS1" xmltv_id="TLNovelas [South Africa]">TLNovelas [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|135||T32" xmltv_id="Discovery TLC HD [South Africa]">Discovery TLC HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|136||F32" xmltv_id="Discovery Family HD [South Africa]">Discovery Family HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|137||TND" xmltv_id="TNT Africa HD [South Africa]">TNT Africa HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|138||E03" xmltv_id="eMovies [South Africa]">eMovies [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|139||MZE" xmltv_id="M Movies 4 [South Africa]">M Movies 4 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|140||E05" xmltv_id="eMovies Extra [South Africa]">eMovies Extra [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|141||TGG" xmltv_id="Maisha Magic Movies [South Africa]">Maisha Magic Movies [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|142||MLW" xmltv_id="Pearl Magic Loko [South Africa]">Pearl Magic Loko [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|144||KHD" xmltv_id="Kyk NET HD [South Africa]">Kyk NET HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|145||K30" xmltv_id="Kyk NET &amp; Kie HD [South Africa]">Kyk NET &amp; Kie HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|146||KNM" xmltv_id="KyKNet Nou [South Africa]">KyKNet Nou [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|147||VHD" xmltv_id="VIA HD [South Africa]">VIA HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|152||IA9" xmltv_id="Africa Magic Epic [South Africa]">Africa Magic Epic [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|153||AMM" xmltv_id="Africa Magic Urban [South Africa]">Africa Magic Urban [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|154||AFM" xmltv_id="Africa Magic Family [South Africa]">Africa Magic Family [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|155||RTA" xmltv_id="Real Time [South Africa]">Real Time [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|157||MOH" xmltv_id="Moja Love HD [South Africa]">Moja Love HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|161||MZH" xmltv_id="Mzansi Magic HD [South Africa]">Mzansi Magic HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|163||W30" xmltv_id="Mzansi Wethu HD [South Africa]">Mzansi Wethu HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|164||MZB" xmltv_id="Mzansi Bioskop [South Africa]">Mzansi Bioskop [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|166||M11" xmltv_id="Zee World HD [South Africa]">Zee World HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|167||H26" xmltv_id="Star Life HD [South Africa]">Star Life HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|168||19K" xmltv_id="ROK [South Africa]">ROK [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|170||CJH" xmltv_id="CBS Justice HD [South Africa]">CBS Justice HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|171||I32" xmltv_id="Investigation Discovery (ID) [South Africa]">Investigation Discovery (ID) [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|173||S30" xmltv_id="Honey [South Africa]">Honey [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|174||BBL" xmltv_id="BBC Lifestyle [South Africa]">BBC Lifestyle [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|175||F26" xmltv_id="Food Network HD [South Africa]">Food Network HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|176||HCH" xmltv_id="The Home Channel [South Africa]">The Home Channel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|177||Z26" xmltv_id="Home and Garden TV HD [South Africa]">Home and Garden TV HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|179||TRV" xmltv_id="Travel Channel [South Africa]">Travel Channel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|180||WEA" xmltv_id="Peoples Weather [South Africa]">Peoples Weather [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|181||WHD" xmltv_id="National Geographic Channel [South Africa]">National Geographic Channel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|182||N26" xmltv_id="NatGeo Wild [South Africa]">NatGeo Wild [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|183||POP" xmltv_id="WildEarth [South Africa]">WildEarth [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|184||ETH" xmltv_id="BBC Earth HD [South Africa]">BBC Earth HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|185||CSH" xmltv_id="Curiosity Stream [South Africa]">Curiosity Stream [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|186||H23" xmltv_id="The History Channel HD [South Africa]">The History Channel HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|189||ITV" xmltv_id="IGNITION [South Africa]">IGNITION [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|190||SPI" xmltv_id="Spice TV [South Africa]">Spice TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|191||B1C" xmltv_id="SABC 1 HD [South Africa]">SABC 1 HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|192||B2C" xmltv_id="SABC 2 HD [South Africa]">SABC 2 HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|193||B3C" xmltv_id="SABC 3 HD [South Africa]">SABC 3 HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|194||HDE" xmltv_id="e.TV HD [South Africa]">e.TV HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|195||E01" xmltv_id="eExtra HD [South Africa]">eExtra HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|196||O1W" xmltv_id="Naija Stand-Up Comedy [South Africa]">Naija Stand-Up Comedy [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|197||B24" xmltv_id="Hallelujah pop up [South Africa]">Hallelujah pop up [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|198||MDH" xmltv_id="Big Brother Titans HD [South Africa]">Big Brother Titans HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|200||SSZ" xmltv_id="BLITZ [South Africa]">BLITZ [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|201||SH4" xmltv_id="GRANDSTAND [South Africa]">GRANDSTAND [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|202||SH2" xmltv_id="PSL [South Africa]">PSL [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|203||TS2" xmltv_id="EPL [South Africa]">EPL [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|204||SSH" xmltv_id="LA LIGA [South Africa]">LA LIGA [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|205||MSH" xmltv_id="FOOTBALL [South Africa]">FOOTBALL [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|206||HD6" xmltv_id="VARIETY 1 [South Africa]">VARIETY 1 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|207||HD5" xmltv_id="VARIETY 2 [South Africa]">VARIETY 2 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|208||34S" xmltv_id="VARIETY 3 [South Africa]">VARIETY 3 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|209||9HD" xmltv_id="VARIETY 4 [South Africa]">VARIETY 4 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|210||HD7" xmltv_id="ACTION [South Africa]">ACTION [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|211||A11" xmltv_id="RUGBY [South Africa]">RUGBY [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|212||12H" xmltv_id="CRICKET [South Africa]">CRICKET [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|213||EDH" xmltv_id="GOLF [South Africa]">GOLF [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|214||S34" xmltv_id="TENNIS [South Africa]">TENNIS [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|215||E30" xmltv_id="MOTORSPORT [South Africa]">MOTORSPORT [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|216||35L" xmltv_id="SuperSport School HD [South Africa]">SuperSport School HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|218||I26" xmltv_id="ESPN HD [South Africa]">ESPN HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|219||SDN" xmltv_id="ESPN 2 HD [South Africa]">ESPN 2 HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|236||WWE" xmltv_id="WWE [South Africa]">WWE [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|241||XHD" xmltv_id="MAXIMO 1 [South Africa]">MAXIMO 1 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|251||STV" xmltv_id="Soweto TV [South Africa]">Soweto TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|260||TVB" xmltv_id="Mpuma Kapa [South Africa]">Mpuma Kapa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|261||1KZ" xmltv_id="1 KZN [South Africa]">1 KZN [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|262||TSH" xmltv_id="Tshwane TV [South Africa]">Tshwane TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|263||CTV" xmltv_id="Cape Town TV [South Africa]">Cape Town TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|265||GAU" xmltv_id="GauTV [South Africa]">GauTV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|292||LTV" xmltv_id="Lesotho TV [South Africa]">Lesotho TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|299||NTA" xmltv_id="NTA I [South Africa]">NTA I [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|301||CHD" xmltv_id="Cartoon Network HD [South Africa]">Cartoon Network HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|302||33B" xmltv_id="Cartoonito [South Africa]">Cartoonito [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|303||SO8" xmltv_id="Disney Channel [South Africa]">Disney Channel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|304||FHD" xmltv_id="Dreamworks [South Africa]">Dreamworks [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|305||NIK" xmltv_id="Nickelodeon [South Africa]">Nickelodeon [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|306||CBB" xmltv_id="Cbeebies [South Africa]">Cbeebies [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|307||NJR" xmltv_id="NickJr [South Africa]">NickJr [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|308||NTO" xmltv_id="NickTOONS [South Africa]">NickTOONS [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|309||DPH" xmltv_id="Disney Junior [South Africa]">Disney Junior [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|310||JJM" xmltv_id="Jim Jam [South Africa]">Jim Jam [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|311||E06" xmltv_id="eToonz [South Africa]">eToonz [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|313||DW6" xmltv_id="PBS Kids [South Africa]">PBS Kids [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|314||ROK" xmltv_id="Moonbug Kids [South Africa]">Moonbug Kids [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|318||E07" xmltv_id="Da Vinci Learn [South Africa]">Da Vinci Learn [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|319||E11" xmltv_id="Mindset [South Africa]">Mindset [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|320||OHD" xmltv_id="Channel O HD [South Africa]">Channel O HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|321||ZMD" xmltv_id="Mzansi Magic Music HD [South Africa]">Mzansi Magic Music HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|322||CSN" xmltv_id="MTV base [South Africa]">MTV base [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|325||T26" xmltv_id="TRACE URBAN HD [South Africa]">TRACE URBAN HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|326||8GT" xmltv_id="TRACE Africa [South Africa]">TRACE Africa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|327||MM2" xmltv_id="Sound City [South Africa]">Sound City [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|330||A32" xmltv_id="QWEST TV [South Africa]">QWEST TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|331||GOS" xmltv_id="One Gospel [South Africa]">One Gospel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|332||TG2" xmltv_id="Trace Gospel [South Africa]">Trace Gospel [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|340||DUM" xmltv_id="Dumisa [South Africa]">Dumisa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|341||TBK" xmltv_id="FAITH [South Africa]">FAITH [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|342||DW5" xmltv_id="Day Star [South Africa]">Day Star [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|343||TB1" xmltv_id="TBN [South Africa]">TBN [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|390||EMM" xmltv_id="Emmanuel TV [South Africa]">Emmanuel TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|400||BB8" xmltv_id="BBC World News [South Africa]">BBC World News [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|401||CNN" xmltv_id="CNN International HD [South Africa]">CNN International HD [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|402||S33" xmltv_id="Sky News [South Africa]">Sky News [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|403||HD2" xmltv_id="eNews Channel Africa [South Africa]">eNews Channel Africa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|404||SAN" xmltv_id="SABC News [South Africa]">SABC News [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|405||NZD" xmltv_id="Newzroom Afrika [South Africa]">Newzroom Afrika [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|406||ALJ" xmltv_id="Al Jazeera [South Africa]">Al Jazeera [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|407||EVE" xmltv_id="Russia Today [South Africa]">Russia Today [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|408||PAR" xmltv_id="Parliamentary Service [South Africa]">Parliamentary Service [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|409||CC9" xmltv_id="CGTN News [South Africa]">CGTN News [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|410||CN8" xmltv_id="CNBC Africa [South Africa]">CNBC Africa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|411||BLO" xmltv_id="Bloomberg Television [South Africa]">Bloomberg Television [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|412||ABC" xmltv_id="Business Day [South Africa]">Business Day [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|413||DEE" xmltv_id="NDTV 24x7 [South Africa]">NDTV 24x7 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|414||EN1" xmltv_id="EuroNews Africa [South Africa]">EuroNews Africa [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|417||INM" xmltv_id="KykNet Lekker [South Africa]">KykNet Lekker [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|430||RAI" xmltv_id="RAI International [South Africa]">RAI International [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|431||EEB" xmltv_id="NHK [South Africa]">NHK [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|435||RTP" xmltv_id="RTPI [South Africa]">RTPI [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|437||TVK" xmltv_id="TV5 Monde Afrique [South Africa]">TV5 Monde Afrique [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|446||DW4" xmltv_id="Deutsche Welle [South Africa]">Deutsche Welle [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|447||SHO" xmltv_id="CCTV 4 [South Africa]">CCTV 4 [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|450||SON" xmltv_id="SET Asia [South Africa]">SET Asia [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|451||B4K" xmltv_id="B4U Movies [South Africa]">B4U Movies [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|452||ZEE" xmltv_id="ZeeTV [South Africa]">ZeeTV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|453||STP" xmltv_id="Star Plus [South Africa]">Star Plus [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|454||DOO" xmltv_id="Sun TV [South Africa]">Sun TV [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|455||STJ" xmltv_id="Star Vijay [South Africa]">Star Vijay [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|456||COL" xmltv_id="Colors [South Africa]">Colors [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|457||SMK" xmltv_id="SET Max [South Africa]">SET Max [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|507||TEP" xmltv_id="Telemundo (P) [South Africa]">Telemundo (P) [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|517||SIK" xmltv_id="SIC Internacional (P) [South Africa]">SIC Internacional (P) [South Africa]</channel>
+    <channel site="[ENC][EX]dstv.com_1" site_id="zaf|##|877||R09" xmltv_id="Kosmos 94.1 [South Africa]">Kosmos 94.1 [South Africa]</channel>
+  </channels>
+</site>
