@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]berrymedia.co.kr_0">
+  <channels>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc" xmltv_id="GTV">GTV</channel>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc5" xmltv_id="UHDDreamTV">UHDDreamTV</channel>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc4" xmltv_id="GMTV">GMTV</channel>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc2" xmltv_id="CookTV">CookTV</channel>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc3" xmltv_id="생활체육TV">생활체육TV</channel>
+    <channel site="[ENC]berrymedia.co.kr_0" site_id="proc6" xmltv_id="BallTV">BallTV</channel>
+  </channels>
+</site>
