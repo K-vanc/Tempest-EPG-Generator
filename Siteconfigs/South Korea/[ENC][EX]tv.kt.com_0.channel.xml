@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv.kt.com_0">
+  <channels>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|0" xmltv_id="[지니 TV] MBC Every1">[지니 TV] MBC Every1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|1" xmltv_id="[지니 TV] ENA">[지니 TV] ENA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|2" xmltv_id="[지니 TV] NS홈쇼핑">[지니 TV] NS홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|3" xmltv_id="[지니 TV] tvN">[지니 TV] tvN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|4" xmltv_id="[지니 TV] 롯데홈쇼핑">[지니 TV] 롯데홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|5" xmltv_id="[지니 TV] SBS">[지니 TV] SBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|6" xmltv_id="[지니 TV] CJ ONSTYLE">[지니 TV] CJ ONSTYLE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|7" xmltv_id="[지니 TV] KBS2">[지니 TV] KBS2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|8" xmltv_id="[지니 TV] GS SHOP">[지니 TV] GS SHOP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|9" xmltv_id="[지니 TV] KBS1">[지니 TV] KBS1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|10" xmltv_id="[지니 TV] 현대홈쇼핑">[지니 TV] 현대홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|11" xmltv_id="[지니 TV] MBC">[지니 TV] MBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|12" xmltv_id="[지니 TV] kt알파쇼핑">[지니 TV] kt알파쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|13" xmltv_id="[지니 TV] EBS">[지니 TV] EBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|14" xmltv_id="[지니 TV] 홈&amp;쇼핑">[지니 TV] 홈&amp;쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|15" xmltv_id="[지니 TV] JTBC">[지니 TV] JTBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|16" xmltv_id="[지니 TV] MBN">[지니 TV] MBN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|17" xmltv_id="[지니 TV] SK stoa">[지니 TV] SK stoa</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|18" xmltv_id="[지니 TV] 채널A">[지니 TV] 채널A</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|19" xmltv_id="[지니 TV] TV조선">[지니 TV] TV조선</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|20" xmltv_id="[지니 TV] 신세계쇼핑">[지니 TV] 신세계쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|21" xmltv_id="[지니 TV] tvN STORY">[지니 TV] tvN STORY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|22" xmltv_id="[지니 TV] 공영쇼핑">[지니 TV] 공영쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|23" xmltv_id="[지니 TV] 연합뉴스TV">[지니 TV] 연합뉴스TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|24" xmltv_id="[지니 TV] YTN">[지니 TV] YTN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|25" xmltv_id="[지니 TV] SBS Biz">[지니 TV] SBS Biz</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|26" xmltv_id="[지니 TV] OBS">[지니 TV] OBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|27" xmltv_id="[지니 TV] Mnet">[지니 TV] Mnet</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|28" xmltv_id="[지니 TV] GS MY SHOP">[지니 TV] GS MY SHOP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|29" xmltv_id="[지니 TV] ENA DRAMA">[지니 TV] ENA DRAMA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|30" xmltv_id="[지니 TV] 쇼핑엔티">[지니 TV] 쇼핑엔티</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|31" xmltv_id="[지니 TV] MBC Dramanet">[지니 TV] MBC Dramanet</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|32" xmltv_id="[지니 TV] 롯데원티비">[지니 TV] 롯데원티비</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|33" xmltv_id="[지니 TV] OCN">[지니 TV] OCN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|34" xmltv_id="[지니 TV] W쇼핑">[지니 TV] W쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|35" xmltv_id="[지니 TV] KBS Drama">[지니 TV] KBS Drama</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|36" xmltv_id="[지니 TV] 현대홈쇼핑+샵">[지니 TV] 현대홈쇼핑+샵</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|37" xmltv_id="[지니 TV] SBS Plus">[지니 TV] SBS Plus</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|38" xmltv_id="[지니 TV] CJ ONSTYLE+">[지니 TV] CJ ONSTYLE+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|39" xmltv_id="[지니 TV] JTBC2">[지니 TV] JTBC2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|40" xmltv_id="[지니 TV] tvN SHOW">[지니 TV] tvN SHOW</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|41" xmltv_id="[지니 TV] KBS Joy">[지니 TV] KBS Joy</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|42" xmltv_id="[지니 TV] NS Shop+">[지니 TV] NS Shop+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|43" xmltv_id="[지니 TV] SBS funE">[지니 TV] SBS funE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|44" xmltv_id="[지니 TV] OCN Movies">[지니 TV] OCN Movies</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|45" xmltv_id="[지니 TV] tvN DRAMA">[지니 TV] tvN DRAMA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|46" xmltv_id="[지니 TV] 드라마큐브">[지니 TV] 드라마큐브</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|47" xmltv_id="[지니 TV] iHQ drama">[지니 TV] iHQ drama</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|48" xmltv_id="[지니 TV] E채널">[지니 TV] E채널</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|49" xmltv_id="[지니 TV] 시네마천국">[지니 TV] 시네마천국</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|50" xmltv_id="[지니 TV] 디스커버리채널">[지니 TV] 디스커버리채널</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|51" xmltv_id="[지니 TV] SPOTV">[지니 TV] SPOTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|52" xmltv_id="[지니 TV] SPOTV2">[지니 TV] SPOTV2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|53" xmltv_id="[지니 TV] IB SPORTS">[지니 TV] IB SPORTS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|54" xmltv_id="[지니 TV] SkySports">[지니 TV] SkySports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|55" xmltv_id="[지니 TV] GOLF&amp;PBA">[지니 TV] GOLF&amp;PBA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|56" xmltv_id="[지니 TV] JTBC Golf">[지니 TV] JTBC Golf</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|57" xmltv_id="[지니 TV] SBSGOLF">[지니 TV] SBSGOLF</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|58" xmltv_id="[지니 TV] SBS Sports">[지니 TV] SBS Sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|59" xmltv_id="[지니 TV] KBS N Sports">[지니 TV] KBS N Sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|60" xmltv_id="[지니 TV] MBC SPORT+">[지니 TV] MBC SPORT+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|61" xmltv_id="[지니 TV] JTBC3 GOLF&amp;SPORTS">[지니 TV] JTBC3 GOLF&amp;SPORTS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|62" xmltv_id="[지니 TV] tvN SPORTS">[지니 TV] tvN SPORTS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|63" xmltv_id="[지니 TV] SPOTV Golf &amp; Health">[지니 TV] SPOTV Golf &amp; Health</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|64" xmltv_id="[지니 TV] KTV">[지니 TV] KTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|65" xmltv_id="[지니 TV] 국회방송">[지니 TV] 국회방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|66" xmltv_id="[지니 TV] SBS F!L">[지니 TV] SBS F!L</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|67" xmltv_id="[지니 TV] GTV">[지니 TV] GTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|68" xmltv_id="[지니 TV] CNTV">[지니 TV] CNTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|69" xmltv_id="[지니 TV] TVCHOSUN2">[지니 TV] TVCHOSUN2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|70" xmltv_id="[지니 TV] 채널S">[지니 TV] 채널S</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|71" xmltv_id="[지니 TV] FUN TV">[지니 TV] FUN TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|72" xmltv_id="[지니 TV] ENA STORY">[지니 TV] ENA STORY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|73" xmltv_id="[지니 TV] AsiaN">[지니 TV] AsiaN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|74" xmltv_id="[지니 TV] 하이라이트TV">[지니 TV] 하이라이트TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|75" xmltv_id="[지니 TV] JTBC4">[지니 TV] JTBC4</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|76" xmltv_id="[지니 TV] OCN Movies2">[지니 TV] OCN Movies2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|78" xmltv_id="[지니 TV] Lifetime">[지니 TV] Lifetime</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|79" xmltv_id="[지니 TV] Edge TV">[지니 TV] Edge TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|80" xmltv_id="[지니 TV] MBC ON">[지니 TV] MBC ON</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|81" xmltv_id="[지니 TV] HD OBS W">[지니 TV] HD OBS W</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|82" xmltv_id="[지니 TV] 동아TV">[지니 TV] 동아TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|83" xmltv_id="[지니 TV] KBS Story">[지니 TV] KBS Story</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|84" xmltv_id="[지니 TV] 스마일티브이플러스">[지니 TV] 스마일티브이플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|85" xmltv_id="[지니 TV] IHQ">[지니 TV] IHQ</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|86" xmltv_id="[지니 TV] OLIFE">[지니 TV] OLIFE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|87" xmltv_id="[지니 TV] K STAR">[지니 TV] K STAR</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|88" xmltv_id="[지니 TV] ONCE">[지니 TV] ONCE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|89" xmltv_id="[지니 TV] 디원">[지니 TV] 디원</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|90" xmltv_id="[지니 TV] AsiaM">[지니 TV] AsiaM</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|91" xmltv_id="[지니 TV] 월드 클래식 무비">[지니 TV] 월드 클래식 무비</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|92" xmltv_id="[지니 TV] 아이넷TV">[지니 TV] 아이넷TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|93" xmltv_id="[지니 TV] 채널이엠">[지니 TV] 채널이엠</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|94" xmltv_id="[지니 TV] CMCTV">[지니 TV] CMCTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|95" xmltv_id="[지니 TV] EBS2">[지니 TV] EBS2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|96" xmltv_id="[지니 TV] Ent.TV">[지니 TV] Ent.TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|97" xmltv_id="[지니 TV] 다문화티브이">[지니 TV] 다문화티브이</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|98" xmltv_id="[지니 TV] 채널A 플러스">[지니 TV] 채널A 플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|99" xmltv_id="[지니 TV] MBN Plus">[지니 TV] MBN Plus</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|100" xmltv_id="[지니 TV] NBS한국농업방송">[지니 TV] NBS한국농업방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|101" xmltv_id="[지니 TV] 스크린">[지니 TV] 스크린</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|102" xmltv_id="[지니 TV] 채널차이나">[지니 TV] 채널차이나</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|103" xmltv_id="[지니 TV] mplex">[지니 TV] mplex</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|104" xmltv_id="[지니 TV] THE MOVIE">[지니 TV] THE MOVIE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|105" xmltv_id="[지니 TV] 인디필름">[지니 TV] 인디필름</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|106" xmltv_id="[지니 TV] 씨네프">[지니 TV] 씨네프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|107" xmltv_id="[지니 TV] 채널나우">[지니 TV] 채널나우</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|108" xmltv_id="[지니 TV] 채널 J">[지니 TV] 채널 J</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|109" xmltv_id="[지니 TV] 에이플드라마">[지니 TV] 에이플드라마</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|110" xmltv_id="[지니 TV] 중화TV">[지니 TV] 중화TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|111" xmltv_id="[지니 TV] HQ+">[지니 TV] HQ+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|112" xmltv_id="[지니 TV] CH.U">[지니 TV] CH.U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|113" xmltv_id="[지니 TV] AXN">[지니 TV] AXN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|114" xmltv_id="[지니 TV] 텔레노벨라">[지니 TV] 텔레노벨라</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|116" xmltv_id="[지니 TV] 채널W">[지니 TV] 채널W</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|117" xmltv_id="[지니 TV] TVasiaPlus">[지니 TV] TVasiaPlus</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|118" xmltv_id="[지니 TV] HITS">[지니 TV] HITS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|119" xmltv_id="[지니 TV] Eurosport">[지니 TV] Eurosport</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|120" xmltv_id="[지니 TV] FTV">[지니 TV] FTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|121" xmltv_id="[지니 TV] FISHING TV">[지니 TV] FISHING TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|122" xmltv_id="[지니 TV] 바둑TV">[지니 TV] 바둑TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|123" xmltv_id="[지니 TV] K바둑">[지니 TV] K바둑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|124" xmltv_id="[지니 TV] 캐치온1 유료">[지니 TV] 캐치온1 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|125" xmltv_id="[지니 TV] 캐치온2 유료">[지니 TV] 캐치온2 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|126" xmltv_id="[지니 TV] 브레인TV">[지니 TV] 브레인TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|127" xmltv_id="[지니 TV] 빌리어즈티비">[지니 TV] 빌리어즈티비</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|128" xmltv_id="[지니 TV] 마운틴TV">[지니 TV] 마운틴TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|129" xmltv_id="[지니 TV] AfreecaTV">[지니 TV] AfreecaTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|130" xmltv_id="[지니 TV] CH.WIDE">[지니 TV] CH.WIDE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|131" xmltv_id="[지니 TV] STN">[지니 TV] STN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|132" xmltv_id="[지니 TV] 생활체육TV">[지니 TV] 생활체육TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|133" xmltv_id="[지니 TV] 스크린골프존">[지니 TV] 스크린골프존</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|134" xmltv_id="[지니 TV] COOKTV">[지니 TV] COOKTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|135" xmltv_id="[지니 TV] STATV">[지니 TV] STATV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|136" xmltv_id="[지니 TV] SBS M">[지니 TV] SBS M</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|137" xmltv_id="[지니 TV] MBC M">[지니 TV] MBC M</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|138" xmltv_id="[지니 TV] 뉴트로TV">[지니 TV] 뉴트로TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|139" xmltv_id="[지니 TV] ORFEO">[지니 TV] ORFEO</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|140" xmltv_id="[지니 TV] 한경arteTV">[지니 TV] 한경arteTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|141" xmltv_id="[지니 TV] History">[지니 TV] History</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|142" xmltv_id="[지니 TV] GMTV">[지니 TV] GMTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|143" xmltv_id="[지니 TV] 가요TV">[지니 TV] 가요TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|144" xmltv_id="[지니 TV] 실버아이TV">[지니 TV] 실버아이TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|145" xmltv_id="[지니 TV] 이벤트TV">[지니 TV] 이벤트TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|146" xmltv_id="[지니 TV] WeLike">[지니 TV] WeLike</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|147" xmltv_id="[지니 TV] 붐TV">[지니 TV] 붐TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|148" xmltv_id="[지니 TV] 아이넷라이프">[지니 TV] 아이넷라이프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|149" xmltv_id="[지니 TV] 컬쳐플러스">[지니 TV] 컬쳐플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|150" xmltv_id="[지니 TV] UXN U">[지니 TV] UXN U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|151" xmltv_id="[지니 TV] Asia UHD U">[지니 TV] Asia UHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|152" xmltv_id="[지니 TV] Sky UHD U">[지니 TV] Sky UHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|153" xmltv_id="[지니 TV] UMAX U">[지니 TV] UMAX U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|154" xmltv_id="[지니 TV] UHDDreamTV U">[지니 TV] UHDDreamTV U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|155" xmltv_id="[지니 TV] SBS FiL UHD U">[지니 TV] SBS FiL UHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|156" xmltv_id="[지니 TV] 다큐원">[지니 TV] 다큐원</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|157" xmltv_id="[지니 TV] MGTV">[지니 TV] MGTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|158" xmltv_id="[지니 TV] KBS LIFE">[지니 TV] KBS LIFE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|159" xmltv_id="[지니 TV] YTN2">[지니 TV] YTN2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|160" xmltv_id="[지니 TV] OUN">[지니 TV] OUN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|161" xmltv_id="[지니 TV] 리얼TV">[지니 TV] 리얼TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|162" xmltv_id="[지니 TV] Now제주TV">[지니 TV] Now제주TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|163" xmltv_id="[지니 TV] 9colors">[지니 TV] 9colors</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|164" xmltv_id="[지니 TV] MBC NET">[지니 TV] MBC NET</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|165" xmltv_id="[지니 TV] 채널i">[지니 TV] 채널i</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|166" xmltv_id="[지니 TV] 아리랑 TV">[지니 TV] 아리랑 TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|167" xmltv_id="[지니 TV] 하비라이프">[지니 TV] 하비라이프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|168" xmltv_id="[지니 TV] 내셔널지오그래픽">[지니 TV] 내셔널지오그래픽</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|169" xmltv_id="[지니 TV] 쿠키건강TV">[지니 TV] 쿠키건강TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|170" xmltv_id="[지니 TV] Nat Geo Wild">[지니 TV] Nat Geo Wild</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|171" xmltv_id="[지니 TV] 메디컬TV">[지니 TV] 메디컬TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|172" xmltv_id="[지니 TV] BBC Earth">[지니 TV] BBC Earth</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|173" xmltv_id="[지니 TV] HGTV">[지니 TV] HGTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|174" xmltv_id="[지니 TV] Animal Planet">[지니 TV] Animal Planet</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|175" xmltv_id="[지니 TV] YTN 사이언스">[지니 TV] YTN 사이언스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|176" xmltv_id="[지니 TV] 채널뷰">[지니 TV] 채널뷰</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|177" xmltv_id="[지니 TV] CCTV4">[지니 TV] CCTV4</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|178" xmltv_id="[지니 TV] Discovery Science">[지니 TV] Discovery Science</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|180" xmltv_id="[지니 TV] 한국경제TV">[지니 TV] 한국경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|181" xmltv_id="[지니 TV] 머니투데이방송">[지니 TV] 머니투데이방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|182" xmltv_id="[지니 TV] 매일경제TV">[지니 TV] 매일경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|183" xmltv_id="[지니 TV] 이데일리TV">[지니 TV] 이데일리TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|184" xmltv_id="[지니 TV] 서울경제TV">[지니 TV] 서울경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|185" xmltv_id="[지니 TV] 토마토증권통">[지니 TV] 토마토증권통</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|186" xmltv_id="[지니 TV] 팍스경제TV">[지니 TV] 팍스경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|187" xmltv_id="[지니 TV] 연합뉴스경제TV">[지니 TV] 연합뉴스경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|188" xmltv_id="[지니 TV] 토마토집통">[지니 TV] 토마토집통</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|189" xmltv_id="[지니 TV] NHK WP">[지니 TV] NHK WP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|190" xmltv_id="[지니 TV] ABC Australia">[지니 TV] ABC Australia</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|191" xmltv_id="[지니 TV] CNN International">[지니 TV] CNN International</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|192" xmltv_id="[지니 TV] BBC News">[지니 TV] BBC News</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|193" xmltv_id="[지니 TV] Euro News">[지니 TV] Euro News</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|194" xmltv_id="[지니 TV] CGTN">[지니 TV] CGTN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|195" xmltv_id="[지니 TV] Fox News">[지니 TV] Fox News</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|196" xmltv_id="[지니 TV] Bloomberg">[지니 TV] Bloomberg</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|197" xmltv_id="[지니 TV] CNBC">[지니 TV] CNBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|198" xmltv_id="[지니 TV] TV5MONDE">[지니 TV] TV5MONDE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|199" xmltv_id="[지니 TV] 복지TV">[지니 TV] 복지TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|200" xmltv_id="[지니 TV] DW-TV Asia+">[지니 TV] DW-TV Asia+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|201" xmltv_id="[지니 TV] 해피독티비 유료">[지니 TV] 해피독티비 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|202" xmltv_id="[지니 TV] Dog TV 유료">[지니 TV] Dog TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|204" xmltv_id="[지니 TV] viki 유료">[지니 TV] viki 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|205" xmltv_id="[지니 TV] 미드나잇 유료">[지니 TV] 미드나잇 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|206" xmltv_id="[지니 TV] Playboy TV 유료">[지니 TV] Playboy TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|207" xmltv_id="[지니 TV] 허니TV 유료">[지니 TV] 허니TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|208" xmltv_id="[지니 TV] 핑크하우스TV 유료">[지니 TV] 핑크하우스TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|209" xmltv_id="[지니 TV] DesireTV 유료">[지니 TV] DesireTV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|210" xmltv_id="[지니 TV] 비너스 유료">[지니 TV] 비너스 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|211" xmltv_id="[지니 TV] SPOTV ON 유료">[지니 TV] SPOTV ON 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|212" xmltv_id="[지니 TV] SPOTV ON 2 유료">[지니 TV] SPOTV ON 2 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|213" xmltv_id="[지니 TV] 법률방송">[지니 TV] 법률방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|214" xmltv_id="[지니 TV] TBS TV">[지니 TV] TBS TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|215" xmltv_id="[지니 TV] 헬스메디tv">[지니 TV] 헬스메디tv</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|216" xmltv_id="[지니 TV] SPOTV PRIME 유료">[지니 TV] SPOTV PRIME 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|217" xmltv_id="[지니 TV] 육아방송">[지니 TV] 육아방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|221" xmltv_id="[지니 TV] K-NET TV">[지니 TV] K-NET TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|222" xmltv_id="[지니 TV] 시니어TV">[지니 TV] 시니어TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|223" xmltv_id="[지니 TV] 소상공인방송">[지니 TV] 소상공인방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|224" xmltv_id="[지니 TV] 지방자치TV">[지니 TV] 지방자치TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|225" xmltv_id="[지니 TV] 디마티비">[지니 TV] 디마티비</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|226" xmltv_id="[지니 TV] 폴라리스TV">[지니 TV] 폴라리스TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|231" xmltv_id="[지니 TV] 가톨릭평화방송">[지니 TV] 가톨릭평화방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|232" xmltv_id="[지니 TV] BBS불교방송">[지니 TV] BBS불교방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|233" xmltv_id="[지니 TV] BTN불교TV">[지니 TV] BTN불교TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|234" xmltv_id="[지니 TV] Good TV">[지니 TV] Good TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|235" xmltv_id="[지니 TV] C Channel">[지니 TV] C Channel</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|236" xmltv_id="[지니 TV] CTS기독교TV">[지니 TV] CTS기독교TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|237" xmltv_id="[지니 TV] CGNTV">[지니 TV] CGNTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|238" xmltv_id="[지니 TV] CBS">[지니 TV] CBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|239" xmltv_id="[지니 TV] 원음방송">[지니 TV] 원음방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|240" xmltv_id="[지니 TV] YCN유림방송">[지니 TV] YCN유림방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|241" xmltv_id="[지니 TV] STB상생방송">[지니 TV] STB상생방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|250" xmltv_id="[지니 TV] TVCHOSUN3">[지니 TV] TVCHOSUN3</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|251" xmltv_id="[지니 TV] 국악방송">[지니 TV] 국악방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|252" xmltv_id="[지니 TV] 한국직업방송">[지니 TV] 한국직업방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|253" xmltv_id="[지니 TV] 토마토클래식">[지니 TV] 토마토클래식</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|254" xmltv_id="[지니 TV] WeeTV">[지니 TV] WeeTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|255" xmltv_id="[지니 TV] BALL TV">[지니 TV] BALL TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|256" xmltv_id="[지니 TV] 슬로우TV">[지니 TV] 슬로우TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|257" xmltv_id="[지니 TV] ONT">[지니 TV] ONT</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|258" xmltv_id="[지니 TV] 채널칭">[지니 TV] 채널칭</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|260" xmltv_id="[지니 TV] 국방TV">[지니 TV] 국방TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|261" xmltv_id="[지니 TV] 더라이프">[지니 TV] 더라이프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|263" xmltv_id="[지니 TV] EBC">[지니 TV] EBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|267" xmltv_id="[지니 TV] 채널숨">[지니 TV] 채널숨</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|276" xmltv_id="[지니 TV] 리빙TV">[지니 TV] 리빙TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|278" xmltv_id="[지니 TV] 사회안전방송">[지니 TV] 사회안전방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|285" xmltv_id="[지니 TV] NBNTV">[지니 TV] NBNTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|609" xmltv_id="[지니 TV] Dog &amp; Mom">[지니 TV] Dog &amp; Mom</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|610" xmltv_id="[지니 TV] 최신인기가요">[지니 TV] 최신인기가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|611" xmltv_id="[지니 TV] 최신 발라드 가요">[지니 TV] 최신 발라드 가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|612" xmltv_id="[지니 TV] 최신 가요 댄스">[지니 TV] 최신 가요 댄스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|613" xmltv_id="[지니 TV] 최신 가요 차트 HOT 150">[지니 TV] 최신 가요 차트 HOT 150</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|614" xmltv_id="[지니 TV] 트로트가요무대">[지니 TV] 트로트가요무대</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|615" xmltv_id="[지니 TV] 최신 트로트 히트">[지니 TV] 최신 트로트 히트</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|616" xmltv_id="[지니 TV] 응답하라 8090">[지니 TV] 응답하라 8090</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|617" xmltv_id="[지니 TV] 인기성인가요 HOT 300">[지니 TV] 인기성인가요 HOT 300</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|618" xmltv_id="[지니 TV] 최신 히트 팝스">[지니 TV] 최신 히트 팝스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|619" xmltv_id="[지니 TV] 한국인이 사랑한 팝송">[지니 TV] 한국인이 사랑한 팝송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|620" xmltv_id="[지니 TV] 다문화 음악 1">[지니 TV] 다문화 음악 1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|621" xmltv_id="[지니 TV] 다문화 음악 2">[지니 TV] 다문화 음악 2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|622" xmltv_id="[지니 TV] Black Music">[지니 TV] Black Music</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|623" xmltv_id="[지니 TV] Rock Festival">[지니 TV] Rock Festival</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|624" xmltv_id="[지니 TV] All That Jazz">[지니 TV] All That Jazz</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|625" xmltv_id="[지니 TV] 홈클래식">[지니 TV] 홈클래식</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|626" xmltv_id="[지니 TV] 클래식 산책">[지니 TV] 클래식 산책</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|627" xmltv_id="[지니 TV] 당신을 위한 발라드">[지니 TV] 당신을 위한 발라드</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|628" xmltv_id="[지니 TV] 2000년대 인기가요">[지니 TV] 2000년대 인기가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|629" xmltv_id="[지니 TV] TV속 화제음악">[지니 TV] TV속 화제음악</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|630" xmltv_id="[지니 TV] OST 천국">[지니 TV] OST 천국</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|631" xmltv_id="[지니 TV] 엄마랑 EQ동요">[지니 TV] 엄마랑 EQ동요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|632" xmltv_id="[지니 TV] Rainy Day">[지니 TV] Rainy Day</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|633" xmltv_id="[지니 TV] 한국 발라드 명곡770">[지니 TV] 한국 발라드 명곡770</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|634" xmltv_id="[지니 TV] 최신인기댄스&amp;힙합">[지니 TV] 최신인기댄스&amp;힙합</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|635" xmltv_id="[지니 TV] 러브 발라드 명곡 550">[지니 TV] 러브 발라드 명곡 550</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|636" xmltv_id="[지니 TV] 스무드재즈">[지니 TV] 스무드재즈</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|637" xmltv_id="[지니 TV] 클럽뮤직">[지니 TV] 클럽뮤직</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|638" xmltv_id="[지니 TV] 파워스테이션">[지니 TV] 파워스테이션</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|639" xmltv_id="[지니 TV] Cool &amp; Hot">[지니 TV] Cool &amp; Hot</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|960" xmltv_id="[지니 TV] 채널 키즈랜드">[지니 TV] 채널 키즈랜드</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|961" xmltv_id="[지니 TV] ZooMoo">[지니 TV] ZooMoo</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|962" xmltv_id="[지니 TV] Dream Works Channel">[지니 TV] Dream Works Channel</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|965" xmltv_id="[지니 TV] 신기한나라TV 유료">[지니 TV] 신기한나라TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|966" xmltv_id="[지니 TV] 키즈톡톡플러스 유료">[지니 TV] 키즈톡톡플러스 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|968" xmltv_id="[지니 TV] Miao Mi">[지니 TV] Miao Mi</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|969" xmltv_id="[지니 TV] 다빈치러닝">[지니 TV] 다빈치러닝</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|970" xmltv_id="[지니 TV] edu TV">[지니 TV] edu TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|971" xmltv_id="[지니 TV] EBS PLUS2">[지니 TV] EBS PLUS2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|972" xmltv_id="[지니 TV] EBS PLUS1">[지니 TV] EBS PLUS1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|973" xmltv_id="[지니 TV] EBS English">[지니 TV] EBS English</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|974" xmltv_id="[지니 TV] 플레이런TV">[지니 TV] 플레이런TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|975" xmltv_id="[지니 TV] JEI EnglishTV">[지니 TV] JEI EnglishTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|976" xmltv_id="[지니 TV] 뽀요TV">[지니 TV] 뽀요TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|977" xmltv_id="[지니 TV] Cbeebies">[지니 TV] Cbeebies</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|980" xmltv_id="[지니 TV] 브라보키즈">[지니 TV] 브라보키즈</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|981" xmltv_id="[지니 TV] 대교 노리Q">[지니 TV] 대교 노리Q</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|982" xmltv_id="[지니 TV] Baby TV">[지니 TV] Baby TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|983" xmltv_id="[지니 TV] EBS KIDS">[지니 TV] EBS KIDS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|984" xmltv_id="[지니 TV] KBS Kids">[지니 TV] KBS Kids</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|985" xmltv_id="[지니 TV] 캐리TV">[지니 TV] 캐리TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|986" xmltv_id="[지니 TV] JEI 재능TV">[지니 TV] JEI 재능TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|987" xmltv_id="[지니 TV] 대교 어린이TV">[지니 TV] 대교 어린이TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|988" xmltv_id="[지니 TV] 핑크퐁채널">[지니 TV] 핑크퐁채널</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|989" xmltv_id="[지니 TV] 부메랑">[지니 TV] 부메랑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|990" xmltv_id="[지니 TV] 애니플러스">[지니 TV] 애니플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|991" xmltv_id="[지니 TV] 카툰네트워크">[지니 TV] 카툰네트워크</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|992" xmltv_id="[지니 TV] SBS Golf2">[지니 TV] SBS Golf2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|993" xmltv_id="[지니 TV] 애니박스">[지니 TV] 애니박스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|994" xmltv_id="[지니 TV] 애니원">[지니 TV] 애니원</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|995" xmltv_id="[지니 TV] ANIMAX">[지니 TV] ANIMAX</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|996" xmltv_id="[지니 TV] Tooniverse">[지니 TV] Tooniverse</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|997" xmltv_id="[지니 TV] Focus Prime">[지니 TV] Focus Prime</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|998" xmltv_id="[지니 TV] 지니 TV 가이드">[지니 TV] 지니 TV 가이드</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="3|##|999" xmltv_id="[지니 TV] ENA PLAY">[지니 TV] ENA PLAY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|0" xmltv_id="[지니 TV 스카이라이프] YTN">[지니 TV 스카이라이프] YTN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|1" xmltv_id="[지니 TV 스카이라이프] ENA">[지니 TV 스카이라이프] ENA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|2" xmltv_id="[지니 TV 스카이라이프] W쇼핑">[지니 TV 스카이라이프] W쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|3" xmltv_id="[지니 TV 스카이라이프] EBS">[지니 TV 스카이라이프] EBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|4" xmltv_id="[지니 TV 스카이라이프] JTBC">[지니 TV 스카이라이프] JTBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|5" xmltv_id="[지니 TV 스카이라이프] SBS">[지니 TV 스카이라이프] SBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|6" xmltv_id="[지니 TV 스카이라이프] 현대홈쇼핑">[지니 TV 스카이라이프] 현대홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|7" xmltv_id="[지니 TV 스카이라이프] KBS2">[지니 TV 스카이라이프] KBS2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|8" xmltv_id="[지니 TV 스카이라이프] CJ ONSTYLE">[지니 TV 스카이라이프] CJ ONSTYLE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|9" xmltv_id="[지니 TV 스카이라이프] KBS1">[지니 TV 스카이라이프] KBS1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|10" xmltv_id="[지니 TV 스카이라이프] 롯데홈쇼핑">[지니 TV 스카이라이프] 롯데홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|11" xmltv_id="[지니 TV 스카이라이프] MBC">[지니 TV 스카이라이프] MBC</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|12" xmltv_id="[지니 TV 스카이라이프] GS Shop">[지니 TV 스카이라이프] GS Shop</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|13" xmltv_id="[지니 TV 스카이라이프] 채널A">[지니 TV 스카이라이프] 채널A</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|14" xmltv_id="[지니 TV 스카이라이프] KT 알파 쇼핑">[지니 TV 스카이라이프] KT 알파 쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|15" xmltv_id="[지니 TV 스카이라이프] 신세계쇼핑">[지니 TV 스카이라이프] 신세계쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|16" xmltv_id="[지니 TV 스카이라이프] MBN">[지니 TV 스카이라이프] MBN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|17" xmltv_id="[지니 TV 스카이라이프] NS홈쇼핑">[지니 TV 스카이라이프] NS홈쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|18" xmltv_id="[지니 TV 스카이라이프] TV조선">[지니 TV 스카이라이프] TV조선</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|19" xmltv_id="[지니 TV 스카이라이프] 홈&amp;쇼핑">[지니 TV 스카이라이프] 홈&amp;쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|20" xmltv_id="[지니 TV 스카이라이프] tvN">[지니 TV 스카이라이프] tvN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|21" xmltv_id="[지니 TV 스카이라이프] 공영쇼핑">[지니 TV 스카이라이프] 공영쇼핑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|22" xmltv_id="[지니 TV 스카이라이프] CJ ONSTYLE+">[지니 TV 스카이라이프] CJ ONSTYLE+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|23" xmltv_id="[지니 TV 스카이라이프] 연합뉴스TV">[지니 TV 스카이라이프] 연합뉴스TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|24" xmltv_id="[지니 TV 스카이라이프] 쇼핑엔티">[지니 TV 스카이라이프] 쇼핑엔티</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|25" xmltv_id="[지니 TV 스카이라이프] SBS Biz">[지니 TV 스카이라이프] SBS Biz</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|26" xmltv_id="[지니 TV 스카이라이프] 현대홈쇼핑+shop">[지니 TV 스카이라이프] 현대홈쇼핑+shop</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|27" xmltv_id="[지니 TV 스카이라이프] KBS JOY">[지니 TV 스카이라이프] KBS JOY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|28" xmltv_id="[지니 TV 스카이라이프] GS MY SHOP">[지니 TV 스카이라이프] GS MY SHOP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|29" xmltv_id="[지니 TV 스카이라이프] MBC드라마넷">[지니 TV 스카이라이프] MBC드라마넷</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|30" xmltv_id="[지니 TV 스카이라이프] OBS">[지니 TV 스카이라이프] OBS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|31" xmltv_id="[지니 TV 스카이라이프] LOTTE OneTV">[지니 TV 스카이라이프] LOTTE OneTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|32" xmltv_id="[지니 TV 스카이라이프] SBS Plus">[지니 TV 스카이라이프] SBS Plus</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|33" xmltv_id="[지니 TV 스카이라이프] SK stoa">[지니 TV 스카이라이프] SK stoa</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|34" xmltv_id="[지니 TV 스카이라이프] KBS Drama">[지니 TV 스카이라이프] KBS Drama</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|35" xmltv_id="[지니 TV 스카이라이프] NS Shop+">[지니 TV 스카이라이프] NS Shop+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|36" xmltv_id="[지니 TV 스카이라이프] ENA DRAMA">[지니 TV 스카이라이프] ENA DRAMA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|37" xmltv_id="[지니 TV 스카이라이프] iHQ drama">[지니 TV 스카이라이프] iHQ drama</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|38" xmltv_id="[지니 TV 스카이라이프] SBS Fun E!">[지니 TV 스카이라이프] SBS Fun E!</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|39" xmltv_id="[지니 TV 스카이라이프] Mnet">[지니 TV 스카이라이프] Mnet</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|40" xmltv_id="[지니 TV 스카이라이프] Movie Choice 유료">[지니 TV 스카이라이프] Movie Choice 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|41" xmltv_id="[지니 TV 스카이라이프] tvN STORY">[지니 TV 스카이라이프] tvN STORY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|42" xmltv_id="[지니 TV 스카이라이프] ONCE">[지니 TV 스카이라이프] ONCE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|43" xmltv_id="[지니 TV 스카이라이프] tvN DRAMA">[지니 TV 스카이라이프] tvN DRAMA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|44" xmltv_id="[지니 TV 스카이라이프] E채널">[지니 TV 스카이라이프] E채널</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|45" xmltv_id="[지니 TV 스카이라이프] JTBC 2">[지니 TV 스카이라이프] JTBC 2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|46" xmltv_id="[지니 TV 스카이라이프] tvN SHOW">[지니 TV 스카이라이프] tvN SHOW</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|47" xmltv_id="[지니 TV 스카이라이프] CNTV">[지니 TV 스카이라이프] CNTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|48" xmltv_id="[지니 TV 스카이라이프] K Star">[지니 TV 스카이라이프] K Star</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|49" xmltv_id="[지니 TV 스카이라이프] 드라마큐브">[지니 TV 스카이라이프] 드라마큐브</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|50" xmltv_id="[지니 TV 스카이라이프] OLIFE">[지니 TV 스카이라이프] OLIFE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|51" xmltv_id="[지니 TV 스카이라이프] ENA STORY">[지니 TV 스카이라이프] ENA STORY</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|52" xmltv_id="[지니 TV 스카이라이프] OCN">[지니 TV 스카이라이프] OCN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|53" xmltv_id="[지니 TV 스카이라이프] IHQ">[지니 TV 스카이라이프] IHQ</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|54" xmltv_id="[지니 TV 스카이라이프] AsiaN">[지니 TV 스카이라이프] AsiaN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|55" xmltv_id="[지니 TV 스카이라이프] GTV">[지니 TV 스카이라이프] GTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|56" xmltv_id="[지니 TV 스카이라이프] 디원">[지니 TV 스카이라이프] 디원</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|57" xmltv_id="[지니 TV 스카이라이프] 채널이엠">[지니 TV 스카이라이프] 채널이엠</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|58" xmltv_id="[지니 TV 스카이라이프] EDGETV">[지니 TV 스카이라이프] EDGETV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|59" xmltv_id="[지니 TV 스카이라이프] MBC ON">[지니 TV 스카이라이프] MBC ON</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|60" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|61" xmltv_id="[지니 TV 스카이라이프] OCN Movies">[지니 TV 스카이라이프] OCN Movies</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|62" xmltv_id="[지니 TV 스카이라이프] 캐치온1 유료">[지니 TV 스카이라이프] 캐치온1 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|63" xmltv_id="[지니 TV 스카이라이프] 캐치온2 유료">[지니 TV 스카이라이프] 캐치온2 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|64" xmltv_id="[지니 TV 스카이라이프] OCN Movies2">[지니 TV 스카이라이프] OCN Movies2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|65" xmltv_id="[지니 TV 스카이라이프] JTBC4">[지니 TV 스카이라이프] JTBC4</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|66" xmltv_id="[지니 TV 스카이라이프] 스크린">[지니 TV 스카이라이프] 스크린</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|67" xmltv_id="[지니 TV 스카이라이프] AsiaM">[지니 TV 스카이라이프] AsiaM</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|68" xmltv_id="[지니 TV 스카이라이프] CineF">[지니 TV 스카이라이프] CineF</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|69" xmltv_id="[지니 TV 스카이라이프] 인디필름">[지니 TV 스카이라이프] 인디필름</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|70" xmltv_id="[지니 TV 스카이라이프] THE MOVIE">[지니 TV 스카이라이프] THE MOVIE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|71" xmltv_id="[지니 TV 스카이라이프] Mplex">[지니 TV 스카이라이프] Mplex</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|72" xmltv_id="[지니 TV 스카이라이프] 월드 클래식 무비">[지니 TV 스카이라이프] 월드 클래식 무비</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|73" xmltv_id="[지니 TV 스카이라이프] AXN">[지니 TV 스카이라이프] AXN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|74" xmltv_id="[지니 TV 스카이라이프] 채널나우">[지니 TV 스카이라이프] 채널나우</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|75" xmltv_id="[지니 TV 스카이라이프] 텔레노벨라">[지니 TV 스카이라이프] 텔레노벨라</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|76" xmltv_id="[지니 TV 스카이라이프] 채널W">[지니 TV 스카이라이프] 채널W</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|77" xmltv_id="[지니 TV 스카이라이프] 중화TV">[지니 TV 스카이라이프] 중화TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|78" xmltv_id="[지니 TV 스카이라이프] CH.U">[지니 TV 스카이라이프] CH.U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|79" xmltv_id="[지니 TV 스카이라이프] Channel J">[지니 TV 스카이라이프] Channel J</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|80" xmltv_id="[지니 TV 스카이라이프] 채널차이나">[지니 TV 스카이라이프] 채널차이나</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|81" xmltv_id="[지니 TV 스카이라이프] 하비라이프">[지니 TV 스카이라이프] 하비라이프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|82" xmltv_id="[지니 TV 스카이라이프] 하이라이트TV">[지니 TV 스카이라이프] 하이라이트TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|83" xmltv_id="[지니 TV 스카이라이프] Fun TV">[지니 TV 스카이라이프] Fun TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|84" xmltv_id="[지니 TV 스카이라이프] WeLike">[지니 TV 스카이라이프] WeLike</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|86" xmltv_id="[지니 TV 스카이라이프] 라이프타임">[지니 TV 스카이라이프] 라이프타임</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|87" xmltv_id="[지니 TV 스카이라이프] KBS Story">[지니 TV 스카이라이프] KBS Story</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|88" xmltv_id="[지니 TV 스카이라이프] SBS F!L">[지니 TV 스카이라이프] SBS F!L</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|89" xmltv_id="[지니 TV 스카이라이프] CH view">[지니 TV 스카이라이프] CH view</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|90" xmltv_id="[지니 TV 스카이라이프] YTN2">[지니 TV 스카이라이프] YTN2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|91" xmltv_id="[지니 TV 스카이라이프] 한국경제TV">[지니 TV 스카이라이프] 한국경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|92" xmltv_id="[지니 TV 스카이라이프] 머니투데이방송">[지니 TV 스카이라이프] 머니투데이방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|93" xmltv_id="[지니 TV 스카이라이프] 이데일리TV">[지니 TV 스카이라이프] 이데일리TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|94" xmltv_id="[지니 TV 스카이라이프] 토마토증권통">[지니 TV 스카이라이프] 토마토증권통</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|95" xmltv_id="[지니 TV 스카이라이프] 매일경제TV">[지니 TV 스카이라이프] 매일경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|96" xmltv_id="[지니 TV 스카이라이프] 서울경제TV">[지니 TV 스카이라이프] 서울경제TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|97" xmltv_id="[지니 TV 스카이라이프] ONT">[지니 TV 스카이라이프] ONT</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|98" xmltv_id="[지니 TV 스카이라이프] MGTV">[지니 TV 스카이라이프] MGTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|99" xmltv_id="[지니 TV 스카이라이프] I.NET">[지니 TV 스카이라이프] I.NET</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|100" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|101" xmltv_id="[지니 TV 스카이라이프] Discovery">[지니 TV 스카이라이프] Discovery</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|102" xmltv_id="[지니 TV 스카이라이프] 내셔널지오그래픽">[지니 TV 스카이라이프] 내셔널지오그래픽</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|103" xmltv_id="[지니 TV 스카이라이프] Nat Geo Wild">[지니 TV 스카이라이프] Nat Geo Wild</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|104" xmltv_id="[지니 TV 스카이라이프] Animal Planet">[지니 TV 스카이라이프] Animal Planet</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|105" xmltv_id="[지니 TV 스카이라이프] 히스토리">[지니 TV 스카이라이프] 히스토리</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|106" xmltv_id="[지니 TV 스카이라이프] BBC Earth">[지니 TV 스카이라이프] BBC Earth</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|107" xmltv_id="[지니 TV 스카이라이프] Smithsonian Channel">[지니 TV 스카이라이프] Smithsonian Channel</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|109" xmltv_id="[지니 TV 스카이라이프] TVCHOSUN2">[지니 TV 스카이라이프] TVCHOSUN2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|110" xmltv_id="[지니 TV 스카이라이프] 채널A플러스">[지니 TV 스카이라이프] 채널A플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|111" xmltv_id="[지니 TV 스카이라이프] MBN플러스">[지니 TV 스카이라이프] MBN플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|112" xmltv_id="[지니 TV 스카이라이프] MBC M">[지니 TV 스카이라이프] MBC M</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|113" xmltv_id="[지니 TV 스카이라이프] MTV">[지니 TV 스카이라이프] MTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|114" xmltv_id="[지니 TV 스카이라이프] 채널 칭">[지니 TV 스카이라이프] 채널 칭</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|115" xmltv_id="[지니 TV 스카이라이프] 스마일TV+">[지니 TV 스카이라이프] 스마일TV+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|116" xmltv_id="[지니 TV 스카이라이프] KBS LIFE">[지니 TV 스카이라이프] KBS LIFE</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|117" xmltv_id="[지니 TV 스카이라이프] 다큐원">[지니 TV 스카이라이프] 다큐원</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|118" xmltv_id="[지니 TV 스카이라이프] 실버아이TV">[지니 TV 스카이라이프] 실버아이TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|119" xmltv_id="[지니 TV 스카이라이프] FX">[지니 TV 스카이라이프] FX</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|120" xmltv_id="[지니 TV 스카이라이프] Fishing TV">[지니 TV 스카이라이프] Fishing TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|121" xmltv_id="[지니 TV 스카이라이프] FTV">[지니 TV 스카이라이프] FTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|122" xmltv_id="[지니 TV 스카이라이프] 마운틴 TV">[지니 TV 스카이라이프] 마운틴 TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|123" xmltv_id="[지니 TV 스카이라이프] 이벤트TV">[지니 TV 스카이라이프] 이벤트TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|124" xmltv_id="[지니 TV 스카이라이프] HQ+">[지니 TV 스카이라이프] HQ+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|125" xmltv_id="[지니 TV 스카이라이프] 시네마천국">[지니 TV 스카이라이프] 시네마천국</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|126" xmltv_id="[지니 TV 스카이라이프] YTN사이언스TV">[지니 TV 스카이라이프] YTN사이언스TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|127" xmltv_id="[지니 TV 스카이라이프] SkyUHD U">[지니 TV 스카이라이프] SkyUHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|128" xmltv_id="[지니 TV 스카이라이프] UXN U">[지니 TV 스카이라이프] UXN U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|129" xmltv_id="[지니 TV 스카이라이프] SBS FiL UHD U">[지니 TV 스카이라이프] SBS FiL UHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|130" xmltv_id="[지니 TV 스카이라이프] Asia UHD U">[지니 TV 스카이라이프] Asia UHD U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|131" xmltv_id="[지니 TV 스카이라이프] UHD Dream TV U">[지니 TV 스카이라이프] UHD Dream TV U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|132" xmltv_id="[지니 TV 스카이라이프] UMAX U">[지니 TV 스카이라이프] UMAX U</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|133" xmltv_id="[지니 TV 스카이라이프] 리얼 TV">[지니 TV 스카이라이프] 리얼 TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|134" xmltv_id="[지니 TV 스카이라이프] CMC TV">[지니 TV 스카이라이프] CMC TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|135" xmltv_id="[지니 TV 스카이라이프] 한국농업방송">[지니 TV 스카이라이프] 한국농업방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|136" xmltv_id="[지니 TV 스카이라이프] OBS W">[지니 TV 스카이라이프] OBS W</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|138" xmltv_id="[지니 TV 스카이라이프] MBC NET">[지니 TV 스카이라이프] MBC NET</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|139" xmltv_id="[지니 TV 스카이라이프] 메디컬TV">[지니 TV 스카이라이프] 메디컬TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|140" xmltv_id="[지니 TV 스카이라이프] K바둑">[지니 TV 스카이라이프] K바둑</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|141" xmltv_id="[지니 TV 스카이라이프] 바둑TV">[지니 TV 스카이라이프] 바둑TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|142" xmltv_id="[지니 TV 스카이라이프] Brain TV">[지니 TV 스카이라이프] Brain TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|145" xmltv_id="[지니 TV 스카이라이프] TVasiaPlus">[지니 TV 스카이라이프] TVasiaPlus</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|146" xmltv_id="[지니 TV 스카이라이프] 동아TV">[지니 TV 스카이라이프] 동아TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|148" xmltv_id="[지니 TV 스카이라이프] STATV">[지니 TV 스카이라이프] STATV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|149" xmltv_id="[지니 TV 스카이라이프] 더 라이프">[지니 TV 스카이라이프] 더 라이프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|150" xmltv_id="[지니 TV 스카이라이프] 채널s">[지니 TV 스카이라이프] 채널s</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|160" xmltv_id="[지니 TV 스카이라이프] TLC여행레저채널">[지니 TV 스카이라이프] TLC여행레저채널</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|161" xmltv_id="[지니 TV 스카이라이프] 생활체육TV">[지니 TV 스카이라이프] 생활체육TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|162" xmltv_id="[지니 TV 스카이라이프] 쿠키건강TV">[지니 TV 스카이라이프] 쿠키건강TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|163" xmltv_id="[지니 TV 스카이라이프] 국방TV">[지니 TV 스카이라이프] 국방TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|164" xmltv_id="[지니 TV 스카이라이프] KTV">[지니 TV 스카이라이프] KTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|165" xmltv_id="[지니 TV 스카이라이프] 국회방송">[지니 TV 스카이라이프] 국회방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|166" xmltv_id="[지니 TV 스카이라이프] 육아방송">[지니 TV 스카이라이프] 육아방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|167" xmltv_id="[지니 TV 스카이라이프] OUN">[지니 TV 스카이라이프] OUN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|168" xmltv_id="[지니 TV 스카이라이프] EBS플러스1">[지니 TV 스카이라이프] EBS플러스1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|169" xmltv_id="[지니 TV 스카이라이프] EBS플러스2">[지니 TV 스카이라이프] EBS플러스2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|170" xmltv_id="[지니 TV 스카이라이프] EBS English">[지니 TV 스카이라이프] EBS English</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|171" xmltv_id="[지니 TV 스카이라이프] FOX NEWS">[지니 TV 스카이라이프] FOX NEWS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|172" xmltv_id="[지니 TV 스카이라이프] CNN International">[지니 TV 스카이라이프] CNN International</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|173" xmltv_id="[지니 TV 스카이라이프] BBC News">[지니 TV 스카이라이프] BBC News</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|174" xmltv_id="[지니 TV 스카이라이프] CGTN">[지니 TV 스카이라이프] CGTN</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|175" xmltv_id="[지니 TV 스카이라이프] NHK World Premium">[지니 TV 스카이라이프] NHK World Premium</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|176" xmltv_id="[지니 TV 스카이라이프] 아리랑TV">[지니 TV 스카이라이프] 아리랑TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|177" xmltv_id="[지니 TV 스카이라이프] CCTV4">[지니 TV 스카이라이프] CCTV4</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|179" xmltv_id="[지니 TV 스카이라이프] RTV">[지니 TV 스카이라이프] RTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|180" xmltv_id="[지니 TV 스카이라이프] BBS불교방송">[지니 TV 스카이라이프] BBS불교방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|181" xmltv_id="[지니 TV 스카이라이프] 불교TV">[지니 TV 스카이라이프] 불교TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|182" xmltv_id="[지니 TV 스카이라이프] CBS TV">[지니 TV 스카이라이프] CBS TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|183" xmltv_id="[지니 TV 스카이라이프] CTS기독교TV">[지니 TV 스카이라이프] CTS기독교TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|184" xmltv_id="[지니 TV 스카이라이프] 가톨릭 평화방송">[지니 TV 스카이라이프] 가톨릭 평화방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|185" xmltv_id="[지니 TV 스카이라이프] STB상생방송">[지니 TV 스카이라이프] STB상생방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|186" xmltv_id="[지니 TV 스카이라이프] GOOD TV">[지니 TV 스카이라이프] GOOD TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|187" xmltv_id="[지니 TV 스카이라이프] WBS원음방송">[지니 TV 스카이라이프] WBS원음방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|188" xmltv_id="[지니 TV 스카이라이프] 복지TV">[지니 TV 스카이라이프] 복지TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|189" xmltv_id="[지니 TV 스카이라이프] 한국직업방송">[지니 TV 스카이라이프] 한국직업방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|190" xmltv_id="[지니 TV 스카이라이프] 다문화TV">[지니 TV 스카이라이프] 다문화TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|191" xmltv_id="[지니 TV 스카이라이프] 9colors">[지니 TV 스카이라이프] 9colors</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|192" xmltv_id="[지니 TV 스카이라이프] NOW제주TV">[지니 TV 스카이라이프] NOW제주TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|199" xmltv_id="[지니 TV 스카이라이프] 컬쳐플러스">[지니 TV 스카이라이프] 컬쳐플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|200" xmltv_id="[지니 TV 스카이라이프] SPOTV">[지니 TV 스카이라이프] SPOTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|201" xmltv_id="[지니 TV 스카이라이프] SPOTV2">[지니 TV 스카이라이프] SPOTV2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|202" xmltv_id="[지니 TV 스카이라이프] SkySports">[지니 TV 스카이라이프] SkySports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|203" xmltv_id="[지니 TV 스카이라이프] KBS N Sports">[지니 TV 스카이라이프] KBS N Sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|204" xmltv_id="[지니 TV 스카이라이프] SBS Sports">[지니 TV 스카이라이프] SBS Sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|205" xmltv_id="[지니 TV 스카이라이프] MBC SPORT+">[지니 TV 스카이라이프] MBC SPORT+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|206" xmltv_id="[지니 TV 스카이라이프] JTBC Golf">[지니 TV 스카이라이프] JTBC Golf</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|207" xmltv_id="[지니 TV 스카이라이프] SBS 골프">[지니 TV 스카이라이프] SBS 골프</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|208" xmltv_id="[지니 TV 스카이라이프] JTBC3 GOLF&amp;SPORTS">[지니 TV 스카이라이프] JTBC3 GOLF&amp;SPORTS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|209" xmltv_id="[지니 TV 스카이라이프] SPOTV Golf &amp; Health">[지니 TV 스카이라이프] SPOTV Golf &amp; Health</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|210" xmltv_id="[지니 TV 스카이라이프] IB Sports">[지니 TV 스카이라이프] IB Sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|211" xmltv_id="[지니 TV 스카이라이프] 빌리어즈TV">[지니 TV 스카이라이프] 빌리어즈TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|212" xmltv_id="[지니 TV 스카이라이프] SPOTV ON 유료">[지니 TV 스카이라이프] SPOTV ON 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|213" xmltv_id="[지니 TV 스카이라이프] SPOTV ON2 유료">[지니 TV 스카이라이프] SPOTV ON2 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|215" xmltv_id="[지니 TV 스카이라이프] SPOTV Prime 유료">[지니 TV 스카이라이프] SPOTV Prime 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|216" xmltv_id="[지니 TV 스카이라이프] FIGHT SPORTS">[지니 TV 스카이라이프] FIGHT SPORTS</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|217" xmltv_id="[지니 TV 스카이라이프] Eurosport">[지니 TV 스카이라이프] Eurosport</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|218" xmltv_id="[지니 TV 스카이라이프] Golf&amp;PBA">[지니 TV 스카이라이프] Golf&amp;PBA</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|220" xmltv_id="[지니 TV 스카이라이프] tvN sports">[지니 TV 스카이라이프] tvN sports</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|230" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|231" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|232" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|260" xmltv_id="[지니 TV 스카이라이프] ViKi 유료">[지니 TV 스카이라이프] ViKi 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|261" xmltv_id="[지니 TV 스카이라이프] Playboy TV 유료">[지니 TV 스카이라이프] Playboy TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|262" xmltv_id="[지니 TV 스카이라이프] 미드나잇 유료">[지니 TV 스카이라이프] 미드나잇 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|263" xmltv_id="[지니 TV 스카이라이프] 허니TV 유료">[지니 TV 스카이라이프] 허니TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|264" xmltv_id="[지니 TV 스카이라이프] 디자이어TV 유료">[지니 TV 스카이라이프] 디자이어TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|265" xmltv_id="[지니 TV 스카이라이프] 비너스 TV 유료">[지니 TV 스카이라이프] 비너스 TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|270" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|271" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|272" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|273" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|274" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|275" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|276" xmltv_id="[지니 TV 스카이라이프] Red Choice">[지니 TV 스카이라이프] Red Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|286" xmltv_id="[지니 TV 스카이라이프] Movie Choice+">[지니 TV 스카이라이프] Movie Choice+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|287" xmltv_id="[지니 TV 스카이라이프] Movie Choice+">[지니 TV 스카이라이프] Movie Choice+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|288" xmltv_id="[지니 TV 스카이라이프] Movie Choice+">[지니 TV 스카이라이프] Movie Choice+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|289" xmltv_id="[지니 TV 스카이라이프] Movie Choice+">[지니 TV 스카이라이프] Movie Choice+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|290" xmltv_id="[지니 TV 스카이라이프] Movie Choice+">[지니 TV 스카이라이프] Movie Choice+</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|291" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|300" xmltv_id="[지니 TV 스카이라이프] Sky 지역방송">[지니 TV 스카이라이프] Sky 지역방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|301" xmltv_id="[지니 TV 스카이라이프] Movie Choice">[지니 TV 스카이라이프] Movie Choice</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|303" xmltv_id="[지니 TV 스카이라이프] 한경arteTV">[지니 TV 스카이라이프] 한경arteTV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|304" xmltv_id="[지니 TV 스카이라이프] ORFEO">[지니 TV 스카이라이프] ORFEO</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|305" xmltv_id="[지니 TV 스카이라이프] Sky Ultra Audio CD 클래식">[지니 TV 스카이라이프] Sky Ultra Audio CD 클래식</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|306" xmltv_id="[지니 TV 스카이라이프] C Music TV">[지니 TV 스카이라이프] C Music TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|307" xmltv_id="[지니 TV 스카이라이프] Sky Ultra Audio K-POP">[지니 TV 스카이라이프] Sky Ultra Audio K-POP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|334" xmltv_id="[지니 TV 스카이라이프] BBC World Service">[지니 TV 스카이라이프] BBC World Service</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|350" xmltv_id="[지니 TV 스카이라이프] Satio 최신인기가요 HOT 150">[지니 TV 스카이라이프] Satio 최신인기가요 HOT 150</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|351" xmltv_id="[지니 TV 스카이라이프] Satio 대한민국역대발라드명곡770선">[지니 TV 스카이라이프] Satio 대한민국역대발라드명곡770선</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|352" xmltv_id="[지니 TV 스카이라이프] 최신인기댄스&amp;힙합">[지니 TV 스카이라이프] 최신인기댄스&amp;힙합</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|353" xmltv_id="[지니 TV 스카이라이프] Satio 홈클래식">[지니 TV 스카이라이프] Satio 홈클래식</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|354" xmltv_id="[지니 TV 스카이라이프] Satio 트로트 가요무대">[지니 TV 스카이라이프] Satio 트로트 가요무대</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|355" xmltv_id="[지니 TV 스카이라이프] Satio 주간인기성인가요 HOT 300">[지니 TV 스카이라이프] Satio 주간인기성인가요 HOT 300</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|356" xmltv_id="[지니 TV 스카이라이프] Satio 7080 히트가요">[지니 TV 스카이라이프] Satio 7080 히트가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|357" xmltv_id="[지니 TV 스카이라이프] Satio 1979년 종로 음악 다방">[지니 TV 스카이라이프] Satio 1979년 종로 음악 다방</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|358" xmltv_id="[지니 TV 스카이라이프] Satio 선데이 브런치카페 팝스 인 뉴욕">[지니 TV 스카이라이프] Satio 선데이 브런치카페 팝스 인 뉴욕</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|359" xmltv_id="[지니 TV 스카이라이프] Satio드라마같은사랑,러브발라드550선">[지니 TV 스카이라이프] Satio드라마같은사랑,러브발라드550선</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|360" xmltv_id="[지니 TV 스카이라이프] Satio 크리스마스 뮤직">[지니 TV 스카이라이프] Satio 크리스마스 뮤직</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|361" xmltv_id="[지니 TV 스카이라이프] Satio 1969년 명동 음악다방">[지니 TV 스카이라이프] Satio 1969년 명동 음악다방</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|362" xmltv_id="[지니 TV 스카이라이프] Satio 최신유행 클럽음악">[지니 TV 스카이라이프] Satio 최신유행 클럽음악</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|363" xmltv_id="[지니 TV 스카이라이프] Satio 럭셔리 파티라운지">[지니 TV 스카이라이프] Satio 럭셔리 파티라운지</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|364" xmltv_id="[지니 TV 스카이라이프] 스무드재즈앳더팜비치">[지니 TV 스카이라이프] 스무드재즈앳더팜비치</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|365" xmltv_id="[지니 TV 스카이라이프] KISS 최신 인기 가요">[지니 TV 스카이라이프] KISS 최신 인기 가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|366" xmltv_id="[지니 TV 스카이라이프] KISS 클래식 산책">[지니 TV 스카이라이프] KISS 클래식 산책</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|367" xmltv_id="[지니 TV 스카이라이프] KISS 당신을 위한 발라드">[지니 TV 스카이라이프] KISS 당신을 위한 발라드</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|368" xmltv_id="[지니 TV 스카이라이프] KISS 한국인이 사랑한 팝송">[지니 TV 스카이라이프] KISS 한국인이 사랑한 팝송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|369" xmltv_id="[지니 TV 스카이라이프] KISS 키스 더 트롯">[지니 TV 스카이라이프] KISS 키스 더 트롯</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|370" xmltv_id="[지니 TV 스카이라이프] KISS 명품 클래식">[지니 TV 스카이라이프] KISS 명품 클래식</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|371" xmltv_id="[지니 TV 스카이라이프] KISS 응답하라 8090">[지니 TV 스카이라이프] KISS 응답하라 8090</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|372" xmltv_id="[지니 TV 스카이라이프] KISS K-POP 차트쇼">[지니 TV 스카이라이프] KISS K-POP 차트쇼</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|373" xmltv_id="[지니 TV 스카이라이프] KISS 2000년대 인기가요">[지니 TV 스카이라이프] KISS 2000년대 인기가요</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|374" xmltv_id="[지니 TV 스카이라이프] KISS 재즈 라운지">[지니 TV 스카이라이프] KISS 재즈 라운지</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|375" xmltv_id="[지니 TV 스카이라이프] Kiss 기독교 음악">[지니 TV 스카이라이프] Kiss 기독교 음악</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|376" xmltv_id="[지니 TV 스카이라이프] KISS 탑골 K-POP">[지니 TV 스카이라이프] KISS 탑골 K-POP</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|377" xmltv_id="[지니 TV 스카이라이프] KISS 8090 히트팝">[지니 TV 스카이라이프] KISS 8090 히트팝</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|378" xmltv_id="[지니 TV 스카이라이프] KISS 다문화 가족 음악방송1">[지니 TV 스카이라이프] KISS 다문화 가족 음악방송1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|379" xmltv_id="[지니 TV 스카이라이프] KISS 다문화 가족 음악방송2">[지니 TV 스카이라이프] KISS 다문화 가족 음악방송2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|483" xmltv_id="[지니 TV 스카이라이프] 신기한나라TV 유료">[지니 TV 스카이라이프] 신기한나라TV 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|484" xmltv_id="[지니 TV 스카이라이프] 애니플러스">[지니 TV 스카이라이프] 애니플러스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|485" xmltv_id="[지니 TV 스카이라이프] JEI재능방송">[지니 TV 스카이라이프] JEI재능방송</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|486" xmltv_id="[지니 TV 스카이라이프] 애니맥스">[지니 TV 스카이라이프] 애니맥스</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|487" xmltv_id="[지니 TV 스카이라이프] 카툰네트워크">[지니 TV 스카이라이프] 카툰네트워크</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|488" xmltv_id="[지니 TV 스카이라이프] 대교어린이TV">[지니 TV 스카이라이프] 대교어린이TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|489" xmltv_id="[지니 TV 스카이라이프] SBS Golf2">[지니 TV 스카이라이프] SBS Golf2</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|490" xmltv_id="[지니 TV 스카이라이프] AniBox">[지니 TV 스카이라이프] AniBox</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|492" xmltv_id="[지니 TV 스카이라이프] KBS Kids">[지니 TV 스카이라이프] KBS Kids</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|494" xmltv_id="[지니 TV 스카이라이프] Tooniverse">[지니 TV 스카이라이프] Tooniverse</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|495" xmltv_id="[지니 TV 스카이라이프] 키즈톡톡 플러스 유료">[지니 TV 스카이라이프] 키즈톡톡 플러스 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|496" xmltv_id="[지니 TV 스카이라이프] 뽀요TV">[지니 TV 스카이라이프] 뽀요TV</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|497" xmltv_id="[지니 TV 스카이라이프] AniOne">[지니 TV 스카이라이프] AniOne</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|499" xmltv_id="[지니 TV 스카이라이프] Movie Choice 유료">[지니 TV 스카이라이프] Movie Choice 유료</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|500" xmltv_id="[지니 TV 스카이라이프] MBC every1">[지니 TV 스카이라이프] MBC every1</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|505" xmltv_id="[지니 TV 스카이라이프] SkyGuide">[지니 TV 스카이라이프] SkyGuide</channel>
+    <channel site="[ENC][EX]tv.kt.com_0" site_id="4|##|510" xmltv_id="[지니 TV 스카이라이프] ENA PLAY">[지니 TV 스카이라이프] ENA PLAY</channel>
+  </channels>
+</site>
