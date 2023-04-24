@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sic.pt_0">
+  <channels>
+    <channel site="sic.pt_0" site_id="gen" xmltv_id="SIC">SIC</channel>
+    <channel site="sic.pt_0" site_id="not" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel site="sic.pt_0" site_id="rad" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel site="sic.pt_0" site_id="mul" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel site="sic.pt_0" site_id="kid" xmltv_id="SIC K">SIC K</channel>
+    <channel site="sic.pt_0" site_id="car" xmltv_id="SIC Caras">SIC Caras</channel>
+    <channel site="sic.pt_0" site_id="int" xmltv_id="SIC Internacional">SIC Internacional</channel>
+  </channels>
+</site>

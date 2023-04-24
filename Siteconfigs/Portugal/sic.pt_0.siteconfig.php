@@ -1,0 +1,36 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'sic.pt',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-04-24',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'pt',
+  'max_day' => '7',
+  'rating_system' => 'CCE',
+  'episodeOption' => '1',
+  'url1' => 'https://api.impresa.pt/epg/rest/v1/schedule/##channel##?offset=##urldate1##',
+  'requestOption1' => '1',
+  'urldate_format1' => '#daycounter#0',
+  'show' => '({"startDate".*?})',
+  'start' => '"startDate":(\\d+)',
+  'start_format' => 'java',
+  'duration' => '"duration":(\\d+)||#format#ms',
+  'title' => '"name":"(.*?)","',
+  'desc' => '"synopsis":"(.*?)","',
+  'category' => '"broadcastType":"(live)"||#word#',
+  'showicon' => '"logoUrl":"(.*?)"',
+  'season' => '"season":"(?!0)(\\d+)',
+  'episode' => '"episode":"(?!0)(\\d+)',
+  'episode_total' => '"totalEpisodes":"(?!0)(\\d+)',
+  'subtitles' => '"hasTeletextSubtitles":(true)',
+  'rating' => '"rating":"(.*?)"',
+  'ccurl1' => 'https://api.impresa.pt/epg/rest/v1/channels',
+  'ccrequestOption1' => '1',
+  'ccchannel_block' => '{"id":.*?}||#include#"name"',
+  'ccchannel_id' => '"id":"(.*?)"',
+  'ccchannel_name' => '"name":"(.*?)"',
+);
+?>
