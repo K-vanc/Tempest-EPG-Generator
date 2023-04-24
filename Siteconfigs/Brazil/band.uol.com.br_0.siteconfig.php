@@ -1,0 +1,38 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'band.uol.com.br',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-04-24',
+  'rev_no' => 'R0',
+  'timezone' => 'America/Sao_Paulo',
+  'culture' => 'pt',
+  'max_day' => '7',
+  'url1' => 'https://apiconteudo.band.uol.com.br/?query=%7Bprogramacao_grade_semanal(Praca:%22##channel##%22%20Veiculo:%22Band%20TV%22%20DiaSemana:%22##urldate1##%22)%7BHourInit:HorarioInicio%20HourEnd:HorarioFim%20Grade%7BPrograma%7BTitle:Nome%20Description:Descricao%20Image:UrlAvatar%20Genero%20LeiaMais%20TituloDoDestaque%20DataDoDestaque%20TemSAP%20TemClosedCaption%20TemAudioDescricao%20TemAoVivo%20Classificacao%7BNome%20__typename%7DRedesSociais%7BUrlRedeSocial%20RedeSocial%7BNome%20__typename%7D__typename%7DBandTV%7BLinkPaginaAoVivo%20LinkSite%20__typename%7D__typename%7D__typename%7D__typename%7D%7D',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/plain, */*',
+  'host_header1' => 'apiconteudo.band.uol.com.br',
+  'origin_header1' => 'https://www.band.uol.com.br',
+  'urldate_format1' => '#weekdayname#Segunda-feira|Ter%C3%A7a-feira|Quarta-feira|Quinta-feira|Sexta-feira|S%C3%A1bado|Domingo',
+  'show' => '({"HourInit".*?})',
+  'start' => '"HourInit":"(.*?)"',
+  'start_format' => 'H#i',
+  'stop' => '"HourEnd":"(.*?)"',
+  'stop_format' => 'H#i',
+  'title' => '"Title":"(.*?)",',
+  'desc' => '"Description":"(.*?)",',
+  'category' => '"Genero":"(.*?)",|#|"TituloDoDestaque":"(.*?)",|#|"TemAoVivo":(true),||#replace#(true)||En Vivo',
+  'showicon' => '"Image":"(.*?)"',
+  'channel_logo' => '||#add#https://www.band.uol.com.br/assets/logo-band-cinza.png',
+  'subtitles' => 'TemClosedCaption":(true)',
+  'rating_icon' => '"Classificacao":{"Nome":"(.*?)"',
+  'ccurl1' => 'https://www.band.uol.com.br/programacao/',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'cchost_header1' => 'www.band.uol.com.br',
+  'ccchannel_block' => '<a _ngcontent-sc114=.*?<\\/a>||#include#href="/programacao',
+  'ccchannel_id' => '">(.*?)<\\/a>||#urle#||#replace#(\\+)||%20',
+  'ccchannel_name' => '">(.*?)<\\/a>',
+);
+?>
