@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="opto.sic.pt_0">
+  <channels>
+    <channel site="opto.sic.pt_0" site_id="14229a5c-765a-46ab-a43b-56822565e5b3" xmltv_id="SIC">SIC</channel>
+    <channel site="opto.sic.pt_0" site_id="c201511c-a9ea-4e7d-8da6-0afed235b6a8" xmltv_id="SIC Novelas">SIC Novelas</channel>
+    <channel site="opto.sic.pt_0" site_id="38719848-2a57-42e3-8640-63a9aa39f107" xmltv_id="SIC Notícias">SIC Notícias</channel>
+  </channels>
+</site>

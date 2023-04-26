@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'opto.sic.pt',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-04-26',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'pt',
+  'max_day' => '7.1',
+  'episodeOption' => '1',
+  'url1' => 'https://opto.sic.pt/api/v1/content/epg?startDate=##urldate1##&endDate=##stopdate1##&channels=##channel##',
+  'requestOption1' => '1',
+  'urldate_format1' => 'unix',
+  'stopdate_format1' => 'unix',
+  'grabber_1' => 'on',
+  'gpattern_1' => '(.*)||#replace#(\\R|\\s)##.*{"name":"logo","url":"(.*?)".*||##\\1',
+  'show' => '({\\s*"id":.*?start_time.*?)}',
+  'start' => '"start_time":\\s*(\\d+)',
+  'start_format' => 'unix',
+  'stop' => '"end_time":\\s*(\\d+)',
+  'stop_format' => 'unix',
+  'title' => '"title": "(.*?)",',
+  'desc' => '"full_description": "(.*?)",|>|"short_description": "(.*?)",',
+  'category' => '"(live)": true,||#word#',
+  'showicon' => '{"name": "thumbnail","url": "(.*?)"',
+  'season' => '"season_number":\\s*(?!0)(\\d+)',
+  'episode' => '"episode_number":\\s*(?!0)(\\d+)',
+  'channel_logo' => '||#add###grabber_1##',
+  'ccurl1' => 'https://opto.sic.pt/api/v1/content/channel',
+  'ccrequestOption1' => '1',
+  'ccchannel_block' => '{\\s*"id".*?}\\s*\\]',
+  'ccchannel_id' => '"id": "(.*?)"',
+  'ccchannel_name' => '",\\s*"name": "(.*?)"',
+);
+?>
