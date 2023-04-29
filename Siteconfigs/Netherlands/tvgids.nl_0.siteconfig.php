@@ -49,7 +49,7 @@ return array (
   'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'cccontent_type1' => 'text/html',
   'cchost_header1' => 'www.tvgids.nl',
-  'ccchannel_block' => '<div data-chbar=.*?<\\/div>',
+  'ccchannel_block' => '<li data-chbar=.*?<\\/li>',
   'ccchannel_id' => ' id="(.*?)"',
   'ccchannel_name' => 'title="(.*?)">',
 );
