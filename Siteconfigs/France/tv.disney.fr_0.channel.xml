@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tv.disney.fr_0">
+  <channels>
+    <channel site="tv.disney.fr_0" site_id="%2Fguide-tv||dc_v3_b31b160b" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="tv.disney.fr_0" site_id="%2Fguide-tv%2Fdisney-junior||dj_v2_f3afa019" xmltv_id="Disney Junior">Disney Junior</channel>
+  </channels>
+</site>
