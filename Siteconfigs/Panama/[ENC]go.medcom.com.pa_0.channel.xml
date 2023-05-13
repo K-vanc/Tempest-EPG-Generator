@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]go.medcom.com.pa_0">
+  <channels>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d88dd2229b0890723df2165" xmltv_id="Telemetro">Telemetro</channel>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d88d659120a717cf93ce620" xmltv_id="RPC TV">RPC TV</channel>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d88df173853e7072f3f953f" xmltv_id="Oye TV">Oye TV</channel>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d97ca5673de440761ff194e" xmltv_id="Telemetro Radio">Telemetro Radio</channel>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d976689ab55a60f94ec98e8" xmltv_id="RPC Radio">RPC Radio</channel>
+    <channel site="[ENC]go.medcom.com.pa_0" site_id="5d977ffcbe301a0f0d8e50fb" xmltv_id="Calientera Radio">Calientera Radio</channel>
+  </channels>
+</site>
