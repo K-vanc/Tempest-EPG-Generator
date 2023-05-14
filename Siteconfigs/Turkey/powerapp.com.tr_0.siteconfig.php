@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'powerapp.com.tr',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-05-14',
+  'rev_no' => 'R0',
+  'timezone' => '+03:00',
+  'culture' => 'tr',
+  'max_day' => '7.1',
+  'first_day' => '0123456',
+  'url1' => 'https://www.powerapp.com.tr/yayin-akisi/##channel##/',
+  'requestOption1' => '2',
+  'post_data1' => 'ajax=1',
+  'accept_header1' => 'application/json, text/javascript, */*; q=0.01',
+  'content_type1' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'host_header1' => 'www.powerapp.com.tr',
+  'origin_header1' => 'https://www.powerapp.com.tr',
+  'XMLHttpRequest1' => 'on',
+  'show' => '<div class=\\\\"list\\\\">.*?(?:<div class=\\\\"item)(.*?)(?:\\\\\\/small>).*?<\\\\\\/div>\\\\n\\s*<\\\\\\/div>\\\\n\\s*<\\\\\\/div>\\\\n',
+  'start' => '"date">(.*?)<',
+  'start_format' => 'H#i',
+  'title' => '"details">(.*?)<small>',
+  'subtitle' => '<small>(.*?)<',
+  'showicon' => 'src="(.*?)"||#replace#(50x50)||300x300',
+  'channel_logo' => '||#add#https://cdn.powergroup.com.tr/image/185x185/powerapp/channels/v3/logo_##cclogo##.png',
+  'ccurl1' => 'https://www.powerapp.com.tr/yayin-akisi//',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'cchost_header1' => 'www.powerapp.com.tr',
+  'ccchannel_block' => '<a href="\\/yayin-akisi\\/.*?<\\/a>',
+  'ccchannel_id' => '\\/yayin-akisi\\/(.*?)\\/',
+  'ccchannel_name' => 'alt="(.*?)\\slogo"',
+  'ccchannel_logo' => 'v3\\/logo_(.*?)\\.',
+);
+?>
