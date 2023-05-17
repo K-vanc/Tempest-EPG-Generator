@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv.sfr.fr_0">
+  <channels>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1700||logos/tv_services/Mosaik_color" xmltv_id="Mosaïk Cristal">Mosaïk Cristal</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="357||logos/tv_services/Fashion_TV_color" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="876||logos/tv_services/TVS2_color" xmltv_id="TVS2">TVS2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="626||img/apps/chaines/logos/AlHekayat100x100" xmltv_id="AL HEKAYAT 1">AL HEKAYAT 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1336||logos/tv_services/beIN_SPORTS_MAX_4_color" xmltv_id="beIN SPORTS MAX 4">beIN SPORTS MAX 4</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="140||logos/tv_services/Euronews_color" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="671||logos/tv_services/France_24_English_color" xmltv_id="France 24 Anglais">France 24 Anglais</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="53||logos/tv_services/CNN_International_color" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="858||logos/tv_services/TV_Congo_color" xmltv_id="TV Congo">TV Congo</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="713||logos/tv_services/24H_TVE_color" xmltv_id="24h">24h</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="605||logos/tv_services/NRJ_Hits_color" xmltv_id="NRJ Hits">NRJ Hits</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1638||logos/tv_services/TV8_Moselle_Est_color" xmltv_id="TV8 Moselle-Est">TV8 Moselle-Est</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1341||logos/tv_services/beIN_SPORTS_MAX_9_color" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1307||logos/tv_services/BBLACK_CLASSIK_color" xmltv_id="BBLACK Classik">BBLACK Classik</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1935||logos/tv_services/France-3-Limousin-Color" xmltv_id="France 3 - Limousin">France 3 - Limousin</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2302||logos/tv_services/via31_color" xmltv_id="vià31">vià31</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1138||logos/tv_services/CMC_color" xmltv_id="CMC">CMC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1335||logos/tv_services/beIN_SPORTS_3_color" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1115||logos/tv_services/NTD_color" xmltv_id="NTD">NTD</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="63||logos/tv_services/Science_et_Vie_TV_color" xmltv_id="Science et Vie TV">Science et Vie TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="789||logos/tv_services/rai-scuola-100x100-couleur" xmltv_id="RAI SCUOLA">RAI SCUOLA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="776||logos/tv_services/Channel_One_Russia_color" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="282||logos/tv_services/Cine_Premier_color" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="814||logos/tv_services/France_24_Arabic_color" xmltv_id="France 24 Arabe">France 24 Arabe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="4||logos/tv_services/France_2_color" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="410||logos/tv_services/Bloomberg_PAN_European_color" xmltv_id="Bloomberg PAN-European">Bloomberg PAN-European</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2530||img/apps/chaines/logos/AndaluciaTV100x100" xmltv_id="ANDALUCIA TV">ANDALUCIA TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="226||logos/tv_services/CNews_color" xmltv_id="CNews">CNews</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2671||logos/tv_services/RMC_Sport_Live_8_color" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1452||logos/tv_services/Mens_Up_TV_color" xmltv_id="Men's Up TV">Men's Up TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="453||logos/tv_services/M6_Music_color" xmltv_id="M6 Music">M6 Music</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3291||img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100" xmltv_id="BFM NICE COTE D'AZUR">BFM NICE COTE D'AZUR</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1321||logos/tv_services/TEBEO_color" xmltv_id="TEBEO">TEBEO</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2346||logos/tv_services/TVI_ficcao_color" xmltv_id="TVI ficcao">TVI ficcao</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="208||logos/tv_services/TVEI_color" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="609||logos/tv_services/Canal2_color" xmltv_id="Canal2">Canal2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="205||logos/tv_services/TV5_Monde_color" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="225||img/apps/chaines/logos/TVBreizh100x100" xmltv_id="TV Breizh">TV Breizh</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="61||logos/tv_services/DW_TV_color" xmltv_id="DW-TV">DW-TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="473||logos/tv_services/Nickelodeon_color" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="847||logos/tv_services/RTS_1_color" xmltv_id="RTS 1">RTS 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="78||logos/tv_services/France_4_color" xmltv_id="France 4">France 4</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2275||logos/tv_services/TVPI_color" xmltv_id="TVPI">TVPI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1931||logos/tv_services/France-3-Cote-Azur-Color" xmltv_id="France 3 - Côte d'Azur">France 3 - Côte d'Azur</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1928||logos/tv_services/France%203%20-%20Centre%20-%20Couleur" xmltv_id="France 3 - Centre">France 3 - Centre</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3257||img/apps/chaines/logos/DREAMWORKS100x100" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1553||img/apps/chaines/logos/mbcdrama100x100color" xmltv_id="MBC Drama">MBC Drama</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="525||logos/tv_services/Al_Jazeera_English_color" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2072||logos/tv_services/Paramount_Channel_Decale_color" xmltv_id="Paramount Channel Décalé">Paramount Channel Décalé</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="697||logos/tv_services/ORTM_color" xmltv_id="ORTM">ORTM</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1290||logos/tv_services/beIN_SPORTS_1_color" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2908||img/apps/chaines/logos/100x100couleurSUNUYEUF" xmltv_id="SUNU YEUF">SUNU YEUF</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="907||logos/tv_services/Mezzo_Live_HD_color" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="185||logos/tv_services/TCM_cinema_color" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1936||logos/tv_services/France-3-Lorraine-Color" xmltv_id="France 3 - Lorraine">France 3 - Lorraine</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1196||logos/tv_services/JSBC_International_color" xmltv_id="JSBC International">JSBC International</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="401||logos/tv_services/Cine_Famiz_color" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="846||logos/tv_services/RTI_1_color" xmltv_id="RTI 1">RTI 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3728||img/apps/chaines/logos/Watania2100x100Couleur" xmltv_id="Watania 2">Watania 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="371||logos/tv_services/Tunisia_1_color" xmltv_id="Tunisia 1">Tunisia 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3381||img/apps/chaines/logos/FOXETFOXI100x100color" xmltv_id="Fix and Foxi">Fix and Foxi</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3378||img/apps/chaines/logos/dmcdrama100x100color" xmltv_id="DMC Drama">DMC Drama</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="88||logos/tv_services/Histoire_color" xmltv_id="Histoire">Histoire</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="115||logos/tv_services/RTL9_color" xmltv_id="RTL9">RTL9</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="15||logos/tv_services/Automoto_color" xmltv_id="Automoto la chaine">Automoto la chaine</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2678||img/apps/chaines/logos/LIVE15couleur100x100" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="444||logos/tv_services/NRJ12_color" xmltv_id="NRJ12">NRJ12</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1133||logos/tv_services/Vox_Africa_color" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="773||logos/tv_services/CCTV_YuLe_color" xmltv_id="CCTV YuLe">CCTV YuLe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2013||logos/tv_services/publicsenat-100x100" xmltv_id="Public Sénat">Public Sénat</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3736||img/apps/chaines/logos/DIZI100x100COULEUR" xmltv_id="Dizi">Dizi</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1724||logos/tv_services/IL_TV_color" xmltv_id="IL TV">IL TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="571||logos/tv_services/CRTV_color" xmltv_id="CRTV">CRTV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3460||img/apps/chaines/logos/BFMALSACE100x100" xmltv_id="BFM ALSACE">BFM ALSACE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3289||img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100" xmltv_id="BFM MARSEILLE PROVENCE">BFM MARSEILLE PROVENCE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1717||logos/tv_services/I24_NEWS_ENGLISH_color" xmltv_id="i24 News Anglais">i24 News Anglais</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="32||logos/tv_services/CANAL_J_color" xmltv_id="CANAL J">CANAL J</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1562||logos/tv_services/Paramount_Channel_color" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="169||logos/tv_services/RTPI_color" xmltv_id="RTPI">RTPI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1942||logos/tv_services/France-3-Poitou-Charentes-Color" xmltv_id="France 3 - Poitou-Charentes">France 3 - Poitou-Charentes</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1268||logos/tv_services/TV_Vendee_color" xmltv_id="TV Vendée">TV Vendée</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="981||logos/tv_services/KABEL_EINS_color" xmltv_id="KABEL EINS">KABEL EINS</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1072||img/apps/chaines/logos/MUSEUMTV100x100" xmltv_id="MUSEUM TV">MUSEUM TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3164||img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100" xmltv_id="BFM DICI HAUTE-PROVENCE">BFM DICI HAUTE-PROVENCE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="537||logos/tv_services/Tele_Grenoble_color" xmltv_id="Télé Grenoble">Télé Grenoble</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1923||logos/tv_services/France-3-Aquitaine-Color" xmltv_id="France 3 - Aquitaine">France 3 - Aquitaine</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="589||logos/tv_services/Dubai_TV_color" xmltv_id="Dubaï TV">Dubaï TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1735||logos/tv_services/TELE_SCHILTIGHEIM_CANAL_color" xmltv_id="TELE SCHILTIGHEIM - CANAL">TELE SCHILTIGHEIM - CANAL</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2756||logos/tv_services/beinmovies-100x100-couleur" xmltv_id="BEIN MOVIES">BEIN MOVIES</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2668||logos/tv_services/RMC_Sport_Live_5_color" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="534||logos/tv_services/Canal_32_color" xmltv_id="Canal 32">Canal 32</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="229||logos/tv_services/TIJI_color" xmltv_id="TIJI">TIJI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2065||logos/tv_services/Nickelodeon_1_color" xmltv_id="Nickelodeon+1">Nickelodeon+1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2804||img/apps/chaines/logos/ATVAVRUPA100x100" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1738||logos/tv_services/TELE_VISION_MONTREUIL_color" xmltv_id="TELE-VISION MONTREUIL">TELE-VISION MONTREUIL</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="607||logos/tv_services/Africable_color" xmltv_id="Africâble">Africâble</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="421||logos/tv_services/8_Mont_Blanc_color" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1940||logos/tv_services/France-3-Pyas-de-la-Loire-Color" xmltv_id="France 3 - Pays de Loire">France 3 - Pays de Loire</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="772||logos/tv_services/CCTV_4_color" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2022||logos/tv_services/Trace_Gospel_color" xmltv_id="Trace Gospel">Trace Gospel</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1948||logos/tv_services/Trace_Toca_color" xmltv_id="Trace Toca">Trace Toca</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2777||logos/tv_services/avrupa-100x100-couleur" xmltv_id="KANAL 7 AVRUPA">KANAL 7 AVRUPA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1077||img/apps/chaines/logos/BFMPARISIDF100x100COULEURAVECCONTOUR" xmltv_id="BFM PARIS ILE-DE-FRANCE">BFM PARIS ILE-DE-FRANCE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="451||logos/tv_services/Ushuaia_TV_color" xmltv_id="Ushuaia TV">Ushuaia TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1718||logos/tv_services/I24_NEWS_ARABIC_color" xmltv_id="i24 News Arabe">i24 News Arabe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1944||logos/tv_services/France-3-Rhone-Alpes-Color" xmltv_id="France 3 - Rhône-Alpes">France 3 - Rhône-Alpes</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1929||logos/tv_services/France-3-Champagne-Ardenne-Color" xmltv_id="France 3 - Champagne-Ardenne">France 3 - Champagne-Ardenne</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="611||logos/tv_services/Iqraa_TV_color" xmltv_id="Iqraa TV">Iqraa TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="734||img/apps/chaines/logos/OCSGEANTS100x100couleur" xmltv_id="OCS Geants">OCS Geants</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="458||logos/tv_services/CStar_color" xmltv_id="CStar">CStar</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="732||img/apps/chaines/logos/OCSPULP100x100COULEUR" xmltv_id="OCS Pulp">OCS Pulp</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1073||logos/tv_services/BFM_Business_color" xmltv_id="BFM Business">BFM Business</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1189||logos/tv_services/Arte_Allemand_color" xmltv_id="Arte Allemand">Arte Allemand</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="586||logos/tv_services/Dragon_TV_color" xmltv_id="Dragon TV">Dragon TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1719||logos/tv_services/7_A_LIMOGES_color" xmltv_id="7 A LIMOGES">7 A LIMOGES</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="491||logos/tv_services/Telenantes_color" xmltv_id="Télénantes">Télénantes</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1585||logos/tv_services/J_One_color" xmltv_id="J-One">J-One</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="19||logos/tv_services/BBC_World_News_color" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1342||logos/tv_services/beIN_SPORTS_MAX_10_color" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1939||logos/tv_services/France-3-Paris-IdF-Color" xmltv_id="France 3 - Paris Ile-de-France">France 3 - Paris Ile-de-France</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="930||logos/tv_services/bfmgrandlille-100x100" xmltv_id="BFM Grand Lille">BFM Grand Lille</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1404||logos/tv_services/TF1_Series_Films_color" xmltv_id="TF1 Séries-Films">TF1 Séries-Films</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1125||logos/tv_services/CGTN_Documentary_color" xmltv_id="CGTN-Documentary">CGTN-Documentary</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1581||img/apps/chaines/logos/MBCMASR100x100COULEUR" xmltv_id="MBC Masr">MBC Masr</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3725||img/apps/chaines/logos/SKYNEWSARABIA100x100COULEUR" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="18||logos/tv_services/BBC_ENTERTAINMENT_color" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1554||logos/tv_services/Iqraa_International_color" xmltv_id="Iqraa International">Iqraa International</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1941||logos/tv_services/France-3-Picardie-Color" xmltv_id="France 3 - Picardie">France 3 - Picardie</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="284||logos/tv_services/Cine_Frisson_color" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="774||logos/tv_services/CGTN_Francais_color" xmltv_id="CGTN-Français">CGTN-Français</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1750||logos/tv_services/Tele_Paese_color" xmltv_id="Télé Paese">Télé Paese</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1739||logos/tv_services/WANTZ_TV_color" xmltv_id="WANTZ TV">WANTZ TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1401||logos/tv_services/L_Equipe_color" xmltv_id="La chaine l’Équipe">La chaine l’Équipe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="111||logos/tv_services/Arte_color" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="880||logos/tv_services/Great_Wall_Elite_color" xmltv_id="Great Wall Elite">Great Wall Elite</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="888||logos/tv_services/Nickelodeon_Junior_color" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="6||logos/tv_services/Mangas_color" xmltv_id="Mangas">Mangas</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2913||img/apps/chaines/logos/NCI100x100couleurNCI" xmltv_id="NCI">NCI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="725||img/apps/chaines/logos/ARTAFLAM1100x100couleur" xmltv_id="ART AFLAM 1">ART AFLAM 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2677||img/apps/chaines/logos/LIVE14couleur100x100" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2665||logos/tv_services/RMC_Sport_1_color" xmltv_id="RMC Sport 1">RMC Sport 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="971||logos/tv_services/Vox_color" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2347||logos/tv_services/Local_Visao_color" xmltv_id="Local Visao">Local Visao</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="539||img/apps/chaines/logos/TVRennes35100x100couleur" xmltv_id="TV RENNES 35">TV RENNES 35</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1403||logos/tv_services/6ter_color" xmltv_id="6ter">6ter</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1927||logos/tv_services/France-3-Bretagne-Color" xmltv_id="France 3 - Bretagne">France 3 - Bretagne</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3137||img/apps/chaines/logos/mauriennetv100x100" xmltv_id="MAURIENNE TV">MAURIENNE TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="308||logos/tv_services/France-3-Corse-Color" xmltv_id="France 3 - Corse">France 3 - Corse</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1337||logos/tv_services/beIN_SPORTS_MAX_5_color" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="830||logos/tv_services/NHK_WORLD_JAPAN_color" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2046||logos/tv_services/Canal_Q_color" xmltv_id="Canal Q">Canal Q</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1990||img/apps/chaines/logos/100x100couleurA" xmltv_id="A+">A+</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="593||img/apps/chaines/logos/eurod100x100" xmltv_id="Euro D">Euro D</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3738||img/apps/chaines/logos/CARTOONITO100x100Couleur" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1185||logos/tv_services/Maritima_TV_color" xmltv_id="Maritima TV">Maritima TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="393||img/apps/chaines/logos/viamatele100x100couleur" xmltv_id="Vià MATÉLÉ">Vià MATÉLÉ</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1128||logos/tv_services/Phoenix_CNE_color" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1031||logos/tv_services/N_TV_color" xmltv_id="N-TV">N-TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="478||img/apps/chaines/logos/RealMadridTV100x100couleur" xmltv_id="REAL MADRID TV">REAL MADRID TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1551||logos/tv_services/Ennahar_TV_color" xmltv_id="Ennahar TV">Ennahar TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1937||logos/tv_services/France-3-Midi-Pyrenees-Color" xmltv_id="France 3 - Midi-Pyrénées">France 3 - Midi-Pyrénées</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="273||logos/tv_services/TV7_Bordeaux_color" xmltv_id="TV7 Bordeaux">TV7 Bordeaux</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="829||logos/tv_services/myzentv-100x100" xmltv_id="My Zen TV">My Zen TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1924||logos/tv_services/France-3-Auvergne-Color" xmltv_id="France 3 - Auvergne">France 3 - Auvergne</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="145||logos/tv_services/Paris_Premiere_color" xmltv_id="Paris Première">Paris Première</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="112||logos/tv_services/LCI_color" xmltv_id="LCI">LCI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1338||logos/tv_services/beIN_SPORTS_MAX_6_color" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1304||logos/tv_services/beIN_SPORTS_2_color" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="790||logos/tv_services/rai-storia-100x100-couleur" xmltv_id="RAI STORIA">RAI STORIA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1960||img/apps/chaines/logos/BETLOGONOIR100x100" xmltv_id="BET">BET</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3273||img/apps/chaines/logos/100x100couleurCDIRECT" xmltv_id="CDIRECT">CDIRECT</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="945||logos/tv_services/Murr_TV_color" xmltv_id="Murr TV">Murr TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="340||logos/tv_services/2M_Maroc_color" xmltv_id="2M Maroc">2M Maroc</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1096||logos/tv_services/Nessma_color" xmltv_id="Nessma">Nessma</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3726||img/apps/chaines/logos/ASHARQNEWS100x100COULEUR" xmltv_id="Asharq News">Asharq News</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1921||logos/tv_services/France-3-Alpes-Color" xmltv_id="France 3 - Alpes">France 3 - Alpes</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3020||img/apps/chaines/logos/Alaraby2100x100Couleur" xmltv_id="Alaraby 2">Alaraby 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3539||img/apps/chaines/logos/RatanaCinama100x100Couleur" xmltv_id="Rotana Cinéma+ FR">Rotana Cinéma+ FR</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1041||logos/tv_services/TVM_color" xmltv_id="TVM">TVM</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2095||img/apps/chaines/logos/RMCSportAccess100x100couleur" xmltv_id="RMC Sport Access">RMC Sport Access</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3458||img/apps/chaines/logos/LIVE17couleur100x100" xmltv_id="RMC Sport Live 17">RMC Sport Live 17</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="529||logos/tv_services/France_24_color" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2832||logos/tv_services/Echorouk_News_color" xmltv_id="Echorouk News">Echorouk News</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="966||logos/tv_services/RTL2_color" xmltv_id="RTL2">RTL2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="192||logos/tv_services/TF1_color" xmltv_id="TF1">TF1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3165||img/apps/chaines/logos/BFMDICIALPESDUSUD100x100" xmltv_id="BFM DICI ALPES DU SUD">BFM DICI ALPES DU SUD</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="771||logos/tv_services/Beijing_TV_color" xmltv_id="Beijing TV">Beijing TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="782||logos/tv_services/Hunan_Satellite_TV_color" xmltv_id="Hunan TV">Hunan TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="49||logos/tv_services/SERIE_CLUB_color" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="992||logos/tv_services/LCP_AN_24_24_color" xmltv_id="LCP-AN 24/24">LCP-AN 24/24</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="87||logos/tv_services/Game_One_color" xmltv_id="Game One">Game One</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1737||logos/tv_services/TELEGOHELLE_color" xmltv_id="TELEGOHELLE">TELEGOHELLE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="446||logos/tv_services/TFX_color" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="793||logos/tv_services/Record_News_color" xmltv_id="Record News">Record News</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2674||logos/tv_services/RMC_Sport_Live_11_color" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="875||logos/tv_services/TVP_Polonia_color" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1061||logos/tv_services/Lucky_Jack_color" xmltv_id="Lucky Jack">Lucky Jack</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="356||logos/tv_services/Al_Masriya_color" xmltv_id="Al Masriya">Al Masriya</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1461||logos/tv_services/Nollywood_TV_color" xmltv_id="Nollywood TV">Nollywood TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2675||logos/tv_services/RMC_Sport_Live_12_color" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="608||logos/tv_services/Beur_FM_TV_color" xmltv_id="Beur FM TV">Beur FM TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2373||img/apps/chaines/logos/100x100tv2com" xmltv_id="TV2COM">TV2COM</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1042||logos/tv_services/ORTC_color" xmltv_id="ORTC">ORTC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3075||img/apps/chaines/logos/AllFlamenco100x100" xmltv_id="ALL FLAMENCO_">ALL FLAMENCO_</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1922||logos/tv_services/France-3-Alsace-Color" xmltv_id="France 3 - Alsace">France 3 - Alsace</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1832||img/apps/chaines/logos/100x100couleurNOVELAS" xmltv_id="NOVELAS">NOVELAS</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2776||img/apps/chaines/logos/MB5100x100COULEUR" xmltv_id="MBC 5">MBC 5</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="781||logos/tv_services/i24_news_color" xmltv_id="i24 news">i24 news</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="956||logos/tv_services/Arryadia_color" xmltv_id="Arryadia">Arryadia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="400||logos/tv_services/Discovery_Channel_color" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2666||logos/tv_services/RMC_Sport_2_color" xmltv_id="RMC Sport 2">RMC Sport 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="594||img/apps/chaines/logos/EUROSTAR100x100" xmltv_id="Euro Star">Euro Star</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="346||logos/tv_services/Canal_Algerie_color" xmltv_id="Canal Algérie">Canal Algérie</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1926||logos/tv_services/France-3-Bourgogne-Color" xmltv_id="France 3 - Bourgogne">France 3 - Bourgogne</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2111||logos/tv_services/franceinfo:_color" xmltv_id="franceinfo:">franceinfo:</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1934||logos/tv_services/France-3-Languedoc-Roussillon-Color" xmltv_id="France 3 - Languedoc">France 3 - Languedoc</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3380||img/apps/chaines/logos/telemaroc100x100color" xmltv_id="Télé Maroc">Télé Maroc</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3727||img/apps/chaines/logos/Bahia100x100Couleur" xmltv_id="Bahia TV">Bahia TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="928||logos/tv_services/Boomerang_1_color" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1776||logos/tv_services/TREK_color" xmltv_id="TREK">TREK</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="121||logos/tv_services/MCM_color" xmltv_id="MCM">MCM</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="110||logos/tv_services/KTO_color" xmltv_id="KTO">KTO</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="166||logos/tv_services/RTL_Television_color" xmltv_id="RTL Television">RTL Television</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2303||logos/tv_services/via66_color" xmltv_id="vià66">vià66</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1698||logos/tv_services/Al_Majd_Holy_Quran_color" xmltv_id="Al Majd Holy Quran">Al Majd Holy Quran</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2670||logos/tv_services/RMC_Sport_Live_7_color" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="959||logos/tv_services/Assadissa_color" xmltv_id="Assadissa">Assadissa</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3573||img/apps/chaines/logos/MBCPlusDrama100x100couleur" xmltv_id="MBC PLUS DRAMA">MBC PLUS DRAMA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="535||img/apps/chaines/logos/LMTVSARTHE100x100Couleur" xmltv_id="LM TV Sarthe">LM TV Sarthe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2957||logos/tv_services/elbiladtv-100x100" xmltv_id="El Bilad TV">El Bilad TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="51||logos/tv_services/CNBC_EUROPE_color" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2442||logos/tv_services/TMC_1_color" xmltv_id="TMC + 1">TMC + 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="704||logos/tv_services/via34_color" xmltv_id="vià34">vià34</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="38||logos/tv_services/Chasse_et_Peche_color" xmltv_id="Chasse et Pêche">Chasse et Pêche</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="119||logos/tv_services/W9_color" xmltv_id="W9">W9</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1399||logos/tv_services/Cherie_25_color" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="531||logos/tv_services/Luxe_TV_color" xmltv_id="Luxe TV">Luxe TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="864||logos/tv_services/The_Israeli_Network_color" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2054||logos/tv_services/Gabon_24_color" xmltv_id="Gabon 24">Gabon 24</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2784||img/apps/chaines/logos/100x100Cherifla" xmltv_id="CHERIFLA TV">CHERIFLA TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1154||logos/tv_services/TFM_color" xmltv_id="TFM">TFM</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="619||logos/tv_services/TV_Romania_International_color" xmltv_id="TV Romania International">TV Romania International</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1854||logos/tv_services/Super_RTL_color" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="625||img/apps/chaines/logos/ARTCINEMA100x100couleur" xmltv_id="ART CINEMA">ART CINEMA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3574||img/apps/chaines/logos/100x100couleur" xmltv_id="HELWA TV">HELWA TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2184||img/apps/chaines/logos/ID100x100" xmltv_id="Discovery Investigation">Discovery Investigation</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="703||logos/tv_services/Canal_21_color" xmltv_id="Canal 21">Canal 21</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2942||img/apps/chaines/logos/SFR100x100COLORTECHCO" xmltv_id="TECH &amp; CO">TECH &amp; CO</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="964||logos/tv_services/ProSieben_color" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2166||logos/tv_services/BBLACK_CARIBBEAN_color" xmltv_id="BBLACK Caribbean">BBLACK Caribbean</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2050||logos/tv_services/Porto_Canal_color" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="125||logos/tv_services/Mezzo_color" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2673||logos/tv_services/RMC_Sport_Live_10_color" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="603||logos/tv_services/Jordan_Satellite_Channel_color" xmltv_id="Jordan Satellite Channel">Jordan Satellite Channel</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2730||logos/tv_services/France-3-Nouvelle-Aquitaine-Color" xmltv_id="France 3 Nouvelle Aquitaine">France 3 Nouvelle Aquitaine</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1071||logos/tv_services/RTG_color" xmltv_id="RTG">RTG</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="573||logos/tv_services/2STV_color" xmltv_id="2STV">2STV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="10||logos/tv_services/Action_color" xmltv_id="Action">Action</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="882||logos/tv_services/ZHEJIANG_STAR_TV_color" xmltv_id="Zhejiang Star TV">Zhejiang Star TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="156||logos/tv_services/Rai_Uno_color" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1167||logos/tv_services/Game_One_1_color" xmltv_id="Game One +1">Game One +1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1932||logos/tv_services/France-3-Franche-Comte-Color" xmltv_id="France 3 - Franche-Comté">France 3 - Franche-Comté</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1339||logos/tv_services/beIN_SPORTS_MAX_7_color" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="958||logos/tv_services/Arrabia_color" xmltv_id="Arrabiâ">Arrabiâ</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1199||logos/tv_services/ZOUK_TV_color" xmltv_id="ZOUK TV">ZOUK TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1938||logos/tv_services/France-3-Nord-pas-de-Calais-Color" xmltv_id="France 3 - Nord Pas-de-Calais">France 3 - Nord Pas-de-Calais</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="394||logos/tv_services/Astrocenter_TV_color" xmltv_id="Astrocenter TV">Astrocenter TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="574||logos/tv_services/Berbere_TV_color" xmltv_id="Berbère TV">Berbère TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2353||img/apps/chaines/logos/MGGTVvertical100x100" xmltv_id="MGG TV">MGG TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="64||logos/tv_services/Equidia_color" xmltv_id="Equidia">Equidia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="118||logos/tv_services/M6_color" xmltv_id="M6">M6</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="116||logos/tv_services/BFM_Lyon_color" xmltv_id="BFM Lyon">BFM Lyon</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2878||img/apps/chaines/logos/ROTANACLASSIC100x100COULEUR" xmltv_id="Rotana Classic">Rotana Classic</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="325||logos/tv_services/Trace_Urban_color" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="265||logos/tv_services/MELODY_TV_color" xmltv_id="MELODY TV">MELODY TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="701||logos/tv_services/IDF1_color" xmltv_id="IDF1">IDF1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="724||logos/tv_services/Armenia_1_color" xmltv_id="Armenia 1">Armenia 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2672||logos/tv_services/RMC_Sport_Live_9_color" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="540||logos/tv_services/TV_Tours_color" xmltv_id="TV Tours">TV Tours</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1374||logos/tv_services/Discovery_Science_color" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3172||img/apps/chaines/logos/RMCSPORTLIVE4100x100" xmltv_id="RMC Sport Live 4">RMC Sport Live 4</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1402||logos/tv_services/RMC_STORY_color" xmltv_id="RMC STORY">RMC STORY</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3572||img/apps/chaines/logos/TeleMadrid100x100couleur" xmltv_id="TELE MADRID">TELE MADRID</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="241||logos/tv_services/RFM_TV_color" xmltv_id="RFM TV">RFM TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2837||logos/tv_services/Sport_en_France_color" xmltv_id="Sport en France">Sport en France</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2040||img/apps/chaines/logos/100x100TOONAMIFONCCOULEUR" xmltv_id="TOONAMI">TOONAMI</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3737||img/apps/chaines/logos/BTV100x100couleur" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2752||logos/tv_services/Comedy_Central_color" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2292||img/apps/chaines/logos/StarTVE100x100" xmltv_id="STAR TVE">STAR TVE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1704||logos/tv_services/TVG_EUROPA_color" xmltv_id="TVG EUROPA">TVG EUROPA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="482||logos/tv_services/Gulli_color" xmltv_id="Gulli">Gulli</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1726||logos/tv_services/WELT_color" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="12||logos/tv_services/Animaux_color" xmltv_id="Animaux">Animaux</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="285||logos/tv_services/Cine_Club_color" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1601||logos/tv_services/BBLACK_AFRICA_color" xmltv_id="BBLACK Africa">BBLACK Africa</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="665||logos/tv_services/Medi1TV_color" xmltv_id="Medi1TV">Medi1TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="445||logos/tv_services/C8_color" xmltv_id="C8">C8</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="463||img/apps/chaines/logos/olplay100x100color" xmltv_id="OLPLAY">OLPLAY</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1400||logos/tv_services/RMC_Decouverte_color" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="128||img/apps/chaines/logos/MTVLOGOCOULEUR100x100" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1179||logos/tv_services/Trace_Africa_color" xmltv_id="Trace Africa">Trace Africa</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1615||logos/tv_services/Angers_tele_color" xmltv_id="Angers télé">Angers télé</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1003||logos/tv_services/ORTB_color" xmltv_id="ORTB">ORTB</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="405||logos/tv_services/E_color" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3171||img/apps/chaines/logos/RMCSPORTLIVE3100x100" xmltv_id="RMC Sport Live 3">RMC Sport Live 3</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="481||logos/tv_services/BFM_TV_color" xmltv_id="BFM TV">BFM TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2441||logos/tv_services/TF1_1_color" xmltv_id="TF1 + 1">TF1 + 1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3376||img/apps/chaines/logos/carthage100x100color" xmltv_id="Carthage+">Carthage+</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1933||logos/tv_services/France-3-Normandie-Color" xmltv_id="France 3 - Haute-Normandie">France 3 - Haute-Normandie</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="592||logos/tv_services/ETB_Sat_color" xmltv_id="ETB Sat">ETB Sat</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="809||logos/tv_services/weo-100x100" xmltv_id="Weo">Weo</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1943||logos/tv_services/France-3-Provence-Alpes-Color" xmltv_id="France 3 - Provence Alpes">France 3 - Provence Alpes</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="321||logos/tv_services/Boomerang_color" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2676||img/apps/chaines/logos/LIVE13couleur100x100" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="283||logos/tv_services/Cine_Emotion_color" xmltv_id="Ciné+ Emotion">Ciné+ Emotion</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1925||logos/tv_services/France-3-Normandie-Color" xmltv_id="France 3 - Basse-Normandie">France 3 - Basse-Normandie</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="753||logos/tv_services/TRACE_CARIBBEAN_color" xmltv_id="TRACE CARIBBEAN">TRACE CARIBBEAN</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1023||logos/tv_services/TV78_color" xmltv_id="TV78">TV78</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1729||logos/tv_services/RTL_NITRO_TV_color" xmltv_id="RTL NITRO TV">RTL NITRO TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="5||logos/tv_services/AB1_color" xmltv_id="AB1">AB1</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="234||logos/tv_services/LCP_color" xmltv_id="LCP">LCP</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2||logos/tv_services/13eme_rue_color" xmltv_id="13ème rue">13ème rue</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="47||logos/tv_services/France_5_color" xmltv_id="France 5">France 5</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="195||logos/tv_services/TMC_color" xmltv_id="TMC">TMC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3377||img/apps/chaines/logos/DMC100x100color" xmltv_id="DMC">DMC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2679||img/apps/chaines/logos/LIVE16couleur100x100" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="730||img/apps/chaines/logos/OCSMAX100x100couleur" xmltv_id="OCS Max">OCS Max</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="36||logos/tv_services/Cartoon_Network_color" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1095||logos/tv_services/VIA_Vosges_color" xmltv_id="VIA Vosges">VIA Vosges</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1197||logos/tv_services/LYON_TV_color" xmltv_id="LYON TV">LYON TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="80||logos/tv_services/France_3_color" xmltv_id="France 3">France 3</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="863||img/apps/chaines/logos/MUSEUM100x100" xmltv_id="Museum TV Paris">Museum TV Paris</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1151||logos/tv_services/TL7_Saint_etienne_color" xmltv_id="TL7">TL7</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1623||logos/tv_services/Benfica_TV_color" xmltv_id="Benfica TV">Benfica TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2778||logos/tv_services/showmax-100x100-couleur" xmltv_id="SHOW MAX">SHOW MAX</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="7||logos/tv_services/Toute_l_Histoire_color" xmltv_id="Toute l'Histoire">Toute l'Histoire</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1746||logos/tv_services/Nickelodeon_Teen_color" xmltv_id="Nickelodeon Teen">Nickelodeon Teen</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2317||logos/tv_services/bfmgrandlittoral-100x100" xmltv_id="BFM Grand Littoral">BFM Grand Littoral</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="769||logos/tv_services/Al_Aoula_color" xmltv_id="Al Aoula">Al Aoula</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3290||img/apps/chaines/logos/NEUFBFMTOULONVAR100x100" xmltv_id="BFM TOULON VAR">BFM TOULON VAR</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="596||logos/tv_services/RTR_Planeta_color" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="600||img/apps/chaines/logos/MBC100x100COULEUR" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="795||logos/tv_services/Rotana_Cinema_color" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3557||img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR" xmltv_id="BFM NORMANDIE">BFM NORMANDIE</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="191||logos/tv_services/Teva_color" xmltv_id="Téva">Téva</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="3379||img/apps/chaines/logos/ontv100x100color" xmltv_id="ON TV">ON TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1540||logos/tv_services/AL_ARABIYA_color" xmltv_id="AL ARABIYA">AL ARABIYA</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1097||logos/tv_services/RTNC_color" xmltv_id="RTNC">RTNC</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1340||logos/tv_services/beIN_SPORTS_MAX_8_color" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1166||logos/tv_services/Golf_Channel_color" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="957||logos/tv_services/Al_Maghribia_color" xmltv_id="Al Maghribia">Al Maghribia</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="287||logos/tv_services/Cine_Classic_color" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2669||logos/tv_services/RMC_Sport_Live_6_color" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1286||logos/tv_services/HANNIBALTV-100x100" xmltv_id="HANNIBAL TV">HANNIBAL TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="479||logos/tv_services/Syfy_color" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="1045||logos/tv_services/VIA_Mirabelle_color" xmltv_id="VIA Mirabelle">VIA Mirabelle</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2037||img/apps/chaines/logos/NEUFCRIMEDISCTRICT100x100" xmltv_id="Crime District">Crime District</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="368||logos/tv_services/Sky_News_color" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="579||img/apps/chaines/logos/ARTAFLAM2100x100couleur" xmltv_id="ART AFLAM 2">ART AFLAM 2</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2006||img/apps/chaines/logos/MTVHITSlogonoir100x100" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2345||logos/tv_services/A_BOLA_TV_color" xmltv_id="A BOLA TV">A BOLA TV</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="538||logos/tv_services/via30_color" xmltv_id="vià30">vià30</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2301||logos/tv_services/My_Cuisine_color" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="2321||logos/tv_services/Melody_d_Afrique_color" xmltv_id="Melody d'Afrique">Melody d'Afrique</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="561||logos/tv_services/Africa_24_color" xmltv_id="Africa 24">Africa 24</channel>
+    <channel site="[ENC][EX]tv.sfr.fr_0" site_id="694||img/apps/chaines/logos/ALHEKAYAT2100x100couleur" xmltv_id="AL HEKAYAT 2">AL HEKAYAT 2</channel>
+  </channels>
+</site>
