@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]laguia.tv_0">
+  <channels>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|amc" xmltv_id="AMC [mx]">AMC [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|cnn-1" xmltv_id="CNN [mx]">CNN [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|cnn-en-espanol" xmltv_id="CNN en Español [mx]">CNN en Español [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|cartoon-network" xmltv_id="Cartoon Network [mx]">Cartoon Network [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|cinecanal-hd" xmltv_id="Cinecanal HD [mx]">Cinecanal HD [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|cinemax" xmltv_id="Cinemax [mx]">Cinemax [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|discovery-channel" xmltv_id="Discovery Channel [mx]">Discovery Channel [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|discovery-kids" xmltv_id="Discovery Kids [mx]">Discovery Kids [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|disney-channel" xmltv_id="Disney Channel [mx]">Disney Channel [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|disney-junior" xmltv_id="Disney Junior [mx]">Disney Junior [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|espn" xmltv_id="ESPN [mx]">ESPN [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|espn-2" xmltv_id="ESPN 2 [mx]">ESPN 2 [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|espn-3" xmltv_id="ESPN 3 [mx]">ESPN 3 [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|el-gourmet" xmltv_id="El Gourmet [mx]">El Gourmet [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|fox-sport" xmltv_id="Fox Sport [mx]">Fox Sport [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|fox-sport-2" xmltv_id="Fox Sport 2 [mx]">Fox Sport 2 [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|fox-sport-3" xmltv_id="Fox Sport 3 [mx]">Fox Sport 3 [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|glitz" xmltv_id="Glitz* [mx]">Glitz* [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|golden" xmltv_id="Golden [mx]">Golden [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|golden-premier" xmltv_id="Golden Edge [mx]">Golden Edge [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|hbo" xmltv_id="HBO [mx]">HBO [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|hbo-family" xmltv_id="HBO Family [mx]">HBO Family [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|hbo2" xmltv_id="HBO2 [mx]">HBO2 [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|las-estrellas" xmltv_id="Las Estrellas [mx]">Las Estrellas [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|mtv" xmltv_id="MTV [mx]">MTV [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|mas-chic" xmltv_id="Más Chic [mx]">Más Chic [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|nick" xmltv_id="Nick [mx]">Nick [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|nick-jr" xmltv_id="Nick Jr [mx]">Nick Jr [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|syfy" xmltv_id="SYFY [mx]">SYFY [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|sony-channel-hd" xmltv_id="Sony Channel HD [mx]">Sony Channel HD [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|star-channel" xmltv_id="Star Channel [mx]">Star Channel [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|studio-universal" xmltv_id="Studio Universal [mx]">Studio Universal [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|tbs" xmltv_id="TBS [mx]">TBS [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|tcm" xmltv_id="TCM [mx]">TCM [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|tlnovelas" xmltv_id="TLNovelas [mx]">TLNovelas [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|tnt-hd" xmltv_id="TNT HD [mx]">TNT HD [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|tru-tv" xmltv_id="TruTV HD [mx]">TruTV HD [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|universal" xmltv_id="Universal Channel TV [mx]">Universal Channel TV [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="mx|##|warner-channel" xmltv_id="Warner Channel [mx]">Warner Channel [mx]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|a-and-e" xmltv_id="A&amp;E [co]">A&amp;E [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|amc" xmltv_id="AMC [co]">AMC [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|axn" xmltv_id="AXN [co]">AXN [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|antena-3" xmltv_id="Antena 3 [co]">Antena 3 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|bloomberg" xmltv_id="Bloomberg [co]">Bloomberg [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cnn-1" xmltv_id="CNN [co]">CNN [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cnn-en-espanol" xmltv_id="CNN en Español [co]">CNN en Español [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cable-noticias" xmltv_id="Cable Noticias [co]">Cable Noticias [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|caracol-nivelas" xmltv_id="Caracol Novelas [co]">Caracol Novelas [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|caracol-television" xmltv_id="Caracol Televisión [co]">Caracol Televisión [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cartoon-network" xmltv_id="Cartoon Network [co]">Cartoon Network [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cine-latino" xmltv_id="Cine Latino [co]">Cine Latino [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cinecanal" xmltv_id="Cinecanal [co]">Cinecanal [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cinecanal-hd" xmltv_id="Cinecanal HD [co]">Cinecanal HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|cinemax" xmltv_id="Cinemax [co]">Cinemax [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|city-tv" xmltv_id="CityTV [co]">CityTV [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|comedy-central" xmltv_id="Comedy Central [co]">Comedy Central [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|discovery-channel" xmltv_id="Discovery Channel [co]">Discovery Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|discovery-kids" xmltv_id="Discovery Kids [co]">Discovery Kids [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|disney-channel" xmltv_id="Disney Channel [co]">Disney Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|disney-junior" xmltv_id="Disney Junior [co]">Disney Junior [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|espn" xmltv_id="ESPN [co]">ESPN [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|espn-2" xmltv_id="ESPN 2 [co]">ESPN 2 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|espn-3" xmltv_id="ESPN 3 [co]">ESPN 3 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|espn-3-hd" xmltv_id="ESPN 3 HD [co]">ESPN 3 HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|espn-extra" xmltv_id="ESPN Extra [co]">ESPN Extra [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|el-gourmet" xmltv_id="El Gourmet [co]">El Gourmet [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-sport" xmltv_id="Fox Sport [co]">Fox Sport [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-sport-2" xmltv_id="Fox Sport 2 [co]">Fox Sport 2 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-sport-2-hd" xmltv_id="Fox Sport 2 HD [co]">Fox Sport 2 HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-sport-3" xmltv_id="Fox Sport 3 [co]">Fox Sport 3 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-sport-3-hd" xmltv_id="Fox Sport 3 HD [co]">Fox Sport 3 HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|glitz" xmltv_id="Glitz* [co]">Glitz* [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|golden" xmltv_id="Golden [co]">Golden [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|golden-edge" xmltv_id="Golden Edge [co]">Golden Edge [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hbo" xmltv_id="HBO [co]">HBO [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hbo-family" xmltv_id="HBO Family [co]">HBO Family [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hbo-family-hd" xmltv_id="HBO Family HD [co]">HBO Family HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hbo2" xmltv_id="HBO2 [co]">HBO2 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|home-and-health" xmltv_id="Home &amp; health [co]">Home &amp; health [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|discovery-id-hd" xmltv_id="Investigation Discovery HD [co]">Investigation Discovery HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|las-estrellas" xmltv_id="Las Estrellas [co]">Las Estrellas [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|lifetime" xmltv_id="Lifetime [co]">Lifetime [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|mtv" xmltv_id="MTV [co]">MTV [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|multipremier" xmltv_id="Multipremier [co]">Multipremier [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|mas-chic" xmltv_id="Más Chic [co]">Más Chic [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|ntn24" xmltv_id="NTN24 [co]">NTN24 [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|nick" xmltv_id="Nick [co]">Nick [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|nick-jr" xmltv_id="Nick Jr [co]">Nick Jr [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|paramount" xmltv_id="Paramount [co]">Paramount [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|rcn-television" xmltv_id="RCN Televisión [co]">RCN Televisión [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|syfy" xmltv_id="SYFY [co]">SYFY [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|senal-colombia" xmltv_id="Señal Colombia [co]">Señal Colombia [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|sony-channel" xmltv_id="Sony Channel [co]">Sony Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|sony-channel-hd" xmltv_id="Sony Channel HD [co]">Sony Channel HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|space" xmltv_id="Space [co]">Space [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|space-hd" xmltv_id="Space HD [co]">Space HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|fox-channel" xmltv_id="Star Channel [co]">Star Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|star-channel-hd" xmltv_id="Star Channel HD [co]">Star Channel HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|studio-universal" xmltv_id="Studio Universal [co]">Studio Universal [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tbs" xmltv_id="TBS [co]">TBS [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tcm" xmltv_id="TCM [co]">TCM [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tlnovelas" xmltv_id="TLNovelas [co]">TLNovelas [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tnt" xmltv_id="TNT [co]">TNT [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tnt-series" xmltv_id="TNT Series [co]">TNT Series [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|telecarribe" xmltv_id="Telecaribe [co]">Telecaribe [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|travel-and-living" xmltv_id="Travel and Living [co]">Travel and Living [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|tru-tv" xmltv_id="TruTV [co]">TruTV [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|universal" xmltv_id="Universal Channel [co]">Universal Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|warner-channel" xmltv_id="Warner Channel [co]">Warner Channel [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|win-sport" xmltv_id="Win Sport [co]">Win Sport [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|win-sport-hd" xmltv_id="Win Sport HD [co]">Win Sport HD [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hola-tv" xmltv_id="¡Hola TV! [co]">¡Hola TV! [co]</channel>
+    <channel site="[ENC]laguia.tv_0" site_id="co|##|hola-tv-hd" xmltv_id="¡Hola TV! HD [co]">¡Hola TV! HD [co]</channel>
+  </channels>
+</site>
