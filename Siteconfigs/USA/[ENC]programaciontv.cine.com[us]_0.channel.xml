@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]programaciontv.cine.com[us]_0">
+  <channels>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/cbs||us/697.png" xmltv_id="CBS">CBS</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/abc||us/698.png" xmltv_id="ABC">ABC</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/nbc||us/699.png" xmltv_id="NBC">NBC</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fox-us||us/700.png" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/pbs||us/701.png" xmltv_id="PBS">PBS</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/the-cw||us/702.png" xmltv_id="The CW">The CW</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/ion-east-cabledish||us/704.png" xmltv_id="ION East Cable/Dish">ION East Cable/Dish</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/telemundo-network-east||us/705.png" xmltv_id="Telemundo">Telemundo</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/univision-network-east||us/706.png" xmltv_id="Univisión">Univisión</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/cinemax-east||us/714.png" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/flix-east||us/729.png" xmltv_id="Flix">Flix</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fx-movie-channel||us/736.png" xmltv_id="FX Movie Channel">FX Movie Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/hbo-east||us/742.png" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/hbo-2-east||us/743.png" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/hbo-signature-east||us/744.png" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/lifetime-movies-east||us/750.png" xmltv_id="Lifetime Movies">Lifetime Movies</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/more-max-east||us/752.png" xmltv_id="More Max">More Max</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/showtime-east||us/765.png" xmltv_id="Showtime">Showtime</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/showtime-2-east||us/766.png" xmltv_id="Showtime 2">Showtime 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/starz-east||us/768.png" xmltv_id="Starz">Starz</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/starz-encore-east||us/769.png" xmltv_id="STARZ ENCORE">STARZ ENCORE</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/sundancetv-east||us/770.png" xmltv_id="SundanceTV">SundanceTV</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/turner-classic-movies||us/773.png" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/the-movie-channel-east||us/775.png" xmltv_id="The Movie Channel">The Movie Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/wgn-america||us/696.png" xmltv_id="WGN America">WGN America</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fox-us||us/700.png" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/black-entertainment-television-east||us/711.png" xmltv_id="Black Entertainment Television">Black Entertainment Television</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/bravo-east||us/712.png" xmltv_id="Bravo">Bravo</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/cmt-east||us/715.png" xmltv_id="CMT">CMT</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/comedy-central-east||us/718.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/e-entertainment-television-east||us/724.png" xmltv_id="E! Entertainment Television">E! Entertainment Television</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/freeform-east||us/732.png" xmltv_id="Freeform">Freeform</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fuse||us/734.png" xmltv_id="fuse">fuse</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fxx-east||us/737.png" xmltv_id="FXX">FXX</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fyi||us/738.png" xmltv_id="FYI">FYI</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/pop-east||us/761.png" xmltv_id="Pop">Pop</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/syfy-east||us/771.png" xmltv_id="Syfy">Syfy</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/tbs-superstation-east||us/772.png" xmltv_id="TBS Superstation">TBS Superstation</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/turner-network-television-east||us/776.png" xmltv_id="Turner Network Television">Turner Network Television</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/tv-land-east||us/780.png" xmltv_id="TV Land">TV Land</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/usa-network-east||us/781.png" xmltv_id="USA Network">USA Network</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/womens-entertainment-network-east||us/783.png" xmltv_id="Women's Entertainment Network (East)">Women's Entertainment Network (East)</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/espn-us||us/725.png" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/espn2||us/726.png" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/espn-classic||us/727.png" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/espnu||us/728.png" xmltv_id="ESPNU">ESPNU</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fox-sports-1||us/733.png" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/the-golf-channel||us/739.png" xmltv_id="The Golf Channel">The Golf Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/nbc-sports-network||us/755.png" xmltv_id="NBC Sports Network">NBC Sports Network</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/nbc||us/699.png" xmltv_id="NBC">NBC</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/bbc-america-east||us/710.png" xmltv_id="BBC America">BBC America</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/consumer-news-business-channel||us/716.png" xmltv_id="Consumer News &amp; Business Channel">Consumer News &amp; Business Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/cable-news-network||us/717.png" xmltv_id="Cable News Network">Cable News Network</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/fox-news-channel||us/730.png" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/mtv-east||us/754.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/vh1-east||us/782.png" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/cartoon-network-east||us/713.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/the-disney-channel-east||us/719.png" xmltv_id="The Disney Channel">The Disney Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/disney-xd-east||us/720.png" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC]programaciontv.cine.com[us]_0" site_id="us/nickelodeon-east||us/757.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+  </channels>
+</site>
