@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]programaciontv.cine.com[ar]_0">
+  <channels>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/a24||ar/183.png" xmltv_id="A24">A24</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/america-tv||ar/186.png" xmltv_id="América TV">América TV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/canal-9||ar/196.png" xmltv_id="Canal 9">Canal 9</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/el-trece||ar/233.png" xmltv_id="El Trece">El Trece</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/las-estrellas||ar/292.png" xmltv_id="Las Estrellas">Las Estrellas</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/max||ar/295.png" xmltv_id="Max">Max</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/pakapaka||ar/309.png" xmltv_id="Pakapaka">Pakapaka</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/telefe||ar/327.png" xmltv_id="Telefe">Telefe</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/telemundo||ar/328.png" xmltv_id="Telemundo">Telemundo</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tv-publica||ar/342.png" xmltv_id="TV Pública">TV Pública</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/amc-ar||ar/184.png" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cinecanal||ar/206.png" xmltv_id="Cinecanal">Cinecanal</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cinelatino||ar/207.png" xmltv_id="Cinelatino">Cinelatino</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cinemax||ar/208.png" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cinemax-sur||ar/209.png" xmltv_id="Cinemax Sur">Cinemax Sur</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/de-pelicula||ar/216.png" xmltv_id="De Película">De Película</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/europa-europa||ar/239.png" xmltv_id="Europa Europa">Europa Europa</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-action||ar/246.png" xmltv_id="FOX Action">FOX Action</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-action-hd||ar/247.png" xmltv_id="FOX Action HD">FOX Action HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-action-oeste||ar/248.png" xmltv_id="FOX Action Oeste">FOX Action Oeste</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-comedy-hd||ar/249.png" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-family||ar/250.png" xmltv_id="FOX Family">FOX Family</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-family-hd||ar/251.png" xmltv_id="FOX Family HD">FOX Family HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-family-oeste||ar/252.png" xmltv_id="FOX Family Oeste">FOX Family Oeste</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-movies||ar/255.png" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-movies-hd||ar/256.png" xmltv_id="FOX Movies HD">FOX Movies HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-premium-cinema||ar/257.png" xmltv_id="FOX Premium Cinema">FOX Premium Cinema</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-premium-classics||ar/258.png" xmltv_id="FOX Premium Classics">FOX Premium Classics</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fx-movies||ar/264.png" xmltv_id="FX Movies">FX Movies</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/golden||ar/267.png" xmltv_id="Golden">Golden</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/golden-edge||ar/268.png" xmltv_id="Golden Edge">Golden Edge</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo||ar/271.png" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-2||ar/272.png" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-2-hd||ar/273.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-family||ar/274.png" xmltv_id="HBO Family">HBO Family</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-family-hd||ar/275.png" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-hd-este||ar/276.png" xmltv_id="HBO HD Este">HBO HD Este</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-oeste||ar/277.png" xmltv_id="HBO Oeste">HBO Oeste</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-oeste-hd||ar/278.png" xmltv_id="HBO Oeste HD">HBO Oeste HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-plus-este||ar/279.png" xmltv_id="HBO Plus Este">HBO Plus Este</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-plus-panamericano-hd||ar/280.png" xmltv_id="HBO Plus Panamericano HD">HBO Plus Panamericano HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-signature||ar/283.png" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/hbo-signature-hd||ar/284.png" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/i-sat||ar/289.png" xmltv_id="I-SAT">I-SAT</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/incaa-tv||ar/290.png" xmltv_id="INCAA TV">INCAA TV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/lifetime||ar/293.png" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/max-prime||ar/296.png" xmltv_id="Max Prime">Max Prime</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/max-prime-panamericano-hd||ar/298.png" xmltv_id="Max Prime Panamericano HD">Max Prime Panamericano HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/max-up||ar/300.png" xmltv_id="max UP">max UP</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/paramount-channel-ar||ar/310.png" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/space||ar/319.png" xmltv_id="Space">Space</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/studio-universal||ar/320.png" xmltv_id="Studio Universal">Studio Universal</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tcm-ar||ar/325.png" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tnt-ar||ar/334.png" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/america-sports||ar/185.png" xmltv_id="América Sports">América Sports</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/dxtv||ar/228.png" xmltv_id="DXTV">DXTV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/el-garage||ar/231.png" xmltv_id="El Garage">El Garage</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/espn||ar/235.png" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/espn-ar||ar/236.png" xmltv_id="ESPN +">ESPN +</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/espn-2||ar/237.png" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/espn-3||ar/238.png" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-sports-2||ar/259.png" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-sports-3||ar/260.png" xmltv_id="FOX Sports 3">FOX Sports 3</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-sports-cono-sur||ar/261.png" xmltv_id="FOX Sports Cono Sur">FOX Sports Cono Sur</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-sports-hd||ar/262.png" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tyc-sports||ar/343.png" xmltv_id="TyC Sports">TyC Sports</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tyc-sports-2||ar/344.png" xmltv_id="TyC Sports 2">TyC Sports 2</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/boomerang-cartoon||ar/193.png" xmltv_id="Boomerang Cartoon">Boomerang Cartoon</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cartoon-network||ar/204.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/discovery-kids||ar/222.png" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/disney-channel-ar||ar/226.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/disney-junior-ar||ar/227.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/nickelodeon-ar||ar/308.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/zoomoo||ar/351.png" xmltv_id="ZooMoo">ZooMoo</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/atreseries-ar||ar/189.png" xmltv_id="Atreseries">Atreseries</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/axn-ar||ar/190.png" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/comedy-central-ar||ar/213.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/discovery-channel||ar/217.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/discovery-civilization||ar/218.png" xmltv_id="Discovery Civilization">Discovery Civilization</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/discovery-hd-theater||ar/220.png" xmltv_id="Discovery HD Theater">Discovery HD Theater</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-ar||ar/242.png" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-1-este||ar/243.png" xmltv_id="FOX 1 Este">FOX 1 Este</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-1-hd||ar/244.png" xmltv_id="FOX 1 HD">FOX 1 HD</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-1-oeste||ar/245.png" xmltv_id="FOX 1 Oeste">FOX 1 Oeste</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fox-life-ar||ar/254.png" xmltv_id="FOX Life">FOX Life</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/fx||ar/263.png" xmltv_id="FX">FX</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/sony||ar/317.png" xmltv_id="Sony">Sony</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tbs||ar/324.png" xmltv_id="TBS">TBS</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/universal-channel||ar/345.png" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/warner-channel||ar/350.png" xmltv_id="Warner Channel">Warner Channel</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/animal-planet||ar/187.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/nat-geo-wild-ar||ar/306.png" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/national-geographic-ar||ar/307.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/247-canal-de-noticias||ar/179.png" xmltv_id="24/7 Canal de Noticias">24/7 Canal de Noticias</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/26-tv||ar/180.png" xmltv_id="26 TV">26 TV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/c5n||ar/194.png" xmltv_id="C5N">C5N</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cnn||ar/211.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/cnn-en-espanol||ar/212.png" xmltv_id="CNN en Español">CNN en Español</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/canal-de-la-musica||ar/200.png" xmltv_id="Canal de la Musica">Canal de la Musica</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/htv||ar/288.png" xmltv_id="HTV">HTV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/mtv-ar||ar/302.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/mtv-hits||ar/303.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/muchmusic||ar/304.png" xmltv_id="MuchMusic">MuchMusic</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/quiero||ar/314.png" xmltv_id="Quiero">Quiero</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/vh1-ar||ar/347.png" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/az-corazon||ar/191.png" xmltv_id="Az Corazón">Az Corazón</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/pasiones||ar/311.png" xmltv_id="Pasiones">Pasiones</channel>
+    <channel site="[ENC]programaciontv.cine.com[ar]_0" site_id="ar/tlnovelas||ar/332.png" xmltv_id="TLNovelas">TLNovelas</channel>
+  </channels>
+</site>
