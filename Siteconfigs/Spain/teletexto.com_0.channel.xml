@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="teletexto.com_0">
+  <channels>
+    <channel site="teletexto.com_0" site_id="tve1&amp;tv=n" xmltv_id="TVE1">TVE1</channel>
+    <channel site="teletexto.com_0" site_id="tve2&amp;tv=n" xmltv_id="TVE2">TVE2</channel>
+    <channel site="teletexto.com_0" site_id="antena+3&amp;tv=n" xmltv_id="Antena 3">Antena 3</channel>
+    <channel site="teletexto.com_0" site_id="cuatro&amp;tv=n" xmltv_id="Cuatro">Cuatro</channel>
+    <channel site="teletexto.com_0" site_id="tele+5&amp;tv=n" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="teletexto.com_0" site_id="la+sexta&amp;tv=n" xmltv_id="La Sexta">La Sexta</channel>
+    <channel site="teletexto.com_0" site_id="atreseries&amp;tv=tdt" xmltv_id="Atreseries">Atreseries</channel>
+    <channel site="teletexto.com_0" site_id="be+mad&amp;tv=tdt" xmltv_id="Be Mad">Be Mad</channel>
+    <channel site="teletexto.com_0" site_id="boing&amp;tv=tdt" xmltv_id="Boing">Boing</channel>
+    <channel site="teletexto.com_0" site_id="clan&amp;tv=tdt" xmltv_id="Clan">Clan</channel>
+    <channel site="teletexto.com_0" site_id="disney+channel&amp;tv=tdt" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="teletexto.com_0" site_id="divinity&amp;tv=tdt" xmltv_id="Divinity">Divinity</channel>
+    <channel site="teletexto.com_0" site_id="dkiss&amp;tv=tdt" xmltv_id="DKiss">DKiss</channel>
+    <channel site="teletexto.com_0" site_id="dmax&amp;tv=tdt" xmltv_id="DMAX">DMAX</channel>
+    <channel site="teletexto.com_0" site_id="energy&amp;tv=tdt" xmltv_id="Energy">Energy</channel>
+    <channel site="teletexto.com_0" site_id="fdf&amp;tv=tdt" xmltv_id="FDF">FDF</channel>
+    <channel site="teletexto.com_0" site_id="gol&amp;tv=tdt" xmltv_id="GOL">GOL</channel>
+    <channel site="teletexto.com_0" site_id="mega&amp;tv=tdt" xmltv_id="MEGA">MEGA</channel>
+    <channel site="teletexto.com_0" site_id="neox&amp;tv=tdt" xmltv_id="Neox">Neox</channel>
+    <channel site="teletexto.com_0" site_id="nova&amp;tv=tdt" xmltv_id="Nova">Nova</channel>
+    <channel site="teletexto.com_0" site_id="paramount+network&amp;tv=tdt" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="teletexto.com_0" site_id="teledeporte&amp;tv=tdt" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel site="teletexto.com_0" site_id="ten&amp;tv=tdt" xmltv_id="Ten">Ten</channel>
+    <channel site="teletexto.com_0" site_id="trece&amp;tv=tdt" xmltv_id="Trece">Trece</channel>
+    <channel site="teletexto.com_0" site_id="a+punt&amp;tv=a" xmltv_id="À Punt">À Punt</channel>
+    <channel site="teletexto.com_0" site_id="canal+sur&amp;tv=a" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel site="teletexto.com_0" site_id="andalucia+tv&amp;tv=a" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel site="teletexto.com_0" site_id="castilla-la+mancha&amp;tv=a" xmltv_id="Castilla-La Mancha">Castilla-La Mancha</channel>
+    <channel site="teletexto.com_0" site_id="etb+1&amp;tv=a" xmltv_id="ETB 1">ETB 1</channel>
+    <channel site="teletexto.com_0" site_id="etb+2&amp;tv=a" xmltv_id="ETB 2">ETB 2</channel>
+    <channel site="teletexto.com_0" site_id="super3-33&amp;tv=a" xmltv_id="Super3-33">Super3-33</channel>
+    <channel site="teletexto.com_0" site_id="telemadrid&amp;tv=a" xmltv_id="TeleMadrid">TeleMadrid</channel>
+    <channel site="teletexto.com_0" site_id="tv3&amp;tv=a" xmltv_id="TV3">TV3</channel>
+    <channel site="teletexto.com_0" site_id="tvg&amp;tv=a" xmltv_id="TVG">TVG</channel>
+    <channel site="teletexto.com_0" site_id="tv+canaria&amp;tv=a" xmltv_id="TV Canaria">TV Canaria</channel>
+  </channels>
+</site>
