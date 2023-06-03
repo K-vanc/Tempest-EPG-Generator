@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="uktvplay.co.uk_0">
+  <channels>
+    <channel site="uktvplay.co.uk_0" site_id="dave||dave-square.f5fc4e1.png" xmltv_id="Dave">Dave</channel>
+    <channel site="uktvplay.co.uk_0" site_id="drama||drama-square.73f0b55.png" xmltv_id="Drama">Drama</channel>
+    <channel site="uktvplay.co.uk_0" site_id="yesterday||yesterday-square.0dc6e4b.png" xmltv_id="Yesterday">Yesterday</channel>
+    <channel site="uktvplay.co.uk_0" site_id="alibi||alibi-square.02a750f.png" xmltv_id="Alibi">Alibi</channel>
+    <channel site="uktvplay.co.uk_0" site_id="eden||eden-square.136afb4.png" xmltv_id="Eden">Eden</channel>
+    <channel site="uktvplay.co.uk_0" site_id="gold||gold-square.94ac58c.png" xmltv_id="Gold">Gold</channel>
+  </channels>
+</site>
