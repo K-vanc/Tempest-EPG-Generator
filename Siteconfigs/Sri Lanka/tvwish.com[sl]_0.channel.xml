@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvwish.com[sl]_0">
+  <channels>
+    <channel site="tvwish.com[sl]_0" site_id="1183" xmltv_id="CINEMAWORLD">CINEMAWORLD</channel>
+    <channel site="tvwish.com[sl]_0" site_id="1363" xmltv_id="CINEMAWORLD">CINEMAWORLD</channel>
+    <channel site="tvwish.com[sl]_0" site_id="1364" xmltv_id="CINEMACHI ACTION">CINEMACHI ACTION</channel>
+    <channel site="tvwish.com[sl]_0" site_id="1365" xmltv_id="CINEMACHI FAMILY">CINEMACHI FAMILY</channel>
+    <channel site="tvwish.com[sl]_0" site_id="1366" xmltv_id="CINEMACHI SCREAM">CINEMACHI SCREAM</channel>
+    <channel site="tvwish.com[sl]_0" site_id="1367" xmltv_id="CINEMACHI XTRA">CINEMACHI XTRA</channel>
+  </channels>
+</site>
