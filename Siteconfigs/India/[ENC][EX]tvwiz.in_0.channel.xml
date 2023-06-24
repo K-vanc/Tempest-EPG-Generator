@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvwiz.in_0">
+  <channels>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="39601043||Sony%20Marathi.v2.w132.png" xmltv_id="Sony Marathi">Sony Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="196||Jaya%20Plus.w132.png" xmltv_id="Jaya Plus">Jaya Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="296||Raj%20TV.w132.png" xmltv_id="Raj TV">Raj TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539055||Tollywood.w132.png" xmltv_id="Tollywood">Tollywood</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525805||Star%20Maa%20HD.v2.w132.png" xmltv_id="Star Maa HD">Star Maa HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539040||Puthu%20Yugam.w132.png" xmltv_id="Puthu Yugam">Puthu Yugam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539043||Raj%20Musix%20Kannada.w132.png" xmltv_id="Raj Musix Kannada">Raj Musix Kannada</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="222||Lok%20Sabha%20TV.w132.png" xmltv_id="Lok Sabha TV">Lok Sabha TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539016||DD%20Madhya%20Pradesh.w132.png" xmltv_id="DD Madhya Pradesh">DD Madhya Pradesh</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="285||Polimer%20TV.w132.png" xmltv_id="Polimer TV">Polimer TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="295||Raj%20Digital%20Plus.w132.png" xmltv_id="Raj Digital Plus">Raj Digital Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="311||Samachar%20Plus.w132.png" xmltv_id="Samachar Plus Rajasthan">Samachar Plus Rajasthan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="320||Shalom%20TV.w132.png" xmltv_id="Shalom TV">Shalom TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="86||CNBC%20TV18%20Prime%20HD.w132.png" xmltv_id="CNBC TV18 Prime HD">CNBC TV18 Prime HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="129||Disha%20TV.w132.png" xmltv_id="Disha TV">Disha TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="444||Zing.w132.png" xmltv_id="Zing">Zing</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="99||Comedy%20Central%20HD.v2.w132.png" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="264||News24.w132.png" xmltv_id="News24">News24</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="214||Kolkata%20TV.w132.png" xmltv_id="Kolkata TV">Kolkata TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="372||Surya%20TV.v2.w132.png" xmltv_id="Surya TV">Surya TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="428||Zee%20Marathi.v2.w132.png" xmltv_id="Zee Marathi">Zee Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539020||ETV%20Cinema.w132.png" xmltv_id="ETV Cinema">ETV Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25271422||Pitaara.w132.png" xmltv_id="Pitaara">Pitaara</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="190||Jaihind%20TV.w132.png" xmltv_id="Jaihind TV">Jaihind TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871849||Raj%20News%2024x7.w132.png" xmltv_id="Raj News 24x7">Raj News 24x7</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="38297457||Zee%20Uttar%20Pradesh%20Uttarakhand.v2.w132.png" xmltv_id="Zee Uttar Pradesh Uttarakhand">Zee Uttar Pradesh Uttarakhand</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="38297356||Zee%20Bollywood.v2.w132.png" xmltv_id="Zee Bollywood">Zee Bollywood</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="38297208||Zee%20Telugu%20HD.v2.w132.png" xmltv_id="Zee Telugu HD">Zee Telugu HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="192||Jalsha%20Movies.v2.w132.png" xmltv_id="Jalsha Movies">Jalsha Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="38297172||Zee%20Cinemalu%20HD.v2.w132.png" xmltv_id="Zee Cinemalu HD">Zee Cinemalu HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="358||Star%20Sports%20Select%201.v2.w132.png" xmltv_id="Star Sports Select 1">Star Sports Select 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="33359069||And%20flix%20HD.v2.w132.png" xmltv_id="And flix HD">And flix HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="352||Star%20Sports%201%20Tamil.v2.w132.png" xmltv_id="Star Sports 1 Tamil">Star Sports 1 Tamil</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="39515105||Star%20Sports%203.v2.w132.png" xmltv_id="Star Sports 3">Star Sports 3</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="256||National%20Geographic%20HD.v2.w132.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="39516423||Surya%20Comedy.v2.w132.png" xmltv_id="Surya Comedy">Surya Comedy</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="17648320||Star%20Maa%20Movies%20HD.v2.w132.png" xmltv_id="Star Maa Movies HD">Star Maa Movies HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="68||Bhakti%20TV.w132.png" xmltv_id="Bhakti TV">Bhakti TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="151||Flowers.w132.png" xmltv_id="Flowers">Flowers</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="39516549||Colors%20Kannada%20Cinema.v2.w132.png" xmltv_id="Colors Kannada Cinema">Colors Kannada Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="393||TV5%20Monde%20Asia.w132.png" xmltv_id="TV5 Monde Asia">TV5 Monde Asia</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="81||Chutti%20TV.v2.w132.png" xmltv_id="Chutti TV">Chutti TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="51||SONY%20YAY.v2.w132.png" xmltv_id="SONY YAY">SONY YAY</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="384||Ten%201.v2.w132.png" xmltv_id="Ten 1">Ten 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683045||Tata%20Sky%20Star%20Movies%20HD%20+1.v2.w132.png" xmltv_id="Tata Sky Star Movies HD +1">Tata Sky Star Movies HD +1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="18758267||Republic%20TV.w132.png" xmltv_id="Republic TV">Republic TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="59||Asianet%20Plus.v2.w132.png" xmltv_id="Asianet Plus">Asianet Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="128||Discovery%20Turbo.w132.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="150||Filmy.w132.png" xmltv_id="Filmy">Filmy</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="18758663||Housefull%20Action.w132.png" xmltv_id="Housefull Action">Housefull Action</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="108||DD%20Kashir.w132.png" xmltv_id="DD Kashir">DD Kashir</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="225||Star%20Maa%20Music.v2.w132.png" xmltv_id="Star Maa Music">Star Maa Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="138||ETV%20Andhra%20Pradesh.w132.png" xmltv_id="ETV Andhra Pradesh">ETV Andhra Pradesh</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="101||Dangal%20TV.w132.png" xmltv_id="Dangal TV">Dangal TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="157||FTV.w132.png" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="199||Jinvani.w132.png" xmltv_id="Jinvani">Jinvani</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="293||Public%20TV.w132.png" xmltv_id="Public TV">Public TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="385||Thanthi%20TV.w132.png" xmltv_id="Thanthi TV">Thanthi TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="111||DD%20National.w132.png" xmltv_id="DD National">DD National</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="134||E24.w132.png" xmltv_id="E24">E24</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="189||Ishwar%20TV.w132.png" xmltv_id="Ishwar TV">Ishwar TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="231||Mastii.w132.png" xmltv_id="Mastii">Mastii</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="50||Animal%20Planet%20HD.w132.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="434||Zee%20Salaam.v2.w132.png" xmltv_id="Zee Salaam">Zee Salaam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="213||Kochu%20TV.v2.w132.png" xmltv_id="Kochu TV">Kochu TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="215||KTV.v2.w132.png" xmltv_id="KTV">KTV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="229||Makkal%20TV.w132.png" xmltv_id="Makkal TV">Makkal TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="299||Rengoni%20TV.w132.png" xmltv_id="Rengoni TV">Rengoni TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="106||DD%20Girnar.w132.png" xmltv_id="DD Girnar">DD Girnar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="230||Manorama%20News.w132.png" xmltv_id="Manorama News">Manorama News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="325||Sonic.w132.png" xmltv_id="Sonic">Sonic</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="284||Polimer%20News.w132.png" xmltv_id="Polimer News">Polimer News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="298||Rang%20TV.w132.png" xmltv_id="Rang TV">Rang TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="314||Sangeet%20Bangla.w132.png" xmltv_id="Sangeet Bangla">Sangeet Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="394||TV9%20Gujarati.w132.png" xmltv_id="TV9 Gujarati">TV9 Gujarati</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="475||Big%20Magic%20Ganga.v2.w132.png" xmltv_id="Big Magic Ganga">Big Magic Ganga</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="260||NDTV%20Profit.w132.png" xmltv_id="NDTV Profit">NDTV Profit</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="197||Jaya%20TV.w132.png" xmltv_id="Jaya TV">Jaya TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="392||TV5.w132.png" xmltv_id="TV5">TV5</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="326||Sony%20AATH.v2.w132.png" xmltv_id="Sony AATH">Sony AATH</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="19726162||Star%20Sports%20Select%202.v2.w132.png" xmltv_id="Star Sports Select 2">Star Sports Select 2</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="375||SVBC.w132.png" xmltv_id="SVBC">SVBC</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="202||Kairali%20We%20TV.w132.png" xmltv_id="Kairali We TV">Kairali We TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="386||Times%20Now.w132.png" xmltv_id="Times Now">Times Now</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="276||OTV.w132.png" xmltv_id="OTV">OTV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="476||DD%20Rajasthan.w132.png" xmltv_id="DD Rajasthan">DD Rajasthan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="36||9X%20Tashan.w132.png" xmltv_id="9X Tashan">9X Tashan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="40||ABN%20Andhra%20Jyothi.w132.png" xmltv_id="ABN Andhra Jyothi">ABN Andhra Jyothi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="279||&amp;pictures.v2.w132.png" xmltv_id="&amp;pictures">&amp;pictures</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539054||Ten%20TV%20Telugu%20News.w132.png" xmltv_id="Ten TV Telugu News">Ten TV Telugu News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="446||Naaptol%20Blue.w132.png" xmltv_id="Naaptol Blue">Naaptol Blue</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="438||Zee%20Tamil.v2.w132.png" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="433||Zee%20Rajasthan%20News.v2.w132.png" xmltv_id="Zee Rajasthan News">Zee Rajasthan News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="367||Sun%20Music.v2.w132.png" xmltv_id="Sun Music">Sun Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="161||Gemini%20Life.v2.w132.png" xmltv_id="Gemini Life">Gemini Life</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="80||Chintu%20TV.v2.w132.png" xmltv_id="Chintu TV">Chintu TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="359||Star%20Utsav.v2.w132.png" xmltv_id="Star Utsav">Star Utsav</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="153||Food%20Food.v2.w132.png" xmltv_id="Food Food">Food Food</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="486||Aastha%20Bhajan.w132.png" xmltv_id="Aastha Bhajan">Aastha Bhajan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="115||DD%20Punjabi.w132.png" xmltv_id="DD Punjabi">DD Punjabi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="53||Arihant.w132.png" xmltv_id="Arihant">Arihant</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="234||MBC.w132.png" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="119||DD%20Sports.w132.png" xmltv_id="DD Sports">DD Sports</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="310||Sakshi%20TV.w132.png" xmltv_id="Sakshi TV">Sakshi TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539017||DD%20Podhigai.w132.png" xmltv_id="DD Podhigai">DD Podhigai</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="308||Sahara%20One.w132.png" xmltv_id="Sahara One">Sahara One</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="319||Shakti%20TV.w132.png" xmltv_id="Shakti TV">Shakti TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="272||Nick%20Junior.v2.w132.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="84||CNBC%20Bajar.w132.png" xmltv_id="CNBC Bajar">CNBC Bajar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="273||Nickelodeon.v2.w132.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="163||Gemini%20Music.v2.w132.png" xmltv_id="Gemini Music">Gemini Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="20204397||Sony%20Ten%203%20HD.v2.w132.png" xmltv_id="Sony Ten 3 HD">Sony Ten 3 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="348||Star%20Pravah.v2.w132.png" xmltv_id="Star Pravah">Star Pravah</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="374||Suvarna%20Plus.v2.w132.png" xmltv_id="Suvarna Plus">Suvarna Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="482||Travel%20XP.w132.png" xmltv_id="Travel XP">Travel XP</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539039||Pratidin%20Time.w132.png" xmltv_id="Pratidin Time">Pratidin Time</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="397||&amp;tv.v2.w132.png" xmltv_id="&amp;tv">&amp;tv</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="291||PTC%20News.w132.png" xmltv_id="PTC News">PTC News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539041||R%20Plus%20News.w132.png" xmltv_id="R Plus News">R Plus News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539046||Sangeet%20Marathi.w132.png" xmltv_id="Sangeet Marathi">Sangeet Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539957||ETV%20Life.w132.png" xmltv_id="ETV Life">ETV Life</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539037||Naxatra%20news.w132.png" xmltv_id="Naxatra news">Naxatra news</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="177||HM%20TV.w132.png" xmltv_id="HM TV">HM TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="236||Mega%20TV.w132.png" xmltv_id="Mega TV">Mega TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="54||Aseervatham%20TV.w132.png" xmltv_id="Aseervatham TV">Aseervatham TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="194||Jaya%20Max.w132.png" xmltv_id="Jaya Max">Jaya Max</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="205||Kalaignar%20Sirippoli.w132.png" xmltv_id="Kalaignar Sirippoli">Kalaignar Sirippoli</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="263||Nepal%201.w132.png" xmltv_id="Nepal 1">Nepal 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="223||Star%20Maa%20Gold.v2.w132.png" xmltv_id="Star Maa Gold">Star Maa Gold</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="112||DD%20NE.w132.png" xmltv_id="DD NE">DD NE</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="431||Zee%20Punjab%20Haryana%20Himachal.v2.w132.png" xmltv_id="Zee Punjab Haryana Himachal">Zee Punjab Haryana Himachal</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="104||DD%20Bihar.w132.png" xmltv_id="DD Bihar">DD Bihar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="70||Bindass.v2.w132.png" xmltv_id="Bindass">Bindass</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="168||Goodness%20TV.w132.png" xmltv_id="Goodness TV">Goodness TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="209||Kappa%20TV.w132.png" xmltv_id="Kappa TV">Kappa TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050032||Star%20Vijay%20HD.v2.w132.png" xmltv_id="Star Vijay HD">Star Vijay HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539057||VTV%20Gujarati.w132.png" xmltv_id="VTV Gujarati">VTV Gujarati</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="105||DD%20Chandana.w132.png" xmltv_id="DD Chandana">DD Chandana</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="141||ETV%20News%20Bangla.w132.png" xmltv_id="ETV News Bangla">ETV News Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="210||Kashish%20News.w132.png" xmltv_id="Kashish News">Kashish News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="318||Seithigal.w132.png" xmltv_id="Seithigal">Seithigal</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="39||Aastha.w132.png" xmltv_id="Aastha">Aastha</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="167||God%20TV.w132.png" xmltv_id="God TV">God TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="228||Maiboli%20Tv.w132.png" xmltv_id="Maiboli Tv">Maiboli Tv</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="278||Peace%20of%20Mind.w132.png" xmltv_id="Peace of Mind">Peace of Mind</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="288||Prarthana%20TV.w132.png" xmltv_id="Prarthana TV">Prarthana TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="96||Colors%20Marathi.v2.w132.png" xmltv_id="Colors Marathi">Colors Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871844||VH1%20HD.v2.w132.png" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="88||CNN%20International.v2.w132.png" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050028||Jalsha%20Movies%20HD.v2.w132.png" xmltv_id="Jalsha Movies HD">Jalsha Movies HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7518104||Zee%20Anmol%20Cinema.v2.w132.png" xmltv_id="Zee Anmol Cinema">Zee Anmol Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="156||Fox%20Life%20HD.v2.w132.png" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="49847056||Jeet%20Prime.v2.w132.png" xmltv_id="Jeet Prime">Jeet Prime</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="49847105||Jeet%20Prime%20HD.v2.w132.png" xmltv_id="Jeet Prime HD">Jeet Prime HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="52||APN.w132.png" xmltv_id="APN">APN</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="19726164||MK%20SIX.w132.png" xmltv_id="MK SIX">MK SIX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525813||Vendhar%20TV.w132.png" xmltv_id="Vendhar TV">Vendhar TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="8944986||Raj%20Musix%20Malayalam.w132.png" xmltv_id="Raj Musix Malayalam">Raj Musix Malayalam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="8944987||Raj%20News%20Malayalam.w132.png" xmltv_id="Raj News Malayalam">Raj News Malayalam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="10112429||Manoranjan%20Movies.w132.png" xmltv_id="Manoranjan Movies">Manoranjan Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="10114872||Samay%20UP%20Uttrakhand.w132.png" xmltv_id="Samay UP Uttrakhand">Samay UP Uttrakhand</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="280||&amp;pictures%20HD.v2.w132.png" xmltv_id="&amp;pictures HD">&amp;pictures HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539012||Channel%20One.w132.png" xmltv_id="Channel One">Channel One</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="102||DD%20Bangla.w132.png" xmltv_id="DD Bangla">DD Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="114||DD%20Odia.w132.png" xmltv_id="DD Odia">DD Odia</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="239||MH%20One.w132.png" xmltv_id="MH One">MH One</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="274||NTV%20News.w132.png" xmltv_id="NTV News">NTV News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="94||Colors%20Infinity%20HD.v2.w132.png" xmltv_id="Colors Infinity HD">Colors Infinity HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539009||Bhojpuri%20Cinema.w132.png" xmltv_id="Bhojpuri Cinema">Bhojpuri Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="398||&amp;tv%20HD.v2.w132.png" xmltv_id="&amp;tv HD">&amp;tv HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525807||Zee%20Yuva.v2.w132.png" xmltv_id="Zee Yuva">Zee Yuva</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7518105||MTV%20Beats.v2.w132.png" xmltv_id="MTV Beats">MTV Beats</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539018||DD%20Yadagiri.w132.png" xmltv_id="DD Yadagiri">DD Yadagiri</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539014||Chithiram.w132.png" xmltv_id="Chithiram">Chithiram</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="315||Sangeet%20Bhojpuri.w132.png" xmltv_id="Sangeet Bhojpuri">Sangeet Bhojpuri</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539033||Manoranjan%20TV.w132.png" xmltv_id="Manoranjan TV">Manoranjan TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="169||GSTV.w132.png" xmltv_id="GSTV">GSTV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="235||Media%20One.w132.png" xmltv_id="Media One">Media One</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="201||Kairali%20TV.w132.png" xmltv_id="Kairali TV">Kairali TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="193||Janam%20TV.w132.png" xmltv_id="Janam TV">Janam TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="238||Mh1%20Shraddha.w132.png" xmltv_id="Mh1 Shraddha">Mh1 Shraddha</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="286||Prag%20News.w132.png" xmltv_id="Prag News">Prag News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="307||Safari%20TV.w132.png" xmltv_id="Safari TV">Safari TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="297||Ramdhenu%20TV.w132.png" xmltv_id="Ramdhenu TV">Ramdhenu TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="265||News%207%20Tamil.w132.png" xmltv_id="News 7 Tamil">News 7 Tamil</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="20689808||DSPORT.w132.png" xmltv_id="DSPORT HD">DSPORT HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="204||Kalaignar%20Murasu.w132.png" xmltv_id="Kalaignar Murasu">Kalaignar Murasu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="185||India%20News%20Haryana.w132.png" xmltv_id="India News Haryana">India News Haryana</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="266||News%20Live.w132.png" xmltv_id="News Live">News Live</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="268||News%20Time.w132.png" xmltv_id="News Time">News Time</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050042||Sony%20Wah.v2.w132.png" xmltv_id="Sony Wah">Sony Wah</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="282||PIX%20HD.v2.w132.png" xmltv_id="PIX HD">PIX HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="20204396||Sony%20Ten%202%20HD.v2.w132.png" xmltv_id="Sony Ten 2 HD">Sony Ten 2 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="253||Nat%20Geo%20Wild.v2.w132.png" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539008||Baby%20TV%20HD.v2.w132.png" xmltv_id="Baby TV HD">Baby TV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="270||NewsX.w132.png" xmltv_id="NewsX">NewsX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="294||Puthiya%20Thalaimurai.w132.png" xmltv_id="Puthiya Thalaimurai">Puthiya Thalaimurai</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="300||Reporter%20TV.w132.png" xmltv_id="Reporter TV">Reporter TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="316||Sanskar.w132.png" xmltv_id="Sanskar">Sanskar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="467||Music%20India.w132.png" xmltv_id="Music India">Music India</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539011||CTVN%20AKD%20Plus.w132.png" xmltv_id="CTVN AKD Plus">CTVN AKD Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="313||Sandesh%20News.w132.png" xmltv_id="Sandesh News">Sandesh News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539024||Express%20News.w132.png" xmltv_id="Express News">Express News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="490||RT.w132.png" xmltv_id="Russia Today - RT">Russia Today - RT</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050036||Magicbricks%20Now.w132.png" xmltv_id="Magicbricks Now">Magicbricks Now</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539956||J%20Movies.w132.png" xmltv_id="J Movies">J Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="483||Divya%20TV.w132.png" xmltv_id="Divya TV">Divya TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="477||DD%20UP.w132.png" xmltv_id="DD UP">DD UP</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539044||STV%20Haryana%20News.w132.png" xmltv_id="STV Haryana News">STV Haryana News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="378||Tarang%20Music.w132.png" xmltv_id="Tarang Music">Tarang Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="408||Vasanth%20TV.w132.png" xmltv_id="Vasanth TV">Vasanth TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="473||TV9%20Marathi.w132.png" xmltv_id="TV9 Marathi">TV9 Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="368||Sun%20News.v2.w132.png" xmltv_id="Sun News">Sun News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="371||Surya%20Music.v2.w132.png" xmltv_id="Surya Music">Surya Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539959||ETV%20Abhiruchi.w132.png" xmltv_id="ETV Abhiruchi">ETV Abhiruchi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="110||DD%20Malayalam.w132.png" xmltv_id="DD Malayalam">DD Malayalam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871851||Sathiyam%20TV.w132.png" xmltv_id="Sathiyam TV">Sathiyam TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539954||Raj%20News%20Kannada.w132.png" xmltv_id="Raj News Kannada">Raj News Kannada</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539029||Katyayani.w132.png" xmltv_id="Katyayani">Katyayani</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="100||Dabangg%20TV.w132.png" xmltv_id="Dabangg TV">Dabangg TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="8944988||Raj%20Pariwar.w132.png" xmltv_id="Raj Pariwar">Raj Pariwar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="198||Jeevan%20TV.w132.png" xmltv_id="Jeevan TV">Jeevan TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="338||Sri%20Sankara%20TV.w132.png" xmltv_id="Sri Sankara TV">Sri Sankara TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539030||Kaumudy%20TV.w132.png" xmltv_id="Kaumudy TV">Kaumudy TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871845||Raj%20Musix%20Telugu.w132.png" xmltv_id="Raj Musix Telugu">Raj Musix Telugu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539048||Shri%20News.w132.png" xmltv_id="Shri News">Shri News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="277||Paras%20TV.w132.png" xmltv_id="Paras TV">Paras TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="399||Udaya%20Comedy.v2.w132.png" xmltv_id="Udaya Comedy">Udaya Comedy</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="415||Zee%2024%20Taas.v2.w132.png" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871846||Raj%20News%20Telugu.w132.png" xmltv_id="Raj News Telugu">Raj News Telugu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525809||Vijay%20Super.v2.w132.png" xmltv_id="Vijay Super">Vijay Super</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="395||TV9%20Kannada.w132.png" xmltv_id="TV9 Kannada">TV9 Kannada</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="6631312||Fakt%20Marathi.w132.png" xmltv_id="Fakt Marathi">Fakt Marathi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="405||UTV%20Action.v2.w132.png" xmltv_id="UTV Action">UTV Action</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="47||Amrita%20TV.w132.png" xmltv_id="Amrita TV">Amrita TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="191||Jai%20Maharashtra.w132.png" xmltv_id="Jai Maharashtra">Jai Maharashtra</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="283||Pogo.w132.png" xmltv_id="Pogo">Pogo</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="76||Channel%20NewsAsia.w132.png" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="12919882||Zee%20Marathi%20HD.v2.w132.png" xmltv_id="Zee Marathi HD">Zee Marathi HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="10113072||Zee%20Talkies%20HD.v2.w132.png" xmltv_id="Zee Talkies HD">Zee Talkies HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="8944985||MTV%20Beats%20HD.v2.w132.png" xmltv_id="MTV Beats HD">MTV Beats HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="226||Star%20Maa.v2.w132.png" xmltv_id="Star Maa">Star Maa</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050031||Star%20Pravah%20HD.v2.w132.png" xmltv_id="Star Pravah HD">Star Pravah HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14173379||Star%20Gold%20Select%20HD.v2.w132.png" xmltv_id="Star Gold Select HD">Star Gold Select HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="211||Kasthuri%20TV.w132.png" xmltv_id="Kasthuri TV">Kasthuri TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="232||Mathrubhumi%20News.w132.png" xmltv_id="Mathrubhumi News">Mathrubhumi News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="379||Tarang%20TV.w132.png" xmltv_id="Tarang TV">Tarang TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="445||Zoom.w132.png" xmltv_id="Zoom">Zoom</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="258||NDTV%20Good%20Times.w132.png" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="396||TV9%20Telugu.w132.png" xmltv_id="TV9 Telugu">TV9 Telugu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="309||Sahara%20Samay%20Maha%20Guj.w132.png" xmltv_id="Sahara Samay Maha Guj">Sahara Samay Maha Guj</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539045||Samay%20National.w132.png" xmltv_id="Samay National">Samay National</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="67||BBC%20World%20News.w132.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="93||Colors%20Infinity.v2.w132.png" xmltv_id="Colors Infinity">Colors Infinity</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="15718872||Gemini%20Movies%20HD.v2.w132.png" xmltv_id="Gemini Movies HD">Gemini Movies HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="401||Udaya%20Music.v2.w132.png" xmltv_id="Udaya Music">Udaya Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="15718870||Udaya%20HD.v2.w132.png" xmltv_id="Udaya HD">Udaya HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="8944984||Sony%20SAB%20HD.v2.w132.png" xmltv_id="Sony SAB HD">Sony SAB HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="254||Nat%20Geo%20Wild%20HD.v2.w132.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="183||India%2024x7.w132.png" xmltv_id="Zee Hindustan">Zee Hindustan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="186||India%20Today.w132.png" xmltv_id="India Today">India Today</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="12919881||Zee%20Bangla%20HD.v2.w132.png" xmltv_id="Zee Bangla HD">Zee Bangla HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="351||Star%20Sports%201%20Hindi.v2.w132.png" xmltv_id="Star Sports 1 Hindi">Star Sports 1 Hindi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="34||9XM.w132.png" xmltv_id="9XM">9XM</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="109||DD%20Kisan.w132.png" xmltv_id="DD Kisan">DD Kisan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="42||ABP%20Majha.w132.png" xmltv_id="ABP Majha">ABP Majha</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="38||Aakash%20Aath.w132.png" xmltv_id="Aakash Aath">Aakash Aath</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="466||9X%20Jalwa.w132.png" xmltv_id="9X Jalwa">9X Jalwa</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="116||DD%20Rajya%20Sabha%20TV.w132.png" xmltv_id="DD Rajya Sabha TV">DD Rajya Sabha TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="41||ABP%20Ananda.w132.png" xmltv_id="ABP Ananda">ABP Ananda</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="182||IBN%20Lokmat.w132.png" xmltv_id="IBN Lokmat">IBN Lokmat</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="257||NDTV%2024x7.w132.png" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="49||Animal%20Planet.w132.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14172851||SONY%20BBC%20Earth.v2.w132.png" xmltv_id="SONY BBC Earth">SONY BBC Earth</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539060||Zee%20Bihar%20Jharkhand.v2.w132.png" xmltv_id="Zee Bihar Jharkhand">Zee Bihar Jharkhand</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="5684921||Colors%20Bangla%20HD.v2.w132.png" xmltv_id="Colors Bangla HD">Colors Bangla HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="127||Discovery%20Tamil.w132.png" xmltv_id="Discovery Tamil">Discovery Tamil</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="15718869||Surya%20HD.v2.w132.png" xmltv_id="Surya HD">Surya HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525812||Star%20Sports%20Select%202%20HD.v2.w132.png" xmltv_id="Star Sports Select 2 HD">Star Sports Select 2 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="85||CNBC%20TV18.w132.png" xmltv_id="CNBC TV18">CNBC TV18</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="133||DY%20365.w132.png" xmltv_id="DY 365">DY 365</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="411||Vissa.w132.png" xmltv_id="Vissa">Vissa</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="117||DD%20Sahyadri.w132.png" xmltv_id="DD Sahyadri">DD Sahyadri</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539025||France%2024.w132.png" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="455||Australia%20Plus.w132.png" xmltv_id="Australia Plus">Australia Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539006||Anjan%20TV.w132.png" xmltv_id="Anjan TV">Anjan TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="130||Disney%20Channel.v2.w132.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="103||DD%20Bharati.w132.png" xmltv_id="DD Bharati">DD Bharati</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="137||ET%20Now.w132.png" xmltv_id="ET Now">ET Now</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="73||Captain%20TV.w132.png" xmltv_id="Captain TV">Captain TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="33||9X%20Jhakaas.w132.png" xmltv_id="9X Jhakaas">9X Jhakaas</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="267||News%20Nation.w132.png" xmltv_id="News Nation">News Nation</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="89||Colors%20Bangla.v2.w132.png" xmltv_id="Colors Bangla">Colors Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="97||Colors%20Oriya.v2.w132.png" xmltv_id="Colors Oriya">Colors Oriya</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7871850||MNX%20HD.v2.w132.png" xmltv_id="MNX HD">MNX HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="90||Colors.v2.w132.png" xmltv_id="Colors">Colors</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050027||Colors%20Marathi%20HD.v2.w132.png" xmltv_id="Colors Marathi HD">Colors Marathi HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="224||Star%20Maa%20Movies.v2.w132.png" xmltv_id="Star Maa Movies">Star Maa Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="131||Disney%20Junior.v2.w132.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050040||Star%20Utsav%20Movies.v2.w132.png" xmltv_id="Star Utsav Movies">Star Utsav Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="146||ETV%20Telangana.w132.png" xmltv_id="ETV Telangana">ETV Telangana</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="259||NDTV%20India.w132.png" xmltv_id="NDTV India">NDTV India</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="292||PTC%20Punjabi.w132.png" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539038||PTC%20Chakde.w132.png" xmltv_id="PTC Chakde">PTC Chakde</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="83||CNBC%20Awaaz.w132.png" xmltv_id="CNBC Awaaz">CNBC Awaaz</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="56||Asianet%20HD.v2.w132.png" xmltv_id="Asianet HD">Asianet HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="65||B4U%20Music.w132.png" xmltv_id="B4U Music">B4U Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="387||TLC.w132.png" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="208||Kanak%20TV.w132.png" xmltv_id="Kanak News">Kanak News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="423||Zee%20Cinema.v2.w132.png" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="389||T%20News.w132.png" xmltv_id="T News">T News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="420||Zee%20Business.v2.w132.png" xmltv_id="Zee Business">Zee Business</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="337||Sony%20SIX%20HD.v2.w132.png" xmltv_id="Sony SIX HD">Sony SIX HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="121||Dhoom%20Music.w132.png" xmltv_id="Dhoom Music">Dhoom Music</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="350||Star%20Sports%202.v2.w132.png" xmltv_id="Star Sports 2">Star Sports 2</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25269807||Disney%20International%20HD.v2.w132.png" xmltv_id="Disney International HD">Disney International HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="417||Zee%20Anmol.v2.w132.png" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60||Star%20Suvarna.v2.w132.png" xmltv_id="Star Suvarna">Star Suvarna</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="344||Star%20Movies%20HD.v2.w132.png" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="419||Zee%20Bangla.v2.w132.png" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="339||Star%20Gold.v2.w132.png" xmltv_id="Star Gold">Star Gold</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="44||Adhyatma%20TV.w132.png" xmltv_id="Adhyatma TV">Adhyatma TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="365||Sun%20Life.v2.w132.png" xmltv_id="Sun Life">Sun Life</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="407||V6%20News.w132.png" xmltv_id="V6 News">V6 News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="406||UTV%20Movies.v2.w132.png" xmltv_id="UTV Movies">UTV Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="357||Star%20Sports%201%20HD%20Hindi.v2.w132.png" xmltv_id="Star Sports 1 HD Hindi">Star Sports 1 HD Hindi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14172852||SONY%20BBC%20Earth%20HD.v2.w132.png" xmltv_id="SONY BBC Earth HD">SONY BBC Earth HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="233||Mazhavil%20Manorama.w132.png" xmltv_id="Mazhavil Manorama">Mazhavil Manorama</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="118||DD%20Saptagiri.w132.png" xmltv_id="DD Saptagiri">DD Saptagiri</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539021||ETV%20Plus.w132.png" xmltv_id="ETV Plus">ETV Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="430||Zee%20News.v2.w132.png" xmltv_id="Zee News">Zee News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="427||Zee%20Kannada.v2.w132.png" xmltv_id="Zee Kannada">Zee Kannada</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="418||Zee%20Bangla%20Cinema.v2.w132.png" xmltv_id="Zee Bangla Cinema">Zee Bangla Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="5684922||Colors%20Kannada%20HD.v2.w132.png" xmltv_id="Colors Kannada HD">Colors Kannada HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="149||ETV%20Urdu.w132.png" xmltv_id="ETV Urdu">ETV Urdu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="162||Gemini%20Movies.v2.w132.png" xmltv_id="Gemini Movies">Gemini Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="400||Udaya%20Movies.v2.w132.png" xmltv_id="Udaya Movies">Udaya Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539034||Mazhavil%20Manorama%20HD.w132.png" xmltv_id="Mazhavil Manorama HD">Mazhavil Manorama HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="403||Udaya%20TV.v2.w132.png" xmltv_id="Udaya TV">Udaya TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="216||KTV%20HD.v2.w132.png" xmltv_id="KTV HD">KTV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="340||Star%20Gold%20HD.v2.w132.png" xmltv_id="Star Gold HD">Star Gold HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="349||Star%20Sports%201.v2.w132.png" xmltv_id="Star Sports 1">Star Sports 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="343||Star%20Movies.v2.w132.png" xmltv_id="Star Movies">Star Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="437||Zee%20Talkies.v2.w132.png" xmltv_id="Zee Talkies">Zee Talkies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="179||Hungama.v2.w132.png" xmltv_id="Hungama">Hungama</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="345||Star%20Movies%20Select%20HD.v2.w132.png" xmltv_id="Star Movies Select HD">Star Movies Select HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="302||Romedy%20Now.v2.w132.png" xmltv_id="Romedy Now">Romedy Now</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="245||Movies%20Now%20HD.v2.w132.png" xmltv_id="Movies Now HD">Movies Now HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="175||History%20TV18.w132.png" xmltv_id="History TV18">History TV18</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="416||Zee%20Action.v2.w132.png" xmltv_id="Zee Action">Zee Action</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="10113274||BTV%20News.w132.png" xmltv_id="BTV News">BTV News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="206||Kalaignar%20TV.w132.png" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="64||B4U%20Movies.w132.png" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="43||ABP%20News.w132.png" xmltv_id="ABP News">ABP News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="424||Zee%20Cinema%20HD.v2.w132.png" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="369||Sun%20TV.v2.w132.png" xmltv_id="Sun TV">Sun TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="370||Sun%20TV%20HD.v2.w132.png" xmltv_id="Sun TV HD">Sun TV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="439||Zee%20Telugu.v2.w132.png" xmltv_id="Zee Telugu">Zee Telugu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050038||Nick%20HD+.v2.w132.png" xmltv_id="Nick HD+">Nick HD+</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="366||Sun%20Music%20HD.v2.w132.png" xmltv_id="Sun Music HD">Sun Music HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="328||Sony%20Entertainment%20HD.v2.w132.png" xmltv_id="Sony Entertainment HD">Sony Entertainment HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="166||Gemini%20TV%20HD.v2.w132.png" xmltv_id="Gemini TV HD">Gemini TV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="281||PIX.v2.w132.png" xmltv_id="PIX">PIX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="355||Star%20Sports%20HD%201.v2.w132.png" xmltv_id="Star Sports HD 1">Star Sports HD 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="356||Star%20Sports%20HD%202.v2.w132.png" xmltv_id="Star Sports HD 2">Star Sports HD 2</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525811||Star%20Sports%20Select%201%20HD.v2.w132.png" xmltv_id="Star Sports Select 1 HD">Star Sports Select 1 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="155||Fox%20Life.v2.w132.png" xmltv_id="Fox Life">Fox Life</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="15718871||Gemini%20Music%20HD.v2.w132.png" xmltv_id="Gemini Music HD">Gemini Music HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050029||Romedy%20Now%20HD.v2.w132.png" xmltv_id="Romedy Now HD">Romedy Now HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="244||Movies%20Now.v2.w132.png" xmltv_id="Movies Now">Movies Now</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="243||MN+%20HD.v2.w132.png" xmltv_id="MN+ HD">MN+ HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="334||Sony%20Pal.v2.w132.png" xmltv_id="Sony Pal">Sony Pal</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="187||India%20TV.w132.png" xmltv_id="India TV">India TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="123||Discovery%20HD.w132.png" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="37||Aaj%20Tak.w132.png" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="122||Discovery.w132.png" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="126||Discovery%20Science.w132.png" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="341||Star%20Jalsha.v2.w132.png" xmltv_id="Star Jalsha">Star Jalsha</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="422||Zee%20Cafe%20HD.v2.w132.png" xmltv_id="Zee Cafe HD">Zee Cafe HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="441||Zee%20TV%20HD.v2.w132.png" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="421||Zee%20Cafe.v2.w132.png" xmltv_id="Zee Cafe">Zee Cafe</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="440||Zee%20TV.v2.w132.png" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="249||MTV.v2.w132.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="203||Kalaignar%20Isai%20Aruvi.w132.png" xmltv_id="Kalaignar Isai Aruvi">Kalaignar Isai Aruvi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="69||Big%20Magic.v2.w132.png" xmltv_id="Big Magic">Big Magic</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="92||Colors%20HD.v2.w132.png" xmltv_id="Colors HD">Colors HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="165||Gemini%20TV.v2.w132.png" xmltv_id="Gemini TV">Gemini TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="160||Gemini%20Comedy.v2.w132.png" xmltv_id="Gemini Comedy">Gemini Comedy</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="45||Adithya%20TV.v2.w132.png" xmltv_id="Adithya TV">Adithya TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="327||Sony%20Entertainment.v2.w132.png" xmltv_id="Sony Entertainment">Sony Entertainment</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="347||Star%20Plus%20HD.v2.w132.png" xmltv_id="Star Plus HD">Star Plus HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="346||Star%20Plus.v2.w132.png" xmltv_id="Star Plus">Star Plus</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="361||Star%20World.v2.w132.png" xmltv_id="Star World">Star World</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="57||Asianet%20Movies.v2.w132.png" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="15851025||BFlix%20Movies.w132.png" xmltv_id="BFlix Movies">BFlix Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="458||Maha%20Movie.w132.png" xmltv_id="Maha Movie">Maha Movie</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="75||Cartoon%20Network.w132.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="391||Topper%20TV.w132.png" xmltv_id="Topper TV">Topper TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539058||Vanitha%20TV.w132.png" xmltv_id="Vanitha TV">Vanitha TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="303||Ruposhi%20Bangla%20TV.w132.png" xmltv_id="Ruposhi Bangla TV">Ruposhi Bangla TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="107||DD%20India.w132.png" xmltv_id="DD India">DD India</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="144||ETV%20News%20Odia.w132.png" xmltv_id="ETV News Odia">ETV News Odia</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="98||Comedy%20Central.v2.w132.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="135||EPIC.v2.w132.png" xmltv_id="EPIC">EPIC</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="217||Kushi%20TV.v2.w132.png" xmltv_id="Kushi TV">Kushi TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="331||Sony%20MAX.v2.w132.png" xmltv_id="Sony MAX">Sony MAX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="330||Sony%20MAX%202.v2.w132.png" xmltv_id="Sony MAX 2">Sony MAX 2</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="218||Star%20Bharat.v2.w132.png" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="362||Star%20World%20HD.v2.w132.png" xmltv_id="Star World HD">Star World HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="363||Star%20World%20Premiere%20HD.v2.w132.png" xmltv_id="Star World Premiere HD">Star World Premiere HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="55||Asianet.v2.w132.png" xmltv_id="Asianet">Asianet</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="255||National%20Geographic.v2.w132.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="48||Angel%20TV.w132.png" xmltv_id="Angel TV">Angel TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="275||Oscar%20Movies.w132.png" xmltv_id="Oscar Movies">Oscar Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="147||ETV%20Telugu.w132.png" xmltv_id="ETV Telugu">ETV Telugu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="124||Discovery%20Kids.w132.png" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27682769||History%20TV18%20HD.w132.png" xmltv_id="History TV18 HD">History TV18 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27682922||Airtel%20Miniplex.w132.png" xmltv_id="Airtel Miniplex">Airtel Miniplex</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27682923||Airtel%20Miniplex%20HD.w132.png" xmltv_id="Airtel Miniplex HD">Airtel Miniplex HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14173378||ETV%20Telugu%20HD.w132.png" xmltv_id="ETV Telugu HD">ETV Telugu HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="145||ETV%20Rajasthan.w132.png" xmltv_id="ETV Rajasthan">ETV Rajasthan</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="142||ETV%20News%20Gujarati.w132.png" xmltv_id="ETV News Gujarati">ETV News Gujarati</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="322||Shubhavaartha%20TV.w132.png" xmltv_id="Shubhavaartha TV">Shubhavaartha TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="139||ETV%20Bihar.w132.png" xmltv_id="ETV Bihar">ETV Bihar</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25264529||Zee%20Tamil%20HD.v2.w132.png" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25264432||Zee%2024%20Kalak.v2.w132.png" xmltv_id="Zee 24 Kalak">Zee 24 Kalak</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="414||Zee%2024%20Ghanta.v2.w132.png" xmltv_id="Zee 24 Ghanta">Zee 24 Ghanta</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25270647||WION.v2.w132.png" xmltv_id="WION">WION</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="181||News18%20India.v2.w132.png" xmltv_id="News18 India">News18 India</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="91||Colors%20Gujarati.v2.w132.png" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="20204395||Star%20Suvarna%20HD.v2.w132.png" xmltv_id="Star Suvarna HD">Star Suvarna HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25265303||Star%20Gold%20Select.v2.w132.png" xmltv_id="Star Gold Select">Star Gold Select</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="413||WOW%20Cinema.w132.png" xmltv_id="WOW Cinema">WOW Cinema</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050033||Rishtey%20Cineplex.w132.png" xmltv_id="Rishtey Cineplex">Rishtey Cineplex</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="33359068||And%20flix.v2.w132.png" xmltv_id="And flix">And flix</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="82||Cinema%20TV.w132.png" xmltv_id="Cinema TV">Cinema TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="5684923||MNX.v2.w132.png" xmltv_id="MNX">MNX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14324987||Cineplex%20HD.w132.png" xmltv_id="Cineplex HD">Cineplex HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683025||Tata%20Sky%20Zee%20Cinema%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Zee Cinema HD + 1">Tata Sky Zee Cinema HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27684205||Colors%20Tamil.v2.w132.png" xmltv_id="Colors Tamil">Colors Tamil</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683074||Tata%20Sky%20Sony%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Sony HD + 1">Tata Sky Sony HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683143||Tata%20Sky%20Sony%20Max%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Sony Max HD + 1">Tata Sky Sony Max HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683053||Tata%20Sky%20Star%20Plus%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Star Plus HD + 1">Tata Sky Star Plus HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="18758266||Star%20Sports%20First.v2.w132.png" xmltv_id="Star Sports First">Star Sports First</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="132||Disney%20XD.v2.w132.png" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="45329486||Sun%20Bangla.v2.w132.png" xmltv_id="Sun Bangla">Sun Bangla</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="45329959||Zee%20Keralam.v2.w132.png" xmltv_id="Zee Keralam">Zee Keralam</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="212||Surya%20Movies.v2.w132.png" xmltv_id="Surya Movies">Surya Movies</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="301||Rishtey.w132.png" xmltv_id="Rishtey">Rishtey</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="143||ETV%20News%20Kannada.w132.png" xmltv_id="ETV News Kannada">ETV News Kannada</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="17648321||Times%20Now%20HD.w132.png" xmltv_id="Times Now HD">Times Now HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="113||DD%20News.w132.png" xmltv_id="DD News">DD News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="410||VH1.v2.w132.png" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="246||Movies%20OK.v2.w132.png" xmltv_id="Movies OK">Movies OK</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="200||Kairali%20People%20TV.w132.png" xmltv_id="Kairali People TV">Kairali People TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="18993430||DSPORT.w132.png" xmltv_id="DSPORT">DSPORT</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511357||Zee%20Punjabi.v2.w132.png" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60510539||Aaj%20Tak%20HD.v2.w132.png" xmltv_id="Aaj Tak HD">Aaj Tak HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511359||Zee%20Classic.v2.w132.png" xmltv_id="Zee Classic">Zee Classic</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511093||Colors%20Tamil%20HD.v2.w132.png" xmltv_id="Colors Tamil HD">Colors Tamil HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511337||Jaya%20TV%20HD.v2.w132.png" xmltv_id="Jaya TV HD">Jaya TV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511336||UTV%20HD.v2.w132.png" xmltv_id="UTV HD">UTV HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511338||Zee%20Kannada%20HD.v2.w132.png" xmltv_id="Zee Kannada HD">Zee Kannada HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="60511335||Zee%20Keralam%20HD.v2.w132.png" xmltv_id="Zee Keralam HD">Zee Keralam HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="383||Ten%201%20HD.v2.w132.png" xmltv_id="Ten 1 HD">Ten 1 HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="380||Ten%202.v2.w132.png" xmltv_id="Ten 2">Ten 2</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="364||Sudarshan%20News.w132.png" xmltv_id="Sudarshan News">Sudarshan News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="381||Ten%203.v2.w132.png" xmltv_id="Ten 3">Ten 3</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="4050030||Star%20Jalsha%20HD.v2.w132.png" xmltv_id="Star Jalsha HD">Star Jalsha HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="120||DD%20Urdu.w132.png" xmltv_id="DD Urdu">DD Urdu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="74||Care%20World.w132.png" xmltv_id="Care World">Care World</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539047||Satsang.w132.png" xmltv_id="Satsang">Satsang</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="429||Zee%20MP%20Chhattisgarh.v2.w132.png" xmltv_id="Zee MP Chhattisgarh">Zee MP Chhattisgarh</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="219||Star%20Bharat%20HD.v2.w132.png" xmltv_id="Star Bharat HD">Star Bharat HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="148||ETV%20UP.w132.png" xmltv_id="ETV UP">ETV UP</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="25265399||And%20Prive%20HD.v2.w132.png" xmltv_id="And Prive HD">And Prive HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="140||ETV%20MP%20Chhattisgarh.w132.png" xmltv_id="ETV MP Chhattisgarh">ETV MP Chhattisgarh</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="336||Sony%20SIX.v2.w132.png" xmltv_id="Sony SIX">Sony SIX</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683073||Tata%20Sky%20Star%20Gold%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Star Gold HD + 1">Tata Sky Star Gold HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="27683155||Tata%20Sky%20Colors%20HD%20+%201.v2.w132.png" xmltv_id="Tata Sky Colors HD + 1">Tata Sky Colors HD + 1</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="305||Sadhna%20TV.w132.png" xmltv_id="Sadhna TV">Sadhna TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="87||CNN%20News18.v2.w132.png" xmltv_id="CNN News18">CNN News18</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539015||Cine%2021.w132.png" xmltv_id="Cine 21">Cine 21</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="360||Star%20Vijay.v2.w132.png" xmltv_id="Star Vijay">Star Vijay</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539955||Raj%20Musix.w132.png" xmltv_id="Raj Musix">Raj Musix</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="1539022||Enter%2010.w132.png" xmltv_id="Enter 10">Enter 10</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="317||Sarthak%20TV.w132.png" xmltv_id="Sarthak TV">Sarthak TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="287||Prameya%20News%207.w132.png" xmltv_id="Prameya News 7">Prameya News 7</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="14453267||Ayush%20TV.w132.png" xmltv_id="Ayush TV">Ayush TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="58||Asianet%20News.v2.w132.png" xmltv_id="Asianet News">Asianet News</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="335||Sony%20SAB.v2.w132.png" xmltv_id="Sony SAB">Sony SAB</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525806||Zee%20Cinemalu.v2.w132.png" xmltv_id="Zee Cinemalu">Zee Cinemalu</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="332||Sony%20MAX%20HD.v2.w132.png" xmltv_id="Sony MAX HD">Sony MAX HD</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="79||Chardikla%20Time%20TV.v2.w132.png" xmltv_id="Chardikla Time TV">Chardikla Time TV</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="373||Suvarna%20News%2024x7.w132.png" xmltv_id="Suvarna News 24x7">Suvarna News 24x7</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="7525810||Colors%20Super.v2.w132.png" xmltv_id="Colors Super">Colors Super</channel>
+    <channel site="[ENC][EX]tvwiz.in_0" site_id="95||Colors%20Kannada.v2.w132.png" xmltv_id="Colors Kannada">Colors Kannada</channel>
+  </channels>
+</site>
