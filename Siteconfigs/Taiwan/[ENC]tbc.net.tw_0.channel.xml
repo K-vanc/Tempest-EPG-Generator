@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tbc.net.tw_0">
+  <channels>
+    <channel site="[ENC]tbc.net.tw_0" site_id="662||bdd4026f-3394-4347-baf3-a58289f352b7.jpg" xmltv_id="南桃園節目總表">南桃園節目總表</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="941||16375d1e-9428-4ce3-a483-e581f4b68732.jpg" xmltv_id="南桃園公用頻道">南桃園公用頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="006||7b7480cd-1a8e-4de5-9699-d66b6bf7bec2.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="005||69157e74-47d2-4425-84e8-2a30925e1fcd.png" xmltv_id="民視無線台">民視無線台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="914||a002981b-4cde-4495-893f-83f5397d065f.jpg" xmltv_id="TBC桃園生活台">TBC桃園生活台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="007||39b46d6a-faa6-42f7-af9c-4f0e40fb2166.jpg" xmltv_id="台視">台視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="010||77c60bde-0db4-4755-8b4f-109a7fed54dd.png" xmltv_id="大愛電視台">大愛電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="009||fd453788-42b7-4bec-9e4c-505929826d1e.png" xmltv_id="中視">中視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="012||95b402f2-18e7-4efc-a040-0dd5345fbbe5.png" xmltv_id="人間衛視">人間衛視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="011||5cbb5ca4-b0d6-476c-976d-1b7ecce9bbe2.png" xmltv_id="華視">華視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="013||258b33b2-262b-42e1-bb47-113563e59399.jpg" xmltv_id="公共電視">公共電視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="014||ce65c490-3777-4c0c-8b7f-fb22591717ff.jpg" xmltv_id="公視台語台">公視台語台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="015||8cb0e6b2-78d6-4936-a1b8-7a3afdcc0ba3.png" xmltv_id="好消息頻道">好消息頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="016||fd821a1c-1b51-43fd-92ba-9311c134142a.png" xmltv_id="原住民頻道">原住民頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="017||d7398b97-8042-465a-a12f-b207adfcf833.png" xmltv_id="客家電視台">客家電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="018||f3c21c77-97dc-4987-abf7-b89e7df93b2b.jpg" xmltv_id="國家地理頻道">國家地理頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="019||6de1c871-146b-4d7b-8228-249e71c36b18.jpg" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="021||6522e402-b168-4a17-a427-859613b56ebb.png" xmltv_id="TLC旅遊生活頻道">TLC旅遊生活頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="022||afe6f3a8-f72c-4455-be2b-19fbc790c3f6.jpg" xmltv_id="動物星球">動物星球</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="008||bda4c468-a01e-420a-94f4-2e43a325e966.png" xmltv_id="卡通頻道">卡通頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="023||0b11b2cd-81b6-47b1-8ebc-bc63aa920a03.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="024||41987eb5-29b1-4979-8333-15f39a9b6204.png" xmltv_id="MOMO親子台">MOMO親子台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="025||87951ded-7fc9-4aaf-99d4-195feb3a4027.jpg" xmltv_id="東森幼幼台">東森幼幼台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="026||41f427a4-d92e-4830-aa93-856ab8d80bd3.png" xmltv_id="緯來綜合台">緯來綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="027||f6597cbc-899b-4e9b-89ba-06e44432c175.jpg" xmltv_id="八大第一台">八大第一台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="028||6b3ab8cd-162d-4473-b4ff-763f650cbc1b.jpg" xmltv_id="八大綜合台">八大綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="029||43cc2ef4-14c1-4296-bb03-c704552fd8a2.png" xmltv_id="三立台灣台">三立台灣台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="030||ca92646a-81d2-4d27-925c-284e879a26cc.png" xmltv_id="三立都會台">三立都會台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="031||21802138-7bbd-4310-99ea-dcc701ac6d4c.jpg" xmltv_id="衛視中文台">衛視中文台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="032||a47744bf-8ee7-445a-929c-a48af8332af2.jpg" xmltv_id="東森綜合台">東森綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="033||20b79dac-1088-4d6b-a0b5-fa8680682ef1.jpg" xmltv_id="東森超視">東森超視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="034||0686d7ff-0d13-4e92-bcf1-98cec3afe0e3.png" xmltv_id="東森購物2台">東森購物2台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="035||2cad20dd-34e3-4453-8dc7-95a1b957e79b.png" xmltv_id="MOMO 2台">MOMO 2台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="036||2add40a1-750a-4c50-b282-67cbcd0dfdab.png" xmltv_id="中天綜合台">中天綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="037||9278ee6c-19b0-410a-8a2c-bffca1a280a0.png" xmltv_id="東風衛視">東風衛視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="038||4e153804-87b6-460c-83a2-96be3bb5c16b.png" xmltv_id="年代MUCH TV">年代MUCH TV</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="039||ce62aadf-1e7c-41b9-86fa-c3fbe994d637.png" xmltv_id="中天娛樂台">中天娛樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="040||91b83aad-1c5d-4d2a-b7b7-c39bf05dea51.jpg" xmltv_id="東森戲劇台">東森戲劇台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="041||cec1b989-2d6c-41e0-9e34-076645a9f86a.jpg" xmltv_id="八大戲劇台">八大戲劇台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="042||ee8ea0ec-8090-4c5c-bfd3-ff637e285257.jpg" xmltv_id="TVBS歡樂台">TVBS歡樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="043||2e4d2dcf-4047-48e5-8be7-19cd5a3e8e75.png" xmltv_id="緯來戲劇台">緯來戲劇台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="044||37e1de7f-ae2e-488c-b17f-e7afe0b603bd.png" xmltv_id="高點電視台">高點電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="045||008d0fec-e6ee-471c-9c62-d2712f976ea9.jpg" xmltv_id="JET綜合台">JET綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="046||20a51fbf-d58e-428b-9b56-99930a7d44a8.png" xmltv_id="東森購物3台">東森購物3台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="047||b18402ea-bd82-401c-99d3-66536af5eb4e.png" xmltv_id="東森購物1台">東森購物1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="048||7e89f1ce-5971-4049-9e2d-dbc09fb3f8f9.png" xmltv_id="MOMO 1台">MOMO 1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="049||41838a51-d33e-4270-aafd-1f28f1ce4af0.jpg" xmltv_id="壹電視新聞台">壹電視新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="050||884ba215-a541-48ba-98d3-b749bb4c22b6.png" xmltv_id="年代新聞台">年代新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="051||a93a8a7d-efd4-4a1f-b81c-46963a48d8c8.jpg" xmltv_id="東森新聞台">東森新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="053||a600e433-186b-4288-ade4-d8436be0f1b7.jpg" xmltv_id="民視新聞台">民視新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="054||f01f059f-6f01-4c90-b7d2-9a87ab0d150e.png" xmltv_id="三立新聞台">三立新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="055||951751ae-944e-4246-b91e-56e7080d6525.jpg" xmltv_id="TVBS 新聞台">TVBS 新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="056||8fe6edf1-6cb9-4bf3-8a85-c7c24ea8d792.jpg" xmltv_id="TVBS">TVBS</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="057||a1c69218-3b5a-44c9-8e07-a18551c1066b.jpg" xmltv_id="東森財經新聞台">東森財經新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="058||457d99eb-29f1-4208-9d69-c0f7b4f69588.jpg" xmltv_id="非凡新聞台">非凡新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="059||2392c9c1-10bd-4dde-92b4-ff1653514f9c.jpg" xmltv_id="ViVa1台">ViVa1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="060||3126ee54-f6b1-418e-9e5d-ea329e9814c9.png" xmltv_id="東森購物5台">東森購物5台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="061||d5273058-6257-4171-8353-df1279fd8c52.png" xmltv_id="衛視電影台">衛視電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="062||29ddfaf6-07b4-433b-aa3d-04188388ab82.jpg" xmltv_id="東森電影台">東森電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="063||617cfe76-66f8-4a43-be9e-745bb3f74dde.png" xmltv_id="緯來電影台">緯來電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="064||e70b3ff6-f05d-404c-95c9-65c3ea26f39c.png" xmltv_id="LS Time電影台">LS Time電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="065||ba3c81b3-c7e1-455e-9e52-d27fa6a4d8dd.png" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="066||a3425a45-f533-4283-afe3-0839a226f7e2.jpg" xmltv_id="東森洋片台">東森洋片台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="067||62e79240-ce89-4012-afc0-ff86d1bf7714.jpg" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="068||16a0d4ca-8376-46ce-884c-77a514be0d19.png" xmltv_id="好萊塢電影台">好萊塢電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="069||fad37211-88db-4a12-8739-9d44e60c161f.jpg" xmltv_id="STAR Movies Gold">STAR Movies Gold</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="070||42a4cac0-94a7-4276-8d2a-37394622d00b.png" xmltv_id="緯來育樂台">緯來育樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="071||41c9b2c2-c9e5-44a8-9793-ecf42eb94020.png" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="072||2f6f74e3-3c15-40df-ab98-6ec754199362.png" xmltv_id="緯來體育台">緯來體育台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="073||0b483190-6302-4076-a13f-9eaf3e3db4f9.jpg" xmltv_id="ELEVEN體育一台">ELEVEN體育一台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="074||b89e701e-1399-4c84-981e-8dcb7e6f66b7.jpg" xmltv_id="ELEVEN體育二台">ELEVEN體育二台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="075||63841d34-9528-4e04-a4a7-35498d787ca9.jpg" xmltv_id="MOMO綜合台">MOMO綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="077||b815c2de-abba-4ec3-8be1-b2a8cfd2279a.png" xmltv_id="緯來日本台">緯來日本台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="078||0c86c85a-0fa3-46bb-8074-e3361bdb6b3b.png" xmltv_id="國興衛視">國興衛視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="079||a2bf166a-7289-472c-bc05-a43934fef3c7.jpg" xmltv_id="STAR World">STAR World</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="081||4df588b5-1214-4a81-accb-0333de95cce9.jpg" xmltv_id="靖天資訊台">靖天資訊台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="082||d609aff5-f098-4dfa-8df3-9e168af5b543.png" xmltv_id="信吉電視台">信吉電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="083||32d8e923-44a9-4e80-ad59-d316179c6aed.png" xmltv_id="信大電視台">信大電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="084||3f92dc4f-6827-4358-8ffc-a4a39593bed4.jpg" xmltv_id="樂視台">樂視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="086||8bb2435d-c089-48b2-9bd6-32ec71d3e2c2.jpg" xmltv_id="新彰生活台">新彰生活台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="087||dd9f0b53-4cb7-4c90-a423-72215391e4d2.png" xmltv_id="台灣藝術台">台灣藝術台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="088||b3949594-d5a8-4afd-915e-7e53fbbc8794.jpg" xmltv_id="中部人文台">中部人文台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="089||2e67a71b-7101-4ab2-8ecd-261ae92082c2.jpg" xmltv_id="非凡商業台">非凡商業台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="090||ea9b7432-fc9c-49f0-9d10-0e4cd75724e5.jpg" xmltv_id="三立財經新聞台">三立財經新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="092||8c91698c-50f4-4843-8c89-dbb931a588ba.png" xmltv_id="運通財經綜合台">運通財經綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="093||b5215193-e9fe-4061-91de-b8cfd29c7faa.png" xmltv_id="SBN全球財經台">SBN全球財經台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="094||0ce2d426-768c-44dc-914a-84386eb4483c.jpg" xmltv_id="誠心電視台">誠心電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="095||06e8b7e0-f928-4439-8b26-1d928c14ea9b.png" xmltv_id="NHK">NHK</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="096||ea117030-29d0-40a4-ac47-46f8be0c854b.png" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="097||39bc7bda-f2fe-4354-8606-1b94b33add68.png" xmltv_id="Animax">Animax</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="098||b804290a-41d2-43fc-8316-828817cb70a6.png" xmltv_id="霹靂台灣台">霹靂台灣台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="099||208da971-31b4-4ab9-9c9b-8734340911bb.jpg" xmltv_id="海豚綜合台">海豚綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="100||ea54261e-5d9b-494e-abc9-be3e1a8373c5.jpg" xmltv_id="八大娛樂台">八大娛樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="101||add7cff8-710b-4cef-aac8-aee2b17f5a61.jpg" xmltv_id="十方法界">十方法界</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="102||08309b75-b981-4715-996d-d5d590350307.jpg" xmltv_id="壹電視電影台">壹電視電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="103||0985529b-027a-4de8-ba74-14ab6cc38932.png" xmltv_id="華藏衛視">華藏衛視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="104||d1d4bd9b-b747-4af0-b935-f03e0e1813f3.jpg" xmltv_id="壹電視資訊綜合台">壹電視資訊綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="105||8bf07d1e-b967-489f-b7a9-05cd78a36b70.jpg" xmltv_id="佛衛慈悲台">佛衛慈悲台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="107||b4cd3fdc-3bb7-47ea-a7d3-2b46b72ec887.jpg" xmltv_id="全大電視台">全大電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="108||9dbb1772-6b66-4012-bff3-88ceb2168c0b.jpg" xmltv_id="華藝台灣台">華藝台灣台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="109||875e68ba-a733-4e07-9ffb-996c6fe838c0.jpg" xmltv_id="正德電視台">正德電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="110||7a11b9a3-3f2b-4bf0-9ef2-7a2085bec6b1.png" xmltv_id="天良綜合台">天良綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="111||9acd3d76-3c9a-4fb6-84f2-a2ffaa4d44ba.jpg" xmltv_id="番薯衛星電視台">番薯衛星電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="112||78014edd-3e6d-4919-8d5d-aae0d13e6375.jpg" xmltv_id="富立電視台">富立電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="113||a48625f9-f732-43e2-b8ea-95a88a57f24c.jpg" xmltv_id="Z頻道">Z頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="114||9bcf4be9-ec9c-444d-82ad-c7c0a6951d79.jpg" xmltv_id="冠軍夢想台">冠軍夢想台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="115||9911e39c-5bd5-4390-b2e6-21922e726c7d.jpg" xmltv_id="新天地民俗台">新天地民俗台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="116||9f5e354b-ac41-4215-8a00-9ad14a1baa53.jpg" xmltv_id="三聖電視台">三聖電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="117||b41ab8e7-f227-4798-a9aa-54f85406238e.jpg" xmltv_id="威達超舜生活台">威達超舜生活台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="118||32da081c-b4b0-4a31-8896-aa21f6fbc7e6.jpg" xmltv_id="天美麗電視台">天美麗電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="119||e31ad653-d99c-4c7f-ad59-15d19c6baaea.jpg" xmltv_id="大立電視台">大立電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="120||80367007-434c-476e-b6f4-c0ab747174ad.jpg" xmltv_id="雙子衛視">雙子衛視</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="121||1735f69d-f08e-43de-84f5-c2e926cdbc5e.jpg" xmltv_id="公視三台">公視三台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="122||6273e175-babf-493c-b477-c8aaec94329c.jpg" xmltv_id="華視教育體育文化台">華視教育體育文化台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="123||3be518e6-3806-483c-af88-57002186ddea.jpg" xmltv_id="國會頻道1台">國會頻道1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="124||bd463ab6-290b-442f-bc90-a1096d5dd6c9.jpg" xmltv_id="國會頻道2台">國會頻道2台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="125||b3156568-06ab-49dc-8c87-aa466b800989.jpg" xmltv_id="幸福空間居家台">幸福空間居家台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="126||6a2a6ef7-794b-4b16-a484-9c09c2a0d4a6.jpg" xmltv_id="高點育樂台">高點育樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="127||eb8df4fb-4171-4373-a8a4-56454a7088d1.jpg" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="128||47eec34a-bda3-4778-9203-e7f8319ea9bc.jpg" xmltv_id="彭博財經台">彭博財經台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="129||f0984c93-7f14-449e-a7b8-4931d3b921b3.jpg" xmltv_id="韓國阿里郎">韓國阿里郎</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="130||71e64d54-53dd-4584-9b80-142e64f101df.jpg" xmltv_id="唯心電視台">唯心電視台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="132||01c31581-144c-46c4-adb0-139583be927b.png" xmltv_id="大愛二台">大愛二台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="133||e9e28a11-71a0-411e-a327-5e30160339cd.jpg" xmltv_id="靖天映畫">靖天映畫</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="134||3a4c0c64-a917-43ff-b0a1-8315adebf8ea.jpg" xmltv_id="靖洋戲劇台">靖洋戲劇台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="137||855d3b39-efb9-408b-9c3d-938c5317433f.jpg" xmltv_id="靖天綜合台">靖天綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="149||27f8ef4f-a3c4-4ab2-9c4a-5d067e9362b6.jpg" xmltv_id="TaiwanPlus">TaiwanPlus</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="150||691d482e-e99f-4030-a961-13241c38bff1.jpg" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="151||b4950a83-5dd0-4223-b0a8-c0a3367538e1.jpg" xmltv_id="民視第一台">民視第一台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="152||5718e7b4-95ff-474e-ac41-3a036d35a69d.jpg" xmltv_id="民視台灣台">民視台灣台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="154||8f535094-4247-4231-82fd-6de1b26cd638.jpg" xmltv_id="中視新聞台">中視新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="155||870e23bf-af98-4f7c-9128-b12193f836eb.jpg" xmltv_id="台視新聞台">台視新聞台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="156||b3aa7b23-921f-4892-81db-a75933dcf02b.jpg" xmltv_id="台視財經台">台視財經台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="157||c1655b88-7d02-45e6-a180-273812a5ab49.jpg" xmltv_id="台視綜合台">台視綜合台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="201||e679c3eb-5fb4-4b7d-a08d-e8559a3e0080.jpg" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="202||fa3cad98-8f0a-4c15-8782-53abee0c2442.jpg" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="203||d64fc5c2-a089-4a2c-9c68-86d70087f761.jpg" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="204||7ab3c8b1-1acf-4589-af48-13331fc4c06d.png" xmltv_id="星衛HD電影台">星衛HD電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="205||dd0ee4bb-e563-47d2-a519-ebef91474ec8.png" xmltv_id="Star Movies HD">Star Movies HD</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="207||cacd11e0-5381-4e15-b853-0e88b2bb1a0d.jpg" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="208||5868df8d-943b-42a7-85aa-93ffaac8be56.jpg" xmltv_id="HBO 強檔鉅獻">HBO 強檔鉅獻</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="209||aee12bcb-6d03-41e0-8ee1-3b278849af60.jpg" xmltv_id="HBO 原創鉅獻">HBO 原創鉅獻</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="210||71c1c1e8-0cd2-43dd-bef9-998e82a2043c.jpg" xmltv_id="HBO 溫馨家庭">HBO 溫馨家庭</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="212||d463d5d0-8cfd-4ac2-bd40-716a3b0bdc0c.jpg" xmltv_id="靖天日本台">靖天日本台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="213||f96b6c89-b484-453f-a337-835804f19ff7.jpg" xmltv_id="EVE">EVE</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="214||55feed50-12ce-4c40-9732-6a228e7aca8d.jpg" xmltv_id="tvN">tvN</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="215||9ff7b693-cb13-414b-a99e-e89790342d44.jpg" xmltv_id="靖天歡樂台">靖天歡樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="217||1f65bfbf-7938-4dec-9016-55b5ae03158a.jpg" xmltv_id="韓國娛樂台KMTV">韓國娛樂台KMTV</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="218||b9fb2c8f-baf3-46a8-ab44-e5bd40f0d4b1.jpg" xmltv_id="靖天育樂台">靖天育樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="219||c625c156-a790-4038-8545-1d3538700673.png" xmltv_id="星衛娛樂台">星衛娛樂台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="220||67896f41-81fa-4aaf-907c-a823cc8b3a36.jpg" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="221||033498f2-7ca0-43e1-8a93-6560ef0f810c.png" xmltv_id="國家地理高畫質野生頻道">國家地理高畫質野生頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="222||9f66c2c1-1798-4da6-bdeb-b9d15a56482c.jpg" xmltv_id="國家地理國際頻道">國家地理國際頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="223||c1249ca9-6f36-40ab-b6c1-5be42123020d.jpg" xmltv_id="Discovery Asia">Discovery Asia</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="224||326c3b38-2931-4a6f-87fe-4df02c145766.jpg" xmltv_id="Discovery科學頻道">Discovery科學頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="225||1fad87b0-5171-4d96-9090-f5fe11b19d6a.jpg" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="227||fc5fdfc6-6e6f-4f4b-a6bc-d558f5654920.jpg" xmltv_id="寰宇新聞台灣台">寰宇新聞台灣台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="229||faa81682-4950-4650-8247-d24d42d4fbda.jpg" xmltv_id="亞洲旅遊台">亞洲旅遊台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="230||dc0f6ca1-ba99-411e-9852-cc9656983dbd.jpg" xmltv_id="梅迪奇藝術">梅迪奇藝術</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="240||08055e0f-a3a4-4ff1-be63-9f1237e23c58.jpg" xmltv_id="博斯運動二台">博斯運動二台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="241||e6add5de-8116-4c7e-9af6-f7022821039e.jpg" xmltv_id="博斯網球台">博斯網球台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="242||4db9aae8-44dd-4a13-81fe-85c6de82e3b8.jpg" xmltv_id="博斯無限台">博斯無限台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="243||0c2f00ca-f394-413a-8b8f-9723b64c1916.jpg" xmltv_id="博斯高球1台">博斯高球1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="244||0e569661-3aab-48b5-a14a-bbdb44295f86.jpg" xmltv_id="博斯高球2台">博斯高球2台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="245||2fa7b1b7-47b4-4940-ace5-4bea4e025d7e.jpg" xmltv_id="博斯魅力網">博斯魅力網</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="246||229b148a-d8aa-417d-b5bb-6f9145151ba4.jpg" xmltv_id="博斯運動一台">博斯運動一台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="247||64d9085a-d581-436d-adae-9dd392c87d4b.jpg" xmltv_id="博斯無限二台">博斯無限二台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="249||dbda7fe1-b6d1-44fd-8636-bcd3c600b332.jpg" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="250||33e05a2b-4634-4e48-aca5-644718e43f5b.jpg" xmltv_id="尼克兒童頻道">尼克兒童頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="251||b12b7882-d2a1-48bc-804c-9434f9e62236.jpg" xmltv_id="小尼克頻道">小尼克頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="252||05eaebc0-f4ff-47c2-9bc0-9fe77385de64.jpg" xmltv_id="達文西頻道">達文西頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="253||db5d254f-ac83-4301-8be6-c1fb48c6fa76.jpg" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="254||8672ee24-c75b-425c-a3a6-1c60cf233cd1.jpg" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="257||7334739b-a8bd-4342-8bfb-c71752013925.jpg" xmltv_id="靖洋卡通台">靖洋卡通台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="258||5bad28d6-0227-49f3-8030-2e0d679652b3.jpg" xmltv_id="靖天卡通台">靖天卡通台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="300||9f5bfb72-fd70-480f-9866-828b71e81f39.jpg" xmltv_id="西洋排行新曲">西洋排行新曲</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="301||f3a0b8a6-1ec9-417a-9e2c-55ec476af273.jpg" xmltv_id="西洋流行暢銷">西洋流行暢銷</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="302||83d070be-dac2-4032-9318-f23ac309cdfb.jpg" xmltv_id="西洋精選情歌">西洋精選情歌</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="303||29614f49-4414-4878-83c8-e3752c64caed.jpg" xmltv_id="50, 60 年代西洋歌曲">50, 60 年代西洋歌曲</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="304||c0a7a178-b0c2-4426-a1ff-dca152c63486.jpg" xmltv_id="節奏藍調">節奏藍調</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="305||90c535f4-218e-48f1-9739-3cc2bfac2273.jpg" xmltv_id="饒舌嘻哈">饒舌嘻哈</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="306||80ffa2c7-d9e0-470c-8d25-2f05298a1119.jpg" xmltv_id="Party Music">Party Music</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="307||45f35a5b-1e8b-47dd-a8a5-233185f25615.jpg" xmltv_id="Rock Music">Rock Music</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="308||bc6648c0-92d0-4949-84b1-f2319c594f2b.jpg" xmltv_id="爵士演唱">爵士演唱</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="309||2ee10586-a755-483b-b49e-3d3a7d61bb34.jpg" xmltv_id="爵士演奏">爵士演奏</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="310||eb595496-89cc-4383-8895-3e9256f68c33.jpg" xmltv_id="Lounge 休閒音樂">Lounge 休閒音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="311||97485653-c8c3-4ed9-ad16-4835d5317a5d.jpg" xmltv_id="昭和平成演歌名曲">昭和平成演歌名曲</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="312||4ea9a388-73bd-4ce4-900e-a0a0c7757105.jpg" xmltv_id="東洋流行暢銷">東洋流行暢銷</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="313||4a46e6ca-1ffc-4280-85d8-144ff4e4f59c.jpg" xmltv_id="J&amp;T Station">J&amp;T Station</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="314||a3ded620-98ff-4136-a01a-4cb7615b3d40.jpg" xmltv_id="巴西爵士">巴西爵士</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="315||58eb7831-3367-4f99-9e7d-4cafec78c05e.jpg" xmltv_id="古典樂">古典樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="316||043d9863-805e-4090-8a2d-57db5ccb766f.jpg" xmltv_id="鋼琴演奏">鋼琴演奏</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="317||ab31222a-8e59-4b16-a7ef-a59568b14793.jpg" xmltv_id="水晶音樂">水晶音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="318||a3bc3747-87e3-47ea-92be-3253707bd8a4.jpg" xmltv_id="舒適還境音樂">舒適還境音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="319||6a1ac0c0-cf96-4661-a539-0b8f6121a97b.jpg" xmltv_id="季節音樂">季節音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="320||1584e390-7731-43ad-97c2-c123da36b738.jpg" xmltv_id="懷舊留聲機">懷舊留聲機</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="321||3b1dfa7f-a1e8-4cf8-8ca8-01a2e69c793a.jpg" xmltv_id="華語流行暢銷">華語流行暢銷</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="322||7fba3040-179a-4690-8dcc-062820dcd67a.jpg" xmltv_id="華語抒情歌曲">華語抒情歌曲</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="323||05ce458a-3c77-4eb7-92c8-ac0c55bc5f47.jpg" xmltv_id="中國古典樂">中國古典樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="324||5151ea3c-4ef4-4c7e-b9d1-91fc9804fe00.jpg" xmltv_id="兒童音樂">兒童音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="325||18da9ac4-0ad7-4564-9441-682936aaae7e.jpg" xmltv_id="輕鬆音樂">輕鬆音樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="326||98d32dfb-877d-4329-9473-934559a35ff3.jpg" xmltv_id="生日快樂">生日快樂</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="327||e4e7d0a9-d3dc-4cf0-ab29-ffecc3e94668.jpg" xmltv_id="結婚進行曲">結婚進行曲</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="328||98d32dfb-877d-4329-9473-934559a35ff3.jpg" xmltv_id="Sweet Love">Sweet Love</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="329||54a9014e-b732-41e7-8f67-7a7416e623a9.jpg" xmltv_id="POP流行新曲(節慶音樂)">POP流行新曲(節慶音樂)</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="404||a7883dc7-0043-4dc1-9aac-fc058a54b991.jpg" xmltv_id="彩虹頻道">彩虹頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="405||6e651752-07cd-4ce1-82b0-e6ec96748c90.jpg" xmltv_id="彩虹e台">彩虹e台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="406||f7dc8732-3f2f-4023-9a1a-b965cd2f0074.jpg" xmltv_id="彩虹電影台">彩虹電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="407||073b24df-c70c-4301-8a1e-c61a59e93250.jpg" xmltv_id="K 頻道">K 頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="408||11bc4a78-b8ce-45e5-973c-0a6119b30c3a.jpg" xmltv_id="松視1台">松視1台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="409||699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" xmltv_id="松視2台">松視2台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="410||81431f04-f2cc-4639-a8fb-b00a34626baf.jpg" xmltv_id="松視3台">松視3台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="411||eaaa3a75-ba73-4d2b-997d-211050f16375.jpg" xmltv_id="松視4台">松視4台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="412||045a5f9a-5f14-439e-b530-1403c253cc49.jpg" xmltv_id="潘朵啦高畫質玩美台">潘朵啦高畫質玩美台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="413||38d5e825-5c1f-4e61-86b0-46480998b1eb.jpg" xmltv_id="潘朵啦高畫質粉紅台">潘朵啦高畫質粉紅台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="414||162f23c1-7f68-4ba8-846f-2b58f35976f5.jpg" xmltv_id="JStar極限台電影頻道">JStar極限台電影頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="415||77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" xmltv_id="驚豔成人電影台">驚豔成人電影台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="416||eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" xmltv_id="香蕉台">香蕉台</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="417||fbe2894d-f5b2-45fb-8514-696e600e1111.jpg" xmltv_id="樂活頻道">樂活頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="418||a0e10586-6af7-4e7a-b4cf-2a3ea5a0a7e2.jpg" xmltv_id="玩家頻道">玩家頻道</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="419||b6e7c60d-fe03-4eb5-a9e9-36a2c46f7179.jpg" xmltv_id="Happy">Happy</channel>
+    <channel site="[ENC]tbc.net.tw_0" site_id="420||9ddea0f1-34cc-447d-a1b5-c0bba3ddc871.jpg" xmltv_id="Hot">Hot</channel>
+  </channels>
+</site>
