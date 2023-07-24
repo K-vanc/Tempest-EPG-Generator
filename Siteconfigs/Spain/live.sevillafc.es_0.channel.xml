@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="live.sevillafc.es_0">
+  <channels>
+    <channel site="live.sevillafc.es_0" site_id="1---2---3||https://sevillafc.es/sites/default/files/escudos/t179%402x_0.png" xmltv_id="Sevilla FC TV">Sevilla FC TV</channel>
+    <channel site="live.sevillafc.es_0" site_id="4---5---6||https://static-2.ivoox.com/audios/9/c/5/0/9c50ec67639b5990d3d68a587a371752_LG.jpg" xmltv_id="Sevilla FC Radio">Sevilla FC Radio</channel>
+  </channels>
+</site>
