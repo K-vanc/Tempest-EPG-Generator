@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="artonline.tv_0">
+  <channels>
+    <channel site="artonline.tv_0" site_id="Tvlist||ART_AFLAM_1w.png" xmltv_id="Aflam1">Aflam1</channel>
+    <channel site="artonline.tv_0" site_id="TvlistAflam2||ART_AFLAM_2w.png" xmltv_id="Aflam2">Aflam2</channel>
+    <channel site="artonline.tv_0" site_id="TvlistCinema||art_hekayat.png" xmltv_id="Cinema">Cinema</channel>
+    <channel site="artonline.tv_0" site_id="TvlistHekayat||cinema-logo.png" xmltv_id="Hekayat">Hekayat</channel>
+    <channel site="artonline.tv_0" site_id="TvlistHekayat2||art_hekayat_2.png" xmltv_id="Hekayat2">Hekayat2</channel>
+  </channels>
+</site>
