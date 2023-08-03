@@ -141,7 +141,7 @@ Bank Address : 56 Shoreditch High Street, London, E1 6JJ, United Kingdom**
 ### Wise Account US<br>
 **Account Owner : Kivanc Altug Mutal<br>
 Currency : $ (USD)<br>
-Routing No : 084009519<br>
-Account No : 9600000000354348<br>
+Routing No : 026073150<br>
+Account No : 8312072802<br>
 Account Type : Checking<br>
-Bank Address : 19 W 24th Street, New York NY, 10010, United States**
+Bank Address : 30 W. 26th Street, Sixth Floor, New York NY, 10010, United States**
