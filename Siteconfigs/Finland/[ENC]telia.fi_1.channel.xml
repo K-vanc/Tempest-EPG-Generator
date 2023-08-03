@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]telia.fi_1">
+  <channels>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|yle-tv1" xmltv_id="[Peruskanavat] Yle TV1">[Peruskanavat] Yle TV1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|yle-tv2" xmltv_id="[Peruskanavat] Yle TV2">[Peruskanavat] Yle TV2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|yle-teema-fem" xmltv_id="[Peruskanavat] Yle Teema &amp; Fem">[Peruskanavat] Yle Teema &amp; Fem</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|mtv3" xmltv_id="[Peruskanavat] MTV3">[Peruskanavat] MTV3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|mtv-sub" xmltv_id="[Peruskanavat] MTV Sub">[Peruskanavat] MTV Sub</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|mtv-ava" xmltv_id="[Peruskanavat] MTV Ava">[Peruskanavat] MTV Ava</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|nelonen" xmltv_id="[Peruskanavat] Nelonen">[Peruskanavat] Nelonen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|liv" xmltv_id="[Peruskanavat] Liv">[Peruskanavat] Liv</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|jim" xmltv_id="[Peruskanavat] Jim">[Peruskanavat] Jim</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|hero" xmltv_id="[Peruskanavat] Hero">[Peruskanavat] Hero</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|tlc-hd" xmltv_id="[Peruskanavat] TLC HD">[Peruskanavat] TLC HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|tv5" xmltv_id="[Peruskanavat] TV5">[Peruskanavat] TV5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|kutonen" xmltv_id="[Peruskanavat] Kutonen">[Peruskanavat] Kutonen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|frii" xmltv_id="[Peruskanavat] Frii">[Peruskanavat] Frii</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|star-channel" xmltv_id="[Peruskanavat] STAR Channel">[Peruskanavat] STAR Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|national-geographic-hd" xmltv_id="[Peruskanavat] National Geographic HD">[Peruskanavat] National Geographic HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|tv7" xmltv_id="[Peruskanavat] TV7">[Peruskanavat] TV7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|himlen-tv7" xmltv_id="[Peruskanavat] Himlen TV7">[Peruskanavat] Himlen TV7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|c-more-hits-hd" xmltv_id="[Peruskanavat] C More Hits HD">[Peruskanavat] C More Hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|c-more-max-2-hd" xmltv_id="[Peruskanavat] C More Max 2 HD">[Peruskanavat] C More Max 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="eb2c7b67-2066-47ca-9cde-82b4a489c86c|##|onnitv" xmltv_id="[Peruskanavat] OnniTV">[Peruskanavat] OnniTV</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|c-more-first" xmltv_id="[C More] C More First">[C More] C More First</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|c-more-stars" xmltv_id="[C More] C More Stars">[C More] C More Stars</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|c-more-hits" xmltv_id="[C More] C More Hits">[C More] C More Hits</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|c-more-series" xmltv_id="[C More] C More Series">[C More] C More Series</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|c-more-juniori" xmltv_id="[C More] C More Juniori">[C More] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8e0e0ed3-56fd-4af4-8538-da1e6e9ac35a|##|sf-kanalen" xmltv_id="[C More] SF-kanalen">[C More] SF-kanalen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="977a9d72-90de-4107-ac50-e443d8de14ea|##|c-more-max-hd" xmltv_id="[C More Sport] C More Max HD">[C More Sport] C More Max HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="977a9d72-90de-4107-ac50-e443d8de14ea|##|c-more-sport-1-hd" xmltv_id="[C More Sport] C More Sport 1 HD">[C More Sport] C More Sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="977a9d72-90de-4107-ac50-e443d8de14ea|##|c-more-sport-2-hd" xmltv_id="[C More Sport] C More Sport 2 HD">[C More Sport] C More Sport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-first" xmltv_id="[C More Total] C More First">[C More Total] C More First</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-stars" xmltv_id="[C More Total] C More Stars">[C More Total] C More Stars</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-hits" xmltv_id="[C More Total] C More Hits">[C More Total] C More Hits</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-series" xmltv_id="[C More Total] C More Series">[C More Total] C More Series</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-juniori" xmltv_id="[C More Total] C More Juniori">[C More Total] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-max-hd" xmltv_id="[C More Total] C More Max HD">[C More Total] C More Max HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-sport-1-hd" xmltv_id="[C More Total] C More Sport 1 HD">[C More Total] C More Sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|c-more-sport-2-hd" xmltv_id="[C More Total] C More Sport 2 HD">[C More Total] C More Sport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="936c9d38-9aea-4fd8-ae89-151c2e8eed04|##|sf-kanalen" xmltv_id="[C More Total] SF-kanalen">[C More Total] SF-kanalen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|animal-planet" xmltv_id="[Discovery] Animal Planet">[Discovery] Animal Planet</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|discovery-channel-hd" xmltv_id="[Discovery] Discovery Channel HD">[Discovery] Discovery Channel HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|discovery-science-hd" xmltv_id="[Discovery] Discovery Science HD">[Discovery] Discovery Science HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|investigation-discovery-hd" xmltv_id="[Discovery] Investigation Discovery HD">[Discovery] Investigation Discovery HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|eurosport-1-hd" xmltv_id="[Discovery] Eurosport 1 HD">[Discovery] Eurosport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="00f3913b-7e36-465a-8b2c-ee5f7276a503|##|eurosport-2-hd" xmltv_id="[Discovery] Eurosport 2 HD">[Discovery] Eurosport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|v-film-premiere-hd" xmltv_id="[V film] V film premiere HD">[V film] V film premiere HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|v-film-action-hd" xmltv_id="[V film] V film action HD">[V film] V film action HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|v-film-hits-hd" xmltv_id="[V film] V film hits HD">[V film] V film hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|v-film-family" xmltv_id="[V film] V film family">[V film] V film family</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|viasat-nature-hd" xmltv_id="[V film] Viasat Nature HD">[V film] Viasat Nature HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|viasat-explore-hd" xmltv_id="[V film] Viasat Explore HD">[V film] Viasat Explore HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|viasat-history-hd" xmltv_id="[V film] Viasat History HD">[V film] Viasat History HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|nat-geo-wild-hd" xmltv_id="[V film] Nat Geo Wild HD">[V film] Nat Geo Wild HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|disney-channel" xmltv_id="[V film] Disney Channel">[V film] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|disney-junior" xmltv_id="[V film] Disney Junior">[V film] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|boomerang" xmltv_id="[V film] Boomerang">[V film] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|cartoon-network" xmltv_id="[V film] Cartoon Network">[V film] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="71beb915-6083-4d05-b8eb-eff1fd073a91|##|cnn" xmltv_id="[V film] CNN">[V film] CNN</channel>
+    <channel site="[ENC]telia.fi_1" site_id="8be44eef-62d6-4cf0-8e25-9c4a06a9c05d|##|v-sport-golf-hd" xmltv_id="[V sport golf] V sport golf HD">[V sport golf] V sport golf HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-film-premiere-hd" xmltv_id="[V premium] V film premiere HD">[V premium] V film premiere HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-film-action-hd" xmltv_id="[V premium] V film action HD">[V premium] V film action HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-film-hits-hd" xmltv_id="[V premium] V film hits HD">[V premium] V film hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-film-family" xmltv_id="[V premium] V film family">[V premium] V film family</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-1-hd" xmltv_id="[V premium] V sport 1 HD">[V premium] V sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-vinter" xmltv_id="[V premium] V sport vinter">[V premium] V sport vinter</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-golf-hd" xmltv_id="[V premium] V sport golf HD">[V premium] V sport golf HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-plus-suomi" xmltv_id="[V premium] V sport+ Suomi">[V premium] V sport+ Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-2-suomi" xmltv_id="[V premium] V sport 2 Suomi">[V premium] V sport 2 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-1-suomi" xmltv_id="[V premium] V sport 1 Suomi">[V premium] V sport 1 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-premium-hd" xmltv_id="[V premium] V sport premium HD">[V premium] V sport premium HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-football-hd" xmltv_id="[V premium] V sport football HD">[V premium] V sport football HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-live-1" xmltv_id="[V premium] V sport live 1">[V premium] V sport live 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-live-2" xmltv_id="[V premium] V-sport live 2">[V premium] V-sport live 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-live-3" xmltv_id="[V premium] V sport live 3">[V premium] V sport live 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-live-4" xmltv_id="[V premium] V sport live 4">[V premium] V sport live 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|v-sport-live-5" xmltv_id="[V premium] V sport live 5">[V premium] V sport live 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|viasat-nature-hd" xmltv_id="[V premium] Viasat Nature HD">[V premium] Viasat Nature HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|viasat-explore-hd" xmltv_id="[V premium] Viasat Explore HD">[V premium] Viasat Explore HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|viasat-history-hd" xmltv_id="[V premium] Viasat History HD">[V premium] Viasat History HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|nat-geo-wild-hd" xmltv_id="[V premium] Nat Geo Wild HD">[V premium] Nat Geo Wild HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|disney-channel" xmltv_id="[V premium] Disney Channel">[V premium] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|disney-junior" xmltv_id="[V premium] Disney Junior">[V premium] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|boomerang" xmltv_id="[V premium] Boomerang">[V premium] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|cartoon-network" xmltv_id="[V premium] Cartoon Network">[V premium] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="94d0b62d-c978-4745-8c25-21a750ea54c5|##|cnn" xmltv_id="[V premium] CNN">[V premium] CNN</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|c-more-stars" xmltv_id="[C More + V film] C More Stars">[C More + V film] C More Stars</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|c-more-first" xmltv_id="[C More + V film] C More First">[C More + V film] C More First</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|c-more-hits" xmltv_id="[C More + V film] C More Hits">[C More + V film] C More Hits</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|c-more-series" xmltv_id="[C More + V film] C More Series">[C More + V film] C More Series</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|c-more-juniori" xmltv_id="[C More + V film] C More Juniori">[C More + V film] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|sf-kanalen" xmltv_id="[C More + V film] SF-kanalen">[C More + V film] SF-kanalen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|v-film-premiere-hd" xmltv_id="[C More + V film] V film premiere HD">[C More + V film] V film premiere HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|v-film-action-hd" xmltv_id="[C More + V film] V film action HD">[C More + V film] V film action HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|v-film-hits-hd" xmltv_id="[C More + V film] V film hits HD">[C More + V film] V film hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|v-film-family" xmltv_id="[C More + V film] V film family">[C More + V film] V film family</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|viasat-nature-hd" xmltv_id="[C More + V film] Viasat Nature HD">[C More + V film] Viasat Nature HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|viasat-explore-hd" xmltv_id="[C More + V film] Viasat Explore HD">[C More + V film] Viasat Explore HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|viasat-history-hd" xmltv_id="[C More + V film] Viasat History HD">[C More + V film] Viasat History HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|nat-geo-wild-hd" xmltv_id="[C More + V film] Nat Geo Wild HD">[C More + V film] Nat Geo Wild HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|disney-channel" xmltv_id="[C More + V film] Disney Channel">[C More + V film] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|disney-junior" xmltv_id="[C More + V film] Disney Junior">[C More + V film] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|cartoon-network" xmltv_id="[C More + V film] Cartoon Network">[C More + V film] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|boomerang" xmltv_id="[C More + V film] Boomerang">[C More + V film] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="ee7d0e7e-3544-4642-bb5d-ce9d77d521f5|##|cnn" xmltv_id="[C More + V film] CNN">[C More + V film] CNN</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga1" xmltv_id="[Telia Liigapassi] Liiga 1">[Telia Liigapassi] Liiga 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga2" xmltv_id="[Telia Liigapassi] Liiga 2">[Telia Liigapassi] Liiga 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga3" xmltv_id="[Telia Liigapassi] Liiga 3">[Telia Liigapassi] Liiga 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga4" xmltv_id="[Telia Liigapassi] Liiga 4">[Telia Liigapassi] Liiga 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga5" xmltv_id="[Telia Liigapassi] Liiga 5">[Telia Liigapassi] Liiga 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga6" xmltv_id="[Telia Liigapassi] Liiga 6">[Telia Liigapassi] Liiga 6</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga7" xmltv_id="[Telia Liigapassi] Liiga 7">[Telia Liigapassi] Liiga 7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="2feeb37a-2d31-48a8-b086-997c5c4477cf|##|liiga-uhd" xmltv_id="[Telia Liigapassi] Liiga UHD">[Telia Liigapassi] Liiga UHD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga1" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 1">[Telia Liigapassi + C More Sport] Liiga 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga2" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 2">[Telia Liigapassi + C More Sport] Liiga 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga3" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 3">[Telia Liigapassi + C More Sport] Liiga 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga4" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 4">[Telia Liigapassi + C More Sport] Liiga 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga5" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 5">[Telia Liigapassi + C More Sport] Liiga 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga6" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 6">[Telia Liigapassi + C More Sport] Liiga 6</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga7" xmltv_id="[Telia Liigapassi + C More Sport] Liiga 7">[Telia Liigapassi + C More Sport] Liiga 7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|liiga-uhd" xmltv_id="[Telia Liigapassi + C More Sport] Liiga UHD">[Telia Liigapassi + C More Sport] Liiga UHD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|c-more-max-hd" xmltv_id="[Telia Liigapassi + C More Sport] C More Max HD">[Telia Liigapassi + C More Sport] C More Max HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|c-more-sport-1-hd" xmltv_id="[Telia Liigapassi + C More Sport] C More Sport 1 HD">[Telia Liigapassi + C More Sport] C More Sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="e193ec37-8eef-4806-9a03-aefdee464441|##|c-more-sport-2-hd" xmltv_id="[Telia Liigapassi + C More Sport] C More Sport 2 HD">[Telia Liigapassi + C More Sport] C More Sport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga1" xmltv_id="[Telia Liigapassi + C More Total] Liiga 1">[Telia Liigapassi + C More Total] Liiga 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga2" xmltv_id="[Telia Liigapassi + C More Total] Liiga 2">[Telia Liigapassi + C More Total] Liiga 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga3" xmltv_id="[Telia Liigapassi + C More Total] Liiga 3">[Telia Liigapassi + C More Total] Liiga 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga4" xmltv_id="[Telia Liigapassi + C More Total] Liiga 4">[Telia Liigapassi + C More Total] Liiga 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga5" xmltv_id="[Telia Liigapassi + C More Total] Liiga 5">[Telia Liigapassi + C More Total] Liiga 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga6" xmltv_id="[Telia Liigapassi + C More Total] Liiga 6">[Telia Liigapassi + C More Total] Liiga 6</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga7" xmltv_id="[Telia Liigapassi + C More Total] Liiga 7">[Telia Liigapassi + C More Total] Liiga 7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|liiga-uhd" xmltv_id="[Telia Liigapassi + C More Total] Liiga UHD">[Telia Liigapassi + C More Total] Liiga UHD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-max-hd" xmltv_id="[Telia Liigapassi + C More Total] C More Max HD">[Telia Liigapassi + C More Total] C More Max HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-sport-1-hd" xmltv_id="[Telia Liigapassi + C More Total] C More Sport 1 HD">[Telia Liigapassi + C More Total] C More Sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-sport-2-hd" xmltv_id="[Telia Liigapassi + C More Total] C More Sport 2 HD">[Telia Liigapassi + C More Total] C More Sport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-first" xmltv_id="[Telia Liigapassi + C More Total] C More First">[Telia Liigapassi + C More Total] C More First</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-stars" xmltv_id="[Telia Liigapassi + C More Total] C More Stars">[Telia Liigapassi + C More Total] C More Stars</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-hits" xmltv_id="[Telia Liigapassi + C More Total] C More Hits">[Telia Liigapassi + C More Total] C More Hits</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-series" xmltv_id="[Telia Liigapassi + C More Total] C More Series">[Telia Liigapassi + C More Total] C More Series</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|c-more-juniori" xmltv_id="[Telia Liigapassi + C More Total] C More Juniori">[Telia Liigapassi + C More Total] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="b6893ff1-6b03-4031-a940-014bdc0b14a9|##|sf-kanalen" xmltv_id="[Telia Liigapassi + C More Total] SF-kanalen">[Telia Liigapassi + C More Total] SF-kanalen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga1" xmltv_id="[Telia Liigapassi + V premium] Liiga 1">[Telia Liigapassi + V premium] Liiga 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga2" xmltv_id="[Telia Liigapassi + V premium] Liiga 2">[Telia Liigapassi + V premium] Liiga 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga3" xmltv_id="[Telia Liigapassi + V premium] Liiga 3">[Telia Liigapassi + V premium] Liiga 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga4" xmltv_id="[Telia Liigapassi + V premium] Liiga 4">[Telia Liigapassi + V premium] Liiga 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga5" xmltv_id="[Telia Liigapassi + V premium] Liiga 5">[Telia Liigapassi + V premium] Liiga 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga6" xmltv_id="[Telia Liigapassi + V premium] Liiga 6">[Telia Liigapassi + V premium] Liiga 6</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga7" xmltv_id="[Telia Liigapassi + V premium] Liiga 7">[Telia Liigapassi + V premium] Liiga 7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|liiga-uhd" xmltv_id="[Telia Liigapassi + V premium] Liiga UHD">[Telia Liigapassi + V premium] Liiga UHD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-1-hd" xmltv_id="[Telia Liigapassi + V premium] V sport 1 HD">[Telia Liigapassi + V premium] V sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-vinter" xmltv_id="[Telia Liigapassi + V premium] V sport vinter">[Telia Liigapassi + V premium] V sport vinter</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-golf-hd" xmltv_id="[Telia Liigapassi + V premium] V sport golf HD">[Telia Liigapassi + V premium] V sport golf HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-plus-suomi" xmltv_id="[Telia Liigapassi + V premium] V sport+ Suomi">[Telia Liigapassi + V premium] V sport+ Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-2-suomi" xmltv_id="[Telia Liigapassi + V premium] V sport 2 Suomi">[Telia Liigapassi + V premium] V sport 2 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-1-suomi" xmltv_id="[Telia Liigapassi + V premium] V sport 1 Suomi">[Telia Liigapassi + V premium] V sport 1 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-premium-hd" xmltv_id="[Telia Liigapassi + V premium] V sport premium HD">[Telia Liigapassi + V premium] V sport premium HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-football-hd" xmltv_id="[Telia Liigapassi + V premium] V sport football HD">[Telia Liigapassi + V premium] V sport football HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-live-1" xmltv_id="[Telia Liigapassi + V premium] V sport live 1">[Telia Liigapassi + V premium] V sport live 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-live-2" xmltv_id="[Telia Liigapassi + V premium] V-sport live 2">[Telia Liigapassi + V premium] V-sport live 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-live-3" xmltv_id="[Telia Liigapassi + V premium] V sport live 3">[Telia Liigapassi + V premium] V sport live 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-live-4" xmltv_id="[Telia Liigapassi + V premium] V sport live 4">[Telia Liigapassi + V premium] V sport live 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-sport-live-5" xmltv_id="[Telia Liigapassi + V premium] V sport live 5">[Telia Liigapassi + V premium] V sport live 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-film-premiere-hd" xmltv_id="[Telia Liigapassi + V premium] V film premiere HD">[Telia Liigapassi + V premium] V film premiere HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-film-action-hd" xmltv_id="[Telia Liigapassi + V premium] V film action HD">[Telia Liigapassi + V premium] V film action HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-film-hits-hd" xmltv_id="[Telia Liigapassi + V premium] V film hits HD">[Telia Liigapassi + V premium] V film hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|v-film-family" xmltv_id="[Telia Liigapassi + V premium] V film family">[Telia Liigapassi + V premium] V film family</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|viasat-nature-hd" xmltv_id="[Telia Liigapassi + V premium] Viasat Nature HD">[Telia Liigapassi + V premium] Viasat Nature HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|viasat-explore-hd" xmltv_id="[Telia Liigapassi + V premium] Viasat Explore HD">[Telia Liigapassi + V premium] Viasat Explore HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|viasat-history-hd" xmltv_id="[Telia Liigapassi + V premium] Viasat History HD">[Telia Liigapassi + V premium] Viasat History HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|nat-geo-wild-hd" xmltv_id="[Telia Liigapassi + V premium] Nat Geo Wild HD">[Telia Liigapassi + V premium] Nat Geo Wild HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|disney-channel" xmltv_id="[Telia Liigapassi + V premium] Disney Channel">[Telia Liigapassi + V premium] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|disney-junior" xmltv_id="[Telia Liigapassi + V premium] Disney Junior">[Telia Liigapassi + V premium] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|cartoon-network" xmltv_id="[Telia Liigapassi + V premium] Cartoon Network">[Telia Liigapassi + V premium] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|boomerang" xmltv_id="[Telia Liigapassi + V premium] Boomerang">[Telia Liigapassi + V premium] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13|##|cnn" xmltv_id="[Telia Liigapassi + V premium] CNN">[Telia Liigapassi + V premium] CNN</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga1" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 1">[Telia Liigapassi + C More Total + V premium] Liiga 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga2" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 2">[Telia Liigapassi + C More Total + V premium] Liiga 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga3" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 3">[Telia Liigapassi + C More Total + V premium] Liiga 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga4" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 4">[Telia Liigapassi + C More Total + V premium] Liiga 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga5" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 5">[Telia Liigapassi + C More Total + V premium] Liiga 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga6" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 6">[Telia Liigapassi + C More Total + V premium] Liiga 6</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|liiga7" xmltv_id="[Telia Liigapassi + C More Total + V premium] Liiga 7">[Telia Liigapassi + C More Total + V premium] Liiga 7</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-max-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Max HD">[Telia Liigapassi + C More Total + V premium] C More Max HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-sport-1-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Sport 1 HD">[Telia Liigapassi + C More Total + V premium] C More Sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-sport-2-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Sport 2 HD">[Telia Liigapassi + C More Total + V premium] C More Sport 2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-hits" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Hits">[Telia Liigapassi + C More Total + V premium] C More Hits</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-stars" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Stars">[Telia Liigapassi + C More Total + V premium] C More Stars</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-first" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More First">[Telia Liigapassi + C More Total + V premium] C More First</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-series" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Series">[Telia Liigapassi + C More Total + V premium] C More Series</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|c-more-juniori" xmltv_id="[Telia Liigapassi + C More Total + V premium] C More Juniori">[Telia Liigapassi + C More Total + V premium] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|sf-kanalen" xmltv_id="[Telia Liigapassi + C More Total + V premium] SF-kanalen">[Telia Liigapassi + C More Total + V premium] SF-kanalen</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-1-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport 1 HD">[Telia Liigapassi + C More Total + V premium] V sport 1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-vinter" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport vinter">[Telia Liigapassi + C More Total + V premium] V sport vinter</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-golf-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport golf HD">[Telia Liigapassi + C More Total + V premium] V sport golf HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-plus-suomi" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport+ Suomi">[Telia Liigapassi + C More Total + V premium] V sport+ Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-2-suomi" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport 2 Suomi">[Telia Liigapassi + C More Total + V premium] V sport 2 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-1-suomi" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport 1 Suomi">[Telia Liigapassi + C More Total + V premium] V sport 1 Suomi</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-premium-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport premium HD">[Telia Liigapassi + C More Total + V premium] V sport premium HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-football-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport football HD">[Telia Liigapassi + C More Total + V premium] V sport football HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-live-1" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport live 1">[Telia Liigapassi + C More Total + V premium] V sport live 1</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-live-2" xmltv_id="[Telia Liigapassi + C More Total + V premium] V-sport live 2">[Telia Liigapassi + C More Total + V premium] V-sport live 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-live-3" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport live 3">[Telia Liigapassi + C More Total + V premium] V sport live 3</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-live-4" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport live 4">[Telia Liigapassi + C More Total + V premium] V sport live 4</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-sport-live-5" xmltv_id="[Telia Liigapassi + C More Total + V premium] V sport live 5">[Telia Liigapassi + C More Total + V premium] V sport live 5</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-film-premiere-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V film premiere HD">[Telia Liigapassi + C More Total + V premium] V film premiere HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-film-action-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V film action HD">[Telia Liigapassi + C More Total + V premium] V film action HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-film-hits-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] V film hits HD">[Telia Liigapassi + C More Total + V premium] V film hits HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|v-film-family" xmltv_id="[Telia Liigapassi + C More Total + V premium] V film family">[Telia Liigapassi + C More Total + V premium] V film family</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|viasat-nature-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] Viasat Nature HD">[Telia Liigapassi + C More Total + V premium] Viasat Nature HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|viasat-explore-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] Viasat Explore HD">[Telia Liigapassi + C More Total + V premium] Viasat Explore HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|viasat-history-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] Viasat History HD">[Telia Liigapassi + C More Total + V premium] Viasat History HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|nat-geo-wild-hd" xmltv_id="[Telia Liigapassi + C More Total + V premium] Nat Geo Wild HD">[Telia Liigapassi + C More Total + V premium] Nat Geo Wild HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|disney-channel" xmltv_id="[Telia Liigapassi + C More Total + V premium] Disney Channel">[Telia Liigapassi + C More Total + V premium] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|disney-junior" xmltv_id="[Telia Liigapassi + C More Total + V premium] Disney Junior">[Telia Liigapassi + C More Total + V premium] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|cartoon-network" xmltv_id="[Telia Liigapassi + C More Total + V premium] Cartoon Network">[Telia Liigapassi + C More Total + V premium] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|boomerang" xmltv_id="[Telia Liigapassi + C More Total + V premium] Boomerang">[Telia Liigapassi + C More Total + V premium] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d|##|cnn" xmltv_id="[Telia Liigapassi + C More Total + V premium] CNN">[Telia Liigapassi + C More Total + V premium] CNN</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|disney-channel" xmltv_id="[Lasten paketti] Disney Channel">[Lasten paketti] Disney Channel</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|disney-junior" xmltv_id="[Lasten paketti] Disney Junior">[Lasten paketti] Disney Junior</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|nick-jr" xmltv_id="[Lasten paketti] Nick Jr.">[Lasten paketti] Nick Jr.</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|boomerang" xmltv_id="[Lasten paketti] Boomerang">[Lasten paketti] Boomerang</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|cartoon-network" xmltv_id="[Lasten paketti] Cartoon Network">[Lasten paketti] Cartoon Network</channel>
+    <channel site="[ENC]telia.fi_1" site_id="39863782-0c23-42b7-a8c8-1eb02498b31d|##|c-more-juniori" xmltv_id="[Lasten paketti] C More Juniori">[Lasten paketti] C More Juniori</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|svt1-hd" xmltv_id="[Europe] SVT1 HD">[Europe] SVT1 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|svt2-hd" xmltv_id="[Europe] SVT2 HD">[Europe] SVT2 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|tv3-hd" xmltv_id="[Europe] TV3 HD">[Europe] TV3 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|tv4-hd" xmltv_id="[Europe] TV4 HD">[Europe] TV4 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|tv6-hd" xmltv_id="[Europe] TV6 HD">[Europe] TV6 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|barnkanalen-svt24-hd" xmltv_id="[Europe] Barnkanalen / SVT24 HD">[Europe] Barnkanalen / SVT24 HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|kunskapskanalen-hd" xmltv_id="[Europe] Kunskapskanalen HD">[Europe] Kunskapskanalen HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|etv" xmltv_id="[Europe] ETV">[Europe] ETV</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|das-erste" xmltv_id="[Europe] Das Erste">[Europe] Das Erste</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|3sat" xmltv_id="[Europe] 3sat">[Europe] 3sat</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|tve-internacional-hd" xmltv_id="[Europe] TVE Internacional HD">[Europe] TVE Internacional HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|tv5monde-hd" xmltv_id="[Europe] TV5MONDE HD">[Europe] TV5MONDE HD</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|france-2" xmltv_id="[Europe] France 2">[Europe] France 2</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|al-jazeera-international" xmltv_id="[Europe] Al Jazeera International">[Europe] Al Jazeera International</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|euronews" xmltv_id="[Europe] Euronews">[Europe] Euronews</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|bbc-world-news" xmltv_id="[Europe] BBC News">[Europe] BBC News</channel>
+    <channel site="[ENC]telia.fi_1" site_id="5fdb7960-8911-4917-8522-3b4049ce652e|##|bbc-nordic" xmltv_id="[Europe] BBC Nordic">[Europe] BBC Nordic</channel>
+    <channel site="[ENC]telia.fi_1" site_id="f1eb351b-d2d7-453f-91a6-33a3505b8aae|##|tototv" xmltv_id="[TotoTV] TotoTV">[TotoTV] TotoTV</channel>
+  </channels>
+</site>
