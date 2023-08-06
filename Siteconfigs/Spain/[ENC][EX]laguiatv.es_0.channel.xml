@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]laguiatv.es_0">
+  <channels>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="7rm" xmltv_id="7RM">7RM</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="atreseries" xmltv_id="Atreseries">Atreseries</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="barca-tv" xmltv_id="Barça TV">Barça TV</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="bemad" xmltv_id="BeMad">BeMad</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="boing" xmltv_id="Boing">Boing</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="bom-cine" xmltv_id="BOM Cine">BOM Cine</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="calle-13" xmltv_id="Calle 13">Calle 13</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="canal-sur" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="clan-tve" xmltv_id="Clan TVE">Clan TVE</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="cuatro" xmltv_id="Cuatro">Cuatro</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="dazn-laliga" xmltv_id="DAZN LaLiga">DAZN LaLiga</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="divinity" xmltv_id="Divinity">Divinity</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="dkiss" xmltv_id="DKiss">DKiss</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="dreamworks" xmltv_id="Dreamworks">Dreamworks</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="el-toro-tv" xmltv_id="El Toro TV">El Toro TV</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="energy" xmltv_id="Energy">Energy</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="esport-3" xmltv_id="Esport 3">Esport 3</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="etb-1" xmltv_id="ETB 1">ETB 1</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="etb-2" xmltv_id="ETB 2">ETB 2</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="fdf" xmltv_id="FDF">FDF</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="fox" xmltv_id="Fox">Fox</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="gol-tv" xmltv_id="Gol Play">Gol Play</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="hollywood" xmltv_id="Hollywood">Hollywood</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="ib3" xmltv_id="IB3">IB3</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="la-1" xmltv_id="La 1">La 1</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="la-2" xmltv_id="La 2">La 2</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="la-otra" xmltv_id="La Otra">La Otra</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="la-sexta" xmltv_id="La Sexta">La Sexta</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-liga-campeones" xmltv_id="M. Liga de Campeones">M. Liga de Campeones</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-cero" xmltv_id="M+ #0">M+ #0</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="vamos" xmltv_id="M+ #Vamos">M+ #Vamos</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-accion" xmltv_id="M+ Acción">M+ Acción</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-comedia" xmltv_id="M+ Comedia">M+ Comedia</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-deportes" xmltv_id="M+ Deportes">M+ Deportes</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-drama" xmltv_id="M+ Drama">M+ Drama</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-estrenos" xmltv_id="M+ Estrenos">M+ Estrenos</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-laliga" xmltv_id="M+ LaLiga">M+ LaLiga</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="movistar-series" xmltv_id="M+ Series">M+ Series</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="mega" xmltv_id="Mega">Mega</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="neox" xmltv_id="Neox">Neox</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="nova" xmltv_id="Nova">Nova</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="paramount" xmltv_id="Paramount">Paramount</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="real-madrid-tv" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="telecinco" xmltv_id="Telecinco">Telecinco</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="teledeporte" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="telemadrid" xmltv_id="TeleMadrid">TeleMadrid</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="canal-ten" xmltv_id="TEN">TEN</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="tnt" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="trece" xmltv_id="Trece">Trece</channel>
+    <channel site="[ENC][EX]laguiatv.es_0" site_id="tv3" xmltv_id="TV3">TV3</channel>
+  </channels>
+</site>
