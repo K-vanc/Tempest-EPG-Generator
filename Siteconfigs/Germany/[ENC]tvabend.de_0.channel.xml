@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvabend.de_0">
+  <channels>
+    <channel site="[ENC]tvabend.de_0" site_id="daserste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="one" xmltv_id="One">One</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="sat1" xmltv_id="Sat1">Sat1</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="prosieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="kabel-eins" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="sat1-gold" xmltv_id="Sat1 Gold">Sat1 Gold</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="3sat" xmltv_id="3SAT">3SAT</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="kika" xmltv_id="Kika">Kika</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="prosieben-maxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="kabel-eins-doku" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="rtl2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="tagesschau24" xmltv_id="Tagesschau 24">Tagesschau 24</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="radio-bremen" xmltv_id="Radio Bremen">Radio Bremen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="hr-fernsehen" xmltv_id="HR Fernsehen">HR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="br-fernsehen" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="wdr-fernsehen" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="sr-fernsehen" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="mdr-fernsehen" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="ndr-fernsehen" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="swr-ferns-bw" xmltv_id="SWR Fernsehen BW">SWR Fernsehen BW</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="swr-ferns-rp" xmltv_id="SWR Fernsehen RP">SWR Fernsehen RP</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="rbb-fernsehen" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
+    <channel site="[ENC]tvabend.de_0" site_id="ard-alpha" xmltv_id="ARD Alpha">ARD Alpha</channel>
+  </channels>
+</site>
