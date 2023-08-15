@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="ruv.is_0">
+  <channels>
+    <channel site="ruv.is_0" site_id="ruv||RUV" xmltv_id="RÚV">RÚV</channel>
+    <channel site="ruv.is_0" site_id="ruv2||RUV2" xmltv_id="RÚV2">RÚV2</channel>
+  </channels>
+</site>
