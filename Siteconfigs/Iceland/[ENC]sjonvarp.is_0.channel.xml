@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]sjonvarp.is_0">
+  <channels>
+    <channel site="[ENC]sjonvarp.is_0" site_id="RUV" xmltv_id="RÚV">RÚV</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S1" xmltv_id="Sjónvarp Símans">Sjónvarp Símans</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="ST2" xmltv_id="Stöð 2">Stöð 2</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="STOD3" xmltv_id="Stöð 2 Fjölskylda">Stöð 2 Fjölskylda</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="RUVI" xmltv_id="RÚV Íþróttir">RÚV Íþróttir</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S1SPORT" xmltv_id="Síminn Sport">Síminn Sport</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S1SPORT2" xmltv_id="Síminn Sport 2">Síminn Sport 2</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="SYN" xmltv_id="Stöð 2 Sport">Stöð 2 Sport</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="SKJARSPORT" xmltv_id="Stöð 2 Sport 2">Stöð 2 Sport 2</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S2SPORT3" xmltv_id="Stöð 2 Sport 3">Stöð 2 Sport 3</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S2SPORT4" xmltv_id="Stöð 2 Sport 4">Stöð 2 Sport 4</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="S2ESPORT" xmltv_id="Stöð 2 E Sport">Stöð 2 E Sport</channel>
+    <channel site="[ENC]sjonvarp.is_0" site_id="GOLF" xmltv_id="Stöð 2 Golf">Stöð 2 Golf</channel>
+  </channels>
+</site>
