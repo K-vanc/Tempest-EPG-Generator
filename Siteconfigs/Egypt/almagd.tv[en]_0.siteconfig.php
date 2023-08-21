@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'almagd.tv[en]',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-08-21',
+  'rev_no' => 'R0',
+  'timezone' => 'Africa/Cairo',
+  'culture' => 'en',
+  'max_day' => '7',
+  'episodeOption' => '1',
+  'url1' => 'https://almagd.tv/en/guide/##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'urldate_format1' => '#weekdayname#3-Monday|4-Tuesday|5-Wednesday|6-Thursday|7-Friday|1-Saturday|2-Sunday',
+  'show' => '<tbody>.*?(?:<tr)(.*?)(?:<\\/tr>).*?<\\/tbody>||#include#"guidetime"',
+  'start' => '"guidetime">\\s*(\\d+:\\d+\\s[AP]M)',
+  'start_format' => 'h#i A',
+  'title' => '<a href=".*?>(.*?)<\\/a>',
+  'desc' => 'Z&details=(.*?),https:',
+  'season' => 'Season (\\d+)',
+  'episode' => 'Episode (\\d+)',
+  'channel_logo' => '||#add#https://almagd.tv/en/images/logo.png?##channel##',
+  'pagekey1' => '<a href="(.*?)"',
+  'detail_url1' => '##pagekey1##',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'detail_category' => '"flashit pull-right">(Live)<\\/span>',
+  'detail_showicon' => '"arthor-img">\\s*<img src="(.*?)"',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#almagd-tv-en',
+  'ccchannel_name' => '||#set#Almagd TV[EN]',
+);
+?>
