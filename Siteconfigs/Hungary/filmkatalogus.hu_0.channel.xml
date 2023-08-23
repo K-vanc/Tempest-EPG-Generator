@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="filmkatalogus.hu_0">
+  <channels>
+    <channel site="filmkatalogus.hu_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv2" xmltv_id="TV2">TV2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasat3" xmltv_id="Viasat3">Viasat3</channel>
+    <channel site="filmkatalogus.hu_0" site_id="film" xmltv_id="Film+">Film+</channel>
+    <channel site="filmkatalogus.hu_0" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel site="filmkatalogus.hu_0" site_id="coltv" xmltv_id="Cool TV">Cool TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel site="filmkatalogus.hu_0" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel site="filmkatalogus.hu_0" site_id="animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="filmkatalogus.hu_0" site_id="cbsreality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="filmkatalogus.hu_0" site_id="cartonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="filmkatalogus.hu_0" site_id="cartonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="filmkatalogus.hu_0" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="filmkatalogus.hu_0" site_id="cinemax2" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="comedycentral" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="filmkatalogus.hu_0" site_id="comedycentralfamily" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel site="filmkatalogus.hu_0" site_id="coltv" xmltv_id="Cool TV">Cool TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="d1televizio" xmltv_id="D1 televízió">D1 televízió</channel>
+    <channel site="filmkatalogus.hu_0" site_id="dunatv" xmltv_id="DUNA TV">DUNA TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="discoverychanel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="filmkatalogus.hu_0" site_id="discoveryscience" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="filmkatalogus.hu_0" site_id="discoveryturboxtra" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel site="filmkatalogus.hu_0" site_id="disneychanel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="filmkatalogus.hu_0" site_id="dunaworld" xmltv_id="Duna World">Duna World</channel>
+    <channel site="filmkatalogus.hu_0" site_id="epicdrama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="filmkatalogus.hu_0" site_id="fem3" xmltv_id="Fem3">Fem3</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmcafe" xmltv_id="Film Café">Film Café</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmmania" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmnow" xmltv_id="Film Now">Film Now</channel>
+    <channel site="filmkatalogus.hu_0" site_id="film" xmltv_id="Film+">Film+</channel>
+    <channel site="filmkatalogus.hu_0" site_id="film4" xmltv_id="Film4">Film4</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmboxextrahd" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmboxfamily" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmboxplus" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
+    <channel site="filmkatalogus.hu_0" site_id="filmboxpremium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+    <channel site="filmkatalogus.hu_0" site_id="fishinghunting" xmltv_id="Fishing &amp; Hunting">Fishing &amp; Hunting</channel>
+    <channel site="filmkatalogus.hu_0" site_id="fodnetwork" xmltv_id="Food Network">Food Network</channel>
+    <channel site="filmkatalogus.hu_0" site_id="galaxy4" xmltv_id="Galaxy4">Galaxy4</channel>
+    <channel site="filmkatalogus.hu_0" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel site="filmkatalogus.hu_0" site_id="hbo2" xmltv_id="HBO2">HBO2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="hbo3" xmltv_id="HBO3">HBO3</channel>
+    <channel site="filmkatalogus.hu_0" site_id="history" xmltv_id="History">History</channel>
+    <channel site="filmkatalogus.hu_0" site_id="investigationdiscovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="filmkatalogus.hu_0" site_id="izauratv" xmltv_id="Izaura TV">Izaura TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel site="filmkatalogus.hu_0" site_id="jockytv" xmltv_id="Jocky TV">Jocky TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="lifetv" xmltv_id="Life TV">Life TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="m1" xmltv_id="M1">M1</channel>
+    <channel site="filmkatalogus.hu_0" site_id="m2" xmltv_id="M2">M2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="m4sport" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel site="filmkatalogus.hu_0" site_id="m5" xmltv_id="M5">M5</channel>
+    <channel site="filmkatalogus.hu_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="magyarmozitv" xmltv_id="Magyar Mozi TV">Magyar Mozi TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel site="filmkatalogus.hu_0" site_id="mozi" xmltv_id="Mozi+">Mozi+</channel>
+    <channel site="filmkatalogus.hu_0" site_id="moziverzum" xmltv_id="Moziverzum">Moziverzum</channel>
+    <channel site="filmkatalogus.hu_0" site_id="nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="filmkatalogus.hu_0" site_id="nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="filmkatalogus.hu_0" site_id="nickjr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="filmkatalogus.hu_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="filmkatalogus.hu_0" site_id="nicktons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="filmkatalogus.hu_0" site_id="ozonetv" xmltv_id="Ozone TV">Ozone TV</channel>
+    <channel site="filmkatalogus.hu_0" site_id="paramountnetwork" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="filmkatalogus.hu_0" site_id="prime" xmltv_id="Prime">Prime</channel>
+    <channel site="filmkatalogus.hu_0" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel site="filmkatalogus.hu_0" site_id="rtlgold" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel site="filmkatalogus.hu_0" site_id="rtlharom" xmltv_id="RTL Három">RTL Három</channel>
+    <channel site="filmkatalogus.hu_0" site_id="rtlketo" xmltv_id="RTL Kettő">RTL Kettő</channel>
+    <channel site="filmkatalogus.hu_0" site_id="sorozat" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel site="filmkatalogus.hu_0" site_id="spektrum" xmltv_id="Spektrum">Spektrum</channel>
+    <channel site="filmkatalogus.hu_0" site_id="spektrumhome" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel site="filmkatalogus.hu_0" site_id="spiler1" xmltv_id="Spíler1">Spíler1</channel>
+    <channel site="filmkatalogus.hu_0" site_id="spiler2" xmltv_id="Spíler2">Spíler2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="story4" xmltv_id="Story4">Story4</channel>
+    <channel site="filmkatalogus.hu_0" site_id="supertv2" xmltv_id="SuperTV2">SuperTV2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tvpaprika" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv2" xmltv_id="TV2">TV2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv2comedy" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv2kids" xmltv_id="TV2 Kids">TV2 Kids</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv2sef" xmltv_id="TV2 Séf">TV2 Séf</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tv4" xmltv_id="TV4">TV4</channel>
+    <channel site="filmkatalogus.hu_0" site_id="tenick" xmltv_id="TeenNick">TeenNick</channel>
+    <channel site="filmkatalogus.hu_0" site_id="travelchanel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasatexplore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasatfilm" xmltv_id="Viasat Film">Viasat Film</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasathistory" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasatnature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasat2" xmltv_id="Viasat2">Viasat2</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasat3" xmltv_id="Viasat3">Viasat3</channel>
+    <channel site="filmkatalogus.hu_0" site_id="viasat6" xmltv_id="Viasat6">Viasat6</channel>
+  </channels>
+</site>
