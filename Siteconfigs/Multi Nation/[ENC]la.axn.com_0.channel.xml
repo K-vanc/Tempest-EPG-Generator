@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]la.axn.com_0">
+  <channels>
+    <channel site="[ENC]la.axn.com_0" site_id="America/Mexico_City|##|mx" xmltv_id="AXN MEXICO">AXN MEXICO</channel>
+    <channel site="[ENC]la.axn.com_0" site_id="America/Argentina/Buenos_Aires|##|ar" xmltv_id="AXN ARGENTINA">AXN ARGENTINA</channel>
+    <channel site="[ENC]la.axn.com_0" site_id="America/Santiago|##|andes" xmltv_id="AXN ANDES">AXN ANDES</channel>
+    <channel site="[ENC]la.axn.com_0" site_id="America/Caracas|##|vz" xmltv_id="AXN VENEZUELA">AXN VENEZUELA</channel>
+  </channels>
+</site>
