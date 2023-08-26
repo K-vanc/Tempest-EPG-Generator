@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]la.sonymovies.com_0">
+  <channels>
+    <channel site="[ENC]la.sonymovies.com_0" site_id="America/Bogota|##|smc-la" xmltv_id="Sony Movies COLOMBIA">Sony Movies COLOMBIA</channel>
+    <channel site="[ENC]la.sonymovies.com_0" site_id="America/Caracas|##|vz" xmltv_id="Sony Movies VENEZUELA">Sony Movies VENEZUELA</channel>
+    <channel site="[ENC]la.sonymovies.com_0" site_id="America/Argentina/Buenos_Aires|##|smc-ar" xmltv_id="Sony Movies ARGENTINA">Sony Movies ARGENTINA</channel>
+    <channel site="[ENC]la.sonymovies.com_0" site_id="America/Mexico_City|##|smc-mx" xmltv_id="Sony Movies MEXICO">Sony Movies MEXICO</channel>
+  </channels>
+</site>
