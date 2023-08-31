@@ -14,7 +14,7 @@ return array (
   'requestOption1' => '1',
   'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'content_type1' => 'text/html; charset=UTF-8',
-  'show' => '<\\/strong><\\/h2>.*?(?:<p>(?!<br|\\s*)|\\/>)(.*?)(?:<br|<\\/p>).*?<\\/div>',
+  'show' => '(?:<\\/strong>)?<\\/h2>.*?(?:<p>(?!<br|\\s*)|\\/>)(.*?)(?:<br|<\\/p>).*?<\\/div>',
   'start' => '^(\\d{2}[\\.:]\\d{2})',
   'start_format' => 'H#i',
   'title' => '\\d{2}[\\.:]\\d{2}\\s(.*?)$',
