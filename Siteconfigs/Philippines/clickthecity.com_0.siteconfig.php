@@ -20,7 +20,7 @@ return array (
   'origin_header1' => 'https://www.clickthecity.com',
   'urldate_format1' => 'Y-m-d',
   'show' => '(<tr>.*?<\\/tr>)||#exclude#<script',
-  'start' => '"cTme".*?>(.*?)<',
+  'start' => 'cTme.*?>(.*?)<',
   'start_format' => 'h:i a',
   'title' => '"cPrg.*?>(.*?)<\\/a>||#replace#(\\s\\(Season.*?\\)(?:\\s*)?)||',
   'season' => '\\(Season (\\d+)',
