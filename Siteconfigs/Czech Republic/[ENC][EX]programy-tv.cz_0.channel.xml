@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]programy-tv.cz_0">
+  <channels>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639419" xmltv_id="360 TUNE BOX HD">360 TUNE BOX HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25220" xmltv_id="3SAT">3SAT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639638" xmltv_id="4 FILM (HU)">4 FILM (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635623" xmltv_id="4 STORY TV (HU)">4 STORY TV (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639696" xmltv_id="ADVENTURE TV">ADVENTURE TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5967928" xmltv_id="AL JAZEERA">AL JAZEERA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="3143541" xmltv_id="AMC CHANNEL">AMC CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635609" xmltv_id="AMC CHANNEL (HU)">AMC CHANNEL (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639439" xmltv_id="AMS">AMS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635633" xmltv_id="AMS (DE)">AMS (DE)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25206" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25221" xmltv_id="ARD (Das Erste)">ARD (Das Erste)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635546" xmltv_id="ARENA SPORT 1">ARENA SPORT 1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635657" xmltv_id="ARENA SPORT 2">ARENA SPORT 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639507" xmltv_id="ARIRANG">ARIRANG</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="279686" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="279687" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4393978" xmltv_id="AXN BLACK">AXN BLACK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635544" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4393979" xmltv_id="AXN WHITE">AXN WHITE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639443" xmltv_id="BARRANDOV KINO">BARRANDOV KINO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639442" xmltv_id="BARRANDOV KRIMI">BARRANDOV KRIMI</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639691" xmltv_id="BBC Earth CZ">BBC Earth CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639692" xmltv_id="BBC Earth ENG">BBC Earth ENG</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25244" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639564" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1448417" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4692562" xmltv_id="C MUSIC">C MUSIC</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639798" xmltv_id="CANAL PLUS ACTION CZ">CANAL PLUS ACTION CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639786" xmltv_id="Canal plus Sport 2">Canal plus Sport 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639787" xmltv_id="Canal plus Sport 3">Canal plus Sport 3</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639788" xmltv_id="Canal plus Sport 4">Canal plus Sport 4</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639789" xmltv_id="Canal plus Sport 5">Canal plus Sport 5</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639790" xmltv_id="Canal plus Sport 6">Canal plus Sport 6</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639785" xmltv_id="Canal plus Sport CZ">Canal plus Sport CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639429" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25216" xmltv_id="CBS REALITY">CBS REALITY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1402953" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2263208" xmltv_id="CINEMAX 2">CINEMAX 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="596061" xmltv_id="CLUB MTV">CLUB MTV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4504669" xmltv_id="CNBC EUROPE">CNBC EUROPE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25218" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639717" xmltv_id="CNN PRIMA NEWS">CNN PRIMA NEWS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639704" xmltv_id="COMEDY HOUSE CZ">COMEDY HOUSE CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639705" xmltv_id="COMEDY HOUSE SK">COMEDY HOUSE SK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635600" xmltv_id="CRIME &amp; INVESTIGATION">CRIME &amp; INVESTIGATION</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1448413" xmltv_id="CS FILM, MINI">CS FILM, MINI</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639614" xmltv_id="CS History">CS History</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635589" xmltv_id="CS Mystery">CS Mystery</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635595" xmltv_id="ČT :D / ČT art">ČT :D / ČT art</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1448418" xmltv_id="ČT24">ČT24</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639508" xmltv_id="DA VINCI Learning">DA VINCI Learning</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635551" xmltv_id="DAJTO">DAJTO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635650" xmltv_id="DELUXE MUSIC HD">DELUXE MUSIC HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25256" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639660" xmltv_id="DIGI SPORT 10">DIGI SPORT 10</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639460" xmltv_id="DIGI SPORT 5">DIGI SPORT 5</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639656" xmltv_id="DIGI SPORT 6">DIGI SPORT 6</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639657" xmltv_id="DIGI SPORT 7">DIGI SPORT 7</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639658" xmltv_id="DIGI SPORT 8">DIGI SPORT 8</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639659" xmltv_id="DIGI SPORT 9">DIGI SPORT 9</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639466" xmltv_id="DISC. TURBO EXTRA">DISC. TURBO EXTRA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25205" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="11552779" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25210" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639467" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639605" xmltv_id="DJAZZ">DJAZZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639420" xmltv_id="DOCUBOX HD">DOCUBOX HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635554" xmltv_id="DOM KINO">DOM KINO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="8720613" xmltv_id="DOMA">DOMA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25246" xmltv_id="DVOJKA">DVOJKA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639445" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639552" xmltv_id="E! (EN)">E! (EN)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639402" xmltv_id="EDGE SPORT HD">EDGE SPORT HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639518" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25251" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639417" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="14976140" xmltv_id="EUROSPORT (BG)">EUROSPORT (BG)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635642" xmltv_id="EUROSPORT (HU)">EUROSPORT (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="8367061" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639761" xmltv_id="EUROSPORT 4K">EUROSPORT 4K</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25243" xmltv_id="EXTREME SPORTS">EXTREME SPORTS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1602731" xmltv_id="FASHION TV">FASHION TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639718" xmltv_id="FASHION TV UHD">FASHION TV UHD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639423" xmltv_id="FASHIONBOX HD">FASHIONBOX HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639435" xmltv_id="FAST &amp; FUNBOX HD">FAST &amp; FUNBOX HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635651" xmltv_id="FIGHTBOX HD">FIGHTBOX HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635611" xmltv_id="FILM CAFÉ (HU)">FILM CAFÉ (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16576942" xmltv_id="FILM EUROPE">FILM EUROPE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5927862" xmltv_id="FILM EUROPE PLUS">FILM EUROPE PLUS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1448414" xmltv_id="FILM+">FILM+</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2056459" xmltv_id="FILMBOX">FILMBOX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639433" xmltv_id="FILMBOX ARTHOUSE">FILMBOX ARTHOUSE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4445821" xmltv_id="FILMBOX EXTRA HD">FILMBOX EXTRA HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="13061521" xmltv_id="FILMBOX FAMILY">FILMBOX FAMILY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639775" xmltv_id="FILMBOX HU">FILMBOX HU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635541" xmltv_id="FILMBOX PREMIUM">FILMBOX PREMIUM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2549122" xmltv_id="FILMBOX STAR">FILMBOX STAR</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639599" xmltv_id="FISHING &amp; HUNTING (UPC)">FISHING &amp; HUNTING (UPC)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639639" xmltv_id="Folklorika">Folklorika</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639405" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639514" xmltv_id="FUEL HD">FUEL HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639472" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10973998" xmltv_id="GOLF CHANNEL">GOLF CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639476" xmltv_id="GOSPEL TV">GOSPEL TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25200" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="241846" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4197295" xmltv_id="HBO 3">HBO 3</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639784" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10131373" xmltv_id="HÍR TV (HU)">HÍR TV (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639687" xmltv_id="HOBBY TV">HOBBY TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635584" xmltv_id="HOROR FILM">HOROR FILM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639771" xmltv_id="i-vysocina.cz">i-vysocina.cz</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635599" xmltv_id="iCONCERTS HD">iCONCERTS HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639407" xmltv_id="ID XTRA">ID XTRA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25245" xmltv_id="JEDNOTKA">JEDNOTKA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4558252" xmltv_id="JIMJAM">JIMJAM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25233" xmltv_id="JOJ">JOJ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639776" xmltv_id="JOJ 24">JOJ 24</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639555" xmltv_id="JOJ CINEMA">JOJ CINEMA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639558" xmltv_id="JOJ FAMILY">JOJ FAMILY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="6064282" xmltv_id="JOJ PLUS">JOJ PLUS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639772" xmltv_id="JOJ ŠPORT">JOJ ŠPORT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639431" xmltv_id="JOJKO">JOJKO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639800" xmltv_id="JOJ_SVET">JOJ_SVET</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="279689" xmltv_id="KABEL1">KABEL1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639690" xmltv_id="Karusel">Karusel</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639506" xmltv_id="KBS WORLD TV">KBS WORLD TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7539674" xmltv_id="KI.KA">KI.KA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639700" xmltv_id="LALA TV">LALA TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639516" xmltv_id="LUXE.TV">LUXE.TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5188280" xmltv_id="M1 (HU)">M1 (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5188281" xmltv_id="M2 (HU)">M2 (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639522" xmltv_id="M4 SPORT">M4 SPORT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639693" xmltv_id="Magenta TV">Magenta TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25202" xmltv_id="MARKÍZA">MARKÍZA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639532" xmltv_id="MARKÍZA INT.">MARKÍZA INT.</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639782" xmltv_id="MARKIZA_KRIMI">MARKIZA_KRIMI</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25215" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635632" xmltv_id="MEZZO Live HD">MEZZO Live HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="490741" xmltv_id="MINIMAX">MINIMAX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639438" xmltv_id="MŇAM">MŇAM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639572" xmltv_id="MŇAU">MŇAU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639478" xmltv_id="MOOZ DANCE">MOOZ DANCE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25214" xmltv_id="MTV 00">MTV 00</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25249" xmltv_id="MTV 80">MTV 80</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25238" xmltv_id="MTV 90">MTV 90</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635660" xmltv_id="MTV EUROPE (CZ)">MTV EUROPE (CZ)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25237" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="14558750" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635556" xmltv_id="MUZYKA RU">MUZYKA RU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="6005243" xmltv_id="NAT. GEO. WILD">NAT. GEO. WILD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25207" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5037935" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639451" xmltv_id="NAUTICAL CHANNEL">NAUTICAL CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639636" xmltv_id="NICK JR Astra CZE">NICK JR Astra CZE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639412" xmltv_id="NICK JR THOR CZ">NICK JR THOR CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639637" xmltv_id="NICK JR THOR HU">NICK JR THOR HU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7539675" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639697" xmltv_id="NICKELODEON INT">NICKELODEON INT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639706" xmltv_id="NICKTOON">NICKTOON</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635583" xmltv_id="NOVA GOLD">NOVA GOLD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639533" xmltv_id="NOVA INT.">NOVA INT.</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639773" xmltv_id="NOVA LADY">NOVA LADY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639766" xmltv_id="NOVA SPORT 3">NOVA SPORT 3</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639767" xmltv_id="NOVA SPORT 4">NOVA SPORT 4</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639699" xmltv_id="ÓČKO Black">ÓČKO Black</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635635" xmltv_id="ÓČKO EXPRES">ÓČKO EXPRES</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635594" xmltv_id="ÓČKO STAR">ÓČKO STAR</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639524" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635557" xmltv_id="Pervyj">Pervyj</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635649" xmltv_id="POHODA - REBEL">POHODA - REBEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635547" xmltv_id="POHODA - RELAX">POHODA - RELAX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635536" xmltv_id="POLAR">POLAR</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639651" xmltv_id="POWER TV">POWER TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639459" xmltv_id="PREMIER SPORT 1">PREMIER SPORT 1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639769" xmltv_id="PREMIER SPORT 2 CZ">PREMIER SPORT 2 CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639768" xmltv_id="PREMIER SPORT 2 SK">PREMIER SPORT 2 SK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639559" xmltv_id="PRIMA PLUS">PRIMA PLUS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639774" xmltv_id="PRIMA SHOW">PRIMA SHOW</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639765" xmltv_id="PRIMA STAR">PRIMA STAR</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635581" xmltv_id="PRIMA ZOOM">PRIMA ZOOM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639694" xmltv_id="Prime HU">Prime HU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25223" xmltv_id="PRO 7">PRO 7</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639688" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639689" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635588" xmltv_id="regionalnitelevize.cz">regionalnitelevize.cz</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25229" xmltv_id="regiony+">regiony+</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10394319" xmltv_id="RETRO MUSIC TV">RETRO MUSIC TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25224" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639695" xmltv_id="RTL GOLD HU">RTL GOLD HU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639581" xmltv_id="RTL UP">RTL UP</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639764" xmltv_id="RTVS SPORT">RTVS SPORT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10175348" xmltv_id="RUSSIA TODAY">RUSSIA TODAY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639756" xmltv_id="Russia Today Documentary">Russia Today Documentary</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25226" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635598" xmltv_id="SENZI TV">SENZI TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639617" xmltv_id="SEZNAM TV HD">SEZNAM TV HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639512" xmltv_id="SHORTS HD">SHORTS HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639488" xmltv_id="SKY NEWS">SKY NEWS</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639477" xmltv_id="SLAGER TV (HU)">SLAGER TV (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635538" xmltv_id="ŠLÁGR ORIGINÁL">ŠLÁGR ORIGINÁL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639757" xmltv_id="ŠLÁGR PREMIUM">ŠLÁGR PREMIUM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25204" xmltv_id="SPEKTRUM">SPEKTRUM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2012246" xmltv_id="SPEKTRUM HOME">SPEKTRUM HOME</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635616" xmltv_id="SPEKTRUM HOME (HU)">SPEKTRUM HOME (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5337648" xmltv_id="SPORT 5">SPORT 5</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2151807" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635624" xmltv_id="SPORT1 (HU)">SPORT1 (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7277741" xmltv_id="SPORT2">SPORT2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635622" xmltv_id="SPORT2 (HU)">SPORT2 (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639783" xmltv_id="STV_24">STV_24</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639409" xmltv_id="SUNDANCE TV">SUNDANCE TV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25250" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25203" xmltv_id="TA3">TA3</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7278439" xmltv_id="THE HISTORY CHANNEL">THE HISTORY CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635525" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639513" xmltv_id="TRACE SPORT">TRACE SPORT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="551370" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639762" xmltv_id="TRAVEL XP 4K">TRAVEL XP 4K</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639608" xmltv_id="TRAVEL XP HD">TRAVEL XP HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639453" xmltv_id="ŤUKI">ŤUKI</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10131377" xmltv_id="TV 4 (HU)">TV 4 (HU)</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="6895950" xmltv_id="TV LUX">TV LUX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2549121" xmltv_id="TV NOE">TV NOE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="10234648" xmltv_id="TV OSEM">TV OSEM</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1327941" xmltv_id="TV PAPRIKA">TV PAPRIKA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639781" xmltv_id="TV RIK">TV RIK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639708" xmltv_id="TV2 Séf">TV2 Séf</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25247" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5495122" xmltv_id="TVP 1">TVP 1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5495123" xmltv_id="TVP 2">TVP 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5495586" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5495124" xmltv_id="TVP INFO">TVP INFO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="3855137" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25254" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5495125" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639539" xmltv_id="UNITEL CLASSICA HD">UNITEL CLASSICA HD</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639635" xmltv_id="V1">V1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639616" xmltv_id="VIASAT EPIC DRAMA">VIASAT EPIC DRAMA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="1448415" xmltv_id="VIASAT HISTORY">VIASAT HISTORY</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="11025200" xmltv_id="VIASAT NATURE">VIASAT NATURE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25228" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635555" xmltv_id="VREMYA">VREMYA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635593" xmltv_id="WAU">WAU</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="12844310" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25227" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7498939" xmltv_id="ZDF INFOKANAL">ZDF INFOKANAL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25194" xmltv_id="ČT1">ČT1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25195" xmltv_id="ČT2">ČT2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25196" xmltv_id="NOVA">NOVA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25197" xmltv_id="PRIMA">PRIMA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="6527695" xmltv_id="TV BARRANDOV">TV BARRANDOV</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635580" xmltv_id="NOVA FUN">NOVA FUN</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4528155" xmltv_id="NOVA CINEMA">NOVA CINEMA</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635550" xmltv_id="NOVA ACTION">NOVA ACTION</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="7277740" xmltv_id="PRIMA COOL">PRIMA COOL</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25199" xmltv_id="NOVA SPORT 1">NOVA SPORT 1</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639456" xmltv_id="NOVA SPORT 2">NOVA SPORT 2</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="14024315" xmltv_id="PRIMA LOVE">PRIMA LOVE</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="25212" xmltv_id="ÓČKO">ÓČKO</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639634" xmltv_id="PRIMA KRIMI">PRIMA KRIMI</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639520" xmltv_id="PRIMA MAX">PRIMA MAX</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2201135" xmltv_id="ČT sport">ČT sport</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028976" xmltv_id="ČRo D-dur">ČRo D-dur</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028978" xmltv_id="ČRo Dvojka">ČRo Dvojka</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028975" xmltv_id="ČRo Jazz">ČRo Jazz</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635590" xmltv_id="ČRo Plus">ČRo Plus</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028977" xmltv_id="ČRo Rádio Junior">ČRo Rádio Junior</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="4393963" xmltv_id="ČRo Rádio Wave">ČRo Rádio Wave</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028974" xmltv_id="ČRo Radiožurnál">ČRo Radiožurnál</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639583" xmltv_id="ČRo Region Stč. kraj">ČRo Region Stč. kraj</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="2028973" xmltv_id="ČRo Vltava">ČRo Vltava</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639441" xmltv_id="MDR">MDR</channel>
+  </channels>
+</site>
