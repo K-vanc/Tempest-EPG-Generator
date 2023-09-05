@@ -1,5 +1,16 @@
 After downloading and inserting the file to siteconfig folder,<br>
-you can create your own channel list for tvtv.us , tvpassport , tvguide , ontvtonight , directv , online.tivo , whattowatch , tvlistings.zap2it , play.xumo.com and channelmaster based on zip/postal code you want.<br>
+you can create your own channel list for 
+* tvtv.us
+* tvpassport
+* tvguide
+* ontvtonight
+* directv
+* online.tivo
+* whattowatch
+* tvlistings.zap2it
+* play.xumo.com
+* channelmaster
+<br><br>based on zip/postal code you want.<br>
 All you need to do is, going into "Channel Generator" tab<br>
 Choosing siteconfig file from loader<br>
 And typing your zip/postal code into "User Key" box such as 10001 etc.<br>
