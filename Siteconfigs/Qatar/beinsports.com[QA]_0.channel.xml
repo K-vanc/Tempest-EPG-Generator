@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="beinsports.com[QA]_0">
   <channels>
-    <channel site="beinsports.com[QA]_0" site_id="1" xmltv_id="bein_SPORTS_FTA_DIGITAL_Mono">bein_SPORTS_FTA_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="2" xmltv_id="News-1">News-1</channel>
-    <channel site="beinsports.com[QA]_0" site_id="3" xmltv_id="beIN_SPORTS2_DIGITAL_Mono">beIN_SPORTS2_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="4" xmltv_id="beIN_SPORTS3_DIGITAL_Mono">beIN_SPORTS3_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="5" xmltv_id="beIN_SPORTS4_DIGITAL_Mono">beIN_SPORTS4_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="6" xmltv_id="beIN_SPORTS5_DIGITAL_Mono">beIN_SPORTS5_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="7" xmltv_id="beIN_SPORTS6_DIGITAL_Mono">beIN_SPORTS6_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="8" xmltv_id="beIN_SPORTS7_DIGITAL_Mono">beIN_SPORTS7_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="9" xmltv_id="beIN_SPORTS3_PREMIUM_Digital_Mono">beIN_SPORTS3_PREMIUM_Digital_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="10" xmltv_id="beIN_SPORTS_XTRA1_Digital_Mono">beIN_SPORTS_XTRA1_Digital_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="11" xmltv_id="beIN_SPORTS_XTRA2_Digital_Mono">beIN_SPORTS_XTRA2_Digital_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="12" xmltv_id="4k_DIGITAL_Mono">4k_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="13" xmltv_id="NBA_DIGITAL_Mono">NBA_DIGITAL_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="14" xmltv_id="beIN_SPORTS1_ENGLISH_Digital_Mono">beIN_SPORTS1_ENGLISH_Digital_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="15" xmltv_id="beIN_SPORTS2_ENGLISH_Digital_Mono">beIN_SPORTS2_ENGLISH_Digital_Mono</channel>
-    <channel site="beinsports.com[QA]_0" site_id="16" xmltv_id="beIN_SPORTS3_ENGLISH_Digital_Mono">beIN_SPORTS3_ENGLISH_Digital_Mono</channel>
+    <channel site="beinsports.com[QA]_0" site_id="8AEA2426-D451-4BA5-BF48-114A1F04B1A8||94130ea17023c4837f0dcdda95034b65" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="beinsports.com[QA]_0" site_id="F7215920-CCF9-4DBB-8B9D-152E232FA549||ca886eb9edb61a42256192745c72cd79" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel site="beinsports.com[QA]_0" site_id="93000494-0DF8-4107-AF0E-1C99D3DBB2EC||e2c2ff9c7fb57db574e461fbe467d84e" xmltv_id="beIN SPORTS 1 FR">beIN SPORTS 1 FR</channel>
+    <channel site="beinsports.com[QA]_0" site_id="7B558284-F996-4123-9584-1E5D01844270||61a10e6abb1149ad9d08f303267f9bc4" xmltv_id="beIN SPORTS NEWS">beIN SPORTS NEWS</channel>
+    <channel site="beinsports.com[QA]_0" site_id="2F518547-2269-4C07-93D5-2733397472BD||b578f2a52a0229873fefc2a4b06377fa" xmltv_id="beIN SPORTS NBA">beIN SPORTS NBA</channel>
+    <channel site="beinsports.com[QA]_0" site_id="846C79D6-18F8-4A4D-ACFA-2C18DCCB6398||4cd31d31e16ac873f5f421d5880e88d6" xmltv_id="beIN SPORTS 2 EN">beIN SPORTS 2 EN</channel>
+    <channel site="beinsports.com[QA]_0" site_id="10A2A142-F98C-4706-9FD0-2D3C36045D63||8f85517967795eeef66c225f7883bdcb" xmltv_id="beIN SPORTS AFC">beIN SPORTS AFC</channel>
+    <channel site="beinsports.com[QA]_0" site_id="8C1EC4FC-35E6-4866-A75D-37FCFAE18839||6a971e08a01e6676d0f1a6e0dacbbd67" xmltv_id="beIN SPORTS 1 EN">beIN SPORTS 1 EN</channel>
+    <channel site="beinsports.com[QA]_0" site_id="2FB43094-3598-43C1-A3BA-44BFB40092E0||1113d7a76ffceca1bb350bfe145467c6" xmltv_id="beIN SPORTS MAX 1">beIN SPORTS MAX 1</channel>
+    <channel site="beinsports.com[QA]_0" site_id="E3B37FA0-E582-45B2-BB8E-516E1A714EF6||a501bebf79d570651ff601788ea9d16d" xmltv_id="beIN SPORTS XTRA 1">beIN SPORTS XTRA 1</channel>
+    <channel site="beinsports.com[QA]_0" site_id="5B15611A-5F9D-4EF0-89A6-677C9CA2BD5D||5878a7ab84fb43402106c575658472fa" xmltv_id="beIN SPORTS MAX 4">beIN SPORTS MAX 4</channel>
+    <channel site="beinsports.com[QA]_0" site_id="A892063B-A5D9-4199-95AC-6A214515FA6B||a3ce63a7a8521c37a513db67129855a8" xmltv_id="beIN SPORTS 7">beIN SPORTS 7</channel>
+    <channel site="beinsports.com[QA]_0" site_id="DC04009D-7E18-4D1C-BA7F-7269B8F8D065||a1cb608a30fc2883eed0831dcf25f260" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel site="beinsports.com[QA]_0" site_id="DB9361E8-B3EB-4D6F-9A82-75B5F09E2F92||e92b755eb0d8800175a02a35c2bf44fe" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
+    <channel site="beinsports.com[QA]_0" site_id="A2D36A21-00D5-4001-A443-81CF2C06553F||9f61408e3afb633e50cdf1b20de6f466" xmltv_id="beIN SPORTS AFC 3">beIN SPORTS AFC 3</channel>
+    <channel site="beinsports.com[QA]_0" site_id="5C08D9D3-C713-4F1F-947E-87C761428B9B||de9d96171258bf940fc7b77c09b1cde4" xmltv_id="beIN SPORTS 9">beIN SPORTS 9</channel>
+    <channel site="beinsports.com[QA]_0" site_id="67DD49E9-E3A2-4B3A-94B8-88C620A4DFB1||8f53295a73878494e9bc8dd6c3c7104f" xmltv_id="beIN 4K">beIN 4K</channel>
+    <channel site="beinsports.com[QA]_0" site_id="9B969275-E59C-4DD1-8FCA-8B01EAE04909||501e3f8a108d7ab9335ceecd363d113d" xmltv_id="beIN SPORTS 2 FR">beIN SPORTS 2 FR</channel>
+    <channel site="beinsports.com[QA]_0" site_id="0F8D20A4-D46C-4B18-9242-8E7B3E978FF8||a9dd7e3c6ee87a48cb35b729caf61eb5" xmltv_id="beIN SPORTS 8">beIN SPORTS 8</channel>
+    <channel site="beinsports.com[QA]_0" site_id="008F0EA9-FCD9-4E8C-849A-913979E7450A||a38b16173474ba8b1a95bcbc30d3b8a5" xmltv_id="beIN SPORTS MAX 2">beIN SPORTS MAX 2</channel>
+    <channel site="beinsports.com[QA]_0" site_id="EEB3E4E8-0F9D-4735-943C-AEA3E39C87DE||a8f15eda80c50adb0e71943adc8015cf" xmltv_id="beIN SPORTS AFC 2">beIN SPORTS AFC 2</channel>
+    <channel site="beinsports.com[QA]_0" site_id="27E67022-B943-4913-9AF3-AFD3DAC9854B||051928341be67dcba03f0e04104d9047" xmltv_id="beIN SPORTS XTRA 2">beIN SPORTS XTRA 2</channel>
+    <channel site="beinsports.com[QA]_0" site_id="E24D9C11-A8B4-4C7F-AD3E-B3364FB6D5A2||1aa4de654d4e502b4ef4136466b13fcc" xmltv_id="beIN SPORTS 6">beIN SPORTS 6</channel>
+    <channel site="beinsports.com[QA]_0" site_id="FD1DD7DD-1E7B-4AA2-8682-BFA17338E653||4fbe073f17f161810fdf3dab1307b30f" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="beinsports.com[QA]_0" site_id="84F7E0C1-D47A-4444-BBA8-C50BB8D2C5A8||d78bded526b07ede88675c6412d63f3d" xmltv_id="beIN SPORTS">beIN SPORTS</channel>
+    <channel site="beinsports.com[QA]_0" site_id="7783DC02-4527-4094-9EE3-CDA8E093E4EB||dc1913d422398c25c5f0b81cab94cc87" xmltv_id="beIN SPORTS MAX 3">beIN SPORTS MAX 3</channel>
+    <channel site="beinsports.com[QA]_0" site_id="0CB3E227-4376-4545-AB64-D6C390F644D8||013d407166ec4fa56eb1e1f8cbe183b9" xmltv_id="beIN SPORTS AFC 1">beIN SPORTS AFC 1</channel>
+    <channel site="beinsports.com[QA]_0" site_id="7836FEA9-6B39-4A1A-8352-DC5FCB97A16C||f50c7035e532c49a0f6993d988e2e843" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="beinsports.com[QA]_0" site_id="964E6246-CA95-410B-82C4-EA75DD979435||0a5052334511e344f15ae0bfafd47a67" xmltv_id="beIN SPORTS 5">beIN SPORTS 5</channel>
+    <channel site="beinsports.com[QA]_0" site_id="CDF1A4C8-26DD-4C33-A239-F729A3B09295||75c6b2d6319e12f37ff421834ad22fa8" xmltv_id="beIN SPORTS XTRA 3">beIN SPORTS XTRA 3</channel>
   </channels>
 </site>
