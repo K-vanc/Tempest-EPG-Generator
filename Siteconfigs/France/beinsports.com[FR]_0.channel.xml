@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="beinsports.com[FR]_0">
   <channels>
-    <channel site="beinsports.com[FR]_0" site_id="1" xmltv_id="HD1">HD1</channel>
-    <channel site="beinsports.com[FR]_0" site_id="2" xmltv_id="HD2">HD2</channel>
-    <channel site="beinsports.com[FR]_0" site_id="3" xmltv_id="HD3">HD3</channel>
-    <channel site="beinsports.com[FR]_0" site_id="4" xmltv_id="4MAX">4MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="5" xmltv_id="5MAX">5MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="6" xmltv_id="6MAX">6MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="7" xmltv_id="7MAX">7MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="8" xmltv_id="8MAX">8MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="9" xmltv_id="9MAX">9MAX</channel>
-    <channel site="beinsports.com[FR]_0" site_id="10" xmltv_id="10MAX">10MAX</channel>
+    <channel site="beinsports.com[FR]_0" site_id="FB208953-1C70-4D1E-B918-103AB02AB181" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel site="beinsports.com[FR]_0" site_id="66265DD1-D2AA-4A89-9412-2455186E90ED" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="beinsports.com[FR]_0" site_id="A4425E44-B004-4137-ACB4-458BA4D710F8" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel site="beinsports.com[FR]_0" site_id="9B4708C5-F5F0-452A-8157-4661C30FAE6A" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel site="beinsports.com[FR]_0" site_id="6DB008B8-66DA-423E-805D-616211D4B174" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="beinsports.com[FR]_0" site_id="6F425028-14F0-4E38-B776-71A9DB3F3493" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel site="beinsports.com[FR]_0" site_id="1E886E98-3104-4D8E-A97F-734B23108E8A" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="beinsports.com[FR]_0" site_id="BBD26D71-897D-4799-87A1-A87120130D48" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel site="beinsports.com[FR]_0" site_id="EF7E0369-CFD9-4607-9238-EC483E6D58A3" xmltv_id="beIN SPORTS MAX 4">beIN SPORTS MAX 4</channel>
+    <channel site="beinsports.com[FR]_0" site_id="76D2430C-8BCB-41BD-A1DE-FBA0D58C5E8A" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
   </channels>
 </site>
