@@ -16,7 +16,7 @@ return array (
   'host_header1' => 'www.tivu.tv',
   'urldate_format1' => '#daylist#0|1|2|3|4|5|6',
   'show' => '<div class="q(?:\\sw)?" id=\'##channel##\'>.*?(?:<div)(.*?)(?:<\\/div>).*?<\\/div><\\/div>||#include#-<br>',
-  'start' => '-<br>(.*?)<\\/p>',
+  'start' => '-<br>\\s*(.*?)\\s*<\\/',
   'start_format' => 'H#i',
   'title' => '<p>(.*?)<br>',
   'channel_logo' => '||#add#https://www.tivu.tv/_common/images/loghi_epg/logo_##cclogo##',
