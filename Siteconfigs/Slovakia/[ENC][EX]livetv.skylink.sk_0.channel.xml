@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]livetv.skylink.sk_0">
+  <channels>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Jt5eIyf94-ba79agj8o1ZReVlDfA9wQlKeWJ17LP" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Xc8FjJcAof-SI-ZOO__yL4EnfEohvKHIT_jnK4tN" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RlmzfpINpZJElKPDNPwd4zJfxOVtygxxkOI1QWqf" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PId5fZYWVKLaTo6z0lufTlLHsWB-SGOP4o0AQ3zm" xmltv_id="TV JOJ HD">TV JOJ HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="zgKtG_SQImnuwuBXcL5yZwiEGaGCnLAJhGSX13Ed" xmltv_id="CANAL+ Action">CANAL+ Action</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="J9IfXGXCJM0wflzJR-53cvmaDBsRj6vI8zwXFrrq" xmltv_id="CANAL+ Sport">CANAL+ Sport</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="XkjnUkyL32bzs04Bk7Kh6s4sE48Y36hG15xAi9DQ" xmltv_id="Skylink 7">Skylink 7</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="h2Q0W8Gu1NTC_SMkS4yI9I1hLFteiTTXrKdxQOSf" xmltv_id="Filmbox">Filmbox</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="R1oUrl4RCBWIk9K91s6Ye5H4Gb8EW713oOXt6K0v" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="q1-IzRD8VDr4AP62rhZYA3SpxS9B6NfLzzFrqFFq" xmltv_id="RTVS 24 HD">RTVS 24 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PZon-VohtcUTLBJ9KxK0SA1QWII7e7H51YobM3o5" xmltv_id="RTVS SPORT HD">RTVS SPORT HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yvK7gk6l-6VRsklwh9EbEGuYBmL5RTPalMTG9Czp" xmltv_id="DOMA HD">DOMA HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="N__QctxPPvKAviGL_wzxAb7gPclNemCvyxfq3ENE" xmltv_id="DAJTO HD">DAJTO HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="HJpQn5zLf1UdrozI7lVpV8C_tbQyVr45Al3JJm06" xmltv_id="Markiza Krimi HD">Markiza Krimi HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xseSBVI5YpeuUwvntNUr1Wk4vSFjVEssL9OZaH4A" xmltv_id="JOJ PLUS HD">JOJ PLUS HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="poazjxuHoZrma6oO3L-ufuvzRnQtMSMzTIWc8L6e" xmltv_id="WAU HD">WAU HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yqiFOx2nt1vT3kFJk4B0xT1FsAKPVYRchWUvrScw" xmltv_id="JOJ 24 HD">JOJ 24 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ONarp12v21qrWn9kD17HkKtqvfY3jq1HGP5IqN9n" xmltv_id="TA3 HD">TA3 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ehmxqmN2hlTobbfGEcfY1Kf5xUjjV7lTiRrsRfym" xmltv_id="TV Lux HD">TV Lux HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5RunTIceJ6pFS5dhh1oeu5zYCd-rNPRsOVhGwEm6" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5dDbDpCYwJfj7UrkcWNRPDV7cnT01uAMiJZa9EXy" xmltv_id="Filmbox Premium HD">Filmbox Premium HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="M75sGY9lji57Fgyxsztjc0ke7XIa2oPiQlSKDu0k" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="dss0NUVayjffnCI273IPys9ZE-MQOdAeJfUFyvN_" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="XswLiFYhookZq49EhespAn6OVoHf9Xs-_62XKMx4" xmltv_id="CS Film">CS Film</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="UrfzDNEV7W1rPbWsX6f_sj3UVE6C2YFYCQZdxSIT" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Or2IXW2nBYx5bBT4OIJzGUd0fygyqLRXKt6bQ9op" xmltv_id="Film+ SK">Film+ SK</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="qq8lYU2BSHr18k9AjoASJtgAkiuKJ9VQHWDk-OF1" xmltv_id="Film Europe+ HD">Film Europe+ HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="YpSaIH1K8GET7PTimPhBl8Tcm8lZvouVQLrKktWa" xmltv_id="AXN CZ">AXN CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2Vz2VmVJsb69Lct6VYduatQJkq2k9O6gUWSiaROL" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xUQ4zDjX1nBRXexoZsi5KmEsnueceiU0WgVt3fhW" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="whMowNqya_r_rOkyfGIBhWKqqOKvLERFIXP57D6U" xmltv_id="AMC SK">AMC SK</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6Ae98DAJfkzVnIKj3m6QftYi-EQe5HS763kuh7jA" xmltv_id="Film Europe HD">Film Europe HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pPctKJJUOJtsgxP5kmSgMVorkyM-if6rmKxaHBBr" xmltv_id="CS Horror">CS Horror</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="XjKGAH0CO0pytcVLiGGd_wM4r3lQp0lDp0F1JfGF" xmltv_id="Film+ HD">Film+ HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="e4JuRhLwLOigss7t_6hGLfVutgpggSBawcxUZrd7" xmltv_id="STORY4 HD">STORY4 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="eHDjK5fewmsrsQFSRIEYyhlubI4qlt6Y5c_wBRg6" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="LAg_L1beaUpH8_KXzgneBARLkJ87Q2hS7sbna7fa" xmltv_id="CT 2 HD">CT 2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="iMkv3icaENSY14FdJ0owUovJmiZsUoFUQmIYkeI_" xmltv_id="Nova International">Nova International</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Pn4-V6rFB4T8o7rARC2I9SryjDP6LpwSVAsWc2_1" xmltv_id="Prima PLUS HD">Prima PLUS HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="nQ_fDZBmnG4s6GYZufJR7r83F0fshgQyxYTxVkY2" xmltv_id="CNN Prima News HD">CNN Prima News HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="GQvz_YL0733sdxyp53rLv8wgySlCkQ0lUvtuDglM" xmltv_id="CT 24 HD">CT 24 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2jClL7giyyULb0qf6t_RSAUNAO3mBbIdRFIPLxV7" xmltv_id="CT sport HD">CT sport HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="rMsuXC9Wr-X6Y_n3ERtzxc8voEtfSRSQT4cB3OaL" xmltv_id="CT :D/art HD">CT :D/art HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="787y7kzYWJVLE_F3lK65bOqRVt0iV6xNMY5cWxup" xmltv_id="Prima MAX HD">Prima MAX HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DY4MbiVL97dDhqo_IxdgKNvLz7MnvTa_ki4xZSFA" xmltv_id="Prima COOL HD">Prima COOL HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="VNioPJ3_NADMrt-v29THYgKYP-TGeXx1t520oBrj" xmltv_id="Prima Zoom HD">Prima Zoom HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="i_TVkZ4sK5Ji9170U-NkNgcGtCw-3pCiHGuxLvL2" xmltv_id="Prima KRIMI HD">Prima KRIMI HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xcy3iAO3-or93RYPy4niaqqWmSwZzzsTxpUTJfGS" xmltv_id="Prima Love HD">Prima Love HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yVcJNustL6Fdod0QPuS491JrtIgCSTcmfvvgJfL-" xmltv_id="Prima Show">Prima Show</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ilPRmYMxYS6KV1ayQM6TPIJqZOegeG5jsG1zGwjT" xmltv_id="Prima STAR">Prima STAR</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="iJN6lOzksHCEJ2iLfeC5fDsjqb7HsFRQ4v-suWoC" xmltv_id="TV Barrandov HD">TV Barrandov HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="b2HXqrfBjnOT_5GWf1wlkUSogXp5-LEsVR6adNvI" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="geEaQsSNiHQEZ9_8GRDa6qBMVkHFLmUixwBHZ2lp" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="FBzLvkHpC6xz1hJTM5_-1_xhmEkyNJNT_PJa0NCF" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="B9AW3CGEbvtpl4yfGqAdg0uF7NOjEXO3zdazQGZx" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0Hkpp2tTSM4AeemwLFsCB07dPyODCMylBCTz3M4O" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="56fefNu7R7y90cXlF76-igOa3TQm9jCsVch64uNb" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5MjHEb8yhdygc1A9xb2m8FxXdvIdnEBuyKCObcUJ" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="LfpytUGQLcW-X5Ug89rrsD-lzFDs3RTVnAu8eWTk" xmltv_id="Nat Geo HD CZ">Nat Geo HD CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="hjYhv7r11JTpwW2iEpgZtKObw0r-fgAsJuORFyee" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="BDj-lYEcymlKUwgXpkePa0sJelQZgRhrlzOxVuXi" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pxJg39iJ9MFV4kK7HMICGKe7Kh5y63qyYXyW9f5d" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ahf_HXyMiLuefJahtJ_M0etk5CDripUoyA1U8wvp" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="fPzNhGSRVwYaNpuPELdwJ2I8e6cvKGQQml_QBCpS" xmltv_id="CS Mystery">CS Mystery</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="I8lnSQRJ5XRVityjczBZVCGnhuA1opVgMELBoUCt" xmltv_id="CS History">CS History</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="8pe2nd8AassoTwKaOM4tBkdP7XAzDW7WFDxCYXSj" xmltv_id="TV Spark">TV Spark</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6Te_scR96u0V5gSQqUhqy3xY3pybVvhbMoXjYldL" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="nhL2pOF38vDzKqa5GQFMt3QK1k54kpMCTfI65Vhj" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="IxVY-54jHwZWLDv20iGvfP-N-iJ91TK8-MljUSaK" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="HYlucefQc5figqDDlDYmd0YwWn_idvgn00n6Qu-o" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="gYFXVK96iyr1HKx9P4ZEipu-IRKeEgVIFO_mtvgO" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0fZicJQubJub3G8V3yrZLyANHAjHPhjpvFx3Sf-_" xmltv_id="DOCUBOX">DOCUBOX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="qkurpqg-1I4MvV2ZgYCh7BwCOKQ2nOWiEvUmfrbq" xmltv_id="Nautical HD">Nautical HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="K_ufbr1AwomsLYLd2DiLQI3JbpHjRp6KEA4XALVP" xmltv_id="EarthxTV">EarthxTV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="9K0o7r-6wXxWV4XZ4vBNT5VCcGOt_kRR0xMVf1VA" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="EaLW1wFXbhqYS5v_xmyNFNBikih6TzeoGWfsyn-K" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="I8A9qcVjUcThJ3cijooJVhPJGZsKnlQBEl7p04cM" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Si71DQk6DpIlIhW7iIFBkib7Wj4LnTJ9iFbKuDJg" xmltv_id="INPLUS">INPLUS</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="NUjvYp4KMBE3PoIrtjet929MplMvpdFjec_6n7An" xmltv_id="tv8 HD">tv8 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7qSJK3NGxXkshH3kiDqGUN6at5GJUT8Wr0XM5IqS" xmltv_id="Hobby TV">Hobby TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PzJcWsMviNwjou8CyWgqIojfFgOAikdDBWNXe0Xq" xmltv_id="Mnam TV">Mnam TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JRjIqU98ZGSAPwlCQdje4DTgxKWkCgOD-3RBNTcN" xmltv_id="JOJ Sport HD">JOJ Sport HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="MYRh_ntXRNRJuaVthFoSfi8fBDeCq_vRBbTDGjrq" xmltv_id="Nova Sport 1 HD">Nova Sport 1 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="fhDaC3oQkDGtS6xAlZisxO6f6ESkEG7Efl8wpfqY" xmltv_id="Nova Sport 2 HD">Nova Sport 2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3MSuW8-kqyBLJV4ZzdPQxjukFaAdxTNz4-tkGl2Z" xmltv_id="Nova Sport 3 HD">Nova Sport 3 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Tg3K75xg8Jw_KzYYYiHbGic1kNb7yp1wDJU6LiSe" xmltv_id="Nova Sport 4 HD">Nova Sport 4 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Ux1UgS9P1EKZhmjWrQJ3uEkd_hZgQVpoPBuzzArI" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="A116V2J1fX6ZQsqnxSeBnA6ot5PJqzVyDFs2Z7QZ" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RFRhXcBiGj7_-i9VV7z8FjR8R5ibs5RKB94mwXco" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="LMfl2o1S7SFoHchYr9c0JCKbd3w9K3XkGci7RjBG" xmltv_id="FIGHTBOX">FIGHTBOX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="aNLD3UxMUTE4A_CKBRoLb7HB22EiAbyqnwMardEF" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3VMN7e9kw1U0EOIakrKfIpE63G8oqXG_6DMR-4Ld" xmltv_id="Arena Sport 2 HD">Arena Sport 2 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="n-rGdJpEw565eTiv05UrLZn_lwV9cPwWFjq6oFll" xmltv_id="AutoMotorSport HD">AutoMotorSport HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="BJyqO1hjcE-_9y_juVH4b1DuxPAegFouNuHgOzSW" xmltv_id="CANAL+ Sport 2">CANAL+ Sport 2</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vTXTLoHBurD7Iky78MIf6Pf-wmuco7CzraC2lLqh" xmltv_id="CANAL+ Sport 3">CANAL+ Sport 3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Fgy4pEE2Vw3K8xex32txHfo-xoD3c7NGJc3i1xZN" xmltv_id="CANAL+ Sport 4">CANAL+ Sport 4</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6Q3fMi2DDKuhsR_dxJTaSbWBRObJ3A_tiU8IcNyR" xmltv_id="CANAL+ Sport 5">CANAL+ Sport 5</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="aHamKCfg4W0jZhnwaRlzkPfGGEF1ALpmRGZ0vfbD" xmltv_id="CANAL+ Sport 6">CANAL+ Sport 6</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="tj7jqqG2ezZy3S9sCrtCorBINaNVPWX6HjW9Wbls" xmltv_id="CANAL+ Sport 2 TEST">CANAL+ Sport 2 TEST</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="gghsfFYyH6k76HGBE8LkrDDdbuagtc3hb6KCDjvY" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="I7pkoeQ8QlkWCMWwkcFM40_vTTYwRWmKa8rWMmAl" xmltv_id="Jojko">Jojko</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="EMiy-d26phSzQOkCw9n3bCzYVgM8rR8WnZXGzFaB" xmltv_id="JimJam CZ">JimJam CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RwUo7XpUgl3QOx5OFInh3I4cL5SRf1d9OUKEsAnT" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Hrx3xChf3jgeIuA78wQZiVIywjrZIwT3ZbWNntjH" xmltv_id="ducktv">ducktv</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="nLXHAUXpmep8G_rhosyMRLxXAdvuTnfLdYbrxs6v" xmltv_id="Nickelodeon CZ">Nickelodeon CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="y4JKMfIUX20_wVbUMSaxtRHh2lQCHwvhSBsp0MLh" xmltv_id="Nick Jr Czech">Nick Jr Czech</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="65jWbiuG1LuL5ygmP2Hm9KAQMthC-hAmXcBbsf6t" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="QcjQ1T1LYOP_uky7CIhe6yQoodiH90BdQPJ7M4y2" xmltv_id="LALA TV">LALA TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="GLV8IfGWRRC13eFsjvfKJyBlxdUEwfTPbX2uJm3H" xmltv_id="Disney CZ">Disney CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="eFtb8qAlFzAqLMVrkOugoNzP2kUDV3qxU9WjTMTO" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="IREWiwBK5ziwh2zQRn1OZJ9FDODt8btfB0uuXnVO" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="lx0FN9A_KVIVEolqyR65aRh3VsrGh3UvwvdjgMdd" xmltv_id="Retro Music TV">Retro Music TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="XN1k3rNjyp4Dytkq7LRq8sQR9XlXHDPE_gxczRJq" xmltv_id="Slager Original">Slager Original</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="poCoXCrbp5ydQylwSin4Vl-Bnie_szWXQWikI8Z9" xmltv_id="Slager Muzika">Slager Muzika</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xBOSmfGCowrLzS-0pdXxt_ywT0EbSbAu7FNKfEaJ" xmltv_id="Slagr Premium HD">Slagr Premium HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="-OJquD4-2Uy-jgb9ukJM9bjtixUle8qiPddLxYOS" xmltv_id="Senzi">Senzi</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="IQh5-CQssaqJdishLfA0XMYITN2DPrsBv3tjFtt_" xmltv_id="RELAX">RELAX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jYZN6FfHJXAGhbgiTcrfgXFUPaZbUvkuIKgAHbXk" xmltv_id="OCKO">OCKO</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Q-rDCjC6ITWDtfSRoZqq50sPsCXlgeyE6ivy0Frb" xmltv_id="OCKO STAR">OCKO STAR</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="fihFodygJCOhuXOXvVoXntW565KjvZ5H3YRBfl38" xmltv_id="Ocko Black HD">Ocko Black HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="zolnIsTHJy7ZoRLgEInTDgfHNrQ7nBhDM0Roafg-" xmltv_id="Ocko Expres HD">Ocko Expres HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="nLngOUSfAe7Bsfqf-STSwNfzWVxN3wlULNEqWVaQ" xmltv_id="MTV Europe CZ">MTV Europe CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Mpw70GftHQ_H60VOCrbNThnMkX07uVwp9a3re83Y" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pbdVif7JUO7YVFvU-YzEIgFIwKNSHb5lMctKzNLy" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4rkksXpfK4KyWQTRtZybEIWlFDdKF4T04w7IygvD" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="iZuANsI3A5zJWCHq7oz_bUDR2nhgBh6-nGbhf9oS" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="GdpL5nMyk1NcLfU261_aXM6dGibHCl1OLgyx9544" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5LrWFTh6CfNZZqTBbahLJygcoRvAjCAGDe1LzA8X" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jEkhpxs2Pb2h5a8Cvy0wc5vwh8LOWKjvqyQFqeeV" xmltv_id="Noe TV">Noe TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="SJFcZL4A2DlPctmitwoLmecxnFDWA1XCn9L4zmff" xmltv_id="A11">A11</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="iZ3muNylWUw2Ky-XBrIDprJ2s40ZJEHou5VLN5-U" xmltv_id="M1 HD">M1 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="95ei-8MG6aq5icX3flNE-2jCQuIsIcafSkXnvbmn" xmltv_id="M2 / Petofi HD">M2 / Petofi HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JMiSx2VW72mA3CElsIHx6oo4eze4X-SvPYM533uH" xmltv_id="M4 HD">M4 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="s7y3KGMM1yQgrfqx_WiLlqKnvoesi3FKMnXk8Nok" xmltv_id="M5 HD">M5 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="BADXm3iL7_sXrEXItFuNhYyCUl-aYUAJStl8AexP" xmltv_id="Duna HD">Duna HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7wsE7ZXxh5EKTosSb_yEEUK2mmxkl3gVDdp5C4yb" xmltv_id="Duna World / M4 Sport+">Duna World / M4 Sport+</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="shCQF5aCfhIKFJLFHompqrIpTdBZh7Ie5pEV4NrS" xmltv_id="Hir TV">Hir TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ffb_gbNygJiOv45yvAxD3lPt5GUG3Y2HDaijFArx" xmltv_id="RTL GOLD">RTL GOLD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="F8qDptLUWX1QfccfNLlu_JM5_bmm_CNresi2pbVt" xmltv_id="RTL HD">RTL HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Zg9940CAGs6U7wazvUjByvtHJchaFKRrXheGHbmm" xmltv_id="RTL KETTO HD">RTL KETTO HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="YpA0yjjgroJtmQqBPv5reoMLMDy1aDvu8yWEwEzC" xmltv_id="RTL HAROM">RTL HAROM</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Ua2J0asOIwjAmG0nui-2Y_6LO6WwzQPU82yE_atw" xmltv_id="TV2">TV2</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2PoJ0aUr4NRS8kWbA5kPZujNc_0GbdwZpmfvAfRw" xmltv_id="SuperTV2">SuperTV2</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ey1DtjYfijwjpLtX18QOzkD8h_Pq8ASbPEc58Qgl" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JogXlbKhwuYSFNzYL8DM4pZ2rfp46V4W9mKU1ZjJ" xmltv_id="STORY4 HU">STORY4 HU</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Q2Ad_C8Ov7lXz6u-aDxBlgq20ZhCI5JhzY2MrRNf" xmltv_id="Cool">Cool</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6A1p-AGDKWyFbpmvW19bXdqJg0I9NgYumBE6R8bs" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="X7ivIo0uf7g4csQBwZeE05abPQtBysPtYw7111_c" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="R2mDwBHz5EL33aTEGn4kYM1xdI0_mIILfO2WdFqW" xmltv_id="Prime HU">Prime HU</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="CDdSfPak0RGVlQrEh8KvZYVxAZ6kbPfpEUUsyPa0" xmltv_id="Mozi+">Mozi+</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="WszcDrocQ7FC5TXnEu439DNGkQgvRB5yLbXhK29c" xmltv_id="Comedy Central Hungary">Comedy Central Hungary</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2wb9-3QtSsycCdOn98LM2JPnJg7bzt96SyDw5Zrw" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="02CnCK_xa9WcjTRWBXa-jjKzGwRIEhFKrl7gshv8" xmltv_id="Film+ HD Hungary">Film+ HD Hungary</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="aDdg_PPnqyTlccNjfNTJguZLMlY-hboCmMdGW0X9" xmltv_id="Galaxy4">Galaxy4</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2DjlZdLzYVjjVgNNiTj_VWG0Y9xwVImvVn1EgrBb" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="1-gvWGX6IGlVCJPnrTQMt3iz9qSMScR40mnGhQaC" xmltv_id="Fem3">Fem3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="zq8sNx7rleXX3OChfYf96xKvaMJSFWti5xQLdv6_" xmltv_id="Izaura TV">Izaura TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6VslFuEf1UPCwDvDddag4ulAgS8kSStlMH2LyWWa" xmltv_id="Nick Jr Hungary">Nick Jr Hungary</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="mCu8lItqGd-GFVGO0I7E-njFzPjtOoIN3RcrI628" xmltv_id="Nickelodeon Hungary">Nickelodeon Hungary</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JD8qQ328piawOfwzLK9DrAUSg1-IVvb_GtF3mKBH" xmltv_id="Slager TV">Slager TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="r_MbxGlu77sos-M9HVDIPIVTmg9B04uhLDYByuK5" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="kyvWUGeS1ae6m63EITs91gRtmgOEgc9EaAk4pjJP" xmltv_id="Zenebutik">Zenebutik</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J" xmltv_id="France 24 (in English)">France 24 (in English)</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pLc_sUAEjCLGec9lGnQro8_y1DRGul41pedm_5mS" xmltv_id="(18+) Leo TV (22-06)">(18+) Leo TV (22-06)</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="GuWcT5XzyK01Z74TLsufoJ0VThHsJ_K9S6eG8XEg" xmltv_id="(18+) VIXEN HD">(18+) VIXEN HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DTD8LiXfcVtMIqgSS18M32_YtWl0YTQD3uomKgBK" xmltv_id="(18+) Penthouse Gold">(18+) Penthouse Gold</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pngSNS57KTaFRE2F-Hb9umtTahWrw4uD_bBDvkKt" xmltv_id="(18+) Playboy TV HD">(18+) Playboy TV HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Z-LKyk15pbRE6FY-85ZDNKN1iWRTiFgFYM9h5OKC" xmltv_id="(18+) Dorcel TV HD">(18+) Dorcel TV HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="gHAHFGNC5jmwpoEOLu5_bMByh42LbSPScZ0Jesje" xmltv_id="(18+) Dorcel XXX">(18+) Dorcel XXX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="LppV5VNv-_xc9kMKBA86imA_-vLCecdiZr3MIEyU" xmltv_id="(18+) Vivid CZ">(18+) Vivid CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="uzzOPjn9-HFO22_9TIFik_kYR33hCvPGAG-X04lw" xmltv_id="(18+) Hustler TV CZ">(18+) Hustler TV CZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="EJ36j0BZYut3aFuZuXEVu3gmbJ5xhtlBnjy_mH-h" xmltv_id="(18+) Penthouse Reality TV">(18+) Penthouse Reality TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="bRGs0D7A5-JzLfZP7P-kv0cHduoz4xi8M2zae5-Q" xmltv_id="(18+) Man-X (00-06)">(18+) Man-X (00-06)</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="rdnZQ_3VDQPxOmd6WUQwCRh7TXo8fakVZQGhIvxH" xmltv_id="CANAL+ Sport (CZ)">CANAL+ Sport (CZ)</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pcnqlSTDkypffsSdJ-HhLkbqsAXePg9NgX6zn2_X" xmltv_id="CT 1 JM HD">CT 1 JM HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0N_IHClF7cAuVHh3WyKgoYuqr0KuqBPW4EzRNpuu" xmltv_id="CT 1 SM HD">CT 1 SM HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="E40iP10gDtOvpgAqF7zdYOQYw4corxNsh-UrUi7S" xmltv_id="CT 1 JZC HD">CT 1 JZC HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7ETt_NFV4Q9mELs2aOGJH4nwVBdugdIEcl41wzTx" xmltv_id="CT 1 SVC HD">CT 1 SVC HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="flMXbPjFjxi4vmmW0M74kAvI0bQCkjN_IhDl6lUT" xmltv_id="Prima HD">Prima HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="GIWXWJ8Db1hIe69rCijH8KFxK87NB2hG0vZXFopm" xmltv_id="Nova HD">Nova HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pFWu-Y8Bu5LwZxmE_HK8w2D8g9WKQGBDQlnNLl4L" xmltv_id="Nova Cinema HD">Nova Cinema HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="-9sKa_OO31Zbi4mDGaMlTwh3_FOxHSXAuLYgYXVy" xmltv_id="Nova Action HD">Nova Action HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="QFQ4C0NZEBUwthna4GAAzS6YqlbNUAUpf7LknU_a" xmltv_id="Nova Gold">Nova Gold</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="N4mhwkoIMv4gkyi7ognMovK6LfJ26y6fC2Z1w0YM" xmltv_id="Nova Fun HD">Nova Fun HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="nY_L6rGGhnQ8GDv5cPH-YBwBghernXg2axBDazYB" xmltv_id="Nova Lady">Nova Lady</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="M_3f2VPSS8rsm_cTUC4KhV-SQSPmrYxneafLxZMl" xmltv_id="Markiza International">Markiza International</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="V3bEZGgZCY9v8tajK4tKYEdUBGE-t4xV-100GrHg" xmltv_id="JOJ Family HD">JOJ Family HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="owf7uLkzCRWRyDphSdO7eXjeWhgSijsa8mWXR7eN" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="kKDMeBHwwT3H_w4Jlh1UaDHahnV5U3S4YfIy0Ejd" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="sRYgIqXBSAsxGYPqq3iaa55NIvKBULfIQd-1wIEt" xmltv_id="RTL Television">RTL Television</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="AUtjZVdEewEEbOsunzitWSar4aQyWkDA-WSiNTdc" xmltv_id="RTL Super">RTL Super</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="46gQICNiun84mlPOkRcYvm-LBOD7I-1GGyK78sNY" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="8AHYwENwHkek-OMOTPdxlMrL0JBsxoJbumtMjFnV" xmltv_id="SAT.1 Gold Osterreich">SAT.1 Gold Osterreich</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="SuHkMD67eYUKopLXJdaCES5yCKMqJFdPA8JDnPok" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="A7akpVMa8EsDexVjQKDHeElsYxXB1_D7txT69yLH" xmltv_id="ProSieben MAXX Austria">ProSieben MAXX Austria</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="r6U2phvOi9OYnpCdNQtiAlpKQ24ey956BkiTXaPo" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="V8ycBSF2Ek4KiJi6fS1VQNDH6LcDseEL-sq1jN5W" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="-VmzDgzMjKZqMq7_ijo5MkUxUOe3dZV1BwroqpaN" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vE6LG8TP-4Qity13kIxWzTkbPJDIjjb0BuI2WIdL" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh" xmltv_id="sport1">sport1</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ryG_N0MRR_I730q07jRHv2Rrwl6r0Qjz_pOg_RGG" xmltv_id="Eurosport 1 Deutschland">Eurosport 1 Deutschland</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="UurnAERgsmTp4v-YnPueI79MEJzpWXYi6ZCshYH2" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_7mRsdcS4HA6zvrI8HkascL_fTH5o0kINPMLlzhM" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="KU_1m3GhDiBK-LF5st2JdbeGPtMdG8_XaKXcALz-" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="EyJ2oYot6GY_dPOH-2IJuWkLrS0rnRqiSCcSdNic" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms" xmltv_id="Servus TV HD Deutschland">Servus TV HD Deutschland</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3NfHXwLpWRSjrPcKTZoMuBq6SzpnvvE503ZWZArn" xmltv_id="SWR BW HD">SWR BW HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="WJSkawE78DH8Km1RZwEZFr-9hJ8S11YrgRl9ea3d" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="1UEYSDN8f4K10YM61V-F_rWv6L9_kVnY1xztISp2" xmltv_id="TELE 5">TELE 5</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="laj_qLmppmQdtii9I_mtkwLIVGe_2pRGyqcfzKaK" xmltv_id="TOGGO plus">TOGGO plus</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PLaxa_XqbXRMIaS0J9--yoQI5KrIu0nSql_tE3dw" xmltv_id="BR Nord HD">BR Nord HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2K8T8TYa8xbVSpgGLSDqTHB-BxrWYw4r9Yd79-wL" xmltv_id="MDR Sachsen HD">MDR Sachsen HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="NwoV0A7CRAmTccdPoWwt7bpmbN981rdWq_5wEBp4" xmltv_id="NDR FS HH HD">NDR FS HH HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="dLoS4rjAJ1kmZxY1tQs9TQR3GbyPnKwmmncvro4s" xmltv_id="WDR HD Koln">WDR HD Koln</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Qe70pPV8tEPQ54w_0j1jWgzow8xyMFIyrohVleq-" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="M-lfnG-iQ3UQ4_UXR7p2hGyUE63r70IMRFIegwMy" xmltv_id="RBB Berlin HD">RBB Berlin HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0ZAi5RvqNu8QCR7NLHSrnHivAaORQZMT4my4hccD" xmltv_id="zdf_neo HD">zdf_neo HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="CSGKliRXOms6lsxLKX16R_Zijbb6xABcSo-ReWMH" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2c8VBmQkjxPT7fo0ZJSyVrPTfm5I5fOroDlPL8JF" xmltv_id="Tagesschau 24 HD">Tagesschau 24 HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="9x2Y-reSWJnCYXAd9c1CO-AeSgWypvJycWs2n4Iu" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="A_kUN_sEspE3TS-6X6lX-KKxUDZAGxVlXfm_LFz8" xmltv_id="ONE HD">ONE HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="UkL0JlXceD33uUGULv6k0rlqMwYzELkqrlWPKaFW" xmltv_id="N24 DOKU">N24 DOKU</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="lXBqOT3PILwwnKsVEHATHY_1Ip3v5BgRYnIKgPCa" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5PdzSrjXPYwJlKgeCo1Ck-CFstw4d2_wUB4nElEw" xmltv_id="Arte HD">Arte HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="t2gUWKg12X4-Zc3TLtsFIMtJnvR7p4HSFNFAR-su" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="qrWWPTElzXesaBYXp4Hcea1rQXXimaAQzxkUIYLT" xmltv_id="R9 Osterreich HD">R9 Osterreich HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2LqHamUbqm7-LNSgiW7Y967QmIcKrPKhi8DUuiex" xmltv_id="Regio TV">Regio TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="qQg31jZDXfLiJrN1naKBa5JNwkNDmHKOWebXBDQ9" xmltv_id="rhein main tv">rhein main tv</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0bKSq1fiMBf5yOupWzoLhBBdeA0e3VYYwUlNSKTc" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ybxBk6aDdP4DErwrRzvfRvF4PCm3xBC2XEw9rhLU" xmltv_id="NITRO">NITRO</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="NPkUlG_PBqxC_yrDAaH-H5EuN5ANc7J-6Kn4Z__d" xmltv_id="TLC Deutschland">TLC Deutschland</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="rpEr0ml-G1HtdWJvof7YuqVOlp1IgwuvQveHyF5k" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="H8rrGqLz4X-cYnLvZzND_rIEsisSRmNk9jR5PeNC" xmltv_id="TV1 OOE">TV1 OOE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="snxwx5OVJN3iWy2UW5H6VKFaLznEUBBr2T5mI9YL" xmltv_id="NICK/MTV+">NICK/MTV+</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="u8uQ2ZQih0D5WgGUA0SxoMsRL2HxFhYexFNpQmOJ" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Qg5nNBaT3bQjkukjDSzzZPIFjx56g1x1kkXOUfQV" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="FQ0tefhDRbWGKV5REhbZWhgq8seN4CkC5GnEYuV6" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="L2AqhR9OoKu-QSr3nMhtn3UL8lfiAJateorj5r1i" xmltv_id="Deluxe Flashback">Deluxe Flashback</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6PdqtrVAsUlsu69M5Qm8TD_MY09s_0lAkBXUXMpo" xmltv_id="Deluxe Rock">Deluxe Rock</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="I4SBehRwCt3SNDfts_HXgFn_If1JIhU_1trQR-9a" xmltv_id="Deluxe Dance">Deluxe Dance</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xCGu-gc_Igh-q2hCL43KGUBlfs__2sL0wPqa-haF" xmltv_id="Deluxe Rap">Deluxe Rap</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jYULoraJwPV0iySb3cAQ-qTRBOOSQGbNKA16d6T0" xmltv_id="MTV Germany">MTV Germany</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RoN12oqBxKeL1dCMnwlTfGMl2aacuEyEYZ_cXx0Z" xmltv_id="Stimmungsgarten TV">Stimmungsgarten TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="AU2BHG3XNUjZKHn4odeDrbV8YTMpegZZaM6oQ-7L" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="dOCnH842qiQdDaIHvgebzfkjHw2p84WxQEr8gcpA" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DVAwom6GjVwd0duLhy-DEv0fLFpG13gxJKtwchZL" xmltv_id="Volkmusic TV">Volkmusic TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="lMsSMsPGJVICwZAxNdrd4ej5o2t39Yoz00U0ClXI" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="M7Xv6_N9CDQHvVP0aJKDHOuJCResQZjTIg-pigWP" xmltv_id="Newsmax HD">Newsmax HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7C23WBA4SKmWqZoQm06_ZxRMRm0ST1qaNg0x8DKh" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_lYAaFXuigO2Y41jJaV70v5dh7TOpWcsg3tdVRIh" xmltv_id="CNN Int.">CNN Int.</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_RVw6L7EBUIG4-BSuxzlB83DJiST2r2Lz5Ag1hVO" xmltv_id="Sky News Intl">Sky News Intl</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="w2Ne8-SdZtBTSLlYGKqAq-U9dF09Mjj4Pjorp0pk" xmltv_id="Euronews German">Euronews German</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Ynvt2y3Wk-Oz_C7kyM08G9XjMkow2S7piyD1qN-6" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ScpRb8XIPLd0ppqBdh5OdfbhIYJC1awm1t6y3UWd" xmltv_id="France 24 (en Francais)">France 24 (en Francais)</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="0weAVatUaBKJEQyPUOfSvgGew0w8zTqxqAO_Vbks" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DovKbTuHC3SMwe-_h_nRDzHUs8Vvi2k44QNXi9fv" xmltv_id="Welt">Welt</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="veE2L-Ar3ZuXcfCFf1lw2MWsN7V_SjCcq-GSHAMl" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ga9ElpoNTrH8tW7PN9f9NT0F06S-6RKciPdP51oY" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="A69m1QkpyY31wbRWK557O3oCgAZFrorAmJlHjnRE" xmltv_id="i24 News Francais">i24 News Francais</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="wznQYuA4i4QzcCLi8ajragqv-Dd3Dal5g3OdB6zg" xmltv_id="CNEWS HD">CNEWS HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="8MDYXh0R-mR8NDkw13ivXDlMNkXFEGaOjY6vR-K7" xmltv_id="LCP HD">LCP HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jo6muwfrJiEjZNPZ6FwAJ9kzqTS-7NDpQCa1PTAJ" xmltv_id="CNBC Europe HD">CNBC Europe HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_Ky4fAmLqafF2o5ZbZwwPb0GqRtMGPzO3lXBM_Vd" xmltv_id="Bloomberg Europe TV">Bloomberg Europe TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="w1dmJY5C4gd4VhZXKpbQs1ipdkAplXxJZ_fQlS-6" xmltv_id="CGTN Documentary HD">CGTN Documentary HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="8pD15azeShSIerMOtmVqZPi8Wi4tz6dPJ1O568Bz" xmltv_id="CGTN Francais HD">CGTN Francais HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="OUQUDyeLbrI6I61y5GHPhjpMLCHxLrbGchiEWSGN" xmltv_id="TV5MONDE Europe HD">TV5MONDE Europe HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="T2sybNh_3KFJkPY-Vop378j6rTt895PjXNRC4wPw" xmltv_id="phoenix HD">phoenix HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="av01X64DxeEU-wNJ6cOh9EQQak7V0RvqxTrCz1B_" xmltv_id="DW English">DW English</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yg8zPRxnVsLBnJziwsA6S-pwHquA59px7sTSEMqx" xmltv_id="ARAGON TV">ARAGON TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="F6l2gMnLu3OwLz325PULK0l0HJW-fyRFNsujrZ_-" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="oTuWj7Dz80IV7BH-2U4PgCaN9Ehx66UkS5MVBv8a" xmltv_id="Canal Sur Andalucia">Canal Sur Andalucia</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="le0F86OFFnrwK7dIrKUgeB-JpoPLprnzjX8mRYdV" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="WkTgDlno22VxkuoOC-rXBnOOnf-lFhBRIK1SFXXk" xmltv_id="Current Time TV">Current Time TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3rRJV2EM7lxDBcA534jRuGKbIU04rr-MCtf99b64" xmltv_id="Cubavision Internacional">Cubavision Internacional</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4Pz_aq3M78aYqoCSv3qvgmLfICLwPJqLlE9PTIu0" xmltv_id="TV Galicia HD">TV Galicia HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jUlIlq50WqPpdh2NENfgUy8wh34ZUxzG4gauji5A" xmltv_id="Canal Algerie">Canal Algerie</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="OsaUZXLmY0Ag-SAbobW4AwRb1L_M3e6p96JuevY_" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ERRhGDA7jBpQZh9ac4BTZEjfAhIFx_AqHwrn1NZM" xmltv_id="Sonlife Broadcasting Network">Sonlife Broadcasting Network</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="9ipnH4rf6VWEDIovn7oJvTNoOZK9tYAJH75hydfL" xmltv_id="EWTN katholisches TV">EWTN katholisches TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="-CRxFNAzevHK1Z5OX5-1VIB6ABK2EyNFeq3pzE1A" xmltv_id="K-TV Fernsehen">K-TV Fernsehen</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="FMD9L1_Ku-QtAvjyR45WNAg7VNDrE0ghBOEkEXTq" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="t3URxZhElgVWJppCZOtOfBW_xe2aka-0GauV6hWa" xmltv_id="Pershiy Ukraine">Pershiy Ukraine</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="cRJ0zGgcj-PnOxkUKh_KBf0EUyJykB9jmybHBbT0" xmltv_id="Malyatko TV">Malyatko TV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="sY3uRK-8rLw2tphT6uvZicJ1Z7kvxUhbmbWi0Bb-" xmltv_id="QVC UHD">QVC UHD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PMsMtrmBObglAjeoZUbi5V2FQNmsuR91EXnhHP2l" xmltv_id="QVC2 UHD">QVC2 UHD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Uvez7kCF9q5-Gh-grdv9OrIZMyRTZaBfG8Oz9Lnt" xmltv_id="UHD1 by ASTRA">UHD1 by ASTRA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="AhHch1biiFXAZVXWKxcqu6i4LEMitdQUE9LsPZI5" xmltv_id="SES UHD Demo">SES UHD Demo</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="b9ZKJKYEeqiHMpmeO45uD_DIoP58uLohpKgZ3OrK" xmltv_id="Love Nature 4k">Love Nature 4k</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jC4ASBdOy-5Sbpisl9UUdTGtIAERr4wrNM_LcIll" xmltv_id="NASA 4K">NASA 4K</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yOdcWSVn9o53zfmrk-jWte1qq4WI2OI1fO2q48K8" xmltv_id="Fashion 4K">Fashion 4K</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3Nn6RoSbOmiIMfEeeFM7Rkgu2q-bzVZkhW3_XWxA" xmltv_id="OTA Cam 701 Download">OTA Cam 701 Download</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="utJL1HmxjcXKv94QcVg8EhxGVZEvOlLkFeMLE-cc" xmltv_id="RADIO VLNA">RADIO VLNA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="RY8VPTDXDiZwkpw0eSw4pInA0zR8ZtUqzU194Vh6" xmltv_id="Slovensko">Slovensko</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="XYOjcRm702zWEzfPzPWFdLoTRe4FnKEzLPQuKKw9" xmltv_id="ReginaBA">ReginaBA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4iYm7NbtO5612uT9fWye9f1F50DbwlIejkTfehYw" xmltv_id="ReginaBB">ReginaBB</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6xauWXQPm7-ZTPmn-GhG4Ed6nPmnJUFeIZV7zDLU" xmltv_id="ReginaKE">ReginaKE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="VXVyzJJWrh-mdNe9oAIflTCuRysNRH1xRf1dGdap" xmltv_id="Devin">Devin</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="FcK844-dfl6xI2lougQEY6cKNHg6vPrmdLh4Dj0W" xmltv_id="Radio_FM">Radio_FM</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="omC4IPbc-ZJHIIVxcmwMsY7YxUb0OvVYgH-wR8mR" xmltv_id="Melody Z">Melody Z</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7Y5-mY3sqsfR1DN2rjB8f1T42WYb5b5gw9kuAEnm" xmltv_id="Melody S">Melody S</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="iIX18GVNtUjfNy7L1xLk5-RMzXVldb-66s-iZA49" xmltv_id="Melody V">Melody V</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pB1i1Vv8N-sKhV3y6is8E7EGULmgErPrtwpkbUdO" xmltv_id="Expres Z">Expres Z</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="svR0BF5j7pEo8EvWclgc2ehCpVy0AB2c6OEa3V7z" xmltv_id="Radio Lumen">Radio Lumen</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="QIiCGyc0FN6f8tiJ9j_ArrG0yLMrplTpygx91yis" xmltv_id="Junior">Junior</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="TavZRyueMXiEfJPROQpTiE13bHNZNahWT25G6S7i" xmltv_id="Litera">Litera</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ocU2FViEdCunka7r5B0ZkXoRvwD12f-nGjHe7Kgo" xmltv_id="Slovakia">Slovakia</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="3YpgipfdvCaQu-B8LPIUl9Df4mLQ8rcb75Zcl7TC" xmltv_id="PatriaFM">PatriaFM</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JH1gexReNfVBdEU-LKliV5b7LD-rDKCIYN_eakkY" xmltv_id="PatriaRD">PatriaRD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="J0bFckVsGasqaeYCkjX0GR7ozNO3cQGQxO_IMGP9" xmltv_id="Europa 2 S">Europa 2 S</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_h1dcn6Bt5I0Tl8FzZEHqWnqENbV8ERR8Ix-xIrw" xmltv_id="Europa 2 V">Europa 2 V</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="syD1OLNwr4HiztB19t97MmLTBd_JXDclNICECQ1z" xmltv_id="Fun Radio Z">Fun Radio Z</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2sgvPOUD29TXilEZ0Xh0BgxDJdib7IAG5yhousSN" xmltv_id="Fun Radio S">Fun Radio S</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="pCbPiu0JSz-nKjjTFpfUXer-KKjPtHmy-v9BPm89" xmltv_id="Fun Radio V">Fun Radio V</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="-AnYgQw2J9kJ-hXHY5wKJ-YoChnXrTl3EJpM0wXv" xmltv_id="CRo Radiozurnal">CRo Radiozurnal</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="JbY4bUtfgPIi3RaPR8xv8RNwVEK_4B7KkNGgU5pv" xmltv_id="CRo DVOJKA">CRo DVOJKA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="MkNV75WF-tYqvyqxJ1Nb7CSKUiv5-ZXV1n0COPCS" xmltv_id="CRo VLTAVA">CRo VLTAVA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="shujnUXB1v_SvfYAk7liSIrKLmUHlASMURAPsIcU" xmltv_id="CRo PLUS">CRo PLUS</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="fswvscwIp8vLBDtYh75NN4FTM5VeCDhrCB3_VxsX" xmltv_id="CRo RADIO WAVE">CRo RADIO WAVE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="78eyXZLWS9avPYJAGeuT7g6Wqi-po3M93HZ0sTzS" xmltv_id="CRo RADIO JUNIOR">CRo RADIO JUNIOR</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="QbGa8f4dgHcNuTScY0jSAuzetEC4_zzj0jJt9X_q" xmltv_id="CRo D-DUR">CRo D-DUR</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="w9b0wm6zbbpx9gXlOFeaMW6ByDkkemX9X_2e7N2O" xmltv_id="CRo JAZZ">CRo JAZZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="t2wZLHOQTLEJTHYjNERBqyq7vr8UJJ2RCs_M-ylW" xmltv_id="CRo RADIO PRAHA">CRo RADIO PRAHA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="fswvscwIp8vLBDtYh75NN4FTM5VeCDhrCB3_VxsX" xmltv_id="CRo REGION">CRo REGION</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="jet29q27wYiiWV2r7JexwI8Rw_12QPoj0CiYwzJO" xmltv_id="CRo RADIO PRAGUE Int">CRo RADIO PRAGUE Int</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="hgehAEoSUYeG58xdQRssCn0UVsFBqgNfhtWh95eh" xmltv_id="CRo BRNO">CRo BRNO</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="_WemsQR2QdY1wmSwgke6C8-UN_4odCoexOov8YFh" xmltv_id="CRo C.BUDEJOVICE">CRo C.BUDEJOVICE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="goP9n3FwNCQWKWHr6-mMdHE8ZCcXoCZugoo9Hqin" xmltv_id="CRo H.KRALOVE">CRo H.KRALOVE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vxFWvidsvsRKgT8zb_R8c5H8r_q059NK1mogKRdF" xmltv_id="CRo KARLOVY VARY">CRo KARLOVY VARY</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="OddpowJlDaO7KBOtF3mr422wi3s6zJ0_6qDdyF-_" xmltv_id="CRo LIBEREC">CRo LIBEREC</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="bmp8u6yQpzmgtZ12Xn1Vkd-f7JOloNDxM94bMfge" xmltv_id="CRo VYSOCINA">CRo VYSOCINA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="mRrCIgsnS2XeE8nt3r9O08N3H0jiNzwDaSNsYENO" xmltv_id="CRo PARDUBICE">CRo PARDUBICE</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PHVP4Zx5LbQGYngB5KCLFubvgXqCTyNtE7gTshGW" xmltv_id="CRo PLZEN">CRo PLZEN</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="gW3oetp78pyDBG0p54-N3CK4mtZZKob6xCq06uoY" xmltv_id="CRo OLOMOUC">CRo OLOMOUC</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="20OXD3KvxtBCbGT-Dpc13-KsENaeYxOB2eQDG-1-" xmltv_id="CRo OSTRAVA">CRo OSTRAVA</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="zYgeAhhQcWBxlGOmTxos7QnEEjoLhQNBHGXKwRuq" xmltv_id="CRo SEVER">CRo SEVER</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="TyzJhJaGy4bZYel-bznsXpSgmLBDYgQqvyo2MLS-" xmltv_id="CRo ZLIN">CRo ZLIN</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="k1isplWdIVkpVOqSsdjBnONKcTRbPYs9knHu5I8R" xmltv_id="BEAT JM">BEAT JM</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4NtsYrFlm5et4WCuD60-JWnvb6W7OwI33Tzj_2NM" xmltv_id="BEAT JZ">BEAT JZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="mpaQeqdmpSLif5c_1ZpdBqvHP3gZeBffxLDMK_Ui" xmltv_id="BEAT SM">BEAT SM</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="Q0r-LrhDOulDQ_nDt8EoAYKYLyVb7KZlA-YWoKvD" xmltv_id="BEAT SV">BEAT SV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="mgj8zCrS4cZTfwGdThSj9zs2ov2O5k_CKP7ZlPYs" xmltv_id="Radio Beat">Radio Beat</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="xTbXhF4XtjjuC3K-S7rWKV4fEkjJoU4BxRxdpK3q" xmltv_id="COUNTRY RADIO">COUNTRY RADIO</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="NifCLBSqkyKzmdwELhJkIU6PmjXI83IcZrZFqPgm" xmltv_id="COUNTRY JZ">COUNTRY JZ</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="8qij6xhZXbIL7v8iLbOYtaX4pKYeolcoGntYXwFB" xmltv_id="COUNTRY SV">COUNTRY SV</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="wae_rMSlqMBNqoyHobCelm7CQJbp0amUJOQvBzSO" xmltv_id="Proglas">Proglas</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="2rBd---mjCdQmpx1V-emL_IpQz_339XwWq-lPwXZ" xmltv_id="Pyramida">Pyramida</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="yvkfY22M5Vy5aIaprZGm6sny7yjNbvMxgZ6CljYy" xmltv_id="PROSTOR">PROSTOR</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7mZM3dFV3xT2P99thPns2cTy7YJEGrMby0F2ZL8m" xmltv_id="OE1">OE1</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="lnBN7N2yjB8hO1C1IY5SzrgAaqAWCAf-ilZIf2IQ" xmltv_id="OE1 DD">OE1 DD</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="wc1tJm8cVEFBQlzbpGTbtjcFjCaM6boyW7A4ilyA" xmltv_id="OE2B">OE2B</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="9K1CQcUJNmJCO3-NtPYDtxNkku5CwGUbeOud-Eif" xmltv_id="OE2K">OE2K</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5VVmqAqllPp8DIJJ4j-Z_r10lbmli-P8FkNO_ND_" xmltv_id="OE2N">OE2N</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DtkRgkB9MJrjmI8NJ09zzLbRwB5DS6pdlw3Cf1md" xmltv_id="OE2O">OE2O</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="7Rv3x0LvpucqAaTKPCODYnafxwrQUst0tsfICqZr" xmltv_id="OE2S">OE2S</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="5GMA19j0K6znADeho5DGjamlHWJG6ahVrBE5qIjC" xmltv_id="OE2ST">OE2ST</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DDDgLoKb1R6SSL3JNApp0rPKC6KktZACBuFfJkaE" xmltv_id="OE2T">OE2T</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="R8ogQ7bqWGoEOgVY1B15rM3ljfHAVZcaEaqJSE8Q" xmltv_id="OE2V">OE2V</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="aKxnlI4Ef8bNyiFBWWi2vt8jlAPTMtdiMA2B8rkQ" xmltv_id="OE2W">OE2W</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="G0L2vd0cd_jRtZ-JvXcFBkwkv_CpPgCBMBfXQ-tY" xmltv_id="OE3">OE3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="6Cu05BPq1YD3RpWQCVCYe4zgUSmnEfIvz6QwlZFc" xmltv_id="Hitradio OE3">Hitradio OE3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4nFUgvUHe3EHwlZkXihxbHZNb7DJAfNxGcqVSyiQ" xmltv_id="Sunlite Radio">Sunlite Radio</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="mpXu0ybndRTKf5CEUDERL_T-4FxdcjXx2cerB-ia" xmltv_id="Radio Maria">Radio Maria</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="dzdOvHl0XE9rt88SGblFwgu3zdjGVjF69rHC8GKJ" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="kIlb6PlOEEaTGC15yMIqgx1lx3BRUCbOfy8FRqVC" xmltv_id="Bayern 1">Bayern 1</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="w6Ekn0-n0Ciw9CMKq1tW0toxvYDZPC-C5zhz1GL7" xmltv_id="Bayern 2">Bayern 2</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="PLuNW3UCIv95Ob7UIwQEV02pPqd2_HidfUH4HwNf" xmltv_id="Bayern3">Bayern3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="DD0mcBkrghT9kac1_DCid37_e3_3Au-rhM8WeF-L" xmltv_id="Bayern4Klassik">Bayern4Klassik</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="4mOYIVGxHIH9vtXxP4XqRMteZXy5BhOW_t0_mjJJ" xmltv_id="BR24">BR24</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ZLg91ENJRqjZa8Aoo9eFD3CCxnjAmrHY2XB2_z88" xmltv_id="BR Schlager">BR Schlager</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="A5I3nRBV41rVgmnSaSBF92QZcV5pnurP5FBVkLyD" xmltv_id="PULS">PULS</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vb2SbSVdrxy1yieZTtb3kQcfTg5R06f4JKsMjJVT" xmltv_id="BR Heimat">BR Heimat</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="dOVrZeh3E19PFxSfcJvqyR-oJKoZvwMb5XrttIlT" xmltv_id="hr1">hr1</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="B7Di61d8HP51CU73ivkGo121x6T8r6Y5BGvLzEh2" xmltv_id="hr2">hr2</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="vYINbk-EcNzkqhOZx3uz8fGN-PGMjDxcPn89dcHe" xmltv_id="hr3">hr3</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="MGH9M-Y-iWihN5xjmuXFm0oag2Q4ZpdYOQoNk-z4" xmltv_id="hr4">hr4</channel>
+    <channel site="[ENC][EX]livetv.skylink.sk_0" site_id="ByIW9gO3dLVft8Oi_icbq6I8yKj0v-ekE0ZMx7NP" xmltv_id="You FM">You FM</channel>
+  </channels>
+</site>
