@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]onlinetv.inea.pl_0">
+  <channels>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-1-hd" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-2-hd" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-hd" xmltv_id="TVN HD">TVN HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-hd" xmltv_id="POLSAT HD">POLSAT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="wtk" xmltv_id="WTK">WTK</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-info-1" xmltv_id="TVP INFO 1">TVP INFO 1</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-7-hd" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-news-hd" xmltv_id="POLSAT NEWS HD">POLSAT NEWS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-24-hd" xmltv_id="TVN 24 HD">TVN 24 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-puls-hd" xmltv_id="TV PULS HD">TV PULS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="puls-2-hd" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-2-hd" xmltv_id="POLSAT 2 HD">POLSAT 2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="Fanklub HD" xmltv_id="FANKLUB HD">FANKLUB HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-4-hd" xmltv_id="TV 4 HD">TV 4 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-6" xmltv_id="TV 6">TV 6</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-polonia" xmltv_id="TVP POLONIA">TVP POLONIA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polonia-1" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="ttv" xmltv_id="TTV">TTV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-style-hd" xmltv_id="TVN STYLE HD">TVN STYLE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-turbo-hd" xmltv_id="TVN TURBO HD">TVN TURBO HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-fabula-hd" xmltv_id="TVN FABULA HD">TVN FABULA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvn-24-bis" xmltv_id="TVN 24 BIS">TVN 24 BIS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="zoom-tv" xmltv_id="ZOOM TV">ZOOM TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nowa-tv-hd" xmltv_id="NOWA TV HD">NOWA TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="metro-tv-hd" xmltv_id="METRO TV HD">METRO TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="wp-hd" xmltv_id="WP HD">WP HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-relax" xmltv_id="TV RELAX">TV RELAX</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="hbo2-hd" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="hbo3-hd" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cinemax-hd" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cinemax2-hd" xmltv_id="CINEMAX2 HD">CINEMAX2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-hd" xmltv_id="CANAL HD">CANAL HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-1-hd" xmltv_id="CANAL 1 HD">CANAL 1 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-sport-hd" xmltv_id="CANAL SPORT HD">CANAL SPORT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-sport-2-hd" xmltv_id="CANAL SPORT 2 HD">CANAL SPORT 2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-film-hd" xmltv_id="CANAL FILM HD">CANAL FILM HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-family-hd" xmltv_id="CANAL FAMILY HD">CANAL FAMILY HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-seriale-hd" xmltv_id="CANAL SERIALE HD">CANAL SERIALE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="canal-dokument-hd" xmltv_id="CANAL DOKUMENT HD">CANAL DOKUMENT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fox-comedy-hd" xmltv_id="FOX COMEDY HD">FOX COMEDY HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="super-polsat" xmltv_id="SUPER POLSAT">SUPER POLSAT</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="national-geographic-people-hd" xmltv_id="NATIONAL GEOGRAPHIC PEOPLE HD">NATIONAL GEOGRAPHIC PEOPLE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="kino-tv" xmltv_id="KINO TV">KINO TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="filmbox-extra-hd" xmltv_id="FILMBOX EXTRA HD">FILMBOX EXTRA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="filmbox-premium-hd" xmltv_id="FILMBOX PREMIUM HD">FILMBOX PREMIUM HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="filmbox-family" xmltv_id="FILMBOX FAMILY">FILMBOX FAMILY</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="filmbox-action" xmltv_id="FILMBOX ACTION">FILMBOX ACTION</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="comedy-central-hd" xmltv_id="COMEDY CENTRAL HD">COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="comedy-central-family" xmltv_id="COMEDY CENTRAL FAMILY">COMEDY CENTRAL FAMILY</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="paramount-channel-hd" xmltv_id="PARAMOUNT CHANNEL HD">PARAMOUNT CHANNEL HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="ale-kino-hd" xmltv_id="ALE KINO HD">ALE KINO HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="bbc-hd" xmltv_id="BBC HD">BBC HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="axn-spin-hd" xmltv_id="AXN SPIN HD">AXN SPIN HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="axn-white" xmltv_id="AXN WHITE">AXN WHITE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="axn-black" xmltv_id="AXN BLACK">AXN BLACK</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="stopklatka-tv-hd" xmltv_id="STOPKLATKA TV HD">STOPKLATKA TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="sundance-tv-hd" xmltv_id="SUNDANCE TV HD">SUNDANCE TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-3-warszawa" xmltv_id="TVP 3 WARSZAWA">TVP 3 WARSZAWA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-film-hd" xmltv_id="POLSAT FILM HD">POLSAT FILM HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-seriale" xmltv_id="TVP SERIALE">TVP SERIALE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="kino-polska" xmltv_id="KINO POLSKA">KINO POLSKA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cbs-europa" xmltv_id="CBS EUROPA">CBS EUROPA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cbs-action" xmltv_id="CBS ACTION">CBS ACTION</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="epic-drama" xmltv_id="EPIC DRAMA">EPIC DRAMA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="AMC" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="Bollywood" xmltv_id="BOLLYWOOD">BOLLYWOOD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="Romance" xmltv_id="ROMANCE">ROMANCE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-news-2" xmltv_id="POLSAT NEWS 2">POLSAT NEWS 2</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-3-poznan" xmltv_id="TVP 3 POZNAN">TVP 3 POZNAN</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="superstacja" xmltv_id="SUPERSTACJA">SUPERSTACJA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-republika-hd" xmltv_id="TV REPUBLIKA HD">TV REPUBLIKA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="bbc-world-news" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="sky-news" xmltv_id="SKY NEWS">SKY NEWS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="euronews-eng" xmltv_id="EURONEWS ENG">EURONEWS ENG</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="euronews-fra" xmltv_id="EURONEWS FRA">EURONEWS FRA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="france-24-eng" xmltv_id="FRANCE 24 ENG">FRANCE 24 ENG</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="deutsche-welle" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="belsat-tv" xmltv_id="BELSAT TV">BELSAT TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="france-24" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="lifetime-hd" xmltv_id="LIFETIME HD">LIFETIME HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-cafe-hd" xmltv_id="POLSAT CAFE HD">POLSAT CAFE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-play-hd" xmltv_id="POLSAT PLAY HD">POLSAT PLAY HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-romans" xmltv_id="POLSAT ROMANS">POLSAT ROMANS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="bbc-brit-hd" xmltv_id="BBC BRIT HD">BBC BRIT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="kuchnia-hd" xmltv_id="KUCHNIA HD">KUCHNIA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="domo-hd" xmltv_id="DOMO HD">DOMO HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="english-club-hd" xmltv_id="ENGLISH CLUB HD">ENGLISH CLUB HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="FoodNetwork" xmltv_id="FOODNETWORK">FOODNETWORK</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-rozrywka" xmltv_id="TVP ROZRYWKA">TVP ROZRYWKA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-hd" xmltv_id="TVP HD">TVP HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fashionbox-hd" xmltv_id="FASHIONBOX HD">FASHIONBOX HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eurosport-1-hd" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eurosport-2-hd" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-sport-hd" xmltv_id="POLSAT SPORT HD">POLSAT SPORT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-sport-extra-hd" xmltv_id="POLSAT SPORT EXTRA HD">POLSAT SPORT EXTRA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-sport-hd" xmltv_id="TVP SPORT HD">TVP SPORT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-sport-fight-hd" xmltv_id="POLSAT SPORT FIGHT HD">POLSAT SPORT FIGHT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fightbox-hd" xmltv_id="FIGHTBOX HD">FIGHTBOX HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eleven-sports-1" xmltv_id="ELEVEN SPORTS 1">ELEVEN SPORTS 1</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eleven-sports-2" xmltv_id="ELEVEN SPORTS 2">ELEVEN SPORTS 2</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eleven-sports-3" xmltv_id="ELEVEN SPORTS 3">ELEVEN SPORTS 3</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="active-family-hd" xmltv_id="ACTIVE FAMILY HD">ACTIVE FAMILY HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nsport-hd" xmltv_id="NSPORT HD">NSPORT HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-sport-news-hd" xmltv_id="POLSAT SPORT NEWS HD">POLSAT SPORT NEWS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="sportklub" xmltv_id="SPORTKLUB">SPORTKLUB</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fightklub" xmltv_id="FIGHTKLUB">FIGHTKLUB</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="ginx-esports-tv" xmltv_id="GINX ESPORTS TV">GINX ESPORTS TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="gametoonbox" xmltv_id="GAMETOONBOX">GAMETOONBOX</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="extreme-sports-channel" xmltv_id="EXTREME SPORTS CHANNEL">EXTREME SPORTS CHANNEL</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="motowizja" xmltv_id="MOTOWIZJA">MOTOWIZJA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nautical-channel" xmltv_id="NAUTICAL CHANNEL">NAUTICAL CHANNEL</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="e-sport" xmltv_id="E SPORT">E SPORT</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="history-hd" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="history2-hd" xmltv_id="HISTORY2 HD">HISTORY2 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="national-geographic-hd" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="national-geographic-wild-hd" xmltv_id="NATIONAL GEOGRAPHIC WILD HD">NATIONAL GEOGRAPHIC WILD HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="animal-planet-hd" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="discovery-channel-hd" xmltv_id="DISCOVERY CHANNEL HD">DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="discovery-science-hd" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="dtx-hd" xmltv_id="DTX HD">DTX HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="discovery-life" xmltv_id="DISCOVERY LIFE">DISCOVERY LIFE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="id-hd" xmltv_id="ID HD">ID HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="fokus-tv-hd" xmltv_id="FOKUS TV HD">FOKUS TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="bbc-earth-hd" xmltv_id="BBC EARTH HD">BBC EARTH HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="planete-hd" xmltv_id="PLANETE HD">PLANETE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="adventure-hd" xmltv_id="ADVENTURE HD">ADVENTURE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="travel-channel" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-historia" xmltv_id="TVP HISTORIA">TVP HISTORIA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-kultura" xmltv_id="TVP KULTURA">TVP KULTURA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="discoveryHistoria" xmltv_id="DISCOVERYHISTORIA">DISCOVERYHISTORIA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-viasat-explorer" xmltv_id="POLSAT VIASAT EXPLORER">POLSAT VIASAT EXPLORER</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-viasat-history" xmltv_id="POLSAT VIASAT HISTORY">POLSAT VIASAT HISTORY</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-viasat-nature-hd" xmltv_id="POLSAT VIASAT NATURE HD">POLSAT VIASAT NATURE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="docubox" xmltv_id="DOCUBOX">DOCUBOX</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nickelodeon" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nicktoons-hd" xmltv_id="NICKTOONS HD">NICKTOONS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="disney-channel-hd" xmltv_id="DISNEY CHANNEL HD">DISNEY CHANNEL HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="disney-xd" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="disney-junior" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="cartoon-network-hd" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="teletoon-hd" xmltv_id="TELETOON HD">TELETOON HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nick-jr" xmltv_id="NICK JR">NICK JR</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="da-vinci" xmltv_id="DA VINCI">DA VINCI</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="minimini-hd" xmltv_id="MINIMINI HD">MINIMINI HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="ducktv-hd" xmltv_id="DUCKTV HD">DUCKTV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="baby-tv" xmltv_id="BABY TV">BABY TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="bbc-cbeebies" xmltv_id="BBC CBEEBIES">BBC CBEEBIES</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp-abc" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-jimjam" xmltv_id="POLSAT JIMJAM">POLSAT JIMJAM</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="top-kids-hd" xmltv_id="TOP KIDS HD">TOP KIDS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="top-kids-jr-hd" xmltv_id="TOP KIDS JR HD">TOP KIDS JR HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="DwaxDwa" xmltv_id="DWAXDWA">DWAXDWA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="boomerang" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="starstv-hd" xmltv_id="STARSTV HD">STARSTV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="vh1-classic-european" xmltv_id="VH1 CLASSIC EUROPEAN">VH1 CLASSIC EUROPEAN</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eska-tv-hd" xmltv_id="ESKA TV HD">ESKA TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="4funtv" xmltv_id="4FUNTV">4FUNTV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="4fun-hits" xmltv_id="4FUN HITS">4FUN HITS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="4fun-fit-dance" xmltv_id="4FUN FIT DANCE">4FUN FIT DANCE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="nutatv-hd" xmltv_id="NUTATV HD">NUTATV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-live-hd" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-hits" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-dance" xmltv_id="MTV DANCE">MTV DANCE</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-rocks" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-polska" xmltv_id="MTV POLSKA">MTV POLSKA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mtv-music-polska" xmltv_id="MTV MUSIC POLSKA">MTV MUSIC POLSKA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="kino-polska-muzyka" xmltv_id="KINO POLSKA MUZYKA">KINO POLSKA MUZYKA</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polsat-music-hd" xmltv_id="POLSAT MUSIC HD">POLSAT MUSIC HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="polo-tv" xmltv_id="POLO TV">POLO TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="disco-polo-music" xmltv_id="DISCO POLO MUSIC">DISCO POLO MUSIC</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="power-tv-hd" xmltv_id="POWER TV HD">POWER TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="vox-music-tv" xmltv_id="VOX MUSIC TV">VOX MUSIC TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="stingray-classica-hd" xmltv_id="STINGRAY CLASSICA HD">STINGRAY CLASSICA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="stingray-djazz" xmltv_id="STINGRAY DJAZZ">STINGRAY DJAZZ</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="music-box" xmltv_id="MUSIC BOX">MUSIC BOX</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="eska-tv-extra-hd" xmltv_id="ESKA TV EXTRA HD">ESKA TV EXTRA HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp3-lublin" xmltv_id="TVP3 LUBLIN">TVP3 LUBLIN</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvp3-wroclaw" xmltv_id="TVP3 WROCLAW">TVP3 WROCLAW</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tele-5-hd" xmltv_id="TELE 5 HD">TELE 5 HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tvs-hd" xmltv_id="TVS HD">TVS HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="mango" xmltv_id="MANGO">MANGO</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="tv-trwam" xmltv_id="TV TRWAM">TV TRWAM</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="red-carpet-tv-hd" xmltv_id="RED CARPET TV HD">RED CARPET TV HD</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="playboy-tv" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="hustler-tv" xmltv_id="HUSTLER TV">HUSTLER TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="brazzers-24-7" xmltv_id="BRAZZERS 24 7">BRAZZERS 24 7</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="dorcel-tv" xmltv_id="DORCEL TV">DORCEL TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="dorcel-xxx" xmltv_id="DORCEL XXX">DORCEL XXX</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="vivid-red-tv" xmltv_id="VIVID RED TV">VIVID RED TV</channel>
+    <channel site="[ENC]onlinetv.inea.pl_0" site_id="vivid-touch" xmltv_id="VIVID TOUCH">VIVID TOUCH</channel>
+  </channels>
+</site>
