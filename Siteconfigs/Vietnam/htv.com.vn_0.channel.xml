@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="htv.com.vn_0">
+  <channels>
+    <channel site="htv.com.vn_0" site_id="1&amp;channelcode=htv7||1/d-(1).png" xmltv_id="HTV7">HTV7</channel>
+    <channel site="htv.com.vn_0" site_id="3&amp;channelcode=htv9||3/htv9-ico.png" xmltv_id="HTV9">HTV9</channel>
+    <channel site="htv.com.vn_0" site_id="10&amp;channelcode=htvtt||10/d-(4)1.png" xmltv_id="HTVTT">HTVTT</channel>
+    <channel site="htv.com.vn_0" site_id="11&amp;channelcode=htv1||11/d-(7).png" xmltv_id="HTV1">HTV1</channel>
+    <channel site="htv.com.vn_0" site_id="12&amp;channelcode=htv2||12/d-(5).png" xmltv_id="HTV2">HTV2</channel>
+    <channel site="htv.com.vn_0" site_id="13&amp;channelcode=htv3||13/d-(6).png" xmltv_id="HTV3">HTV3</channel>
+    <channel site="htv.com.vn_0" site_id="14&amp;channelcode=htv4||14/htvkey.png" xmltv_id="HTV Key">HTV Key</channel>
+  </channels>
+</site>

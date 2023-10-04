@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'htv.com.vn',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-10-04',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Ho_Chi_Minh',
+  'culture' => 'vi',
+  'max_day' => '7',
+  'url1' => 'https://www.htv.com.vn/HTVModule/Services/htvService.aspx',
+  'requestOption1' => '2',
+  'post_data1' => 'method=GetScheduleList&template=AjaxSchedules.xslt&channelid=##channel##&date=##urldate1##',
+  'accept_header1' => '*/*',
+  'content_type1' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'host_header1' => 'www.htv.com.vn',
+  'origin_header1' => 'https://www.htv.com.vn',
+  'XMLHttpRequest1' => 'on',
+  'urldate_format1' => 'd-m-Y',
+  'show' => '(div class=\\\\"item.*?"name\\\\".*?\\/div)',
+  'start' => '"time">(\\d+:\\d+)',
+  'start_format' => 'H#i',
+  'title' => '"name">(.*?)<\\/',
+  'channel_logo' => '||#add#https://assets2.htv.com.vn/Images/1/Channel/##cclogo##',
+  'ccurl1' => 'https://www.htv.com.vn/lich-phat-song',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'cchost_header1' => 'www.htv.com.vn',
+  'ccchannel_block' => '<div class="channel-item">.*?<\\/div>',
+  'ccchannel_id' => 'data-id="(\\d+)|#|[|&channelcode=|]data-code="(.*?)"',
+  'ccchannel_name' => 'alt="(.*?)"',
+  'ccchannel_logo' => '\\/Channel\\/(\\d+\\/.*?)"',
+);
+?>
