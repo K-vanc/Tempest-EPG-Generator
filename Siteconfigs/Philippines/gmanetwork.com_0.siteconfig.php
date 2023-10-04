@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'gmanetwork.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-10-04',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Manila',
+  'culture' => 'tl',
+  'max_day' => '7',
+  'url1' => 'https://data.igma.tv/entertainment/widgets/tiles/program_guides/gma7/##urldate1##.gz',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/javascript, */*; q=0.01',
+  'urldate_format1' => '#weekdayname#monday|tuesday|wednesday|thursday|friday|saturday|sunday',
+  'show' => '({"show_title".*?})',
+  'start' => '"show_time":"(.*?)"',
+  'start_format' => 'H#i#s',
+  'title' => '"show_title":"(.*?)",',
+  'showicon' => '{"image_name":"(.*?)"||#addstart#https://aphrodite.gmanetwork.com/entertainment/shows/images/original/',
+  'channel_logo' => '||#add#https://aphrodite.gmanetwork.com/gma-header-logo.svg?##channel##',
+  'pagekey1' => '"show_id":"(\\d+)',
+  'detail_url1' => 'https://data.igma.tv/entertainment/tv/##pagekey1##/show_details.gz',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'application/json, text/javascript, */*; q=0.01',
+  'detail_referer_header1' => 'https://www.gmanetwork.com/',
+  'detail_desc' => '"synopsis":"(.*?)","',
+  'detail_actor' => '"cast":"(.*?)","||#split#(,)||#replace#(\\s*as\\s.*)||',
+  'detail_role' => '"cast":"(.*?)","||#split#(,)||#include# as ||#replace#(.*\\sas\\s*)||',
+  'detail_keyword' => '"keywords":"(.*?)","',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#gma7',
+  'ccchannel_name' => '||#set#GMA-7',
+);
+?>

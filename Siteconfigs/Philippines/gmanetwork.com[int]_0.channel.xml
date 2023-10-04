@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="gmanetwork.com[int]_0">
+  <channels>
+    <channel site="gmanetwork.com[int]_0" site_id="17" xmltv_id="GMA PINOY TV">GMA PINOY TV</channel>
+    <channel site="gmanetwork.com[int]_0" site_id="16" xmltv_id="GMA LIFE TV">GMA LIFE TV</channel>
+    <channel site="gmanetwork.com[int]_0" site_id="15" xmltv_id="GMA NEWS TV">GMA NEWS TV</channel>
+  </channels>
+</site>
