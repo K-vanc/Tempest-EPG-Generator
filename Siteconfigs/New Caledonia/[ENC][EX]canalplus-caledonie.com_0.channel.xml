@@ -1,104 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]canalplus-caledonie.com_0">
   <channels>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70013||6ed5826e85b8a0de36204585975e2d87" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70543||a81672d9073b95e15b9587be33636fe8" xmltv_id="C+ SPORT 360 HD">C+ SPORT 360 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70544||c3fd16f07ce858a6a0d7f79f729d1c8f" xmltv_id="CANAL+ FOOT HD">CANAL+ FOOT HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70022||f280baf8d475a4643d64321caf771782" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70014||f77d9e81d75535cbf80c3b49ba9a9578" xmltv_id="CANAL+ CINEMA HD">CANAL+ CINEMA HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70312||31db6fcee75e0e591f451635620e409b" xmltv_id="CANAL+ SERIES">CANAL+ SERIES</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70980||7736d522aae50628ceb63bed6fa3e8b4" xmltv_id="CANAL+ DOCS HD">CANAL+ DOCS HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70401||0e6961996bd0ce3a2e17d64989bdd07a" xmltv_id="CANAL+ KIDS">CANAL+ KIDS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70940||934865436826d08809f512cc7198432e" xmltv_id="PACIFIC+">PACIFIC+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70095||d1a641606dd3c349f8be2b3a1803dc81" xmltv_id="TF1 HD">TF1 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70188||142492fd744185418a30a8937d24ef0f" xmltv_id="FRANCE 2 HD">FRANCE 2 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70045||f3da203bc4ff88ed946f3e8502f73e57" xmltv_id="FRANCE 3 HD">FRANCE 3 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70196||3e56da13316a67da4a06bb4bbd9de955" xmltv_id="FRANCE 4 HD">FRANCE 4 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70046||b72f8137cd7512716b8e4563766fc8cf" xmltv_id="FRANCE 5 HD">FRANCE 5 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70057||9b38a8d3c9b6509645d7927e5c98094b" xmltv_id="M6 HD">M6 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70007||97eaca1deb38ca50e2d517ce3157b075" xmltv_id="ARTE">ARTE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70232||60a715f4ff5aa8f61e7fabad08a5351e" xmltv_id="TV5">TV5</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70086||54a2ac53cd32460399cb4b6f431d2b02" xmltv_id="CALEDONIE 1ERE HD">CALEDONIE 1ERE HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70314||023c8c0d61022a02117f42b9fac445da" xmltv_id="CALEDONIA HD">CALEDONIA HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70089||4829b74f5c7db916400dfda374e35049" xmltv_id="WALLIS ET FUTUNA 1ERE HD">WALLIS ET FUTUNA 1ERE HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70730||53563a8ad9d5ac57c14980c268909246" xmltv_id="TAHITI NUI TV">TAHITI NUI TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70343||c69edb20727b565a825673ac51b67edc" xmltv_id="MBC SAT">MBC SAT</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70981||b224b21e964a4dde960460749810ba7a" xmltv_id="ABC AUSTRALIA">ABC AUSTRALIA</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70673||e98b8fe3857135226488870c30f440c3" xmltv_id="EMCI TV">EMCI TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70547||255897a71b04f200d5a8c2c05b87b291" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70120||18dcdbe9913e4653ac90533edfb347db" xmltv_id="C8">C8</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70140||e5f681f1b08e9d9a4f53e2237480a53d" xmltv_id="W9">W9</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70098||c81c8ea5c847e86567f974e83c3ad47b" xmltv_id="TMC">TMC</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70067||0106230ae7fe31cdd7db4b42a5ffb7b8" xmltv_id="TFX">TFX</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70216||aeef76e07fe54257d1b2dc84bf2a5d16" xmltv_id="NRJ12">NRJ12</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70613||ad887757c6d953436379c5ae167ac441" xmltv_id="TF1 SERIES FILMS">TF1 SERIES FILMS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70624||15ec773f14ac7e2bd34c89e16904e664" xmltv_id="6TER">6TER</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70094||35b6847471208e0dac2e183ddc0d335d" xmltv_id="TEVA">TEVA</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70036||a0d230d3c7479b27db2d9ba299e4467f" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70065||20857d848172a068f313693d4d2d4da4" xmltv_id="MTV">MTV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70060||506eedfe4f97086e1e904a60e1bf4b3e" xmltv_id="MCM">MCM</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70136||bef9ce1c1b8cf31927989e1cc36d84ee" xmltv_id="GAME ONE">GAME ONE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70667||9e546df820409341e90bb20e307c0899" xmltv_id="MGG TV">MGG TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70078||6a5b7de2b05fc6ac1d4c188fd9b81081" xmltv_id="SYFY">SYFY</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70001||08c2a8515f88a3a74de1d5714e1c0bbc" xmltv_id="13EME RUE">13EME RUE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70080||1f7686fd81d2e1fd08d65381cec9f415" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70104||79a93db5be4cb827e593141ee3429fea" xmltv_id="TV BREIZH">TV BREIZH</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70077||b67839255791e2cf9cdba8193a5efd60" xmltv_id="RTL9">RTL9</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70033||4ae047a6421f34ccb4abefe931d238b4" xmltv_id="COMEDIE+">COMEDIE+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70731||3801d3c3c959822da940c70ddc24eeef" xmltv_id="OLYMPIA TV">OLYMPIA TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70048||f56c976f399ea933a1ae5ad3243d8a52" xmltv_id="CNEWS">CNEWS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70054||d58130354d76932709e8e6bad23fb14f" xmltv_id="LCI">LCI</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70963||1d80b4e917b0a782c7756c23bdc5a1eb" xmltv_id="BFM TV">BFM TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70704||be0c4b093b1bda7c17d3231dbe000c41" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70114||e59fd7f01f6da827e8aa054635ff2795" xmltv_id="FRANCE 24">FRANCE 24</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70008||c7bdac1b1c5edb66a5823bda068d4060" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70050||5f6505ecfcf7242fb76a7cff644c4493" xmltv_id="INFOSPORT+">INFOSPORT+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70056||6e5ce2f1bfcfa0276213a3c60059601b" xmltv_id="L'EQUIPE">L'EQUIPE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70041||3c03ba7b131a64d2491cce3e9feff735" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70042||5b1f73883619531e97afc3519cbac4e6" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70651||99bdb133a23ac37a103b81504543a0ea" xmltv_id="EQUIDIA">EQUIDIA</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70565||1994f9ff8d866df5d80763ec98f58eeb" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70566||f54de398b473674b52fa518b978a65d7" xmltv_id="TREK">TREK</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70414||c1bc09c1e03dd64d717b8243499f125f" xmltv_id="GOLF+">GOLF+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70115||4e121baf92f46b2df622c6d4f9cebf8e" xmltv_id="BEIN SPORTS 1 HD">BEIN SPORTS 1 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70243||6e2124827406ed41236a8430352d4ed9" xmltv_id="BEIN SPORTS 2 HD">BEIN SPORTS 2 HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70347||80b792778f5b70a82f94065af683b1ee" xmltv_id="BEIN SPORTS 3">BEIN SPORTS 3</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70745||4d0bbebc637459efc9f12534963ad304" xmltv_id="EVENEMENT 4K">EVENEMENT 4K</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70138||8dcb6b6fcc1cd2ae078c086b8fedf3d2" xmltv_id="USHUAIA TV">USHUAIA TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70072||4e29f3c52a6e90555a298c8bcc358b32" xmltv_id="PLANETE+">PLANETE+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70142||ab5405062ae4b92aed74a850c622ae72" xmltv_id="PLANETE+ CRIME">PLANETE+ CRIME</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70999||01cb4cd64cf66b24d69f1f17ba4a99dd" xmltv_id="RMC DECOUVERTE">RMC DECOUVERTE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70996||ae697dba427ed168b5b64c78be4efcee" xmltv_id="TRAVELXP">TRAVELXP</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70145||34c09b3f7ab20d6c7b8ac35366cf96c4" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70223||6efb0b61a060da948154fac377ae0c24" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70073||4206ad94f30523ffdee330066dc97655" xmltv_id="PLANETE+ AVENTURE">PLANETE+ AVENTURE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70079||b1d9437352e04e06f8094987f7cb6384" xmltv_id="SEASONS">SEASONS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70158||8c4ac2ae78c1037ecb461df40ffa2289" xmltv_id="HISTOIRE">HISTOIRE</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70146||4c0ed1bebb3c532b1e341ea5041b4f38" xmltv_id="GULLI">GULLI</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70035||ac99de4a9699316caa9f6f104af9b2ec" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70224||c2c17c39a49e36cac289d16681724ad8" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70941||aafb9594260b9f235852b9aadf58a364" xmltv_id="NICKELODEON JR">NICKELODEON JR</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70097||c188238de1622c15399da194f70313c0" xmltv_id="TIJI">TIJI</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70148||f14fd97a0a25f85137ee796638b82e25" xmltv_id="TELETOON+">TELETOON+</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70075||70a075a4e3c07b9666678b2a7af059e9" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70217||09cadf0202d8d36538d7c2ec9e73af19" xmltv_id="CSTAR">CSTAR</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70102||02b09c0308344b3beeec0ea4dc3fe9ac" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70147||897cfddfe8dc789080749ac721956aea" xmltv_id="MTV HITS">MTV HITS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70061||a6a96bb59b30fd92f02194cd1daeb0b4" xmltv_id="RFM TV">RFM TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70063||2e88c78423c83d2906dfd4c2edb7ba45" xmltv_id="MEZZO">MEZZO</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70004||8877550b27ef4bea375b2eceafcfa195" xmltv_id="ACTION">ACTION</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70303||ceb273b22a727172772c6d83604d543b" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70028||a9b497507bae038ef3adde8d664379f9" xmltv_id="CINE+ PREMIER">CINE+ PREMIER</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70027||d298bcfccb62174f17ce781103bce1d7" xmltv_id="CINE+ FRISSON">CINE+ FRISSON</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70025||56e63b08df0212df3d46639c484668ef" xmltv_id="CINE+ EMOTION">CINE+ EMOTION</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70026||9addb40b7d18eb00e23929b96560a777" xmltv_id="CINE+ FAMIZ">CINE+ FAMIZ</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70316||b156ef4ab7bab95940778d9d08be65b8" xmltv_id="OCS MAX">OCS MAX</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70317||7dea4d3ac5932afa6f782f52b0d099ea" xmltv_id="OCS CITY">OCS CITY</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70318||6cb3883c570e7f94cc7757239408b693" xmltv_id="OCS CHOC">OCS CHOC</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70319||cdd5ed2d2b4188a06b4a25725f70ecbc" xmltv_id="OCS GEANTS">OCS GEANTS</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70110||636c8a7ae3c652dc963e14a8d1678469" xmltv_id="XXL">XXL</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70154||e36a0083b8da98c1d99ee9a24248f362" xmltv_id="DORCEL TV">DORCEL TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70185||f70a0e382a2b191c9737bf73b4a0edb9" xmltv_id="J&amp;M TV">J&amp;M TV</channel>
-    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="70934||09e2088661b5392da662c0493ecffaf4" xmltv_id="VIXEN">VIXEN</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170001||13EME.RUE" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170624||6TER" xmltv_id="6TER">6TER</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170981||ABC.AUSTRALIA" xmltv_id="ABC AUSTRALIA">ABC AUSTRALIA</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170004||ACTION" xmltv_id="ACTION">ACTION</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170003||AFRICA.24" xmltv_id="AFRICA 24">AFRICA 24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170007||ARTE.France" xmltv_id="ARTE France">ARTE France</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170565||AUTOMOTO" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170008||BBC.NEWS" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170115||BEIN.SPORTS.1.HD" xmltv_id="BEIN SPORTS 1 HD">BEIN SPORTS 1 HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170243||BEIN.SPORTS.2" xmltv_id="BEIN SPORTS 2">BEIN SPORTS 2</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170347||BEIN.SPORTS.3" xmltv_id="BEIN SPORTS 3">BEIN SPORTS 3</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170558||BEIN.SPORTS.MAX.4" xmltv_id="BEIN SPORTS MAX 4">BEIN SPORTS MAX 4</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170559||BEIN.SPORTS.MAX.5" xmltv_id="BEIN SPORTS MAX 5">BEIN SPORTS MAX 5</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170964||BFM.BUSINESS" xmltv_id="BFM BUSINESS">BFM BUSINESS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170963||BFM.TV" xmltv_id="BFM TV">BFM TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170120||C8" xmltv_id="C8">C8</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170314||CALEDONIA" xmltv_id="CALEDONIA">CALEDONIA</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170263||CANAL..BOX.OFFICE" xmltv_id="CANAL+ BOX OFFICE">CANAL+ BOX OFFICE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170014||CANAL..CINEMA.S." xmltv_id="CANAL+ CINEMA(S)">CANAL+ CINEMA(S)</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170980||CANAL..DOCS" xmltv_id="CANAL+ DOCS">CANAL+ DOCS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170544||CANAL..FOOT" xmltv_id="CANAL+ FOOT">CANAL+ FOOT</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170744||CANAL..FORMULA1" xmltv_id="CANAL+ FORMULA1">CANAL+ FORMULA1</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170013||CANAL..HD" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170401||CANAL..KIDS.HD" xmltv_id="CANAL+ KIDS HD">CANAL+ KIDS HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170743||CANAL..MOTO.GP" xmltv_id="CANAL+ MOTO GP">CANAL+ MOTO GP</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170738||CANAL..Premier.League" xmltv_id="CANAL+ Premier League">CANAL+ Premier League</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170312||CANAL..SERIES" xmltv_id="CANAL+ SERIES">CANAL+ SERIES</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170543||CANAL..SPORT.360" xmltv_id="CANAL+ SPORT 360">CANAL+ SPORT 360</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170022||CANAL..SPORT.HD" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170739||CANAL..TOP.14.Plurimedia" xmltv_id="CANAL+ TOP 14 Plurimedia">CANAL+ TOP 14 Plurimedia</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170997||CHEVAL.TV" xmltv_id="CHEVAL TV">CHEVAL TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170328||CINE..CLASSIC" xmltv_id="CINE+ CLASSIC">CINE+ CLASSIC</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170024||CINE..CLUB" xmltv_id="CINE+ CLUB">CINE+ CLUB</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170025||CINE..EMOTION" xmltv_id="CINE+ EMOTION">CINE+ EMOTION</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170026||CINE..FAMIZ" xmltv_id="CINE+ FAMIZ">CINE+ FAMIZ</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170027||CINE..FRISSON" xmltv_id="CINE+ FRISSON">CINE+ FRISSON</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170028||CINE..PREMIER" xmltv_id="CINE+ PREMIER">CINE+ PREMIER</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170048||CNEWS" xmltv_id="CNEWS">CNEWS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170033||COMEDIE." xmltv_id="COMEDIE+">COMEDIE+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170217||CSTAR" xmltv_id="CSTAR">CSTAR</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170979||CSTAR.HITS" xmltv_id="CSTAR HITS">CSTAR HITS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170035||DISNEY.CHANNEL" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170075||DISNEY.JUNIOR" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170154||DORCEL.TV" xmltv_id="DORCEL TV">DORCEL TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170036||E!.ENTERTAINMENT" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170673||EMCI.TV" xmltv_id="EMCI TV">EMCI TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170651||EQUIDIA" xmltv_id="EQUIDIA">EQUIDIA</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170042||EUROSP2..L’EQUIPE" xmltv_id="EUROSP2 /L’EQUIPE">EUROSP2 /L’EQUIPE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170041||EUROSPORT.1" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170188||FRANCE.2" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170114||FRANCE.24" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170045||FRANCE.3" xmltv_id="FRANCE 3">FRANCE 3</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170196||FRANCE.4" xmltv_id="FRANCE 4">FRANCE 4</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170046||FRANCE.5" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170704||FRANCE.INFO:" xmltv_id="FRANCE INFO:">FRANCE INFO:</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170136||GAME.ONE" xmltv_id="GAME ONE">GAME ONE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170414||GOLF." xmltv_id="GOLF+">GOLF+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170146||GULLI" xmltv_id="GULLI">GULLI</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170994||HISTOIRE.24.24" xmltv_id="HISTOIRE 24/24">HISTOIRE 24/24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170304||HUSTLER" xmltv_id="HUSTLER">HUSTLER</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170050||INFOSPORT." xmltv_id="INFOSPORT+">INFOSPORT+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170185||J.M.TV" xmltv_id="J&amp;M TV">J&amp;M TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170002||J-ONE" xmltv_id="J-ONE">J-ONE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170056||L'EQUIPE" xmltv_id="L'EQUIPE">L'EQUIPE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170054||LCI" xmltv_id="LCI">LCI</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170057||M6.HD" xmltv_id="M6 HD">M6 HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170343||MBC.SAT" xmltv_id="MBC SAT">MBC SAT</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170060||MCM" xmltv_id="MCM">MCM</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170586||MEZZO.24.24" xmltv_id="MEZZO 24/24">MEZZO 24/24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170998||MEZZO.LIVE" xmltv_id="MEZZO LIVE">MEZZO LIVE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170667||MGG.TV" xmltv_id="MGG TV">MGG TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170065||MTV.France" xmltv_id="MTV France">MTV France</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170147||MTV.HITS" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170955||MULTISPORTS.1" xmltv_id="MULTISPORTS 1">MULTISPORTS 1</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170956||MULTISPORTS.2" xmltv_id="MULTISPORTS 2">MULTISPORTS 2</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170957||MULTISPORTS.3" xmltv_id="MULTISPORTS 3">MULTISPORTS 3</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170958||MULTISPORTS.4" xmltv_id="MULTISPORTS 4">MULTISPORTS 4</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170670||MUSEUM.TV" xmltv_id="MUSEUM TV">MUSEUM TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170223||NAT.GEO.WILD" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170145||NATIONAL.GEOGRAPHIC.HD" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170224||NICKELODEON" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170941||NICKELODEON.JR" xmltv_id="NICKELODEON JR">NICKELODEON JR</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170086||NOUVELLE.CALEDONIE.1ERE" xmltv_id="NOUVELLE CALEDONIE 1ERE">NOUVELLE CALEDONIE 1ERE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170547||NOVELAS.TV" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170216||NRJ.12" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170319||OCS.GEANTS" xmltv_id="OCS GEANTS">OCS GEANTS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170316||OCS.MAX" xmltv_id="OCS MAX">OCS MAX</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170318||OCS.PULP" xmltv_id="OCS PULP">OCS PULP</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170731||OLYMPIA.TV" xmltv_id="OLYMPIA TV">OLYMPIA TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170940||PACIFIC." xmltv_id="PACIFIC+">PACIFIC+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170303||PARAMOUNT.TV" xmltv_id="PARAMOUNT TV">PARAMOUNT TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170072||PLANETE." xmltv_id="PLANETE+">PLANETE+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170073||PLANETE..AVENTURE" xmltv_id="PLANETE+ AVENTURE">PLANETE+ AVENTURE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170142||PLANETE..CRIME" xmltv_id="PLANETE+ CRIME">PLANETE+ CRIME</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170591||PRIVATE" xmltv_id="PRIVATE">PRIVATE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170995||RFM.TV.24.24" xmltv_id="RFM TV 24/24">RFM TV 24/24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170999||RMC.DECOUVERTE" xmltv_id="RMC DECOUVERTE">RMC DECOUVERTE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170965||RMC.STORY" xmltv_id="RMC STORY">RMC STORY</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170077||RTL9" xmltv_id="RTL9">RTL9</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170599||SEASONS.24.24" xmltv_id="SEASONS 24/24">SEASONS 24/24</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170080||SERIE.CLUB" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170978||SPORT.EN.FRANCE" xmltv_id="SPORT EN FRANCE">SPORT EN FRANCE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170078||SYFY" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170730||TAHITI.NUI.TV" xmltv_id="TAHITI NUI TV">TAHITI NUI TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170148||TELETOON." xmltv_id="TELETOON+">TELETOON+</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170636||TEST.DROM" xmltv_id="TEST DROM">TEST DROM</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170094||TEVA" xmltv_id="TEVA">TEVA</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170095||TF1.HD" xmltv_id="TF1 HD">TF1 HD</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170613||TF1.SERIES.FILMS" xmltv_id="TF1 SERIES FILMS">TF1 SERIES FILMS</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170067||TFX" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170097||TIJI" xmltv_id="TIJI">TIJI</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170098||TMC" xmltv_id="TMC">TMC</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170102||TRACE.URBAN" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170996||TRAVELXP" xmltv_id="TRAVELXP">TRAVELXP</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170566||TREK" xmltv_id="TREK">TREK</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170104||TV.BREIZH" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170232||TV5.Pacifique" xmltv_id="TV5 Pacifique">TV5 Pacifique</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170138||USHUAÏA.TV" xmltv_id="USHUAÏA TV">USHUAÏA TV</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170934||VIXEN" xmltv_id="VIXEN">VIXEN</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170009||W-SPORT" xmltv_id="W-SPORT">W-SPORT</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170140||W9" xmltv_id="W9">W9</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170089||WALLIS.ET.FUTUNA.1ERE" xmltv_id="WALLIS ET FUTUNA 1ERE">WALLIS ET FUTUNA 1ERE</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170614||WATAAA" xmltv_id="WATAAA">WATAAA</channel>
+    <channel site="[ENC][EX]canalplus-caledonie.com_0" site_id="170110||XXL" xmltv_id="XXL">XXL</channel>
   </channels>
 </site>
