@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="dummy[daily]_0">
+  <channels>
+    <channel site="dummy[daily]_0" site_id="1234||http://logo.com/1234.png" xmltv_id="Test">Test</channel>
+    <channel site="dummy[daily]_0" site_id="3456||http://logo.com/asdf.png" xmltv_id="Test2">Test2</channel>
+  </channels>
+</site>
