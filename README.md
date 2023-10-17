@@ -119,6 +119,47 @@ and for APACHE;<br><br>
 or<br>
 **sudo systemctl reload apache2**
 <br><br>For Windows, I didnt see such setting or limitation. I think it is set to "no limit" by default for Windows.<br><br>
+# Tempest EPG Generator Docker 
+* Multi architecture support as amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, and s390x
+* Built-in Nginx web server on port 8095
+* Built-in Php8.2-fpm 
+* Alpine Linux 3.18.4 for the smallest footprint
+* Supervisor support for controlling processes 
+* Non-privileged user for easy setup/file handling
+* Around 35MB image size
+## How to install
+
+    docker pull kvanc/tempest_epg:latest
+
+## How to start
+
+    docker run -p 80:8095 -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
+
+Please replace "/your/local/folder/" part with absolute path of your folder to access generated Tempest folders
+
+## How to adjust
+
+If you need to change php.ini settings for timezone(default is Europe/Istanbul) or php memory setting(default is 128M), first create a 'php-user.ini' file as below example;
+
+    [Date]
+    date.timezone=Europe/London
+    [Memory]
+    memory_limit = 256M
+
+then you need to mount it into another point as below;
+
+    docker run -v "/your/local/folder/php-user.ini:/etc/php82/conf.d/custom.ini" -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
+
+If you need to change php timezone, I suggest you to change also docker container timezone to same by running container with TZ environmental variable  as below;
+
+    docker run -p 80:8095 -e TZ=Europe/London -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
+
+You can also make the same settings via Docker Desktop
+
+Note: Please consider that this docker image created for Operating Systems which are not natively support php and/or web servers, with consideration of small container size and low amount of memory usage so this is not a full performance build. I am also planning to make some performance and php-cli-only builds in the future. If your system natively supports php, I recommend you to directly go through tempest.php file.<br><br>
+<p align="center"><img src="https://github.com/K-vanc/Tempest_Docker/assets/97025515/137b1d39-3229-4ce6-b5eb-79c186ca5426"></p>
+<br>
+
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/151149670-554137dd-2395-4982-ab42-4ac4ba382fa9.png"><img src="https://user-images.githubusercontent.com/97025515/151745807-1709ed8e-9de6-4299-844f-4e80e7f73598.png"></p>
 
