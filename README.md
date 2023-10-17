@@ -158,7 +158,7 @@ If you need to change php timezone, I suggest you to change also docker containe
 You can also make the same settings via Docker Desktop
 
 Note: Please consider that this docker image created for Operating Systems which are not natively support php and/or web servers, with consideration of small container size and low amount of memory usage so this is not a full performance build. I am also planning to make some performance and php-cli-only builds in the future. If your system natively supports php, I recommend you to directly go through tempest.php file.<br><br>
-<p align="center"><img src="https://github.com/K-vanc/Tempest_Docker/assets/97025515/137b1d39-3229-4ce6-b5eb-79c186ca5426"></p>
+<p align="center"><img src=""></p>
 <br>
 
 ## For more detailed information about usage and features, please take a look into **Declaration** and **TempestWIKI** documents..
