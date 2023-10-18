@@ -164,7 +164,9 @@ To run Tempest out of container or to use on scheduled operations such as Schedu
 
 Please replace "yourcontainername" part with name of your Tempest container. This command can be used with all other Tempest Cli commands and arguments(Channel Creation, Update etc.) for running Tempest out of container.<br>
 
-You can also make the same settings via Docker Desktop
+You can also make the same settings via Docker Desktop;<br>
+
+<p align="center"><img src="https://github.com/K-vanc/Tempest-EPG-Generator/assets/97025515/b630224b-b9ec-437c-8822-0d836a73b7f4"></p>
 
 Note: Please consider that this docker image created for Operating Systems which are not natively support php and/or web servers, with consideration of small container size and low amount of memory usage so this is not a full performance build. I am also planning to make some performance and php-cli-only builds in the future. If your system natively supports php, I recommend you to directly go through tempest.php file.<br><br>
 
