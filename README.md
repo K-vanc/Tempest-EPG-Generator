@@ -10,6 +10,7 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 ![Download](https://img.shields.io/github/downloads/K-vanc/Tempest-EPG-Generator/total)
 ![Size](https://img.shields.io/github/repo-size/K-vanc/Tempest-EPG-Generator)
 ![Docker Pulls](https://img.shields.io/docker/pulls/kvanc/tempest_epg?color=brightgreen)
+![Docker Image Size with architecture (latest by date/latest semver)](https://img.shields.io/docker/image-size/kvanc/tempest_epg?color=fuchsia)
 
 <div align="center">
   
@@ -128,17 +129,17 @@ or<br>
 * Supervisor support for controlling processes 
 * Non-privileged user for easy setup/file handling
 * Around 35MB image size
-## How to install
+## How to install Tempest Docker image?
 
     docker pull kvanc/tempest_epg:latest
 
-## How to start
+## How to start Tempest Docker container?
 
     docker run -p 80:8095 -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
 
 Please replace "/your/local/folder/" part with absolute path of your folder to access generated Tempest folders
 
-## How to adjust
+## How to adjust Tempest Docker container?
 
 If you need to change php.ini settings for timezone(default is Europe/Istanbul) or php memory setting(default is 128M), first create a 'php-user.ini' file as below example;
 
@@ -154,6 +155,14 @@ then you need to mount it into another point as below;
 If you need to change php timezone, I suggest you to change also docker container timezone(default is Europe/Istanbul) to same by running container with TZ environmental variable  as below;
 
     docker run -p 80:8095 -e TZ=Europe/London -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
+
+## How to run Tempest Docker container on scheduled operations?
+
+To run Tempest out of container or to use on scheduled operations such as Scheduled Tasks or Cron, you may use below command to run it as root user;
+
+    docker exec -u root yourcontainername php /var/www/html/tempest.php engine=Generate
+
+Please replace "yourcontainername" part with name of your Tempest container. This command can be used with all other Tempest Cli commands and arguments(Channel Creation, Update etc.) for running Tempest out of container.<br>
 
 You can also make the same settings via Docker Desktop
 
