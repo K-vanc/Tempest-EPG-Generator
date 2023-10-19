@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv24.lt_0">
+  <channels>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lrt-televizija||306_1488445569-logo_64.jpg" xmltv_id="LRT Televizija">LRT Televizija</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv3-2||303_1578384209-logo_64.jpg" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lnk||301_1520339152-logo_64.jpg" xmltv_id="LNK">LNK</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="btv||305_1520956000-logo_64.jpg" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv1||302_1421217703-logo_64.jpg" xmltv_id="TV1">TV1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lrt-plius||307_1538382450-logo_64.jpg" xmltv_id="LRT PLIUS">LRT PLIUS</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv3-plus||TV3-plus-logo_64.jpg" xmltv_id="TV3 PLUS">TV3 PLUS</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv6-2||TV6-Logo_red_RGB-logo_64.jpg" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="duo-3-baltic||duo_3@2x-(2)-logo_64.jpg" xmltv_id="Duo 3 Baltic">Duo 3 Baltic</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="duo-6-baltic||70_1470387888-logo_64.jpg" xmltv_id="Duo 6 Baltic">Duo 6 Baltic</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv7||324_1467119691-logo_64.jpg" xmltv_id="TV7">TV7</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv8||TV8_RED_rgb-logo_64.jpg" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="delfi-tv||delfitv_dark_blue-01-logo_64.jpg" xmltv_id="Delfi TV">Delfi TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-tv||INIT_TV_COLOR-logo_64.jpg" xmltv_id="Init TV">Init TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sport-1||336_1467180549-logo_64.jpg" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="info-tv||326_1467119944-logo_64.jpg" xmltv_id="Info TV">Info TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="2tv||download-logo_64.jpg" xmltv_id="2TV">2TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lrt-lituanica||325_1421217568-logo_64.jpg" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="marijampoles-tv||330_1275577093-logo_64.jpg" xmltv_id="Marijampolės TV">Marijampolės TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="dzukijos-tv||322_1397720661-logo_64.jpg" xmltv_id="Dzūkijos TV">Dzūkijos TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-wilno" xmltv_id="TVP Wilno">TVP Wilno</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv-polonia||503_1490877628-logo_64.jpg" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="balticum-auksinis||308_1418375359-logo_64.jpg" xmltv_id="Balticum Auksinis">Balticum Auksinis</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="balticum-platinum||998_1490874616-logo_64.jpg" xmltv_id="Balticum Platinum">Balticum Platinum</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-ekstra-tv||ekstra-logo-logo_64.jpg" xmltv_id="Init Ekstra TV">Init Ekstra TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="pukas-tv||321_1455902714-logo_64.jpg" xmltv_id="Pūkas TV">Pūkas TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="balticum-tv||309_1418375451-logo_64.jpg" xmltv_id="Balticum TV">Balticum TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="siauliu-tv||315_1469542600-logo_64.jpg" xmltv_id="Šiaulių TV">Šiaulių TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lietuvos-ryto-televizija||318_1539885851-logo_64.jpg" xmltv_id="Lietuvos ryto televizija">Lietuvos ryto televizija</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="zvaigzde||329_1468937284-logo_64.jpg" xmltv_id="Žvaigždė">Žvaigždė</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="taurages-tvk||327_1516963444-logo_64.jpg" xmltv_id="Tauragės TVK">Tauragės TVK</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="seimas-tiesiogiai||311_1454421011-logo_64.jpg" xmltv_id="Seimas tiesiogiai">Seimas tiesiogiai</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-play-tv||play_logo-logo_64.jpg" xmltv_id="INIT Play TV">INIT Play TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="gntv||597_1436963593-logo_64.jpg" xmltv_id="GNTV">GNTV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="filmzone||926_1454492851-logo_64.jpg" xmltv_id="Filmzone +">Filmzone +</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="filmzone-lt||927_1436953134-logo_64.jpg" xmltv_id="Filmzone LT">Filmzone LT</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="go3-films||go-films-logo_64.jpg" xmltv_id="GO3 Films">GO3 Films</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-kino||viasat-kino-logo_64.jpg" xmltv_id="Viasat Kino">Viasat Kino</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-kino-action||viasat-kino-action-logo_64.jpg" xmltv_id="Viasat Kino Action">Viasat Kino Action</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-kino-comedy||viasat-kino-comedy-logo_64.jpg" xmltv_id="Viasat Kino Comedy">Viasat Kino Comedy</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-kino-world||viasat-kino-world-logo_64.jpg" xmltv_id="Viasat Kino World">Viasat Kino World</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="balticum-auksinis||308_1418375359-logo_64.jpg" xmltv_id="Balticum Auksinis">Balticum Auksinis</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="balticum-platinum||998_1490874616-logo_64.jpg" xmltv_id="Balticum Platinum">Balticum Platinum</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv-21||935_1467120554-logo_64.jpg" xmltv_id="TV-21">TV-21</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="pro100tv||215_1467118518-logo_64.jpg" xmltv_id="Pro100TV">Pro100TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="go3-sport||sport-0-logo_64.jpg" xmltv_id="GO3 Sport">GO3 Sport</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="go3-sport-2||sport-2-logo_64.jpg" xmltv_id="GO3 Sport 2">GO3 Sport 2</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sport-1||336_1467180549-logo_64.jpg" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="eurosport-1||60_1470307829-logo_64.jpg" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="eurosport-2-bundesliga||58_1467181497-logo_64.jpg" xmltv_id="Eurosport 2 (Bundesliga)">Eurosport 2 (Bundesliga)</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="eurosport-2||61_1491387095-logo_64.jpg" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="nba||338_1454420591-logo_64.jpg" xmltv_id="NBA">NBA</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="extreme-sports||86_1467181586-logo_64.jpg" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kxl-tv||192_1467123510-logo_64.jpg" xmltv_id="КХЛ ТВ">КХЛ ТВ</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="setanta-eurasia||933_1454422589-logo_64.jpg" xmltv_id="Setanta Eurasia">Setanta Eurasia</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sport1||608_1491309276-logo_64.jpg" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="matc-boec-tv||159_1467116385-logo_64.jpg" xmltv_id="Матч! Боец ТВ">Матч! Боец ТВ</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-golf||925_1420787553-logo_64.jpg" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mtv-dance||71_1491913133-logo_64.jpg" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mtv-rocks||77_1491913315-logo_64.jpg" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mtv-live-hd||964_1491913264-logo_64.jpg" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="vh1-euro-imm||68_1418121432-logo_64.jpg" xmltv_id="VH1 Euro IMM">VH1 Euro IMM</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="vh1-classic-europe||72_1491384964-logo_64.jpg" xmltv_id="VH1 Classic Europe">VH1 Classic Europe</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="c-music-tv||92_1491380209-logo_64.jpg" xmltv_id="C Music TV">C Music TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mtv-hits||69_1491913231-logo_64.jpg" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mtv-europe||75_1467114450-logo_64.jpg" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mezzo||74_1467118253-logo_64.jpg" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="unitel-classica-hd||536_1454420108-logo_64.jpg" xmltv_id="Unitel Classica HD">Unitel Classica HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lrt-televizija||306_1488445569-logo_64.jpg" xmltv_id="LRT Televizija">LRT Televizija</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv3-2||303_1578384209-logo_64.jpg" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lnk||301_1520339152-logo_64.jpg" xmltv_id="LNK">LNK</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="btv||305_1520956000-logo_64.jpg" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lietuvos-ryto-televizija||318_1539885851-logo_64.jpg" xmltv_id="Lietuvos ryto televizija">Lietuvos ryto televizija</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv6-2||TV6-Logo_red_RGB-logo_64.jpg" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv1||302_1421217703-logo_64.jpg" xmltv_id="TV1">TV1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv8||TV8_RED_rgb-logo_64.jpg" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lrt-plius||307_1538382450-logo_64.jpg" xmltv_id="LRT PLIUS">LRT PLIUS</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="2tv||download-logo_64.jpg" xmltv_id="2TV">2TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="info-tv||326_1467119944-logo_64.jpg" xmltv_id="Info TV">Info TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="delfi-tv||delfitv_dark_blue-01-logo_64.jpg" xmltv_id="Delfi TV">Delfi TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv-polonia||503_1490877628-logo_64.jpg" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="current-time||857_1547105637-logo_64.jpg" xmltv_id="Current time">Current time</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-tv||INIT_TV_COLOR-logo_64.jpg" xmltv_id="Init TV">Init TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="dzukijos-tv||322_1397720661-logo_64.jpg" xmltv_id="Dzūkijos TV">Dzūkijos TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="siauliu-tv||315_1469542600-logo_64.jpg" xmltv_id="Šiaulių TV">Šiaulių TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv7||324_1467119691-logo_64.jpg" xmltv_id="TV7">TV7</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="pukas-tv||321_1455902714-logo_64.jpg" xmltv_id="Pūkas TV">Pūkas TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-play-tv||play_logo-logo_64.jpg" xmltv_id="INIT Play TV">INIT Play TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="taurages-tvk||327_1516963444-logo_64.jpg" xmltv_id="Tauragės TVK">Tauragės TVK</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="marijampoles-tv||330_1275577093-logo_64.jpg" xmltv_id="Marijampolės TV">Marijampolės TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="init-ekstra-tv||ekstra-logo-logo_64.jpg" xmltv_id="Init Ekstra TV">Init Ekstra TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="gntv||597_1436963593-logo_64.jpg" xmltv_id="GNTV">GNTV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="zvaigzde||329_1468937284-logo_64.jpg" xmltv_id="Žvaigždė">Žvaigždė</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="seimas-tiesiogiai||311_1454421011-logo_64.jpg" xmltv_id="Seimas tiesiogiai">Seimas tiesiogiai</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kidzonetv-lietuva||KZ_logo-splash@2x-300x300-logo_64.jpg" xmltv_id="KidzoneTV Lietuva">KidzoneTV Lietuva</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="nickelodeon-lietuva||1100_1579961094-logo_64.jpg" xmltv_id="Nickelodeon Lietuva">Nickelodeon Lietuva</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kidzone-mini-baltic||Kidzone-Plus-color-300x211-logo_64.jpg" xmltv_id="Kidzone Mini Baltic">Kidzone Mini Baltic</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kidzone-eesti||KZ_logo-splash@2x-300x300-logo_64.jpg" xmltv_id="Kidzone Eesti">Kidzone Eesti</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="lolo-tv-lt||427_1490874556-logo_64.jpg" xmltv_id="Lolo TV (LT)">Lolo TV (LT)</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="disney-channel||905_1491379607-logo_64.jpg" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="disney-junior||906_1454571629-logo_64.jpg" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="disney-xd||907_1454492863-logo_64.jpg" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="jimjam-russia||934_1467208008-logo_64.jpg" xmltv_id="JimJam Russia">JimJam Russia</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="nickelodeon-euro||960_1418121302-logo_64.jpg" xmltv_id="Nickelodeon EURO">Nickelodeon EURO</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="nick-jr||560_1454415832-logo_64.jpg" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="boomerang-baltic-cee||88_1467110641-logo_64.jpg" xmltv_id="Boomerang Baltic (CEE)">Boomerang Baltic (CEE)</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="cartoon-network-rse||959_1454423513-logo_64.jpg" xmltv_id="Cartoon Network RSE">Cartoon Network RSE</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="gulli||938_1491302239-logo_64.jpg" xmltv_id="Gulli">Gulli</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kika||606_1491313488-logo_64.jpg" xmltv_id="KIKA">KIKA</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-os-3||1036_1469110555-logo_64.jpg" xmltv_id="Viasat OS 3">Viasat OS 3</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="karusel||143_1490880036-logo_64.jpg" xmltv_id="Карусель">Карусель</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="mult||923_1465555798-logo_64.jpg" xmltv_id="Мульт">Мульт</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-channel-ce||41_1467121099-logo_64.jpg" xmltv_id="Discovery Channel CE">Discovery Channel CE</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="animal-planet-eu||40_1454492022-logo_64.jpg" xmltv_id="Animal Planet EU">Animal Planet EU</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="history-europe||963_1456822543-logo_64.jpg" xmltv_id="History Europe">History Europe</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="travel-channel||48_1490877373-logo_64.jpg" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-world-eu||42_1491373024-logo_64.jpg" xmltv_id="Discovery World EU">Discovery World EU</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-history||505_1275580530-logo_64.jpg" xmltv_id="TVP History">TVP History</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-dokument" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-kultura||506_1275580545-logo_64.jpg" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-kultura-2" xmltv_id="TVP Kultura 2">TVP Kultura 2</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-explore-nordic||explore-logo_64.jpg" xmltv_id="Viasat Explore Nordic">Viasat Explore Nordic</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-history-cee||history-logo_64.jpg" xmltv_id="Viasat History CEE">Viasat History CEE</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-nature-cee||nature-logo_64.jpg" xmltv_id="VIASAT Nature CEE">VIASAT Nature CEE</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-science-eu||43_1454492882-logo_64.jpg" xmltv_id="Discovery Science EU">Discovery Science EU</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="viasat-naturehistory-hd||941_1294140058-logo_64.jpg" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="nat-geo-wild-europe||49_1418121648-logo_64.jpg" xmltv_id="Nat Geo Wild Europe">Nat Geo Wild Europe</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="bbc-earth-hd||677_1470129655-logo_64.jpg" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-id-xtra||29_1491317400-logo_64.jpg" xmltv_id="Discovery ID XTRA">Discovery ID XTRA</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="national-geographic-channel-hd||936_1454495068-logo_64.jpg" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-hd-showcase||928_1491317225-logo_64.jpg" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="animal-planet-hd||426_1491317116-logo_64.jpg" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="discovery-dtx||673_1470055942-logo_64.jpg" xmltv_id="Discovery DTX">Discovery DTX</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="history2||93_1491373163-logo_64.jpg" xmltv_id="History2">History2</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="moya-planeta||422_1490879457-logo_64.jpg" xmltv_id="Моя планета">Моя планета</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tv-polonia||503_1490877628-logo_64.jpg" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tvp-info||507_1275580537-logo_64.jpg" xmltv_id="TVP Info">TVP Info</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="bbc-world||80_1472213898-logo_64.jpg" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="cnn||78_1418120947-logo_64.jpg" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="euronews||79_1491386244-logo_64.jpg" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="cnbc-europe||98_1418120898-logo_64.jpg" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sky-news||99_1491386449-logo_64.jpg" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="france-24-uk||904_1467117619-logo_64.jpg" xmltv_id="France 24 UK">France 24 UK</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="bloomberg||81_1491385922-logo_64.jpg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="da-vinci-learning||937_1491315279-logo_64.jpg" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kanal-5||641_1454421593-logo_64.jpg" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="uatv||417_1397725231-logo_64.jpg" xmltv_id="UA|TV">UA|TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="english-club-tv||400_1469093568-logo_64.jpg" xmltv_id="English Club TV">English Club TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="docubox||667_1470048418-logo_64.jpg" xmltv_id="DocuBox">DocuBox</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="canal-24-horas||648_1397725037-logo_64.jpg" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="3||TV3-LIFE_LOGO-logo_64.jpg" xmltv_id="3+">3+</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="fox-rff||162_1454493671-logo_64.jpg" xmltv_id="Fox RFF">Fox RFF</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="fox-life-rff||537_1467207704-logo_64.jpg" xmltv_id="Fox Life RFF">Fox Life RFF</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="tlc-pan||425_1454422602-logo_64.jpg" xmltv_id="TLC Pan">TLC Pan</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="duo-6-baltic||70_1470387888-logo_64.jpg" xmltv_id="Duo 6 Baltic">Duo 6 Baltic</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="duo-3-lietuva||logo_64_576_1491224554-logo_64.jpg" xmltv_id="Duo 3 Lietuva">Duo 3 Lietuva</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="e-entertainment||100_1491315508-logo_64.jpg" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="cbs-reality||82_1467120720-logo_64.jpg" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="travel-channel||48_1490877373-logo_64.jpg" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="food-network-hd-emea||544_1454494024-logo_64.jpg" xmltv_id="Food Network HD (EMEA)">Food Network HD (EMEA)</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="luxetv-hd||548_1465552432-logo_64.jpg" xmltv_id="Luxe.TV HD">Luxe.TV HD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="fashion-one||446_1490876857-logo_64.jpg" xmltv_id="Fashion One">Fashion One</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="arirang-tv||913_1481548249-logo_64.jpg" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="deutche-welle||56_1491303225-logo_64.jpg" xmltv_id="Deutche Welle">Deutche Welle</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="das-erste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="ard||604_1491303074-logo_64.jpg" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="rtl||50_1491308627-logo_64.jpg" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="pro-7||54_1491308520-logo_64.jpg" xmltv_id="PRO 7">PRO 7</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sat-1||55_1491308795-logo_64.jpg" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="arte||59_1491303157-logo_64.jpg" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="vox||611_1491309576-logo_64.jpg" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="rtl-2||53_1491308706-logo_64.jpg" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="super-rtl||51_1491309417-logo_64.jpg" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="sixx||828_1491308981-logo_64.jpg" xmltv_id="SIXX">SIXX</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="kabel-eins||610_1491303405-logo_64.jpg" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]tv24.lt_0" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+  </channels>
+</site>
