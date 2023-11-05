@@ -20,13 +20,6 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 
 </div>
 
-<div align="center">
-<br><b>Hi Everyone, I will be in vacation till 05.11.2023. Cya again after this date with new updates..</b>
-
-![vacation](https://github.com/K-vanc/Tempest-EPG-Generator/assets/97025515/09878b19-c312-4993-a50c-eca9287d8831)
-
-</div>
-
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/154066443-d8d8f358-9985-477f-9667-d53aa409c6b3.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>
 <br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br><br>
