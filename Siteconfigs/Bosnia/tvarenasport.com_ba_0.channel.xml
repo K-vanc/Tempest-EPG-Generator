@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvarenasport.com_ba_0">
   <channels>
-    <channel site="tvarenasport.com_ba_0" site_id="chanel-a1p" xmltv_id="ArenaPremium 1">ArenaPremium 1</channel>
-    <channel site="tvarenasport.com_ba_0" site_id="chanel-a2p" xmltv_id="ArenaPremium 2">ArenaPremium 2</channel>
-    <channel site="tvarenasport.com_ba_0" site_id="chanel-a3p" xmltv_id="ArenaPremium 3">ArenaPremium 3</channel>
+    <channel site="tvarenasport.com_ba_0" site_id="chanel-a1p" xmltv_id="Arena1Premium">Arena1Premium</channel>
+    <channel site="tvarenasport.com_ba_0" site_id="chanel-a2p" xmltv_id="Arena2Premium">Arena2Premium</channel>
+    <channel site="tvarenasport.com_ba_0" site_id="chanel-a3p" xmltv_id="Arena3Premium">Arena3Premium</channel>
     <channel site="tvarenasport.com_ba_0" site_id="chanel-01" xmltv_id="ArenaSport 1">ArenaSport 1</channel>
     <channel site="tvarenasport.com_ba_0" site_id="chanel-02" xmltv_id="ArenaSport 2">ArenaSport 2</channel>
     <channel site="tvarenasport.com_ba_0" site_id="chanel-03" xmltv_id="ArenaSport 3">ArenaSport 3</channel>
