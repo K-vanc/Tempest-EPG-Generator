@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]lguplus.com_0">
+  <channels>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="772" xmltv_id="더라이프[0]">더라이프[0]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="619" xmltv_id="KBS조이[1]">KBS조이[1]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="811" xmltv_id="KT알파 쇼핑[2]">KT알파 쇼핑[2]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="682" xmltv_id="tvN[3]">tvN[3]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="649" xmltv_id="홈앤쇼핑[4]">홈앤쇼핑[4]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="504" xmltv_id="SBS[5]">SBS[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="561" xmltv_id="TJB[5]">TJB[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="562" xmltv_id="CJB[5]">CJB[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="566" xmltv_id="TBC[5]">TBC[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="571" xmltv_id="KBC[5]">KBC[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="572" xmltv_id="JTV[5]">JTV[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="573" xmltv_id="JIBS[5]">JIBS[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="576" xmltv_id="KNN[5]">KNN[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="577" xmltv_id="UBC[5]">UBC[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="581" xmltv_id="G1[5]">G1[5]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="676" xmltv_id="GS샵[6]">GS샵[6]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="181" xmltv_id="KBS2[7]">KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="182" xmltv_id="경인 KBS2[7]">경인 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="184" xmltv_id="대전 KBS2[7]">대전 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="185" xmltv_id="청주 KBS2[7]">청주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="186" xmltv_id="충주 KBS2[7]">충주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="191" xmltv_id="대구 KBS2[7]">대구 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="200" xmltv_id="안동 KBS2[7]">안동 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="315" xmltv_id="포항 KBS2[7]">포항 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="316" xmltv_id="광주 KBS2[7]">광주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="317" xmltv_id="순천 KBS2[7]">순천 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="318" xmltv_id="목포 KBS2[7]">목포 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="320" xmltv_id="전주 KBS2[7]">전주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="323" xmltv_id="제주 KBS2[7]">제주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="324" xmltv_id="원주 KBS2[7]">원주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="325" xmltv_id="춘천 KBS2[7]">춘천 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="326" xmltv_id="강릉 KBS2[7]">강릉 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="327" xmltv_id="부산 KBS2[7]">부산 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="328" xmltv_id="울산 KBS2[7]">울산 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="329" xmltv_id="창원 KBS2[7]">창원 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="330" xmltv_id="진주 KBS2[7]">진주 KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="502" xmltv_id="KBS2[7]">KBS2[7]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="672" xmltv_id="CJ온스타일[8]">CJ온스타일[8]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="501" xmltv_id="KBS1[9]">KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="508" xmltv_id="경인 KBS1[9]">경인 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="511" xmltv_id="대전 KBS1[9]">대전 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="512" xmltv_id="청주 KBS1[9]">청주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="513" xmltv_id="충주 KBS1[9]">충주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="516" xmltv_id="대구 KBS1[9]">대구 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="517" xmltv_id="안동 KBS1[9]">안동 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="518" xmltv_id="포항 KBS1[9]">포항 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="521" xmltv_id="광주 KBS1[9]">광주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="522" xmltv_id="순천 KBS1[9]">순천 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="523" xmltv_id="목포 KBS1[9]">목포 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="524" xmltv_id="전주 KBS1[9]">전주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="525" xmltv_id="제주 KBS1[9]">제주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="526" xmltv_id="부산 KBS1[9]">부산 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="527" xmltv_id="울산 KBS1[9]">울산 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="528" xmltv_id="창원 KBS1[9]">창원 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="529" xmltv_id="진주 KBS1[9]">진주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="531" xmltv_id="원주 KBS1[9]">원주 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="532" xmltv_id="춘천 KBS1[9]">춘천 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="533" xmltv_id="강릉 KBS1[9]">강릉 KBS1[9]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="674" xmltv_id="롯데홈쇼핑[10]">롯데홈쇼핑[10]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="503" xmltv_id="MBC[11]">MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="536" xmltv_id="대전 MBC[11]">대전 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="537" xmltv_id="청주 MBC[11]">청주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="538" xmltv_id="충주 MBC[11]">충주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="541" xmltv_id="대구 MBC[11]">대구 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="542" xmltv_id="안동 MBC[11]">안동 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="543" xmltv_id="포항 MBC[11]">포항 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="546" xmltv_id="광주 MBC[11]">광주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="547" xmltv_id="여수 MBC[11]">여수 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="548" xmltv_id="목포 MBC[11]">목포 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="549" xmltv_id="전주 MBC[11]">전주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="550" xmltv_id="제주 MBC[11]">제주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="551" xmltv_id="부산 MBC[11]">부산 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="552" xmltv_id="울산 MBC[11]">울산 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="553" xmltv_id="마산 MBC[11]">마산 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="554" xmltv_id="진주 MBC[11]">진주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="556" xmltv_id="원주 MBC[11]">원주 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="557" xmltv_id="춘천 MBC[11]">춘천 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="558" xmltv_id="강릉 MBC[11]">강릉 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="559" xmltv_id="삼척 MBC[11]">삼척 MBC[11]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="675" xmltv_id="현대홈쇼핑[12]">현대홈쇼핑[12]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="673" xmltv_id="NS홈쇼핑[13]">NS홈쇼핑[13]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="505" xmltv_id="EBS1[14]">EBS1[14]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="747" xmltv_id="JTBC[15]">JTBC[15]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="750" xmltv_id="MBN[16]">MBN[16]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="738" xmltv_id="SK스토아[17]">SK스토아[17]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="749" xmltv_id="채널A[18]">채널A[18]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="746" xmltv_id="TV조선[19]">TV조선[19]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="737" xmltv_id="공영쇼핑[20]">공영쇼핑[20]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="780" xmltv_id="신세계쇼핑[21]">신세계쇼핑[21]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="687" xmltv_id="엠넷[22]">엠넷[22]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="734" xmltv_id="연합뉴스TV[23]">연합뉴스TV[23]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="698" xmltv_id="YTN[24]">YTN[24]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="755" xmltv_id="YTN사이언스[25]">YTN사이언스[25]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="596" xmltv_id="OBS[26]">OBS[26]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="616" xmltv_id="SBS Biz[27]">SBS Biz[27]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="813" xmltv_id="W쇼핑[28]">W쇼핑[28]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="626" xmltv_id="MBC에브리원[29]">MBC에브리원[29]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="740" xmltv_id="GS마이샵[30]">GS마이샵[30]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="617" xmltv_id="KBS드라마[31]">KBS드라마[31]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="781" xmltv_id="CJ온스타일플러스[32]">CJ온스타일플러스[32]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="612" xmltv_id="SBS플러스[33]">SBS플러스[33]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="760" xmltv_id="현대홈쇼핑+샵[34]">현대홈쇼핑+샵[34]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="621" xmltv_id="MBC드라마넷[35]">MBC드라마넷[35]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="783" xmltv_id="롯데 OneTV[36]">롯데 OneTV[36]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="782" xmltv_id="쇼핑엔티[37]">쇼핑엔티[37]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="615" xmltv_id="SBS퍼니[38]">SBS퍼니[38]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="799" xmltv_id="더드라마[39]">더드라마[39]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="606" xmltv_id="JTBC2[40]">JTBC2[40]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="812" xmltv_id="NS샵+[41]">NS샵+[41]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="696" xmltv_id="tvN STORY[42]">tvN STORY[42]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="679" xmltv_id="무비+[43]">무비+[43]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="684" xmltv_id="OCN[44]">OCN[44]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="686" xmltv_id="OCN Movies[45]">OCN Movies[45]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="652" xmltv_id="스크린[46]">스크린[46]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="653" xmltv_id="씨네프[47]">씨네프[47]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="756" xmltv_id="엠플렉스[48]">엠플렉스[48]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="724" xmltv_id="더 무비[49]">더 무비[49]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="574" xmltv_id="인디필름[50]">인디필름[50]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="685" xmltv_id="OCN Movies2[51]">OCN Movies2[51]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="605" xmltv_id="캐치온1[52]">캐치온1[52]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="777" xmltv_id="캐치온2[53]">캐치온2[53]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="593" xmltv_id="채널액션[54]">채널액션[54]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="594" xmltv_id="AsiaM[55]">AsiaM[55]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="519" xmltv_id="셀레스티얼 무비[56]">셀레스티얼 무비[56]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="598" xmltv_id="월드클래식무비[57]">월드클래식무비[57]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="153" xmltv_id="시네마천국[58]">시네마천국[58]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="739" xmltv_id="SBS FiL[59]">SBS FiL[59]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="807" xmltv_id="펀TV[60]">펀TV[60]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="779" xmltv_id="채널S[61]">채널S[61]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="570" xmltv_id="ENA PLAY[62]">ENA PLAY[62]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="609" xmltv_id="CNTV[63]">CNTV[63]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="177" xmltv_id="국민방송[64]">국민방송[64]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="717" xmltv_id="국회방송[65]">국회방송[65]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="666" xmltv_id="디원[66]">디원[66]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="713" xmltv_id="엣지TV[67]">엣지TV[67]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="701" xmltv_id="하이라이트TV[68]">하이라이트TV[68]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="623" xmltv_id="MBC ON[69]">MBC ON[69]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="797" xmltv_id="iHQ drama[70]">iHQ drama[70]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="798" xmltv_id="드라마큐브[71]">드라마큐브[71]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="694" xmltv_id="ENA[72]">ENA[72]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="802" xmltv_id="ENA DRAMA[73]">ENA DRAMA[73]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="620" xmltv_id="KBS Story[74]">KBS Story[74]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="599" xmltv_id="HQ+[75]">HQ+[75]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="712" xmltv_id="E채널[76]">E채널[76]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="803" xmltv_id="IHQ[77]">IHQ[77]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="662" xmltv_id="K스타[79]">K스타[79]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="689" xmltv_id="tvN DRAMA[80]">tvN DRAMA[80]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="727" xmltv_id="STATV[81]">STATV[81]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="775" xmltv_id="TV조선2[82]">TV조선2[82]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="603" xmltv_id="라이프타임[83]">라이프타임[83]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="784" xmltv_id="채널A+[84]">채널A+[84]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="787" xmltv_id="MBN+[85]">MBN+[85]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="660" xmltv_id="동아TV[86]">동아TV[86]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="748" xmltv_id="GTV[87]">GTV[87]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="767" xmltv_id="JTBC4[88]">JTBC4[88]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="736" xmltv_id="채널이엠[89]">채널이엠[89]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="569" xmltv_id="ENA STORY[90]">ENA STORY[90]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="624" xmltv_id="MBC M[91]">MBC M[91]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="568" xmltv_id="패션N[92]">패션N[92]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="564" xmltv_id="StoryTV[93]">StoryTV[93]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="150" xmltv_id="채널S플러스[94]">채널S플러스[94]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="506" xmltv_id="EBS2[95]">EBS2[95]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="808" xmltv_id="채널뷰[96]">채널뷰[96]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="806" xmltv_id="CMCTV[97]">CMCTV[97]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="671" xmltv_id="tvN SHOW[98]">tvN SHOW[98]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="635" xmltv_id="SBS Golf2[99]">SBS Golf2[99]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="614" xmltv_id="SBS골프[100]">SBS골프[100]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="602" xmltv_id="JTBC골프[101]">JTBC골프[101]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="795" xmltv_id="JTBC골프앤스포츠[102]">JTBC골프앤스포츠[102]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="650" xmltv_id="스포티비 골프 앤 헬스[103]">스포티비 골프 앤 헬스[103]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="613" xmltv_id="SBS스포츠[104]">SBS스포츠[104]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="618" xmltv_id="KBSN스포츠[105]">KBSN스포츠[105]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="622" xmltv_id="MBC스포츠+[106]">MBC스포츠+[106]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="667" xmltv_id="스포티비[107]">스포티비[107]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="638" xmltv_id="스포티비2[108]">스포티비2[108]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="800" xmltv_id="SPOTV Prime[109]">SPOTV Prime[109]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="162" xmltv_id="스포티비 온 1[110]">스포티비 온 1[110]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="163" xmltv_id="스포티비 온 2[111]">스포티비 온 2[111]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="692" xmltv_id="스카이스포츠[112]">스카이스포츠[112]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="637" xmltv_id="IB스포츠[113]">IB스포츠[113]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="535" xmltv_id="유로스포츠[114]">유로스포츠[114]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="578" xmltv_id="스크린골프존[115]">스크린골프존[115]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="778" xmltv_id="tvN SPORTS[116]">tvN SPORTS[116]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="647" xmltv_id="골프앤PBA[117]">골프앤PBA[117]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="668" xmltv_id="빌리어즈TV[118]">빌리어즈TV[118]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="681" xmltv_id="OGN[119]">OGN[119]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="741" xmltv_id="AfreecaTV[120]">AfreecaTV[120]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="665" xmltv_id="FTV[121]">FTV[121]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="625" xmltv_id="피싱TV[122]">피싱TV[122]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="567" xmltv_id="채널MX[123]">채널MX[123]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="575" xmltv_id="생활체육TV[124]">생활체육TV[124]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="579" xmltv_id="STN[125]">STN[125]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="659" xmltv_id="BallTV[126]">BallTV[126]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="670" xmltv_id="OLIFE[127]">OLIFE[127]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="661" xmltv_id="볼링플러스[128]">볼링플러스[128]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="641" xmltv_id="마운틴TV[129]">마운틴TV[129]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="683" xmltv_id="바둑TV[130]">바둑TV[130]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="663" xmltv_id="K바둑[131]">K바둑[131]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="707" xmltv_id="브레인TV[132]">브레인TV[132]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="804" xmltv_id="ONCE[133]">ONCE[133]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="726" xmltv_id="폴라리스TV[134]">폴라리스TV[134]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="705" xmltv_id="Ent.TV[135]">Ent.TV[135]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="725" xmltv_id="중화TV[136]">중화TV[136]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="644" xmltv_id="채널차이나[137]">채널차이나[137]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="658" xmltv_id="아시아N[138]">아시아N[138]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="591" xmltv_id="채널칭[139]">채널칭[139]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="654" xmltv_id="채널나우[140]">채널나우[140]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="744" xmltv_id="AXN[141]">AXN[141]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="723" xmltv_id="채널유[142]">채널유[142]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="700" xmltv_id="텔레노벨라[143]">텔레노벨라[143]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="656" xmltv_id="채널J[144]">채널J[144]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="655" xmltv_id="YTN2[145]">YTN2[145]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="161" xmltv_id="채널W[146]">채널W[146]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="154" xmltv_id="HITS[147]">HITS[147]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="584" xmltv_id="다문화TV[148]">다문화TV[148]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="774" xmltv_id="DOG TV[149]">DOG TV[149]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="657" xmltv_id="아이넷TV[150]">아이넷TV[150]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="651" xmltv_id="이벤트TV[151]">이벤트TV[151]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="688" xmltv_id="GMTV[152]">GMTV[152]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="794" xmltv_id="가요TV[153]">가요TV[153]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="770" xmltv_id="INETLIFE[154]">INETLIFE[154]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="690" xmltv_id="채널와이드[155]">채널와이드[155]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="563" xmltv_id="iHQ show[156]">iHQ show[156]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="634" xmltv_id="SBS M[158]">SBS M[158]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="146" xmltv_id="TV조선3[159]">TV조선3[159]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="604" xmltv_id="한국경제TV[162]">한국경제TV[162]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="630" xmltv_id="MTN 머니투데이방송[163]">MTN 머니투데이방송[163]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="627" xmltv_id="매일경제TV[164]">매일경제TV[164]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="771" xmltv_id="토마토증권통[165]">토마토증권통[165]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="631" xmltv_id="이데일리TV[166]">이데일리TV[166]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="752" xmltv_id="서울경제TV[167]">서울경제TV[167]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="742" xmltv_id="팍스경제TV[168]">팍스경제TV[168]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="580" xmltv_id="NBNTV[169]">NBNTV[169]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="583" xmltv_id="토마토집통[170]">토마토집통[170]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="714" xmltv_id="연합뉴스경제TV[171]">연합뉴스경제TV[171]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="600" xmltv_id="EBC[172]">EBC[172]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="160" xmltv_id="엑스원[174]">엑스원[174]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="753" xmltv_id="헬스메디TV[175]">헬스메디TV[175]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="167" xmltv_id="쿠키건강TV[176]">쿠키건강TV[176]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="611" xmltv_id="MBCNET[177]">MBCNET[177]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="680" xmltv_id="나인컬러스[178]">나인컬러스[178]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="809" xmltv_id="리얼TV[179]">리얼TV[179]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="814" xmltv_id="한국농업방송[180]">한국농업방송[180]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="648" xmltv_id="OBS W[181]">OBS W[181]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="582" xmltv_id="KBS LIFE[184]">KBS LIFE[184]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="585" xmltv_id="Now 제주채널[185]">Now 제주채널[185]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="758" xmltv_id="실버아이TV[186]">실버아이TV[186]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="764" xmltv_id="채널i[187]">채널i[187]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="765" xmltv_id="시니어TV[188]">시니어TV[188]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="766" xmltv_id="국악방송[189]">국악방송[189]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="147" xmltv_id="iHQ play[190]">iHQ play[190]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="148" xmltv_id="RNA[191]">RNA[191]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="149" xmltv_id="리빙TV[192]">리빙TV[192]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="610" xmltv_id="디스커버리[194]">디스커버리[194]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="678" xmltv_id="복지TV[199]">복지TV[199]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="729" xmltv_id="CNN International[200]">CNN International[200]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="709" xmltv_id="BBC News[201]">BBC News[201]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="174" xmltv_id="CNBC[202]">CNBC[202]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="544" xmltv_id="블룸버그[203]">블룸버그[203]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="815" xmltv_id="CNN US[204]">CNN US[204]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="601" xmltv_id="아리랑TV[205]">아리랑TV[205]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="176" xmltv_id="CGTN[206]">CGTN[206]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="669" xmltv_id="NHK World-JAPAN[207]">NHK World-JAPAN[207]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="178" xmltv_id="CCTV4[208]">CCTV4[208]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="633" xmltv_id="NHK World Premium[209]">NHK World Premium[209]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="540" xmltv_id="TV5몽드[210]">TV5몽드[210]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="697" xmltv_id="내셔널 지오그래픽[215]">내셔널 지오그래픽[215]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="718" xmltv_id="냇지오 와일드[216]">냇지오 와일드[216]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="773" xmltv_id="BBC Earth[217]">BBC Earth[217]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="664" xmltv_id="히스토리[218]">히스토리[218]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="710" xmltv_id="아웃도어 채널[220]">아웃도어 채널[220]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="539" xmltv_id="HGTV[221]">HGTV[221]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="733" xmltv_id="BBC Lifestyle[223]">BBC Lifestyle[223]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="156" xmltv_id="MUSEUM[225]">MUSEUM[225]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="157" xmltv_id="LOVE NATURE[226]">LOVE NATURE[226]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="155" xmltv_id="Animal Planet[227]">Animal Planet[227]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="691" xmltv_id="한경arteTV[230]">한경arteTV[230]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="708" xmltv_id="ORFEO[231]">ORFEO[231]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="560" xmltv_id="메조라이브 HD[232]">메조라이브 HD[232]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="732" xmltv_id="STINGRAY cmusic[233]">STINGRAY cmusic[233]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="530" xmltv_id="U+tv 라이브[234]">U+tv 라이브[234]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="179" xmltv_id="방송대학TV[242]">방송대학TV[242]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="704" xmltv_id="국방TV[244]">국방TV[244]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="720" xmltv_id="tbsTV[245]">tbsTV[245]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="169" xmltv_id="소상공인시장tv[246]">소상공인시장tv[246]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="170" xmltv_id="MGTV[247]">MGTV[247]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="586" xmltv_id="법률방송[250]">법률방송[250]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="589" xmltv_id="한국직업방송[251]">한국직업방송[251]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="588" xmltv_id="육아방송[252]">육아방송[252]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="587" xmltv_id="지방자치TV[253]">지방자치TV[253]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="152" xmltv_id="EyTV[257]">EyTV[257]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="769" xmltv_id="CTS[269]">CTS[269]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="711" xmltv_id="CBS[270]">CBS[270]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="754" xmltv_id="CGN[271]">CGN[271]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="745" xmltv_id="C채널[272]">C채널[272]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="565" xmltv_id="GOODTV[273]">GOODTV[273]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="721" xmltv_id="가톨릭평화방송[274]">가톨릭평화방송[274]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="702" xmltv_id="BTN[275]">BTN[275]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="759" xmltv_id="BBS[276]">BBS[276]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="171" xmltv_id="상생방송[277]">상생방송[277]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="785" xmltv_id="원음방송[278]">원음방송[278]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="158" xmltv_id="더키즈[300]">더키즈[300]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="509" xmltv_id="베이비TV[302]">베이비TV[302]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="515" xmltv_id="Cbeebies[303]">Cbeebies[303]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="555" xmltv_id="대교 노리Q[304]">대교 노리Q[304]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="545" xmltv_id="뽀요TV[305]">뽀요TV[305]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="790" xmltv_id="키즈톡톡+[306]">키즈톡톡+[306]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="164" xmltv_id="신기한나라TV[307]">신기한나라TV[307]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="592" xmltv_id="잉글리시 젬[308]">잉글리시 젬[308]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="510" xmltv_id="드림웍스채널[309]">드림웍스채널[309]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="175" xmltv_id="플레이런TV[311]">플레이런TV[311]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="607" xmltv_id="EBS키즈[312]">EBS키즈[312]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="716" xmltv_id="카툰네트워크[316]">카툰네트워크[316]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="757" xmltv_id="부메랑[317]">부메랑[317]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="728" xmltv_id="브라보키즈[320]">브라보키즈[320]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="608" xmltv_id="KBS키즈[321]">KBS키즈[321]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="761" xmltv_id="어린이TV[322]">어린이TV[322]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="776" xmltv_id="JEI재능TV[323]">JEI재능TV[323]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="693" xmltv_id="투니버스[324]">투니버스[324]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="636" xmltv_id="애니원[325]">애니원[325]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="703" xmltv_id="애니맥스[326]">애니맥스[326]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="695" xmltv_id="애니박스[327]">애니박스[327]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="699" xmltv_id="애니플러스[328]">애니플러스[328]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="172" xmltv_id="EBS+1[340]">EBS+1[340]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="173" xmltv_id="EBS+2[341]">EBS+2[341]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="768" xmltv_id="EBS English[342]">EBS English[342]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="793" xmltv_id="JEI EnglishTV[343]">JEI EnglishTV[343]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="168" xmltv_id="에듀TV[344]">에듀TV[344]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="735" xmltv_id="Davinci Learning[345]">Davinci Learning[345]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="890" xmltv_id="슈퍼팩[380]">슈퍼팩[380]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="199" xmltv_id="유플릭스무비[381]">유플릭스무비[381]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="891" xmltv_id="애니프리미엄 월정액[382]">애니프리미엄 월정액[382]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="892" xmltv_id="키즈 월정액[383]">키즈 월정액[383]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="896" xmltv_id="지상파월정액 양방향[384]">지상파월정액 양방향[384]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="893" xmltv_id="KBS 월정액[386]">KBS 월정액[386]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="894" xmltv_id="MBC ALL 월정액[387]">MBC ALL 월정액[387]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="895" xmltv_id="SBS 월정액[388]">SBS 월정액[388]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="629" xmltv_id="플레이보이[390]">플레이보이[390]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="628" xmltv_id="미드나잇[391]">미드나잇[391]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="751" xmltv_id="비키[392]">비키[392]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="743" xmltv_id="허니TV[393]">허니TV[393]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="166" xmltv_id="디자이어TV[394]">디자이어TV[394]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="165" xmltv_id="핑크하우스[395]">핑크하우스[395]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="801" xmltv_id="비너스TV[396]">비너스TV[396]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="404" xmltv_id="360VR[582]">360VR[582]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="144" xmltv_id="SKY UHD[971]">SKY UHD[971]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="145" xmltv_id="INULTRA[972]">INULTRA[972]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="143" xmltv_id="Asia UHD[973]">Asia UHD[973]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="810" xmltv_id="UMAX[974]">UMAX[974]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="805" xmltv_id="UHD Dream TV[975]">UHD Dream TV[975]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="514" xmltv_id="SBS필 UHD[976]">SBS필 UHD[976]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="818" xmltv_id="UXN-UHD[977]">UXN-UHD[977]</channel>
+    <channel site="[ENC][EX]lguplus.com_0" site_id="677" xmltv_id="U+투데이[999]">U+투데이[999]</channel>
+  </channels>
+</site>
