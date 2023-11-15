@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tving.com_0">
+  <channels>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00551" xmltv_id="tvN">tvN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01582" xmltv_id="JTBC">JTBC</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00579" xmltv_id="Mnet">Mnet</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00710" xmltv_id="KBS2">KBS2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00601" xmltv_id="CJ 온스타일">CJ 온스타일</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01143" xmltv_id="tvN DRAMA">tvN DRAMA</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00711" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C05022" xmltv_id="현대홈쇼핑">현대홈쇼핑</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C07381" xmltv_id="OCN">OCN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00712" xmltv_id="SBS">SBS</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01282" xmltv_id="GS SHOP">GS SHOP</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00709" xmltv_id="KBS1">KBS1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C04601" xmltv_id="OCN Movies">OCN Movies</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C07382" xmltv_id="OCN Movies2">OCN Movies2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01141" xmltv_id="tvN SHOW">tvN SHOW</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C06941" xmltv_id="투니버스">투니버스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00544" xmltv_id="중화TV">중화TV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00593" xmltv_id="YTN">YTN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00708" xmltv_id="MBN">MBN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01583" xmltv_id="채널A">채널A</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01581" xmltv_id="TV CHOSUN">TV CHOSUN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01723" xmltv_id="연합뉴스TV">연합뉴스TV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C05961" xmltv_id="CH.코미디 빅리그">CH.코미디 빅리그</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C06761" xmltv_id="CH.시그널">CH.시그널</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C06762" xmltv_id="CH.응답하라1988">CH.응답하라1988</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00772" xmltv_id="EBS1">EBS1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C06801" xmltv_id="CH.치즈인더트랩">CH.치즈인더트랩</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C05021" xmltv_id="롯데홈쇼핑">롯데홈쇼핑</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00566" xmltv_id="SPOTV">SPOTV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C03681" xmltv_id="SPOTV2">SPOTV2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C03101" xmltv_id="SPOTV Golf &amp; Health">SPOTV Golf &amp; Health</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00588" xmltv_id="JTBC Golf">JTBC Golf</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15846" xmltv_id="SBS Biz">SBS Biz</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00589" xmltv_id="ETN 연예채널">ETN 연예채널</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00595" xmltv_id="한국경제TV">한국경제TV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15347" xmltv_id="YTN사이언스">YTN사이언스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15741" xmltv_id="JTBC2">JTBC2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00585" xmltv_id="TV CHOSUN 2">TV CHOSUN 2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C17141" xmltv_id="채널A플러스">채널A플러스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C17142" xmltv_id="MBN 플러스">MBN 플러스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C17341" xmltv_id="히스토리">히스토리</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01101" xmltv_id="YTN2">YTN2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C19841" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C46741" xmltv_id="CH.이십세기 힛-트쏭">CH.이십세기 힛-트쏭</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51866" xmltv_id="CH.구미호뎐 1938">CH.구미호뎐 1938</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52062" xmltv_id="CH.걸스 나잇 아웃">CH.걸스 나잇 아웃</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52064" xmltv_id="CH.이로운 사기">CH.이로운 사기</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52066" xmltv_id="CH.텐트 밖은 유럽 노르웨이 편">CH.텐트 밖은 유럽 노르웨이 편</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00596" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15042" xmltv_id="T LIVE">T LIVE</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C02901" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00549" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51369" xmltv_id="CH.악마판사">CH.악마판사</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51282" xmltv_id="CH.너는 나의 봄">CH.너는 나의 봄</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51370" xmltv_id="CH.효리네민박1">CH.효리네민박1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C07261" xmltv_id="CH.오 나의 귀신님">CH.오 나의 귀신님</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C01064" xmltv_id="CH.로맨스가 필요해2012">CH.로맨스가 필요해2012</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C07681" xmltv_id="CH.신의퀴즈4">CH.신의퀴즈4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14441" xmltv_id="SBS스포츠">SBS스포츠</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14442" xmltv_id="KBS N 스포츠">KBS N 스포츠</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14443" xmltv_id="MBC SPORTS+">MBC SPORTS+</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14446" xmltv_id="IHQ show">IHQ show</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14444" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14445" xmltv_id="디스커버리 채널">디스커버리 채널</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14447" xmltv_id="캐치온1">캐치온1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C04042" xmltv_id="애니맥스">애니맥스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C05441" xmltv_id="ANIBOX">ANIBOX</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00562" xmltv_id="동아TV">동아TV</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00611" xmltv_id="LIFETIME">LIFETIME</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00805" xmltv_id="JTBC GOLF&amp;SPORTS">JTBC GOLF&amp;SPORTS</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15147" xmltv_id="캐치온2">캐치온2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51367" xmltv_id="드림웍스">드림웍스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51368" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51373" xmltv_id="CH.슬기로운 의사생활 시즌2">CH.슬기로운 의사생활 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51299" xmltv_id="CH.걸스플래닛999:소녀대전">CH.걸스플래닛999:소녀대전</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51304" xmltv_id="CH.식스센스2">CH.식스센스2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51302" xmltv_id="CH.송민호의 파일럿">CH.송민호의 파일럿</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51387" xmltv_id="CH.흔한남매의 안흔한일기4">CH.흔한남매의 안흔한일기4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51389" xmltv_id="CH.슬기로운 산촌생활">CH.슬기로운 산촌생활</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51310" xmltv_id="CH.해치지 않아">CH.해치지 않아</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51311" xmltv_id="CH.키마이라">CH.키마이라</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51312" xmltv_id="CH.지리산">CH.지리산</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51448" xmltv_id="CH.어사와 조이">CH.어사와 조이</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51452" xmltv_id="CH.바퀴달린집3">CH.바퀴달린집3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51396" xmltv_id="CH.갯마을 차차차">CH.갯마을 차차차</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51399" xmltv_id="CH.고스트 닥터">CH.고스트 닥터</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51402" xmltv_id="CH.알쓸범잡2">CH.알쓸범잡2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51459" xmltv_id="CH.스물다섯 스물하나">CH.스물다섯 스물하나</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51407" xmltv_id="CH.군검사 도베르만">CH.군검사 도베르만</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51403" xmltv_id="UFC">UFC</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51404" xmltv_id="tvN SPORTS">tvN SPORTS</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51457" xmltv_id="CH.골프왕 시즌1~3">CH.골프왕 시즌1~3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51458" xmltv_id="CH.우리 이혼했어요 시즌1~2">CH.우리 이혼했어요 시즌1~2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51411" xmltv_id="CH.연애도사 시즌1">CH.연애도사 시즌1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51412" xmltv_id="CH.연애도사 시즌2">CH.연애도사 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51413" xmltv_id="CH.강호동의 밥심">CH.강호동의 밥심</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51414" xmltv_id="CH.언니한텐 말해도 돼">CH.언니한텐 말해도 돼</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51465" xmltv_id="CH.밥은 먹고 다니냐">CH.밥은 먹고 다니냐</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51464" xmltv_id="CH.어쩌다 사장2">CH.어쩌다 사장2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51467" xmltv_id="CH.식스센스3">CH.식스센스3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51469" xmltv_id="CH.살인자의 쇼핑목록">CH.살인자의 쇼핑목록</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51470" xmltv_id="CH.우리들의 블루스">CH.우리들의 블루스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51421" xmltv_id="CH.UFC 하이라이트">CH.UFC 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51479" xmltv_id="CH.월드복싱 슈퍼매치 하이라이트">CH.월드복싱 슈퍼매치 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51422" xmltv_id="CH.2022 AFC U23 아시안컵 하이라이트">CH.2022 AFC U23 아시안컵 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51423" xmltv_id="CH.2022 분데스리가 하이라이트">CH.2022 분데스리가 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51424" xmltv_id="CH.2022 AFC 챔피언스리그 하이라이트">CH.2022 AFC 챔피언스리그 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51480" xmltv_id="CH.2022 AFC 여자아시안컵 하이라이트">CH.2022 AFC 여자아시안컵 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51425" xmltv_id="CH.2022 카타르월드컵 아시아 최종 예선 하이라이트">CH.2022 카타르월드컵 아시아 최종 예선 하이라이트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51475" xmltv_id="CH.벌거벗은 한국사">CH.벌거벗은 한국사</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51420" xmltv_id="CH.백패커">CH.백패커</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51419" xmltv_id="분데스리가2">분데스리가2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51550" xmltv_id="CH.뿅뿅 지구오락실">CH.뿅뿅 지구오락실</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51433" xmltv_id="CH.조선 정신과 의사 유세풍">CH.조선 정신과 의사 유세풍</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51434" xmltv_id="CH.미스터트롯&amp;미스트롯-영웅들의 탄생">CH.미스터트롯&amp;미스트롯-영웅들의 탄생</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51436" xmltv_id="CH.텐트 밖은 유럽">CH.텐트 밖은 유럽</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51438" xmltv_id="CH.작은 아씨들">CH.작은 아씨들</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51649" xmltv_id="CH.월수금화목토">CH.월수금화목토</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51653" xmltv_id="CH.스트릿 맨 파이터">CH.스트릿 맨 파이터</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51650" xmltv_id="WTA 투어">WTA 투어</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51651" xmltv_id="WTA 투어 월드피드">WTA 투어 월드피드</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51748" xmltv_id="CH.슈룹">CH.슈룹</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51749" xmltv_id="CH.바퀴 달린 집4">CH.바퀴 달린 집4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51658" xmltv_id="CH.연예인 매니저로 살아남기">CH.연예인 매니저로 살아남기</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51662" xmltv_id="CH.내 어깨를 봐 탈골 됐잖아">CH.내 어깨를 봐 탈골 됐잖아</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51663" xmltv_id="CH.쇼미 더 머니11">CH.쇼미 더 머니11</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51664" xmltv_id="CH.인생에 한 번쯤 킬리만자로">CH.인생에 한 번쯤 킬리만자로</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51665" xmltv_id="CH.한도초과">CH.한도초과</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51849" xmltv_id="CH.돈쭐내러 왔습니다">CH.돈쭐내러 왔습니다</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51667" xmltv_id="CH.아일랜드 part 1 요약 리뷰">CH.아일랜드 part 1 요약 리뷰</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51952" xmltv_id="CH.환혼: 빛과 그림자">CH.환혼: 빛과 그림자</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51953" xmltv_id="CH.미씽: 그들이 있었다2">CH.미씽: 그들이 있었다2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51852" xmltv_id="CH.알쓸인잡">CH.알쓸인잡</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51954" xmltv_id="CH.캐나다 체크인">CH.캐나다 체크인</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51850" xmltv_id="2023 KBO 리그1">2023 KBO 리그1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51851" xmltv_id="2023 KBO 리그2">2023 KBO 리그2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51949" xmltv_id="2023 KBO 리그3">2023 KBO 리그3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51950" xmltv_id="2023 KBO 리그4">2023 KBO 리그4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51951" xmltv_id="2023 KBO 리그5">2023 KBO 리그5</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51854" xmltv_id="CH.조선 정신과 의사 유세풍 2">CH.조선 정신과 의사 유세풍 2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52047" xmltv_id="CH.일타스캔들">CH.일타스캔들</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51855" xmltv_id="CH.고독한 훈련사">CH.고독한 훈련사</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51856" xmltv_id="CH.화사쇼">CH.화사쇼</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52050" xmltv_id="CH.청춘월담">CH.청춘월담</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51858" xmltv_id="CH.성스러운 아이돌">CH.성스러운 아이돌</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52051" xmltv_id="CH.현지인 브리핑, 지금 우리 나라는">CH.현지인 브리핑, 지금 우리 나라는</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52052" xmltv_id="CH.보이즈 플래닛">CH.보이즈 플래닛</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52053" xmltv_id="CH.서진이네">CH.서진이네</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52057" xmltv_id="CH.그림형제">CH.그림형제</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51859" xmltv_id="CH.판도라 : 조작된 낙원">CH.판도라 : 조작된 낙원</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51860" xmltv_id="CH.명의들의 경고">CH.명의들의 경고</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51861" xmltv_id="CH.텐트 밖은 유럽 스페인 편">CH.텐트 밖은 유럽 스페인 편</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51862" xmltv_id="CH.조선의 사랑꾼">CH.조선의 사랑꾼</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51864" xmltv_id="23/24 AFC 챔피언스리그">23/24 AFC 챔피언스리그</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52058" xmltv_id="CH.스틸러">CH.스틸러</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51865" xmltv_id="CH.패밀리">CH.패밀리</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52059" xmltv_id="CH.아주 사적인 동남아">CH.아주 사적인 동남아</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52060" xmltv_id="CH.장사천재 백사장">CH.장사천재 백사장</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51867" xmltv_id="CH.하이스코어2">CH.하이스코어2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52063" xmltv_id="CH.부산촌놈 in 시드니">CH.부산촌놈 in 시드니</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52068" xmltv_id="CH.회장님네 사람들">CH.회장님네 사람들</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52075" xmltv_id="CH.동네스타 K3">CH.동네스타 K3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52077" xmltv_id="CH.뿅뿅 지구오락실2">CH.뿅뿅 지구오락실2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52078" xmltv_id="CH.이번 생도 잘 부탁해">CH.이번 생도 잘 부탁해</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52069" xmltv_id="CH.크라임씬 1~2">CH.크라임씬 1~2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52070" xmltv_id="CH.방구석 1열">CH.방구석 1열</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52079" xmltv_id="CH.댄스가수 유랑단">CH.댄스가수 유랑단</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52071" xmltv_id="CH.히든싱어 1~2">CH.히든싱어 1~2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52080" xmltv_id="CH.짠내골프">CH.짠내골프</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52072" xmltv_id="CH.뭉쳐야뜬다 1">CH.뭉쳐야뜬다 1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52081" xmltv_id="CH.100일의 기적">CH.100일의 기적</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52082" xmltv_id="CH.원픽은, 흔한남매">CH.원픽은, 흔한남매</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52073" xmltv_id="CH.힘쎈 여자 도봉순">CH.힘쎈 여자 도봉순</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52074" xmltv_id="CH.알고있지만">CH.알고있지만</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52083" xmltv_id="CH.소용없어 거짓말">CH.소용없어 거짓말</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52085" xmltv_id="CH.민쩌미3">CH.민쩌미3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52087" xmltv_id="CH.꾹TV2">CH.꾹TV2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C52086" xmltv_id="아시아 프로야구 챔피언십 2023">아시아 프로야구 챔피언십 2023</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C04761" xmltv_id="CH.응답하라 1997">CH.응답하라 1997</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C00605" xmltv_id="SBS골프">SBS골프</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51276" xmltv_id="CH.간 떨어지는 동거">CH.간 떨어지는 동거</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51363" xmltv_id="분데스리가1">분데스리가1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51365" xmltv_id="CH.어느 날 우리 집 현관으로 멸망이 들어왔다">CH.어느 날 우리 집 현관으로 멸망이 들어왔다</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51364" xmltv_id="CH.마인">CH.마인</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51360" xmltv_id="CH.바퀴달린집2">CH.바퀴달린집2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51359" xmltv_id="CH.알쓸범잡">CH.알쓸범잡</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51358" xmltv_id="CH.킹덤:레전더리 워">CH.킹덤:레전더리 워</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51357" xmltv_id="CH.어쩌다사장">CH.어쩌다사장</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51263" xmltv_id="국회방송(NATV)">국회방송(NATV)</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51262" xmltv_id="CH.마우스">CH.마우스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51260" xmltv_id="CH.빈센조">CH.빈센조</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51258" xmltv_id="tvN STORY">tvN STORY</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51255" xmltv_id="CH.벌거벗은 세계사">CH.벌거벗은 세계사</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51348" xmltv_id="CH.윤스테이">CH.윤스테이</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51254" xmltv_id="CH.여신강림">CH.여신강림</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C51247" xmltv_id="MCOUNTDOWN IN FRANCE">MCOUNTDOWN IN FRANCE</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C50948" xmltv_id="CH.경이로운 소문">CH.경이로운 소문</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C50942" xmltv_id="CH.바닷길 선발대">CH.바닷길 선발대</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C50841" xmltv_id="CH.산후조리원">CH.산후조리원</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C50341" xmltv_id="CH.써치">CH.써치</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C49941" xmltv_id="CH.신서유기8">CH.신서유기8</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C49742" xmltv_id="CH.신서유기 레전드 정주행">CH.신서유기 레전드 정주행</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C49741" xmltv_id="CH. 놀토 레전드 정주행">CH. 놀토 레전드 정주행</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C47641" xmltv_id="CH.미씽:그들이있었다">CH.미씽:그들이있었다</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C47141" xmltv_id="CH.비밀의숲2">CH.비밀의숲2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C46842" xmltv_id="CH.여름방학">CH.여름방학</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C46441" xmltv_id="CH.흔한남매의 안흔한일기">CH.흔한남매의 안흔한일기</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C46241" xmltv_id="CH.노는언니">CH.노는언니</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C46041" xmltv_id="CH.바퀴 달린 집">CH.바퀴 달린 집</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45941" xmltv_id="CH.찾았다 스트레이키즈 최신판">CH.찾았다 스트레이키즈 최신판</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45741" xmltv_id="CH.사이코지만 괜찮아">CH.사이코지만 괜찮아</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45443" xmltv_id="CH.(아는건 별로 없지만) 가족입니다">CH.(아는건 별로 없지만) 가족입니다</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45241" xmltv_id="CH.번외수사">CH.번외수사</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45043" xmltv_id="CH.삼시세끼 어촌편5">CH.삼시세끼 어촌편5</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C45042" xmltv_id="CH.오 마이 베이비">CH.오 마이 베이비</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44941" xmltv_id="CH.화양연화">CH.화양연화</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44843" xmltv_id="CH.밥블레스유2">CH.밥블레스유2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44644" xmltv_id="CH.슬기로운 의사생활">CH.슬기로운 의사생활</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44642" xmltv_id="CH.방탄소년단과 아이들">CH.방탄소년단과 아이들</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44641" xmltv_id="CH.외식하는 날">CH.외식하는 날</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44542" xmltv_id="CH.연애공식구하리">CH.연애공식구하리</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C44541" xmltv_id="CH.대탈출3">CH.대탈출3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C43941" xmltv_id="CH.하이바이마마">CH.하이바이마마</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C43341" xmltv_id="SBS F!L">SBS F!L</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C43242" xmltv_id="SBS M">SBS M</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C43743" xmltv_id="CH.무엇이든 물어보살">CH.무엇이든 물어보살</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C43642" xmltv_id="CH.냐옹은 페이크다">CH.냐옹은 페이크다</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42843" xmltv_id="CH.머니게임">CH.머니게임</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42842" xmltv_id="CH.엑스가리온">CH.엑스가리온</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42541" xmltv_id="CH.연애의 참견 시즌3">CH.연애의 참견 시즌3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42441" xmltv_id="CH.연애의 참견 시즌2">CH.연애의 참견 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42341" xmltv_id="CH.블랙독">CH.블랙독</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C42241" xmltv_id="CH.사랑의불시착">CH.사랑의불시착</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41442" xmltv_id="CH.강식당 3">CH.강식당 3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41441" xmltv_id="CH.대한외국인">CH.대한외국인</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41641" xmltv_id="CH.싸이코패스 다이어리">CH.싸이코패스 다이어리</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41243" xmltv_id="CH.마녀사냥">CH.마녀사냥</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C40841" xmltv_id="CH.아는형님">CH.아는형님</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41346" xmltv_id="CH.멜로가 체질">CH.멜로가 체질</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C40542" xmltv_id="CH.식스센스">CH.식스센스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C40441" xmltv_id="CH.대탈출4">CH.대탈출4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41043" xmltv_id="CH.신서유기7">CH.신서유기7</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C41141" xmltv_id="CH.스트리트푸드파이터 시즌2">CH.스트리트푸드파이터 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C39743" xmltv_id="CH.시베리아 선발대">CH.시베리아 선발대</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C38542" xmltv_id="CH.삼시세끼 산촌편">CH.삼시세끼 산촌편</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C37742" xmltv_id="CH.호텔 델루나">CH.호텔 델루나</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C36741" xmltv_id="CH.강식당 2">CH.강식당 2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C36541" xmltv_id="CH.검색어를 입력하세요 WWW">CH.검색어를 입력하세요 WWW</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C36441" xmltv_id="CH.아스달연대기">CH.아스달연대기</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C35941" xmltv_id="CH.호구들의 감빵생활">CH.호구들의 감빵생활</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C35641" xmltv_id="CH.구해줘2">CH.구해줘2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C35341" xmltv_id="CH.현지에서 먹힐까 시즌3">CH.현지에서 먹힐까 시즌3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C34941" xmltv_id="CH.대탈출2">CH.대탈출2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C34541" xmltv_id="CH.자백">CH.자백</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C34741" xmltv_id="CH.스페인하숙">CH.스페인하숙</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C33241" xmltv_id="CH.어서와 한국은 처음이지">CH.어서와 한국은 처음이지</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C33042" xmltv_id="CH.막돼먹은 영애씨17">CH.막돼먹은 영애씨17</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C32742" xmltv_id="CH.신서유기 신박한 게임">CH.신서유기 신박한 게임</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C32641" xmltv_id="CH.로맨스는 별책부록">CH.로맨스는 별책부록</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C32441" xmltv_id="CH.놀라운 토요일">CH.놀라운 토요일</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C31642" xmltv_id="CH.신서유기6">CH.신서유기6</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C31741" xmltv_id="CH.신서유기5">CH.신서유기5</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C30641" xmltv_id="CH.남자친구">CH.남자친구</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C30343" xmltv_id="CH.연애의 참견 시즌1">CH.연애의 참견 시즌1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C30141" xmltv_id="CH.신의퀴즈:리부트">CH.신의퀴즈:리부트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C29141" xmltv_id="CH.알쓸신잡3">CH.알쓸신잡3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C28841" xmltv_id="CH.유 퀴즈 온 더 블럭">CH.유 퀴즈 온 더 블럭</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C28442" xmltv_id="CH.백일의 낭군님">CH.백일의 낭군님</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C28241" xmltv_id="CH.대탈출">CH.대탈출</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C27641" xmltv_id="CH.아는 와이프">CH.아는 와이프</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C26941" xmltv_id="CH.미스터션샤인">CH.미스터션샤인</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C26841" xmltv_id="CH.꽃보다 할배 리턴즈">CH.꽃보다 할배 리턴즈</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C26542" xmltv_id="CH.라이프온마스">CH.라이프온마스</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C25741" xmltv_id="CH.나의 아저씨">CH.나의 아저씨</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C25641" xmltv_id="CH.김비서가 왜 그럴까">CH.김비서가 왜 그럴까</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C25441" xmltv_id="CH.스트리트 푸드 파이터">CH.스트리트 푸드 파이터</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C24541" xmltv_id="CH.용감한 기자들3 : 비하인드 더 팩트">CH.용감한 기자들3 : 비하인드 더 팩트</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C24441" xmltv_id="CH.내 딸의 남자들3">CH.내 딸의 남자들3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C24341" xmltv_id="CH.내 딸의 남자들2">CH.내 딸의 남자들2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C24241" xmltv_id="CH.내 딸의 남자들1">CH.내 딸의 남자들1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C22842" xmltv_id="CH.라이브">CH.라이브</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C22041" xmltv_id="JTBC4">JTBC4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C21441" xmltv_id="CH.윤식당2">CH.윤식당2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C20141" xmltv_id="CH.강식당 1">CH.강식당 1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C19742" xmltv_id="CH.막돼먹은 영애씨16">CH.막돼먹은 영애씨16</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C18742" xmltv_id="CH.슬기로운 감빵생활">CH.슬기로운 감빵생활</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C18442" xmltv_id="CH.맛있는녀석들">CH.맛있는녀석들</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C17941" xmltv_id="CH.알쓸신잡2">CH.알쓸신잡2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C17441" xmltv_id="CH.이번 생은 처음이라">CH.이번 생은 처음이라</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15942" xmltv_id="CH.삼시세끼 바다목장편">CH.삼시세끼 바다목장편</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15849" xmltv_id="CH.명불허전">CH.명불허전</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15941" xmltv_id="CH.구해줘">CH.구해줘</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15843" xmltv_id="CH.알쓸신잡1">CH.알쓸신잡1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15841" xmltv_id="CH.신서유기 시즌4">CH.신서유기 시즌4</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15296" xmltv_id="CH.비밀의 숲">CH.비밀의 숲</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15470" xmltv_id="CH.윤식당">CH.윤식당</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15456" xmltv_id="CH.집밥 백선생3">CH.집밥 백선생3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15271" xmltv_id="CH.신서유기 시즌3">CH.신서유기 시즌3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15442" xmltv_id="CH.도깨비">CH.도깨비</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15249" xmltv_id="CH.삼시세끼 어촌편3">CH.삼시세끼 어촌편3</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C15243" xmltv_id="CH.THE K2">CH.THE K2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14948" xmltv_id="CH.싸우자 귀신아">CH.싸우자 귀신아</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14946" xmltv_id="CH.삼시세끼 고창편">CH.삼시세끼 고창편</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14641" xmltv_id="CH.또 오해영">CH.또 오해영</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C14049" xmltv_id="CH.신서유기 시즌2">CH.신서유기 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08881" xmltv_id="CH.막돼먹은 영애씨13">CH.막돼먹은 영애씨13</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08461" xmltv_id="CH.응답하라 1994">CH.응답하라 1994</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08501" xmltv_id="CH.더 지니어스:그랜드 파이널">CH.더 지니어스:그랜드 파이널</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08641" xmltv_id="CH.식샤를 합시다 시즌2">CH.식샤를 합시다 시즌2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08681" xmltv_id="CH.삼시세끼 어촌편2">CH.삼시세끼 어촌편2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08682" xmltv_id="CH.삼시세끼 정선편2">CH.삼시세끼 정선편2</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08683" xmltv_id="CH.삼시세끼 어촌편1">CH.삼시세끼 어촌편1</channel>
+    <channel site="[ENC][EX]tving.com_0" site_id="C08741" xmltv_id="CH.꽃보다청춘">CH.꽃보다청춘</channel>
+  </channels>
+</site>
