@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]alkassdigital.net_0">
+  <channels>
+    <channel site="[ENC]alkassdigital.net_0" site_id="one" xmltv_id="Alkass One">Alkass One</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="two" xmltv_id="Alkass Two">Alkass Two</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="three" xmltv_id="Alkass Three">Alkass Three</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="four" xmltv_id="Alkass Four">Alkass Four</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="five" xmltv_id="Alkass Five">Alkass Five</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="six" xmltv_id="Alkass Six">Alkass Six</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="seven" xmltv_id="Alkass Seven">Alkass Seven</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="eight" xmltv_id="Alkass Eight">Alkass Eight</channel>
+    <channel site="[ENC]alkassdigital.net_0" site_id="online" xmltv_id="Alkass Online">Alkass Online</channel>
+  </channels>
+</site>
