@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]rotana.net[en]_0">
   <channels>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="63f7e0715afa14278a00c243||1688402472.webp" xmltv_id="Rotana Cinema KSA">Rotana Cinema KSA</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="640688871275c9aaa905902a||1688402537.webp" xmltv_id="Rotana Cinema Masr">Rotana Cinema Masr</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="640687f2b880d209fb034277||1688402522.webp" xmltv_id="Rotana Comedy">Rotana Comedy</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="64068827b880d209fb034278||1688402529.webp" xmltv_id="Rotana Classic">Rotana Classic</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="64068796b880d209fb034276||1688402515.webp" xmltv_id="Rotana Drama">Rotana Drama</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="640685c0ebf16a0aed0a1ee0||1688402508.webp" xmltv_id="Rotana Khalijea HD">Rotana Khalijea HD</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="64068582ebf16a0aed0a1edf||1688402500.webp" xmltv_id="LBC">LBC</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="6499eaf2b68efd40110cc9c2||1688402593.webp" xmltv_id="Rotana Clip">Rotana Clip</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="649a083daac2436c03013132||1688402619.webp" xmltv_id="Al Resalah">Al Resalah</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="64d145ba675a000052006672||d7kwbs.png" xmltv_id="Dahk wa Bass">Dahk wa Bass</channel>
-    <channel site="[ENC][EX]rotana.net[en]_0" site_id="64d14827675a000052006674||sydtelshasha.png" xmltv_id="Sayedat Alshasha">Sayedat Alshasha</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="431||1688402472.webp" xmltv_id="Rotana Cinema KSA">Rotana Cinema KSA</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="439||1688402537.webp" xmltv_id="Rotana Cinema Masr">Rotana Cinema Masr</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="437||1688402522.webp" xmltv_id="Rotana Comedy">Rotana Comedy</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="438||1688402529.webp" xmltv_id="Rotana Classic">Rotana Classic</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="436||1688402515.webp" xmltv_id="Rotana Drama">Rotana Drama</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="435||1688402508.webp" xmltv_id="Rotana Khalijea HD">Rotana Khalijea HD</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="434||1688402500.webp" xmltv_id="LBC">LBC</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="443||1688402593.webp" xmltv_id="Rotana Clip">Rotana Clip</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="446||1688402619.webp" xmltv_id="Al Resalah">Al Resalah</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="447||d7kwbs.png" xmltv_id="Dahk wa Bass">Dahk wa Bass</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="448||sydtelshasha.png" xmltv_id="Sayedat Alshasha">Sayedat Alshasha</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="449||Resalahinternational.webp" xmltv_id="Al Resalah International">Al Resalah International</channel>
+    <channel site="[ENC][EX]rotana.net[en]_0" site_id="450||romance.png" xmltv_id="Romance">Romance</channel>
   </channels>
 </site>
