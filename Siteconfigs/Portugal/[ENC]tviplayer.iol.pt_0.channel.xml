@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tviplayer.iol.pt_0">
+  <channels>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="TVI||https://cdn.iol.pt/img/logostvi/branco/tvi.png" xmltv_id="Tvi">Tvi</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="CNN||https://cdn.iol.pt/img/logostvi/branco/cnn.png" xmltv_id="Cnn">Cnn</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="TVI_FICCAO||https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" xmltv_id="Tvi Ficcao">Tvi Ficcao</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="TVI_REALITY||https://cdn.iol.pt/img/logostvi/branco/tvireality.png" xmltv_id="Tvi Reality">Tvi Reality</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="TVI_INTERNACIONAL||https://cdn.iol.pt/img/logostvi/branco/tviinternacional.png" xmltv_id="Tvi Internacional">Tvi Internacional</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="TVI_AFRICA||https://cdn.iol.pt/img/logostvi/branco/tviafrica.png" xmltv_id="Tvi Africa">Tvi Africa</channel>
+    <channel site="[ENC]tviplayer.iol.pt_0" site_id="HD2||https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/65243bfcd34e371fc0b88467/240" xmltv_id="Mca">Mca</channel>
+  </channels>
+</site>
