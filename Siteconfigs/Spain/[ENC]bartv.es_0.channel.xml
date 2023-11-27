@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]bartv.es_0">
+  <channels>
+    <channel site="[ENC]bartv.es_0" site_id="LaLigaTV Bar" xmltv_id="LaLigaTV Bar">LaLigaTV Bar</channel>
+    <channel site="[ENC]bartv.es_0" site_id="Movistar campeones" xmltv_id="Movistar campeones">Movistar campeones</channel>
+    <channel site="[ENC]bartv.es_0" site_id="DAZN 1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]bartv.es_0" site_id="DAZN 2" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC]bartv.es_0" site_id="DAZN F1" xmltv_id="DAZN F1">DAZN F1</channel>
+  </channels>
+</site>
