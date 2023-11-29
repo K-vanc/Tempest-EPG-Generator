@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]replay.lsm.lv_0">
+  <channels>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="ltv1" xmltv_id="LTV1">LTV1</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="ltv7" xmltv_id="LTV7">LTV7</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="visiem" xmltv_id="Visiem LTV">Visiem LTV</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr1" xmltv_id="Latvijas Radio 1">Latvijas Radio 1</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr2" xmltv_id="Latvijas Radio 2">Latvijas Radio 2</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr3" xmltv_id="Latvijas Radio 3 Klasika">Latvijas Radio 3 Klasika</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr4" xmltv_id="Latvijas Radio 4">Latvijas Radio 4</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr5" xmltv_id="Pieci.lv">Pieci.lv</channel>
+    <channel site="[ENC]replay.lsm.lv_0" site_id="lr6" xmltv_id="NABA">NABA</channel>
+  </channels>
+</site>
