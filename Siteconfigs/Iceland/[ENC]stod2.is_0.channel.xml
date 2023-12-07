@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]stod2.is_0">
+  <channels>
+    <channel site="[ENC]stod2.is_0" site_id="beint" xmltv_id="Beint">Beint</channel>
+    <channel site="[ENC]stod2.is_0" site_id="besta01" xmltv_id="Besta 01">Besta 01</channel>
+    <channel site="[ENC]stod2.is_0" site_id="besta02" xmltv_id="Besta 02">Besta 02</channel>
+    <channel site="[ENC]stod2.is_0" site_id="besta03" xmltv_id="Besta 03">Besta 03</channel>
+    <channel site="[ENC]stod2.is_0" site_id="bio" xmltv_id="Bio">Bio</channel>
+    <channel site="[ENC]stod2.is_0" site_id="esport" xmltv_id="Esport">Esport</channel>
+    <channel site="[ENC]stod2.is_0" site_id="golfstodin" xmltv_id="Golfstodin">Golfstodin</channel>
+    <channel site="[ENC]stod2.is_0" site_id="pepsimax" xmltv_id="Pepsimax">Pepsimax</channel>
+    <channel site="[ENC]stod2.is_0" site_id="sport" xmltv_id="Sport">Sport</channel>
+    <channel site="[ENC]stod2.is_0" site_id="sport2" xmltv_id="Sport 2">Sport 2</channel>
+    <channel site="[ENC]stod2.is_0" site_id="sport3" xmltv_id="Sport 3">Sport 3</channel>
+    <channel site="[ENC]stod2.is_0" site_id="sport4" xmltv_id="Sport 4">Sport 4</channel>
+    <channel site="[ENC]stod2.is_0" site_id="stod2" xmltv_id="Stod 2">Stod 2</channel>
+    <channel site="[ENC]stod2.is_0" site_id="stod3" xmltv_id="Stod 3">Stod 3</channel>
+    <channel site="[ENC]stod2.is_0" site_id="vodasport" xmltv_id="Vodasport">Vodasport</channel>
+  </channels>
+</site>
