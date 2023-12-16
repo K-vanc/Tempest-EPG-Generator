@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]streamingtvguides.com_0">
+  <channels>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AETV" xmltv_id="AETV A&amp;E Network">AETV A&amp;E Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AMC" xmltv_id="AMC AMC">AMC AMC</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AXSTV" xmltv_id="AXSTV AXS TV">AXSTV AXS TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BBCA" xmltv_id="BBCA BBC America">BBCA BBC America</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TOONP" xmltv_id="TOONP Cartoon Network (Pacific)">TOONP Cartoon Network (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CNN" xmltv_id="CNN Cable News Network">CNN Cable News Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="COMEDY" xmltv_id="COMEDY Comedy Central">COMEDY Comedy Central</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BLOOM" xmltv_id="BLOOM Bloomberg">BLOOM Bloomberg</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DISNP" xmltv_id="DISNP Disney Channel (Pacific)">DISNP Disney Channel (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EPDVN" xmltv_id="EPDVN Epix Drive-in">EPDVN Epix Drive-in</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPN" xmltv_id="ESPN ESPN">ESPN ESPN</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPN2" xmltv_id="ESPN2 ESPN2">ESPN2 ESPN2</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FOOD" xmltv_id="FOOD Food Network">FOOD Food Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FREEFRM" xmltv_id="FREEFRM Freeform">FREEFRM Freeform</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FUSE" xmltv_id="FUSE Fuse">FUSE Fuse</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="GALA" xmltv_id="GALA Galavision Cable Network">GALA Galavision Cable Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HGTV" xmltv_id="HGTV Home &amp; Garden Television">HGTV Home &amp; Garden Television</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HISTORY" xmltv_id="HISTORY History">HISTORY History</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="IFC" xmltv_id="IFC IFC">IFC IFC</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="LIFE" xmltv_id="LIFE Lifetime">LIFE Lifetime</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TBS" xmltv_id="TBS Turner Broadcasting System">TBS Turner Broadcasting System</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TNT" xmltv_id="TNT Turner Network TV">TNT Turner Network TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TRAV" xmltv_id="TRAV The Travel Channel">TRAV The Travel Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="VICE" xmltv_id="VICE Viceland">VICE Viceland</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MAX" xmltv_id="MAX CineMAX">MAX CineMAX</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EPIX2" xmltv_id="EPIX2 EPIX 2 (SD Version)">EPIX2 EPIX 2 (SD Version)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EPIX" xmltv_id="EPIX Epix East">EPIX Epix East</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EPIXHIT" xmltv_id="EPIXHIT Epix Hits">EPIXHIT Epix Hits</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HBO" xmltv_id="HBO HBO">HBO HBO</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHO2P" xmltv_id="SHO2P SHO 2 (Pacific)">SHO2P SHO 2 (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOW" xmltv_id="SHOW Showtime">SHOW Showtime</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOWP" xmltv_id="SHOWP Showtime (Pacific)">SHOWP Showtime (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOWBP" xmltv_id="SHOWBP Showtime Beyond (Pacific)">SHOWBP Showtime Beyond (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOWXP" xmltv_id="SHOWXP Showtime Extreme (Pacific)">SHOWXP Showtime Extreme (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FAMZP" xmltv_id="FAMZP Showtime Familyzone (Pacific)">FAMZP Showtime Familyzone (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NEXTP" xmltv_id="NEXTP Showtime Next (Pacific)">NEXTP Showtime Next (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOCSEP" xmltv_id="SHOCSEP Showtime Showcase (Pacific)">SHOCSEP Showtime Showcase (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WOMENP" xmltv_id="WOMENP Showtime Women (Pacific)">WOMENP Showtime Women (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STARZ" xmltv_id="STARZ Starz">STARZ Starz</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STARZP" xmltv_id="STARZP Starz (Pacific)">STARZP Starz (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZC" xmltv_id="STZC Starz Comedy">STZC Starz Comedy</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZE" xmltv_id="STZE Starz Edge">STZE Starz Edge</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENC" xmltv_id="STZENC Starz Encore">STZENC Starz Encore</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZK" xmltv_id="STZK Starz Kids">STZK Starz Kids</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HDNETMV" xmltv_id="HDNETMV HDNet Movies">HDNETMV HDNet Movies</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="REELZ" xmltv_id="REELZ ReelzChannel">REELZ ReelzChannel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SUNDANC" xmltv_id="SUNDANC SundanceTV">SUNDANC SundanceTV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TCM" xmltv_id="TCM Turner Classic Movies">TCM Turner Classic Movies</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BOOM" xmltv_id="BOOM Boomerang">BOOM Boomerang</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DJCH" xmltv_id="DJCH Disney Junior US">DJCH Disney Junior US</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DXD" xmltv_id="DXD Disney XD">DXD Disney XD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NICJR" xmltv_id="NICJR Nick Jr">NICJR Nick Jr</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NIKTON" xmltv_id="NIKTON Nicktoons Network">NIKTON Nicktoons Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TNCK" xmltv_id="TNCK Teen Nick">TNCK Teen Nick</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CMTV" xmltv_id="CMTV Country Music Television">CMTV Country Music Television</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="GSN" xmltv_id="GSN GSN">GSN GSN</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="LOGO" xmltv_id="LOGO LOGO">LOGO LOGO</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MTV" xmltv_id="MTV MTV - Music Television">MTV MTV - Music Television</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MTV2" xmltv_id="MTV2 MTV2: Music Television">MTV2 MTV2: Music Television</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="PAR" xmltv_id="PAR Paramount Network">PAR Paramount Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TRUTV" xmltv_id="TRUTV truTV">TRUTV truTV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TVLAND" xmltv_id="TVLAND TV Land">TVLAND TV Land</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AFTTLS" xmltv_id="AFTTLS Afrotainment Dish Only">AFTTLS Afrotainment Dish Only</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BET" xmltv_id="BET BET">BET BET</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="COOK" xmltv_id="COOK Cooking Channel">COOK Cooking Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DIY" xmltv_id="DIY Do-It-Yourself Network">DIY Do-It-Yourself Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HALL" xmltv_id="HALL Hallmark Channel">HALL Hallmark Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HALLDR" xmltv_id="HALLDR Hallmark Drama">HALLDR Hallmark Drama</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HMM" xmltv_id="HMM Hallmark Movies &amp; Mysteries">HMM Hallmark Movies &amp; Mysteries</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="LIFEMOV" xmltv_id="LIFEMOV Lifetime Movies">LIFEMOV Lifetime Movies</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="VH1" xmltv_id="VH1 VH1">VH1 VH1</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WE" xmltv_id="WE WE tv">WE WE tv</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ZLIVING" xmltv_id="ZLIVING Z Living">ZLIVING Z Living</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="GLBB" xmltv_id="GLBB ESPN Goal Line &amp; Buzzer Beater">GLBB ESPN Goal Line &amp; Buzzer Beater</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPNEWS" xmltv_id="ESPNEWS ESPNEWS">ESPNEWS ESPNEWS</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPNU" xmltv_id="ESPNU ESPNU">ESPNU ESPNU</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBATV" xmltv_id="NBATV NBA TV">NBATV NBA TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NHLNET" xmltv_id="NHLNET NHL Network">NHLNET NHL Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OUTSDSD" xmltv_id="OUTSDSD Outside Television SD">OUTSDSD Outside Television SD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="PAC12" xmltv_id="PAC12 Pac-12 Network">PAC12 Pac-12 Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SEC" xmltv_id="SEC SEC Network">SEC SEC Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="UDN" xmltv_id="UDN Univision Deportes Network">UDN Univision Deportes Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BLAZETV" xmltv_id="BLAZETV The Blaze TV">BLAZETV The Blaze TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EURONEW" xmltv_id="EURONEW Euro News">EURONEW Euro News</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FRNC24" xmltv_id="FRNC24 France 24">FRNC24 France 24</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FUSION" xmltv_id="FUSION Fusion">FUSION Fusion</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HLN" xmltv_id="HLN HLN">HLN HLN</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NDTV247" xmltv_id="NDTV247 NDTV 24x7">NDTV247 NDTV 24x7</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NEW18" xmltv_id="NEW18 News18">NEW18 News18</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="RTTV" xmltv_id="RTTV RT">RTTV RT</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WTHRNAT" xmltv_id="WTHRNAT Weather Nation TV">WTHRNAT Weather Nation TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OUTD" xmltv_id="OUTD Outdoor Channel">OUTD Outdoor Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="PIXL" xmltv_id="PIXL PixL">PIXL PixL</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="RFDTV" xmltv_id="RFDTV RFD TV">RFDTV RFD TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="RURALTV" xmltv_id="RURALTV RURAL TV">RURALTV RURAL TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SPRTMAN" xmltv_id="SPRTMAN The Sportsman Channel">SPRTMAN The Sportsman Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WFNUS" xmltv_id="WFNUS World Fishing Network (US)">WFNUS World Fishing Network (US)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BRAVO" xmltv_id="BRAVO Bravo">BRAVO Bravo</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FS1" xmltv_id="FS1 Fox Sports 1">FS1 Fox Sports 1</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FS2" xmltv_id="FS2 Fox Sports 2">FS2 Fox Sports 2</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FX" xmltv_id="FX FX">FX FX</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NGC" xmltv_id="NGC National Geographic USA">NGC National Geographic USA</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSN" xmltv_id="NBCSN NBCSN">NBCSN NBCSN</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NFLNET" xmltv_id="NFLNET NFL NETWORK">NFLNET NFL NETWORK</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SYFY" xmltv_id="SYFY SYFY">SYFY SYFY</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="UNI" xmltv_id="UNI Univision Network">UNI Univision Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="USA" xmltv_id="USA USA Network">USA USA Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="E" xmltv_id="E E! Entertainment Television">E E! Entertainment Television</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OXYGEN" xmltv_id="OXYGEN Oxygen">OXYGEN Oxygen</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="GOLF" xmltv_id="GOLF The Golf Channel">GOLF The Golf Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NFLNRZ" xmltv_id="NFLNRZ NFL RedZone">NFLNRZ NFL RedZone</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OLY" xmltv_id="OLY Olympic Channel SD">OLY Olympic Channel SD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CNBC" xmltv_id="CNBC CNBC">CNBC CNBC</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MSNBC" xmltv_id="MSNBC MSNBC">MSNBC MSNBC</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ELREY" xmltv_id="ELREY El Rey Network">ELREY El Rey Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="APL" xmltv_id="APL Animal Planet">APL Animal Planet</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DEST" xmltv_id="DEST Destination America">DEST Destination America</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DSC" xmltv_id="DSC The Discovery Channel">DSC The Discovery Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FBN" xmltv_id="FBN Fox Business">FBN Fox Business</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FNC" xmltv_id="FNC Fox News Channel">FNC Fox News Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FXX" xmltv_id="FXX FXX">FXX FXX</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ID" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OWN" xmltv_id="OWN Oprah Winfrey Network">OWN Oprah Winfrey Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="POPSD" xmltv_id="POPSD POP">POPSD POP</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SCIENCE" xmltv_id="SCIENCE Science">SCIENCE Science</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TLC" xmltv_id="TLC The Learning Channel">TLC The Learning Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FSP" xmltv_id="FSP Fox Soccer Plus">FSP Fox Soccer Plus</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ELVNHD" xmltv_id="ELVNHD Eleven Sports Network HD">ELVNHD Eleven Sports Network HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPNGL" xmltv_id="ESPNGL ESPN Goal Line">ESPNGL ESPN Goal Line</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FCSA" xmltv_id="FCSA Fox College Sports (Atlantic)">FCSA Fox College Sports (Atlantic)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FCSC" xmltv_id="FCSC Fox College Sports (Central)">FCSC Fox College Sports (Central)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FCSP" xmltv_id="FCSP Fox College Sports (Pacific)">FCSP Fox College Sports (Pacific)</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="LNGHRN" xmltv_id="LNGHRN Longhorn Network">LNGHRN Longhorn Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MLBSZ1" xmltv_id="MLBSZ1 MLB Strike Zone">MLBSZ1 MLB Strike Zone</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSBA" xmltv_id="NBCSBA NBC Sports Bay Area">NBCSBA NBC Sports Bay Area</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSB" xmltv_id="NBCSB NBC Sports Boston">NBCSB NBC Sports Boston</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSCAS" xmltv_id="NBCSCAS NBC Sports California SAT">NBCSCAS NBC Sports California SAT</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSCH" xmltv_id="NBCSCH NBC Sports Chicago">NBCSCH NBC Sports Chicago</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSNW" xmltv_id="NBCSNW NBC Sports Northwest">NBCSNW NBC Sports Northwest</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSPA" xmltv_id="NBCSPA NBC Sports Philadelphia">NBCSPA NBC Sports Philadelphia</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCSWA" xmltv_id="NBCSWA NBC Sports Washington">NBCSWA NBC Sports Washington</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NESN" xmltv_id="NESN New England Sports Network">NESN New England Sports Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BIGTEN" xmltv_id="BIGTEN Big Ten Network">BIGTEN Big Ten Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CBSSN" xmltv_id="CBSSN CBS Sports Network">CBSSN CBS Sports Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MLBN" xmltv_id="MLBN MLB Network">MLBN MLB Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AHC" xmltv_id="AHC American Heroes Channel">AHC American Heroes Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CNBCWLD" xmltv_id="CNBCWLD CNBC World">CNBCWLD CNBC World</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DFC" xmltv_id="DFC Discovery Family Channel">DFC Discovery Family Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DLC" xmltv_id="DLC Discovery Life Channel">DLC Discovery Life Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPND" xmltv_id="ESPND ESPN Deportes">ESPND ESPN Deportes</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FXDEP" xmltv_id="FXDEP Fox Deportes">FXDEP Fox Deportes</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FXM" xmltv_id="FXM FXM">FXM FXM</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MGMHD" xmltv_id="MGMHD MGM HD">MGMHD MGM HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NGWILD" xmltv_id="NGWILD National Geographic Wild">NGWILD National Geographic Wild</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SONYHD" xmltv_id="SONYHD Sony Movie Channel HD">SONYHD Sony Movie Channel HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="UKIDS" xmltv_id="UKIDS Universal Kids">UKIDS Universal Kids</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="VEL" xmltv_id="VEL Velocity">VEL Velocity</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AUD" xmltv_id="AUD Audience Channel">AUD Audience Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BABY1" xmltv_id="BABY1 BabyFirst TV">BABY1 BabyFirst TV</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CSPAN" xmltv_id="CSPAN CSPAN">CSPAN CSPAN</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CSPAN2" xmltv_id="CSPAN2 CSPAN2">CSPAN2 CSPAN2</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TOON" xmltv_id="TOON Cartoon Network">TOON Cartoon Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DISN" xmltv_id="DISN Disney Channel">DISN Disney Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NIK" xmltv_id="NIK Nickelodeon">NIK Nickelodeon</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OAN" xmltv_id="OAN One America News Network">OAN One America News Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WN" xmltv_id="WN Weather Nation">WN Weather Nation</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HBOF" xmltv_id="HBOF HBO Family">HBOF HBO Family</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HBOLAT" xmltv_id="HBOLAT HBO Latino">HBOLAT HBO Latino</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="AWE" xmltv_id="AWE A Wealth of Entertainment">AWE A Wealth of Entertainment</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CMDTVHD" xmltv_id="CMDTVHD Comedy.TV HD">CMDTVHD Comedy.TV HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="JUST" xmltv_id="JUST Justice Central HD">JUST Justice Central HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TENNIS" xmltv_id="TENNIS Tennis Channel">TENNIS Tennis Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TVONE" xmltv_id="TVONE TV ONE">TVONE TV ONE</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WEATH" xmltv_id="WEATH The Weather Channel">WEATH The Weather Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BHER" xmltv_id="BHER BET Her">BHER BET Her</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FMHD" xmltv_id="FMHD FM HD">FMHD FM HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FSSEHD" xmltv_id="FSSEHD Fox Sports Southeast HD">FSSEHD Fox Sports Southeast HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MTVCLAS" xmltv_id="MTVCLAS MTV Classic">MTVCLAS MTV Classic</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="RVLTHD" xmltv_id="RVLTHD Revolt HD">RVLTHD Revolt HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TVG" xmltv_id="TVG TV Games Network">TVG TV Games Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="UNVSO" xmltv_id="UNVSO UNIVERSO">UNVSO UNIVERSO</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="UP" xmltv_id="UP UP">UP UP</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENAC" xmltv_id="STZENAC Starz Encore Action">STZENAC Starz Encore Action</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENBK" xmltv_id="STZENBK Starz Encore Black">STZENBK Starz Encore Black</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENCL" xmltv_id="STZENCL Starz Encore Classic">STZENCL Starz Encore Classic</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENFM" xmltv_id="STZENFM Starz Encore Family">STZENFM Starz Encore Family</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENSU" xmltv_id="STZENSU Starz Encore Suspense">STZENSU Starz Encore Suspense</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STZENWS" xmltv_id="STZENWS Starz Encore Westerns">STZENWS Starz Encore Westerns</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CNNI" xmltv_id="CNNI CNN International">CNNI CNN International</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FYIHD" xmltv_id="FYIHD FYIHD">FYIHD FYIHD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MAXHD" xmltv_id="MAXHD MAXHD">MAXHD MAXHD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FNCHD" xmltv_id="FNCHD FOX">FNCHD FOX</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DISNHD" xmltv_id="DISNHD DISNEY CHANNEL">DISNHD DISNEY CHANNEL</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="EHD" xmltv_id="EHD E!">EHD E!</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="ESPNUHD" xmltv_id="ESPNUHD ESPN U">ESPNUHD ESPN U</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TELE" xmltv_id="TELE TELEMUNDO">TELE TELEMUNDO</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SMTHHD" xmltv_id="SMTHHD Smithsonian HD Network">SMTHHD Smithsonian HD Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="YES" xmltv_id="YES Yes Network">YES Yes Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCe" xmltv_id="NBCe NBC East">NBCe NBC East</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BBCWDNA" xmltv_id="BBCWDNA BBC World News">BBCWDNA BBC World News</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBCS" xmltv_id="NBCS NBC Sports Network">NBCS NBC Sports Network</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DECADES" xmltv_id="DECADES Decades">DECADES Decades</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="DSJR" xmltv_id="DSJR Disney Junior">DSJR Disney Junior</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NGW" xmltv_id="NGW Nat Geo Wild">NGW Nat Geo Wild</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="OLYHD" xmltv_id="OLYHD Olympic Channel">OLYHD Olympic Channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SNY" xmltv_id="SNY SNY">SNY SNY</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BHERHD" xmltv_id="BHERHD BET Her CTRCHD">BHERHD BET Her CTRCHD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CMT" xmltv_id="CMT CMT">CMT CMT</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FYI" xmltv_id="FYI FYI">FYI FYI</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HALLHD" xmltv_id="HALLHD Hallmark HALLSTR">HALLHD Hallmark HALLSTR</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="MTVLIVE" xmltv_id="MTVLIVE MTV Live">MTVLIVE MTV Live</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NIKHD" xmltv_id="NIKHD Nickelodeon">NIKHD Nickelodeon</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SCI" xmltv_id="SCI Science">SCI Science</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="TNCKHD" xmltv_id="TNCKHD Teen Nick">TNCKHD Teen Nick</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HMMHD" xmltv_id="HMMHD Hallmark Movies &amp; Mysteries HD">HMMHD Hallmark Movies &amp; Mysteries HD</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHO2" xmltv_id="SHO2 SHO 2">SHO2 SHO 2</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOWB" xmltv_id="SHOWB Showtime Beyond">SHOWB Showtime Beyond</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOWX" xmltv_id="SHOWX Showtime Extreme">SHOWX Showtime Extreme</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FAMZ" xmltv_id="FAMZ Showtime Familyzone">FAMZ Showtime Familyzone</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NEXT" xmltv_id="NEXT Showtime Next">NEXT Showtime Next</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SHOCSE" xmltv_id="SHOCSE Showtime Showcase">SHOCSE Showtime Showcase</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="WOMEN" xmltv_id="WOMEN Showtime Women">WOMEN Showtime Women</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="CBS" xmltv_id="CBS cbs">CBS cbs</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="FOX" xmltv_id="FOX fox">FOX fox</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NBC" xmltv_id="NBC nbc">NBC nbc</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="NSCA" xmltv_id="NSCA nbc sports california">NSCA nbc sports california</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="COZITV" xmltv_id="COZITV cozi tv">COZITV cozi tv</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="SONY" xmltv_id="SONY sony movie channel">SONY sony movie channel</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="STADIUM" xmltv_id="STADIUM stadium 1">STADIUM stadium 1</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="RVLT" xmltv_id="RVLT revolt">RVLT revolt</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="BABYTV" xmltv_id="BABYTV babytv">BABYTV babytv</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="COM" xmltv_id="COM COM">COM COM</channel>
+    <channel site="[ENC]streamingtvguides.com_0" site_id="HIST" xmltv_id="HIST HIST">HIST HIST</channel>
+  </channels>
+</site>
