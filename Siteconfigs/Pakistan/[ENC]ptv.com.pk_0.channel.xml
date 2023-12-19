@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]ptv.com.pk_0">
+  <channels>
+    <channel site="[ENC]ptv.com.pk_0" site_id="3||tvguidehome2023.jpg" xmltv_id="Ptv Home">Ptv Home</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="1||tvguideworld2023.jpg" xmltv_id="Ptv World">Ptv World</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="2||tvguidesports2023.jpg" xmltv_id="Ptv Sports">Ptv Sports</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="4||ptv-familyGlobal.jpg" xmltv_id="Ptv Global">Ptv Global</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="5||tvguidenews2023.jpg" xmltv_id="Ptv News">Ptv News</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="6||bolantvguide23.jpg" xmltv_id="Bolan">Bolan</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="7||ptv-familyAJKTV.jpg" xmltv_id="Ptv Ajktv">Ptv Ajktv</channel>
+    <channel site="[ENC]ptv.com.pk_0" site_id="8||ptv-familyNational.jpg" xmltv_id="Ptv National">Ptv National</channel>
+  </channels>
+</site>
