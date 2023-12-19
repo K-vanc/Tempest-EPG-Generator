@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]hum.tv_0">
+  <channels>
+    <channel site="[ENC]hum.tv_0" site_id="europe" xmltv_id="HUM EUROPE">HUM EUROPE</channel>
+    <channel site="[ENC]hum.tv_0" site_id="world-sd" xmltv_id="HUM WORLD SD">HUM WORLD SD</channel>
+    <channel site="[ENC]hum.tv_0" site_id="world-hd" xmltv_id="HUM WORLD HD">HUM WORLD HD</channel>
+    <channel site="[ENC]hum.tv_0" site_id="mena" xmltv_id="HUM WORLD MENA">HUM WORLD MENA</channel>
+  </channels>
+</site>
