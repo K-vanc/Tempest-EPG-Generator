@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="watania.tn_0">
+  <channels>
+    <channel site="watania.tn_0" site_id="1.tn/%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A||1" xmltv_id="Watania 1">Watania 1</channel>
+    <channel site="watania.tn_0" site_id="2.tn/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9||2" xmltv_id="Watania 2">Watania 2</channel>
+  </channels>
+</site>
