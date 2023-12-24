@@ -1,228 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]redintercable.com.ar_0">
   <channels>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|3" xmltv_id="[Red Intercable] 26TV">[Red Intercable] 26TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|167" xmltv_id="[Red Intercable] A&amp;E">[Red Intercable] A&amp;E</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|343" xmltv_id="[Red Intercable] A24">[Red Intercable] A24</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|97" xmltv_id="[Red Intercable] AMC">[Red Intercable] AMC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|4" xmltv_id="[Red Intercable] AMERICA 2">[Red Intercable] AMERICA 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|84" xmltv_id="[Red Intercable] AMERICA SPORTS">[Red Intercable] AMERICA SPORTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1623" xmltv_id="[Red Intercable] ANIMAL PLANET">[Red Intercable] ANIMAL PLANET</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|57" xmltv_id="[Red Intercable] ARGENTINISIMA">[Red Intercable] ARGENTINISIMA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|100" xmltv_id="[Red Intercable] AXN">[Red Intercable] AXN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|709" xmltv_id="[Red Intercable] C5N">[Red Intercable] C5N</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|58" xmltv_id="[Red Intercable] CANAL A">[Red Intercable] CANAL A</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|230" xmltv_id="[Red Intercable] CANAL DE LA MUSICA">[Red Intercable] CANAL DE LA MUSICA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|11" xmltv_id="[Red Intercable] CANAL RURAL">[Red Intercable] CANAL RURAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|226" xmltv_id="[Red Intercable] CARTOON NETWORK">[Red Intercable] CARTOON NETWORK</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|174" xmltv_id="[Red Intercable] CARTOONITO">[Red Intercable] CARTOONITO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|15" xmltv_id="[Red Intercable] CINECANAL">[Red Intercable] CINECANAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|13" xmltv_id="[Red Intercable] CNN">[Red Intercable] CNN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|62" xmltv_id="[Red Intercable] CNN EN ESPAÃ'OL">[Red Intercable] CNN EN ESPAÃ'OL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|192" xmltv_id="[Red Intercable] CRONICA">[Red Intercable] CRONICA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|17" xmltv_id="[Red Intercable] DISCOVERY">[Red Intercable] DISCOVERY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|111" xmltv_id="[Red Intercable] DISCOVERY ID">[Red Intercable] DISCOVERY ID</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|76" xmltv_id="[Red Intercable] DISCOVERY KIDS">[Red Intercable] DISCOVERY KIDS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|493" xmltv_id="[Red Intercable] DISCOVERY SCIENCE">[Red Intercable] DISCOVERY SCIENCE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1624" xmltv_id="[Red Intercable] DISCOVERY TLC">[Red Intercable] DISCOVERY TLC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|492" xmltv_id="[Red Intercable] DISCOVERY TURBO">[Red Intercable] DISCOVERY TURBO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|136" xmltv_id="[Red Intercable] DISNEY">[Red Intercable] DISNEY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|325" xmltv_id="[Red Intercable] DISNEY XD">[Red Intercable] DISNEY XD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|16" xmltv_id="[Red Intercable] DW ESPAÃ'OL">[Red Intercable] DW ESPAÃ'OL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|358" xmltv_id="[Red Intercable] EL GARAGE">[Red Intercable] EL GARAGE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1612" xmltv_id="[Red Intercable] EL NUEVE">[Red Intercable] EL NUEVE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|290" xmltv_id="[Red Intercable] EL TRECE">[Red Intercable] EL TRECE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|477" xmltv_id="[Red Intercable] ENCUENTRO">[Red Intercable] ENCUENTRO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|50" xmltv_id="[Red Intercable] ENTERTAINMENT">[Red Intercable] ENTERTAINMENT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|229" xmltv_id="[Red Intercable] ESPN">[Red Intercable] ESPN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|18" xmltv_id="[Red Intercable] ESPN 2">[Red Intercable] ESPN 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|337" xmltv_id="[Red Intercable] EUROCHANNEL">[Red Intercable] EUROCHANNEL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|184" xmltv_id="[Red Intercable] EUROPA EUROPA">[Red Intercable] EUROPA EUROPA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|64" xmltv_id="[Red Intercable] EWTN">[Red Intercable] EWTN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|63" xmltv_id="[Red Intercable] FILM&amp;ARTS">[Red Intercable] FILM&amp;ARTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|221" xmltv_id="[Red Intercable] FOX SPORTS">[Red Intercable] FOX SPORTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|362" xmltv_id="[Red Intercable] FOX SPORTS 3">[Red Intercable] FOX SPORTS 3</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|353" xmltv_id="[Red Intercable] FX">[Red Intercable] FX</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|4094" xmltv_id="[Red Intercable] FX MOVIES">[Red Intercable] FX MOVIES</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|65" xmltv_id="[Red Intercable] GALICIA TV">[Red Intercable] GALICIA TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|104" xmltv_id="[Red Intercable] GLITZ">[Red Intercable] GLITZ</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|125" xmltv_id="[Red Intercable] GOURMET">[Red Intercable] GOURMET</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|21" xmltv_id="[Red Intercable] HBO">[Red Intercable] HBO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|335" xmltv_id="[Red Intercable] HBO FAMILY">[Red Intercable] HBO FAMILY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|12" xmltv_id="[Red Intercable] HBO MUNDI">[Red Intercable] HBO MUNDI</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|2165" xmltv_id="[Red Intercable] HBO PLUS">[Red Intercable] HBO PLUS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1531" xmltv_id="[Red Intercable] HGTV">[Red Intercable] HGTV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|178" xmltv_id="[Red Intercable] HISTORY">[Red Intercable] HISTORY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|340" xmltv_id="[Red Intercable] HOME AND HEALTH">[Red Intercable] HOME AND HEALTH</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|115" xmltv_id="[Red Intercable] HTV">[Red Intercable] HTV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|22" xmltv_id="[Red Intercable] I-SAT">[Red Intercable] I-SAT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|9" xmltv_id="[Red Intercable] LAS ESTRELLAS">[Red Intercable] LAS ESTRELLAS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|25" xmltv_id="[Red Intercable] M TV">[Red Intercable] M TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|26" xmltv_id="[Red Intercable] MAGAZINE">[Red Intercable] MAGAZINE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|108" xmltv_id="[Red Intercable] MAS CHIC">[Red Intercable] MAS CHIC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|319" xmltv_id="[Red Intercable] MTV00">[Red Intercable] MTV00</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|28" xmltv_id="[Red Intercable] MUCHMUSIC">[Red Intercable] MUCHMUSIC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|3932" xmltv_id="[Red Intercable] NAT GEO KIDS">[Red Intercable] NAT GEO KIDS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|164" xmltv_id="[Red Intercable] NATIONAL GEOGRAPHIC">[Red Intercable] NATIONAL GEOGRAPHIC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|60" xmltv_id="[Red Intercable] NICKELODEON">[Red Intercable] NICKELODEON</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|779" xmltv_id="[Red Intercable] QUIERO">[Red Intercable] QUIERO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1502" xmltv_id="[Red Intercable] RUSSIA TODAY">[Red Intercable] RUSSIA TODAY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|32" xmltv_id="[Red Intercable] SONY">[Red Intercable] SONY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|33" xmltv_id="[Red Intercable] SPACE">[Red Intercable] SPACE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|19" xmltv_id="[Red Intercable] STAR CHANNEL">[Red Intercable] STAR CHANNEL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|366" xmltv_id="[Red Intercable] STAR LIFE">[Red Intercable] STAR LIFE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|77" xmltv_id="[Red Intercable] STUDIO UNIVERSAL">[Red Intercable] STUDIO UNIVERSAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|760" xmltv_id="[Red Intercable] SY FY">[Red Intercable] SY FY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|328" xmltv_id="[Red Intercable] TCM">[Red Intercable] TCM</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|35" xmltv_id="[Red Intercable] TELEFE">[Red Intercable] TELEFE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|170" xmltv_id="[Red Intercable] TLNOVELAS">[Red Intercable] TLNOVELAS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|36" xmltv_id="[Red Intercable] TN">[Red Intercable] TN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|37" xmltv_id="[Red Intercable] TNT">[Red Intercable] TNT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|2999" xmltv_id="[Red Intercable] TNT SERIES">[Red Intercable] TNT SERIES</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|31" xmltv_id="[Red Intercable] TURISMO VISION ARGENTINA">[Red Intercable] TURISMO VISION ARGENTINA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|135" xmltv_id="[Red Intercable] TV PUBLICA">[Red Intercable] TV PUBLICA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|59" xmltv_id="[Red Intercable] TVE">[Red Intercable] TVE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|252" xmltv_id="[Red Intercable] TYC SPORTS INTERIOR">[Red Intercable] TYC SPORTS INTERIOR</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|327" xmltv_id="[Red Intercable] UNIVERSAL TV">[Red Intercable] UNIVERSAL TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|45" xmltv_id="[Red Intercable] VOLVER">[Red Intercable] VOLVER</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|46" xmltv_id="[Red Intercable] WARNER">[Red Intercable] WARNER</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|723" xmltv_id="[Red Intercable] WOBI TV">[Red Intercable] WOBI TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|167" xmltv_id="[dibox] A&amp;E">[dibox] A&amp;E</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1584" xmltv_id="[dibox] A&amp;E HD">[dibox] A&amp;E HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|97" xmltv_id="[dibox] AMC">[dibox] AMC</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4" xmltv_id="[dibox] AMERICA 2">[dibox] AMERICA 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3248" xmltv_id="[dibox] AMERICA 2 HD">[dibox] AMERICA 2 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|343" xmltv_id="[dibox] AMERICA 24">[dibox] AMERICA 24</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|84" xmltv_id="[dibox] AMERICA SPORTS">[dibox] AMERICA SPORTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|100" xmltv_id="[dibox] AXN">[dibox] AXN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1862" xmltv_id="[dibox] AXN HD">[dibox] AXN HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|695" xmltv_id="[dibox] BABY TV">[dibox] BABY TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|709" xmltv_id="[dibox] C5N">[dibox] C5N</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3" xmltv_id="[dibox] CANAL 26">[dibox] CANAL 26</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2332" xmltv_id="[dibox] CANAL DE LA CIUDAD">[dibox] CANAL DE LA CIUDAD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|11" xmltv_id="[dibox] CANAL RURAL">[dibox] CANAL RURAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|226" xmltv_id="[dibox] CARTOON NETWORK">[dibox] CARTOON NETWORK</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2845" xmltv_id="[dibox] CARTOON NETWORK HD">[dibox] CARTOON NETWORK HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1605" xmltv_id="[dibox] CINE.AR">[dibox] CINE.AR</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|15" xmltv_id="[dibox] CINECANAL">[dibox] CINECANAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3445" xmltv_id="[dibox] CINECANAL HD">[dibox] CINECANAL HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2292" xmltv_id="[dibox] CINEMAX">[dibox] CINEMAX</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|62" xmltv_id="[dibox] CNN EN ESPAÃ'OL">[dibox] CNN EN ESPAÃ'OL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|192" xmltv_id="[dibox] CRONICA TV">[dibox] CRONICA TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2195" xmltv_id="[dibox] DEPORTV">[dibox] DEPORTV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|17" xmltv_id="[dibox] DISCOVERY">[dibox] DISCOVERY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3066" xmltv_id="[dibox] DISCOVERY HD">[dibox] DISCOVERY HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1181" xmltv_id="[dibox] DISCOVERY HD THEATER">[dibox] DISCOVERY HD THEATER</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|340" xmltv_id="[dibox] DISCOVERY HOME AND HEALTH">[dibox] DISCOVERY HOME AND HEALTH</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2218" xmltv_id="[dibox] DISCOVERY HOME AND HEALTH HD">[dibox] DISCOVERY HOME AND HEALTH HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4902" xmltv_id="[dibox] DISCOVERY ID HD">[dibox] DISCOVERY ID HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|76" xmltv_id="[dibox] DISCOVERY KIDS">[dibox] DISCOVERY KIDS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3531" xmltv_id="[dibox] DISCOVERY KIDS HD">[dibox] DISCOVERY KIDS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|493" xmltv_id="[dibox] DISCOVERY SCIENCE">[dibox] DISCOVERY SCIENCE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|492" xmltv_id="[dibox] DISCOVERY TURBO">[dibox] DISCOVERY TURBO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1389" xmltv_id="[dibox] DISCOVERY WORLD HD">[dibox] DISCOVERY WORLD HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|136" xmltv_id="[dibox] DISNEY">[dibox] DISNEY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4367" xmltv_id="[dibox] DISNEY HD">[dibox] DISNEY HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|756" xmltv_id="[dibox] DISNEY JR">[dibox] DISNEY JR</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|325" xmltv_id="[dibox] DISNEY XD">[dibox] DISNEY XD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|50" xmltv_id="[dibox] E ENTERTAIMENT">[dibox] E ENTERTAIMENT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|125" xmltv_id="[dibox] EL GOURMET">[dibox] EL GOURMET</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1612" xmltv_id="[dibox] EL NUEVE">[dibox] EL NUEVE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2809" xmltv_id="[dibox] EL NUEVE HD">[dibox] EL NUEVE HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|290" xmltv_id="[dibox] EL TRECE">[dibox] EL TRECE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3067" xmltv_id="[dibox] EL TRECE HD">[dibox] EL TRECE HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|477" xmltv_id="[dibox] ENCUENTRO">[dibox] ENCUENTRO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|229" xmltv_id="[dibox] ESPN">[dibox] ESPN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|18" xmltv_id="[dibox] ESPN 2">[dibox] ESPN 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3429" xmltv_id="[dibox] ESPN 2 HD">[dibox] ESPN 2 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4971" xmltv_id="[dibox] ESPN 3">[dibox] ESPN 3</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4972" xmltv_id="[dibox] ESPN 3 HD">[dibox] ESPN 3 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1132" xmltv_id="[dibox] ESPN EXTRA HD">[dibox] ESPN EXTRA HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3189" xmltv_id="[dibox] ESPN HD">[dibox] ESPN HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3408" xmltv_id="[dibox] EVENTOS HD">[dibox] EVENTOS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3407" xmltv_id="[dibox] EVENTOS PARA TODOS">[dibox] EVENTOS PARA TODOS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3391" xmltv_id="[dibox] FILM&amp;ARTS HD">[dibox] FILM&amp;ARTS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|221" xmltv_id="[dibox] FOX SPORTS">[dibox] FOX SPORTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|978" xmltv_id="[dibox] FOX SPORTS 2">[dibox] FOX SPORTS 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2785" xmltv_id="[dibox] FOX SPORTS 2 HD">[dibox] FOX SPORTS 2 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|362" xmltv_id="[dibox] FOX SPORTS 3">[dibox] FOX SPORTS 3</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2366" xmltv_id="[dibox] FOX SPORTS 3 HD">[dibox] FOX SPORTS 3 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|979" xmltv_id="[dibox] FOX SPORTS HD">[dibox] FOX SPORTS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|353" xmltv_id="[dibox] FX">[dibox] FX</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2040" xmltv_id="[dibox] FX HD">[dibox] FX HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4094" xmltv_id="[dibox] FX MOVIES">[dibox] FX MOVIES</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4098" xmltv_id="[dibox] FX MOVIES HD">[dibox] FX MOVIES HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|104" xmltv_id="[dibox] GLITZ">[dibox] GLITZ</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|21" xmltv_id="[dibox] HBO">[dibox] HBO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2684" xmltv_id="[dibox] HBO 2">[dibox] HBO 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2127" xmltv_id="[dibox] HBO 2 HD">[dibox] HBO 2 HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|335" xmltv_id="[dibox] HBO FAMILY">[dibox] HBO FAMILY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2687" xmltv_id="[dibox] HBO FAMILY HD">[dibox] HBO FAMILY HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|875" xmltv_id="[dibox] HBO HD">[dibox] HBO HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1448" xmltv_id="[dibox] HBO MUNDI HD">[dibox] HBO MUNDI HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2165" xmltv_id="[dibox] HBO PLUS">[dibox] HBO PLUS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2686" xmltv_id="[dibox] HBO PLUS HD">[dibox] HBO PLUS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1378" xmltv_id="[dibox] HBO POP HD">[dibox] HBO POP HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2065" xmltv_id="[dibox] HBO SIGNATURE HD">[dibox] HBO SIGNATURE HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2688" xmltv_id="[dibox] HBO XTREME HD">[dibox] HBO XTREME HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1531" xmltv_id="[dibox] HGTV">[dibox] HGTV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|178" xmltv_id="[dibox] HISTORY">[dibox] HISTORY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2823" xmltv_id="[dibox] HISTORY 2">[dibox] HISTORY 2</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|5201" xmltv_id="[dibox] HISTORY HD">[dibox] HISTORY HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|22" xmltv_id="[dibox] I-SAT">[dibox] I-SAT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3644" xmltv_id="[dibox] LA NACION +">[dibox] LA NACION +</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|9" xmltv_id="[dibox] LAS ESTRELLAS">[dibox] LAS ESTRELLAS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2235" xmltv_id="[dibox] LAS ESTRELLAS HD">[dibox] LAS ESTRELLAS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|26" xmltv_id="[dibox] MAGAZINE">[dibox] MAGAZINE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|27" xmltv_id="[dibox] METRO">[dibox] METRO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|25" xmltv_id="[dibox] MTV">[dibox] MTV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|319" xmltv_id="[dibox] MTV00">[dibox] MTV00</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|164" xmltv_id="[dibox] NAT GEO">[dibox] NAT GEO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2710" xmltv_id="[dibox] NAT GEO HD">[dibox] NAT GEO HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3932" xmltv_id="[dibox] NAT GEO KIDS">[dibox] NAT GEO KIDS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1184" xmltv_id="[dibox] NAT GEO WILD">[dibox] NAT GEO WILD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1403" xmltv_id="[dibox] NAT GEO WILD HD">[dibox] NAT GEO WILD HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|60" xmltv_id="[dibox] NICKELODEON">[dibox] NICKELODEON</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1492" xmltv_id="[dibox] PAKA PAKA">[dibox] PAKA PAKA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|779" xmltv_id="[dibox] QUIERO">[dibox] QUIERO</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2511" xmltv_id="[dibox] RADIO CADENA">[dibox] RADIO CADENA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1680" xmltv_id="[dibox] RADIO CONTINENTAL">[dibox] RADIO CONTINENTAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|758" xmltv_id="[dibox] RADIO LA100">[dibox] RADIO LA100</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|757" xmltv_id="[dibox] RADIO MITRE">[dibox] RADIO MITRE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3054" xmltv_id="[dibox] RADIO NACIONAL">[dibox] RADIO NACIONAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4625" xmltv_id="[dibox] RAI HD">[dibox] RAI HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4928" xmltv_id="[dibox] SOMOS">[dibox] SOMOS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|32" xmltv_id="[dibox] SONY">[dibox] SONY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1579" xmltv_id="[dibox] SONY HD">[dibox] SONY HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|33" xmltv_id="[dibox] SPACE">[dibox] SPACE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4535" xmltv_id="[dibox] SPACE HD">[dibox] SPACE HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|19" xmltv_id="[dibox] STAR CHANNEL">[dibox] STAR CHANNEL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|879" xmltv_id="[dibox] STAR CHANNEL HD">[dibox] STAR CHANNEL HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|366" xmltv_id="[dibox] STAR LIFE">[dibox] STAR LIFE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|77" xmltv_id="[dibox] STUDIO UNIVERSAL">[dibox] STUDIO UNIVERSAL</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|760" xmltv_id="[dibox] SY FY">[dibox] SY FY</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1967" xmltv_id="[dibox] TBS">[dibox] TBS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3446" xmltv_id="[dibox] TBS HD">[dibox] TBS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|328" xmltv_id="[dibox] TCM">[dibox] TCM</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|35" xmltv_id="[dibox] TELEFE">[dibox] TELEFE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2354" xmltv_id="[dibox] TELEFE HD">[dibox] TELEFE HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|36" xmltv_id="[dibox] TN">[dibox] TN</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1847" xmltv_id="[dibox] TN HD">[dibox] TN HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|37" xmltv_id="[dibox] TNT">[dibox] TNT</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4230" xmltv_id="[dibox] TNT HD">[dibox] TNT HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2999" xmltv_id="[dibox] TNT SERIES">[dibox] TNT SERIES</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3421" xmltv_id="[dibox] TNT SERIES HD">[dibox] TNT SERIES HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|912" xmltv_id="[dibox] TRU TV">[dibox] TRU TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1260" xmltv_id="[dibox] TRU TV HD">[dibox] TRU TV HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|135" xmltv_id="[dibox] TV PUBLICA">[dibox] TV PUBLICA</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1569" xmltv_id="[dibox] TV PUBLICA HD">[dibox] TV PUBLICA HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|59" xmltv_id="[dibox] TVE">[dibox] TVE</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|40" xmltv_id="[dibox] TYC SPORTS">[dibox] TYC SPORTS</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2355" xmltv_id="[dibox] TYC SPORTS HD">[dibox] TYC SPORTS HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|327" xmltv_id="[dibox] UNIVERSAL TV">[dibox] UNIVERSAL TV</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1508" xmltv_id="[dibox] UNIVERSAL TV HD">[dibox] UNIVERSAL TV HD</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|45" xmltv_id="[dibox] VOLVER">[dibox] VOLVER</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|46" xmltv_id="[dibox] WARNER">[dibox] WARNER</channel>
-    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3787" xmltv_id="[dibox] WARNER HD">[dibox] WARNER HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|3" xmltv_id="26TV">26TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|167" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|343" xmltv_id="A24">A24</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|97" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|4" xmltv_id="AMERICA 2">AMERICA 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|84" xmltv_id="AMERICA SPORTS">AMERICA SPORTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1623" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|57" xmltv_id="ARGENTINISIMA">ARGENTINISIMA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|100" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|709" xmltv_id="C5N">C5N</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|58" xmltv_id="CANAL A">CANAL A</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|230" xmltv_id="CANAL DE LA MUSICA">CANAL DE LA MUSICA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|11" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|226" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|174" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|15" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|13" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|62" xmltv_id="CNN EN ESPAÃ'OL">CNN EN ESPAÃ'OL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|192" xmltv_id="CRONICA">CRONICA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|17" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|111" xmltv_id="DISCOVERY ID">DISCOVERY ID</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|76" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|493" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1624" xmltv_id="DISCOVERY TLC">DISCOVERY TLC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|492" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|136" xmltv_id="DISNEY">DISNEY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|16" xmltv_id="DW ESPAÃ'OL">DW ESPAÃ'OL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|358" xmltv_id="EL GARAGE">EL GARAGE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1612" xmltv_id="EL NUEVE">EL NUEVE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|290" xmltv_id="EL TRECE">EL TRECE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|477" xmltv_id="ENCUENTRO">ENCUENTRO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|50" xmltv_id="ENTERTAINMENT">ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|229" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|18" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|337" xmltv_id="EUROCHANNEL">EUROCHANNEL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|184" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|64" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|63" xmltv_id="FILM&amp;ARTS">FILM&amp;ARTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|221" xmltv_id="FOX SPORTS">FOX SPORTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|362" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|353" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|65" xmltv_id="GALICIA TV">GALICIA TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|104" xmltv_id="GLITZ">GLITZ</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|125" xmltv_id="GOURMET">GOURMET</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|21" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|335" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|12" xmltv_id="HBO MUNDI">HBO MUNDI</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|2165" xmltv_id="HBO PLUS">HBO PLUS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1531" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|178" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|340" xmltv_id="HOME AND HEALTH">HOME AND HEALTH</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|115" xmltv_id="HTV">HTV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|22" xmltv_id="I-SAT">I-SAT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|9" xmltv_id="LAS ESTRELLAS">LAS ESTRELLAS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|25" xmltv_id="M TV">M TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|26" xmltv_id="MAGAZINE">MAGAZINE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|108" xmltv_id="MAS CHIC">MAS CHIC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|319" xmltv_id="MTV00">MTV00</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|28" xmltv_id="MUCHMUSIC">MUCHMUSIC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|164" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|60" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|779" xmltv_id="QUIERO">QUIERO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|1502" xmltv_id="RUSSIA TODAY">RUSSIA TODAY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|32" xmltv_id="SONY">SONY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|33" xmltv_id="SPACE">SPACE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|19" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|77" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|328" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|35" xmltv_id="TELEFE">TELEFE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|170" xmltv_id="TLNOVELAS">TLNOVELAS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|36" xmltv_id="TN">TN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|37" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|2999" xmltv_id="TNT SERIES">TNT SERIES</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|31" xmltv_id="TURISMO VISION ARGENTINA">TURISMO VISION ARGENTINA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|135" xmltv_id="TV PUBLICA">TV PUBLICA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|59" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|252" xmltv_id="TYC SPORTS INTERIOR">TYC SPORTS INTERIOR</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|327" xmltv_id="UNIVERSAL TV">UNIVERSAL TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|8327" xmltv_id="USA NETWORK">USA NETWORK</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|45" xmltv_id="VOLVER">VOLVER</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|46" xmltv_id="WARNER">WARNER</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2780|##|723" xmltv_id="WOBI TV">WOBI TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|167" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1584" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|97" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4" xmltv_id="AMERICA 2">AMERICA 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3248" xmltv_id="AMERICA 2 HD">AMERICA 2 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|343" xmltv_id="AMERICA 24">AMERICA 24</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|84" xmltv_id="AMERICA SPORTS">AMERICA SPORTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|100" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1862" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|695" xmltv_id="BABY TV">BABY TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|709" xmltv_id="C5N">C5N</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3" xmltv_id="CANAL 26">CANAL 26</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2332" xmltv_id="CANAL DE LA CIUDAD">CANAL DE LA CIUDAD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|11" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|226" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2845" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1605" xmltv_id="CINE.AR">CINE.AR</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|15" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3445" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2292" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|62" xmltv_id="CNN EN ESPAÃ'OL">CNN EN ESPAÃ'OL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|192" xmltv_id="CRONICA TV">CRONICA TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2195" xmltv_id="DEPORTV">DEPORTV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|17" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3066" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1181" xmltv_id="DISCOVERY HD THEATER">DISCOVERY HD THEATER</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|340" xmltv_id="DISCOVERY HOME AND HEALTH">DISCOVERY HOME AND HEALTH</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2218" xmltv_id="DISCOVERY HOME AND HEALTH HD">DISCOVERY HOME AND HEALTH HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4902" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|76" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3531" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|493" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|492" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1389" xmltv_id="DISCOVERY WORLD HD">DISCOVERY WORLD HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|136" xmltv_id="DISNEY">DISNEY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4367" xmltv_id="DISNEY HD">DISNEY HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|756" xmltv_id="DISNEY JR">DISNEY JR</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|50" xmltv_id="E ENTERTAIMENT">E ENTERTAIMENT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|125" xmltv_id="EL GOURMET">EL GOURMET</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1612" xmltv_id="EL NUEVE">EL NUEVE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2809" xmltv_id="EL NUEVE HD">EL NUEVE HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|290" xmltv_id="EL TRECE">EL TRECE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3067" xmltv_id="EL TRECE HD">EL TRECE HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|477" xmltv_id="ENCUENTRO">ENCUENTRO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|229" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|18" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3429" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4971" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4972" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1132" xmltv_id="ESPN EXTRA HD">ESPN EXTRA HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3189" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3408" xmltv_id="EVENTOS HD">EVENTOS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3407" xmltv_id="EVENTOS PARA TODOS">EVENTOS PARA TODOS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3391" xmltv_id="FILM&amp;ARTS HD">FILM&amp;ARTS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|221" xmltv_id="FOX SPORTS">FOX SPORTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|978" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2785" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|362" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2366" xmltv_id="FOX SPORTS 3 HD">FOX SPORTS 3 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|979" xmltv_id="FOX SPORTS HD">FOX SPORTS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|353" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2040" xmltv_id="FX HD">FX HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|104" xmltv_id="GLITZ">GLITZ</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|21" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2684" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2127" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|335" xmltv_id="HBO FAMILY">HBO FAMILY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2687" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|875" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1448" xmltv_id="HBO MUNDI HD">HBO MUNDI HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2165" xmltv_id="HBO PLUS">HBO PLUS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2686" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1378" xmltv_id="HBO POP HD">HBO POP HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2065" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2688" xmltv_id="HBO XTREME HD">HBO XTREME HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1531" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|178" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2823" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|5201" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|22" xmltv_id="I-SAT">I-SAT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3644" xmltv_id="LA NACION +">LA NACION +</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|9" xmltv_id="LAS ESTRELLAS">LAS ESTRELLAS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2235" xmltv_id="LAS ESTRELLAS HD">LAS ESTRELLAS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|26" xmltv_id="MAGAZINE">MAGAZINE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|27" xmltv_id="METRO">METRO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|25" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|319" xmltv_id="MTV00">MTV00</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|164" xmltv_id="NAT GEO">NAT GEO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2710" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|60" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1492" xmltv_id="PAKA PAKA">PAKA PAKA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|779" xmltv_id="QUIERO">QUIERO</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2511" xmltv_id="RADIO CADENA">RADIO CADENA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1680" xmltv_id="RADIO CONTINENTAL">RADIO CONTINENTAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|758" xmltv_id="RADIO LA100">RADIO LA100</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|757" xmltv_id="RADIO MITRE">RADIO MITRE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3054" xmltv_id="RADIO NACIONAL">RADIO NACIONAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4625" xmltv_id="RAI HD">RAI HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4928" xmltv_id="SOMOS">SOMOS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|32" xmltv_id="SONY">SONY</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1579" xmltv_id="SONY HD">SONY HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|33" xmltv_id="SPACE">SPACE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4535" xmltv_id="SPACE HD">SPACE HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|19" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|879" xmltv_id="STAR CHANNEL HD">STAR CHANNEL HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|77" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|328" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|35" xmltv_id="TELEFE">TELEFE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2354" xmltv_id="TELEFE HD">TELEFE HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|36" xmltv_id="TN">TN</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1847" xmltv_id="TN HD">TN HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|37" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|4230" xmltv_id="TNT HD">TNT HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|8200" xmltv_id="TNT NOVELAS">TNT NOVELAS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|8201" xmltv_id="TNT NOVELAS HD">TNT NOVELAS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2999" xmltv_id="TNT SERIES">TNT SERIES</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3421" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|912" xmltv_id="TRU TV">TRU TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1260" xmltv_id="TRU TV HD">TRU TV HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|135" xmltv_id="TV PUBLICA">TV PUBLICA</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1569" xmltv_id="TV PUBLICA HD">TV PUBLICA HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|59" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|40" xmltv_id="TYC SPORTS">TYC SPORTS</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|2355" xmltv_id="TYC SPORTS HD">TYC SPORTS HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|327" xmltv_id="UNIVERSAL TV">UNIVERSAL TV</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|1508" xmltv_id="UNIVERSAL TV HD">UNIVERSAL TV HD</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|8327" xmltv_id="USA NETWORK">USA NETWORK</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|45" xmltv_id="VOLVER">VOLVER</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|46" xmltv_id="WARNER">WARNER</channel>
+    <channel site="[ENC][EX]redintercable.com.ar_0" site_id="2687|##|3787" xmltv_id="WARNER HD">WARNER HD</channel>
   </channels>
 </site>
