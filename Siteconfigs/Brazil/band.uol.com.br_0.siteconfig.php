@@ -31,7 +31,7 @@ return array (
   'ccrequestOption1' => '1',
   'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'cchost_header1' => 'www.band.uol.com.br',
-  'ccchannel_block' => '<a _ngcontent-sc114=.*?<\\/a>||#include#href="/programacao',
+  'ccchannel_block' => '<a _ngcontent-serverapp-c4033043336=.*?<\\/a>||#include#href="/programacao',
   'ccchannel_id' => '">(.*?)<\\/a>||#urle#||#replace#(\\+)||%20',
   'ccchannel_name' => '">(.*?)<\\/a>',
 );

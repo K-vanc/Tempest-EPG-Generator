@@ -2,7 +2,6 @@
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="globoplay.globo.com_0">
   <channels>
     <channel site="globoplay.globo.com_0" site_id="6120663" xmltv_id="TV Globo">TV Globo</channel>
-    <channel site="globoplay.globo.com_0" site_id="7339140" xmltv_id="Bis">Bis</channel>
     <channel site="globoplay.globo.com_0" site_id="8223631" xmltv_id="Premiere">Premiere</channel>
   </channels>
 </site>

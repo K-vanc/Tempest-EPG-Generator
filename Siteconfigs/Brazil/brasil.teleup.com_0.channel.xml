@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="brasil.teleup.com_0">
   <channels>
-    <channel site="brasil.teleup.com_0" site_id="Band News||band-news.png" xmltv_id="Band News">Band News</channel>
-    <channel site="brasil.teleup.com_0" site_id="Band Internacional||band-international.png" xmltv_id="Band Internacional">Band Internacional</channel>
-    <channel site="brasil.teleup.com_0" site_id="Fashion TV||fashion-tv.png" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel site="brasil.teleup.com_0" site_id="Fish TV||fishtv.png" xmltv_id="Fish TV">Fish TV</channel>
-    <channel site="brasil.teleup.com_0" site_id="Music Box Brasil||music-box-brazil.png" xmltv_id="Music Box Brasil">Music Box Brasil</channel>
-    <channel site="brasil.teleup.com_0" site_id="Prime Box Brasil||prime-box-brazil.png" xmltv_id="Prime Box Brasil">Prime Box Brasil</channel>
-    <channel site="brasil.teleup.com_0" site_id="Travel Box Brasil||travel-box-brazil.png" xmltv_id="Travel Box Brasil">Travel Box Brasil</channel>
     <channel site="brasil.teleup.com_0" site_id="Rede TVC TV||rede-tvc-tv.png" xmltv_id="Rede TVC TV">Rede TVC TV</channel>
-    <channel site="brasil.teleup.com_0" site_id="TV Senado||tv-senado.png" xmltv_id="TV Senado">TV Senado</channel>
     <channel site="brasil.teleup.com_0" site_id="7 WSVN||7-wsvn.png" xmltv_id="7 WSVN">7 WSVN</channel>
     <channel site="brasil.teleup.com_0" site_id="CW||whmdkw.png" xmltv_id="CW">CW</channel>
     <channel site="brasil.teleup.com_0" site_id="MYTV Network||mytv-network.png" xmltv_id="MYTV Network">MYTV Network</channel>
