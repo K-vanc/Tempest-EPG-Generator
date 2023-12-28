@@ -16,7 +16,7 @@ return array (
   'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'host_header1' => 'rmtv.bg',
   'show' => '<div id="tabs-\\d.*?(?:<(?:p|br \\/)>\\s*)(\\d+.*?)(?:<(?:br |p)\\/>).*?<\\/div>\\s*<\\/div>',
-  'start' => '^(\\d+\\.\\d+)',
+  'start' => '^(\\d+[\\.:]\\d+)',
   'start_format' => 'H#i',
   'title' => '\\d\\s*(?:"|“)(.*?)(?:”|")',
   'category' => '” – (.*?)(?:$|,)',
