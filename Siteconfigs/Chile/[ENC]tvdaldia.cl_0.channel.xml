@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvdaldia.cl_0">
   <channels>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="tc||telecanal.png" xmltv_id="Telecanal">Telecanal</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="lared||lared.png" xmltv_id="La Red">La Red</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="tvmas||tvmas.png" xmltv_id="Tv Mas">Tv Mas</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="telecanal||telecanal.png" xmltv_id="Telecanal">Telecanal</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="la-red||lared.png" xmltv_id="La Red">La Red</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="tv-mas||tvmas.png" xmltv_id="Tv Mas">Tv Mas</channel>
     <channel site="[ENC]tvdaldia.cl_0" site_id="tvn||tvn.png" xmltv_id="Tvn">Tvn</channel>
     <channel site="[ENC]tvdaldia.cl_0" site_id="mega||mega.png" xmltv_id="Mega">Mega</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="chilevision||chv.png" xmltv_id="Chv">Chv</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="c13||canal13.png" xmltv_id="Canal 13">Canal 13</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="chv||chv.png" xmltv_id="Chv">Chv</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="canal-13||canal13.png" xmltv_id="Canal 13">Canal 13</channel>
     <channel site="[ENC]tvdaldia.cl_0" site_id="ntv||ntv.png" xmltv_id="Ntv">Ntv</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="teletrece||t13envivo.png" xmltv_id="T13 En Vivo">T13 En Vivo</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="ucvtv||ucvtv.png" xmltv_id="Ucv">Ucv</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="canal9||c9biobio.png" xmltv_id="Canal 9">Canal 9</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="tvn3||tvn-3.png" xmltv_id="Tvn 3">Tvn 3</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="24horas||24horas_nuevo.png" xmltv_id="24 Horas">24 Horas</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="megaplus||megaplus.png" xmltv_id="Mega Plus">Mega Plus</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="megafic||megaficcion.png" xmltv_id="Mega Ficcion">Mega Ficcion</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="mega-2||mega2.png" xmltv_id="Mega 2">Mega 2</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="t13-en-vivo||t13envivo.png" xmltv_id="T13 En Vivo">T13 En Vivo</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="ucv||ucvtv.png" xmltv_id="Ucv">Ucv</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="canal-9||c9biobio.png" xmltv_id="Canal 9">Canal 9</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="tvn-3||tvn-3.png" xmltv_id="Tvn 3">Tvn 3</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="24-horas||24horas_nuevo.png" xmltv_id="24 Horas">24 Horas</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="mega-ficcion||megaficcion.png" xmltv_id="Mega Ficcion">Mega Ficcion</channel>
     <channel site="[ENC]tvdaldia.cl_0" site_id="etc||etc.png" xmltv_id="Etc">Etc</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="rec13||rec.png" xmltv_id="Rec">Rec</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="cocinaviva||cocinaviva_nuevo.png" xmltv_id="Cocina Viva">Cocina Viva</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="viax||viax.png" xmltv_id="Via X">Via X</channel>
-    <channel site="[ENC]tvdaldia.cl_0" site_id="zonalatina||zl.png" xmltv_id="Zona Latina">Zona Latina</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="rec||rec.png" xmltv_id="Rec">Rec</channel>
+    <channel site="[ENC]tvdaldia.cl_0" site_id="cocina-viva||cocinaviva_nuevo.png" xmltv_id="Cocina Viva">Cocina Viva</channel>
   </channels>
 </site>
