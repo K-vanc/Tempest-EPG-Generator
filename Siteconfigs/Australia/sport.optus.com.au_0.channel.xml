@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sport.optus.com.au_0">
+  <channels>
+    <channel site="sport.optus.com.au_0" site_id="os1||OS_1.png" xmltv_id="Optus Sport 1">Optus Sport 1</channel>
+    <channel site="sport.optus.com.au_0" site_id="os12||8fafc368-828d-4ae2-be26-4dee57a360d2_ll-gen.jpg" xmltv_id="LALIGA Channel">LALIGA Channel</channel>
+    <channel site="sport.optus.com.au_0" site_id="os11||568b3ee0-4923-40c2-aebe-c226b8da3db9_premierleaguerebrandsdesignstudio01.jpg" xmltv_id="Premier League Channel">Premier League Channel</channel>
+  </channels>
+</site>
