@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]devportal.siba.com.co_0">
+  <channels>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1791" xmltv_id="[Claro TV+ (Avanzada)] ACTV">[Claro TV+ (Avanzada)] ACTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|417" xmltv_id="[Claro TV+ (Avanzada)] COSMOVISION">[Claro TV+ (Avanzada)] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|526" xmltv_id="[Claro TV+ (Avanzada)] SIN LÍMITES">[Claro TV+ (Avanzada)] SIN LÍMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|523" xmltv_id="[Claro TV+ (Avanzada)] HTV">[Claro TV+ (Avanzada)] HTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|584" xmltv_id="[Claro TV+ (Avanzada)] TLNOVELAS">[Claro TV+ (Avanzada)] TLNOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|579" xmltv_id="[Claro TV+ (Avanzada)] TELEAMIGA">[Claro TV+ (Avanzada)] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|547" xmltv_id="[Claro TV+ (Avanzada)] MULTIPREMIER">[Claro TV+ (Avanzada)] MULTIPREMIER</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|408" xmltv_id="[Claro TV+ (Avanzada)] CINE LATINO">[Claro TV+ (Avanzada)] CINE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|409" xmltv_id="[Claro TV+ (Avanzada)] CINEMA +">[Claro TV+ (Avanzada)] CINEMA +</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|985" xmltv_id="[Claro TV+ (Avanzada)] CLARO CINEMA">[Claro TV+ (Avanzada)] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|402" xmltv_id="[Claro TV+ (Avanzada)] CARACOL HD">[Claro TV+ (Avanzada)] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|422" xmltv_id="[Claro TV+ (Avanzada)] RED+ HD">[Claro TV+ (Avanzada)] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|400" xmltv_id="[Claro TV+ (Avanzada)] RCN HD">[Claro TV+ (Avanzada)] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1790" xmltv_id="[Claro TV+ (Avanzada)] SALUD HD">[Claro TV+ (Avanzada)] SALUD HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1788" xmltv_id="[Claro TV+ (Avanzada)] CITY TV HD">[Claro TV+ (Avanzada)] CITY TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1168" xmltv_id="[Claro TV+ (Avanzada)] TELEISLAS HD">[Claro TV+ (Avanzada)] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|993" xmltv_id="[Claro TV+ (Avanzada)] MTV HD">[Claro TV+ (Avanzada)] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1169" xmltv_id="[Claro TV+ (Avanzada)] CLARO MUSICA TV HD">[Claro TV+ (Avanzada)] CLARO MUSICA TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|813" xmltv_id="[Claro TV+ (Avanzada)] DISCOVERY KIDS HD">[Claro TV+ (Avanzada)] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|995" xmltv_id="[Claro TV+ (Avanzada)] CARTOON NETWORK HD">[Claro TV+ (Avanzada)] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1142" xmltv_id="[Claro TV+ (Avanzada)] DISNEY JUNIOR HD">[Claro TV+ (Avanzada)] DISNEY JUNIOR HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1203" xmltv_id="[Claro TV+ (Avanzada)] CLAN HD">[Claro TV+ (Avanzada)] CLAN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|957" xmltv_id="[Claro TV+ (Avanzada)] DISCOVERY CHANNEL HD">[Claro TV+ (Avanzada)] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|522" xmltv_id="[Claro TV+ (Avanzada)] HISTORY HD">[Claro TV+ (Avanzada)] HISTORY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1134" xmltv_id="[Claro TV+ (Avanzada)] H2 HD">[Claro TV+ (Avanzada)] H2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|980" xmltv_id="[Claro TV+ (Avanzada)] DISCOVERY TURBO HD">[Claro TV+ (Avanzada)] DISCOVERY TURBO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|900" xmltv_id="[Claro TV+ (Avanzada)] NATGEO HD">[Claro TV+ (Avanzada)] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|670" xmltv_id="[Claro TV+ (Avanzada)] DISCOVERY HOME &amp; HEALTH HD">[Claro TV+ (Avanzada)] DISCOVERY HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1104" xmltv_id="[Claro TV+ (Avanzada)] FOOD NETWORK HD">[Claro TV+ (Avanzada)] FOOD NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1135" xmltv_id="[Claro TV+ (Avanzada)] E! ENTERTAINMENT HD">[Claro TV+ (Avanzada)] E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1128" xmltv_id="[Claro TV+ (Avanzada)] LIFETIME HD">[Claro TV+ (Avanzada)] LIFETIME HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|681" xmltv_id="[Claro TV+ (Avanzada)] ADULT SWIM">[Claro TV+ (Avanzada)] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1127" xmltv_id="[Claro TV+ (Avanzada)] TELEMUNDO HD">[Claro TV+ (Avanzada)] TELEMUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|999" xmltv_id="[Claro TV+ (Avanzada)] CABLE NOTICIAS HD">[Claro TV+ (Avanzada)] CABLE NOTICIAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1190" xmltv_id="[Claro TV+ (Avanzada)] IVC HD">[Claro TV+ (Avanzada)] IVC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|603" xmltv_id="[Claro TV+ (Avanzada)] CLARO SPORTS HD">[Claro TV+ (Avanzada)] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1016" xmltv_id="[Claro TV+ (Avanzada)] CLARO SPORTS 2 HD">[Claro TV+ (Avanzada)] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|496" xmltv_id="[Claro TV+ (Avanzada)] ESPN+ EXTRA HD">[Claro TV+ (Avanzada)] ESPN+ EXTRA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|998" xmltv_id="[Claro TV+ (Avanzada)] ESPN 2 HD">[Claro TV+ (Avanzada)] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|988" xmltv_id="[Claro TV+ (Avanzada)] ESPN HD">[Claro TV+ (Avanzada)] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|508" xmltv_id="[Claro TV+ (Avanzada)] ESPN 4 HD">[Claro TV+ (Avanzada)] ESPN 4 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|888" xmltv_id="[Claro TV+ (Avanzada)] FOX SPORTS 2 HD">[Claro TV+ (Avanzada)] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|858" xmltv_id="[Claro TV+ (Avanzada)] FOX SPORTS 3 HD">[Claro TV+ (Avanzada)] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|953" xmltv_id="[Claro TV+ (Avanzada)] WIN SPORTS HD">[Claro TV+ (Avanzada)] WIN SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|609" xmltv_id="[Claro TV+ (Avanzada)] WARNER CHANNEL HD">[Claro TV+ (Avanzada)] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|385" xmltv_id="[Claro TV+ (Avanzada)] AXN HD">[Claro TV+ (Avanzada)] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|572" xmltv_id="[Claro TV+ (Avanzada)] SONY HD">[Claro TV+ (Avanzada)] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1295" xmltv_id="[Claro TV+ (Avanzada)] STAR CHANNEL HD">[Claro TV+ (Avanzada)] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|856" xmltv_id="[Claro TV+ (Avanzada)] FX HD">[Claro TV+ (Avanzada)] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|381" xmltv_id="[Claro TV+ (Avanzada)] A&amp;E MUNDO HD">[Claro TV+ (Avanzada)] A&amp;E MUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|994" xmltv_id="[Claro TV+ (Avanzada)] TNT SERIES HD">[Claro TV+ (Avanzada)] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1046" xmltv_id="[Claro TV+ (Avanzada)] TNT NOVELAS HD">[Claro TV+ (Avanzada)] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|646" xmltv_id="[Claro TV+ (Avanzada)] COMEDY CENTRAL HD">[Claro TV+ (Avanzada)] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|590" xmltv_id="[Claro TV+ (Avanzada)] TNT HD">[Claro TV+ (Avanzada)] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1185" xmltv_id="[Claro TV+ (Avanzada)] CINEMAX HD">[Claro TV+ (Avanzada)] CINEMAX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1455" xmltv_id="[Claro TV+ (Avanzada)] STUDIO UNIVERSAL HD">[Claro TV+ (Avanzada)] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|575" xmltv_id="[Claro TV+ (Avanzada)] SPACE HD">[Claro TV+ (Avanzada)] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|533" xmltv_id="[Claro TV+ (Avanzada)] AMC HD">[Claro TV+ (Avanzada)] AMC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|512" xmltv_id="[Claro TV+ (Avanzada)] GOLDEN HD">[Claro TV+ (Avanzada)] GOLDEN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|1216" xmltv_id="[Claro TV+ (Avanzada)] CINECANAL HD">[Claro TV+ (Avanzada)] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="31|##|955" xmltv_id="[Claro TV+ (Avanzada)] PARAMOUNT HD">[Claro TV+ (Avanzada)] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|1791" xmltv_id="[Claro TV+ (Básico)] ACTV">[Claro TV+ (Básico)] ACTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|417" xmltv_id="[Claro TV+ (Básico)] COSMOVISION">[Claro TV+ (Básico)] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|526" xmltv_id="[Claro TV+ (Básico)] SIN LÍMITES">[Claro TV+ (Básico)] SIN LÍMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|579" xmltv_id="[Claro TV+ (Básico)] TELEAMIGA">[Claro TV+ (Básico)] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|394" xmltv_id="[Claro TV+ (Básico)] CANAL CARACOL">[Claro TV+ (Básico)] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|421" xmltv_id="[Claro TV+ (Básico)] RED+">[Claro TV+ (Básico)] RED+</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|399" xmltv_id="[Claro TV+ (Básico)] CANAL RCN">[Claro TV+ (Básico)] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|1790" xmltv_id="[Claro TV+ (Básico)] SALUD HD">[Claro TV+ (Básico)] SALUD HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|1788" xmltv_id="[Claro TV+ (Básico)] CITY TV HD">[Claro TV+ (Básico)] CITY TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|922" xmltv_id="[Claro TV+ (Básico)] TELEISLAS">[Claro TV+ (Básico)] TELEISLAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|566" xmltv_id="[Claro TV+ (Básico)] CLARO MUSICA TV">[Claro TV+ (Básico)] CLARO MUSICA TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|391" xmltv_id="[Claro TV+ (Básico)] CABLE NOTICIAS">[Claro TV+ (Básico)] CABLE NOTICIAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="29|##|1016" xmltv_id="[Claro TV+ (Básico)] CLARO SPORTS 2 HD">[Claro TV+ (Básico)] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1791" xmltv_id="[Claro TV+ (Superior)] ACTV">[Claro TV+ (Superior)] ACTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|417" xmltv_id="[Claro TV+ (Superior)] COSMOVISION">[Claro TV+ (Superior)] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|526" xmltv_id="[Claro TV+ (Superior)] SIN LÍMITES">[Claro TV+ (Superior)] SIN LÍMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|523" xmltv_id="[Claro TV+ (Superior)] HTV">[Claro TV+ (Superior)] HTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|545" xmltv_id="[Claro TV+ (Superior)] MTV HITS">[Claro TV+ (Superior)] MTV HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|823" xmltv_id="[Claro TV+ (Superior)] MI GENTE">[Claro TV+ (Superior)] MI GENTE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|428" xmltv_id="[Claro TV+ (Superior)] DISCOVERY SCIENCE">[Claro TV+ (Superior)] DISCOVERY SCIENCE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|584" xmltv_id="[Claro TV+ (Superior)] TLNOVELAS">[Claro TV+ (Superior)] TLNOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|579" xmltv_id="[Claro TV+ (Superior)] TELEAMIGA">[Claro TV+ (Superior)] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|596" xmltv_id="[Claro TV+ (Superior)] TVE">[Claro TV+ (Superior)] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|594" xmltv_id="[Claro TV+ (Superior)] NUESTRA TELE">[Claro TV+ (Superior)] NUESTRA TELE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|525" xmltv_id="[Claro TV+ (Superior)] I.SAT">[Claro TV+ (Superior)] I.SAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|547" xmltv_id="[Claro TV+ (Superior)] MULTIPREMIER">[Claro TV+ (Superior)] MULTIPREMIER</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|408" xmltv_id="[Claro TV+ (Superior)] CINE LATINO">[Claro TV+ (Superior)] CINE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|409" xmltv_id="[Claro TV+ (Superior)] CINEMA +">[Claro TV+ (Superior)] CINEMA +</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|637" xmltv_id="[Claro TV+ (Superior)] TCM">[Claro TV+ (Superior)] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|985" xmltv_id="[Claro TV+ (Superior)] CLARO CINEMA">[Claro TV+ (Superior)] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|402" xmltv_id="[Claro TV+ (Superior)] CARACOL HD">[Claro TV+ (Superior)] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|422" xmltv_id="[Claro TV+ (Superior)] RED+ HD">[Claro TV+ (Superior)] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|400" xmltv_id="[Claro TV+ (Superior)] RCN HD">[Claro TV+ (Superior)] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1790" xmltv_id="[Claro TV+ (Superior)] SALUD HD">[Claro TV+ (Superior)] SALUD HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1788" xmltv_id="[Claro TV+ (Superior)] CITY TV HD">[Claro TV+ (Superior)] CITY TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1168" xmltv_id="[Claro TV+ (Superior)] TELEISLAS HD">[Claro TV+ (Superior)] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|993" xmltv_id="[Claro TV+ (Superior)] MTV HD">[Claro TV+ (Superior)] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1169" xmltv_id="[Claro TV+ (Superior)] CLARO MUSICA TV HD">[Claro TV+ (Superior)] CLARO MUSICA TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|649" xmltv_id="[Claro TV+ (Superior)] MTV LIVE HD">[Claro TV+ (Superior)] MTV LIVE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|813" xmltv_id="[Claro TV+ (Superior)] DISCOVERY KIDS HD">[Claro TV+ (Superior)] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|995" xmltv_id="[Claro TV+ (Superior)] CARTOON NETWORK HD">[Claro TV+ (Superior)] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1142" xmltv_id="[Claro TV+ (Superior)] DISNEY JUNIOR HD">[Claro TV+ (Superior)] DISNEY JUNIOR HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1040" xmltv_id="[Claro TV+ (Superior)] CARTOONITO HD">[Claro TV+ (Superior)] CARTOONITO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|650" xmltv_id="[Claro TV+ (Superior)] TEEN NICK">[Claro TV+ (Superior)] TEEN NICK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1203" xmltv_id="[Claro TV+ (Superior)] CLAN HD">[Claro TV+ (Superior)] CLAN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|957" xmltv_id="[Claro TV+ (Superior)] DISCOVERY CHANNEL HD">[Claro TV+ (Superior)] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|426" xmltv_id="[Claro TV+ (Superior)] DISCOVERY THEATER HD">[Claro TV+ (Superior)] DISCOVERY THEATER HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|977" xmltv_id="[Claro TV+ (Superior)] ANIMAL PLANET HD">[Claro TV+ (Superior)] ANIMAL PLANET HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|522" xmltv_id="[Claro TV+ (Superior)] HISTORY HD">[Claro TV+ (Superior)] HISTORY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1134" xmltv_id="[Claro TV+ (Superior)] H2 HD">[Claro TV+ (Superior)] H2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|980" xmltv_id="[Claro TV+ (Superior)] DISCOVERY TURBO HD">[Claro TV+ (Superior)] DISCOVERY TURBO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|900" xmltv_id="[Claro TV+ (Superior)] NATGEO HD">[Claro TV+ (Superior)] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1208" xmltv_id="[Claro TV+ (Superior)] HGTV HD">[Claro TV+ (Superior)] HGTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|670" xmltv_id="[Claro TV+ (Superior)] DISCOVERY HOME &amp; HEALTH HD">[Claro TV+ (Superior)] DISCOVERY HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1104" xmltv_id="[Claro TV+ (Superior)] FOOD NETWORK HD">[Claro TV+ (Superior)] FOOD NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|949" xmltv_id="[Claro TV+ (Superior)] INTI HD">[Claro TV+ (Superior)] INTI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1135" xmltv_id="[Claro TV+ (Superior)] E! ENTERTAINMENT HD">[Claro TV+ (Superior)] E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1128" xmltv_id="[Claro TV+ (Superior)] LIFETIME HD">[Claro TV+ (Superior)] LIFETIME HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|681" xmltv_id="[Claro TV+ (Superior)] ADULT SWIM">[Claro TV+ (Superior)] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|902" xmltv_id="[Claro TV+ (Superior)] HOLA TV HD">[Claro TV+ (Superior)] HOLA TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1127" xmltv_id="[Claro TV+ (Superior)] TELEMUNDO HD">[Claro TV+ (Superior)] TELEMUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1129" xmltv_id="[Claro TV+ (Superior)] BLOOMBERG HD">[Claro TV+ (Superior)] BLOOMBERG HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|999" xmltv_id="[Claro TV+ (Superior)] CABLE NOTICIAS HD">[Claro TV+ (Superior)] CABLE NOTICIAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1177" xmltv_id="[Claro TV+ (Superior)] RAI HD">[Claro TV+ (Superior)] RAI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1131" xmltv_id="[Claro TV+ (Superior)] ANTENA 3 HD">[Claro TV+ (Superior)] ANTENA 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1190" xmltv_id="[Claro TV+ (Superior)] IVC HD">[Claro TV+ (Superior)] IVC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|603" xmltv_id="[Claro TV+ (Superior)] CLARO SPORTS HD">[Claro TV+ (Superior)] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1016" xmltv_id="[Claro TV+ (Superior)] CLARO SPORTS 2 HD">[Claro TV+ (Superior)] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|496" xmltv_id="[Claro TV+ (Superior)] ESPN+ EXTRA HD">[Claro TV+ (Superior)] ESPN+ EXTRA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|998" xmltv_id="[Claro TV+ (Superior)] ESPN 2 HD">[Claro TV+ (Superior)] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|988" xmltv_id="[Claro TV+ (Superior)] ESPN HD">[Claro TV+ (Superior)] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|508" xmltv_id="[Claro TV+ (Superior)] ESPN 4 HD">[Claro TV+ (Superior)] ESPN 4 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|888" xmltv_id="[Claro TV+ (Superior)] FOX SPORTS 2 HD">[Claro TV+ (Superior)] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|858" xmltv_id="[Claro TV+ (Superior)] FOX SPORTS 3 HD">[Claro TV+ (Superior)] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|953" xmltv_id="[Claro TV+ (Superior)] WIN SPORTS HD">[Claro TV+ (Superior)] WIN SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|609" xmltv_id="[Claro TV+ (Superior)] WARNER CHANNEL HD">[Claro TV+ (Superior)] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|385" xmltv_id="[Claro TV+ (Superior)] AXN HD">[Claro TV+ (Superior)] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|572" xmltv_id="[Claro TV+ (Superior)] SONY HD">[Claro TV+ (Superior)] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1295" xmltv_id="[Claro TV+ (Superior)] STAR CHANNEL HD">[Claro TV+ (Superior)] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|856" xmltv_id="[Claro TV+ (Superior)] FX HD">[Claro TV+ (Superior)] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|381" xmltv_id="[Claro TV+ (Superior)] A&amp;E MUNDO HD">[Claro TV+ (Superior)] A&amp;E MUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|994" xmltv_id="[Claro TV+ (Superior)] TNT SERIES HD">[Claro TV+ (Superior)] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1046" xmltv_id="[Claro TV+ (Superior)] TNT NOVELAS HD">[Claro TV+ (Superior)] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|646" xmltv_id="[Claro TV+ (Superior)] COMEDY CENTRAL HD">[Claro TV+ (Superior)] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|501" xmltv_id="[Claro TV+ (Superior)] FILM &amp; ARTS HD">[Claro TV+ (Superior)] FILM &amp; ARTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|590" xmltv_id="[Claro TV+ (Superior)] TNT HD">[Claro TV+ (Superior)] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1185" xmltv_id="[Claro TV+ (Superior)] CINEMAX HD">[Claro TV+ (Superior)] CINEMAX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1455" xmltv_id="[Claro TV+ (Superior)] STUDIO UNIVERSAL HD">[Claro TV+ (Superior)] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|575" xmltv_id="[Claro TV+ (Superior)] SPACE HD">[Claro TV+ (Superior)] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|533" xmltv_id="[Claro TV+ (Superior)] AMC HD">[Claro TV+ (Superior)] AMC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|512" xmltv_id="[Claro TV+ (Superior)] GOLDEN HD">[Claro TV+ (Superior)] GOLDEN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|689" xmltv_id="[Claro TV+ (Superior)] GOLDEN EDGE">[Claro TV+ (Superior)] GOLDEN EDGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1186" xmltv_id="[Claro TV+ (Superior)] EUROCHANNEL HD">[Claro TV+ (Superior)] EUROCHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1581" xmltv_id="[Claro TV+ (Superior)] DE PELICULA HD">[Claro TV+ (Superior)] DE PELICULA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1216" xmltv_id="[Claro TV+ (Superior)] CINECANAL HD">[Claro TV+ (Superior)] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|1140" xmltv_id="[Claro TV+ (Superior)] DHE HD">[Claro TV+ (Superior)] DHE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="30|##|955" xmltv_id="[Claro TV+ (Superior)] PARAMOUNT HD">[Claro TV+ (Superior)] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|394" xmltv_id="[Digital Plus] CANAL CARACOL">[Digital Plus] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|421" xmltv_id="[Digital Plus] RED+">[Digital Plus] RED+</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|399" xmltv_id="[Digital Plus] CANAL RCN">[Digital Plus] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|412" xmltv_id="[Digital Plus] CITY TV">[Digital Plus] CITY TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1791" xmltv_id="[Digital Plus] ACTV">[Digital Plus] ACTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|417" xmltv_id="[Digital Plus] COSMOVISION">[Digital Plus] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|922" xmltv_id="[Digital Plus] TELEISLAS CHANNEL">[Digital Plus] TELEISLAS CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|544" xmltv_id="[Digital Plus] MTV">[Digital Plus] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|526" xmltv_id="[Digital Plus] SIN LíMITES">[Digital Plus] SIN LíMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|523" xmltv_id="[Digital Plus] HTV">[Digital Plus] HTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|566" xmltv_id="[Digital Plus] CLARO MúSICA TV">[Digital Plus] CLARO MúSICA TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|823" xmltv_id="[Digital Plus] MI GENTE TV">[Digital Plus] MI GENTE TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|427" xmltv_id="[Digital Plus] DISCOVERY KIDS">[Digital Plus] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|404" xmltv_id="[Digital Plus] CARTOON NETWORK">[Digital Plus] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|431" xmltv_id="[Digital Plus] DISNEY JUNIOR">[Digital Plus] DISNEY JUNIOR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|423" xmltv_id="[Digital Plus] DISCOVERY CHANNEL">[Digital Plus] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|382" xmltv_id="[Digital Plus] ANIMAL PLANET">[Digital Plus] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|521" xmltv_id="[Digital Plus] HISTORY CHANNEL">[Digital Plus] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|894" xmltv_id="[Digital Plus] H2">[Digital Plus] H2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|429" xmltv_id="[Digital Plus] DISCOVERY TURBO">[Digital Plus] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|550" xmltv_id="[Digital Plus] NATIONAL GEOGRAPHIC">[Digital Plus] NATIONAL GEOGRAPHIC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|593" xmltv_id="[Digital Plus] TV AGRO">[Digital Plus] TV AGRO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|425" xmltv_id="[Digital Plus] DISCOVERY HOME &amp; HEALTH">[Digital Plus] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|991" xmltv_id="[Digital Plus] FOOD NETWORK">[Digital Plus] FOOD NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|484" xmltv_id="[Digital Plus] E! ENTERTAINMENT">[Digital Plus] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|893" xmltv_id="[Digital Plus] LIFETIME">[Digital Plus] LIFETIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|592" xmltv_id="[Digital Plus] ADULT SWIM">[Digital Plus] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|584" xmltv_id="[Digital Plus] TL NOVELAS">[Digital Plus] TL NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|697" xmltv_id="[Digital Plus] TELEMUNDO">[Digital Plus] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|579" xmltv_id="[Digital Plus] TELEAMIGA">[Digital Plus] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|391" xmltv_id="[Digital Plus] CABLE NOTICIAS">[Digital Plus] CABLE NOTICIAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|602" xmltv_id="[Digital Plus] CLARO SPORTS">[Digital Plus] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1015" xmltv_id="[Digital Plus] CLARO SPORTS">[Digital Plus] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|494" xmltv_id="[Digital Plus] ESPN 2">[Digital Plus] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|495" xmltv_id="[Digital Plus] ESPN">[Digital Plus] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|506" xmltv_id="[Digital Plus] ESPN 4">[Digital Plus] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|701" xmltv_id="[Digital Plus] FOX SPORTS 2">[Digital Plus] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|651" xmltv_id="[Digital Plus] FOX SPORTS 3">[Digital Plus] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|828" xmltv_id="[Digital Plus] WIN SPORTS">[Digital Plus] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|608" xmltv_id="[Digital Plus] WARNER CHANNEL">[Digital Plus] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|384" xmltv_id="[Digital Plus] AXN">[Digital Plus] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|571" xmltv_id="[Digital Plus] SONY">[Digital Plus] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|505" xmltv_id="[Digital Plus] STAR CHANNEL">[Digital Plus] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|509" xmltv_id="[Digital Plus] FX">[Digital Plus] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|380" xmltv_id="[Digital Plus] A&amp;E">[Digital Plus] A&amp;E</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|524" xmltv_id="[Digital Plus] TNT SERIES">[Digital Plus] TNT SERIES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|578" xmltv_id="[Digital Plus] TNT NOVELAS">[Digital Plus] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|702" xmltv_id="[Digital Plus] COMEDY CENTRAL">[Digital Plus] COMEDY CENTRAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|626" xmltv_id="[Digital Plus] PENTHOUSE">[Digital Plus] PENTHOUSE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|565" xmltv_id="[Digital Plus] SEXTREME">[Digital Plus] SEXTREME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|556" xmltv_id="[Digital Plus] PLAYBOY">[Digital Plus] PLAYBOY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|899" xmltv_id="[Digital Plus] PLAYBOY HD">[Digital Plus] PLAYBOY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|601" xmltv_id="[Digital Plus] VENUS">[Digital Plus] VENUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|589" xmltv_id="[Digital Plus] TNT">[Digital Plus] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|839" xmltv_id="[Digital Plus] CINEMAX">[Digital Plus] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|577" xmltv_id="[Digital Plus] STUDIO UNIVERSAL">[Digital Plus] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|574" xmltv_id="[Digital Plus] SPACE">[Digital Plus] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|532" xmltv_id="[Digital Plus] AMC">[Digital Plus] AMC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|513" xmltv_id="[Digital Plus] GOLDEN">[Digital Plus] GOLDEN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|547" xmltv_id="[Digital Plus] MULTIPREMIER">[Digital Plus] MULTIPREMIER</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|408" xmltv_id="[Digital Plus] CINE LATINO">[Digital Plus] CINE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|409" xmltv_id="[Digital Plus] CINEMA +">[Digital Plus] CINEMA +</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|407" xmltv_id="[Digital Plus] CINECANAL">[Digital Plus] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|937" xmltv_id="[Digital Plus] PARAMOUNT">[Digital Plus] PARAMOUNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|985" xmltv_id="[Digital Plus] CLARO CINEMA">[Digital Plus] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|490" xmltv_id="[Digital Plus] LA FM (EMISORA)">[Digital Plus] LA FM (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|491" xmltv_id="[Digital Plus] LA W (EMISORA)">[Digital Plus] LA W (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|489" xmltv_id="[Digital Plus] LA BASICA RCN (EMISORA)">[Digital Plus] LA BASICA RCN (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|488" xmltv_id="[Digital Plus] LA BASICA CARACOL (EMISORA)">[Digital Plus] LA BASICA CARACOL (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|487" xmltv_id="[Digital Plus] CANDELA STEREO (EMISORA)">[Digital Plus] CANDELA STEREO (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|492" xmltv_id="[Digital Plus] VIBRA BOGOTA (EMISORA)">[Digital Plus] VIBRA BOGOTA (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1577" xmltv_id="[Digital Plus] RADIO MARíA">[Digital Plus] RADIO MARíA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|402" xmltv_id="[Digital Plus] CARACOL HD">[Digital Plus] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|422" xmltv_id="[Digital Plus] RED+ HD">[Digital Plus] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|400" xmltv_id="[Digital Plus] RCN HD">[Digital Plus] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1790" xmltv_id="[Digital Plus] SALUD HD">[Digital Plus] SALUD HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1788" xmltv_id="[Digital Plus] CITY TV HD">[Digital Plus] CITY TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1168" xmltv_id="[Digital Plus] TELEISLAS HD">[Digital Plus] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|993" xmltv_id="[Digital Plus] MTV HD">[Digital Plus] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1169" xmltv_id="[Digital Plus] CLARO MúSICA TV HD">[Digital Plus] CLARO MúSICA TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|813" xmltv_id="[Digital Plus] DISCOVERY KIDS HD">[Digital Plus] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|995" xmltv_id="[Digital Plus] CARTOON NETWORK HD">[Digital Plus] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1142" xmltv_id="[Digital Plus] DISNEY JUNIOR HD">[Digital Plus] DISNEY JUNIOR HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1203" xmltv_id="[Digital Plus] CLAN HD">[Digital Plus] CLAN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|957" xmltv_id="[Digital Plus] DISCOVERY CHANNEL HD">[Digital Plus] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|977" xmltv_id="[Digital Plus] ANIMAL PLANET HD">[Digital Plus] ANIMAL PLANET HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|522" xmltv_id="[Digital Plus] HISTORY HD">[Digital Plus] HISTORY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1134" xmltv_id="[Digital Plus] H2 HD">[Digital Plus] H2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|900" xmltv_id="[Digital Plus] NATGEO HD">[Digital Plus] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|670" xmltv_id="[Digital Plus] DISCOVERY HOME &amp; HEALTH HD">[Digital Plus] DISCOVERY HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1104" xmltv_id="[Digital Plus] FOOD NETWORK HD">[Digital Plus] FOOD NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1135" xmltv_id="[Digital Plus] E! ENTERTAINMENT HD">[Digital Plus] E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1127" xmltv_id="[Digital Plus] TELEMUNDO HD">[Digital Plus] TELEMUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1190" xmltv_id="[Digital Plus] IVC">[Digital Plus] IVC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|603" xmltv_id="[Digital Plus] CLARO SPORTS HD">[Digital Plus] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1016" xmltv_id="[Digital Plus] CLARO SPORTS 2 HD">[Digital Plus] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|496" xmltv_id="[Digital Plus] ESPN EXTRA HD">[Digital Plus] ESPN EXTRA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|998" xmltv_id="[Digital Plus] ESPN 2 HD">[Digital Plus] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|988" xmltv_id="[Digital Plus] ESPN HD">[Digital Plus] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|508" xmltv_id="[Digital Plus] ESPN 4 HD">[Digital Plus] ESPN 4 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|888" xmltv_id="[Digital Plus] FOX SPORTS 2 HD">[Digital Plus] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|858" xmltv_id="[Digital Plus] FOX SPORTS 3 HD">[Digital Plus] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|953" xmltv_id="[Digital Plus] WIN SPORTS HD">[Digital Plus] WIN SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|609" xmltv_id="[Digital Plus] WARNER CHANNEL HD">[Digital Plus] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|385" xmltv_id="[Digital Plus] AXN HD">[Digital Plus] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|572" xmltv_id="[Digital Plus] SONY HD">[Digital Plus] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|503" xmltv_id="[Digital Plus] STAR CHANNEL HD">[Digital Plus] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|856" xmltv_id="[Digital Plus] FX HD">[Digital Plus] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|381" xmltv_id="[Digital Plus] A&amp;E HD">[Digital Plus] A&amp;E HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|994" xmltv_id="[Digital Plus] TNT SERIES HD">[Digital Plus] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1046" xmltv_id="[Digital Plus] TNT NOVELAS HD">[Digital Plus] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|646" xmltv_id="[Digital Plus] COMEDY CENTRAL HD">[Digital Plus] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|590" xmltv_id="[Digital Plus] TNT HD">[Digital Plus] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|1185" xmltv_id="[Digital Plus] CINEMAX HD">[Digital Plus] CINEMAX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|966" xmltv_id="[Digital Plus] STUDIO UNIVERAL HD">[Digital Plus] STUDIO UNIVERAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|575" xmltv_id="[Digital Plus] SPACE HD">[Digital Plus] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|406" xmltv_id="[Digital Plus] CINECANAL HD">[Digital Plus] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="14|##|955" xmltv_id="[Digital Plus] PARAMOUNT HD">[Digital Plus] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|394" xmltv_id="[Digital Superior] CANAL CARACOL">[Digital Superior] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|421" xmltv_id="[Digital Superior] RED+">[Digital Superior] RED+</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|399" xmltv_id="[Digital Superior] CANAL RCN">[Digital Superior] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|412" xmltv_id="[Digital Superior] CITY TV">[Digital Superior] CITY TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1791" xmltv_id="[Digital Superior] ACTV">[Digital Superior] ACTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|417" xmltv_id="[Digital Superior] COSMOVISION">[Digital Superior] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|922" xmltv_id="[Digital Superior] TELEISLAS CHANNEL">[Digital Superior] TELEISLAS CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|544" xmltv_id="[Digital Superior] MTV">[Digital Superior] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|526" xmltv_id="[Digital Superior] SIN LíMITES">[Digital Superior] SIN LíMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|523" xmltv_id="[Digital Superior] HTV">[Digital Superior] HTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|566" xmltv_id="[Digital Superior] CLARO MúSICA TV">[Digital Superior] CLARO MúSICA TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|545" xmltv_id="[Digital Superior] MTV HITS">[Digital Superior] MTV HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|823" xmltv_id="[Digital Superior] MI GENTE TV">[Digital Superior] MI GENTE TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|427" xmltv_id="[Digital Superior] DISCOVERY KIDS">[Digital Superior] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|404" xmltv_id="[Digital Superior] CARTOON NETWORK">[Digital Superior] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|431" xmltv_id="[Digital Superior] DISNEY JUNIOR">[Digital Superior] DISNEY JUNIOR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|390" xmltv_id="[Digital Superior] CARTOONITO">[Digital Superior] CARTOONITO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|423" xmltv_id="[Digital Superior] DISCOVERY CHANNEL">[Digital Superior] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|428" xmltv_id="[Digital Superior] DISCOVERY SCIENCE">[Digital Superior] DISCOVERY SCIENCE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|382" xmltv_id="[Digital Superior] ANIMAL PLANET">[Digital Superior] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|521" xmltv_id="[Digital Superior] HISTORY CHANNEL">[Digital Superior] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|894" xmltv_id="[Digital Superior] H2">[Digital Superior] H2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|429" xmltv_id="[Digital Superior] DISCOVERY TURBO">[Digital Superior] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|550" xmltv_id="[Digital Superior] NATIONAL GEOGRAPHIC">[Digital Superior] NATIONAL GEOGRAPHIC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|593" xmltv_id="[Digital Superior] TV AGRO">[Digital Superior] TV AGRO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|425" xmltv_id="[Digital Superior] DISCOVERY HOME &amp; HEALTH">[Digital Superior] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|991" xmltv_id="[Digital Superior] FOOD NETWORK">[Digital Superior] FOOD NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|484" xmltv_id="[Digital Superior] E! ENTERTAINMENT">[Digital Superior] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|893" xmltv_id="[Digital Superior] LIFETIME">[Digital Superior] LIFETIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|592" xmltv_id="[Digital Superior] ADULT SWIM">[Digital Superior] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|584" xmltv_id="[Digital Superior] TL NOVELAS">[Digital Superior] TL NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|697" xmltv_id="[Digital Superior] TELEMUNDO">[Digital Superior] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|579" xmltv_id="[Digital Superior] TELEAMIGA">[Digital Superior] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|389" xmltv_id="[Digital Superior] BLOOMBERG">[Digital Superior] BLOOMBERG</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|391" xmltv_id="[Digital Superior] CABLE NOTICIAS">[Digital Superior] CABLE NOTICIAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|596" xmltv_id="[Digital Superior] TVE">[Digital Superior] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|567" xmltv_id="[Digital Superior] RAI">[Digital Superior] RAI</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|383" xmltv_id="[Digital Superior] ANTENA 3">[Digital Superior] ANTENA 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|594" xmltv_id="[Digital Superior] NUESTRA TELE">[Digital Superior] NUESTRA TELE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|602" xmltv_id="[Digital Superior] CLARO SPORTS">[Digital Superior] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1015" xmltv_id="[Digital Superior] CLARO SPORTS 2">[Digital Superior] CLARO SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|494" xmltv_id="[Digital Superior] ESPN 2">[Digital Superior] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|495" xmltv_id="[Digital Superior] ESPN">[Digital Superior] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|506" xmltv_id="[Digital Superior] ESPN 4">[Digital Superior] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|701" xmltv_id="[Digital Superior] FOX SPORTS 2">[Digital Superior] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|651" xmltv_id="[Digital Superior] FOX SPORTS 3">[Digital Superior] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|828" xmltv_id="[Digital Superior] WIN SPORTS">[Digital Superior] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|608" xmltv_id="[Digital Superior] WARNER CHANNEL">[Digital Superior] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|384" xmltv_id="[Digital Superior] AXN">[Digital Superior] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|571" xmltv_id="[Digital Superior] SONY">[Digital Superior] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|505" xmltv_id="[Digital Superior] STAR CHANNEL">[Digital Superior] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|509" xmltv_id="[Digital Superior] FX">[Digital Superior] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|380" xmltv_id="[Digital Superior] A&amp;E">[Digital Superior] A&amp;E</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|524" xmltv_id="[Digital Superior] TNT SERIES">[Digital Superior] TNT SERIES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|578" xmltv_id="[Digital Superior] TNT NOVELAS">[Digital Superior] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|702" xmltv_id="[Digital Superior] COMEDY CENTRAL">[Digital Superior] COMEDY CENTRAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|626" xmltv_id="[Digital Superior] PENTHOUSE">[Digital Superior] PENTHOUSE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|565" xmltv_id="[Digital Superior] SEXTREME">[Digital Superior] SEXTREME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|556" xmltv_id="[Digital Superior] PLAYBOY">[Digital Superior] PLAYBOY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|899" xmltv_id="[Digital Superior] PLAYBOY HD">[Digital Superior] PLAYBOY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|601" xmltv_id="[Digital Superior] VENUS">[Digital Superior] VENUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|589" xmltv_id="[Digital Superior] TNT">[Digital Superior] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|839" xmltv_id="[Digital Superior] CINEMAX">[Digital Superior] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|577" xmltv_id="[Digital Superior] STUDIO UNIVERSAL">[Digital Superior] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|574" xmltv_id="[Digital Superior] SPACE">[Digital Superior] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|525" xmltv_id="[Digital Superior] ISAT">[Digital Superior] ISAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|532" xmltv_id="[Digital Superior] AMC">[Digital Superior] AMC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|513" xmltv_id="[Digital Superior] GOLDEN">[Digital Superior] GOLDEN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|547" xmltv_id="[Digital Superior] MULTIPREMIER">[Digital Superior] MULTIPREMIER</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|408" xmltv_id="[Digital Superior] CINE LATINO">[Digital Superior] CINE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|498" xmltv_id="[Digital Superior] EUROCHANNEL">[Digital Superior] EUROCHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|420" xmltv_id="[Digital Superior] DE PELICULA">[Digital Superior] DE PELICULA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|409" xmltv_id="[Digital Superior] CINEMA +">[Digital Superior] CINEMA +</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|407" xmltv_id="[Digital Superior] CINECANAL">[Digital Superior] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|637" xmltv_id="[Digital Superior] TCM">[Digital Superior] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|937" xmltv_id="[Digital Superior] PARAMOUNT">[Digital Superior] PARAMOUNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|985" xmltv_id="[Digital Superior] CLARO CINEMA">[Digital Superior] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|449" xmltv_id="[Digital Superior] NEW AGE">[Digital Superior] NEW AGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|448" xmltv_id="[Digital Superior] ROCK DE BRASIL">[Digital Superior] ROCK DE BRASIL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|450" xmltv_id="[Digital Superior] ROCK EN ESPANOL">[Digital Superior] ROCK EN ESPANOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|434" xmltv_id="[Digital Superior] LATINO TROPICAL">[Digital Superior] LATINO TROPICAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|452" xmltv_id="[Digital Superior] CLUB DE BAILE">[Digital Superior] CLUB DE BAILE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|453" xmltv_id="[Digital Superior] MARIACHI PARA SIEMPRE">[Digital Superior] MARIACHI PARA SIEMPRE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|451" xmltv_id="[Digital Superior] VIVA MEXICO">[Digital Superior] VIVA MEXICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|463" xmltv_id="[Digital Superior] EXITOS DE LAS AMERICAS">[Digital Superior] EXITOS DE LAS AMERICAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|462" xmltv_id="[Digital Superior] SESIONES DANCEHALL">[Digital Superior] SESIONES DANCEHALL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|459" xmltv_id="[Digital Superior] MAESTROS DEL CLASICO">[Digital Superior] MAESTROS DEL CLASICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|458" xmltv_id="[Digital Superior] MUSICA DEL MUNDO">[Digital Superior] MUSICA DEL MUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|444" xmltv_id="[Digital Superior] JAZZ LATINO">[Digital Superior] JAZZ LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|436" xmltv_id="[Digital Superior] EXITOS DE BRASIL">[Digital Superior] EXITOS DE BRASIL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|476" xmltv_id="[Digital Superior] MAESTROS DEL JAZZ">[Digital Superior] MAESTROS DEL JAZZ</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|433" xmltv_id="[Digital Superior] SILK (CANCIONES DE AMOR)">[Digital Superior] SILK (CANCIONES DE AMOR)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|437" xmltv_id="[Digital Superior] HIMNOS DEL ROCK">[Digital Superior] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|481" xmltv_id="[Digital Superior] AñOS 70">[Digital Superior] AñOS 70</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|482" xmltv_id="[Digital Superior] AñOS 80">[Digital Superior] AñOS 80</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|479" xmltv_id="[Digital Superior] AñOS 90">[Digital Superior] AñOS 90</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|439" xmltv_id="[Digital Superior] EXITOS RECIENTES">[Digital Superior] EXITOS RECIENTES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|480" xmltv_id="[Digital Superior] HARD ROCK">[Digital Superior] HARD ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|457" xmltv_id="[Digital Superior] TANGO">[Digital Superior] TANGO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|441" xmltv_id="[Digital Superior] CLASICOS DEL SOUL Y EL RHYTHM &amp; BLUES">[Digital Superior] CLASICOS DEL SOUL Y EL RHYTHM &amp; BLUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|442" xmltv_id="[Digital Superior] POPCORN">[Digital Superior] POPCORN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|438" xmltv_id="[Digital Superior] JAMMIN` REGGAE">[Digital Superior] JAMMIN` REGGAE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|440" xmltv_id="[Digital Superior] EVENTOS">[Digital Superior] EVENTOS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|465" xmltv_id="[Digital Superior] COCKTAIL LOUNGE">[Digital Superior] COCKTAIL LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|461" xmltv_id="[Digital Superior] ROCK ALTERNATIVO">[Digital Superior] ROCK ALTERNATIVO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|435" xmltv_id="[Digital Superior] SOLO PARA PEQUES">[Digital Superior] SOLO PARA PEQUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|456" xmltv_id="[Digital Superior] VIEJITAS PERO BUENISIMAS">[Digital Superior] VIEJITAS PERO BUENISIMAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|443" xmltv_id="[Digital Superior] MUSICA LIGERA">[Digital Superior] MUSICA LIGERA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|454" xmltv_id="[Digital Superior] OPERA PLUS">[Digital Superior] OPERA PLUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|478" xmltv_id="[Digital Superior] CLASICOS INDIE">[Digital Superior] CLASICOS INDIE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|460" xmltv_id="[Digital Superior] EXITOS DE ITALIA">[Digital Superior] EXITOS DE ITALIA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|466" xmltv_id="[Digital Superior] BLUES">[Digital Superior] BLUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|446" xmltv_id="[Digital Superior] MPB (MUSICA POPULAR BRASILEIRA)">[Digital Superior] MPB (MUSICA POPULAR BRASILEIRA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|445" xmltv_id="[Digital Superior] ROMPEPISTAS">[Digital Superior] ROMPEPISTAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|447" xmltv_id="[Digital Superior] SAMBA Y PAGODE">[Digital Superior] SAMBA Y PAGODE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|455" xmltv_id="[Digital Superior] BIG BAND">[Digital Superior] BIG BAND</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|464" xmltv_id="[Digital Superior] LATIN LOUNGE">[Digital Superior] LATIN LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|467" xmltv_id="[Digital Superior] CLASICOS PARA TODOS">[Digital Superior] CLASICOS PARA TODOS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|474" xmltv_id="[Digital Superior] EUROHITS">[Digital Superior] EUROHITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|468" xmltv_id="[Digital Superior] POP ADULTO">[Digital Superior] POP ADULTO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|471" xmltv_id="[Digital Superior] SALSA Y MERENGUE">[Digital Superior] SALSA Y MERENGUE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|475" xmltv_id="[Digital Superior] ESTANDARES">[Digital Superior] ESTANDARES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|469" xmltv_id="[Digital Superior] REGGAETON">[Digital Superior] REGGAETON</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|470" xmltv_id="[Digital Superior] EL SALON CHILL">[Digital Superior] EL SALON CHILL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|472" xmltv_id="[Digital Superior] CLASICOS DEL &amp;QUOT;DANCE&amp;QUOT;">[Digital Superior] CLASICOS DEL &amp;QUOT;DANCE&amp;QUOT;</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|473" xmltv_id="[Digital Superior] POP LATINO ACTUAL">[Digital Superior] POP LATINO ACTUAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|477" xmltv_id="[Digital Superior] ROMANCE LATINO">[Digital Superior] ROMANCE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|490" xmltv_id="[Digital Superior] LA FM (EMISORA)">[Digital Superior] LA FM (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|491" xmltv_id="[Digital Superior] LA W (EMISORA)">[Digital Superior] LA W (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|489" xmltv_id="[Digital Superior] LA BASICA RCN (EMISORA)">[Digital Superior] LA BASICA RCN (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|488" xmltv_id="[Digital Superior] LA BASICA CARACOL (EMISORA)">[Digital Superior] LA BASICA CARACOL (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|487" xmltv_id="[Digital Superior] CANDELA STEREO (EMISORA)">[Digital Superior] CANDELA STEREO (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|492" xmltv_id="[Digital Superior] VIBRA BOGOTA (EMISORA)">[Digital Superior] VIBRA BOGOTA (EMISORA)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1577" xmltv_id="[Digital Superior] RADIO MARíA">[Digital Superior] RADIO MARíA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|402" xmltv_id="[Digital Superior] CARACOL HD">[Digital Superior] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|422" xmltv_id="[Digital Superior] RED+ HD">[Digital Superior] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|400" xmltv_id="[Digital Superior] RCN HD">[Digital Superior] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1790" xmltv_id="[Digital Superior] SALUD HD">[Digital Superior] SALUD HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1788" xmltv_id="[Digital Superior] CITY TV HD">[Digital Superior] CITY TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1168" xmltv_id="[Digital Superior] TELEISLAS HD">[Digital Superior] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|993" xmltv_id="[Digital Superior] MTV HD">[Digital Superior] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1169" xmltv_id="[Digital Superior] CLARO MúSICA TV HD">[Digital Superior] CLARO MúSICA TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|649" xmltv_id="[Digital Superior] MTV LIVE HD">[Digital Superior] MTV LIVE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|813" xmltv_id="[Digital Superior] DISCOVERY KIDS HD">[Digital Superior] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|995" xmltv_id="[Digital Superior] CARTOON NETWORK HD">[Digital Superior] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1142" xmltv_id="[Digital Superior] DISNEY JUNIOR HD">[Digital Superior] DISNEY JUNIOR HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1040" xmltv_id="[Digital Superior] CARTOONITO HD">[Digital Superior] CARTOONITO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|650" xmltv_id="[Digital Superior] TEENNICK">[Digital Superior] TEENNICK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1203" xmltv_id="[Digital Superior] CLAN HD">[Digital Superior] CLAN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|957" xmltv_id="[Digital Superior] DISCOVERY CHANNEL HD">[Digital Superior] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|426" xmltv_id="[Digital Superior] DISCOVERY THEATER HD">[Digital Superior] DISCOVERY THEATER HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|977" xmltv_id="[Digital Superior] ANIMAL PLANET HD">[Digital Superior] ANIMAL PLANET HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|522" xmltv_id="[Digital Superior] HISTORY HD">[Digital Superior] HISTORY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1134" xmltv_id="[Digital Superior] H2 HD">[Digital Superior] H2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|980" xmltv_id="[Digital Superior] DISCOVERY TURBO HD">[Digital Superior] DISCOVERY TURBO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|900" xmltv_id="[Digital Superior] NATGEO HD">[Digital Superior] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1208" xmltv_id="[Digital Superior] HGTV">[Digital Superior] HGTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|670" xmltv_id="[Digital Superior] DISCOVERY HOME &amp; HEALTH HD">[Digital Superior] DISCOVERY HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1104" xmltv_id="[Digital Superior] FOOD NETWORK HD">[Digital Superior] FOOD NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|949" xmltv_id="[Digital Superior] INTI HD">[Digital Superior] INTI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1135" xmltv_id="[Digital Superior] E! ENTERTAINMENT HD">[Digital Superior] E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1128" xmltv_id="[Digital Superior] LIFETIME HD">[Digital Superior] LIFETIME HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|681" xmltv_id="[Digital Superior] ADULT SWIM">[Digital Superior] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|902" xmltv_id="[Digital Superior] HOLA! TV HD">[Digital Superior] HOLA! TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1127" xmltv_id="[Digital Superior] TELEMUNDO HD">[Digital Superior] TELEMUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1129" xmltv_id="[Digital Superior] BLOOMBERG HD">[Digital Superior] BLOOMBERG HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|999" xmltv_id="[Digital Superior] CABLENOTICIAS HD">[Digital Superior] CABLENOTICIAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1177" xmltv_id="[Digital Superior] RAI HD">[Digital Superior] RAI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1131" xmltv_id="[Digital Superior] ANTENA 3 HD">[Digital Superior] ANTENA 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1190" xmltv_id="[Digital Superior] IVC">[Digital Superior] IVC</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|603" xmltv_id="[Digital Superior] CLARO SPORTS HD">[Digital Superior] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1016" xmltv_id="[Digital Superior] CLARO SPORTS 2 HD">[Digital Superior] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|496" xmltv_id="[Digital Superior] ESPN EXTRA HD">[Digital Superior] ESPN EXTRA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|998" xmltv_id="[Digital Superior] ESPN 2 HD">[Digital Superior] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|988" xmltv_id="[Digital Superior] ESPN HD">[Digital Superior] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|508" xmltv_id="[Digital Superior] ESPN 4 HD">[Digital Superior] ESPN 4 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|888" xmltv_id="[Digital Superior] FOX SPORTS 2 HD">[Digital Superior] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|858" xmltv_id="[Digital Superior] FOX SPORTS 3 HD">[Digital Superior] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|953" xmltv_id="[Digital Superior] WIN SPORTS HD">[Digital Superior] WIN SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|609" xmltv_id="[Digital Superior] WARNER CHANNEL HD">[Digital Superior] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|385" xmltv_id="[Digital Superior] AXN HD">[Digital Superior] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|572" xmltv_id="[Digital Superior] SONY HD">[Digital Superior] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|503" xmltv_id="[Digital Superior] STAR CHANNEL HD">[Digital Superior] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|856" xmltv_id="[Digital Superior] FX HD">[Digital Superior] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|381" xmltv_id="[Digital Superior] A&amp;E HD">[Digital Superior] A&amp;E HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|994" xmltv_id="[Digital Superior] TNT SERIES HD">[Digital Superior] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1046" xmltv_id="[Digital Superior] TNT NOVELAS HD">[Digital Superior] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|646" xmltv_id="[Digital Superior] COMEDY CENTRAL HD">[Digital Superior] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|501" xmltv_id="[Digital Superior] FILM &amp; ARTS HD">[Digital Superior] FILM &amp; ARTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|590" xmltv_id="[Digital Superior] TNT HD">[Digital Superior] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1185" xmltv_id="[Digital Superior] CINEMAX HD">[Digital Superior] CINEMAX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|966" xmltv_id="[Digital Superior] STUDIO UNIVERAL HD">[Digital Superior] STUDIO UNIVERAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|575" xmltv_id="[Digital Superior] SPACE HD">[Digital Superior] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|533" xmltv_id="[Digital Superior] AMC HD">[Digital Superior] AMC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|512" xmltv_id="[Digital Superior] GOLDEN PLUS">[Digital Superior] GOLDEN PLUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|689" xmltv_id="[Digital Superior] GOLDEN EDGE">[Digital Superior] GOLDEN EDGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|1186" xmltv_id="[Digital Superior] EUROCHANNEL HD">[Digital Superior] EUROCHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|688" xmltv_id="[Digital Superior] DE PELICULA HD">[Digital Superior] DE PELICULA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|406" xmltv_id="[Digital Superior] CINECANAL HD">[Digital Superior] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|821" xmltv_id="[Digital Superior] DHE HD">[Digital Superior] DHE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="15|##|955" xmltv_id="[Digital Superior] PARAMOUNT HD">[Digital Superior] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="22|##|978" xmltv_id="[Paquete Golden Premier] GOLDEN PREMIER HD">[Paquete Golden Premier] GOLDEN PREMIER HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|515" xmltv_id="[Paquete HBO MAX] HBO">[Paquete HBO MAX] HBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|518" xmltv_id="[Paquete HBO MAX] HBO PLUS">[Paquete HBO MAX] HBO PLUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|516" xmltv_id="[Paquete HBO MAX] HBO FAMILY">[Paquete HBO MAX] HBO FAMILY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|799" xmltv_id="[Paquete HBO MAX] HBO XTREME">[Paquete HBO MAX] HBO XTREME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|514" xmltv_id="[Paquete HBO MAX] HBO 2">[Paquete HBO MAX] HBO 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|517" xmltv_id="[Paquete HBO MAX] HBO HD">[Paquete HBO MAX] HBO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|916" xmltv_id="[Paquete HBO MAX] HBO POP HD">[Paquete HBO MAX] HBO POP HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|915" xmltv_id="[Paquete HBO MAX] HBO PLUS HD">[Paquete HBO MAX] HBO PLUS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|963" xmltv_id="[Paquete HBO MAX] HBO FAMILY HD">[Paquete HBO MAX] HBO FAMILY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|964" xmltv_id="[Paquete HBO MAX] HBO SIGNATURE HD">[Paquete HBO MAX] HBO SIGNATURE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="20|##|962" xmltv_id="[Paquete HBO MAX] HBO XTREME HD">[Paquete HBO MAX] HBO XTREME HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="23|##|626" xmltv_id="[Paquete Hot] PENTHOUSE">[Paquete Hot] PENTHOUSE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="23|##|565" xmltv_id="[Paquete Hot] SEXTREME">[Paquete Hot] SEXTREME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="23|##|556" xmltv_id="[Paquete Hot] PLAYBOY">[Paquete Hot] PLAYBOY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="23|##|601" xmltv_id="[Paquete Hot] VENUS">[Paquete Hot] VENUS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="23|##|899" xmltv_id="[Paquete Hot] PLAYBOY HD">[Paquete Hot] PLAYBOY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="26|##|1295" xmltv_id="[Paquete Internacional] STAR TVE HD">[Paquete Internacional] STAR TVE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="26|##|1191" xmltv_id="[Paquete Internacional] TV PERÚ">[Paquete Internacional] TV PERÚ</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="26|##|1196" xmltv_id="[Paquete Internacional] GLOBO INTERNACIOANAL HD">[Paquete Internacional] GLOBO INTERNACIOANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1621" xmltv_id="[Paquete Universal+] UNIVERSAL CINEMA ESTE">[Paquete Universal+] UNIVERSAL CINEMA ESTE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1629" xmltv_id="[Paquete Universal+] UNIVERSAL PREMIERE ESTE">[Paquete Universal+] UNIVERSAL PREMIERE ESTE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1628" xmltv_id="[Paquete Universal+] UNIVERSAL PREMIERE ESTE HD">[Paquete Universal+] UNIVERSAL PREMIERE ESTE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1623" xmltv_id="[Paquete Universal+] UNIVERSAL COMEDY">[Paquete Universal+] UNIVERSAL COMEDY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1620" xmltv_id="[Paquete Universal+] UNIVERSAL CINEMA ESTE HD">[Paquete Universal+] UNIVERSAL CINEMA ESTE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1622" xmltv_id="[Paquete Universal+] UNIVERSAL COMEDY HD">[Paquete Universal+] UNIVERSAL COMEDY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="33|##|1632" xmltv_id="[Paquete Universal+] UNIVERSAL REALITY HD">[Paquete Universal+] UNIVERSAL REALITY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|394" xmltv_id="[Satelital (Avanzada)] CANAL CARACOL">[Satelital (Avanzada)] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|422" xmltv_id="[Satelital (Avanzada)] RED+ HD">[Satelital (Avanzada)] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|399" xmltv_id="[Satelital (Avanzada)] CANAL RCN">[Satelital (Avanzada)] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|402" xmltv_id="[Satelital (Avanzada)] CARACOL HD">[Satelital (Avanzada)] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|400" xmltv_id="[Satelital (Avanzada)] RCN HD">[Satelital (Avanzada)] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|412" xmltv_id="[Satelital (Avanzada)] CITYTV">[Satelital (Avanzada)] CITYTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|922" xmltv_id="[Satelital (Avanzada)] TELEISLAS">[Satelital (Avanzada)] TELEISLAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|544" xmltv_id="[Satelital (Avanzada)] MTV">[Satelital (Avanzada)] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|526" xmltv_id="[Satelital (Avanzada)] SIN LíMITES">[Satelital (Avanzada)] SIN LíMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|993" xmltv_id="[Satelital (Avanzada)] MTV HD">[Satelital (Avanzada)] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|427" xmltv_id="[Satelital (Avanzada)] DISCOVERY KIDS">[Satelital (Avanzada)] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|404" xmltv_id="[Satelital (Avanzada)] CARTOON NETWORK">[Satelital (Avanzada)] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|431" xmltv_id="[Satelital (Avanzada)] DISNEY JR">[Satelital (Avanzada)] DISNEY JR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|995" xmltv_id="[Satelital (Avanzada)] CARTOON NETWORK HD">[Satelital (Avanzada)] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|1642" xmltv_id="[Satelital (Avanzada)] BABY FIRST TV">[Satelital (Avanzada)] BABY FIRST TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|423" xmltv_id="[Satelital (Avanzada)] DISCOVERY CHANNEL">[Satelital (Avanzada)] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|426" xmltv_id="[Satelital (Avanzada)] DISCOVERY THEATER HD">[Satelital (Avanzada)] DISCOVERY THEATER HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|957" xmltv_id="[Satelital (Avanzada)] DISCOVERY CHANNEL HD">[Satelital (Avanzada)] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|382" xmltv_id="[Satelital (Avanzada)] ANIMAL PLANET">[Satelital (Avanzada)] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|521" xmltv_id="[Satelital (Avanzada)] HISTORY CHANNEL">[Satelital (Avanzada)] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|522" xmltv_id="[Satelital (Avanzada)] HISTORY CHANNEL HD">[Satelital (Avanzada)] HISTORY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|429" xmltv_id="[Satelital (Avanzada)] DISCOVERY TURBO">[Satelital (Avanzada)] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|977" xmltv_id="[Satelital (Avanzada)] ANIMAL PLANET HD">[Satelital (Avanzada)] ANIMAL PLANET HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|550" xmltv_id="[Satelital (Avanzada)] NAT GEO">[Satelital (Avanzada)] NAT GEO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|900" xmltv_id="[Satelital (Avanzada)] NATGEO HD">[Satelital (Avanzada)] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|425" xmltv_id="[Satelital (Avanzada)] DISCOVERY HOME &amp; HEALTH">[Satelital (Avanzada)] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|991" xmltv_id="[Satelital (Avanzada)] FOOD NETWORK">[Satelital (Avanzada)] FOOD NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|484" xmltv_id="[Satelital (Avanzada)] E! ENTERTAINMENT">[Satelital (Avanzada)] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|893" xmltv_id="[Satelital (Avanzada)] LIFE TIME">[Satelital (Avanzada)] LIFE TIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|1128" xmltv_id="[Satelital (Avanzada)] ADULT SWIM">[Satelital (Avanzada)] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|949" xmltv_id="[Satelital (Avanzada)] INTI HD">[Satelital (Avanzada)] INTI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|697" xmltv_id="[Satelital (Avanzada)] TELEMUNDO">[Satelital (Avanzada)] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|596" xmltv_id="[Satelital (Avanzada)] TVE">[Satelital (Avanzada)] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|602" xmltv_id="[Satelital (Avanzada)] CLARO SPORTS">[Satelital (Avanzada)] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|603" xmltv_id="[Satelital (Avanzada)] CLARO SPORTS HD">[Satelital (Avanzada)] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|494" xmltv_id="[Satelital (Avanzada)] ESPN 2">[Satelital (Avanzada)] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|495" xmltv_id="[Satelital (Avanzada)] ESPN">[Satelital (Avanzada)] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|506" xmltv_id="[Satelital (Avanzada)] ESPN 4">[Satelital (Avanzada)] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|701" xmltv_id="[Satelital (Avanzada)] FOX SPORTS 2">[Satelital (Avanzada)] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|651" xmltv_id="[Satelital (Avanzada)] FOX SPORTS 3">[Satelital (Avanzada)] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|508" xmltv_id="[Satelital (Avanzada)] FOX SPORTS HD">[Satelital (Avanzada)] FOX SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|888" xmltv_id="[Satelital (Avanzada)] FOX SPORTS 2 HD">[Satelital (Avanzada)] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|828" xmltv_id="[Satelital (Avanzada)] WIN SPORTS">[Satelital (Avanzada)] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|496" xmltv_id="[Satelital (Avanzada)] ESPN EXTRA">[Satelital (Avanzada)] ESPN EXTRA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|988" xmltv_id="[Satelital (Avanzada)] ESPN 2 HD">[Satelital (Avanzada)] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|998" xmltv_id="[Satelital (Avanzada)] ESPN HD">[Satelital (Avanzada)] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|858" xmltv_id="[Satelital (Avanzada)] FOX SPORTS 3 HD">[Satelital (Avanzada)] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|608" xmltv_id="[Satelital (Avanzada)] WARNER CHANNEL">[Satelital (Avanzada)] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|384" xmltv_id="[Satelital (Avanzada)] AXN">[Satelital (Avanzada)] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|571" xmltv_id="[Satelital (Avanzada)] SONY">[Satelital (Avanzada)] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|505" xmltv_id="[Satelital (Avanzada)] STAR CHANNEL">[Satelital (Avanzada)] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|503" xmltv_id="[Satelital (Avanzada)] STAR CHANNEL HD">[Satelital (Avanzada)] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|509" xmltv_id="[Satelital (Avanzada)] FX">[Satelital (Avanzada)] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|380" xmltv_id="[Satelital (Avanzada)] A&amp;E">[Satelital (Avanzada)] A&amp;E</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|994" xmltv_id="[Satelital (Avanzada)] TNT SERIES HD">[Satelital (Avanzada)] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|572" xmltv_id="[Satelital (Avanzada)] SONY HD">[Satelital (Avanzada)] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|381" xmltv_id="[Satelital (Avanzada)] A&amp;E HD">[Satelital (Avanzada)] A&amp;E HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|609" xmltv_id="[Satelital (Avanzada)] WARNER CHANNEL HD">[Satelital (Avanzada)] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|385" xmltv_id="[Satelital (Avanzada)] AXN HD">[Satelital (Avanzada)] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|578" xmltv_id="[Satelital (Avanzada)] TNT NOVELAS">[Satelital (Avanzada)] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|1046" xmltv_id="[Satelital (Avanzada)] TNT NOVELAS HD">[Satelital (Avanzada)] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|646" xmltv_id="[Satelital (Avanzada)] COMEDY CENTRAL HD">[Satelital (Avanzada)] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|856" xmltv_id="[Satelital (Avanzada)] FX HD">[Satelital (Avanzada)] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|637" xmltv_id="[Satelital (Avanzada)] TCM">[Satelital (Avanzada)] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|589" xmltv_id="[Satelital (Avanzada)] TNT">[Satelital (Avanzada)] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|574" xmltv_id="[Satelital (Avanzada)] SPACE">[Satelital (Avanzada)] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|525" xmltv_id="[Satelital (Avanzada)] ISAT">[Satelital (Avanzada)] ISAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|839" xmltv_id="[Satelital (Avanzada)] CINEMAX">[Satelital (Avanzada)] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|407" xmltv_id="[Satelital (Avanzada)] CINECANAL">[Satelital (Avanzada)] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|406" xmltv_id="[Satelital (Avanzada)] CINECANAL HD">[Satelital (Avanzada)] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|590" xmltv_id="[Satelital (Avanzada)] TNT HD">[Satelital (Avanzada)] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|575" xmltv_id="[Satelital (Avanzada)] SPACE HD">[Satelital (Avanzada)] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|955" xmltv_id="[Satelital (Avanzada)] PARAMOUNT HD">[Satelital (Avanzada)] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|985" xmltv_id="[Satelital (Avanzada)] CLARO CINEMA">[Satelital (Avanzada)] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|577" xmltv_id="[Satelital (Avanzada)] STUDIO UNIVERSAL">[Satelital (Avanzada)] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|966" xmltv_id="[Satelital (Avanzada)] STUDIO UNIVERSAL HD">[Satelital (Avanzada)] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|449" xmltv_id="[Satelital (Avanzada)] NEW AGE">[Satelital (Avanzada)] NEW AGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|450" xmltv_id="[Satelital (Avanzada)] ROCK EN ESPANOL">[Satelital (Avanzada)] ROCK EN ESPANOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|434" xmltv_id="[Satelital (Avanzada)] LATINO TROPICAL">[Satelital (Avanzada)] LATINO TROPICAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|440" xmltv_id="[Satelital (Avanzada)] DANCE CLUBBIN">[Satelital (Avanzada)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|451" xmltv_id="[Satelital (Avanzada)] VIVA MEXICO">[Satelital (Avanzada)] VIVA MEXICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|459" xmltv_id="[Satelital (Avanzada)] MAESTROS DEL CLASICO">[Satelital (Avanzada)] MAESTROS DEL CLASICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|458" xmltv_id="[Satelital (Avanzada)] AROUND THE WORLD">[Satelital (Avanzada)] AROUND THE WORLD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|433" xmltv_id="[Satelital (Avanzada)] SILK (CANCIONES DE AMOR)">[Satelital (Avanzada)] SILK (CANCIONES DE AMOR)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|437" xmltv_id="[Satelital (Avanzada)] HIMNOS DEL ROCK">[Satelital (Avanzada)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|481" xmltv_id="[Satelital (Avanzada)] AñOS 70">[Satelital (Avanzada)] AñOS 70</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|482" xmltv_id="[Satelital (Avanzada)] AñOS 80">[Satelital (Avanzada)] AñOS 80</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|439" xmltv_id="[Satelital (Avanzada)] HIT LIST">[Satelital (Avanzada)] HIT LIST</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|437" xmltv_id="[Satelital (Avanzada)] HIMNOS DEL ROCK">[Satelital (Avanzada)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|438" xmltv_id="[Satelital (Avanzada)] JAMMIN` REGGAE">[Satelital (Avanzada)] JAMMIN` REGGAE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|465" xmltv_id="[Satelital (Avanzada)] COCKTAIL LOUNGE">[Satelital (Avanzada)] COCKTAIL LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|478" xmltv_id="[Satelital (Avanzada)] SOLO PARA PEQUES">[Satelital (Avanzada)] SOLO PARA PEQUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|474" xmltv_id="[Satelital (Avanzada)] EURO HITS">[Satelital (Avanzada)] EURO HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|468" xmltv_id="[Satelital (Avanzada)] POP ADULT">[Satelital (Avanzada)] POP ADULT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|462" xmltv_id="[Satelital (Avanzada)] SALSA Y MERENGUE">[Satelital (Avanzada)] SALSA Y MERENGUE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|440" xmltv_id="[Satelital (Avanzada)] DANCE CLUBBIN">[Satelital (Avanzada)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|473" xmltv_id="[Satelital (Avanzada)] POP LATINO ACTUAL">[Satelital (Avanzada)] POP LATINO ACTUAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="17|##|477" xmltv_id="[Satelital (Avanzada)] ROMANCE LATINO">[Satelital (Avanzada)] ROMANCE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|394" xmltv_id="[Satelital (Básica)] CANAL CARACOL">[Satelital (Básica)] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|422" xmltv_id="[Satelital (Básica)] RED+ HD">[Satelital (Básica)] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|399" xmltv_id="[Satelital (Básica)] CANAL RCN">[Satelital (Básica)] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|402" xmltv_id="[Satelital (Básica)] CARACOL HD">[Satelital (Básica)] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|400" xmltv_id="[Satelital (Básica)] RCN HD">[Satelital (Básica)] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|412" xmltv_id="[Satelital (Básica)] CITYTV">[Satelital (Básica)] CITYTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|922" xmltv_id="[Satelital (Básica)] TELEISLAS">[Satelital (Básica)] TELEISLAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|544" xmltv_id="[Satelital (Básica)] MTV">[Satelital (Básica)] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|526" xmltv_id="[Satelital (Básica)] SIN LíMITES">[Satelital (Básica)] SIN LíMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|427" xmltv_id="[Satelital (Básica)] DISCOVERY KIDS">[Satelital (Básica)] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|404" xmltv_id="[Satelital (Básica)] CARTOON NETWORK">[Satelital (Básica)] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|431" xmltv_id="[Satelital (Básica)] DISNEY JR">[Satelital (Básica)] DISNEY JR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|1642" xmltv_id="[Satelital (Básica)] BABY FIRST TV">[Satelital (Básica)] BABY FIRST TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|423" xmltv_id="[Satelital (Básica)] DISCOVERY CHANNEL">[Satelital (Básica)] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|382" xmltv_id="[Satelital (Básica)] ANIMAL PLANET">[Satelital (Básica)] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|521" xmltv_id="[Satelital (Básica)] HISTORY CHANNEL">[Satelital (Básica)] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|429" xmltv_id="[Satelital (Básica)] DISCOVERY TURBO">[Satelital (Básica)] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|550" xmltv_id="[Satelital (Básica)] NAT GEO">[Satelital (Básica)] NAT GEO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|425" xmltv_id="[Satelital (Básica)] DISCOVERY HOME &amp; HEALTH">[Satelital (Básica)] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|484" xmltv_id="[Satelital (Básica)] E! ENTERTAINMENT">[Satelital (Básica)] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|893" xmltv_id="[Satelital (Básica)] LIFE TIME">[Satelital (Básica)] LIFE TIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|1128" xmltv_id="[Satelital (Básica)] ADULT SWIM">[Satelital (Básica)] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|697" xmltv_id="[Satelital (Básica)] TELEMUNDO">[Satelital (Básica)] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|596" xmltv_id="[Satelital (Básica)] TVE">[Satelital (Básica)] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|602" xmltv_id="[Satelital (Básica)] CLARO SPORTS">[Satelital (Básica)] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|603" xmltv_id="[Satelital (Básica)] CLARO SPORTS HD">[Satelital (Básica)] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|494" xmltv_id="[Satelital (Básica)] ESPN 2">[Satelital (Básica)] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|495" xmltv_id="[Satelital (Básica)] ESPN">[Satelital (Básica)] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|506" xmltv_id="[Satelital (Básica)] ESPN 4">[Satelital (Básica)] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|701" xmltv_id="[Satelital (Básica)] FOX SPORTS 2">[Satelital (Básica)] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|651" xmltv_id="[Satelital (Básica)] FOX SPORTS 3">[Satelital (Básica)] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|828" xmltv_id="[Satelital (Básica)] WIN SPORTS">[Satelital (Básica)] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|608" xmltv_id="[Satelital (Básica)] WARNER CHANNEL">[Satelital (Básica)] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|384" xmltv_id="[Satelital (Básica)] AXN">[Satelital (Básica)] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|571" xmltv_id="[Satelital (Básica)] SONY">[Satelital (Básica)] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|505" xmltv_id="[Satelital (Básica)] STAR CHANNEL">[Satelital (Básica)] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|509" xmltv_id="[Satelital (Básica)] FX">[Satelital (Básica)] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|380" xmltv_id="[Satelital (Básica)] A&amp;E">[Satelital (Básica)] A&amp;E</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|578" xmltv_id="[Satelital (Básica)] TNT NOVELAS">[Satelital (Básica)] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|637" xmltv_id="[Satelital (Básica)] TCM">[Satelital (Básica)] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|589" xmltv_id="[Satelital (Básica)] TNT">[Satelital (Básica)] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|574" xmltv_id="[Satelital (Básica)] SPACE">[Satelital (Básica)] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|525" xmltv_id="[Satelital (Básica)] ISAT">[Satelital (Básica)] ISAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|839" xmltv_id="[Satelital (Básica)] CINEMAX">[Satelital (Básica)] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|407" xmltv_id="[Satelital (Básica)] CINECANAL">[Satelital (Básica)] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|985" xmltv_id="[Satelital (Básica)] CLARO CINEMA">[Satelital (Básica)] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|577" xmltv_id="[Satelital (Básica)] STUDIO UNIVERSAL">[Satelital (Básica)] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|966" xmltv_id="[Satelital (Básica)] STUDIO UNIVERSAL HD">[Satelital (Básica)] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|449" xmltv_id="[Satelital (Básica)] NEW AGE">[Satelital (Básica)] NEW AGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|450" xmltv_id="[Satelital (Básica)] ROCK EN ESPANOL">[Satelital (Básica)] ROCK EN ESPANOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|434" xmltv_id="[Satelital (Básica)] LATINO TROPICAL">[Satelital (Básica)] LATINO TROPICAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|440" xmltv_id="[Satelital (Básica)] DANCE CLUBBIN">[Satelital (Básica)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|451" xmltv_id="[Satelital (Básica)] VIVA MEXICO">[Satelital (Básica)] VIVA MEXICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|459" xmltv_id="[Satelital (Básica)] MAESTROS DEL CLASICO">[Satelital (Básica)] MAESTROS DEL CLASICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|458" xmltv_id="[Satelital (Básica)] AROUND THE WORLD">[Satelital (Básica)] AROUND THE WORLD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|433" xmltv_id="[Satelital (Básica)] SILK (CANCIONES DE AMOR)">[Satelital (Básica)] SILK (CANCIONES DE AMOR)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|437" xmltv_id="[Satelital (Básica)] HIMNOS DEL ROCK">[Satelital (Básica)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|481" xmltv_id="[Satelital (Básica)] AñOS 70">[Satelital (Básica)] AñOS 70</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|482" xmltv_id="[Satelital (Básica)] AñOS 80">[Satelital (Básica)] AñOS 80</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|439" xmltv_id="[Satelital (Básica)] HIT LIST">[Satelital (Básica)] HIT LIST</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|437" xmltv_id="[Satelital (Básica)] HIMNOS DEL ROCK">[Satelital (Básica)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|438" xmltv_id="[Satelital (Básica)] JAMMIN` REGGAE">[Satelital (Básica)] JAMMIN` REGGAE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|465" xmltv_id="[Satelital (Básica)] COCKTAIL LOUNGE">[Satelital (Básica)] COCKTAIL LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|478" xmltv_id="[Satelital (Básica)] SOLO PARA PEQUES">[Satelital (Básica)] SOLO PARA PEQUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|474" xmltv_id="[Satelital (Básica)] EURO HITS">[Satelital (Básica)] EURO HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|468" xmltv_id="[Satelital (Básica)] POP ADULT">[Satelital (Básica)] POP ADULT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|462" xmltv_id="[Satelital (Básica)] SALSA Y MERENGUE">[Satelital (Básica)] SALSA Y MERENGUE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|440" xmltv_id="[Satelital (Básica)] DANCE CLUBBIN">[Satelital (Básica)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|473" xmltv_id="[Satelital (Básica)] POP LATINO ACTUAL">[Satelital (Básica)] POP LATINO ACTUAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="16|##|477" xmltv_id="[Satelital (Básica)] ROMANCE LATINO">[Satelital (Básica)] ROMANCE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|394" xmltv_id="[Satelital (Superior)] CANAL CARACOL">[Satelital (Superior)] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|422" xmltv_id="[Satelital (Superior)] RED+ HD">[Satelital (Superior)] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|399" xmltv_id="[Satelital (Superior)] CANAL RCN">[Satelital (Superior)] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|402" xmltv_id="[Satelital (Superior)] CARACOL HD">[Satelital (Superior)] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|400" xmltv_id="[Satelital (Superior)] RCN HD">[Satelital (Superior)] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|412" xmltv_id="[Satelital (Superior)] CITYTV">[Satelital (Superior)] CITYTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|922" xmltv_id="[Satelital (Superior)] TELEISLAS">[Satelital (Superior)] TELEISLAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|544" xmltv_id="[Satelital (Superior)] MTV">[Satelital (Superior)] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|526" xmltv_id="[Satelital (Superior)] SIN LíMITES">[Satelital (Superior)] SIN LíMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|993" xmltv_id="[Satelital (Superior)] MTV HD">[Satelital (Superior)] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|649" xmltv_id="[Satelital (Superior)] MTV LIVE HD">[Satelital (Superior)] MTV LIVE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|427" xmltv_id="[Satelital (Superior)] DISCOVERY KIDS">[Satelital (Superior)] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|404" xmltv_id="[Satelital (Superior)] CARTOON NETWORK">[Satelital (Superior)] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|431" xmltv_id="[Satelital (Superior)] DISNEY JR">[Satelital (Superior)] DISNEY JR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|813" xmltv_id="[Satelital (Superior)] DISCOVERY KIDS HD">[Satelital (Superior)] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|995" xmltv_id="[Satelital (Superior)] CARTOON NETWORK HD">[Satelital (Superior)] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|1642" xmltv_id="[Satelital (Superior)] BABY FIRST TV">[Satelital (Superior)] BABY FIRST TV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|650" xmltv_id="[Satelital (Superior)] TEENNICK">[Satelital (Superior)] TEENNICK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|423" xmltv_id="[Satelital (Superior)] DISCOVERY CHANNEL">[Satelital (Superior)] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|426" xmltv_id="[Satelital (Superior)] DISCOVERY THEATER HD">[Satelital (Superior)] DISCOVERY THEATER HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|957" xmltv_id="[Satelital (Superior)] DISCOVERY CHANNEL HD">[Satelital (Superior)] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|382" xmltv_id="[Satelital (Superior)] ANIMAL PLANET">[Satelital (Superior)] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|521" xmltv_id="[Satelital (Superior)] HISTORY CHANNEL">[Satelital (Superior)] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|522" xmltv_id="[Satelital (Superior)] HISTORY CHANNEL HD">[Satelital (Superior)] HISTORY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|429" xmltv_id="[Satelital (Superior)] DISCOVERY TURBO">[Satelital (Superior)] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|977" xmltv_id="[Satelital (Superior)] ANIMAL PLANET HD">[Satelital (Superior)] ANIMAL PLANET HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|550" xmltv_id="[Satelital (Superior)] NAT GEO">[Satelital (Superior)] NAT GEO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|900" xmltv_id="[Satelital (Superior)] NATGEO HD">[Satelital (Superior)] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|425" xmltv_id="[Satelital (Superior)] DISCOVERY HOME &amp; HEALTH">[Satelital (Superior)] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|991" xmltv_id="[Satelital (Superior)] FOOD NETWORK">[Satelital (Superior)] FOOD NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|484" xmltv_id="[Satelital (Superior)] E! ENTERTAINMENT">[Satelital (Superior)] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|893" xmltv_id="[Satelital (Superior)] LIFE TIME">[Satelital (Superior)] LIFE TIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|1128" xmltv_id="[Satelital (Superior)] ADULT SWIM">[Satelital (Superior)] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|902" xmltv_id="[Satelital (Superior)] HOLA! TV HD">[Satelital (Superior)] HOLA! TV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|949" xmltv_id="[Satelital (Superior)] INTI HD">[Satelital (Superior)] INTI HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|697" xmltv_id="[Satelital (Superior)] TELEMUNDO">[Satelital (Superior)] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|596" xmltv_id="[Satelital (Superior)] TVE">[Satelital (Superior)] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|1102" xmltv_id="[Satelital (Superior)] A3 SERIES HD">[Satelital (Superior)] A3 SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|602" xmltv_id="[Satelital (Superior)] CLARO SPORTS">[Satelital (Superior)] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|603" xmltv_id="[Satelital (Superior)] CLARO SPORTS HD">[Satelital (Superior)] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|494" xmltv_id="[Satelital (Superior)] ESPN 2">[Satelital (Superior)] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|495" xmltv_id="[Satelital (Superior)] ESPN">[Satelital (Superior)] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|506" xmltv_id="[Satelital (Superior)] ESPN 4">[Satelital (Superior)] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|701" xmltv_id="[Satelital (Superior)] FOX SPORTS 2">[Satelital (Superior)] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|651" xmltv_id="[Satelital (Superior)] FOX SPORTS 3">[Satelital (Superior)] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|508" xmltv_id="[Satelital (Superior)] FOX SPORTS HD">[Satelital (Superior)] FOX SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|888" xmltv_id="[Satelital (Superior)] FOX SPORTS 2 HD">[Satelital (Superior)] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|828" xmltv_id="[Satelital (Superior)] WIN SPORTS">[Satelital (Superior)] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|496" xmltv_id="[Satelital (Superior)] ESPN EXTRA">[Satelital (Superior)] ESPN EXTRA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|988" xmltv_id="[Satelital (Superior)] ESPN 2 HD">[Satelital (Superior)] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|998" xmltv_id="[Satelital (Superior)] ESPN HD">[Satelital (Superior)] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|858" xmltv_id="[Satelital (Superior)] FOX SPORTS 3 HD">[Satelital (Superior)] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|608" xmltv_id="[Satelital (Superior)] WARNER CHANNEL">[Satelital (Superior)] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|384" xmltv_id="[Satelital (Superior)] AXN">[Satelital (Superior)] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|571" xmltv_id="[Satelital (Superior)] SONY">[Satelital (Superior)] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|505" xmltv_id="[Satelital (Superior)] STAR CHANNEL">[Satelital (Superior)] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|503" xmltv_id="[Satelital (Superior)] STAR CHANNEL HD">[Satelital (Superior)] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|509" xmltv_id="[Satelital (Superior)] FX">[Satelital (Superior)] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|380" xmltv_id="[Satelital (Superior)] A&amp;E">[Satelital (Superior)] A&amp;E</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|994" xmltv_id="[Satelital (Superior)] TNT SERIES HD">[Satelital (Superior)] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|572" xmltv_id="[Satelital (Superior)] SONY HD">[Satelital (Superior)] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|381" xmltv_id="[Satelital (Superior)] A&amp;E HD">[Satelital (Superior)] A&amp;E HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|609" xmltv_id="[Satelital (Superior)] WARNER CHANNEL HD">[Satelital (Superior)] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|385" xmltv_id="[Satelital (Superior)] AXN HD">[Satelital (Superior)] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|578" xmltv_id="[Satelital (Superior)] TNT NOVELAS">[Satelital (Superior)] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|1046" xmltv_id="[Satelital (Superior)] TNT NOVELAS HD">[Satelital (Superior)] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|646" xmltv_id="[Satelital (Superior)] COMEDY CENTRAL HD">[Satelital (Superior)] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|856" xmltv_id="[Satelital (Superior)] FX HD">[Satelital (Superior)] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|637" xmltv_id="[Satelital (Superior)] TCM">[Satelital (Superior)] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|589" xmltv_id="[Satelital (Superior)] TNT">[Satelital (Superior)] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|574" xmltv_id="[Satelital (Superior)] SPACE">[Satelital (Superior)] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|525" xmltv_id="[Satelital (Superior)] ISAT">[Satelital (Superior)] ISAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|839" xmltv_id="[Satelital (Superior)] CINEMAX">[Satelital (Superior)] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|407" xmltv_id="[Satelital (Superior)] CINECANAL">[Satelital (Superior)] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|406" xmltv_id="[Satelital (Superior)] CINECANAL HD">[Satelital (Superior)] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|590" xmltv_id="[Satelital (Superior)] TNT HD">[Satelital (Superior)] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|575" xmltv_id="[Satelital (Superior)] SPACE HD">[Satelital (Superior)] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|821" xmltv_id="[Satelital (Superior)] DHE HD">[Satelital (Superior)] DHE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|955" xmltv_id="[Satelital (Superior)] PARAMOUNT HD">[Satelital (Superior)] PARAMOUNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|985" xmltv_id="[Satelital (Superior)] CLARO CINEMA">[Satelital (Superior)] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|577" xmltv_id="[Satelital (Superior)] STUDIO UNIVERSAL">[Satelital (Superior)] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|966" xmltv_id="[Satelital (Superior)] STUDIO UNIVERSAL HD">[Satelital (Superior)] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|449" xmltv_id="[Satelital (Superior)] NEW AGE">[Satelital (Superior)] NEW AGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|450" xmltv_id="[Satelital (Superior)] ROCK EN ESPANOL">[Satelital (Superior)] ROCK EN ESPANOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|434" xmltv_id="[Satelital (Superior)] LATINO TROPICAL">[Satelital (Superior)] LATINO TROPICAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|440" xmltv_id="[Satelital (Superior)] DANCE CLUBBIN">[Satelital (Superior)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|451" xmltv_id="[Satelital (Superior)] VIVA MEXICO">[Satelital (Superior)] VIVA MEXICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|459" xmltv_id="[Satelital (Superior)] MAESTROS DEL CLASICO">[Satelital (Superior)] MAESTROS DEL CLASICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|458" xmltv_id="[Satelital (Superior)] AROUND THE WORLD">[Satelital (Superior)] AROUND THE WORLD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|433" xmltv_id="[Satelital (Superior)] SILK (CANCIONES DE AMOR)">[Satelital (Superior)] SILK (CANCIONES DE AMOR)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|437" xmltv_id="[Satelital (Superior)] HIMNOS DEL ROCK">[Satelital (Superior)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|481" xmltv_id="[Satelital (Superior)] AñOS 70">[Satelital (Superior)] AñOS 70</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|482" xmltv_id="[Satelital (Superior)] AñOS 80">[Satelital (Superior)] AñOS 80</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|439" xmltv_id="[Satelital (Superior)] HIT LIST">[Satelital (Superior)] HIT LIST</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|437" xmltv_id="[Satelital (Superior)] HIMNOS DEL ROCK">[Satelital (Superior)] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|438" xmltv_id="[Satelital (Superior)] JAMMIN` REGGAE">[Satelital (Superior)] JAMMIN` REGGAE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|465" xmltv_id="[Satelital (Superior)] COCKTAIL LOUNGE">[Satelital (Superior)] COCKTAIL LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|478" xmltv_id="[Satelital (Superior)] SOLO PARA PEQUES">[Satelital (Superior)] SOLO PARA PEQUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|474" xmltv_id="[Satelital (Superior)] EURO HITS">[Satelital (Superior)] EURO HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|468" xmltv_id="[Satelital (Superior)] POP ADULT">[Satelital (Superior)] POP ADULT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|462" xmltv_id="[Satelital (Superior)] SALSA Y MERENGUE">[Satelital (Superior)] SALSA Y MERENGUE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|440" xmltv_id="[Satelital (Superior)] DANCE CLUBBIN">[Satelital (Superior)] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|473" xmltv_id="[Satelital (Superior)] POP LATINO ACTUAL">[Satelital (Superior)] POP LATINO ACTUAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="18|##|477" xmltv_id="[Satelital (Superior)] ROMANCE LATINO">[Satelital (Superior)] ROMANCE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|394" xmltv_id="[Satelital Prepagada] CANAL CARACOL">[Satelital Prepagada] CANAL CARACOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|422" xmltv_id="[Satelital Prepagada] RED+ HD">[Satelital Prepagada] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|399" xmltv_id="[Satelital Prepagada] CANAL RCN">[Satelital Prepagada] CANAL RCN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|412" xmltv_id="[Satelital Prepagada] CITYTV">[Satelital Prepagada] CITYTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|922" xmltv_id="[Satelital Prepagada] TELEISLAS">[Satelital Prepagada] TELEISLAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|544" xmltv_id="[Satelital Prepagada] MTV">[Satelital Prepagada] MTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|526" xmltv_id="[Satelital Prepagada] SIN LÍMITES">[Satelital Prepagada] SIN LÍMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|427" xmltv_id="[Satelital Prepagada] DISCOVERY KIDS">[Satelital Prepagada] DISCOVERY KIDS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|404" xmltv_id="[Satelital Prepagada] CARTOON NETWORK">[Satelital Prepagada] CARTOON NETWORK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|431" xmltv_id="[Satelital Prepagada] DISNEY JR">[Satelital Prepagada] DISNEY JR</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|423" xmltv_id="[Satelital Prepagada] DISCOVERY CHANNEL">[Satelital Prepagada] DISCOVERY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|382" xmltv_id="[Satelital Prepagada] ANIMAL PLANET">[Satelital Prepagada] ANIMAL PLANET</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|521" xmltv_id="[Satelital Prepagada] HISTORY CHANNEL">[Satelital Prepagada] HISTORY CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|429" xmltv_id="[Satelital Prepagada] DISCOVERY TURBO">[Satelital Prepagada] DISCOVERY TURBO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|550" xmltv_id="[Satelital Prepagada] NAT GEO">[Satelital Prepagada] NAT GEO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|425" xmltv_id="[Satelital Prepagada] DISCOVERY HOME &amp; HEALTH">[Satelital Prepagada] DISCOVERY HOME &amp; HEALTH</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|484" xmltv_id="[Satelital Prepagada] E! ENTERTAINMENT">[Satelital Prepagada] E! ENTERTAINMENT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|893" xmltv_id="[Satelital Prepagada] LIFE TIME">[Satelital Prepagada] LIFE TIME</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|1128" xmltv_id="[Satelital Prepagada] ADULT SWIM">[Satelital Prepagada] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|697" xmltv_id="[Satelital Prepagada] TELEMUNDO">[Satelital Prepagada] TELEMUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|596" xmltv_id="[Satelital Prepagada] TVE">[Satelital Prepagada] TVE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|602" xmltv_id="[Satelital Prepagada] CLARO SPORTS">[Satelital Prepagada] CLARO SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|494" xmltv_id="[Satelital Prepagada] ESPN 2">[Satelital Prepagada] ESPN 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|495" xmltv_id="[Satelital Prepagada] ESPN">[Satelital Prepagada] ESPN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|506" xmltv_id="[Satelital Prepagada] ESPN 4">[Satelital Prepagada] ESPN 4</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|701" xmltv_id="[Satelital Prepagada] FOX SPORTS 2">[Satelital Prepagada] FOX SPORTS 2</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|651" xmltv_id="[Satelital Prepagada] FOX SPORTS 3">[Satelital Prepagada] FOX SPORTS 3</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|828" xmltv_id="[Satelital Prepagada] WIN SPORTS">[Satelital Prepagada] WIN SPORTS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|608" xmltv_id="[Satelital Prepagada] WARNER CHANNEL">[Satelital Prepagada] WARNER CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|384" xmltv_id="[Satelital Prepagada] AXN">[Satelital Prepagada] AXN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|571" xmltv_id="[Satelital Prepagada] SONY">[Satelital Prepagada] SONY</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|505" xmltv_id="[Satelital Prepagada] STAR CHANNEL">[Satelital Prepagada] STAR CHANNEL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|509" xmltv_id="[Satelital Prepagada] FX">[Satelital Prepagada] FX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|380" xmltv_id="[Satelital Prepagada] A&amp;E MUNDO">[Satelital Prepagada] A&amp;E MUNDO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|578" xmltv_id="[Satelital Prepagada] TNT NOVELAS">[Satelital Prepagada] TNT NOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|637" xmltv_id="[Satelital Prepagada] TCM">[Satelital Prepagada] TCM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|589" xmltv_id="[Satelital Prepagada] TNT">[Satelital Prepagada] TNT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|574" xmltv_id="[Satelital Prepagada] SPACE">[Satelital Prepagada] SPACE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|525" xmltv_id="[Satelital Prepagada] I.SAT">[Satelital Prepagada] I.SAT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|839" xmltv_id="[Satelital Prepagada] CINEMAX">[Satelital Prepagada] CINEMAX</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|407" xmltv_id="[Satelital Prepagada] CINECANAL">[Satelital Prepagada] CINECANAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|985" xmltv_id="[Satelital Prepagada] CLARO CINEMA">[Satelital Prepagada] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|577" xmltv_id="[Satelital Prepagada] STUDIO UNIVERSAL">[Satelital Prepagada] STUDIO UNIVERSAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|966" xmltv_id="[Satelital Prepagada] STUDIO UNIVERSAL HD">[Satelital Prepagada] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|449" xmltv_id="[Satelital Prepagada] NEW AGE">[Satelital Prepagada] NEW AGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|450" xmltv_id="[Satelital Prepagada] ROCK EN ESPAÑOL">[Satelital Prepagada] ROCK EN ESPAÑOL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|434" xmltv_id="[Satelital Prepagada] LATINO TROPICAL">[Satelital Prepagada] LATINO TROPICAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|440" xmltv_id="[Satelital Prepagada] DANCE CLUBBIN">[Satelital Prepagada] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|451" xmltv_id="[Satelital Prepagada] VIVA MEXIVO">[Satelital Prepagada] VIVA MEXIVO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|467" xmltv_id="[Satelital Prepagada] MAESTROS DEL CLÁSICO">[Satelital Prepagada] MAESTROS DEL CLÁSICO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|458" xmltv_id="[Satelital Prepagada] AROUND THE WORLD">[Satelital Prepagada] AROUND THE WORLD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|433" xmltv_id="[Satelital Prepagada] SILK (CANCIONES DE AMOR)">[Satelital Prepagada] SILK (CANCIONES DE AMOR)</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|461" xmltv_id="[Satelital Prepagada] HIMNOS DEL ROCK">[Satelital Prepagada] HIMNOS DEL ROCK</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|481" xmltv_id="[Satelital Prepagada] AÑOS 70">[Satelital Prepagada] AÑOS 70</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|482" xmltv_id="[Satelital Prepagada] AÑOS 80">[Satelital Prepagada] AÑOS 80</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|439" xmltv_id="[Satelital Prepagada] HIT LIST">[Satelital Prepagada] HIT LIST</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|437" xmltv_id="[Satelital Prepagada] CLASSIC ROCK AND ROLL AND SOUL">[Satelital Prepagada] CLASSIC ROCK AND ROLL AND SOUL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|438" xmltv_id="[Satelital Prepagada] JAMMIN REGGAE">[Satelital Prepagada] JAMMIN REGGAE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|465" xmltv_id="[Satelital Prepagada] COCKTAIL LOUNGE">[Satelital Prepagada] COCKTAIL LOUNGE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|478" xmltv_id="[Satelital Prepagada] SOLO PARA PEQUES">[Satelital Prepagada] SOLO PARA PEQUES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|474" xmltv_id="[Satelital Prepagada] EURO HITS">[Satelital Prepagada] EURO HITS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|468" xmltv_id="[Satelital Prepagada] POP ADULT">[Satelital Prepagada] POP ADULT</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|462" xmltv_id="[Satelital Prepagada] SALSA Y MERENGUE">[Satelital Prepagada] SALSA Y MERENGUE</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|440" xmltv_id="[Satelital Prepagada] DANCE CLUBBIN">[Satelital Prepagada] DANCE CLUBBIN</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|473" xmltv_id="[Satelital Prepagada] POP LATINO ACTUAL">[Satelital Prepagada] POP LATINO ACTUAL</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="27|##|477" xmltv_id="[Satelital Prepagada] ROMANCE LATINO">[Satelital Prepagada] ROMANCE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|412" xmltv_id="[TV Go] CITYTV">[TV Go] CITYTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|417" xmltv_id="[TV Go] COSMOVISION">[TV Go] COSMOVISION</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|526" xmltv_id="[TV Go] SIN LÍMITES">[TV Go] SIN LÍMITES</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|523" xmltv_id="[TV Go] HTV">[TV Go] HTV</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|584" xmltv_id="[TV Go] TLNOVELAS">[TV Go] TLNOVELAS</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|579" xmltv_id="[TV Go] TELEAMIGA">[TV Go] TELEAMIGA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|547" xmltv_id="[TV Go] MULTIPREMIER">[TV Go] MULTIPREMIER</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|408" xmltv_id="[TV Go] CINE LATINO">[TV Go] CINE LATINO</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|409" xmltv_id="[TV Go] CINEMA +">[TV Go] CINEMA +</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|985" xmltv_id="[TV Go] CLARO CINEMA">[TV Go] CLARO CINEMA</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|402" xmltv_id="[TV Go] CARACOL HD">[TV Go] CARACOL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|422" xmltv_id="[TV Go] RED+ HD">[TV Go] RED+ HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|400" xmltv_id="[TV Go] RCN HD">[TV Go] RCN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1168" xmltv_id="[TV Go] TELEISLAS HD">[TV Go] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|993" xmltv_id="[TV Go] MTV HD">[TV Go] MTV HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1168" xmltv_id="[TV Go] TELEISLAS HD">[TV Go] TELEISLAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|813" xmltv_id="[TV Go] DISCOVERY KIDS HD">[TV Go] DISCOVERY KIDS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|995" xmltv_id="[TV Go] CARTOON NETWORK HD">[TV Go] CARTOON NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1142" xmltv_id="[TV Go] DISNEY JUNIOR HD">[TV Go] DISNEY JUNIOR HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|957" xmltv_id="[TV Go] DISCOVERY CHANNEL HD">[TV Go] DISCOVERY CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|522" xmltv_id="[TV Go] HISTORY HD">[TV Go] HISTORY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1134" xmltv_id="[TV Go] H2 HD">[TV Go] H2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|980" xmltv_id="[TV Go] DISCOVERY TURBO HD">[TV Go] DISCOVERY TURBO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|900" xmltv_id="[TV Go] NATGEO HD">[TV Go] NATGEO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|670" xmltv_id="[TV Go] DISCOVERY HOME &amp; HEALTH HD">[TV Go] DISCOVERY HOME &amp; HEALTH HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1104" xmltv_id="[TV Go] FOOD NETWORK HD">[TV Go] FOOD NETWORK HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1135" xmltv_id="[TV Go] E! ENTERTAINMENT HD">[TV Go] E! ENTERTAINMENT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1128" xmltv_id="[TV Go] LIFETIME HD">[TV Go] LIFETIME HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|681" xmltv_id="[TV Go] ADULT SWIM">[TV Go] ADULT SWIM</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1127" xmltv_id="[TV Go] TELEMUNDO HD">[TV Go] TELEMUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|999" xmltv_id="[TV Go] CABLE NOTICIAS HD">[TV Go] CABLE NOTICIAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1190" xmltv_id="[TV Go] IVC HD">[TV Go] IVC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|603" xmltv_id="[TV Go] CLARO SPORTS HD">[TV Go] CLARO SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1016" xmltv_id="[TV Go] CLARO SPORTS 2 HD">[TV Go] CLARO SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|496" xmltv_id="[TV Go] ESPN+ EXTRA HD">[TV Go] ESPN+ EXTRA HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|998" xmltv_id="[TV Go] ESPN 2 HD">[TV Go] ESPN 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|988" xmltv_id="[TV Go] ESPN HD">[TV Go] ESPN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|508" xmltv_id="[TV Go] ESPN 4 HD">[TV Go] ESPN 4 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|888" xmltv_id="[TV Go] FOX SPORTS 2 HD">[TV Go] FOX SPORTS 2 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|858" xmltv_id="[TV Go] FOX SPORTS 3 HD">[TV Go] FOX SPORTS 3 HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|953" xmltv_id="[TV Go] WIN SPORTS HD">[TV Go] WIN SPORTS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|609" xmltv_id="[TV Go] WARNER CHANNEL HD">[TV Go] WARNER CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|385" xmltv_id="[TV Go] AXN HD">[TV Go] AXN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|572" xmltv_id="[TV Go] SONY HD">[TV Go] SONY HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1295" xmltv_id="[TV Go] STAR CHANNEL HD">[TV Go] STAR CHANNEL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|856" xmltv_id="[TV Go] FX HD">[TV Go] FX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|381" xmltv_id="[TV Go] A&amp;E MUNDO HD">[TV Go] A&amp;E MUNDO HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|994" xmltv_id="[TV Go] TNT SERIES HD">[TV Go] TNT SERIES HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1046" xmltv_id="[TV Go] TNT NOVELAS HD">[TV Go] TNT NOVELAS HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|646" xmltv_id="[TV Go] COMEDY CENTRAL HD">[TV Go] COMEDY CENTRAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|590" xmltv_id="[TV Go] TNT HD">[TV Go] TNT HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1185" xmltv_id="[TV Go] CINEMAX HD">[TV Go] CINEMAX HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1455" xmltv_id="[TV Go] STUDIO UNIVERSAL HD">[TV Go] STUDIO UNIVERSAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|575" xmltv_id="[TV Go] SPACE HD">[TV Go] SPACE HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|533" xmltv_id="[TV Go] AMC HD">[TV Go] AMC HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|512" xmltv_id="[TV Go] GOLDEN HD">[TV Go] GOLDEN HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|1216" xmltv_id="[TV Go] CINECANAL HD">[TV Go] CINECANAL HD</channel>
+    <channel site="[ENC]devportal.siba.com.co_0" site_id="32|##|955" xmltv_id="[TV Go] PARAMOUNT HD">[TV Go] PARAMOUNT HD</channel>
+  </channels>
+</site>
