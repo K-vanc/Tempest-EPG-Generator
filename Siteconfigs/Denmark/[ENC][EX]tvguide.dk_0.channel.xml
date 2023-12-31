@@ -30,22 +30,17 @@
     <channel site="[ENC][EX]tvguide.dk_0" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="id" xmltv_id="ID">ID</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="c-more-first" xmltv_id="C More First">C More First</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="c-more-series" xmltv_id="C More Series">C More Series</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="c-more-hits" xmltv_id="C More Hits">C More Hits</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="c-more-stars" xmltv_id="C More Stars">C More Stars</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-premiere" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="sf-kanalen" xmltv_id="SF-kanalen">SF-kanalen</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="national-geographic-wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="tv2-oiii" xmltv_id="TV2 Oiii">TV2 Oiii</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="tv2-csgo" xmltv_id="TV2 CSGO">TV2 CSGO</channel>
+    <channel site="[ENC][EX]tvguide.dk_0" site_id="tv2-oiii" xmltv_id="TV2 Oiii">TV2 Oiii</channel>
+    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-series" xmltv_id="Viasat Series">Viasat Series</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-ultra-hd" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-film-action" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
+    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-film-premiere" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-film-hits" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-film-family" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
-    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-series" xmltv_id="Viasat Series">Viasat Series</channel>
+    <channel site="[ENC][EX]tvguide.dk_0" site_id="viasat-film-action" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC][EX]tvguide.dk_0" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
   </channels>
