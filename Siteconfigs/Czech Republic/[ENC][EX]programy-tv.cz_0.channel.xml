@@ -35,6 +35,8 @@
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639788" xmltv_id="Canal plus Sport 4">Canal plus Sport 4</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639789" xmltv_id="Canal plus Sport 5">Canal plus Sport 5</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639790" xmltv_id="Canal plus Sport 6">Canal plus Sport 6</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639791" xmltv_id="Canal plus Sport 7">Canal plus Sport 7</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639806" xmltv_id="Canal plus Sport 8">Canal plus Sport 8</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639785" xmltv_id="Canal plus Sport CZ">Canal plus Sport CZ</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639429" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="25216" xmltv_id="CBS REALITY">CBS REALITY</channel>
@@ -73,12 +75,10 @@
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="8720613" xmltv_id="DOMA">DOMA</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="25246" xmltv_id="DVOJKA">DVOJKA</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639445" xmltv_id="E!">E!</channel>
-    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639552" xmltv_id="E! (EN)">E! (EN)</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639402" xmltv_id="EDGE SPORT HD">EDGE SPORT HD</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639518" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="25251" xmltv_id="EURONEWS">EURONEWS</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639417" xmltv_id="EUROSPORT">EUROSPORT</channel>
-    <channel site="[ENC][EX]programy-tv.cz_0" site_id="14976140" xmltv_id="EUROSPORT (BG)">EUROSPORT (BG)</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635642" xmltv_id="EUROSPORT (HU)">EUROSPORT (HU)</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="8367061" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639761" xmltv_id="EUROSPORT 4K">EUROSPORT 4K</channel>
@@ -179,6 +179,10 @@
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639459" xmltv_id="PREMIER SPORT 1">PREMIER SPORT 1</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639769" xmltv_id="PREMIER SPORT 2 CZ">PREMIER SPORT 2 CZ</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639768" xmltv_id="PREMIER SPORT 2 SK">PREMIER SPORT 2 SK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639807" xmltv_id="PREMIER SPORT 3 CZ">PREMIER SPORT 3 CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639808" xmltv_id="PREMIER SPORT 3 SK">PREMIER SPORT 3 SK</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639803" xmltv_id="PREMIER_SPORT_4_CZ">PREMIER_SPORT_4_CZ</channel>
+    <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639804" xmltv_id="PREMIER_SPORT_4_SK">PREMIER_SPORT_4_SK</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639559" xmltv_id="PRIMA PLUS">PRIMA PLUS</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639774" xmltv_id="PRIMA SHOW">PRIMA SHOW</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16639765" xmltv_id="PRIMA STAR">PRIMA STAR</channel>
@@ -207,7 +211,6 @@
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="25204" xmltv_id="SPEKTRUM">SPEKTRUM</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="2012246" xmltv_id="SPEKTRUM HOME">SPEKTRUM HOME</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635616" xmltv_id="SPEKTRUM HOME (HU)">SPEKTRUM HOME (HU)</channel>
-    <channel site="[ENC][EX]programy-tv.cz_0" site_id="5337648" xmltv_id="SPORT 5">SPORT 5</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="2151807" xmltv_id="SPORT1">SPORT1</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="16635624" xmltv_id="SPORT1 (HU)">SPORT1 (HU)</channel>
     <channel site="[ENC][EX]programy-tv.cz_0" site_id="7277741" xmltv_id="SPORT2">SPORT2</channel>
