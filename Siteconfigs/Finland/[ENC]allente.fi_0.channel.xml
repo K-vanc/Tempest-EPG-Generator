@@ -1,49 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]allente.fi_0">
   <channels>
+    <channel site="[ENC]allente.fi_0" site_id="686||4bOqwzs3RxdhJxeaVgfKsn/83caa8972e14bd4aba5d235e4310b02b/yle_tv1_yle_tv1_hor_pos_cmyk.svg" xmltv_id="YLE TV1 (F) (T)">YLE TV1 (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="687||2B2Pr1EwJEpdGKwU57O5u7/2eba9d6376d60dcb756de8165a3f753c/yle_tv2_yle_tv2_hor_pos_cmyk.svg" xmltv_id="YLE TV2 (F) (T)">YLE TV2 (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1076||oaDuqWu4f51Qg4wyfO038/71a0df1b657bcde29a408005c9b3a394/MTV3_logo_red_RGB.svg" xmltv_id="MTV3 HD (F) (T)">MTV3 HD (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1077||4P9GiGzWk1YSs9jrLlyrN3/05721efc555c0c817f3395b13a3ebb82/NELONEN_2018_BlueAqua_RGB.svg" xmltv_id="Nelonen (F) (T)">Nelonen (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="689||77qS1d6T6mU06fJCu02fEe/fdb29939e71676b008c602ef378d6048/yle-teema-fem-black-2400.png" xmltv_id="YLE Teema &amp; Fem (F) (T)">YLE Teema &amp; Fem (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1078||19528lhgt2wnnU3rz0Zs1r/25e26d41d4823babd625e3ba8372b8b6/MTV_Sub_logo_yellow_RGB.svg" xmltv_id="MTV Sub (F) (T)">MTV Sub (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1079||2qWpkoDYWE5dMpFksVNldT/a4f5a067c2682e29e19a750d97734e75/TV5Logo_Midnight_Blue.png" xmltv_id="TV5 (F) (T)">TV5 (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1080||3d0Exr3KPnwlO9GWSnKKom/ab6ed1175dababa5aeee123464482ed2/Liv_Logo_2016_GreenDark_RGB.png" xmltv_id="liv (F) (T)">liv (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1081||3ggQZQFphC8t8DzuFVZniw/3058641656057376c1df5c01aabaec78/Jim_uusi_10_2013_CMYK.png" xmltv_id="JIM (F) (T)">JIM (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1083||3YT91KYXsc2uAQGrUYt7dJ/6395f1ab5ae59b1a6526e6a41f38886d/Discovery_channel_new_black_RGB.svg" xmltv_id="Discovery Channel (F) (T)">Discovery Channel (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1084||7MikgGShPsfoJbuTw8VkJ7/041dab882c67bc6831402627880bf3e8/MTV_Juniori_red_CMYK.png" xmltv_id="MTV Juniori (F) (T)">MTV Juniori (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0358||1pBY3G1QdOYCy6aocg0wCy/0c818b20da27e39d895d52f62c53048c/VIASAT_EXPLORE_new.svg" xmltv_id="Viasat Explore HD (T)">Viasat Explore HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0357||sbxfPsOiNa2ogQakSmGCy/356bd92a1e39e46cdf8afbc2ee2f47e4/VIASAT_HISTORY_new.svg" xmltv_id="Viasat History HD (T)">Viasat History HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0356||2mUEwd6yy06uMO6eQWg0g6/f3801822831c5fdbc058ee9c6ae48a2b/VIASAT_NATURE_new.svg" xmltv_id="Viasat Nature HD (T)">Viasat Nature HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1005||CUCKbKSa7FKvCx4RfutXu/91e314b2b2dc53acd7400f2c6a2ee957/AnimalPlanet_PrimaryLockup1_RGB.png" xmltv_id="Animal Planet HD (T)">Animal Planet HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0084||cyZ542Mm9UQAGk4UkSM4I/502707b7c32c4b2f4d88d6543e8ff921/national_geographic_pos_200x100.png" xmltv_id="National Geographic HD (S/F) (T)">National Geographic HD (S/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1003||gBNvOiGrWFrZnq0nFSpBV/4f37a83d3b0d89d71ed2b19a77f6dc7a/HISTORY_LOGO_HD_S.svg" xmltv_id="HISTORY HD (N/D/F) (T)">HISTORY HD (N/D/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1004||1Rqt7R1YBR07MXbYjTu9PZ/a5d41205020d815feecff5565483dcd6/History_H2_PRIMARY_light_BG_Small_TM_RGB.png" xmltv_id="HISTORY 2 HD (T)">HISTORY 2 HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="668||6dqciGsDhq8NBJmrIrAstv/affb241875fa4bab4ec1a57c75b97962/horse_country.png" xmltv_id="Horse &amp; Country HD -IP">Horse &amp; Country HD -IP</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1016||bfgEaHWRcMY3wK75ifOO6/d9b72de0a561da7f935c953ead3978b0/BBCNordic_LogoSet_RGB_1_Stacked_Linear_Dark_Green.svg" xmltv_id="BBC Nordic HD (S/D/F) (T)">BBC Nordic HD (S/D/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1002||7MUksJ06AsPo6c5mv9epTE/da6c50023cbaff7401da188fd7252d72/SkySho1_Logo_Black.png" xmltv_id="SkyShowtime 1 (T)">SkyShowtime 1 (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1001||4JmdUGwnqinssYuyKjp5W0/57deed94a6c6666f8b001522d9487141/SkySho2_Logo_Black.png" xmltv_id="SkyShowtime 2 (T)">SkyShowtime 2 (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="968||6xIbYNu75d0UgVBLGkuxye/74b710183024a90b477e1adecf2eccbd/MTV_Aitio_red_RGB.svg" xmltv_id="MTV Aitio (F) (T)">MTV Aitio (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="971||2EBpdIY02w8RqnCv8SxAZL/aa41022b9d52ace0455eca2eb64a4940/MTV_Viihde_white.svg" xmltv_id="MTV Viihde (F) (T)">MTV Viihde (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="972||2FXBeTyUIihouWhWNfZwsc/57eff0fad55e906503f5a6cc179133e6/SF-kanalen_Wordmark_Black_RGB.svg" xmltv_id="SF Kanalen (T)">SF Kanalen (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="418||31Pzks6kNfrxPSd7FLX9MO/bdcbe8c3f9d21792a695aeb23bbd0dd5/VSport_UltraHD_new_Hori_RGB_pos.svg" xmltv_id="V sport ultra HD (T)">V sport ultra HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="527||hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg" xmltv_id="V sport premium HD (T)">V sport premium HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0362||QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg" xmltv_id="V sport 1 HD (S/F) (T)">V sport 1 HD (S/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0364||YQMvdyLoA4UDXhQFoK6z6/f5da80232ee984bbdbf04ee383fb7380/VSport_Golf_new_Hori_RGB_pos.svg" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0274||oAEiwssmWPHqknsYFW1A7/c31631334aff59cc58dbfe35f836e2eb/Vsport__Suomi_new_Hori_RGB_pos.svg" xmltv_id="V sport+ Suomi HD (T)">V sport+ Suomi HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="488||28qGuwz4nJR6ZVm0Xtfo7m/67c7bd9244b4d811bfae8bcf10a7eef1/Vsport2_Suomi_new_Hori_RGB_pos.svg" xmltv_id="V sport 2 Suomi HD (T)">V sport 2 Suomi HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0269||76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg" xmltv_id="V sport football HD (T)">V sport football HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0159||2wWdeDCdq3tcmC0uMsKS1y/3db6b693fd6d1c783f50f04b0f5e780f/Vsport1_Suomi_new_Hori_RGB_pos.svg" xmltv_id="V sport 1 Suomi HD (T)">V sport 1 Suomi HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0363||1Lg8gUaDwv7BRPr9wFZ4zE/6b520cf5f5828aaca51361b940a0bf92/Vsport_vinter_new_CMYK_pos.svg" xmltv_id="V sport vinter HD (T)">V sport vinter HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1085||6vugVjyjN1abWlqAk8RRsX/59a315d10775928933529bcc355b62d2/MTV_Max_red_CMYK.png" xmltv_id="MTV Max HD (F) (T)">MTV Max HD (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1086||3RYvOkEKvanrfxL1EskAHA/43a076a2c2442f192dc8ae5d0dfab986/MTV_Urheilu_1_red_CMYK.png" xmltv_id="MTV Urheilu 1 HD (F) (T)">MTV Urheilu 1 HD (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1087||OEtXWW7c7TB5oai01GpF1/a3247cccea67160ed57c390291bb57f1/MTV_Urheilu_2_red_CMYK.png" xmltv_id="MTV Urheilu 2 HD (F) (T)">MTV Urheilu 2 HD (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1088||3nA3bkAtKNuzLy53RlEPBX/142770f2b56b282b33f62ed3d8eacc29/ESP_CLT_1_NVY_RED_RGB.png" xmltv_id="Eurosport 1 HD (F) (T)">Eurosport 1 HD (F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1024||7Ca8i6CdDdiX5XFF6XMsvY/b880d41f0b9d28e195e9cf62740a5696/ESP_CLT_2_NVY_RED_RGB.png" xmltv_id="Eurosport 2 HD (S/F) (T)">Eurosport 2 HD (S/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1009||5iCN1m0WOMdmViwusCNNED/f24d1f8e2e18504fc9c0ba3f6583c32b/MV_Logo_2022_transverse_black.png" xmltv_id="MOTORVISION TV HD (T)">MOTORVISION TV HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1011||5RClPHcrn545STalgrfvfq/a7a6e5bc0f6ed8c976568d7ce896f677/ID.png" xmltv_id="ID Investigation Discovery (N/F) (T)">ID Investigation Discovery (N/F) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1006||2IkkqLQ7qrGcyAVuJlhp47/df1abd3b53e864c872b145717a6f0573/Copy_of_SCI_LogoMark_Type_RED_WHITE_RGB.png" xmltv_id="Discovery Science (T)">Discovery Science (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0080||4pY8jQ0e6kUeoakoKyOUaK/0cec6f3a2e26bca175d01d096a08d73b/mtv_play_1.png" xmltv_id="MTV (Nordic) (T)">MTV (Nordic) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0246||3Lu5JfxXx5Ay1vB20Y2x73/9bb444df4742120362a394b0df42d6a0/MTV_00s_new_pink.svg" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="604||4qEndZikzXJ3cSGudxc7Cu/51deeeee357e2ec4d52964d9d9347287/Untitled__1_.png" xmltv_id="MTV 80s (T)">MTV 80s (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0088||bo7J9eVeF2I8WKkwWOe2Q/b1aef10b8052877cb88876bea23fe924/nickjr_play_1.png" xmltv_id="Nick Jr. (T)">Nick Jr. (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0086||2eviiFuIFmhCvYPYBq9FMe/8958c88d0f49decee3b784f1f7bba55a/Nickelodeon_new_RGB.svg" xmltv_id="Nickelodeon (Nordic) (T)">Nickelodeon (Nordic) (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0028||4JZepUS4IMEseiceq6um6e/fa10fe4d5e983399c661df3e07736dcc/cartoon_network_0.png" xmltv_id="Cartoon Network (T)">Cartoon Network (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0017||318ffkqzB9fkSxX8eAYsvn/7169cdc9384ec172a4c78083b464b905/cartoonito.png" xmltv_id="Cartoonito (T)">Cartoonito (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="570||7qXMtVQHyEOUip8WYBfBMs/6c6937c0e7df54992a75786b66755de6/Nicktoons_Logo_new.svg" xmltv_id="Nicktoons (T)">Nicktoons (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0148||5uT9g9pdQWRZeDPQXVI9g6/9cc44da567f591822ed645c99ecdcb64/SVT_1_black_new__2_.png" xmltv_id="SVT1 HD (T)">SVT1 HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0282||7DiFpT6SKfwfSTeyENWbXf/e046742c0fa06443c7783e26e5fb5e0f/svt_2_logotyp_rgb_0.png" xmltv_id="SVT2 HD (T)">SVT2 HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0147||2OIszFuZEkKCiE2CKkSYoG/2d54fde7157190ef633809724f706b5d/SVT_Barn_Logotyp_RGB_pos.png" xmltv_id="SVT Barn HD (T)">SVT Barn HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0149||40uhyzTgMdQw7orlSTvjOC/6f3eda20fd531959eeb13d08411cebc9/NEW_kunskapskanalen.png" xmltv_id="Kunskapskanalen HD (T)">Kunskapskanalen HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0033||3iTmXgjVaM82aYsWASCWky/18d7043883000d16a15276406f85c89d/CNN_new_Free_Float_RGB.svg" xmltv_id="CNN (T)">CNN (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0016||15v4Sxk9sd0Iygq7MyKKTY/317b83b6b777c1abc54f2ea1cf644ae7/BBC_News_Stacked_Black_Core_Colour_RGB_HR.png" xmltv_id="BBC News (T)">BBC News (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="596||2zjN01ZxPGQRQ9JO0iXjsH/fb88a75504477ec0da291e6bd71830c2/NEW2_Sky_News.svg" xmltv_id="Sky News (T)">Sky News (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1008||6AOdSzJqEnPf7P4OzNrRcD/9cee8939c5576dfae21f01d4fd20858b/Bloomberg_television_black.png" xmltv_id="Bloomberg (T)">Bloomberg (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0344||4SRgVESlfK8Ox2Id2gxWpZ/72e5e3376840b2c814deaa8779547d2b/Al_Jazeera.png" xmltv_id="Al Jazeera English -OTT">Al Jazeera English -OTT</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0032||XrZHquQmLjcMOAlcYVz4r/d5048576a2f10f1705b34632d0d28199/CNBC_new.svg.png" xmltv_id="CNBC (T)">CNBC (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1007||2ilR9hQC3oBHrQgJ5U0bQX/d29431eeb4811f921404ff6a540dc3f1/DW_Deutsche_Welle__1.png" xmltv_id="DW English (T)">DW English (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="1033||5FTnruS7yZZRP5mxrAYoAM/cf7196de1fc17230dfca2c9d6a4c322a/F24_english_new_RVB.svg" xmltv_id="France 24 (T)">France 24 (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0321||X6ToW5hCi1EaC6WLhFApz/423ec4b107e6d9a384f87f51d4603bbd/VFilm_Premiere_new_Hori_RGB_pos.svg" xmltv_id="V film premiere HD (T)">V film premiere HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0308||3i0IfXClAmxOpZfePRzEJU/6376faa4f71ae4910743023cb557b521/VFilm_Family_new_Hori_CMYK_pos.svg" xmltv_id="V film family (T)">V film family (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0299||44dQEEVA5HJbBWbeSDx6sK/268d9e5340283d1a380821c6d63244f9/VFilm_Action_new_Hori_CMYK_pos.svg" xmltv_id="V film action HD (T)">V film action HD (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0322||2SDBBSzYN3Tg9hcOZ01lRj/c90a6b06b45de239aed4ac67121704b6/VFilm_Hits_Logo_Hori_RGB_pos.png" xmltv_id="V film hits HD (T)">V film hits HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0369||oAEiwssmWPHqknsYFW1A7/8b0adcf3c39c3b3acfacf7efa1f5c9c8/cl3070_4k_01.png" xmltv_id="V sport+ Suomi HD (T)">V sport+ Suomi HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="488||28qGuwz4nJR6ZVm0Xtfo7m/0041066891354b16ba0fe2b04bf98646/cl3069_4k_01.png" xmltv_id="V sport 2 Suomi HD -OTT">V sport 2 Suomi HD -OTT</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0159||2wWdeDCdq3tcmC0uMsKS1y/3b0f6b054d18fe49b56f3d2c98d60809/cl3071_4k_01.png" xmltv_id="V sport 1 Suomi HD -OTT">V sport 1 Suomi HD -OTT</channel>
-    <channel site="[ENC]allente.fi_0" site_id="527||hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg" xmltv_id="V sport premium HD (T)">V sport premium HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0362||QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg" xmltv_id="V sport 1 HD (SE) (T)">V sport 1 HD (SE) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0269||76TOZ05am7R5oxYOsKUnst/cfd696699b7cf63b1a9c1063e5be2780/VSport_Football_new_Hori_CMYK_pos.svg" xmltv_id="V sport football HD (T)">V sport football HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0363||1Lg8gUaDwv7BRPr9wFZ4zE/6b520cf5f5828aaca51361b940a0bf92/Vsport_vinter_new_CMYK_pos.svg" xmltv_id="V sport vinter HD (T)">V sport vinter HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0364||YQMvdyLoA4UDXhQFoK6z6/f5da80232ee984bbdbf04ee383fb7380/VSport_Golf_new_Hori_RGB_pos.svg" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel site="[ENC]allente.fi_0" site_id="0308||3i0IfXClAmxOpZfePRzEJU/6376faa4f71ae4910743023cb557b521/VFilm_Family_new_Hori_CMYK_pos.svg" xmltv_id="V film family (T)">V film family (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0255||4NBzMzc4DdsltyUVZhmFti/450a616782203fa406ab347be612d278/VSport_Sport_Live1_new_Hori_RGB_pos.svg" xmltv_id="V sport live 1 (T)">V sport live 1 (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0256||1qkQEggD3JIsT9rHhavpAV/a26e4f9c48817e3df831db92ec002c4a/VSport_Sport_Live2_Logo_Hori_RGB_pos.svg" xmltv_id="V sport live 2 (T)">V sport live 2 (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0257||5z2j9bE0eRRYZo8XygbeqX/7d2f0645747c748e54589a8245005413/VSport_Sport_Live3_Logo_Hori_RGB_pos.svg" xmltv_id="V sport live 3 (T)">V sport live 3 (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0258||57OjhxdijPqLx2Ass1YsKS/e25299202cdfc1c7cf3104ecaaa9fa00/VSport_Sport_Live4_Logo_Hori_RGB_pos.svg" xmltv_id="V sport live 4 (T)">V sport live 4 (T)</channel>
     <channel site="[ENC]allente.fi_0" site_id="0259||70KKi61uVnlpfl4JUwMM48/06b593f1ad8e74457b67c2423053e641/VSport_Sport_Live5_Logo_Hori_RGB_pos.svg" xmltv_id="V sport live 5 (T)">V sport live 5 (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="418||31Pzks6kNfrxPSd7FLX9MO/bdcbe8c3f9d21792a695aeb23bbd0dd5/VSport_UltraHD_new_Hori_RGB_pos.svg" xmltv_id="V sport ultra HD (T)">V sport ultra HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0037||2OvNI0n7Ik6uWEWoYAIWgW/37e1e49a26fe7b85b11d00f23ec2eea3/dc-2017-logo-rbg.png" xmltv_id="Disney Channel (Nordic) (T)">Disney Channel (Nordic) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0307||7wWan0jrwsAkEUKUa2Wsmo/0c7987b9c2d66ca1e91945b729a14163/disney_junior.png" xmltv_id="Disney Junior (T)">Disney Junior (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0028||4JZepUS4IMEseiceq6um6e/fa10fe4d5e983399c661df3e07736dcc/cartoon_network_0.png" xmltv_id="Cartoon Network (T)">Cartoon Network (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0017||kpMk3WrzoWc6AeA6ckSsa/dca9b0e8b9f9849518030b1fba5b8897/Untitled.png" xmltv_id="Boomerang (T)">Boomerang (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0088||bo7J9eVeF2I8WKkwWOe2Q/b1aef10b8052877cb88876bea23fe924/nickjr_play_1.png" xmltv_id="Nick Jr. (T)">Nick Jr. (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0084||cyZ542Mm9UQAGk4UkSM4I/502707b7c32c4b2f4d88d6543e8ff921/national_geographic_pos_200x100.png" xmltv_id="National Geographic HD (SE/FI) (T)">National Geographic HD (SE/FI) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0082||rm3WOjhNKixawMbUr5pdi/f97bdb0b0f1c38460f76c0c17d8de94d/Untitled.svg" xmltv_id="National Geographic Wild HD (T)">National Geographic Wild HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0356||2mUEwd6yy06uMO6eQWg0g6/f3801822831c5fdbc058ee9c6ae48a2b/VIASAT_NATURE_new.svg" xmltv_id="Viasat Nature HD (T)">Viasat Nature HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0357||sbxfPsOiNa2ogQakSmGCy/356bd92a1e39e46cdf8afbc2ee2f47e4/VIASAT_HISTORY_new.svg" xmltv_id="Viasat History HD (T)">Viasat History HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0358||1pBY3G1QdOYCy6aocg0wCy/0c818b20da27e39d895d52f62c53048c/VIASAT_EXPLORE_new.svg" xmltv_id="Viasat Explore HD (T)">Viasat Explore HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0033||3iTmXgjVaM82aYsWASCWky/18d7043883000d16a15276406f85c89d/CNN_new_Free_Float_RGB.svg" xmltv_id="CNN (T)">CNN (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0032||XrZHquQmLjcMOAlcYVz4r/d5048576a2f10f1705b34632d0d28199/CNBC_new.svg.png" xmltv_id="CNBC -OTT">CNBC -OTT</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0080||4pY8jQ0e6kUeoakoKyOUaK/0cec6f3a2e26bca175d01d096a08d73b/mtv_play_1.png" xmltv_id="MTV (Nordic) (T)">MTV (Nordic) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0246||3Lu5JfxXx5Ay1vB20Y2x73/9bb444df4742120362a394b0df42d6a0/MTV_00s_new_pink.svg" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0360||5kartBXgEEGmquAEaq4Aqq/323556f76c2703af73f8e86da9b0d6f9/TV6_SE_new_black.svg" xmltv_id="TV6 HD (SE) (T)">TV6 HD (SE) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0290||4F5B5paw2sScY8iSsu8a8y/1e76d5f68a99cbaacc81445c23fc451a/TV3_SE_new_black.svg" xmltv_id="TV3 HD (SE) (T)">TV3 HD (SE) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="1001||5AvDn2lO5uSFfeYoqT2crg/1e32d014ceaf9bf4e15fd667265500f0/paramount_movies_new_black.png" xmltv_id="Paramount+ MOVIES HD (T)">Paramount+ MOVIES HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="1002||2Jfvqx8yirrUSf43GIrxA2/a1b1245e41bb3b838d2b1772a6420e79/paramount_series_new_black.png" xmltv_id="Paramount+ SERIES HD (T)">Paramount+ SERIES HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="604||4qEndZikzXJ3cSGudxc7Cu/51deeeee357e2ec4d52964d9d9347287/Untitled__1_.png" xmltv_id="MTV 80s (T)">MTV 80s (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0292||6wXIBG8S0BF6kJV0OV6p2w/d5a910e8d9e4b4f0f767dce0476188a3/VSport_Motor_new_Hori_CMYK_pos.svg" xmltv_id="V sport motor HD (T)">V sport motor HD (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0086||2eviiFuIFmhCvYPYBq9FMe/8958c88d0f49decee3b784f1f7bba55a/Nickelodeon_new_RGB.svg" xmltv_id="Nickelodeon (Nordic) (T)">Nickelodeon (Nordic) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0016||1Dik53xgMMM80WIWW0IyIU/cbcfe5fc8e34a2d702c973522af30312/BBC_WorldNews_new_Red_RGB.svg" xmltv_id="BBC World News (T)">BBC World News (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0298||40vKklSSjjxi8gFcgSgwr0/9981c8debb50dac1aaa924008d379e92/TV3_NO_new_Colour.svg" xmltv_id="TV3 HD (NO) (T)">TV3 HD (NO) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0361||3sdIhrZ8Rhv1jrisAen4Kg/f4370975a81d643c73cdd3b4d1cd62d0/NEW2_V4_LOGO.svg" xmltv_id="V4 HD (NO) (T)">V4 HD (NO) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="0359||5UADabkpzTTPnqR93uxnvg/b1f3b541e359eb5375613b0bf5c79920/NEW2_TV3ID_logo_RGB_010.svg" xmltv_id="TV3 HD (DK) (T)">TV3 HD (DK) (T)</channel>
-    <channel site="[ENC]allente.fi_0" site_id="570||7qXMtVQHyEOUip8WYBfBMs/6c6937c0e7df54992a75786b66755de6/Nicktoons_Logo_new.svg" xmltv_id="Nicktoons (T)">Nicktoons (T)</channel>
   </channels>
 </site>
