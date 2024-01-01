@@ -15,7 +15,7 @@ return array (
   'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'urldate_format1' => '#weekdayname#3-Monday|4-Tuesday|5-Wednesday|6-Thursday|7-Friday|1-Saturday|2-Sunday',
   'show' => '<tbody>.*?(?:<tr)(.*?)(?:<\\/tr>).*?<\\/tbody>||#include#"guidetime"',
-  'start' => '"guidetime">\\s*(\\d+:\\d+\\s[AP]M)',
+  'start' => '(?:"guidetime">\\s*|(?:<\\/i>)?<br>)(\\d+:\\d+\\s[AP]M)',
   'start_format' => 'h#i A',
   'title' => '<a href=".*?>(.*?)<\\/a>',
   'desc' => 'Z&details=(.*?),https:',
