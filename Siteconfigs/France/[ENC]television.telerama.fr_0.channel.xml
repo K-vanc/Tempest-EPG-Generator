@@ -13,10 +13,10 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="tmc,195||clear-195" xmltv_id="TMC">TMC</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="tfx,446||clear-446" xmltv_id="TFX">TFX</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="nrj-12,444||clear-444" xmltv_id="NRJ 12">NRJ 12</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="la-chaine-parlementaire,234||clear-234" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="la-chaine-parlementaire,234||clear-234" xmltv_id="La Chaîne Parlementaire">La Chaîne Parlementaire</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="france-4,78||clear-78" xmltv_id="France 4">France 4</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="bfmtv,481||clear-481" xmltv_id="BFMTV">BFMTV</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="cnews,226||clear-226" xmltv_id="CNEWS">CNEWS</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bfm-tv,481||clear-481" xmltv_id="BFM TV">BFM TV</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="cnews,226||clear-226" xmltv_id="CNews">CNews</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cstar,458||clear-458" xmltv_id="CSTAR">CSTAR</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="gulli,482||clear-482" xmltv_id="Gulli">Gulli</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="l-equipe,1401||clear-1401" xmltv_id="L'Equipe">L'Equipe</channel>
@@ -27,8 +27,8 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="lci,112||clear-112" xmltv_id="LCI">LCI</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="franceinfo,2111||clear-2111" xmltv_id="Franceinfo">Franceinfo</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="action,10||clear-10" xmltv_id="Action">Action</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="be-cine,417||clear-417" xmltv_id="Be Ciné">Be Ciné</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="canal-cinema,33||clear-33" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="becine,417||clear-417" xmltv_id="BeCiné">BeCiné</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-cinema-s,33||clear-33" xmltv_id="Canal+ Cinéma(s)">Canal+ Cinéma(s)</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-decale,30||clear-30" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-a-la-carte,523||clear-523" xmltv_id="Ciné+ (A la carte)">Ciné+ (A la carte)</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-classic,287||clear-287" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
@@ -37,49 +37,50 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-frisson,284||clear-284" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-premier,282||clear-282" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="eurochannel,1190||clear-1190" xmltv_id="Eurochannel">Eurochannel</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="ocs-choc,732||clear-732" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="ocs-pulp,732||clear-732" xmltv_id="OCS Pulp">OCS Pulp</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="ocs-city,733||clear-733" xmltv_id="OCS City">OCS City</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="ocs-geants,734||clear-734" xmltv_id="OCS Géants">OCS Géants</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="ocs-max,730||clear-730" xmltv_id="OCS Max">OCS Max</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="paramount-channel,1562||clear-1562" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="paramount,1562||clear-1562" xmltv_id="Paramount">Paramount</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="polar,2326||clear-2326" xmltv_id="Polar+">Polar+</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tcm-cinema,185||clear-185" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tcm-france,185||clear-185" xmltv_id="TCM France">TCM France</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="zee-cinema,527||clear-527" xmltv_id="Zee Cinéma">Zee Cinéma</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="13eme-rue,2||clear-2" xmltv_id="13eme RUE">13eme RUE</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-grand-ecran,3349||clear-3349" xmltv_id="Canal+ Grand Ecran">Canal+ Grand Ecran</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="13eme-rue,2||clear-2" xmltv_id="13ème Rue">13ème Rue</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="altice-studio,2320||clear-2320" xmltv_id="Altice Studio">Altice Studio</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="be-series,418||clear-418" xmltv_id="Be Séries">Be Séries</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="beseries,418||clear-418" xmltv_id="BeSéries">BeSéries</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bet,1960||clear-1960" xmltv_id="BET">BET</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-series,1563||clear-1563" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="club-rtl,50||clear-50" xmltv_id="Club RTL">Club RTL</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rtl-club,50||clear-50" xmltv_id="RTL club">RTL club</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="comedie,54||clear-54" xmltv_id="Comédie+">Comédie+</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="e,405||clear-405" xmltv_id="E !">E !</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="e,405||clear-405" xmltv_id="E!">E!</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="gong-max,621||clear-621" xmltv_id="Gong Max">Gong Max</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="j-one,1585||clear-1585" xmltv_id="J-One">J-One</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="nollywood-tv,1461||clear-1461" xmltv_id="Nollywood TV">Nollywood TV</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="paris-premiere,145||clear-145" xmltv_id="Paris Première">Paris Première</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="plug-rtl,377||clear-377" xmltv_id="Plug RTL">Plug RTL</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rtl-plug,377||clear-377" xmltv_id="RTL plug">RTL plug</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="rtl-9,115||clear-115" xmltv_id="RTL 9">RTL 9</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="serieclub,49||clear-49" xmltv_id="serieclub">serieclub</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="serie-club,49||clear-49" xmltv_id="Série Club">Série Club</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="syfy,479||clear-479" xmltv_id="Syfy">Syfy</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="teva,191||clear-191" xmltv_id="Téva">Téva</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="tf1-series-films,1404||clear-1404" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tv5monde,205||clear-205" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tvbreizh,225||clear-225" xmltv_id="TvBreizh">TvBreizh</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tv5-monde-fbs,205||clear-205" xmltv_id="TV5 Monde FBS">TV5 Monde FBS</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tv-breizh,225||clear-225" xmltv_id="TV Breizh">TV Breizh</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="warner-tv,2334||clear-2334" xmltv_id="Warner TV">Warner TV</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="zee-tv,526||clear-526" xmltv_id="Zee TV">Zee TV</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="al-jazeera-english,525||clear-525" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="al-jazeera,525||clear-525" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bbc-world-news,19||clear-19" xmltv_id="BBC World News">BBC World News</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bfm-business,1073||clear-1073" xmltv_id="BFM Business">BFM Business</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="bloomberg-uk-europe,410||clear-410" xmltv_id="Bloomberg UK-Europe">Bloomberg UK-Europe</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="cgtn,318||clear-318" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bloomberg-europe,410||clear-410" xmltv_id="Bloomberg Europe">Bloomberg Europe</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="cgtn-francais,318||clear-318" xmltv_id="CGTN Français">CGTN Français</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cnbc-europe,51||clear-51" xmltv_id="CNBC Europe">CNBC Europe</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cnn,53||clear-53" xmltv_id="CNN">CNN</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="dw-english,61||clear-61" xmltv_id="DW (English)">DW (English)</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="euronews,140||clear-140" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="euronews,140||clear-140" xmltv_id="EuroNews">EuroNews</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="france-24,529||clear-529" xmltv_id="France 24">France 24</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="i24news,781||clear-781" xmltv_id="I24news">I24news</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="i24news,781||clear-781" xmltv_id="i24news">i24news</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="la-chaine-meteo,124||clear-124" xmltv_id="La Chaîne Météo">La Chaîne Météo</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="ab-1,5||clear-5" xmltv_id="AB 1">AB 1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="ab1,5||clear-5" xmltv_id="AB1">AB1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="baby-tv-etr,483||clear-483" xmltv_id="Baby TV_ETR">Baby TV_ETR</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="boing,924||clear-924" xmltv_id="Boing">Boing</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="boomerang,321||clear-321" xmltv_id="Boomerang">Boomerang</channel>
@@ -88,19 +89,20 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="cartoon-network,36||clear-36" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-famiz,401||clear-401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="disney-channel,58||clear-58" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="disney-channel-1,299||clear-299" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="disney-channel-1,299||clear-299" xmltv_id="Disney Channel+1">Disney Channel+1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="disney-junior,300||clear-300" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="game-one,87||clear-87" xmltv_id="Game One">Game One</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="ketnet,1280||clear-1280" xmltv_id="Ketnet">Ketnet</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="mangas,6||clear-6" xmltv_id="Mangas">Mangas</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="nickelodeon,473||clear-473" xmltv_id="Nickelodéon">Nickelodéon</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="nickelodeon-junior,888||clear-888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="nickelodeon-teen,1746||clear-1746" xmltv_id="Nickelodeon Teen">Nickelodeon Teen</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="nickelodeon-junior,888||clear-888" xmltv_id="Nickelodéon Junior">Nickelodéon Junior</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="nickelodeon-4-teen,1746||clear-1746" xmltv_id="Nickelodéon 4 Teen">Nickelodéon 4 Teen</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="piwi,344||clear-344" xmltv_id="Piwi+">Piwi+</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="teletoon,197||clear-197" xmltv_id="TéléToon+">TéléToon+</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="teletoon-1,293||clear-293" xmltv_id="TéléToon+1">TéléToon+1</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tiji,229||clear-229" xmltv_id="TIJI">TIJI</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="toonami,2040||clear-2040" xmltv_id="Toonami">Toonami</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="teletoon,197||clear-197" xmltv_id="Télétoon+">Télétoon+</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="teletoon-1,293||clear-293" xmltv_id="Télétoon+1">Télétoon+1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tiji,229||clear-229" xmltv_id="Tiji">Tiji</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="warner-tv-next,2040||clear-2040" xmltv_id="Warner TV Next">Warner TV Next</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-kids,3348||clear-3348" xmltv_id="Canal+ KIDS">Canal+ KIDS</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="automoto,15||clear-15" xmltv_id="Automoto">Automoto</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bein-sports-1,1290||clear-1290" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bein-sports-2,1304||clear-1304" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
@@ -117,7 +119,7 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="eurosport-1,76||clear-76" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="eurosport-2,439||clear-439" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="foot-24-24,100||clear-100" xmltv_id="Foot+ 24/24">Foot+ 24/24</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="ginx-esport-tv,563||clear-563" xmltv_id="Ginx Esport TV">Ginx Esport TV</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="ginx-esports-tv,563||clear-563" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="golf-channel,1166||clear-1166" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="golf,1295||clear-1295" xmltv_id="Golf+">Golf+</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="infosport,94||clear-94" xmltv_id="Infosport+">Infosport+</channel>
@@ -139,8 +141,10 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="rmc-sport-access-2,675||clear-675" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="supersport-3,420||clear-420" xmltv_id="Supersport 3">Supersport 3</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="trace-sport-stars,1168||clear-1168" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="voosport-world-1,413||clear-413" xmltv_id="VOOsport World 1">VOOsport World 1</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="voosport-world-2,414||clear-414" xmltv_id="VOOsport World 2">VOOsport World 2</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="voosport-world1,413||clear-413" xmltv_id="VooSport World1">VooSport World1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="voosport-world2,414||clear-414" xmltv_id="VooSport World2">VooSport World2</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-foot,3501||clear-3501" xmltv_id="Canal+ Foot">Canal+ Foot</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-sport-360,3504||clear-3504" xmltv_id="Canal+ Sport 360">Canal+ Sport 360</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="m6-music,453||clear-453" xmltv_id="M6 Music">M6 Music</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="mcm,121||clear-121" xmltv_id="MCM">MCM</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="mcm-top,343||clear-343" xmltv_id="MCM Top">MCM Top</channel>
@@ -164,9 +168,9 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="trace-urban,325||clear-325" xmltv_id="Trace Urban">Trace Urban</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="vh1,210||clear-210" xmltv_id="VH1">VH1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="vh1-classic,690||clear-690" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="abxplore,303||clear-303" xmltv_id="ABXPLORE">ABXPLORE</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="ab-xplore,303||clear-303" xmltv_id="AB Xplore">AB Xplore</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="animaux,12||clear-12" xmltv_id="Animaux">Animaux</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="chasse-et-peche,38||clear-38" xmltv_id="Chasse et pêche">Chasse et pêche</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="chasse-peche,38||clear-38" xmltv_id="Chasse &amp; Pêche">Chasse &amp; Pêche</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="crime-district,2037||clear-2037" xmltv_id="Crime District">Crime District</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="culturebox,3163||clear-3163" xmltv_id="Culturebox">Culturebox</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="demain-tv,57||clear-57" xmltv_id="Demain TV">Demain TV</channel>
@@ -176,22 +180,23 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="histoire,88||clear-88" xmltv_id="Histoire">Histoire</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="kto,110||clear-110" xmltv_id="KTO">KTO</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="m6-boutique,184||clear-184" xmltv_id="M6 Boutique">M6 Boutique</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="museum-tv,1072||clear-1072" xmltv_id="Museum TV">Museum TV</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="museum,1072||clear-1072" xmltv_id="Museum">Museum</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="national-geographic,243||clear-243" xmltv_id="National Geographic">National Geographic</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="national-geographic-wild,719||clear-719" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="nautical-channel,415||clear-415" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="planete,147||clear-147" xmltv_id="Planète+">Planète+</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="planete-aventure-experience,402||clear-402" xmltv_id="Planète+ Aventure &amp; Expérience">Planète+ Aventure &amp; Expérience</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="planete-crime-investigation,662||clear-662" xmltv_id="Planète+ Crime Investigation">Planète+ Crime Investigation</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="science-vie-tv,63||clear-63" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="planete-aventure,402||clear-402" xmltv_id="Planète+ Aventure">Planète+ Aventure</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="planete-crime,662||clear-662" xmltv_id="Planète+ Crime">Planète+ Crime</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="science-et-vie,63||clear-63" xmltv_id="Science et vie">Science et vie</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="seasons,173||clear-173" xmltv_id="Seasons">Seasons</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="toute-l-histoire,7||clear-7" xmltv_id="Toute l'histoire">Toute l'histoire</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="toute-l-histoire,7||clear-7" xmltv_id="Toute L'Histoire">Toute L'Histoire</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="trek,1776||clear-1776" xmltv_id="Trek">Trek</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="ushuaia-tv,451||clear-451" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="8-mont-blanc,421||clear-421" xmltv_id="8 Mont-Blanc">8 Mont-Blanc</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="alsace-20,524||clear-524" xmltv_id="Alsace 20">Alsace 20</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="atv-martinique,295||clear-295" xmltv_id="ATV Martinique">ATV Martinique</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="bfm-lyon-metropole,116||clear-116" xmltv_id="BFM Lyon Métropole">BFM Lyon Métropole</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="canal-docs,3347||clear-3347" xmltv_id="Canal+ DOCS">Canal+ DOCS</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="8-mont-blanc,421||clear-421" xmltv_id="8 Mont Blanc">8 Mont Blanc</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bfm-alsace,524||clear-524" xmltv_id="BFM Alsace">BFM Alsace</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="viaatv-martinique,295||clear-295" xmltv_id="ViàATV Martinique">ViàATV Martinique</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bfm-lyon,116||clear-116" xmltv_id="BFM Lyon">BFM Lyon</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-32,534||clear-534" xmltv_id="Canal 32">Canal 32</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-partage-tnt-ile-de-france,703||clear-703" xmltv_id="Canal partagé TNT Ile-de-France">Canal partagé TNT Ile-de-France</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-cinema-drom,1105||clear-1105" xmltv_id="Canal+ Cinéma DROM">Canal+ Cinéma DROM</channel>
@@ -222,14 +227,14 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="france-3-poitou-charentes-complete,1942||clear-1942" xmltv_id="France 3 Poitou-Charentes complète">France 3 Poitou-Charentes complète</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="france-3-provence-alpes-complete,1943||clear-1943" xmltv_id="France 3 Provence-Alpes complète">France 3 Provence-Alpes complète</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="france-3-rhone-alpes-complete,1944||clear-1944" xmltv_id="France 3 Rhône-Alpes complète">France 3 Rhône-Alpes complète</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="guadeloupe-la-1ere,329||clear-329" xmltv_id="Guadeloupe la 1ère">Guadeloupe la 1ère</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="guyane-la-1ere,260||clear-260" xmltv_id="Guyane la 1ère">Guyane la 1ère</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="idf1,701||clear-701" xmltv_id="IDF1">IDF1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="guadeloupe-1ere,329||clear-329" xmltv_id="Guadeloupe 1ère">Guadeloupe 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="guyane-1ere,260||clear-260" xmltv_id="Guyane 1ère">Guyane 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="20-minutes-tv,701||clear-701" xmltv_id="20 minutes TV">20 minutes TV</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="lm-tv-sarthe,535||clear-535" xmltv_id="LM TV Sarthe">LM TV Sarthe</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="martinique-la-1ere,328||clear-328" xmltv_id="Martinique la 1ère">Martinique la 1ère</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="nouvelle-caledonie-la-1ere,240||clear-240" xmltv_id="Nouvelle-Calédonie la 1ère">Nouvelle-Calédonie la 1ère</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="polynesie-la-1ere,459||clear-459" xmltv_id="Polynésie la 1ère">Polynésie la 1ère</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="reunion-la-1ere,245||clear-245" xmltv_id="Réunion la 1ère">Réunion la 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="martinique-1ere,328||clear-328" xmltv_id="Martinique 1ère">Martinique 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="nouvelle-caledonie-1ere,240||clear-240" xmltv_id="Nouvelle-Calédonie 1ère">Nouvelle-Calédonie 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="polynesie-1ere,459||clear-459" xmltv_id="Polynésie 1ère">Polynésie 1ère</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="reunion-1ere,245||clear-245" xmltv_id="Réunion 1ère">Réunion 1ère</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="telenantes,491||clear-491" xmltv_id="Télénantes">Télénantes</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="telesud,449||clear-449" xmltv_id="Télésud">Télésud</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="tv-tours,540||clear-540" xmltv_id="TV Tours">TV Tours</channel>
@@ -239,32 +244,32 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="viamoselletv,1045||clear-1045" xmltv_id="ViàMoselleTV">ViàMoselleTV</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="3sat,3||clear-3" xmltv_id="3SAT">3SAT</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="das-erste,13||clear-13" xmltv_id="Das Erste">Das Erste</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rtl-television,166||clear-166" xmltv_id="RTL Télévision">RTL Télévision</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="swr,182||clear-182" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rtl,166||clear-166" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="swr-fernsehen,182||clear-182" xmltv_id="SWR-Fernsehen">SWR-Fernsehen</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="wdr,217||clear-217" xmltv_id="WDR">WDR</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="zdf,219||clear-219" xmltv_id="ZDF">ZDF</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="be-1,29||clear-29" xmltv_id="BE 1">BE 1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="be1,29||clear-29" xmltv_id="Be1">Be1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="la-trois,892||clear-892" xmltv_id="La Trois">La Trois</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="la-une,164||clear-164" xmltv_id="La Une">La Une</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="ab-3,254||clear-254" xmltv_id="AB 3">AB 3</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="arte-belgique-dupli,2544||clear-2544" xmltv_id="Arte Belgique dupli">Arte Belgique dupli</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="ab3-channel,254||clear-254" xmltv_id="AB3 Channel">AB3 Channel</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="arte-belgique,2544||clear-2544" xmltv_id="Arte Belgique">Arte Belgique</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canvas,24||clear-24" xmltv_id="Canvas">Canvas</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-classic-belgique,437||clear-437" xmltv_id="Ciné+ Classic Belgique">Ciné+ Classic Belgique</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cine-premier-belgique,294||clear-294" xmltv_id="Ciné+ Premier Belgique">Ciné+ Premier Belgique</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="een,23||clear-23" xmltv_id="één">één</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rtl-tvi,168||clear-168" xmltv_id="RTL TVI">RTL TVI</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rtl-tvi,168||clear-168" xmltv_id="RTL tvi">RTL tvi</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="tipik,187||clear-187" xmltv_id="Tipik">Tipik</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="vtm,215||clear-215" xmltv_id="VTM">VTM</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="bbc-1,16||clear-16" xmltv_id="BBC 1">BBC 1</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="bbc-2,17||clear-17" xmltv_id="BBC 2">BBC 2</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bbc1,16||clear-16" xmltv_id="BBC1">BBC1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="bbc2,17||clear-17" xmltv_id="BBC2">BBC2</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="bbc-entertainment,18||clear-18" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="cbs-reality-emae1-etr-megasas,514||clear-514" xmltv_id="CBS Reality EMAE1_ETR_Megasas">CBS Reality EMAE1_ETR_Megasas</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tve-1,206||clear-206" xmltv_id="TVE 1">TVE 1</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tve-2,207||clear-207" xmltv_id="TVE 2">TVE 2</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tve,208||clear-208" xmltv_id="TVE">TVE</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rai-due,154||clear-154" xmltv_id="Rai Due">Rai Due</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rai-tre,155||clear-155" xmltv_id="Rai Tre">Rai Tre</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rai-uno,156||clear-156" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="la-1,206||clear-206" xmltv_id="La 1">La 1</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="la-2,207||clear-207" xmltv_id="La 2">La 2</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tve-internacional,208||clear-208" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rai-2,154||clear-154" xmltv_id="RAI 2">RAI 2</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rai-3,155||clear-155" xmltv_id="RAI 3">RAI 3</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rai-1,156||clear-156" xmltv_id="RAI 1">RAI 1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="npo1-dutch-magnet,910||clear-910" xmltv_id="NPO1_Dutch_Magnet">NPO1_Dutch_Magnet</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="npo2-dutch-magnet,911||clear-911" xmltv_id="NPO2_Dutch_Magnet">NPO2_Dutch_Magnet</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="npo3-dutch-magnet,912||clear-912" xmltv_id="NPO3_Dutch_Magnet">NPO3_Dutch_Magnet</channel>
@@ -273,15 +278,15 @@
     <channel site="[ENC]television.telerama.fr_0" site_id="vtm-2,108||clear-108" xmltv_id="VTM 2">VTM 2</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="rsi-la-1,200||clear-200" xmltv_id="RSI LA 1">RSI LA 1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="rsi-la-2,201||clear-201" xmltv_id="RSI LA 2">RSI LA 2</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="rtpi,169||clear-169" xmltv_id="RTPI">RTPI</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="rtp-internacional,169||clear-169" xmltv_id="RTP Internacional">RTP Internacional</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="rts-1,202||clear-202" xmltv_id="RTS 1">RTS 1</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="rts-2,183||clear-183" xmltv_id="RTS 2">RTS 2</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="srf-1,59||clear-59" xmltv_id="SRF 1">SRF 1</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="srf-2,174||clear-174" xmltv_id="SRF 2">SRF 2</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="2m-monde,340||clear-340" xmltv_id="2M Monde">2M Monde</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="srf-zwei,174||clear-174" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="2m-maroc,340||clear-340" xmltv_id="2M Maroc">2M Maroc</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="a-international-france,2049||clear-2049" xmltv_id="A+ International France">A+ International France</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="canal-afrique-ouest,227||clear-227" xmltv_id="Canal+ Afrique Ouest">Canal+ Afrique Ouest</channel>
     <channel site="[ENC]television.telerama.fr_0" site_id="tv5monde-afrique-etr,233||clear-233" xmltv_id="TV5MONDE Afrique_ETR">TV5MONDE Afrique_ETR</channel>
-    <channel site="[ENC]television.telerama.fr_0" site_id="tv5monde-europe,232||clear-232" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
+    <channel site="[ENC]television.telerama.fr_0" site_id="tv5-monde,232||clear-232" xmltv_id="TV5 monde">TV5 monde</channel>
   </channels>
 </site>

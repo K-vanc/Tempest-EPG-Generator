@@ -38,7 +38,7 @@
     <channel site="[ENC][EX]programme-tv.com_0" site_id="1116|##|paramount-channel" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="1727|##|polar-" xmltv_id="POLAR +">POLAR +</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="322|##|w9" xmltv_id="W9">W9</channel>
-    <channel site="[ENC][EX]programme-tv.com_0" site_id="1045|##|tf1-series-films" xmltv_id="TF1 S?ries Films">TF1 S?ries Films</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="1045|##|tf1-series-films" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="199|##|tv-breizh" xmltv_id="TV BREIZH">TV BREIZH</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="74|##|13eme-rue" xmltv_id="13EME RUE">13EME RUE</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="26|##|jimmy" xmltv_id="JIMMY">JIMMY</channel>
@@ -98,7 +98,7 @@
     <channel site="[ENC][EX]programme-tv.com_0" site_id="21|##|planete-" xmltv_id="PLANETE +">PLANETE +</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="48|##|teva" xmltv_id="TEVA">TEVA</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="79|##|histoire" xmltv_id="HISTOIRE">HISTOIRE</channel>
-    <channel site="[ENC][EX]programme-tv.com_0" site_id="344|##|france-o" xmltv_id="FRANCE ?">FRANCE ?</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="344|##|france-o" xmltv_id="FRANCE Ô">FRANCE Ô</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="292|##|discovery-channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="228|##|national-geographic-channel" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL">NATIONAL GEOGRAPHIC CHANNEL</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="127|##|chasse-peche" xmltv_id="CHASSE &amp; PECHE">CHASSE &amp; PECHE</channel>
@@ -127,10 +127,10 @@
     <channel site="[ENC][EX]programme-tv.com_0" site_id="968|##|rts-deux" xmltv_id="RTS DEUX">RTS DEUX</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="967|##|rts-un" xmltv_id="RTS UN">RTS UN</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="24|##|la-une-rtbf" xmltv_id="LA UNE (RTBF)">LA UNE (RTBF)</channel>
-    <channel site="[ENC][EX]programme-tv.com_0" site_id="67|##|club-rtl" xmltv_id="CLUB RTL">CLUB RTL</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="717|##|la-trois" xmltv_id="LA TROIS">LA TROIS</channel>
-    <channel site="[ENC][EX]programme-tv.com_0" site_id="19|##|rtl-tvi" xmltv_id="RTL TVI">RTL TVI</channel>
-    <channel site="[ENC][EX]programme-tv.com_0" site_id="281|##|plug-rtl" xmltv_id="PLUG RTL">PLUG RTL</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="67|##|rtl-club" xmltv_id="RTL club">RTL club</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="19|##|rtl-tvi" xmltv_id="RTL tvi">RTL tvi</channel>
+    <channel site="[ENC][EX]programme-tv.com_0" site_id="281|##|rtl-plug" xmltv_id="RTL plug">RTL plug</channel>
     <channel site="[ENC][EX]programme-tv.com_0" site_id="1873|##|ln24" xmltv_id="LN24">LN24</channel>
   </channels>
 </site>
