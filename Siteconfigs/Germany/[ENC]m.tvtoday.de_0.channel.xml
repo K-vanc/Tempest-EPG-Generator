@@ -7,7 +7,7 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="sat1" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="pro7" xmltv_id="ProSieben">ProSieben</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="k1" xmltv_id="kabel eins">kabel eins</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="rtl2" xmltv_id="RTL II">RTL II</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="rtl2" xmltv_id="RTLZWEI">RTLZWEI</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="vox" xmltv_id="VOX">VOX</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="3sat" xmltv_id="3sat">3sat</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="arte" xmltv_id="ARTE">ARTE</channel>
@@ -35,8 +35,6 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="euro2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="dazn" xmltv_id="DAZN">DAZN</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="snhd" xmltv_id="Sky Sport News">Sky Sport News</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="hdspo" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="shd2" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="ex-sp" xmltv_id="EXTREME SPORTS">EXTREME SPORTS</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="spo-a" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="buli" xmltv_id="Bundesliga HD 1">Bundesliga HD 1</channel>
@@ -105,7 +103,7 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="mtv-l" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="dmc" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="vh1" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="vh1" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="aplan" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="anixe" xmltv_id="ANIXE">ANIXE</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="bibel" xmltv_id="Bibel TV">Bibel TV</channel>
@@ -129,10 +127,11 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="rbtv" xmltv_id="Rocket Beans TV">Rocket Beans TV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="123tv" xmltv_id="123.tv">123.tv</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="ch21" xmltv_id="Channel21">Channel21</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="hse" xmltv_id="HSE24">HSE24</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="hse" xmltv_id="HSE">HSE</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="qvcp" xmltv_id="QVC2">QVC2</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="sklar" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="hseextra" xmltv_id="HSE Extra">HSE Extra</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="be1" xmltv_id="Belgien 1">Belgien 1</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="dr1" xmltv_id="DR1">DR1</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="tv2" xmltv_id="TV2">TV2</channel>
@@ -162,7 +161,6 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="sky-f" xmltv_id="Sky Family">Sky Family</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="sky-h" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="sky-n" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="sky-co" xmltv_id="Sky Comedy">Sky Comedy</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="sky-k" xmltv_id="Sky Krimi">Sky Krimi</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="hishd" xmltv_id="HISTORY HD">HISTORY HD</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="heima" xmltv_id="Heimatkanal">Heimatkanal</channel>
@@ -171,7 +169,6 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="k1cla" xmltv_id="kabel eins CLASSICS">kabel eins CLASSICS</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="pro7f" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="scifi" xmltv_id="Syfy">Syfy</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="kinow" xmltv_id="KinoweltTV">KinoweltTV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="tnt-c" xmltv_id="Warner TV Comedy">Warner TV Comedy</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="tnt-f" xmltv_id="Warner TV Film">Warner TV Film</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="tnt-s" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
@@ -187,7 +184,7 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="skysh" xmltv_id="sky showcase">sky showcase</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="skyrp" xmltv_id="sky replay">sky replay</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="adult" xmltv_id="Adult Channel">Adult Channel</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="axn" xmltv_id="AXN Black">AXN Black</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="bbc-e" xmltv_id="BBC Entertainm.">BBC Entertainm.</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="gusto" xmltv_id="BonGusto">BonGusto</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="class" xmltv_id="Classica">Classica</channel>
@@ -201,9 +198,10 @@
     <channel site="[ENC]m.tvtoday.de_0" site_id="nowus" xmltv_id="NOW US">NOW US</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="pboy" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="pass" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="kinow" xmltv_id="KinoweltTV">KinoweltTV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="sat1e" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="silve" xmltv_id="Silverline">Silverline</channel>
-    <channel site="[ENC]m.tvtoday.de_0" site_id="sony" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel site="[ENC]m.tvtoday.de_0" site_id="sony" xmltv_id="AXN White">AXN White</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="rtl-c" xmltv_id="RTL Crime">RTL Crime</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="trace" xmltv_id="Trace TV">Trace TV</channel>
     <channel site="[ENC]m.tvtoday.de_0" site_id="rtl-l" xmltv_id="RTL Living">RTL Living</channel>

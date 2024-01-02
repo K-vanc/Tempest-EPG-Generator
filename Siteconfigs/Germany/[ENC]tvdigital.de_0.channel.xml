@@ -6,7 +6,7 @@
     <channel site="[ENC]tvdigital.de_0" site_id="38" xmltv_id="RTL">RTL</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="39" xmltv_id="Sat.1">Sat.1</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="40" xmltv_id="ProSieben">ProSieben</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="44" xmltv_id="kabel eins">kabel eins</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="44" xmltv_id="Kabel Eins">Kabel Eins</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="41" xmltv_id="RTL Zwei">RTL Zwei</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="42" xmltv_id="VOX">VOX</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="58" xmltv_id="Arte">Arte</channel>
@@ -14,7 +14,7 @@
     <channel site="[ENC]tvdigital.de_0" site_id="46" xmltv_id="WDR">WDR</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="47" xmltv_id="NDR">NDR</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="51" xmltv_id="BR">BR</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="666" xmltv_id="SWR">SWR</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="50" xmltv_id="SWR">SWR</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="49" xmltv_id="HR">HR</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="52" xmltv_id="RBB">RBB</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="48" xmltv_id="MDR">MDR</channel>
@@ -47,10 +47,9 @@
     <channel site="[ENC]tvdigital.de_0" site_id="763" xmltv_id="NITRO">NITRO</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="783" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="507" xmltv_id="DMAX">DMAX</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="485" xmltv_id="Nick">Nick</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="485" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="532" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12105" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="12122" xmltv_id="Health TV">Health TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="135954" xmltv_id="TLC">TLC</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="537" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="587" xmltv_id="Anixe Plus">Anixe Plus</channel>
@@ -93,62 +92,65 @@
     <channel site="[ENC]tvdigital.de_0" site_id="614" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12042" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12121" xmltv_id="Sky Cinema Special">Sky Cinema Special</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="595" xmltv_id="Sky Comedy">Sky Comedy</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="603" xmltv_id="Sky Crime">Sky Crime</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="767" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12046" xmltv_id="Sky One">Sky One</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12178" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12184" xmltv_id="Sky Showcase">Sky Showcase</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="615" xmltv_id="Sky Krimi">Sky Krimi</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12148" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12147" xmltv_id="Sky Nature">Sky Nature</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="623" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="621" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="697" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="623" xmltv_id="Sky Sport Bundesliga">Sky Sport Bundesliga</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12179" xmltv_id="Sky Sport Top Event">Sky Sport Top Event</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12180" xmltv_id="Sky Sport Mix">Sky Sport Mix</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12181" xmltv_id="Sky Sport Premier League">Sky Sport Premier League</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12182" xmltv_id="Sky Sport Tennis">Sky Sport Tennis</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12183" xmltv_id="Sky Sport Golf">Sky Sport Golf</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="561" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="762" xmltv_id="Sky Sport News">Sky Sport News</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="622" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="65" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="504" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="564" xmltv_id="Sportdigital Fußball">Sportdigital Fußball</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="627" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12188" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="12189" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="627" xmltv_id="Motorvision+">Motorvision+</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="138" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="453" xmltv_id="National Geographic">National Geographic</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="626" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="452" xmltv_id="History">History</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="452" xmltv_id="History Channel">History Channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="136058" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="625" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="756" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="471" xmltv_id="13TH STREET">13TH STREET</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="471" xmltv_id="13th Street">13th Street</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="472" xmltv_id="Syfy">Syfy</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="782" xmltv_id="Universal TV">Universal TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="590" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="633" xmltv_id="Warner TV Film">Warner TV Film</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="552" xmltv_id="Romance TV">Romance TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12035" xmltv_id="Warner TV Comedy">Warner TV Comedy</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="758" xmltv_id="E! Entertainment">E! Entertainment</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="154" xmltv_id="Heimatkanal">Heimatkanal</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="123" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="160" xmltv_id="Junior">Junior</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="597" xmltv_id="NICK Jr.">NICK Jr.</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="551" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="531" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="493" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="493" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="70" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="601" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="558" xmltv_id="Jukebox">Jukebox</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="468" xmltv_id="Sony AXN">Sony AXN</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="778" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="468" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="778" xmltv_id="AXN White">AXN White</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="450" xmltv_id="Kinowelt TV">Kinowelt TV</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="492" xmltv_id="kabel eins classics">kabel eins classics</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="492" xmltv_id="Kabel Eins Classics">Kabel Eins Classics</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="766" xmltv_id="Sat.1 emotions">Sat.1 emotions</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="765" xmltv_id="ProSieben Fun">ProSieben Fun</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="527" xmltv_id="RTL Crime">RTL Crime</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="529" xmltv_id="RTL Passion">RTL Passion</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="698" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="259" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12102" xmltv_id="eSports1">eSports1</channel>
-    <channel site="[ENC]tvdigital.de_0" site_id="469" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="656" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="136049" xmltv_id="Geo Television">Geo Television</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="453" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="626" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="625" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="756" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="12149" xmltv_id="Bergblick">Bergblick</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="1183" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="457" xmltv_id="BonGusto">BonGusto</channel>
@@ -158,6 +160,7 @@
     <channel site="[ENC]tvdigital.de_0" site_id="467" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="768" xmltv_id="Penthouse Passion HD">Penthouse Passion HD</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="451" xmltv_id="Silverline">Silverline</channel>
+    <channel site="[ENC]tvdigital.de_0" site_id="469" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="463" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="487" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
     <channel site="[ENC]tvdigital.de_0" site_id="738" xmltv_id="MTV Hits">MTV Hits</channel>

@@ -29,8 +29,6 @@ return array (
   'detail_requestOption1' => '1',
   'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'detail_host_header1' => 'www.texxas.de',
-  'detail_stop' => '<p class="fontSmall">.*?Uhr\\s-\\s(\\d{2}[\\.:]\\d{2})\\sUhr',
-  'detail_stop_format' => 'H#i',
   'detail_title' => '<h1>(.*?)<\\/h1>',
   'detail_subtitle' => '<div id="contentTitle">.*?<\\/h5><h6>(.*?)(?:,\\s\\w+,)+(?:,\\s[A-Z]+)?(?:\\s\\d{4})?\\s\\|',
   'detail_desc' => '"contentBoxLeftContentBox"><p>(.*?)<\\/p>',
