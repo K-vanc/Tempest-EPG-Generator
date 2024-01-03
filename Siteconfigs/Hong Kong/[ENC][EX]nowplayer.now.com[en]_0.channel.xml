@@ -3,7 +3,7 @@
   <channels>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="096||ch96_160_115" xmltv_id="ViuTVsix">ViuTVsix</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="099||ch99_160_115" xmltv_id="ViuTV">ViuTV</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="102||ch102_160_115" xmltv_id="Now Drama Channel">Now Drama Channel</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="102||ch102_160_115" xmltv_id="Viu channel">Viu channel</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="105||ch105_160_115" xmltv_id="Now Chinese Drama Channel">Now Chinese Drama Channel</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="106||ch106_160_115" xmltv_id="Now Video Express">Now Video Express</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="108||ch108_160_115" xmltv_id="NowJelli">NowJelli</channel>
@@ -13,15 +13,12 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="114||ch114_160_115" xmltv_id="HBO Signature">HBO Signature</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="115||ch115_160_115" xmltv_id="HBO">HBO</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="116||ch116_160_115" xmltv_id="MOVIE MOVIE">MOVIE MOVIE</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="125||ch125_160_115" xmltv_id="Thrill">Thrill</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="133||ch133_160_115" xmltv_id="Now Baogu Movies">Now Baogu Movies</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="138||ch138_160_115" xmltv_id="Now Baogu Superstars">Now Baogu Superstars</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="139||ch139_160_115" xmltv_id="SCM">SCM</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="150||ch150_160_115" xmltv_id="Animax">Animax</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="155||ch155_160_115" xmltv_id="tvN">tvN</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="156||ch156_160_115" xmltv_id="KBS World">KBS World</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="162||ch162_160_115" xmltv_id="ETTV Asia Channel">ETTV Asia Channel</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="163||ch163_160_115" xmltv_id="TVBS Asia">TVBS Asia</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="168||ch168_160_115" xmltv_id="MOOV Concert/MV">MOOV Concert/MV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="208||ch208_160_115" xmltv_id="Discovery Asia">Discovery Asia</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="209||ch209_160_115" xmltv_id="Discovery Channel">Discovery Channel</channel>
@@ -29,14 +26,15 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="211||ch211_160_115" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="212||ch212_160_115" xmltv_id="DMAX">DMAX</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="213||ch213_160_115" xmltv_id="TLC">TLC</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="215||ch215_160_115" xmltv_id="National Geographic">National Geographic</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="216||ch216_160_115" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="217||ch217_160_115" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="218||ch218_160_115" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="220||ch220_160_115" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="221||ch221_160_115" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="222||ch222_160_115" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="223||ch223_160_115" xmltv_id="HISTORY">HISTORY</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="316||ch316_160_115" xmltv_id="CNN International">CNN International</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="319||ch319_160_115" xmltv_id="CNBC">CNBC</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="320||ch320_160_115" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="320||ch320_160_115" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="321||ch321_160_115" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="322||ch322_160_115" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="323||ch323_160_115" xmltv_id="Sky News">Sky News</channel>
@@ -59,7 +57,7 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="440||ch440_160_115" xmltv_id="DreamWorks">DreamWorks</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="443||ch443_160_115" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="444||ch444_160_115" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="445||ch445_160_115" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="445||ch445_160_115" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="447||ch447_160_115" xmltv_id="CBeebies">CBeebies</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="449||ch449_160_115" xmltv_id="Nick Jr.">Nick Jr.</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="460||ch460_160_115" xmltv_id="Da Vinci">Da Vinci</channel>
@@ -77,14 +75,17 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="540||ch540_160_115" xmltv_id="Shenzhen TV">Shenzhen TV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="541||ch541_160_115" xmltv_id="CCTV-1">CCTV-1</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="542||ch542_160_115" xmltv_id="CCTV-4">CCTV-4</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="543||ch543_160_115" xmltv_id="Southern Television">Southern Television</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="544||ch544_160_115" xmltv_id="MASTV">MASTV</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="543||ch543_160_115" xmltv_id="GBA Satellite TV">GBA Satellite TV</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="545||ch545_160_115" xmltv_id="CCTV-13">CCTV-13</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="548||ch548_160_115" xmltv_id="Phoenix Chinese Channel">Phoenix Chinese Channel</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="552||ch552_160_115" xmltv_id="OneTV General Channel">OneTV General Channel</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="553||ch553_160_115" xmltv_id="Sansha TV">Sansha TV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="555||ch555_160_115" xmltv_id="Zhejiang Satellite TV">Zhejiang Satellite TV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="561||ch561_160_115" xmltv_id="ABC Australia">ABC Australia</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="600||ch600_160_115" xmltv_id="Sports Schedule Highlights">Sports Schedule Highlights</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="611||ch611_160_115" xmltv_id="Now Sports 4K">Now Sports 4K</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="611||ch611_160_115" xmltv_id="Now Sports 4K 1">Now Sports 4K 1</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="612||ch612_160_115" xmltv_id="Now Sports 4K 2">Now Sports 4K 2</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="613||ch613_160_115" xmltv_id="Now Sports 4K 3">Now Sports 4K 3</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="620||ch620_160_115" xmltv_id="Now Sports Premier League TV">Now Sports Premier League TV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="621||ch621_160_115" xmltv_id="Now Sports Premier League 1">Now Sports Premier League 1</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="622||ch622_160_115" xmltv_id="Now Sports Premier League 2">Now Sports Premier League 2</channel>
@@ -92,9 +93,10 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="624||ch624_160_115" xmltv_id="Now Sports Premier League 4">Now Sports Premier League 4</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="625||ch625_160_115" xmltv_id="Now Sports Premier League 5">Now Sports Premier League 5</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="626||ch626_160_115" xmltv_id="Now Sports Premier League 6">Now Sports Premier League 6</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="627||ch627_160_115" xmltv_id="Now Sports Premier League 7">Now Sports Premier League 7</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="630||ch630_160_115" xmltv_id="Now Sports Prime">Now Sports Prime</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="631||ch631_160_115" xmltv_id="Now Sports 1">Now Sports 1</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="632||ch632_160_115" xmltv_id="beIN – Now Sports 2">beIN – Now Sports 2</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="632||ch632_160_115" xmltv_id="Now Sports 2">Now Sports 2</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="633||ch633_160_115" xmltv_id="Now Sports 3">Now Sports 3</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="634||ch634_160_115" xmltv_id="Now Sports 4">Now Sports 4</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="635||ch635_160_115" xmltv_id="Now Sports 5">Now Sports 5</channel>
@@ -103,7 +105,8 @@
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="638||ch638_160_115" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="639||ch639_160_115" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="640||ch640_160_115" xmltv_id="MUTV">MUTV</channel>
-    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="642||ch642_160_115" xmltv_id="FIGHT SPORTS">FIGHT SPORTS</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="641||ch641_160_115" xmltv_id="Now Sports 641">Now Sports 641</channel>
+    <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="642||ch642_160_115" xmltv_id="NBA TV">NBA TV</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="643||ch643_160_115" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="644||ch644_160_115" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
     <channel site="[ENC][EX]nowplayer.now.com[en]_0" site_id="645||ch645_160_115" xmltv_id="beIN SPORTS 5">beIN SPORTS 5</channel>
