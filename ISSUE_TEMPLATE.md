@@ -2,17 +2,17 @@
 
 Please choose your issue type
 
-- [ ] Request
-- [ ] Bug
-- [ ] Question
+* [ ] Request
+* [ ] Bug
+* [ ] Question
 
 ## OS Details (Not required for Request)
 
 Please choose your OS
 
-- [ ] Windows
-- [ ] Unix
-- [ ] Docker
+* [ ] Windows
+* [ ] Unix
+* [ ] Docker
 
 Please write your version details (Below not required for Docker)
 
@@ -24,7 +24,7 @@ Please write your web server name(Apache/Nginx etc.) or tick shared host if you 
 
 * Web Server Name: ...
 
-- [ ] Shared Host
+* [ ] Shared Host
 
 ## Expected Behavior (Not required for Request)
 
