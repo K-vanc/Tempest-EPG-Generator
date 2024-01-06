@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]beinsports.com[ID]_0">
+  <channels>
+    <channel site="[ENC]beinsports.com[ID]_0" site_id="8" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="[ENC]beinsports.com[ID]_0" site_id="1" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="[ENC]beinsports.com[ID]_0" site_id="26" xmltv_id="beIN Sports 2">beIN Sports 2</channel>
+    <channel site="[ENC]beinsports.com[ID]_0" site_id="7" xmltv_id="beIN Sports 3">beIN Sports 3</channel>
+	<channel site="[ENC]beinsports.com[ID]_0" site_id="50" xmltv_id="MUTV">MUTV</channel>
+  </channels>
+</site>
