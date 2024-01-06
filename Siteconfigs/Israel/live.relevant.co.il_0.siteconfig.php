@@ -18,7 +18,7 @@ return array (
   'origin_header1' => 'https://live.relevant.co.il',
   'urldate_format1' => 'Y-m-d',
   'stopdate_format1' => 'Y-m-d',
-  'show' => '({\\s*"externalIds":.*?"properties")',
+  'show' => '({"externalIds":.*?,"live":.*?"childRelations":)',
   'start' => '"startTime":\\s*"(.*?)Z"',
   'start_format' => 'Y-m-d\\TH#i#s',
   'stop' => '"endTime":\\s*"(.*?)Z"',
