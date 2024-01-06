@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvireland.ie_0">
+  <channels>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1856/rte-one-hd" xmltv_id="[Saorsat] RTE One HD">[Saorsat] RTE One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1648/rte2-hd" xmltv_id="[Saorsat] RTE2 HD">[Saorsat] RTE2 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1650/rte-news" xmltv_id="[Saorsat] RTE News">[Saorsat] RTE News</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|83/tg4" xmltv_id="[Saorsat] TG4">[Saorsat] TG4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1649/rte-jr" xmltv_id="[Saorsat] RTE Jr">[Saorsat] RTE Jr</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|2425/cula4" xmltv_id="[Saorsat] Cula4">[Saorsat] Cula4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1947/oireachtas-tv" xmltv_id="[Saorsat] Oireachtas TV">[Saorsat] Oireachtas TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|1647/rte-one-1" xmltv_id="[Saorsat] RTE One +1">[Saorsat] RTE One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|2235/rte2-1" xmltv_id="[Saorsat] RTE2 +1">[Saorsat] RTE2 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-9000019|##|2433/tg4-1" xmltv_id="[Saorsat] TG4 +1">[Saorsat] TG4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1856/rte-one-hd" xmltv_id="[Saorview] RTE One HD">[Saorview] RTE One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1648/rte2-hd" xmltv_id="[Saorview] RTE2 HD">[Saorview] RTE2 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|84/virgin-media-one" xmltv_id="[Saorview] Virgin Media One">[Saorview] Virgin Media One</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1773/tg4-hd" xmltv_id="[Saorview] TG4 HD">[Saorview] TG4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1209/virgin-media-two" xmltv_id="[Saorview] Virgin Media Two">[Saorview] Virgin Media Two</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1929/virgin-media-three" xmltv_id="[Saorview] Virgin Media Three">[Saorview] Virgin Media Three</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|2388/virgin-media-four" xmltv_id="[Saorview] Virgin Media Four">[Saorview] Virgin Media Four</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|170/challenge" xmltv_id="[Saorview] Challenge">[Saorview] Challenge</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1647/rte-one-1" xmltv_id="[Saorview] RTE One +1">[Saorview] RTE One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|2235/rte2-1" xmltv_id="[Saorview] RTE2 +1">[Saorview] RTE2 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|2433/tg4-1" xmltv_id="[Saorview] TG4 +1">[Saorview] TG4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1649/rte-jr" xmltv_id="[Saorview] RTE Jr">[Saorview] RTE Jr</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|2425/cula4" xmltv_id="[Saorview] Cula4">[Saorview] Cula4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1650/rte-news" xmltv_id="[Saorview] RTE News">[Saorview] RTE News</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|1947/oireachtas-tv" xmltv_id="[Saorview] Oireachtas TV">[Saorview] Oireachtas TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-8000019|##|114/sky-news" xmltv_id="[Saorview] Sky News">[Saorview] Sky News</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1856/rte-one-hd" xmltv_id="[Sky HD] RTE One HD">[Sky HD] RTE One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1648/rte2-hd" xmltv_id="[Sky HD] RTE2 HD">[Sky HD] RTE2 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1976/virgin-media-one-hd" xmltv_id="[Sky HD] Virgin Media One HD">[Sky HD] Virgin Media One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1773/tg4-hd" xmltv_id="[Sky HD] TG4 HD">[Sky HD] TG4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2079/virgin-media-two-hd" xmltv_id="[Sky HD] Virgin Media Two HD">[Sky HD] Virgin Media Two HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1355/sky-showcase-hd" xmltv_id="[Sky HD] Sky Showcase HD">[Sky HD] Sky Showcase HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1495/sky-witness-hd" xmltv_id="[Sky HD] Sky Witness HD">[Sky HD] Sky Witness HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1629/sky-atlantic-hd" xmltv_id="[Sky HD] Sky Atlantic HD">[Sky HD] Sky Atlantic HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1739/alibi-hd" xmltv_id="[Sky HD] Alibi HD">[Sky HD] Alibi HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|134/gold" xmltv_id="[Sky HD] GOLD">[Sky HD] GOLD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1659/dave-hd" xmltv_id="[Sky HD] Dave HD">[Sky HD] Dave HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|185/comedy-central" xmltv_id="[Sky HD] Comedy Central">[Sky HD] Comedy Central</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2353/sky-max-hd" xmltv_id="[Sky HD] Sky Max HD">[Sky HD] Sky Max HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1929/virgin-media-three" xmltv_id="[Sky HD] Virgin Media Three">[Sky HD] Virgin Media Three</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2316/sky-documentaries-hd" xmltv_id="[Sky HD] Sky Documentaries HD">[Sky HD] Sky Documentaries HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2294/sky-crime-hd" xmltv_id="[Sky HD] Sky Crime HD">[Sky HD] Sky Crime HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1354/sky-history-hd" xmltv_id="[Sky HD] Sky History HD">[Sky HD] Sky History HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2314/sky-nature-hd" xmltv_id="[Sky HD] Sky Nature HD">[Sky HD] Sky Nature HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|169/discovery-channel" xmltv_id="[Sky HD] Discovery Channel">[Sky HD] Discovery Channel</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1986/mtv-ireland" xmltv_id="[Sky HD] MTV Ireland">[Sky HD] MTV Ireland</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|974/comedy-central-extra" xmltv_id="[Sky HD] Comedy Central Extra">[Sky HD] Comedy Central Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1232/national-geographic-channel-hd" xmltv_id="[Sky HD] National Geographic Channel HD">[Sky HD] National Geographic Channel HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1356/sky-arts-hd" xmltv_id="[Sky HD] Sky Arts HD">[Sky HD] Sky Arts HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1930/itvbe-hd" xmltv_id="[Sky HD] ITVBe HD">[Sky HD] ITVBe HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1658/w-hd" xmltv_id="[Sky HD] W HD">[Sky HD] W HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1794/tlc-hd" xmltv_id="[Sky HD] TLC HD">[Sky HD] TLC HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1404/channel-4-hd" xmltv_id="[Sky HD] Channel 4 HD">[Sky HD] Channel 4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1534/e4-hd" xmltv_id="[Sky HD] E4 HD">[Sky HD] E4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|605/e4" xmltv_id="[Sky HD] E4">[Sky HD] E4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1167/more4" xmltv_id="[Sky HD] More4">[Sky HD] More4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|914/e4-extra" xmltv_id="[Sky HD] E4 Extra">[Sky HD] E4 Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1469/sky-sci-fi-hd" xmltv_id="[Sky HD] Sky Sci-Fi HD">[Sky HD] Sky Sci-Fi HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1523/food-network" xmltv_id="[Sky HD] Food Network">[Sky HD] Food Network</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1770/bbc-one-northern-ireland-hd" xmltv_id="[Sky HD] BBC One Northern Ireland HD">[Sky HD] BBC One Northern Ireland HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2156/bbc-two-northern-ireland-hd" xmltv_id="[Sky HD] BBC Two Northern Ireland HD">[Sky HD] BBC Two Northern Ireland HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1851/bbc-four-hd" xmltv_id="[Sky HD] BBC Four HD">[Sky HD] BBC Four HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2142/quest-hd" xmltv_id="[Sky HD] Quest HD">[Sky HD] Quest HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|170/challenge" xmltv_id="[Sky HD] Challenge">[Sky HD] Challenge</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1512/true-crime" xmltv_id="[Sky HD] True Crime">[Sky HD] True Crime</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1518/true-crime-xtra" xmltv_id="[Sky HD] True Crime Xtra">[Sky HD] True Crime Xtra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1520/legend" xmltv_id="[Sky HD] Legend">[Sky HD] Legend</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2060/quest-red" xmltv_id="[Sky HD] Quest Red">[Sky HD] Quest Red</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2330/sky-mix-hd" xmltv_id="[Sky HD] Sky Mix HD">[Sky HD] Sky Mix HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|919/sky-replay" xmltv_id="[Sky HD] Sky Replay">[Sky HD] Sky Replay</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1460/investigation-discovery" xmltv_id="[Sky HD] Investigation Discovery">[Sky HD] Investigation Discovery</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1084/really" xmltv_id="[Sky HD] Really">[Sky HD] Really</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1480/crime-investigation-hd" xmltv_id="[Sky HD] Crime + Investigation HD">[Sky HD] Crime + Investigation HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1548/great-tv" xmltv_id="[Sky HD] GREAT! tv">[Sky HD] GREAT! tv</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1798/drama" xmltv_id="[Sky HD] Drama">[Sky HD] Drama</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2419/virgin-media-four-hd" xmltv_id="[Sky HD] Virgin Media Four HD">[Sky HD] Virgin Media Four HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|908/yesterday" xmltv_id="[Sky HD] Yesterday">[Sky HD] Yesterday</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|89/hgtv" xmltv_id="[Sky HD] HGTV">[Sky HD] HGTV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2041/blaze" xmltv_id="[Sky HD] Blaze">[Sky HD] Blaze</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1482/national-geographic-wild-hd" xmltv_id="[Sky HD] National Geographic WILD HD">[Sky HD] National Geographic WILD HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|993/eden" xmltv_id="[Sky HD] Eden">[Sky HD] Eden</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|129/discovery-science" xmltv_id="[Sky HD] Discovery Science">[Sky HD] Discovery Science</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2042/sky-history-2-hd" xmltv_id="[Sky HD] Sky History 2 HD">[Sky HD] Sky History 2 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1852/bbc-three-hd" xmltv_id="[Sky HD] BBC Three HD">[Sky HD] BBC Three HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1288/together-tv" xmltv_id="[Sky HD] Together TV">[Sky HD] Together TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2351/thats-tv" xmltv_id="[Sky HD] That's TV">[Sky HD] That's TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1405/dmax" xmltv_id="[Sky HD] DMAX">[Sky HD] DMAX</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1660/pbs-america" xmltv_id="[Sky HD] PBS America">[Sky HD] PBS America</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1606/discovery-history" xmltv_id="[Sky HD] Discovery History">[Sky HD] Discovery History</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|168/animal-planet" xmltv_id="[Sky HD] Animal Planet">[Sky HD] Animal Planet</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2385/earthx-tv" xmltv_id="[Sky HD] Earthx TV">[Sky HD] Earthx TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2140/travelxp" xmltv_id="[Sky HD] Travelxp">[Sky HD] Travelxp</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|153/discovery-turbo" xmltv_id="[Sky HD] Discovery Turbo">[Sky HD] Discovery Turbo</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1990/ayozat-tv" xmltv_id="[Sky HD] Ayozat TV">[Sky HD] Ayozat TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1647/rte-one-1" xmltv_id="[Sky HD] RTE One +1">[Sky HD] RTE One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2235/rte2-1" xmltv_id="[Sky HD] RTE2 +1">[Sky HD] RTE2 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1937/virgin-media-one-1" xmltv_id="[Sky HD] Virgin Media One +1">[Sky HD] Virgin Media One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1568/sky-showcase-1" xmltv_id="[Sky HD] Sky Showcase +1">[Sky HD] Sky Showcase +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|987/sky-witness-1" xmltv_id="[Sky HD] Sky Witness +1">[Sky HD] Sky Witness +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1757/sky-atlantic-1" xmltv_id="[Sky HD] Sky Atlantic +1">[Sky HD] Sky Atlantic +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1218/alibi-1" xmltv_id="[Sky HD] Alibi +1">[Sky HD] Alibi +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|899/gold-1" xmltv_id="[Sky HD] GOLD +1">[Sky HD] GOLD +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1079/dave-ja-vu" xmltv_id="[Sky HD] Dave ja vu">[Sky HD] Dave ja vu</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1165/comedy-central-1" xmltv_id="[Sky HD] Comedy Central +1">[Sky HD] Comedy Central +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1470/sky-crime-1" xmltv_id="[Sky HD] Sky Crime +1">[Sky HD] Sky Crime +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|702/sky-history-1" xmltv_id="[Sky HD] Sky History +1">[Sky HD] Sky History +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|706/discovery-channel-1" xmltv_id="[Sky HD] Discovery Channel +1">[Sky HD] Discovery Channel +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|710/national-geographic-channel-1" xmltv_id="[Sky HD] National Geographic Channel +1">[Sky HD] National Geographic Channel +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1451/w-1" xmltv_id="[Sky HD] W +1">[Sky HD] W +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1790/tlc-1" xmltv_id="[Sky HD] TLC +1">[Sky HD] TLC +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1379/channel-4-1" xmltv_id="[Sky HD] Channel 4 +1">[Sky HD] Channel 4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1055/e4-1" xmltv_id="[Sky HD] E4 +1">[Sky HD] E4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1168/more4-1" xmltv_id="[Sky HD] More4 +1">[Sky HD] More4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1524/food-network-1" xmltv_id="[Sky HD] Food Network +1">[Sky HD] Food Network +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1521/quest-1" xmltv_id="[Sky HD] Quest +1">[Sky HD] Quest +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1517/true-crime-1" xmltv_id="[Sky HD] True Crime +1">[Sky HD] True Crime +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|2061/quest-red-1" xmltv_id="[Sky HD] Quest Red +1">[Sky HD] Quest Red +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1795/investigation-discovery-1" xmltv_id="[Sky HD] Investigation Discovery +1">[Sky HD] Investigation Discovery +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1491/crime-investigation-1" xmltv_id="[Sky HD] Crime + Investigation +1">[Sky HD] Crime + Investigation +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1785/great-tv-1" xmltv_id="[Sky HD] GREAT! tv +1">[Sky HD] GREAT! tv +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1068/yesterday-1" xmltv_id="[Sky HD] Yesterday +1">[Sky HD] Yesterday +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|756/hgtv-1" xmltv_id="[Sky HD] HGTV +1">[Sky HD] HGTV +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1003/eden-1" xmltv_id="[Sky HD] Eden +1">[Sky HD] Eden +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1538/dmax-1" xmltv_id="[Sky HD] DMAX +1">[Sky HD] DMAX +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-1000019|##|1617/discovery-history-1" xmltv_id="[Sky HD] Discovery History +1">[Sky HD] Discovery History +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|81/rte-one" xmltv_id="[Sky SD] RTE One">[Sky SD] RTE One</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|82/rte2" xmltv_id="[Sky SD] RTE2">[Sky SD] RTE2</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|84/virgin-media-one" xmltv_id="[Sky SD] Virgin Media One">[Sky SD] Virgin Media One</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|83/tg4" xmltv_id="[Sky SD] TG4">[Sky SD] TG4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1209/virgin-media-two" xmltv_id="[Sky SD] Virgin Media Two">[Sky SD] Virgin Media Two</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|222/sky-showcase" xmltv_id="[Sky SD] Sky Showcase">[Sky SD] Sky Showcase</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|122/sky-witness" xmltv_id="[Sky SD] Sky Witness">[Sky SD] Sky Witness</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1628/sky-atlantic" xmltv_id="[Sky SD] Sky Atlantic">[Sky SD] Sky Atlantic</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|154/alibi" xmltv_id="[Sky SD] Alibi">[Sky SD] Alibi</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|134/gold" xmltv_id="[Sky SD] GOLD">[Sky SD] GOLD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|74/dave" xmltv_id="[Sky SD] Dave">[Sky SD] Dave</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|185/comedy-central" xmltv_id="[Sky SD] Comedy Central">[Sky SD] Comedy Central</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2352/sky-max" xmltv_id="[Sky SD] Sky Max">[Sky SD] Sky Max</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1929/virgin-media-three" xmltv_id="[Sky SD] Virgin Media Three">[Sky SD] Virgin Media Three</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2315/sky-documentaries" xmltv_id="[Sky SD] Sky Documentaries">[Sky SD] Sky Documentaries</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1070/sky-crime" xmltv_id="[Sky SD] Sky Crime">[Sky SD] Sky Crime</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|171/sky-history" xmltv_id="[Sky SD] Sky History">[Sky SD] Sky History</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2313/sky-nature" xmltv_id="[Sky SD] Sky Nature">[Sky SD] Sky Nature</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|169/discovery-channel" xmltv_id="[Sky SD] Discovery Channel">[Sky SD] Discovery Channel</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1672/mtv-hd" xmltv_id="[Sky SD] MTV HD">[Sky SD] MTV HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|974/comedy-central-extra" xmltv_id="[Sky SD] Comedy Central Extra">[Sky SD] Comedy Central Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|177/national-geographic-channel" xmltv_id="[Sky SD] National Geographic Channel">[Sky SD] National Geographic Channel</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|602/sky-arts" xmltv_id="[Sky SD] Sky Arts">[Sky SD] Sky Arts</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1900/itvbe" xmltv_id="[Sky SD] ITVBe">[Sky SD] ITVBe</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1441/w" xmltv_id="[Sky SD] W">[Sky SD] W</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1789/tlc" xmltv_id="[Sky SD] TLC">[Sky SD] TLC</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|53/channel-4" xmltv_id="[Sky SD] Channel 4">[Sky SD] Channel 4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|605/e4" xmltv_id="[Sky SD] E4">[Sky SD] E4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1167/more4" xmltv_id="[Sky SD] More4">[Sky SD] More4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|914/e4-extra" xmltv_id="[Sky SD] E4 Extra">[Sky SD] E4 Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|161/sky-sci-fi" xmltv_id="[Sky SD] Sky Sci-Fi">[Sky SD] Sky Sci-Fi</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1523/food-network" xmltv_id="[Sky SD] Food Network">[Sky SD] Food Network</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|4/bbc-one" xmltv_id="[Sky SD] BBC One">[Sky SD] BBC One</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|52/bbc-two-england" xmltv_id="[Sky SD] BBC Two England">[Sky SD] BBC Two England</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|742/bbc-four" xmltv_id="[Sky SD] BBC Four">[Sky SD] BBC Four</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1483/quest" xmltv_id="[Sky SD] Quest">[Sky SD] Quest</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|170/challenge" xmltv_id="[Sky SD] Challenge">[Sky SD] Challenge</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1512/true-crime" xmltv_id="[Sky SD] True Crime">[Sky SD] True Crime</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1518/true-crime-xtra" xmltv_id="[Sky SD] True Crime Xtra">[Sky SD] True Crime Xtra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1520/legend" xmltv_id="[Sky SD] Legend">[Sky SD] Legend</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2060/quest-red" xmltv_id="[Sky SD] Quest Red">[Sky SD] Quest Red</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1172/sky-mix" xmltv_id="[Sky SD] Sky Mix">[Sky SD] Sky Mix</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|919/sky-replay" xmltv_id="[Sky SD] Sky Replay">[Sky SD] Sky Replay</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1460/investigation-discovery" xmltv_id="[Sky SD] Investigation Discovery">[Sky SD] Investigation Discovery</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1084/really" xmltv_id="[Sky SD] Really">[Sky SD] Really</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1308/crime-investigation" xmltv_id="[Sky SD] Crime + Investigation">[Sky SD] Crime + Investigation</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1548/great-tv" xmltv_id="[Sky SD] GREAT! tv">[Sky SD] GREAT! tv</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1798/drama" xmltv_id="[Sky SD] Drama">[Sky SD] Drama</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2388/virgin-media-four" xmltv_id="[Sky SD] Virgin Media Four">[Sky SD] Virgin Media Four</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|908/yesterday" xmltv_id="[Sky SD] Yesterday">[Sky SD] Yesterday</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|89/hgtv" xmltv_id="[Sky SD] HGTV">[Sky SD] HGTV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2041/blaze" xmltv_id="[Sky SD] Blaze">[Sky SD] Blaze</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1307/national-geographic-wild" xmltv_id="[Sky SD] National Geographic WILD">[Sky SD] National Geographic WILD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|993/eden" xmltv_id="[Sky SD] Eden">[Sky SD] Eden</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|129/discovery-science" xmltv_id="[Sky SD] Discovery Science">[Sky SD] Discovery Science</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1435/sky-history-2" xmltv_id="[Sky SD] Sky History 2">[Sky SD] Sky History 2</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|935/bbc-three" xmltv_id="[Sky SD] BBC Three">[Sky SD] BBC Three</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1288/together-tv" xmltv_id="[Sky SD] Together TV">[Sky SD] Together TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2351/thats-tv" xmltv_id="[Sky SD] That's TV">[Sky SD] That's TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1405/dmax" xmltv_id="[Sky SD] DMAX">[Sky SD] DMAX</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1660/pbs-america" xmltv_id="[Sky SD] PBS America">[Sky SD] PBS America</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1606/discovery-history" xmltv_id="[Sky SD] Discovery History">[Sky SD] Discovery History</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1669/animal-planet-hd" xmltv_id="[Sky SD] Animal Planet HD">[Sky SD] Animal Planet HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2385/earthx-tv" xmltv_id="[Sky SD] Earthx TV">[Sky SD] Earthx TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2140/travelxp" xmltv_id="[Sky SD] Travelxp">[Sky SD] Travelxp</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|153/discovery-turbo" xmltv_id="[Sky SD] Discovery Turbo">[Sky SD] Discovery Turbo</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1990/ayozat-tv" xmltv_id="[Sky SD] Ayozat TV">[Sky SD] Ayozat TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1647/rte-one-1" xmltv_id="[Sky SD] RTE One +1">[Sky SD] RTE One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2235/rte2-1" xmltv_id="[Sky SD] RTE2 +1">[Sky SD] RTE2 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1937/virgin-media-one-1" xmltv_id="[Sky SD] Virgin Media One +1">[Sky SD] Virgin Media One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1568/sky-showcase-1" xmltv_id="[Sky SD] Sky Showcase +1">[Sky SD] Sky Showcase +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|987/sky-witness-1" xmltv_id="[Sky SD] Sky Witness +1">[Sky SD] Sky Witness +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1757/sky-atlantic-1" xmltv_id="[Sky SD] Sky Atlantic +1">[Sky SD] Sky Atlantic +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1218/alibi-1" xmltv_id="[Sky SD] Alibi +1">[Sky SD] Alibi +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|899/gold-1" xmltv_id="[Sky SD] GOLD +1">[Sky SD] GOLD +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1079/dave-ja-vu" xmltv_id="[Sky SD] Dave ja vu">[Sky SD] Dave ja vu</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1165/comedy-central-1" xmltv_id="[Sky SD] Comedy Central +1">[Sky SD] Comedy Central +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1470/sky-crime-1" xmltv_id="[Sky SD] Sky Crime +1">[Sky SD] Sky Crime +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|702/sky-history-1" xmltv_id="[Sky SD] Sky History +1">[Sky SD] Sky History +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|706/discovery-channel-1" xmltv_id="[Sky SD] Discovery Channel +1">[Sky SD] Discovery Channel +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|710/national-geographic-channel-1" xmltv_id="[Sky SD] National Geographic Channel +1">[Sky SD] National Geographic Channel +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1451/w-1" xmltv_id="[Sky SD] W +1">[Sky SD] W +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1790/tlc-1" xmltv_id="[Sky SD] TLC +1">[Sky SD] TLC +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1379/channel-4-1" xmltv_id="[Sky SD] Channel 4 +1">[Sky SD] Channel 4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1055/e4-1" xmltv_id="[Sky SD] E4 +1">[Sky SD] E4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1168/more4-1" xmltv_id="[Sky SD] More4 +1">[Sky SD] More4 +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1524/food-network-1" xmltv_id="[Sky SD] Food Network +1">[Sky SD] Food Network +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1521/quest-1" xmltv_id="[Sky SD] Quest +1">[Sky SD] Quest +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1517/true-crime-1" xmltv_id="[Sky SD] True Crime +1">[Sky SD] True Crime +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|2061/quest-red-1" xmltv_id="[Sky SD] Quest Red +1">[Sky SD] Quest Red +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1795/investigation-discovery-1" xmltv_id="[Sky SD] Investigation Discovery +1">[Sky SD] Investigation Discovery +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1491/crime-investigation-1" xmltv_id="[Sky SD] Crime + Investigation +1">[Sky SD] Crime + Investigation +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1785/great-tv-1" xmltv_id="[Sky SD] GREAT! tv +1">[Sky SD] GREAT! tv +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1068/yesterday-1" xmltv_id="[Sky SD] Yesterday +1">[Sky SD] Yesterday +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|756/hgtv-1" xmltv_id="[Sky SD] HGTV +1">[Sky SD] HGTV +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1003/eden-1" xmltv_id="[Sky SD] Eden +1">[Sky SD] Eden +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1538/dmax-1" xmltv_id="[Sky SD] DMAX +1">[Sky SD] DMAX +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|1617/discovery-history-1" xmltv_id="[Sky SD] Discovery History +1">[Sky SD] Discovery History +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-2000019|##|700/animal-planet-1" xmltv_id="[Sky SD] Animal Planet +1">[Sky SD] Animal Planet +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2378/virgin-media-more" xmltv_id="[Virgin Media Ireland] Virgin Media More">[Virgin Media Ireland] Virgin Media More</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1856/rte-one-hd" xmltv_id="[Virgin Media Ireland] RTE One HD">[Virgin Media Ireland] RTE One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1648/rte2-hd" xmltv_id="[Virgin Media Ireland] RTE2 HD">[Virgin Media Ireland] RTE2 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1976/virgin-media-one-hd" xmltv_id="[Virgin Media Ireland] Virgin Media One HD">[Virgin Media Ireland] Virgin Media One HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1773/tg4-hd" xmltv_id="[Virgin Media Ireland] TG4 HD">[Virgin Media Ireland] TG4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2079/virgin-media-two-hd" xmltv_id="[Virgin Media Ireland] Virgin Media Two HD">[Virgin Media Ireland] Virgin Media Two HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1932/virgin-media-three-hd" xmltv_id="[Virgin Media Ireland] Virgin Media Three HD">[Virgin Media Ireland] Virgin Media Three HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1647/rte-one-1" xmltv_id="[Virgin Media Ireland] RTE One +1">[Virgin Media Ireland] RTE One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1770/bbc-one-northern-ireland-hd" xmltv_id="[Virgin Media Ireland] BBC One Northern Ireland HD">[Virgin Media Ireland] BBC One Northern Ireland HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2156/bbc-two-northern-ireland-hd" xmltv_id="[Virgin Media Ireland] BBC Two Northern Ireland HD">[Virgin Media Ireland] BBC Two Northern Ireland HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2388/virgin-media-four" xmltv_id="[Virgin Media Ireland] Virgin Media Four">[Virgin Media Ireland] Virgin Media Four</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1404/channel-4-hd" xmltv_id="[Virgin Media Ireland] Channel 4 HD">[Virgin Media Ireland] Channel 4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|605/e4" xmltv_id="[Virgin Media Ireland] E4">[Virgin Media Ireland] E4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1167/more4" xmltv_id="[Virgin Media Ireland] More4">[Virgin Media Ireland] More4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1355/sky-showcase-hd" xmltv_id="[Virgin Media Ireland] Sky Showcase HD">[Virgin Media Ireland] Sky Showcase HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1495/sky-witness-hd" xmltv_id="[Virgin Media Ireland] Sky Witness HD">[Virgin Media Ireland] Sky Witness HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1937/virgin-media-one-1" xmltv_id="[Virgin Media Ireland] Virgin Media One +1">[Virgin Media Ireland] Virgin Media One +1</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2353/sky-max-hd" xmltv_id="[Virgin Media Ireland] Sky Max HD">[Virgin Media Ireland] Sky Max HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2306/sky-comedy-hd" xmltv_id="[Virgin Media Ireland] Sky Comedy HD">[Virgin Media Ireland] Sky Comedy HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2294/sky-crime-hd" xmltv_id="[Virgin Media Ireland] Sky Crime HD">[Virgin Media Ireland] Sky Crime HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1356/sky-arts-hd" xmltv_id="[Virgin Media Ireland] Sky Arts HD">[Virgin Media Ireland] Sky Arts HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2314/sky-nature-hd" xmltv_id="[Virgin Media Ireland] Sky Nature HD">[Virgin Media Ireland] Sky Nature HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2316/sky-documentaries-hd" xmltv_id="[Virgin Media Ireland] Sky Documentaries HD">[Virgin Media Ireland] Sky Documentaries HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|919/sky-replay" xmltv_id="[Virgin Media Ireland] Sky Replay">[Virgin Media Ireland] Sky Replay</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1586/comedy-central-hd" xmltv_id="[Virgin Media Ireland] Comedy Central HD">[Virgin Media Ireland] Comedy Central HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1469/sky-sci-fi-hd" xmltv_id="[Virgin Media Ireland] Sky Sci-Fi HD">[Virgin Media Ireland] Sky Sci-Fi HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|914/e4-extra" xmltv_id="[Virgin Media Ireland] E4 Extra">[Virgin Media Ireland] E4 Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|742/bbc-four" xmltv_id="[Virgin Media Ireland] BBC Four">[Virgin Media Ireland] BBC Four</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|134/gold" xmltv_id="[Virgin Media Ireland] GOLD">[Virgin Media Ireland] GOLD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1789/tlc" xmltv_id="[Virgin Media Ireland] TLC">[Virgin Media Ireland] TLC</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|74/dave" xmltv_id="[Virgin Media Ireland] Dave">[Virgin Media Ireland] Dave</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1512/true-crime" xmltv_id="[Virgin Media Ireland] True Crime">[Virgin Media Ireland] True Crime</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1065/itv3" xmltv_id="[Virgin Media Ireland] ITV3">[Virgin Media Ireland] ITV3</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1174/itv4" xmltv_id="[Virgin Media Ireland] ITV4">[Virgin Media Ireland] ITV4</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1172/sky-mix" xmltv_id="[Virgin Media Ireland] Sky Mix">[Virgin Media Ireland] Sky Mix</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|974/comedy-central-extra" xmltv_id="[Virgin Media Ireland] Comedy Central Extra">[Virgin Media Ireland] Comedy Central Extra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1518/true-crime-xtra" xmltv_id="[Virgin Media Ireland] True Crime Xtra">[Virgin Media Ireland] True Crime Xtra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1520/legend" xmltv_id="[Virgin Media Ireland] Legend">[Virgin Media Ireland] Legend</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1031/legend-xtra" xmltv_id="[Virgin Media Ireland] Legend Xtra">[Virgin Media Ireland] Legend Xtra</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1483/quest" xmltv_id="[Virgin Media Ireland] Quest">[Virgin Media Ireland] Quest</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|153/discovery-turbo" xmltv_id="[Virgin Media Ireland] Discovery Turbo">[Virgin Media Ireland] Discovery Turbo</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|170/challenge" xmltv_id="[Virgin Media Ireland] Challenge">[Virgin Media Ireland] Challenge</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2060/quest-red" xmltv_id="[Virgin Media Ireland] Quest Red">[Virgin Media Ireland] Quest Red</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1798/drama" xmltv_id="[Virgin Media Ireland] Drama">[Virgin Media Ireland] Drama</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1084/really" xmltv_id="[Virgin Media Ireland] Really">[Virgin Media Ireland] Really</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|154/alibi" xmltv_id="[Virgin Media Ireland] Alibi">[Virgin Media Ireland] Alibi</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|682/fashion-tv" xmltv_id="[Virgin Media Ireland] Fashion TV">[Virgin Media Ireland] Fashion TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1460/investigation-discovery" xmltv_id="[Virgin Media Ireland] Investigation Discovery">[Virgin Media Ireland] Investigation Discovery</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|216/qvc" xmltv_id="[Virgin Media Ireland] QVC">[Virgin Media Ireland] QVC</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1523/food-network" xmltv_id="[Virgin Media Ireland] Food Network">[Virgin Media Ireland] Food Network</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1650/rte-news" xmltv_id="[Virgin Media Ireland] RTE News">[Virgin Media Ireland] RTE News</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|85/bbc-news" xmltv_id="[Virgin Media Ireland] BBC News">[Virgin Media Ireland] BBC News</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1564/sky-news-hd" xmltv_id="[Virgin Media Ireland] Sky News HD">[Virgin Media Ireland] Sky News HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1867/euronews" xmltv_id="[Virgin Media Ireland] Euronews">[Virgin Media Ireland] Euronews</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|192/cnbc-europe" xmltv_id="[Virgin Media Ireland] CNBC Europe">[Virgin Media Ireland] CNBC Europe</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2012/cnn-hd" xmltv_id="[Virgin Media Ireland] CNN HD">[Virgin Media Ireland] CNN HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|138/bbc-news-global" xmltv_id="[Virgin Media Ireland] BBC News (Global)">[Virgin Media Ireland] BBC News (Global)</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1947/oireachtas-tv" xmltv_id="[Virgin Media Ireland] Oireachtas TV">[Virgin Media Ireland] Oireachtas TV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1233/discovery-channel-hd" xmltv_id="[Virgin Media Ireland] Discovery Channel HD">[Virgin Media Ireland] Discovery Channel HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|89/hgtv" xmltv_id="[Virgin Media Ireland] HGTV">[Virgin Media Ireland] HGTV</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|129/discovery-science" xmltv_id="[Virgin Media Ireland] Discovery Science">[Virgin Media Ireland] Discovery Science</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1606/discovery-history" xmltv_id="[Virgin Media Ireland] Discovery History">[Virgin Media Ireland] Discovery History</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|168/animal-planet" xmltv_id="[Virgin Media Ireland] Animal Planet">[Virgin Media Ireland] Animal Planet</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1405/dmax" xmltv_id="[Virgin Media Ireland] DMAX">[Virgin Media Ireland] DMAX</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1232/national-geographic-channel-hd" xmltv_id="[Virgin Media Ireland] National Geographic Channel HD">[Virgin Media Ireland] National Geographic Channel HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1482/national-geographic-wild-hd" xmltv_id="[Virgin Media Ireland] National Geographic WILD HD">[Virgin Media Ireland] National Geographic WILD HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1354/sky-history-hd" xmltv_id="[Virgin Media Ireland] Sky History HD">[Virgin Media Ireland] Sky History HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1435/sky-history-2" xmltv_id="[Virgin Media Ireland] Sky History 2">[Virgin Media Ireland] Sky History 2</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1480/crime-investigation-hd" xmltv_id="[Virgin Media Ireland] Crime + Investigation HD">[Virgin Media Ireland] Crime + Investigation HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|92/bloomberg" xmltv_id="[Virgin Media Ireland] Bloomberg">[Virgin Media Ireland] Bloomberg</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1417/sky-cinema-premiere-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Premiere HD">[Virgin Media Ireland] Sky Cinema Premiere HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1514/sky-cinema-wizarding-world-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Wizarding World HD">[Virgin Media Ireland] Sky Cinema Wizarding World HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1536/sky-cinema-hits-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Hits HD">[Virgin Media Ireland] Sky Cinema Hits HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1446/sky-cinema-greats-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Greats HD">[Virgin Media Ireland] Sky Cinema Greats HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1448/sky-cinema-family-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Family HD">[Virgin Media Ireland] Sky Cinema Family HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1447/sky-cinema-sci-fihorror-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Sci-fi/Horror HD">[Virgin Media Ireland] Sky Cinema Sci-fi/Horror HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1449/sky-cinema-ultimate-comedy-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Ultimate Comedy HD">[Virgin Media Ireland] Sky Cinema Ultimate Comedy HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1537/sky-cinema-thriller-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Thriller HD">[Virgin Media Ireland] Sky Cinema Thriller HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1445/sky-cinema-drama-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Drama HD">[Virgin Media Ireland] Sky Cinema Drama HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1444/sky-cinema-action-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Action HD">[Virgin Media Ireland] Sky Cinema Action HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2327/sky-cinema-animation-hd" xmltv_id="[Virgin Media Ireland] Sky Cinema Animation HD">[Virgin Media Ireland] Sky Cinema Animation HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1581/film4-hd" xmltv_id="[Virgin Media Ireland] Film4 HD">[Virgin Media Ireland] Film4 HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2326/sky-cinema-animation" xmltv_id="[Virgin Media Ireland] Sky Cinema Animation">[Virgin Media Ireland] Sky Cinema Animation</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1320/sky-cinema-premiere" xmltv_id="[Virgin Media Ireland] Sky Cinema Premiere">[Virgin Media Ireland] Sky Cinema Premiere</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1327/sky-cinema-wizarding-world" xmltv_id="[Virgin Media Ireland] Sky Cinema Wizarding World">[Virgin Media Ireland] Sky Cinema Wizarding World</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1318/sky-cinema-hits" xmltv_id="[Virgin Media Ireland] Sky Cinema Hits">[Virgin Media Ireland] Sky Cinema Hits</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1326/sky-cinema-greats" xmltv_id="[Virgin Media Ireland] Sky Cinema Greats">[Virgin Media Ireland] Sky Cinema Greats</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1323/sky-cinema-family" xmltv_id="[Virgin Media Ireland] Sky Cinema Family">[Virgin Media Ireland] Sky Cinema Family</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1329/sky-cinema-sci-fihorror" xmltv_id="[Virgin Media Ireland] Sky Cinema Sci-fi/Horror">[Virgin Media Ireland] Sky Cinema Sci-fi/Horror</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1322/sky-cinema-ultimate-comedy" xmltv_id="[Virgin Media Ireland] Sky Cinema Ultimate Comedy">[Virgin Media Ireland] Sky Cinema Ultimate Comedy</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1319/sky-cinema-thriller" xmltv_id="[Virgin Media Ireland] Sky Cinema Thriller">[Virgin Media Ireland] Sky Cinema Thriller</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1324/sky-cinema-drama" xmltv_id="[Virgin Media Ireland] Sky Cinema Drama">[Virgin Media Ireland] Sky Cinema Drama</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1328/sky-cinema-action" xmltv_id="[Virgin Media Ireland] Sky Cinema Action">[Virgin Media Ireland] Sky Cinema Action</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1229/sky-sports-main-event-hd" xmltv_id="[Virgin Media Ireland] Sky Sports Main Event HD">[Virgin Media Ireland] Sky Sports Main Event HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2021/sky-sports-premier-league-roi-hd" xmltv_id="[Virgin Media Ireland] Sky Sports Premier League ROI HD">[Virgin Media Ireland] Sky Sports Premier League ROI HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|2087/sky-sports-football-hd" xmltv_id="[Virgin Media Ireland] Sky Sports Football HD">[Virgin Media Ireland] Sky Sports Football HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1285/sky-sports-cricket-hd" xmltv_id="[Virgin Media Ireland] Sky Sports Cricket HD">[Virgin Media Ireland] Sky Sports Cricket HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1567/sky-sports-golf-hd" xmltv_id="[Virgin Media Ireland] Sky Sports Golf HD">[Virgin Media Ireland] Sky Sports Golf HD</channel>
+    <channel site="[ENC][EX]tvireland.ie_0" site_id="-7000019|##|1414/sky-sports-nfl-hd" xmltv_id="[Virgin Media Ireland] Sky Sports NFL HD">[Virgin Media Ireland] Sky Sports NFL HD</channel>
+  </channels>
+</site>
