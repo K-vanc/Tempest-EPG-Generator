@@ -34,6 +34,8 @@ return array (
   'videoaspect' => '"mediasetprogram\\$sourceAspectRatio":"(.*?)","||#replace#(_)||x',
   'videoquality' => '"mediasetprogram\\$sourceVideoFormat":"(SD|HD)",',
   'premiere' => '"mediasetlisting\\$epgTitle":".*?\\s-\\s(PrimaTv)","||#replace#(PrimaTv)||true',
+  'pshown' => '"airingType":"(repeat)"',
+  'new' => '"airingType":"(new)"',
   'ccurl1' => 'https://feed.entertainment.tv.theplatform.eu/f/PR1GhC/mediaset-prod-all-stations-v2?sort=shortTitle|asc&form=cjson&httpError=true',
   'ccrequestOption1' => '1',
   'ccaccept_header1' => 'application/json, text/plain, */*',

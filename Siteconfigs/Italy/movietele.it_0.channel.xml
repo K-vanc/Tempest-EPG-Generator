@@ -24,6 +24,7 @@
     <channel site="movietele.it_0" site_id="raiyoyo" xmltv_id="Rai YoYo">Rai YoYo</channel>
     <channel site="movietele.it_0" site_id="raistoria" xmltv_id="Rai Storia">Rai Storia</channel>
     <channel site="movietele.it_0" site_id="raiscuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel site="movietele.it_0" site_id="raisport1" xmltv_id="Rai Sport">Rai Sport</channel>
     <channel site="movietele.it_0" site_id="rainews24" xmltv_id="RaiNews24">RaiNews24</channel>
     <channel site="movietele.it_0" site_id="sky-uno" xmltv_id="Sky Uno">Sky Uno</channel>
     <channel site="movietele.it_0" site_id="sky-atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
@@ -31,7 +32,6 @@
     <channel site="movietele.it_0" site_id="sky-investigation" xmltv_id="Sky Investigation">Sky Investigation</channel>
     <channel site="movietele.it_0" site_id="sky-documentaries" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
     <channel site="movietele.it_0" site_id="sky-nature" xmltv_id="Sky Nature">Sky Nature</channel>
-    <channel site="movietele.it_0" site_id="blaze" xmltv_id="Blaze">Blaze</channel>
     <channel site="movietele.it_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
     <channel site="movietele.it_0" site_id="mtv-music" xmltv_id="MTV Music">MTV Music</channel>
     <channel site="movietele.it_0" site_id="sky-cinema1" xmltv_id="Sky Cinema Uno">Sky Cinema Uno</channel>
@@ -57,7 +57,6 @@
     <channel site="movietele.it_0" site_id="sky-sport-action" xmltv_id="Sky Sport Action">Sky Sport Action</channel>
     <channel site="movietele.it_0" site_id="sky-sport-f1" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
     <channel site="movietele.it_0" site_id="sky-sport-motogp" xmltv_id="Sky Sport MotoGP">Sky Sport MotoGP</channel>
-    <channel site="movietele.it_0" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
     <channel site="movietele.it_0" site_id="boing" xmltv_id="Boing">Boing</channel>
     <channel site="movietele.it_0" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
     <channel site="movietele.it_0" site_id="caciapesca-tv" xmltv_id="Caccia e Pesca">Caccia e Pesca</channel>
@@ -65,7 +64,6 @@
     <channel site="movietele.it_0" site_id="cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="movietele.it_0" site_id="sky-crime-investigation" xmltv_id="CI Crime+Investigation">CI Crime+Investigation</channel>
     <channel site="movietele.it_0" site_id="cielo" xmltv_id="Cielo">Cielo</channel>
-    <channel site="movietele.it_0" site_id="classica" xmltv_id="Classica">Classica</channel>
     <channel site="movietele.it_0" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel site="movietele.it_0" site_id="dea-junior" xmltv_id="DeA Junior">DeA Junior</channel>
     <channel site="movietele.it_0" site_id="deakids" xmltv_id="DeAKids">DeAKids</channel>
@@ -83,10 +81,7 @@
     <channel site="movietele.it_0" site_id="k2" xmltv_id="K2">K2</channel>
     <channel site="movietele.it_0" site_id="la7d" xmltv_id="La7D">La7D</channel>
     <channel site="movietele.it_0" site_id="lazio-tv" xmltv_id="Lazio Style Channel">Lazio Style Channel</channel>
-    <channel site="movietele.it_0" site_id="milan-tv" xmltv_id="Milan TV">Milan TV</channel>
     <channel site="movietele.it_0" site_id="motor-trend" xmltv_id="Motor Trend">Motor Trend</channel>
-    <channel site="movietele.it_0" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel site="movietele.it_0" site_id="national-geographic" xmltv_id="National Geo">National Geo</channel>
     <channel site="movietele.it_0" site_id="nick-junior" xmltv_id="Nick Junior">Nick Junior</channel>
     <channel site="movietele.it_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="movietele.it_0" site_id="nove" xmltv_id="Nove">Nove</channel>
@@ -98,5 +93,6 @@
     <channel site="movietele.it_0" site_id="supertennis" xmltv_id="SuperTennis">SuperTennis</channel>
     <channel site="movietele.it_0" site_id="tv2000" xmltv_id="TV2000">TV2000</channel>
     <channel site="movietele.it_0" site_id="tv8" xmltv_id="TV8">TV8</channel>
+    <channel site="movietele.it_0" site_id="zona-dazn" xmltv_id="Zona DAZN">Zona DAZN</channel>
   </channels>
 </site>
