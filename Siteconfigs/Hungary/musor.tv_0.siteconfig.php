@@ -8,7 +8,7 @@ return array (
   'rev_no' => 'R0',
   'timezone' => 'UTC',
   'culture' => 'hu',
-  'max_day' => '28.1',
+  'max_day' => '28',
   'episodeOption' => '1',
   'url1' => 'https://musor.tv/napi/tvmusor/##channel##/##urldate1##',
   'requestOption1' => '1',
