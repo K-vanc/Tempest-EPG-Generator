@@ -29,7 +29,7 @@ return array (
   'cccontent_type1' => 'text/html;charset=UTF-8',
   'ccchannel_block' => '<div class="logo_area swiper-slide(?:\\son)?">.*?<\\/div>',
   'ccchannel_id' => 'channelView\\((\\d+)',
-  'ccchannel_name' => 'alt="(.*?)"||#addend# [HK]',
+  'ccchannel_name' => 'alt="(.*?)"||#addend# [ID]',
   'ccchannel_logo' => '\\/file_(.*?)\\.',
 );
 ?>
