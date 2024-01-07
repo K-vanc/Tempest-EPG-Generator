@@ -13,8 +13,8 @@
     <channel site="[ENC]bangumi.org_0" site_id="td?ggm_group_id=42&amp;|##| 3 tvk1||10" xmltv_id="3 tvk1">3 tvk1</channel>
     <channel site="[ENC]bangumi.org_0" site_id="td?ggm_group_id=42&amp;|##| 3 チバテレ1||11" xmltv_id="3 チバテレ1">3 チバテレ1</channel>
     <channel site="[ENC]bangumi.org_0" site_id="td?ggm_group_id=42&amp;|##| 3 テレ玉1||12" xmltv_id="3 テレ玉1">3 テレ玉1</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 1 NHKBS1||1" xmltv_id="1 NHKBS1">1 NHKBS1</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 3 NHKBSプ..||2" xmltv_id="3 NHKBSプ..">3 NHKBSプ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 1 ＮＨＫ　ＢＳ||1" xmltv_id="1 ＮＨＫ　ＢＳ">1 ＮＨＫ　ＢＳ</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 3 ＮＨＫ||2" xmltv_id="3 ＮＨＫ">3 ＮＨＫ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 4 BS日テレ||3" xmltv_id="4 BS日テレ">4 BS日テレ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 5 BS朝日1||4" xmltv_id="5 BS朝日1">5 BS朝日1</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 6 BS-TBS||5" xmltv_id="6 BS-TBS">6 BS-TBS</channel>
@@ -28,23 +28,22 @@
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| スターチャンネル3||13" xmltv_id="スターチャンネル3">スターチャンネル3</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 11 BS11イ..||14" xmltv_id="11 BS11イ..">11 BS11イ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 12 BS12ト..||15" xmltv_id="12 BS12ト..">12 BS12ト..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 放送大学ｅｘ||16" xmltv_id="放送大学ｅｘ">放送大学ｅｘ</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 放送大学ｏｎ||17" xmltv_id="放送大学ｏｎ">放送大学ｏｎ</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 放送大学テレビ||16" xmltv_id="放送大学テレビ">放送大学テレビ</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 放送大学テレビ||17" xmltv_id="放送大学テレビ">放送大学テレビ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| グリーンチャンネル||18" xmltv_id="グリーンチャンネル">グリーンチャンネル</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs?|##| BSアニマックス||19" xmltv_id="BSアニマックス">BSアニマックス</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| BSスカパー!||20" xmltv_id="BSスカパー!">BSスカパー!</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 1||21" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 2||22" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 3||23" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 4||24" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| BS釣りビジョン||25" xmltv_id="BS釣りビジョン">BS釣りビジョン</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| WOWOWプラス||26" xmltv_id="WOWOWプラス">WOWOWプラス</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 日本映画専門ch||27" xmltv_id="日本映画専門ch">日本映画専門ch</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ディズニーch||28" xmltv_id="ディズニーch">ディズニーch</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳ松竹東急||29" xmltv_id="ＢＳ松竹東急">ＢＳ松竹東急</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳＪａｐａｎｅｘｔ||30" xmltv_id="ＢＳＪａｐａｎｅｘｔ">ＢＳＪａｐａｎｅｘｔ</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳよしもと||31" xmltv_id="ＢＳよしもと">ＢＳよしもと</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="bs4k?|##| ＮＨＫ　ＢＳ４Ｋ||1" xmltv_id="ＮＨＫ　ＢＳ４Ｋ">ＮＨＫ　ＢＳ４Ｋ</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 1||20" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 2||21" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 3||22" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| J SPORTS 4||23" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| BS釣りビジョン||24" xmltv_id="BS釣りビジョン">BS釣りビジョン</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| WOWOWプラス||25" xmltv_id="WOWOWプラス">WOWOWプラス</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| 日本映画専門ch||26" xmltv_id="日本映画専門ch">日本映画専門ch</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ディズニーch||27" xmltv_id="ディズニーch">ディズニーch</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳ松竹東急||28" xmltv_id="ＢＳ松竹東急">ＢＳ松竹東急</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳＪａｐａｎｅｘｔ||29" xmltv_id="ＢＳＪａｐａｎｅｘｔ">ＢＳＪａｐａｎｅｘｔ</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs?|##| ＢＳよしもと||30" xmltv_id="ＢＳよしもと">ＢＳよしもと</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="bs4k?|##| ＮＨＫ　ＢＳＰ４Ｋ||1" xmltv_id="ＮＨＫ　ＢＳＰ４Ｋ">ＮＨＫ　ＢＳＰ４Ｋ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs4k?|##| ＮＨＫ　ＢＳ８Ｋ||2" xmltv_id="ＮＨＫ　ＢＳ８Ｋ">ＮＨＫ　ＢＳ８Ｋ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs4k?|##| ＢＳ日テレ　４Ｋ||3" xmltv_id="ＢＳ日テレ　４Ｋ">ＢＳ日テレ　４Ｋ</channel>
     <channel site="[ENC]bangumi.org_0" site_id="bs4k?|##| ＢＳ朝日　４Ｋ||4" xmltv_id="ＢＳ朝日　４Ｋ">ＢＳ朝日　４Ｋ</channel>
@@ -80,10 +79,10 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 308 フジテレ..||24" xmltv_id="308 フジテレ..">308 フジテレ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 309 フジテレ..||25" xmltv_id="309 フジテレ..">309 フジテレ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 310 スーパー..||26" xmltv_id="310 スーパー..">310 スーパー..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 311 AXN ..||27" xmltv_id="311 AXN ..">311 AXN ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 311 アクショ..||27" xmltv_id="311 アクショ..">311 アクショ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 312 FOX||28" xmltv_id="312 FOX">312 FOX</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 314 女性チャ..||29" xmltv_id="314 女性チャ..">314 女性チャ..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 316 AXNミ..||30" xmltv_id="316 AXNミ..">316 AXNミ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 314 LaLaTV||29" xmltv_id="314 LaLaTV">314 LaLaTV</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 316 ミステリ..||30" xmltv_id="316 ミステリ..">316 ミステリ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 317 KBS ..||31" xmltv_id="317 KBS ..">317 KBS ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 318 Mnet||32" xmltv_id="318 Mnet">318 Mnet</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 321 100%..||33" xmltv_id="321 100%..">321 100%..</channel>
@@ -93,7 +92,7 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 325 MUSI..||37" xmltv_id="325 MUSI..">325 MUSI..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 329 歌謡ポッ..||38" xmltv_id="329 歌謡ポッ..">329 歌謡ポッ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 330 キッズス..||39" xmltv_id="330 キッズス..">330 キッズス..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 331 海外アニ..||40" xmltv_id="331 海外アニ..">331 海外アニ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 331 カートゥ..||40" xmltv_id="331 カートゥ..">331 カートゥ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 333 アニメシ..||41" xmltv_id="333 アニメシ..">333 アニメシ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 339 ディズニ..||42" xmltv_id="339 ディズニ..">339 ディズニ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 340 ディスカ..||43" xmltv_id="340 ディスカ..">340 ディスカ..</channel>
@@ -102,7 +101,7 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 343 ナショナ..||46" xmltv_id="343 ナショナ..">343 ナショナ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 349 日テレN..||47" xmltv_id="349 日テレN..">349 日テレN..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 351 TBS　..||48" xmltv_id="351 TBS　..">351 TBS　..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 353 BBCワ..||49" xmltv_id="353 BBCワ..">353 BBCワ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 353 BBCニ..||49" xmltv_id="353 BBCニ..">353 BBCニ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 354 CNNj||50" xmltv_id="354 CNNj">354 CNNj</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 363 囲碁･将..||51" xmltv_id="363 囲碁･将..">363 囲碁･将..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?|##| 55 ショップチ..||52" xmltv_id="55 ショップチ..">55 ショップチ..</channel>
@@ -125,7 +124,7 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=202&amp;|##| 325 MUSI..||5" xmltv_id="325 MUSI..">325 MUSI..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=202&amp;|##| 329 歌謡ポッ..||6" xmltv_id="329 歌謡ポッ..">329 歌謡ポッ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=203&amp;|##| 330 キッズス..||1" xmltv_id="330 キッズス..">330 キッズス..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=203&amp;|##| 331 海外アニ..||2" xmltv_id="331 海外アニ..">331 海外アニ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=203&amp;|##| 331 カートゥ..||2" xmltv_id="331 カートゥ..">331 カートゥ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=203&amp;|##| 333 アニメシ..||3" xmltv_id="333 アニメシ..">333 アニメシ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=204&amp;|##| 296 TBSチ..||1" xmltv_id="296 TBSチ..">296 TBSチ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=204&amp;|##| 297 TBSチ..||2" xmltv_id="297 TBSチ..">297 TBSチ..</channel>
@@ -138,10 +137,10 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=204&amp;|##| 308 フジテレ..||9" xmltv_id="308 フジテレ..">308 フジテレ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=204&amp;|##| 309 フジテレ..||10" xmltv_id="309 フジテレ..">309 フジテレ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 310 スーパー..||1" xmltv_id="310 スーパー..">310 スーパー..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 311 AXN ..||2" xmltv_id="311 AXN ..">311 AXN ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 311 アクショ..||2" xmltv_id="311 アクショ..">311 アクショ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 312 FOX||3" xmltv_id="312 FOX">312 FOX</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 314 女性チャ..||4" xmltv_id="314 女性チャ..">314 女性チャ..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 316 AXNミ..||5" xmltv_id="316 AXNミ..">316 AXNミ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 314 LaLaTV||4" xmltv_id="314 LaLaTV">314 LaLaTV</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 316 ミステリ..||5" xmltv_id="316 ミステリ..">316 ミステリ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 317 KBS ..||6" xmltv_id="317 KBS ..">317 KBS ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=205&amp;|##| 318 Mnet||7" xmltv_id="318 Mnet">318 Mnet</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=206&amp;|##| 290 TAKA..||1" xmltv_id="290 TAKA..">290 TAKA..</channel>
@@ -155,7 +154,7 @@
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=207&amp;|##| 343 ナショナ..||4" xmltv_id="343 ナショナ..">343 ナショナ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=208&amp;|##| 349 日テレN..||1" xmltv_id="349 日テレN..">349 日テレN..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=208&amp;|##| 351 TBS　..||2" xmltv_id="351 TBS　..">351 TBS　..</channel>
-    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=208&amp;|##| 353 BBCワ..||3" xmltv_id="353 BBCワ..">353 BBCワ..</channel>
+    <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=208&amp;|##| 353 BBCニ..||3" xmltv_id="353 BBCニ..">353 BBCニ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=208&amp;|##| 354 CNNj||4" xmltv_id="354 CNNj">354 CNNj</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=210&amp;|##| 339 ディズニ..||1" xmltv_id="339 ディズニ..">339 ディズニ..</channel>
     <channel site="[ENC]bangumi.org_0" site_id="cs?ggm_group_id=210&amp;|##| 363 囲碁･将..||2" xmltv_id="363 囲碁･将..">363 囲碁･将..</channel>
