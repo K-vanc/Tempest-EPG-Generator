@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]maxtvgo.mk_0">
   <channels>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="105" xmltv_id="МТВ 1">МТВ 1</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="105" xmltv_id="МРТ 1 HD">МРТ 1 HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="13" xmltv_id="Сител">Сител</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="22" xmltv_id="КАНАЛ 5 HD">КАНАЛ 5 HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="28" xmltv_id="Алфа">Алфа</channel>
@@ -17,9 +17,10 @@
     <channel site="[ENC]maxtvgo.mk_0" site_id="80" xmltv_id="TV SHENJA">TV SHENJA</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="73" xmltv_id="Собраниски канал">Собраниски канал</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="76" xmltv_id="TV EDO">TV EDO</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="94" xmltv_id="ТВ ИРИС">ТВ ИРИС</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="37" xmltv_id="KOHA">KOHA</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="92" xmltv_id="ТЕРА">ТЕРА</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3511559" xmltv_id="NOVA S">NOVA S</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3188319" xmltv_id="N1">N1</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="127" xmltv_id="ALJAZEERA">ALJAZEERA</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="610332" xmltv_id="National Geographic">National Geographic</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3839243" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
@@ -30,10 +31,16 @@
     <channel site="[ENC]maxtvgo.mk_0" site_id="3190231" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3839289" xmltv_id="TLC HD">TLC HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="610333" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4111463" xmltv_id="LUXE TV HD">LUXE TV HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4506848" xmltv_id="BALKAN TRIP HD">BALKAN TRIP HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3519406" xmltv_id="RTV 21">RTV 21</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3197879" xmltv_id="МРТ 5">МРТ 5</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3659494" xmltv_id="VAVOOM">VAVOOM</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="48" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="43" xmltv_id="MiniMax">MiniMax</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3193098" xmltv_id="Pikaboo">Pikaboo</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4337855" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4337877" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3301185" xmltv_id="МРТ 3">МРТ 3</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="27" xmltv_id="ARENA SPORT 1 HD">ARENA SPORT 1 HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="79" xmltv_id="ARENA SPORT 2 HD">ARENA SPORT 2 HD</channel>
@@ -44,23 +51,57 @@
     <channel site="[ENC]maxtvgo.mk_0" site_id="3652489" xmltv_id="ARENA 2 PREMIUM HD">ARENA 2 PREMIUM HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3652529" xmltv_id="ARENA 3 PREMIUM HD">ARENA 3 PREMIUM HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3671498" xmltv_id="ARENA FIGHT">ARENA FIGHT</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="3828995" xmltv_id="EUROSPORT HD">EUROSPORT HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4509510" xmltv_id="ARENA ESPORT HD">ARENA ESPORT HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3828997" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3828995" xmltv_id="EUROSPORT HD">EUROSPORT HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984395" xmltv_id="SK GOLF HD">SK GOLF HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3511565" xmltv_id="SK ESPORTS">SK ESPORTS</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984290" xmltv_id="SK FIGHT">SK FIGHT</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3191448" xmltv_id="SK HD">SK HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3192578" xmltv_id="LOV I RIBOLOV">LOV I RIBOLOV</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3999187" xmltv_id="NOVA SPORT HD">NOVA SPORT HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3191951" xmltv_id="SPORT KLUB 1">SPORT KLUB 1</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3191947" xmltv_id="SPORT KLUB 2">SPORT KLUB 2</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3188753" xmltv_id="ARENA SPORT 3 HD">ARENA SPORT 3 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3193095" xmltv_id="SPORT KLUB 4">SPORT KLUB 4</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3193071" xmltv_id="SPORT KLUB 5">SPORT KLUB 5</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984336" xmltv_id="SK 7 HD">SK 7 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984352" xmltv_id="SK 8 HD">SK 8 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984379" xmltv_id="SK 9 HD">SK 9 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3984380" xmltv_id="SK 10 HD">SK 10 HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3511566" xmltv_id="IDJ">IDJ</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3186681" xmltv_id="BALKAN MUSIC">BALKAN MUSIC</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="33" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="104" xmltv_id="MTV 80’s">MTV 80’s</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="24" xmltv_id="Balkanika">Balkanika</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="46" xmltv_id="HAYAT FOLK">HAYAT FOLK</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="19" xmltv_id="DM sat">DM sat</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="610327" xmltv_id="Fox Life">Fox Life</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="610324" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="46" xmltv_id="HAYAT FOLK">HAYAT FOLK</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4509512" xmltv_id="TOXIC TV HD">TOXIC TV HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4509553" xmltv_id="TOXIC FOLK HD">TOXIC FOLK HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4509556" xmltv_id="TOXIC RAP HD">TOXIC RAP HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638558" xmltv_id="MUZZIK">MUZZIK</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638560" xmltv_id="MOBA">MOBA</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638591" xmltv_id="POP STAR">POP STAR</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638593" xmltv_id="ZZ TV">ZZ TV</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638595" xmltv_id="RR">RR</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638598" xmltv_id="WWM">WWM</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638616" xmltv_id="FLASH BACK">FLASH BACK</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4638617" xmltv_id="JEKA">JEKA</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="610327" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="610324" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="96" xmltv_id="TV 1000 HD">TV 1000 HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="84" xmltv_id="M1">M1</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="131" xmltv_id="M1 GOLD">M1 GOLD</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="610328" xmltv_id="Fox Movies">Fox Movies</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="610330" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="126" xmltv_id="FANTASY M">FANTASY M</channel>
-    <channel site="[ENC]maxtvgo.mk_0" site_id="124" xmltv_id="ACTION M">ACTION M</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="610328" xmltv_id="STAR MOVIES">STAR MOVIES</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="610330" xmltv_id="STAR CRIME">STAR CRIME</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="3191949" xmltv_id="CINEMANIA">CINEMANIA</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4516783" xmltv_id="ACTION M">ACTION M</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4111440" xmltv_id="PICKBOX TV HD">PICKBOX TV HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4509558" xmltv_id="BBC FIRST HD">BBC FIRST HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4554665" xmltv_id="M1 FAMILY HD">M1 FAMILY HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4554667" xmltv_id="SUPER M HD">SUPER M HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4455266" xmltv_id="SUPERSTAR HD">SUPERSTAR HD</channel>
+    <channel site="[ENC]maxtvgo.mk_0" site_id="4455278" xmltv_id="SUPERSTAR 2 HD">SUPERSTAR 2 HD</channel>
     <channel site="[ENC]maxtvgo.mk_0" site_id="3780913" xmltv_id="ARENA SPORT 1 HD">ARENA SPORT 1 HD</channel>
   </channels>
 </site>
