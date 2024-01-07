@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]bite.lt_0">
   <channels>
-    <channel site="[ENC]bite.lt_0" site_id="99" xmltv_id="LRT Televizija">LRT Televizija</channel>
+    <channel site="[ENC]bite.lt_0" site_id="99" xmltv_id="LRT televizija">LRT televizija</channel>
     <channel site="[ENC]bite.lt_0" site_id="109" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
-    <channel site="[ENC]bite.lt_0" site_id="101" xmltv_id="LRT PLIUS">LRT PLIUS</channel>
-    <channel site="[ENC]bite.lt_0" site_id="93" xmltv_id="TV3">TV3</channel>
-    <channel site="[ENC]bite.lt_0" site_id="95" xmltv_id="TV6">TV6</channel>
-    <channel site="[ENC]bite.lt_0" site_id="141" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC]bite.lt_0" site_id="101" xmltv_id="LRT Plius">LRT Plius</channel>
+    <channel site="[ENC]bite.lt_0" site_id="93" xmltv_id="TV3 Lietuva (broadcaster version)">TV3 Lietuva (broadcaster version)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="95" xmltv_id="TV6 Lietuva (broadcaster version)">TV6 Lietuva (broadcaster version)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="141" xmltv_id="TV8 Lietuva (broadcaster version)">TV8 Lietuva (broadcaster version)</channel>
     <channel site="[ENC]bite.lt_0" site_id="89" xmltv_id="LNK">LNK</channel>
     <channel site="[ENC]bite.lt_0" site_id="107" xmltv_id="Lietuvos rytas TV">Lietuvos rytas TV</channel>
     <channel site="[ENC]bite.lt_0" site_id="97" xmltv_id="BTV">BTV</channel>
@@ -14,54 +14,43 @@
     <channel site="[ENC]bite.lt_0" site_id="111" xmltv_id="Info TV">Info TV</channel>
     <channel site="[ENC]bite.lt_0" site_id="115" xmltv_id="Sport 1">Sport 1</channel>
     <channel site="[ENC]bite.lt_0" site_id="219" xmltv_id="Go3 Films">Go3 Films</channel>
-    <channel site="[ENC]bite.lt_0" site_id="87" xmltv_id="Epic Drama (CEE)">Epic Drama (CEE)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="87" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel site="[ENC]bite.lt_0" site_id="191" xmltv_id="Fox Life EST">Fox Life EST</channel>
     <channel site="[ENC]bite.lt_0" site_id="207" xmltv_id="Duo 3">Duo 3</channel>
     <channel site="[ENC]bite.lt_0" site_id="159" xmltv_id="Duo 6">Duo 6</channel>
-    <channel site="[ENC]bite.lt_0" site_id="193" xmltv_id="Go3 Sport 1">Go3 Sport 1</channel>
-    <channel site="[ENC]bite.lt_0" site_id="237" xmltv_id="Go3 Sport 2">Go3 Sport 2</channel>
-    <channel site="[ENC]bite.lt_0" site_id="161" xmltv_id="Go3 Sport 3">Go3 Sport 3</channel>
-    <channel site="[ENC]bite.lt_0" site_id="135" xmltv_id="Go3 Sport Open">Go3 Sport Open</channel>
+    <channel site="[ENC]bite.lt_0" site_id="193" xmltv_id="Go3 Sport 1 (broadcaster version)">Go3 Sport 1 (broadcaster version)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="237" xmltv_id="Go3 Sport 2 (broadcaster version)">Go3 Sport 2 (broadcaster version)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="161" xmltv_id="Go3 Sport 3 (broadcaster version)">Go3 Sport 3 (broadcaster version)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="135" xmltv_id="Go3 Sport Open (broadcaster version)">Go3 Sport Open (broadcaster version)</channel>
     <channel site="[ENC]bite.lt_0" site_id="257" xmltv_id="Animal Planet EU">Animal Planet EU</channel>
-    <channel site="[ENC]bite.lt_0" site_id="293" xmltv_id="Discovery Channel CE">Discovery Channel CE</channel>
+    <channel site="[ENC]bite.lt_0" site_id="293" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel site="[ENC]bite.lt_0" site_id="255" xmltv_id="Discovery ID XTRA">Discovery ID XTRA</channel>
     <channel site="[ENC]bite.lt_0" site_id="273" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel site="[ENC]bite.lt_0" site_id="271" xmltv_id="Eurosport 2 (Bundesliga)">Eurosport 2 (Bundesliga)</channel>
-    <channel site="[ENC]bite.lt_0" site_id="261" xmltv_id="Food Network Russia">Food Network Russia</channel>
     <channel site="[ENC]bite.lt_0" site_id="59" xmltv_id="Fox RRF">Fox RRF</channel>
-    <channel site="[ENC]bite.lt_0" site_id="263" xmltv_id="HGTV">HGTV</channel>
-    <channel site="[ENC]bite.lt_0" site_id="113" xmltv_id="2TV">2TV</channel>
+    <channel site="[ENC]bite.lt_0" site_id="263" xmltv_id="Discovery Home and Garden">Discovery Home and Garden</channel>
+    <channel site="[ENC]bite.lt_0" site_id="113" xmltv_id="2tv">2tv</channel>
     <channel site="[ENC]bite.lt_0" site_id="297" xmltv_id="Nick Jr. Comm Light">Nick Jr. Comm Light</channel>
     <channel site="[ENC]bite.lt_0" site_id="121" xmltv_id="Power Hit Radio">Power Hit Radio</channel>
     <channel site="[ENC]bite.lt_0" site_id="299" xmltv_id="Prime Fight">Prime Fight</channel>
     <channel site="[ENC]bite.lt_0" site_id="199" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
-    <channel site="[ENC]bite.lt_0" site_id="277" xmltv_id="TLC Balkans">TLC Balkans</channel>
-    <channel site="[ENC]bite.lt_0" site_id="259" xmltv_id="Travel Channel (Europe)">Travel Channel (Europe)</channel>
+    <channel site="[ENC]bite.lt_0" site_id="277" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]bite.lt_0" site_id="259" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel site="[ENC]bite.lt_0" site_id="205" xmltv_id="Viasat Kino Action">Viasat Kino Action</channel>
     <channel site="[ENC]bite.lt_0" site_id="171" xmltv_id="Viasat Kino">Viasat Kino</channel>
-    <channel site="[ENC]bite.lt_0" site_id="225" xmltv_id="TV1000 Kino">TV1000 Kino</channel>
     <channel site="[ENC]bite.lt_0" site_id="119" xmltv_id="NBA">NBA</channel>
     <channel site="[ENC]bite.lt_0" site_id="173" xmltv_id="Viasat Explore CEE">Viasat Explore CEE</channel>
     <channel site="[ENC]bite.lt_0" site_id="217" xmltv_id="Viasat History CEE">Viasat History CEE</channel>
-    <channel site="[ENC]bite.lt_0" site_id="201" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
-    <channel site="[ENC]bite.lt_0" site_id="209" xmltv_id="VIASAT Nature CEE">VIASAT Nature CEE</channel>
-    <channel site="[ENC]bite.lt_0" site_id="233" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
+    <channel site="[ENC]bite.lt_0" site_id="209" xmltv_id="Viasat Nature CEE">Viasat Nature CEE</channel>
+    <channel site="[ENC]bite.lt_0" site_id="233" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel site="[ENC]bite.lt_0" site_id="179" xmltv_id="Kidzone Mini Baltic">Kidzone Mini Baltic</channel>
     <channel site="[ENC]bite.lt_0" site_id="183" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC]bite.lt_0" site_id="185" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]bite.lt_0" site_id="185" xmltv_id="Disney Jr.">Disney Jr.</channel>
     <channel site="[ENC]bite.lt_0" site_id="157" xmltv_id="NickToons (Nordics)">NickToons (Nordics)</channel>
-    <channel site="[ENC]bite.lt_0" site_id="37" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC]bite.lt_0" site_id="37" xmltv_id="BBC World News">BBC World News</channel>
     <channel site="[ENC]bite.lt_0" site_id="35" xmltv_id="Euronews">Euronews</channel>
     <channel site="[ENC]bite.lt_0" site_id="27" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel site="[ENC]bite.lt_0" site_id="15" xmltv_id="MyHits">MyHits</channel>
-    <channel site="[ENC]bite.lt_0" site_id="25" xmltv_id="MTV00s (VH1 Europe)">MTV00s (VH1 Europe)</channel>
-    <channel site="[ENC]bite.lt_0" site_id="117" xmltv_id="Ren Lietuva">Ren Lietuva</channel>
-    <channel site="[ENC]bite.lt_0" site_id="51" xmltv_id="PBK">PBK</channel>
-    <channel site="[ENC]bite.lt_0" site_id="45" xmltv_id="НТВ-Мир">НТВ-Мир</channel>
-    <channel site="[ENC]bite.lt_0" site_id="55" xmltv_id="MIR">MIR</channel>
-    <channel site="[ENC]bite.lt_0" site_id="47" xmltv_id="RTVi">RTVi</channel>
-    <channel site="[ENC]bite.lt_0" site_id="295" xmltv_id="TVC">TVC</channel>
-    <channel site="[ENC]bite.lt_0" site_id="57" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
-    <channel site="[ENC]bite.lt_0" site_id="143" xmltv_id="СТС Балтия">СТС Балтия</channel>
+    <channel site="[ENC]bite.lt_0" site_id="25" xmltv_id="MTV 00's">MTV 00's</channel>
   </channels>
 </site>
