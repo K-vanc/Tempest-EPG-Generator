@@ -10,7 +10,7 @@ return array (
   'culture' => 'en',
   'max_day' => '7.1',
   'episodeOption' => '1',
-  'url1' => 'https://epg.optusvideo.tv/api/channels/os11?mergeAttrs=true',
+  'url1' => 'https://epg.optusvideo.tv/api/channels/##channel##?mergeAttrs=true',
   'requestOption1' => '1',
   'accept_header1' => 'application/json, text/plain, */*',
   'host_header1' => 'epg.optusvideo.tv',
