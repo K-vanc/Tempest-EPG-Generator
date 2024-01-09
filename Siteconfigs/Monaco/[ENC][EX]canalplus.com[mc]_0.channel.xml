@@ -60,6 +60,7 @@
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="874||CANAL..UHD..CH." xmltv_id="CANAL+ UHD (CH)">CANAL+ UHD (CH)</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="1074||CANAL.BOX.OFFICE" xmltv_id="CANAL+BOX OFFICE">CANAL+BOX OFFICE</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="1075||CANAL.BOX.OFFICE..CH." xmltv_id="CANAL+BOX OFFICE (CH)">CANAL+BOX OFFICE (CH)</channel>
+    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="1079||CANAL.BOX.OFFICE.UHD" xmltv_id="CANAL+BOX OFFICE UHD">CANAL+BOX OFFICE UHD</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="198||CANAL.CINEMA.S." xmltv_id="CANAL+CINEMA(S)">CANAL+CINEMA(S)</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="899||CANAL.DOCS" xmltv_id="CANAL+DOCS">CANAL+DOCS</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="19||CANAL.FOOT" xmltv_id="CANAL+FOOT">CANAL+FOOT</channel>
@@ -78,6 +79,9 @@
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="83||CANAL.SPORT360" xmltv_id="CANAL+SPORT360">CANAL+SPORT360</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="1048||CANAL.SPORT360" xmltv_id="CANAL+SPORT360">CANAL+SPORT360</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="816||CANAL.TOP14" xmltv_id="CANAL+TOP14">CANAL+TOP14</channel>
+    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="878||CARAC1" xmltv_id="CARAC1">CARAC1</channel>
+    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="880||CARAC2" xmltv_id="CARAC2">CARAC2</channel>
+    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="879||CARAC3" xmltv_id="CARAC3">CARAC3</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="970||CHAINE.:.970" xmltv_id="CHAINE : 970">CHAINE : 970</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="971||CHAINE.:.971" xmltv_id="CHAINE : 971">CHAINE : 971</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="972||CHAINE.:.972" xmltv_id="CHAINE : 972">CHAINE : 972</channel>
@@ -185,7 +189,6 @@
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="553||LCI" xmltv_id="LCI">LCI</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="554||LCP" xmltv_id="LCP">LCP</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="774||LEMAN.BLEU" xmltv_id="LEMAN BLEU">LEMAN BLEU</channel>
-    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="879||LFM.TV" xmltv_id="LFM TV">LFM TV</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="639||LL.EVENT.UHD" xmltv_id="LL EVENT UHD">LL EVENT UHD</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="313||M6" xmltv_id="M6">M6</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="352||M6.MUSIC" xmltv_id="M6 MUSIC">M6 MUSIC</channel>
@@ -223,7 +226,6 @@
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="466||OCS.PULP" xmltv_id="OCS PULP">OCS PULP</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="788||OCS.PULP..CH." xmltv_id="OCS PULP (CH)">OCS PULP (CH)</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="813||OLYMPIA.TV" xmltv_id="OLYMPIA TV">OLYMPIA TV</channel>
-    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="880||ONE.TV" xmltv_id="ONE TV">ONE TV</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="783||ORF.1" xmltv_id="ORF 1">ORF 1</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="487||PARAMOUNT.CHANNEL" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="294||PARIS.PREMIERE" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
@@ -256,7 +258,6 @@
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="759||RMC.SPORT.LIVE.8" xmltv_id="RMC SPORT LIVE 8">RMC SPORT LIVE 8</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="760||RMC.SPORT.LIVE.9" xmltv_id="RMC SPORT LIVE 9">RMC SPORT LIVE 9</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="571||RMC.STORY" xmltv_id="RMC STORY">RMC STORY</channel>
-    <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="878||ROUGE.TV" xmltv_id="ROUGE TV">ROUGE TV</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="776||RSI.1" xmltv_id="RSI 1">RSI 1</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="777||RSI.2" xmltv_id="RSI 2">RSI 2</channel>
     <channel site="[ENC][EX]canalplus.com[mc]_0" site_id="123||RTL" xmltv_id="RTL">RTL</channel>
