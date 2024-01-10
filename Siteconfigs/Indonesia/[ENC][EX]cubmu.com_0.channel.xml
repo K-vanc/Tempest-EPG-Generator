@@ -1,25 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]cubmu.com_0">
   <channels>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182101fd5ab7dc1||f5d6712453624c9d9b72464102b3d03f.png" xmltv_id="Bioskop Indonesia">Bioskop Indonesia</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68581199218018210258a057dc3||0894122fa8184e7aac04937007baa98b.png" xmltv_id="Dunia Anak">Dunia Anak</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102721a57dc4||1bb60d9ace7744e5ba8fc66baa8085f9.png" xmltv_id="Lingua">Lingua</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801821028cdc07dc5||c31ecaf789b54b03807d027a29c0bbfd.png" xmltv_id="!nsert">!nsert</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102a72ad7dc6||da244662c1164508aac4cf59d4a76979.jpg" xmltv_id="Channel Seru!">Channel Seru!</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102b88647dc7||1ffa15f9b5d641018d3b9cf14554d5c3.png" xmltv_id="Dunia Lain">Dunia Lain</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102c97ab7dc8||f82955d3b3b0475f8bb6a276e77cb505.png" xmltv_id="Eat N Go">Eat N Go</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102e22cb7dc9||c8eab0908a314d8cb4d13deb3fdc1a23.png" xmltv_id="Nusantara">Nusantara</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182102eee777dca||59df15ea76514ff78d9144750a323c6f.jpg" xmltv_id="Musik Indonesia">Musik Indonesia</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb800182a0b6f0231775||1919462c4cad49959986fa5b00342932.png" xmltv_id="Al Quran Al Kareem">Al Quran Al Kareem</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb800182a0b59b451773||9a557735a1534567b891652178c9c6e9.jpg" xmltv_id="TV Mu">TV Mu</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801821031402d7dcb||766379ca301b4118a25db302428b643e.png" xmltv_id="Khazanah">Khazanah</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182103262487dcc||6bad704854694aa09d5cbf77b6047787.png" xmltv_id="Trans TV">Trans TV</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182103325867dcd||bb9038c00870439c8ee27ab8b36b2068.png" xmltv_id="Trans 7">Trans 7</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68581199218018210341bb17dce||bf91450ed9d44dfe8a8f662c0ef1767d.png" xmltv_id="CNN Indonesia">CNN Indonesia</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801821034ea197dcf||caec701fe19947a9a1dc7b6c4c46c345.png" xmltv_id="CNBC Indonesia">CNBC Indonesia</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb800182a0b65c6f1774||51b9e3cefd02474ba7a78cb33541940c.png" xmltv_id="TVRI">TVRI</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801821037d65b7dd0||f210fbfe7cfe49679fc1e4e853e8dd6d.png" xmltv_id="Golf+">Golf+</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801821038b83f7dd1||4de7f83e09f7462a8607aa949939db75.jpg" xmltv_id="IDCyclist">IDCyclist</channel>
-    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685811992180182103a2a917dd2||0b726826cd4246a9b5d5b6a8ca8f620c.png" xmltv_id="Historical Sports">Historical Sports</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be43042758d8||36f75de0a5b543da8d17c46db9d44178.jpg" xmltv_id="Trans TV">Trans TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be45631158d9||2165ad80418941528715202210307fb6.jpg" xmltv_id="Trans 7">Trans 7</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4783ff58da||dd0e5afbeb2b4a7e802b4fbacce14991.png" xmltv_id="MetroTV">MetroTV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4997e958db||e02f3053b96f4349ad8402d7b181d273.jpg" xmltv_id="CNN Indonesia">CNN Indonesia</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4b82c758dc||2ab30598ad294ca7b817b9ed1202c11f.jpg" xmltv_id="CNBC Indonesia">CNBC Indonesia</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68585a001440186343e1a562244||509958d1f3ef43f59d1ce189ed9a5296.png" xmltv_id="tvOne">tvOne</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4d55ce58dd||7862982cb44d4e8bbc61a630beca66f6.png" xmltv_id="SCTV">SCTV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4f342858e9||295eb53a7aa04fbca2eeb58a3fab1f2f.png" xmltv_id="Indosiar">Indosiar</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be51092e58f1||9eec8914d4f74ee5a5f4d988c2965902.png" xmltv_id="RCTI">RCTI</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be52f87b58f2||ffb50ac11f9f42758882f58ff62273be.png" xmltv_id="GTV">GTV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68585a0014401863437adf82243||08882f0d830a45f9800649ee6536e6e8.png" xmltv_id="ANTV">ANTV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be55099d58fa||ccf6f558ffa645a28501c0bfc1de4f05.jpg" xmltv_id="Jak tv">Jak tv</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be56c7d858fd||fb8baaa7d0eb4a528ee2653e0531a807.jpg" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be58644c5901||87b349f225fa4b0b839447d943a63b5f.jpg" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685758bcfff01776c4ea3520a72||dfbeb8234b8d4794be107648d83c57ac.png" xmltv_id="NET TV">NET TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5cd0b15903||bb1a5397f68d42899630a14334c359aa.jpg" xmltv_id="rtv">rtv</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5ef52a5904||441b76dc2d004adda2945df43736dd02.png" xmltv_id="MNC TV">MNC TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be6135dc5905||a6a05d485df64ea3839392bb1da7eeeb.png" xmltv_id="TVRI">TVRI</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017ec407d96b7362||9c255af117004d72b8c8b45ebc64aedb.png" xmltv_id="jtv">jtv</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be26e4325724||df2bd1819bb74e2ea38e40ebf9d60e14.png" xmltv_id="Bioskop Indonesia">Bioskop Indonesia</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b64d0742be1||e00b58b6aaa1455c82d8980c3f90c98c.jpg" xmltv_id="Cartoon TV Premium">Cartoon TV Premium</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b65fa882be2||1aa82a2c32ca49698d23ddeec560c48c.jpg" xmltv_id="Cartoon TV">Cartoon TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be1f09275720||cdf3a2185da14403a42ca58f74f261c0.png" xmltv_id="Dunia Anak">Dunia Anak</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846166f4d93e5e||af61929b5f3b419da7e3d407ce601dbb.jpg" xmltv_id="Cartoon TV Classics">Cartoon TV Classics</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be21d3755722||a6cfe63428a24077b08b6cbb960e409a.png" xmltv_id="Lingua">Lingua</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b6764522be3||982842a26aea41cb980ece08814c337b.jpg" xmltv_id="Knowledge+">Knowledge+</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be2463495723||9d3f40f80c0340f58a26da2cf9303cc0.jpg" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be292d655725||38d70128854b459b87ca947e19c982f8.png" xmltv_id="!nsert">!nsert</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be2b660c5727||7f71d84d3d754fd98b8439ab612092b8.jpg" xmltv_id="Channel Seru!">Channel Seru!</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be2db0a25728||1d04ef38955743af9ac051beba87b578.png" xmltv_id="Dunia Lain">Dunia Lain</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857f48ecd2017f5e95744613e2||a1661944195a4892866518881010e2ef.png" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846163f6883d8f||ed8174798a474b7ca4ecd2c44de7e154.jpg" xmltv_id="Gem TV">Gem TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846165390f3e5c||8bdd0be87feb43448c34b95d8c9f2e32.jpg" xmltv_id="Joke">Joke</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846166123a3e5d||d6deb40598b2485793627e62c336070f.jpg" xmltv_id="One TV">One TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060aab83c40b9||1f60c0e2a14d4a26b0316f31aad41cbf.jpg" xmltv_id="Travel TV">Travel TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3daa5c58d6||073cb14d55e54ce58f028f2d74649f02.png" xmltv_id="Eat N Go">Eat N Go</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060ac364140ba||ce2a74e0b12149dd92e67d92281020d0.jpg" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b6a98a62be4||f62c0a99f8974641a4589ad7b757f8f3.jpg" xmltv_id="Cooking TV">Cooking TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846167c11f3e5f||67801f5779f9494e816342466fa1ffb7.jpg" xmltv_id="Fitness TV">Fitness TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060b4163a40be||73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" xmltv_id="SuperYacht TV">SuperYacht TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017ec528dc550e98||f8aa04144963426fb3690cccc2c5b9ca.png" xmltv_id="Musik Indonesia">Musik Indonesia</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3b835358d5||83751a329db441d083a07f7e9dd02271.png" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174bdfa7e13514f||1548202f64854965af774c877aa3b2b4.png" xmltv_id="CNA">CNA</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174bdfe22ee5150||141ea9331d7d4312bca2491c742a3b01.png" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017f310a21613e4e||a809d067e38a464a90a0d89204a8a6d2.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be0c2f975152||d9c5005b9f4a4608a3d647ec7e335581.png" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be13661a571d||ef09e82b1b1d43d896d71a1cbbd6146d.jpg" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be167d8a571e||7de95bc6b2744449ad5bf76bf8a98935.jpg" xmltv_id="Russia Today">Russia Today</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be1c9566571f||5558eb5b72bd49a2a917c3a7e60449eb.png" xmltv_id="Arirang">Arirang</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857f48ecd2017f5e9c23f413e8||71cccc8985684c04808edf417b5ab89e.png" xmltv_id="Wion TV">Wion TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b101750641670b540e||dbdafb9c7d1d4f9695059cd544f6f323.png" xmltv_id="Al Quran Al Kareem">Al Quran Al Kareem</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b1017506651f835414||f0da8399b6474e2287b0c44de8cdca8b.jpg" xmltv_id="tv Mu">tv Mu</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b101750667e76e5415||0c3849b964b943c888c667104596ff7b.jpg" xmltv_id="TV9">TV9</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68588e2da5a01892e47e9d64b5e||8091ca0383df4ad89345991012dbc4d3.jpg" xmltv_id="Nabawi TV">Nabawi TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5a48505902||c86c1884dc50452aae2be2f0fd15d78f.jpg" xmltv_id="DAAI TV">DAAI TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b1017506741c665418||f37dcbd1fbf445e3a9900537f1778f63.jpg" xmltv_id="Pijar TV">Pijar TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3fbd2f58d7||86556e8bfa3d423e97038d36c040e6fd.png" xmltv_id="Khazanah">Khazanah</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017ec40cec31736f||84103f77b60241b5a585d7fe6063af83.png" xmltv_id="Golf+">Golf+</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b703a262be7||8cc7a41bcc724b4ea668a5ca1aecac90.jpg" xmltv_id="Football TV">Football TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060afdef540bc||5e2d673bff2f48cc8b8bf76018911952.jpg" xmltv_id="Sports TV">Sports TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060a4379740b7||85457b08d53449118c75e2f51186ddcb.jpg" xmltv_id="Xtrem Sports">Xtrem Sports</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857f48ecd2017f5e98c9fe13e6||085744e4c6ce47cca7f0bbf362404b90.jpg" xmltv_id="IDCyclist">IDCyclist</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827d54aae33d56||1547079263064bffbcbdb2ced123a2b2.png" xmltv_id="BALAP">BALAP</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060b2307340bd||086909c32b7a426eae75792a891c9d8f.jpg" xmltv_id="Speed TV">Speed TV</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68578b331d80178b98f30f521de||a183b673e94841bd8aba200be9599aac.png" xmltv_id="Historical Sports">Historical Sports</channel>
+    <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060a0c34340b6||b3884938fdda48e49561e7e27024a00c.jpg" xmltv_id="Fight TV Premium">Fight TV Premium</channel>
   </channels>
 </site>
