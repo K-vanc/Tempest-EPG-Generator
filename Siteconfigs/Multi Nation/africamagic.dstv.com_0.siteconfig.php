@@ -27,7 +27,7 @@ return array (
   'season' => '"season":"(?!0)(\\d+)|>|"sub_title":"Season (\\d+)|>|"blurb":"\'S(\\d+)',
   'episode' => '"sub_title":".*?Episode (\\d+)"|>|"blurb":".*?E(\\d+)',
   'episode_total' => '"blurb":".*?E\\d+ of (\\d+)\'',
-  'channel_logo' => '"image":{"normal":"(.*?)"',
+  'channel_logo' => '{"channel":"\\d+","image":{"normal":"(.*?)"',
   'production_date' => '"sub_title":"Rating: (?:\\d+|PG(?:\\d+)?,)?.*?,\\s(\\d{4})","',
   'rating' => '"sub_title":"Rating: (\\d+|PG(?:\\d+)?),',
   'new' => '"is_(new)":true,',
@@ -35,7 +35,7 @@ return array (
   'ccrequestOption1' => '1',
   'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
   'cccontent_type1' => 'text/html; charset=utf-8',
-  'ccchannel_block' => '"channels":\\[.*?(?:{)(.*?)(?:}}).*?\\]',
+  'ccchannel_block' => '"channels":\\s*\\[.*?(?:{)(.*?)(?:"source").*?\\]',
   'ccchannel_id' => '"id":(\\d+)',
   'ccchannel_name' => '"name":"(.*?)","',
 );

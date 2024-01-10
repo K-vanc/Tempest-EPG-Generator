@@ -1,5 +1,825 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]epgshare01.online_0">
   <channels>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mazhavil.Manorama.(MAZHAVIL).us" xmltv_id="Mazhavil Manorama (MAZHAVIL)">Mazhavil Manorama (MAZHAVIL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GMA.Radio.DWLS.(DWLS).us" xmltv_id="GMA Radio DWLS (DWLS)">GMA Radio DWLS (DWLS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Investigation.Discovery.HDTV.(IDHD).us" xmltv_id="Investigation Discovery HDTV (IDHD)">Investigation Discovery HDTV (IDHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dragon.TV.Network.(DRAGN).us" xmltv_id="Dragon TV Network (DRAGN)">Dragon TV Network (DRAGN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cinemax.HDTV.(East).(MAXHD).us" xmltv_id="Cinemax HDTV (East) (MAXHD)">Cinemax HDTV (East) (MAXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TEN.XX.5.(TENXX5).us" xmltv_id="TEN XX.5 (TENXX5)">TEN XX.5 (TENXX5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Multimedios.USA.(MMTV).us" xmltv_id="Multimedios USA (MMTV)">Multimedios USA (MMTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV9.Gujarati.(Sling).(GUJAR).us" xmltv_id="TV9 Gujarati (Sling) (GUJAR)">TV9 Gujarati (Sling) (GUJAR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SONY.AATH.(AATH).us" xmltv_id="SONY AATH (AATH)">SONY AATH (AATH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Arabiya.HDTV.(ARABIYA).us" xmltv_id="Al Arabiya HDTV (ARABIYA)">Al Arabiya HDTV (ARABIYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|XIANMEN.TV.of.China.(XTV).us" xmltv_id="XIANMEN TV of China (XTV)">XIANMEN TV of China (XTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Cricket.HDTV.(WILLHD).us" xmltv_id="Willow Cricket HDTV (WILLHD)">Willow Cricket HDTV (WILLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Ebru.TV.(EBRU).us" xmltv_id="Ebru TV (EBRU)">Ebru TV (EBRU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Playboy.Digital.(PLBY).us" xmltv_id="Playboy Digital (PLBY)">Playboy Digital (PLBY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HUM.News.(HUMNWS).us" xmltv_id="HUM News (HUMNWS)">HUM News (HUMNWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MallTV.(MALLTV).us" xmltv_id="MallTV (MALLTV)">MallTV (MALLTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HITN-TV.(HITN).us" xmltv_id="HITN-TV (HITN)">HITN-TV (HITN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Alpha.Sat.(DISH).(ALPHA).us" xmltv_id="Alpha Sat (DISH) (ALPHA)">Alpha Sat (DISH) (ALPHA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.12.Long.Island.HDTV.(NEWS12).us" xmltv_id="News 12 Long Island HDTV (NEWS12)">News 12 Long Island HDTV (NEWS12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME4).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME4)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME4)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sony.Entertainment.Television.Asia.HDTV.(Hindi.Language).(SONY).us" xmltv_id="Sony Entertainment Television Asia HDTV (Hindi Language) (SONY)">Sony Entertainment Television Asia HDTV (Hindi Language) (SONY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVBS.(TVBS).us" xmltv_id="TVBS (TVBS)">TVBS (TVBS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SALE.Network.(SRN5).(SALE).us" xmltv_id="SALE Network (SRN5) (SALE)">SALE Network (SRN5) (SALE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|5StarMAX.HD.us" xmltv_id="5StarMAX.HD">5StarMAX.HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Recipe.TV.HDTV.(RCPHD).us" xmltv_id="Recipe.TV HDTV (RCPHD)">Recipe.TV HDTV (RCPHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Marathi.(COLMAR).us" xmltv_id="Colors Marathi (COLMAR)">Colors Marathi (COLMAR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME10).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME10)">NHL Center Ice &amp; MLB Extra Innings (GAME10)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Caracol.TV.Internacional.(CRC.INT).us" xmltv_id="Caracol TV Internacional (CRC.INT)">Caracol TV Internacional (CRC.INT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Victory.Channel.HDTV.(VICTORY).us" xmltv_id="Victory Channel HDTV (VICTORY)">Victory Channel HDTV (VICTORY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NTV.Bangla.(SBNTV).us" xmltv_id="NTV Bangla (SBNTV)">NTV Bangla (SBNTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.InBlack.(East).(STZ.B).us" xmltv_id="STARZ InBlack (East) (STZ B)">STARZ InBlack (East) (STZ B)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.12.Bronx.HDTV.(NEWS12).us" xmltv_id="News 12 Bronx HDTV (NEWS12)">News 12 Bronx HDTV (NEWS12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Posi.TV.(POSITIVE.TV).us" xmltv_id="Posi TV (POSITIVE TV)">Posi TV (POSITIVE TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Ride.TV.in.HDTV.(RIDEHD).us" xmltv_id="Ride TV in HDTV (RIDEHD)">Ride TV in HDTV (RIDEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Surya.TV.(SURYA).us" xmltv_id="Surya TV (SURYA)">Surya TV (SURYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|KBYU.Brigham.Young.University.TV.(BYUTV).us" xmltv_id="KBYU Brigham Young University TV (BYUTV)">KBYU Brigham Young University TV (BYUTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Tennis.Channel.HDTV.(TNNSHD).us" xmltv_id="Tennis Channel HDTV (TNNSHD)">Tennis Channel HDTV (TNNSHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NILE.Drama.(NILE).us" xmltv_id="NILE Drama (NILE)">NILE Drama (NILE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVP.Info.(TVPINFO).us" xmltv_id="TVP Info (TVPINFO)">TVP Info (TVPINFO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MOVIEMAX.HDTV.(MMXHD).us" xmltv_id="MOVIEMAX HDTV (MMXHD)">MOVIEMAX HDTV (MMXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Eternal.Word.Television.Network.(EWTN).us" xmltv_id="Eternal Word Television Network (EWTN)">Eternal Word Television Network (EWTN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV-U.(MTV-U).us" xmltv_id="MTV-U (MTV-U)">MTV-U (MTV-U)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Florida.(BSFL).us" xmltv_id="Bally Sports Florida (BSFL)">Bally Sports Florida (BSFL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Vivid.TV.(VIVID).us" xmltv_id="Vivid TV (VIVID)">Vivid TV (VIVID)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Cricket.HDTV.(WILLOWHD).us" xmltv_id="Willow Cricket HDTV (WILLOWHD)">Willow Cricket HDTV (WILLOWHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Premiere.8.(NET).(PREM8NE).us" xmltv_id="Premiere 8 (NET) (PREM8NE)">Premiere 8 (NET) (PREM8NE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV.India.(MTVI).us" xmltv_id="MTV India (MTVI)">MTV India (MTVI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.Hekayat.TV.(HKYAT).us" xmltv_id="ART Hekayat TV (HKYAT)">ART Hekayat TV (HKYAT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV.Live.HDTV.(MTVL).us" xmltv_id="MTV Live HDTV (MTVL)">MTV Live HDTV (MTVL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.11.(TUDNX11).us" xmltv_id="TUDNxtra 11 (TUDNX11)">TUDNxtra 11 (TUDNX11)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVB1.HDTV.(TVB1HD).us" xmltv_id="TVB1 HDTV (TVB1HD)">TVB1 HDTV (TVB1HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME12).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME12)">NHL Center Ice &amp; MLB Extra Innings (GAME12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mid-Atlantic.Sports.Network.HDTV.(MASHD).us" xmltv_id="Mid-Atlantic Sports Network HDTV (MASHD)">Mid-Atlantic Sports Network HDTV (MASHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.HDTV.(East).(SHOHD).us" xmltv_id="Showtime HDTV (East) (SHOHD)">Showtime HDTV (East) (SHOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Revolt.HDTV.(RVLTHD).us" xmltv_id="Revolt HDTV (RVLTHD)">Revolt HDTV (RVLTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Now.Barker.(EAS80037).us" xmltv_id="Now Barker (EAS80037)">Now Barker (EAS80037)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Bay.Area.(Dish).(NBCSBA).us" xmltv_id="NBC Sports Bay Area (Dish) (NBCSBA)">NBC Sports Bay Area (Dish) (NBCSBA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Skylink.(SKYLINK).us" xmltv_id="Skylink (SKYLINK)">Skylink (SKYLINK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.7.(TUDNX7).us" xmltv_id="TUDNxtra 7 (TUDNX7)">TUDNxtra 7 (TUDNX7)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.Movies.(ARTMV).us" xmltv_id="ART Movies (ARTMV)">ART Movies (ARTMV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|DMC.(Sling).(DMC).us" xmltv_id="DMC (Sling) (DMC)">DMC (Sling) (DMC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NatGeo.WILD.HDTV.(NGWILD).us" xmltv_id="NatGeo WILD HDTV (NGWILD)">NatGeo WILD HDTV (NGWILD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GEO.TV.(GEOTV).us" xmltv_id="GEO TV (GEOTV)">GEO TV (GEOTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Action.(East).(STZAC).us" xmltv_id="STARZ ENCORE Action (East) (STZAC)">STARZ ENCORE Action (East) (STZAC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SuperDISH.at.121.(D121).us" xmltv_id="SuperDISH at 121 (D121)">SuperDISH at 121 (D121)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.North.Plus.(BSNOR+).us" xmltv_id="Bally Sports North Plus (BSNOR+)">Bally Sports North Plus (BSNOR+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BEAUT.(BEAUT).us" xmltv_id="BEAUT (BEAUT)">BEAUT (BEAUT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showroom.Channel.DISH.(DPRMO).us" xmltv_id="Showroom Channel DISH (DPRMO)">Showroom Channel DISH (DPRMO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hallmark.Channel.HDTV.(East).(HALLHD).us" xmltv_id="Hallmark Channel HDTV (East) (HALLHD)">Hallmark Channel HDTV (East) (HALLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Yawm.(ALYWM).us" xmltv_id="Al Yawm (ALYWM)">Al Yawm (ALYWM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.China.Channel.(ETCHN).us" xmltv_id="ET China Channel (ETCHN)">ET China Channel (ETCHN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Smithsonian.Channel.HDTV.(East).(SMITHHD).us" xmltv_id="Smithsonian Channel HDTV (East) (SMITHHD)">Smithsonian Channel HDTV (East) (SMITHHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nick.Music.(NICM).us" xmltv_id="Nick Music (NICM)">Nick Music (NICM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Comet.TV.(COMET).us" xmltv_id="Comet TV (COMET)">Comet TV (COMET)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|IndiePlex.HDTV.(INDIEHD).us" xmltv_id="IndiePlex HDTV (INDIEHD)">IndiePlex HDTV (INDIEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hallmark.Drama.HDTV.(HALDRHD).us" xmltv_id="Hallmark Drama HDTV (HALDRHD)">Hallmark Drama HDTV (HALDRHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RetroPlex.HDTV.(RETROHD).us" xmltv_id="RetroPlex HDTV (RETROHD)">RetroPlex HDTV (RETROHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Vme.(Vme).us" xmltv_id="Vme (Vme)">Vme (Vme)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Blaze.TV.(BLAZE).us" xmltv_id="Blaze TV (BLAZE)">Blaze TV (BLAZE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|JUS.Now.(JUSNOW).us" xmltv_id="JUS Now (JUSNOW)">JUS Now (JUSNOW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cartoon.Network.HDTV.(East).(TOONHD).us" xmltv_id="Cartoon Network HDTV (East) (TOONHD)">Cartoon Network HDTV (East) (TOONHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Afrotainment.(AFRTN).us" xmltv_id="Afrotainment (AFRTN)">Afrotainment (AFRTN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|OVATION.Ovation.TV.us" xmltv_id="OVATION Ovation TV">OVATION Ovation TV</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Atreseries.(ATRES).us" xmltv_id="Atreseries (ATRES)">Atreseries (ATRES)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|VALU.(VALU).us" xmltv_id="VALU (VALU)">VALU (VALU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FanDuel.TV.(FANDUEL).us" xmltv_id="FanDuel TV (FANDUEL)">FanDuel TV (FANDUEL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|E!.Entertainment.Television.HDTV.(East).(E!.HD).us" xmltv_id="E! Entertainment Television HDTV (East) (E! HD)">E! Entertainment Television HDTV (East) (E! HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MGM+.HDTV.(East).(MGM+HD).us" xmltv_id="MGM+ HDTV (East) (MGM+HD)">MGM+ HDTV (East) (MGM+HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" xmltv_id="Fox Deportes en Español HDTV (U.S.) (FXDEHD)">Fox Deportes en Español HDTV (U.S.) (FXDEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BabyFirst.Americas.(BABY1).us" xmltv_id="BabyFirst Americas (BABY1)">BabyFirst Americas (BABY1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|American.Heroes.Channel.(AHC).us" xmltv_id="American Heroes Channel (AHC)">American Heroes Channel (AHC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVBV.(TVBV).us" xmltv_id="TVBV (TVBV)">TVBV (TVBV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME3).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME3)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TBS.Superstation.HDTV.(East).(TBSHD).us" xmltv_id="TBS Superstation HDTV (East) (TBSHD)">TBS Superstation HDTV (East) (TBSHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ACC.Network.HDTV.(ACCN).us" xmltv_id="ACC Network HDTV (ACCN)">ACC Network HDTV (ACCN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rai.Radio.1.(RAIR).us" xmltv_id="Rai Radio 1 (RAIR)">Rai Radio 1 (RAIR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.Comedy.HD.(East).(SZCHD).us" xmltv_id="STARZ Comedy HD (East) (SZCHD)">STARZ Comedy HD (East) (SZCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.8.us" xmltv_id="NBA League Pass 8">NBA League Pass 8</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Crime.and.Investigation.Network.HDTV.(CI.HD).us" xmltv_id="Crime and Investigation Network HDTV (CI HD)">Crime and Investigation Network HDTV (CI HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Saudi.Quran.(SAUDIQ).us" xmltv_id="Saudi Quran (SAUDIQ)">Saudi Quran (SAUDIQ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Weather.Channel.HDTV.(WEAHD).us" xmltv_id="The Weather Channel HDTV (WEAHD)">The Weather Channel HDTV (WEAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Detroit.(BSD).us" xmltv_id="Bally Sports Detroit (BSD)">Bally Sports Detroit (BSD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Ohio.(Cincinnati).HDTV.(BSOHHD).us" xmltv_id="Bally Sports Ohio (Cincinnati) HDTV (BSOHHD)">Bally Sports Ohio (Cincinnati) HDTV (BSOHHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Retailer.News.Channel.(RTLR).us" xmltv_id="Retailer News Channel (RTLR)">Retailer News Channel (RTLR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ION.Plus.us" xmltv_id="ION.Plus">ION.Plus</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATT.SportsNet.Rocky.Mountain.(Dish).(ATTSN).us" xmltv_id="ATT SportsNet Rocky Mountain (Dish) (ATTSN)">ATT SportsNet Rocky Mountain (Dish) (ATTSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Stadium.College.Sports.Pacific.(SCSP).us" xmltv_id="Stadium College Sports Pacific (SCSP)">Stadium College Sports Pacific (SCSP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Soham.(Sling).(SOHAM).us" xmltv_id="Soham (Sling) (SOHAM)">Soham (Sling) (SOHAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Satsang.TV.(Sling).(SATSANG).us" xmltv_id="Satsang TV (Sling) (SATSANG)">Satsang TV (Sling) (SATSANG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Ishwar.TV.Hindi.(Ishwar.TV).us" xmltv_id="Ishwar TV Hindi (Ishwar TV)">Ishwar TV Hindi (Ishwar TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BUZZ.(BUZZ).us" xmltv_id="BUZZ (BUZZ)">BUZZ (BUZZ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fuse.HDTV.(East).(FUSED).us" xmltv_id="Fuse HDTV (East) (FUSED)">Fuse HDTV (East) (FUSED)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.NFL.Network.HDTV.(NFLHD).us" xmltv_id="The NFL Network HDTV (NFLHD)">The NFL Network HDTV (NFLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cable.News.Network.en.Español.(USA).(CNNE).us" xmltv_id="Cable News Network en Español (USA) (CNNE)">Cable News Network en Español (USA) (CNNE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|France.24.(North.America.–.English).(F24).us" xmltv_id="France 24 (North America – English) (F24)">France 24 (North America – English) (F24)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Phoenix.North.American.Chinese.Channel.(PSTV).us" xmltv_id="Phoenix North American Chinese Channel (PSTV)">Phoenix North American Chinese Channel (PSTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Learning.Channel.HDTV.(East).(TLCHD).us" xmltv_id="The Learning Channel HDTV (East) (TLCHD)">The Learning Channel HDTV (East) (TLCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBCSNWH.NBC.Sports.Northwest.HD.us" xmltv_id="NBCSNWH NBC Sports Northwest HD">NBCSNWH NBC Sports Northwest HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|USA.Network.HDTV.(East).(USAHD).us" xmltv_id="USA Network HDTV (East) (USAHD)">USA Network HDTV (East) (USAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Discovery.Channel.HDTV.(East).(DSCHD).us" xmltv_id="The Discovery Channel HDTV (East) (DSCHD)">The Discovery Channel HDTV (East) (DSCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Daystar.Television.Network.(DAYSTAR).us" xmltv_id="Daystar Television Network (DAYSTAR)">Daystar Television Network (DAYSTAR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.Business.Network.HDTV.(FBNHD).us" xmltv_id="Fox Business Network HDTV (FBNHD)">Fox Business Network HDTV (FBNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Animal.Planet.HDTV.(East).(APHD).us" xmltv_id="Animal Planet HDTV (East) (APHD)">Animal Planet HDTV (East) (APHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.Hekayat.2.(ART2).us" xmltv_id="ART Hekayat 2 (ART2)">ART Hekayat 2 (ART2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Arabica.(ARAB).us" xmltv_id="Arabica (ARAB)">Arabica (ARAB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOxBET(East).(SHOBET).us" xmltv_id="SHOxBET(East) (SHOBET)">SHOxBET(East) (SHOBET)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Discovery.Familia.(U.S..feed).(DFAM).us" xmltv_id="Discovery Familia (U.S. feed) (DFAM)">Discovery Familia (U.S. feed) (DFAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.Cinema.(East).(STZCI).us" xmltv_id="STARZ Cinema (East) (STZCI)">STARZ Cinema (East) (STZCI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Sportsman.Channel.HDTV.(SPTMANHD).us" xmltv_id="The Sportsman Channel HDTV (SPTMANHD)">The Sportsman Channel HDTV (SPTMANHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Midwest.(Satellite.only).(BSMW).us" xmltv_id="Bally Sports Midwest (Satellite only) (BSMW)">Bally Sports Midwest (Satellite only) (BSMW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MBC.Wanasah.(MBCW).us" xmltv_id="MBC Wanasah (MBCW)">MBC Wanasah (MBCW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Formosa.TV.(FTVTW).us" xmltv_id="Formosa TV (FTVTW)">Formosa TV (FTVTW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Chong.Qing.TV.(CQTV).us" xmltv_id="Chong Qing TV (CQTV)">Chong Qing TV (CQTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.California.HDTV.(NBCSCA).us" xmltv_id="NBC Sports California HDTV (NBCSCA)">NBC Sports California HDTV (NBCSCA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|IDEA.Channel.(IDEA).us" xmltv_id="IDEA Channel (IDEA)">IDEA Channel (IDEA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Space.City.Home.Network.HDTV.(ROOTD).us" xmltv_id="Space City Home Network HDTV (ROOTD)">Space City Home Network HDTV (ROOTD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Great.American.Living.(GLIV).us" xmltv_id="Great American Living (GLIV)">Great American Living (GLIV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MSG2HD.us" xmltv_id="MSG2HD">MSG2HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hum.TV.World.(US).(HUMTV).us" xmltv_id="Hum TV World (US) (HUMTV)">Hum TV World (US) (HUMTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Aghapy.TV.(AGHAPY).us" xmltv_id="Aghapy TV (AGHAPY)">Aghapy TV (AGHAPY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cheap.Thrills.(Dish).(CHEAP).us" xmltv_id="Cheap Thrills (Dish) (CHEAP)">Cheap Thrills (Dish) (CHEAP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Magnolia.Network.HDTV.(MAGNOLIA).us" xmltv_id="Magnolia Network HDTV (MAGNOLIA)">Magnolia Network HDTV (MAGNOLIA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|India.Today.(DISH).(INDT).us" xmltv_id="India Today (DISH) (INDT)">India Today (DISH) (INDT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Christian.Television.Network.(CTN).us" xmltv_id="Christian Television Network (CTN)">Christian Television Network (CTN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CSPAN3.us" xmltv_id="CSPAN3">CSPAN3</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.9.us" xmltv_id="NBA League Pass 9">NBA League Pass 9</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Premiere.1.(PREM1).us" xmltv_id="Premiere 1 (PREM1)">Premiere 1 (PREM1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WNYN.Azteca.America.39.(WNYN).us" xmltv_id="WNYN Azteca America 39 (WNYN)">WNYN Azteca America 39 (WNYN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RCN.Nuestra.Tele.(NUETELE).us" xmltv_id="RCN Nuestra Tele (NUETELE)">RCN Nuestra Tele (NUETELE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV5.News.(TV5NWS).us" xmltv_id="TV5 News (TV5NWS)">TV5 News (TV5NWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBN.America.(NBN).us" xmltv_id="NBN America (NBN)">NBN America (NBN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jus.One.(JUS1).us" xmltv_id="Jus One (JUS1)">Jus One (JUS1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|My.German.TV.(MYGTV).us" xmltv_id="My German TV (MYGTV)">My German TV (MYGTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Pursuit.Channel.(DISH.only).(PRST).us" xmltv_id="Pursuit Channel (DISH only) (PRST)">Pursuit Channel (DISH only) (PRST)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Syfy.HDTV.(SYFYHD).us" xmltv_id="Syfy HDTV (SYFYHD)">Syfy HDTV (SYFYHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sahara.One.(SAHRA1).us" xmltv_id="Sahara One (SAHRA1)">Sahara One (SAHRA1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Chak.De.(PTCCD).us" xmltv_id="PTC Chak De (PTCCD)">PTC Chak De (PTCCD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hollywood.Suite.On.Demand.us" xmltv_id="Hollywood Suite On Demand">Hollywood Suite On Demand</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Southwest.HDTV.(Dallas.DMA).24/7.(BSSWHD).us" xmltv_id="Bally Sports Southwest HDTV (Dallas DMA) 24/7 (BSSWHD)">Bally Sports Southwest HDTV (Dallas DMA) 24/7 (BSSWHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TeleFórmula.(US.Feed).(TELEFO).us" xmltv_id="TeleFórmula (US Feed) (TELEFO)">TeleFórmula (US Feed) (TELEFO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Outside.Television.(National).(OUTSD).us" xmltv_id="Outside Television (National) (OUTSD)">Outside Television (National) (OUTSD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Almavisión.Hispanic.Network.(ALMAV).us" xmltv_id="Almavisión Hispanic Network (ALMAV)">Almavisión Hispanic Network (ALMAV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|XTSY.XXX.(XTSY).us" xmltv_id="XTSY XXX (XTSY)">XTSY XXX (XTSY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.ONE.HDTV.(TVONEHD).us" xmltv_id="TV ONE HDTV (TVONEHD)">TV ONE HDTV (TVONEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ON.E.(ON.E).us" xmltv_id="ON E (ON E)">ON E (ON E)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Womens.Entertainment.HDTV.(East).(WE.HD).us" xmltv_id="Womens Entertainment HDTV (East) (WE HD)">Womens Entertainment HDTV (East) (WE HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.South.(Atlanta.DMA).24/7.HDTV.(BSSOHD).us" xmltv_id="Bally Sports South (Atlanta DMA) 24/7 HDTV (BSSOHD)">Bally Sports South (Atlanta DMA) 24/7 HDTV (BSSOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.4.(TUDNX4).us" xmltv_id="TUDNxtra 4 (TUDNX4)">TUDNxtra 4 (TUDNX4)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sony.Movie.Channel.HD.(SONY).us" xmltv_id="Sony Movie Channel HD (SONY)">Sony Movie Channel HD (SONY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NASA.Television.(NASA).us" xmltv_id="NASA Television (NASA)">NASA Television (NASA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.HD.(East).(STZHD).us" xmltv_id="STARZ HD (East) (STZHD)">STARZ HD (East) (STZHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|AZ.Corazón.(AZCRZON).us" xmltv_id="AZ Corazón (AZCRZON)">AZ Corazón (AZCRZON)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|VH1.HDTV.(East).(VH1HD).us" xmltv_id="VH1 HDTV (East) (VH1HD)">VH1 HDTV (East) (VH1HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|De.Película.Clásico.(DPCLA).us" xmltv_id="De Película Clásico (DPCLA)">De Película Clásico (DPCLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Classic.Reruns.TV.us" xmltv_id="Classic Reruns TV">Classic Reruns TV</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Buy.TV.SDTV.(BUYTV).us" xmltv_id="Buy TV SDTV (BUYTV)">Buy TV SDTV (BUYTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Arizona.24/7.HDTV.(BSAZHD).us" xmltv_id="Bally Sports Arizona 24/7 HDTV (BSAZHD)">Bally Sports Arizona 24/7 HDTV (BSAZHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|DW.Deutsch+.(DW.D+).us" xmltv_id="DW Deutsch+ (DW D+)">DW Deutsch+ (DW D+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hunan.Satellite.TV.(HTV).(Chinese-Mandarin).(HUNAN).us" xmltv_id="Hunan Satellite TV (HTV) (Chinese-Mandarin) (HUNAN)">Hunan Satellite TV (HTV) (Chinese-Mandarin) (HUNAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Home.and.Garden.Television.HDTV.(East).(HGTVD).us" xmltv_id="Home and Garden Television HDTV (East) (HGTVD)">Home and Garden Television HDTV (East) (HGTVD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" xmltv_id="Game Show Network HDTV (EAST) (GMSHWHD)">Game Show Network HDTV (EAST) (GMSHWHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|KTLA.(KTLA).us" xmltv_id="KTLA (KTLA)">KTLA (KTLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|V-MEK.(V-MEK).us" xmltv_id="V-MEK (V-MEK)">V-MEK (V-MEK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bloomberg.in.HDTV.(BTVHD).us" xmltv_id="Bloomberg in HDTV (BTVHD)">Bloomberg in HDTV (BTVHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Infomercial.Channel.(DEALS).us" xmltv_id="Infomercial Channel (DEALS)">Infomercial Channel (DEALS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Cineplex.(COLCX).us" xmltv_id="Colors Cineplex (COLCX)">Colors Cineplex (COLCX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zhejiang.TV.(ZJTV).us" xmltv_id="Zhejiang TV (ZJTV)">Zhejiang TV (ZJTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sahara.Samay.Rashtriya.(SSR).us" xmltv_id="Sahara Samay Rashtriya (SSR)">Sahara Samay Rashtriya (SSR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Kannada.(CLRSK).us" xmltv_id="Colors Kannada (CLRSK)">Colors Kannada (CLRSK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.Latino.(East).(HBOLe).us" xmltv_id="HBO Latino (East) (HBOLe)">HBO Latino (East) (HBOLe)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Playboy.TV.Latin.America.and.Iberia.(PLBOY).us" xmltv_id="Playboy TV Latin America and Iberia (PLBOY)">Playboy TV Latin America and Iberia (PLBOY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Español.(STZES).us" xmltv_id="STARZ ENCORE Español (STZES)">STARZ ENCORE Español (STZES)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Trace.Urban.(North.America).(TRACEURB).us" xmltv_id="Trace Urban (North America) (TRACEURB)">Trace Urban (North America) (TRACEURB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sanjha.(Sling).(SANJH).us" xmltv_id="Sanjha (Sling) (SANJH)">Sanjha (Sling) (SANJH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CCTV.NEWS.(NEWS).us" xmltv_id="CCTV NEWS (NEWS)">CCTV NEWS (NEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|UPtv.HDTV.(UPTVHD).us" xmltv_id="UPtv HDTV (UPTVHD)">UPtv HDTV (UPTVHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zee.TV.HDTV.(ZEETV).us" xmltv_id="Zee TV HDTV (ZEETV)">Zee TV HDTV (ZEETV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Movie.Channel.Xtra.(East).(TMCXe).us" xmltv_id="The Movie Channel Xtra (East) (TMCXe)">The Movie Channel Xtra (East) (TMCXe)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cine.Mexicano.us" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Masriyah.(ALMAS).us" xmltv_id="Al Masriyah (ALMAS)">Al Masriyah (ALMAS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cable.News.Network.International.(CNNI).us" xmltv_id="Cable News Network International (CNNI)">Cable News Network International (CNNI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Pac-12.Network.Alternate.Feed.HDTV.(PAC12).us" xmltv_id="Pac-12 Network Alternate Feed HDTV (PAC12)">Pac-12 Network Alternate Feed HDTV (PAC12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Adult.Showcase.(ASHOW).us" xmltv_id="Adult Showcase (ASHOW)">Adult Showcase (ASHOW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.News.(PTCN).us" xmltv_id="PTC News (PTCN)">PTC News (PTCN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Washington.HDTV.24/7.(NBCSWAHD).us" xmltv_id="NBC Sports Washington HDTV 24/7 (NBCSWAHD)">NBC Sports Washington HDTV 24/7 (NBCSWAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Florida.24/7.HDTV.(Rays,.Marlins,.Panthers).(BSFLHD).us" xmltv_id="Bally Sports Florida 24/7 HDTV (Rays, Marlins, Panthers) (BSFLHD)">Bally Sports Florida 24/7 HDTV (Rays, Marlins, Panthers) (BSFLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Consumer.News.and.Business.Channel.World.(CNBCWLD).us" xmltv_id="Consumer News and Business Channel World (CNBCWLD)">Consumer News and Business Channel World (CNBCWLD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATT.SportsNet.Rocky.Mountain.(ATTSN).us" xmltv_id="ATT SportsNet Rocky Mountain (ATTSN)">ATT SportsNet Rocky Mountain (ATTSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Five.Star.Max.HDTV.(5MXHD).us" xmltv_id="Five Star Max HDTV (5MXHD)">Five Star Max HDTV (5MXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ARY.News.(ARYNEWS).us" xmltv_id="ARY News (ARYNEWS)">ARY News (ARYNEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Adventure.TV.(ADVTV).us" xmltv_id="Adventure TV (ADVTV)">Adventure TV (ADVTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Eurochannel.(EUROCHN).us" xmltv_id="Eurochannel (EUROCHN)">Eurochannel (EUROCHN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Disney.Channel.(West).(DISNEY).us" xmltv_id="The Disney Channel (West) (DISNEY)">The Disney Channel (West) (DISNEY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Great.Lakes.HD.(BSGLHD).us" xmltv_id="Bally Sports Great Lakes HD (BSGLHD)">Bally Sports Great Lakes HD (BSGLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hustler.HD.(Dish).(HUSLRH).us" xmltv_id="Hustler HD (Dish) (HUSLRH)">Hustler HD (Dish) (HUSLRH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Root.Sports.Northwest.24/7.HDTV.(ROOTD).us" xmltv_id="Root Sports Northwest 24/7 HDTV (ROOTD)">Root Sports Northwest 24/7 HDTV (ROOTD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|My.German.TV.+.(MYG+).us" xmltv_id="My German TV + (MYG+)">My German TV + (MYG+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.Showcase.HDTV.(East).(SHOCHD).us" xmltv_id="Showtime Showcase HDTV (East) (SHOCHD)">Showtime Showcase HDTV (East) (SHOCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Great.Wall.Elite.(GWALL).us" xmltv_id="Great Wall Elite (GWALL)">Great Wall Elite (GWALL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Foro.TV.(4TV).us" xmltv_id="Foro TV (4TV)">Foro TV (4TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TBN.Enlace.USA.(ENLAC).us" xmltv_id="TBN Enlace USA (ENLAC)">TBN Enlace USA (ENLAC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SCRNWST.ScreenPix.Westerns.us" xmltv_id="SCRNWST ScreenPix Westerns">SCRNWST ScreenPix Westerns</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SIC.Internacional.(NA).(SICINTNA).us" xmltv_id="SIC Internacional (NA) (SICINTNA)">SIC Internacional (NA) (SICINTNA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Smart.(SMART).us" xmltv_id="Smart (SMART)">Smart (SMART)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.HDTV.(West).(HBOHD).us" xmltv_id="HBO HDTV (West) (HBOHD)">HBO HDTV (West) (HBOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Midwest.(St..Louis).(BSMW).us" xmltv_id="Bally Sports Midwest (St. Louis) (BSMW)">Bally Sports Midwest (St. Louis) (BSMW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MLB.Network.Strike.Zone.HDTV.(MLBSZ).us" xmltv_id="MLB Network Strike Zone HDTV (MLBSZ)">MLB Network Strike Zone HDTV (MLBSZ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Bay.Area.HDTV.24/7.(CSNBD).us" xmltv_id="NBC Sports Bay Area HDTV 24/7 (CSNBD)">NBC Sports Bay Area HDTV 24/7 (CSNBD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TTV.(International.-DISH).(TTVINTER).us" xmltv_id="TTV (International -DISH) (TTVINTER)">TTV (International -DISH) (TTVINTER)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.9.(TUDNX9).us" xmltv_id="TUDNxtra 9 (TUDNX9)">TUDNxtra 9 (TUDNX9)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ4.us" xmltv_id="SHOPZ4">SHOPZ4</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.Family.HDTV.(East).(HBOFHD).us" xmltv_id="HBO Family HDTV (East) (HBOFHD)">HBO Family HDTV (East) (HBOFHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Boston.Plus.Overflow.Part.Time.HDTV.(NBCSB+HD).us" xmltv_id="NBC Sports Boston Plus Overflow Part Time HDTV (NBCSB+HD)">NBC Sports Boston Plus Overflow Part Time HDTV (NBCSB+HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MBC.Kids.(MBC3).us" xmltv_id="MBC Kids (MBC3)">MBC Kids (MBC3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TBN.Inspire.(TBNINSP).us" xmltv_id="TBN Inspire (TBNINSP)">TBN Inspire (TBNINSP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Premium.Showcase.(PREMHD).us" xmltv_id="Premium Showcase (PREMHD)">Premium Showcase (PREMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bravo.HDTV.(East).(BRAVOD).us" xmltv_id="Bravo HDTV (East) (BRAVOD)">Bravo HDTV (East) (BRAVOD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Black.Entertainment.Television.HDTV.(East).(BET-HD).us" xmltv_id="Black Entertainment Television HDTV (East) (BET-HD)">Black Entertainment Television HDTV (East) (BET-HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|World.Fishing.Network.(US).(WFN).us" xmltv_id="World Fishing Network (US) (WFN)">World Fishing Network (US) (WFN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.History.Channel.en.Español.(HISTE).us" xmltv_id="The History Channel en Español (HISTE)">The History Channel en Español (HISTE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bounce.TV.(Bounce).us" xmltv_id="Bounce TV (Bounce)">Bounce TV (Bounce)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cartoon.Network.(West).(TOON).us" xmltv_id="Cartoon Network (West) (TOON)">Cartoon Network (West) (TOON)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|AMC+.us" xmltv_id="AMC+">AMC+</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Real.Shopping.(REAL).us" xmltv_id="Real Shopping (REAL)">Real Shopping (REAL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zee.Marathi.(ZEEMR).us" xmltv_id="Zee Marathi (ZEEMR)">Zee Marathi (ZEEMR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Root.Sports.Northwest.(ROOT).us" xmltv_id="Root Sports Northwest (ROOT)">Root Sports Northwest (ROOT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CCTV.en.Español.(CCTVE).us" xmltv_id="CCTV en Español (CCTVE)">CCTV en Español (CCTVE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.HD.(West).(SZHDw).us" xmltv_id="STARZ HD (West) (SZHDw)">STARZ HD (West) (SZHDw)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Detroit.24/7.HDTV.(BSDHD).us" xmltv_id="Bally Sports Detroit 24/7 HDTV (BSDHD)">Bally Sports Detroit 24/7 HDTV (BSDHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Tarima.TV.(TARIMA).us" xmltv_id="Tarima TV (TARIMA)">Tarima TV (TARIMA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Surya.Movies.(SURYA).us" xmltv_id="Surya Movies (SURYA)">Surya Movies (SURYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|UniMás.HDTV.(Pacific).(UNIMASHD).us" xmltv_id="UniMás HDTV (Pacific) (UNIMASHD)">UniMás HDTV (Pacific) (UNIMASHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Philadelphia.Plus.(NBCSPA+).us" xmltv_id="NBC Sports Philadelphia Plus (NBCSPA+)">NBC Sports Philadelphia Plus (NBCSPA+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Suspense.(East).(STZSU).us" xmltv_id="STARZ ENCORE Suspense (East) (STZSU)">STARZ ENCORE Suspense (East) (STZSU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Teleuniverso.(TLUNI).us" xmltv_id="Teleuniverso (TLUNI)">Teleuniverso (TLUNI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" xmltv_id="Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)">Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|New.England.Sports.Network.Plus.HDTV.(NESN+).us" xmltv_id="New England Sports Network Plus HDTV (NESN+)">New England Sports Network Plus HDTV (NESN+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MoviePlex.East.(MPLEX).us" xmltv_id="MoviePlex East (MPLEX)">MoviePlex East (MPLEX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|beIN.Sports.HDTV.(English).(beIn).us" xmltv_id="beIN Sports HDTV (English) (beIn)">beIN Sports HDTV (English) (beIn)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Beijing.TV.(BTV).us" xmltv_id="Beijing TV (BTV)">Beijing TV (BTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cinemax.HDTV.(West).(MAXHDW).us" xmltv_id="Cinemax HDTV (West) (MAXHDW)">Cinemax HDTV (West) (MAXHDW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Boston.(NBCSB).us" xmltv_id="NBC Sports Boston (NBCSB)">NBC Sports Boston (NBCSB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WSBK.(myTV38).us" xmltv_id="WSBK (myTV38)">WSBK (myTV38)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.Bangla.(SBATN).us" xmltv_id="ATN Bangla (SBATN)">ATN Bangla (SBATN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Super.Canal.Caribe.SD.(SUPCA).us" xmltv_id="Super Canal Caribe SD (SUPCA)">Super Canal Caribe SD (SUPCA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MBC.USA.(MBCUS).us" xmltv_id="MBC USA (MBCUS)">MBC USA (MBCUS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME5).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME5)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPN2.HDTV.(Dish).(ESPN2HD).us" xmltv_id="ESPN2 HDTV (Dish) (ESPN2HD)">ESPN2 HDTV (Dish) (ESPN2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MBC.Masr.(MBC.Masr).us" xmltv_id="MBC Masr (MBC Masr)">MBC Masr (MBC Masr)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|JUS.Hindi.(JUSHINDI).us" xmltv_id="JUS Hindi (JUSHINDI)">JUS Hindi (JUSHINDI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|History.HDTV.(East).(HISHD).us" xmltv_id="History HDTV (East) (HISHD)">History HDTV (East) (HISHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Destination.America.HDTV.(DESTAMHD).us" xmltv_id="Destination America HDTV (DESTAMHD)">Destination America HDTV (DESTAMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Bay.Area.(CSNBA).us" xmltv_id="NBC Sports Bay Area (CSNBA)">NBC Sports Bay Area (CSNBA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|YUM.So.Yummy.us" xmltv_id="YUM So Yummy">YUM So Yummy</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|iTVN.(Toronto.-.New.York).(TVNINTER).us" xmltv_id="iTVN (Toronto - New York) (TVNINTER)">iTVN (Toronto - New York) (TVNINTER)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Star.Chinese.Movies.2.(STARM).us" xmltv_id="Star Chinese Movies 2 (STARM)">Star Chinese Movies 2 (STARM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Asia.(Canada).(TVASIA).us" xmltv_id="TV Asia (Canada) (TVASIA)">TV Asia (Canada) (TVASIA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Quran.Al.Karim.(ELQURAN).us" xmltv_id="Al Quran Al Karim (ELQURAN)">Al Quran Al Karim (ELQURAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Garv.Punjab.Gurbani.(Sling).(GRVPG).us" xmltv_id="Garv Punjab Gurbani (Sling) (GRVPG)">Garv Punjab Gurbani (Sling) (GRVPG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.1.us" xmltv_id="NBA League Pass 1">NBA League Pass 1</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Radio.Network.us" xmltv_id="3ABN Radio Network">3ABN Radio Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Next.Level.Sports.(NLS).us" xmltv_id="Next Level Sports (NLS)">Next Level Sports (NLS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Antena.3.(Internacional.-.USA).(ANT3).us" xmltv_id="Antena 3 (Internacional - USA) (ANT3)">Antena 3 (Internacional - USA) (ANT3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.Signature.HDTV.(East).(HBOSHD).us" xmltv_id="HBO Signature HDTV (East) (HBOSHD)">HBO Signature HDTV (East) (HBOSHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MLB.Network.Alternate.HDTV.DirecTV.(MLBAHD).us" xmltv_id="MLB Network Alternate HDTV DirecTV (MLBAHD)">MLB Network Alternate HDTV DirecTV (MLBAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Arizona.(BSAZ).us" xmltv_id="Bally Sports Arizona (BSAZ)">Bally Sports Arizona (BSAZ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.10.(TUDNX10).us" xmltv_id="TUDNxtra 10 (TUDNX10)">TUDNxtra 10 (TUDNX10)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Centroamérica.TV.(CATV).us" xmltv_id="Centroamérica TV (CATV)">Centroamérica TV (CATV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Geo.Kahani.(GEOKAHAN).us" xmltv_id="Geo Kahani (GEOKAHAN)">Geo Kahani (GEOKAHAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Ohio.(Cincinnati.Dish).HDTV.(BSOHHD).us" xmltv_id="Bally Sports Ohio (Cincinnati Dish) HDTV (BSOHHD)">Bally Sports Ohio (Cincinnati Dish) HDTV (BSOHHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hollywood.Suite.00s.us" xmltv_id="Hollywood Suite 00s">Hollywood Suite 00s</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GOLTV.us" xmltv_id="GOLTV">GOLTV</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Oprah.Winfrey.Network.HDTV.(East).(OWNHD).us" xmltv_id="The Oprah Winfrey Network HDTV (East) (OWNHD)">The Oprah Winfrey Network HDTV (East) (OWNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WPIX.(WPIX).us" xmltv_id="WPIX (WPIX)">WPIX (WPIX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nat.Geo.Mundo.(NGMUN).us" xmltv_id="Nat Geo Mundo (NGMUN)">Nat Geo Mundo (NGMUN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Tamil.(CLRSTAM).us" xmltv_id="Colors Tamil (CLRSTAM)">Colors Tamil (CLRSTAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.TV.HDTV.(NBA.HD).us" xmltv_id="NBA TV HDTV (NBA HD)">NBA TV HDTV (NBA HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.2.(TUDNX2).us" xmltv_id="TUDNxtra 2 (TUDNX2)">TUDNxtra 2 (TUDNX2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FX.HDTV.(East).(FX.HD).us" xmltv_id="FX HDTV (East) (FX HD)">FX HDTV (East) (FX HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" xmltv_id="Consumer News and Business Channel HDTV (CNBCH)">Consumer News and Business Channel HDTV (CNBCH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Express.News.(EXPNEWS).us" xmltv_id="Express News (EXPNEWS)">Express News (EXPNEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Gemini.Comedy.(GEMCOM).us" xmltv_id="Gemini Comedy (GEMCOM)">Gemini Comedy (GEMCOM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.12.Connecticut.(CT12).us" xmltv_id="News 12 Connecticut (CT12)">News 12 Connecticut (CT12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.6.us" xmltv_id="NBA League Pass 6">NBA League Pass 6</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Asia.HDTV.-.Asia.Star.Broadcasting,.Inc..(TVASIA).us" xmltv_id="TV Asia HDTV - Asia Star Broadcasting, Inc. (TVASIA)">TV Asia HDTV - Asia Star Broadcasting, Inc. (TVASIA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.FamilyZone.(East).(SHOFe).us" xmltv_id="Showtime FamilyZone (East) (SHOFe)">Showtime FamilyZone (East) (SHOFe)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Band.Internacional.(United.States).(BAND).us" xmltv_id="Band Internacional (United States) (BAND)">Band Internacional (United States) (BAND)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Games.Network.2.(TVG2).us" xmltv_id="TV Games Network 2 (TVG2)">TV Games Network 2 (TVG2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPN.Alternate.Programming.(ESPNAP).us" xmltv_id="ESPN Alternate Programming (ESPNAP)">ESPN Alternate Programming (ESPNAP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Satellite.Response.Network.3.(YOUTV).us" xmltv_id="Satellite Response Network 3 (YOUTV)">Satellite Response Network 3 (YOUTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.YOYO.Channel.(YOYO).us" xmltv_id="ET YOYO Channel (YOYO)">ET YOYO Channel (YOYO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.Financial.News.Channel.(ETFNC).us" xmltv_id="ET Financial News Channel (ETFNC)">ET Financial News Channel (ETFNC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|OuterMax.east.us" xmltv_id="OuterMax - Eastern">OuterMax - Eastern</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Space.City.Home.Network.(ATTSN).us" xmltv_id="Space City Home Network (ATTSN)">Space City Home Network (ATTSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Kairali.TV.(KAIRA).us" xmltv_id="Kairali TV (KAIRA)">Kairali TV (KAIRA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|POLSAT.1.International.(PLSAT).us" xmltv_id="POLSAT 1 International (PLSAT)">POLSAT 1 International (PLSAT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME8).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME8)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME8)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Gallery.HD.(GALLERY).us" xmltv_id="Gallery HD (GALLERY)">Gallery HD (GALLERY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ5-INDEPENDENT.us" xmltv_id="SHOPZ5-INDEPENDENT">SHOPZ5-INDEPENDENT</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|IFC.HDTV.(East).(IFCHD).us" xmltv_id="IFC HDTV (East) (IFCHD)">IFC HDTV (East) (IFCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.SoCal.(BSSCHD).us" xmltv_id="Bally Sports SoCal (BSSCHD)">Bally Sports SoCal (BSSCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Praise.Him.Music.us" xmltv_id="3ABN Praise Him Music">3ABN Praise Him Music</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Japan.HDTV.(TVJPNHD).us" xmltv_id="TV Japan HDTV (TVJPNHD)">TV Japan HDTV (TVJPNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|El.Sembrador.Nueva.Evangelización.TV.(ESNE).us" xmltv_id="El Sembrador Nueva Evangelización TV (ESNE)">El Sembrador Nueva Evangelización TV (ESNE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Monumental.Sports.Network.2.us" xmltv_id="Monumental Sports Network 2">Monumental Sports Network 2</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.News.(SBANW).us" xmltv_id="ATN News (SBANW)">ATN News (SBANW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Star.Chinese.Channel.(STARC).us" xmltv_id="Star Chinese Channel (STARC)">Star Chinese Channel (STARC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Telemundo.Network.(West).(TELMUN).us" xmltv_id="Telemundo Network (West) (TELMUN)">Telemundo Network (West) (TELMUN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.Women.HDTV.(East).(SHOWD).us" xmltv_id="Showtime Women HDTV (East) (SHOWD)">Showtime Women HDTV (East) (SHOWD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TeenNick.(East).(TNCK).us" xmltv_id="TeenNick (East) (TNCK)">TeenNick (East) (TNCK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|QVC2.(QVC2).us" xmltv_id="QVC2 (QVC2)">QVC2 (QVC2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RCN.Novelas.(RCNNOV).us" xmltv_id="RCN Novelas (RCNNOV)">RCN Novelas (RCNNOV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|And.TV.(And.TV).us" xmltv_id="And TV (And TV)">And TV (And TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.Global.Channel.(ETGBL).us" xmltv_id="ET Global Channel (ETGBL)">ET Global Channel (ETGBL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Link.TV.(LINK).us" xmltv_id="Link TV (LINK)">Link TV (LINK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.2.HDTV.(East).(SHO2HD).us" xmltv_id="Showtime 2 HDTV (East) (SHO2HD)">Showtime 2 HDTV (East) (SHO2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Radiotelevisão.Portuguesa.Int'l.(RTP).us" xmltv_id="Radiotelevisão Portuguesa Int'l (RTP)">Radiotelevisão Portuguesa Int'l (RTP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Telemicro.(Dominican.Republic).(TLMIC).us" xmltv_id="Telemicro (Dominican Republic) (TLMIC)">Telemicro (Dominican Republic) (TLMIC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|INFOWARS-TV.us" xmltv_id="INFOWARS-TV">INFOWARS-TV</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Oxygen.(East).(OXYGN).us" xmltv_id="Oxygen (East) (OXYGN)">Oxygen (East) (OXYGN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Super.SportFM.(SSPFM).us" xmltv_id="Super SportFM (SSPFM)">Super SportFM (SSPFM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV5.Monde.(USA).HDTV.(TV5HD).us" xmltv_id="TV5 Monde (USA) HDTV (TV5HD)">TV5 Monde (USA) HDTV (TV5HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FYI.HDTV.(FYIHD).us" xmltv_id="FYI HDTV (FYIHD)">FYI HDTV (FYIHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CCTV.Entertainment.(CCENT).us" xmltv_id="CCTV Entertainment (CCENT)">CCTV Entertainment (CCENT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Aastha.TV.(ASTHA).us" xmltv_id="Aastha TV (ASTHA)">Aastha TV (ASTHA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.South.(Dish).(BSSO).us" xmltv_id="Bally Sports South (Dish) (BSSO)">Bally Sports South (Dish) (BSSO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV2.HDTV.(East).(MTV2HD).us" xmltv_id="MTV2 HDTV (East) (MTV2HD)">MTV2 HDTV (East) (MTV2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cine.Sony.Television.(CSONY).us" xmltv_id="Cine Sony Television (CSONY)">Cine Sony Television (CSONY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Canal.Once.XEIPN.Internacional.(OMex).us" xmltv_id="Canal Once XEIPN Internacional (OMex)">Canal Once XEIPN Internacional (OMex)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Discovery.Family.Channel.HDTV.(DFCHD).us" xmltv_id="Discovery Family Channel HDTV (DFCHD)">Discovery Family Channel HDTV (DFCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.Drama.Channel.(ETDRM).us" xmltv_id="ET Drama Channel (ETDRM)">ET Drama Channel (ETDRM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Shubh.TV.(Sling).(SHUBH).us" xmltv_id="Shubh TV (Sling) (SHUBH)">Shubh TV (Sling) (SHUBH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Hayah.1.(ALHY1).us" xmltv_id="Al Hayah 1 (ALHY1)">Al Hayah 1 (ALHY1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME2).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME2)">NHL Center Ice &amp; MLB Extra Innings (GAME2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SportPlus.(SPORT).us" xmltv_id="SportPlus (SPORT)">SportPlus (SPORT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BET.Soul.(BETSOUL).us" xmltv_id="BET Soul (BETSOUL)">BET Soul (BETSOUL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cable.Satellite.Public.Affairs.Network.(CSPAN).us" xmltv_id="Cable Satellite Public Affairs Network (CSPAN)">Cable Satellite Public Affairs Network (CSPAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Quality.Value.Convenience.Network.HDTV.(QVCHD).us" xmltv_id="Quality Value Convenience Network HDTV (QVCHD)">Quality Value Convenience Network HDTV (QVCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nick.Jr..(NicJr).us" xmltv_id="Nick Jr. (NicJr)">Nick Jr. (NicJr)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Southeast.HDTV.(Georgia).(BSSEHD).us" xmltv_id="Bally Sports Southeast HDTV (Georgia) (BSSEHD)">Bally Sports Southeast HDTV (Georgia) (BSSEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Washington.(NBCSWA).us" xmltv_id="NBC Sports Washington (NBCSWA)">NBC Sports Washington (NBCSWA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Stadium.College.Sports.Atlantic.(SCSA).us" xmltv_id="Stadium College Sports Atlantic (SCSA)">Stadium College Sports Atlantic (SCSA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.(West).(SZEN).us" xmltv_id="STARZ ENCORE (West) (SZEN)">STARZ ENCORE (West) (SZEN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TiVi5.Monde.(USA).(TiVi5).us" xmltv_id="TiVi5 Monde (USA) (TiVi5)">TiVi5 Monde (USA) (TiVi5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV.HDTV.(East).(MTVHD).us" xmltv_id="MTV HDTV (East) (MTVHD)">MTV HDTV (East) (MTVHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.12.Brooklyn.HDTV.(NEWS12).us" xmltv_id="News 12 Brooklyn HDTV (NEWS12)">News 12 Brooklyn HDTV (NEWS12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CIMA.(CIMA).us" xmltv_id="CIMA (CIMA)">CIMA (CIMA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SAB.USA.(SAB).us" xmltv_id="SAB USA (SAB)">SAB USA (SAB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" xmltv_id="MGM+ Marquee HDTV (East) (MGM+MRQ)">MGM+ Marquee HDTV (East) (MGM+MRQ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Pop.(East).(POP).us" xmltv_id="Pop (East) (POP)">Pop (East) (POP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVB.Chinese.(TVB8).us" xmltv_id="TVB Chinese (TVB8)">TVB Chinese (TVB8)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|COZI.TV.(COZI).us" xmltv_id="COZI TV (COZI)">COZI TV (COZI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|AAJ.TAK.(AAJTK).us" xmltv_id="AAJ TAK (AAJTK)">AAJ TAK (AAJTK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ABCNEWS.us" xmltv_id="ABCNEWS">ABCNEWS</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Telemundo.Network.(East).(TELMUN).us" xmltv_id="Telemundo Network (East) (TELMUN)">Telemundo Network (East) (TELMUN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Baby.TV.(UK).(BABYTV).us" xmltv_id="Baby TV (UK) (BABYTV)">Baby TV (UK) (BABYTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ARY.Digital.(ARYDIG).us" xmltv_id="ARY Digital (ARYDIG)">ARY Digital (ARYDIG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Aastha.Bhajan.(ABHJN).us" xmltv_id="Aastha Bhajan (ABHJN)">Aastha Bhajan (ABHJN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SET.International.(SETI).us" xmltv_id="SET International (SETI)">SET International (SETI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Travel.Channel.HDTV.(East).(TRAVD).us" xmltv_id="Travel Channel HDTV (East) (TRAVD)">Travel Channel HDTV (East) (TRAVD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BNC.us" xmltv_id="BNC">BNC</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BabyFirst.TV.(BABY1).us" xmltv_id="BabyFirst TV (BABY1)">BabyFirst TV (BABY1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.Tarab.(TARAB).us" xmltv_id="ART Tarab (TARAB)">ART Tarab (TARAB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.7.us" xmltv_id="NBA League Pass 7">NBA League Pass 7</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Gemini.Movies.(DISH).(GEMOV).us" xmltv_id="Gemini Movies (DISH) (GEMOV)">Gemini Movies (DISH) (GEMOV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|DOGTV.(DOGTV).us" xmltv_id="DOGTV (DOGTV)">DOGTV (DOGTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NECNHD.us" xmltv_id="NECNHD">NECNHD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CGTN.Español.(CGTNE).us" xmltv_id="CGTN Español (CGTNE)">CGTN Español (CGTNE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Melody.Aflam.(DISH).(AFLAM).us" xmltv_id="Melody Aflam (DISH) (AFLAM)">Melody Aflam (DISH) (AFLAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SIC.Notícias.(SICNOT).us" xmltv_id="SIC Notícias (SICNOT)">SIC Notícias (SICNOT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dish.Zona.(ZONAHD).us" xmltv_id="Dish Zona (ZONAHD)">Dish Zona (ZONAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME6).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME6)">NHL Center Ice &amp; MLB Extra Innings (GAME6)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.South.HDTV.(Dish).(BSSOHD).us" xmltv_id="Bally Sports South HDTV (Dish) (BSSOHD)">Bally Sports South HDTV (Dish) (BSSOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SEC.Network.HDTV.(SEC-B).us" xmltv_id="SEC Network HDTV (SEC-B)">SEC Network HDTV (SEC-B)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CSHP.Celebrity.Shopping.Network.us" xmltv_id="CSHP Celebrity Shopping Network">CSHP Celebrity Shopping Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.Comedy.HDTV.(East).(HBOCHD).us" xmltv_id="HBO Comedy HDTV (East) (HBOCHD)">HBO Comedy HDTV (East) (HBOCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Noursat.(NORST).us" xmltv_id="Noursat (NORST)">Noursat (NORST)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.5.Monde.Info.(TV5IN).us" xmltv_id="TV 5 Monde Info (TV5IN)">TV 5 Monde Info (TV5IN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Greek.Cinema.(GRKCN).us" xmltv_id="Greek Cinema (GRKCN)">Greek Cinema (GRKCN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME13).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME13)">NHL Center Ice &amp; MLB Extra Innings (GAME13)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PACVIA.TV.(PACVI).us" xmltv_id="PACVIA TV (PACVI)">PACVIA TV (PACVI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Spectrum.SportsNet.LA.(SNLA).us" xmltv_id="Spectrum SportsNet LA (SNLA)">Spectrum SportsNet LA (SNLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Music.(Sling).(PTCM).us" xmltv_id="PTC Music (Sling) (PTCM)">PTC Music (Sling) (PTCM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.5.(TUDNX5).us" xmltv_id="TUDNxtra 5 (TUDNX5)">TUDNxtra 5 (TUDNX5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HLN.HDTV.(HLNHD).us" xmltv_id="HLN HDTV (HLNHD)">HLN HDTV (HLNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Stadium.College.Sports.Central.(SCSC).us" xmltv_id="Stadium College Sports Central (SCSC)">Stadium College Sports Central (SCSC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SportsNet.New.York.HDTV.(SNYHD).us" xmltv_id="SportsNet New York HDTV (SNYHD)">SportsNet New York HDTV (SNYHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Melody.Classic.(MLDYC).us" xmltv_id="Melody Classic (MLDYC)">Melody Classic (MLDYC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.Next.East.HDTV.(East).(SHOND).us" xmltv_id="Showtime Next East HDTV (East) (SHOND)">Showtime Next East HDTV (East) (SHOND)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Brazzers.TV.(BRAZZERS).us" xmltv_id="Brazzers TV (BRAZZERS)">Brazzers TV (BRAZZERS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MGM.HDTV.(MGMHD).us" xmltv_id="MGM HDTV (MGMHD)">MGM HDTV (MGMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Sun.South.(BSSUN).us" xmltv_id="Bally Sports Sun South (BSSUN)">Bally Sports Sun South (BSSUN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Baby.TV.(Dish).(BABYT).us" xmltv_id="Baby TV (Dish) (BABYT)">Baby TV (Dish) (BABYT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATT.SportsNet.Rocky.Mountain.24/7.HDTV.(ATTHD).us" xmltv_id="ATT SportsNet Rocky Mountain 24/7 HDTV (ATTHD)">ATT SportsNet Rocky Mountain 24/7 HDTV (ATTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|台灣電視台.Taiwan.TV.(TTV).us" xmltv_id="台灣電視台 Taiwan TV (TTV)">台灣電視台 Taiwan TV (TTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Polsat.News.(POLNEWS).us" xmltv_id="Polsat News (POLNEWS)">Polsat News (POLNEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" xmltv_id="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)">Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|YES.Alternate.HDTV.DirecTV.(YESHDA).us" xmltv_id="YES Alternate HDTV DirecTV (YESHDA)">YES Alternate HDTV DirecTV (YESHDA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FX.Movie.Channel.HDTV.(FXMHD).us" xmltv_id="FX Movie Channel HDTV (FXMHD)">FX Movie Channel HDTV (FXMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hollywood.Suite.90s.us" xmltv_id="Hollywood Suite 90s">Hollywood Suite 90s</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Movie.Channel.(West).(TMC).us" xmltv_id="The Movie Channel (West) (TMC)">The Movie Channel (West) (TMC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Band.News.(BANDNEWS).us" xmltv_id="Band News (BANDNEWS)">Band News (BANDNEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PixL.HDTV.(PixLHD).us" xmltv_id="PixL HDTV (PixLHD)">PixL HDTV (PixLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Vegas.Stats.and.Information.Network.(VSIN).us" xmltv_id="Vegas Stats and Information Network (VSIN)">Vegas Stats and Information Network (VSIN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|IQRAA.(IQRAA).us" xmltv_id="IQRAA (IQRAA)">IQRAA (IQRAA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Proclaim.Network.us" xmltv_id="3ABN Proclaim Network">3ABN Proclaim Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ION.DirecTV.(ION.E).us" xmltv_id="ION DirecTV (ION E)">ION DirecTV (ION E)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sun.TV.Tamil.(SUN.TV).us" xmltv_id="Sun TV Tamil (SUN TV)">Sun TV Tamil (SUN TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us" xmltv_id="MSG/MSG Plus Alternate HDTV DirecTV (MSGHDA)">MSG/MSG Plus Alternate HDTV DirecTV (MSGHDA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Murr.Television.(MTV).Lebanon.(MTVLEB).us" xmltv_id="Murr Television (MTV) Lebanon (MTVLEB)">Murr Television (MTV) Lebanon (MTVLEB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Network.Alternate.HDTV.(NHLaHD).us" xmltv_id="NHL Network Alternate HDTV (NHLaHD)">NHL Network Alternate HDTV (NHLaHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATTSWHD.ATT.SportsNet.Southwest.HD.us" xmltv_id="ATTSWHD ATT SportsNet Southwest HD">ATTSWHD ATT SportsNet Southwest HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Clan.TVE.(CLAN).us" xmltv_id="Clan TVE (CLAN)">Clan TVE (CLAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV.Classic.(East).(MTVCL).us" xmltv_id="MTV Classic (East) (MTVCL)">MTV Classic (East) (MTVCL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hum.Sitaray.(HUMST).us" xmltv_id="Hum Sitaray (HUMST)">Hum Sitaray (HUMST)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nickelodeon.(West).(NIK).us" xmltv_id="Nickelodeon (West) (NIK)">Nickelodeon (West) (NIK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV5.Monde.Style.(Sling).(TV5MS).us" xmltv_id="TV5 Monde Style (Sling) (TV5MS)">TV5 Monde Style (Sling) (TV5MS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RAI.World.Premium.(RAIPR).us" xmltv_id="RAI World Premium (RAIPR)">RAI World Premium (RAIPR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Adithya.TV.(ADITHYA).us" xmltv_id="Adithya TV (ADITHYA)">Adithya TV (ADITHYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.10.us" xmltv_id="NBA League Pass 10">NBA League Pass 10</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|LRW.Lifetime.Real.Women.us" xmltv_id="LRW Lifetime Real Women">LRW Lifetime Real Women</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|A.Wealth.of.Entertainment.HDTV.(AWEHD).us" xmltv_id="A Wealth of Entertainment HDTV (AWEHD)">A Wealth of Entertainment HDTV (AWEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Big.Ten.Network.HDTV.(24/7.Overflow.#2).(BTFB2).us" xmltv_id="Big Ten Network HDTV (24/7 Overflow #2) (BTFB2)">Big Ten Network HDTV (24/7 Overflow #2) (BTFB2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Turner.Network.Television.HDTV.(East).(TNTHD).us" xmltv_id="Turner Network Television HDTV (East) (TNTHD)">Turner Network Television HDTV (East) (TNTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RFI.Radio.(RFI).us" xmltv_id="RFI Radio (RFI)">RFI Radio (RFI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BTV.Business.Info.(BTV).us" xmltv_id="BTV Business Info (BTV)">BTV Business Info (BTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Afrotainment.Music.(AFROM).us" xmltv_id="Afrotainment Music (AFROM)">Afrotainment Music (AFROM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MGM+.Drive-In.(MGM+DI).us" xmltv_id="MGM+ Drive-In (MGM+DI)">MGM+ Drive-In (MGM+DI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVB2.(TVB2).us" xmltv_id="TVB2 (TVB2)">TVB2 (TVB2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Regional.Sports.Programming.(Sports).us" xmltv_id="Regional Sports Programming (Sports)">Regional Sports Programming (Sports)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.6.(TUDNX6).us" xmltv_id="TUDNxtra 6 (TUDNX6)">TUDNxtra 6 (TUDNX6)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|El.Financiero.-.Bloomberg.(FINANCIERO).us" xmltv_id="El Financiero - Bloomberg (FINANCIERO)">El Financiero - Bloomberg (FINANCIERO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.2.us" xmltv_id="NBA League Pass 2">NBA League Pass 2</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|More.Max.(East).(MOMAX).us" xmltv_id="More Max (East) (MOMAX)">More Max (East) (MOMAX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TeleRitmo.(TELRIT).us" xmltv_id="TeleRitmo (TELRIT)">TeleRitmo (TELRIT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SonLife.Network.(SONL).us" xmltv_id="SonLife Network (SONL)">SonLife Network (SONL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVI.Internacional.(TVI).us" xmltv_id="TVI Internacional (TVI)">TVI Internacional (TVI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Free.Preview.Channel.(PREVU).us" xmltv_id="Free Preview Channel (PREVU)">Free Preview Channel (PREVU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Impact.Network.Regional.(IMPCT).us" xmltv_id="Impact Network Regional (IMPCT)">Impact Network Regional (IMPCT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Comedy.Central.HDTV.(East).(CMDHD).us" xmltv_id="Comedy Central HDTV (East) (CMDHD)">Comedy Central HDTV (East) (CMDHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ET.News.Channel.(ETNWS).us" xmltv_id="ET News Channel (ETNWS)">ET News Channel (ETNWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.San.Diego.HDTV.(BSSDHD).us" xmltv_id="Bally Sports San Diego HDTV (BSSDHD)">Bally Sports San Diego HDTV (BSSDHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.5.us" xmltv_id="NBA League Pass 5">NBA League Pass 5</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Land.(East).(TVLAND).us" xmltv_id="TV Land (East) (TVLAND)">TV Land (East) (TVLAND)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Family.Entertainment.(FETV).us" xmltv_id="Family Entertainment (FETV)">Family Entertainment (FETV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NDTV.24x7.(Dish).(NDTV).us" xmltv_id="NDTV 24x7 (Dish) (NDTV)">NDTV 24x7 (Dish) (NDTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|China.TV.(CCTV-4).us" xmltv_id="China TV (CCTV-4)">China TV (CCTV-4)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Dare.to.Dream.Network.us" xmltv_id="3ABN Dare to Dream Network">3ABN Dare to Dream Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jewelry.Television.(JTV).us" xmltv_id="Jewelry Television (JTV)">Jewelry Television (JTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sanskar.(SANSKAR).us" xmltv_id="Sanskar (SANSKAR)">Sanskar (SANSKAR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.(ART).us" xmltv_id="ART (ART)">ART (ART)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Big.Ten.Network.HDTV.(24/7.Overflow.#4).(BTFB4).us" xmltv_id="Big Ten Network HDTV (24/7 Overflow #4) (BTFB4)">Big Ten Network HDTV (24/7 Overflow #4) (BTFB4)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|QTV.Pakistan.(QTVPAKIS).us" xmltv_id="QTV Pakistan (QTVPAKIS)">QTV Pakistan (QTVPAKIS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Skylink.2.(SLNK2).us" xmltv_id="Skylink 2 (SLNK2)">Skylink 2 (SLNK2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|now.HaiRun.(now.Chinese.Drama).(NOWHAIRU).us" xmltv_id="now HaiRun (now Chinese Drama) (NOWHAIRU)">now HaiRun (now Chinese Drama) (NOWHAIRU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|A.and.E.Network.HDTV.(A.and.EHD).us" xmltv_id="A and E Network HDTV (A and EHD)">A and E Network HDTV (A and EHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Pac-12.Network.HDTV.(PAC12).us" xmltv_id="Pac-12 Network HDTV (PAC12)">Pac-12 Network HDTV (PAC12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BBC.World.News.North.America.(BBCWN).us" xmltv_id="BBC World News North America (BBCWN)">BBC World News North America (BBCWN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ABP.Sanjha.India.(ABPSAN).us" xmltv_id="ABP Sanjha India (ABPSAN)">ABP Sanjha India (ABPSAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Ecuavisa.(Nacional-centro.norte).(ECUAVI).us" xmltv_id="Ecuavisa (Nacional-centro norte) (ECUAVI)">Ecuavisa (Nacional-centro norte) (ECUAVI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zee.Kannada.(ZEEKA).us" xmltv_id="Zee Kannada (ZEEKA)">Zee Kannada (ZEEKA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MLB.Network.HDTV.(DISH).(MLBHD).us" xmltv_id="MLB Network HDTV (DISH) (MLBHD)">MLB Network HDTV (DISH) (MLBHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Univisión.tlnovelas.(TLNOV).us" xmltv_id="Univisión tlnovelas (TLNOV)">Univisión tlnovelas (TLNOV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rural.TV.(Dish).(RURAL).us" xmltv_id="Rural TV (Dish) (RURAL)">Rural TV (Dish) (RURAL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|¡Hola!.TV.(USA).(HOLA).us" xmltv_id="¡Hola! TV (USA) (HOLA)">¡Hola! TV (USA) (HOLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Olympic.Channel.HDTV.(OLYHD).us" xmltv_id="Olympic Channel HDTV (OLYHD)">Olympic Channel HDTV (OLYHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|getTV.Network.(getTV).us" xmltv_id="getTV Network (getTV)">getTV Network (getTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Kids.Network.us" xmltv_id="3ABN Kids Network">3ABN Kids Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News18.Punjab.Haryana.(ETVNHH).us" xmltv_id="News18 Punjab Haryana (ETVNHH)">News18 Punjab Haryana (ETVNHH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Gemini.TV.(GEMNI).us" xmltv_id="Gemini TV (GEMNI)">Gemini TV (GEMNI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jaya.Max.(JMAX).us" xmltv_id="Jaya Max (JMAX)">Jaya Max (JMAX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.News.Channel.HDTV.(East).(FNCHD).us" xmltv_id="Fox News Channel HDTV (East) (FNCHD)">Fox News Channel HDTV (East) (FNCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPN.HDTV.(Dish).(ESPNHD).us" xmltv_id="ESPN HDTV (Dish) (ESPNHD)">ESPN HDTV (Dish) (ESPNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Israeli.Network.(ISRAEL).us" xmltv_id="The Israeli Network (ISRAEL)">The Israeli Network (ISRAEL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Chinese.Television.System.(CTS).us" xmltv_id="Chinese Television System (CTS)">Chinese Television System (CTS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hustler.TV.-.Domestic.(HUSLR).us" xmltv_id="Hustler TV - Domestic (HUSLR)">Hustler TV - Domestic (HUSLR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sun.Music.(SUNMUS).us" xmltv_id="Sun Music (SUNMUS)">Sun Music (SUNMUS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|msnbc.HDTV.(msnbcH).us" xmltv_id="msnbc HDTV (msnbcH)">msnbc HDTV (msnbcH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Punjabi.(Europe).(PTCPEU).us" xmltv_id="PTC Punjabi (Europe) (PTCPEU)">PTC Punjabi (Europe) (PTCPEU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Vme.Kids.(VKIDS).us" xmltv_id="Vme Kids (VKIDS)">Vme Kids (VKIDS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|New.England.Sports.Network.HDTV.(NESNHD).us" xmltv_id="New England Sports Network HDTV (NESNHD)">New England Sports Network HDTV (NESNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Telehit.(U.S.).(TELHT).us" xmltv_id="Telehit (U.S.) (TELHT)">Telehit (U.S.) (TELHT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.18.(NWS18).us" xmltv_id="News 18 (NWS18)">News 18 (NWS18)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Flix.(East).(FLIXe).us" xmltv_id="Flix (East) (FLIXe)">Flix (East) (FLIXe)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Akyson.(AKYSN).us" xmltv_id="Akyson (AKYSN)">Akyson (AKYSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Rishtey.(RISH).us" xmltv_id="Colors Rishtey (RISH)">Colors Rishtey (RISH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|De.Película.EUA.(USA).(DEPEL).us" xmltv_id="De Película EUA (USA) (DEPEL)">De Película EUA (USA) (DEPEL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME8).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME8)">NHL Center Ice &amp; MLB Extra Innings (GAME8)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CCTV.Opera.(CCTVO).us" xmltv_id="CCTV Opera (CCTVO)">CCTV Opera (CCTVO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BET.Gospel.(GOSP).us" xmltv_id="BET Gospel (GOSP)">BET Gospel (GOSP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|JET.TV.International.(JETTV).us" xmltv_id="JET TV International (JETTV)">JET TV International (JETTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Southwest.HDTV.24/7.(Main).(BSSWHD).us" xmltv_id="Bally Sports Southwest HDTV 24/7 (Main) (BSSWHD)">Bally Sports Southwest HDTV 24/7 (Main) (BSSWHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVBe.HDTV.(TVBeHD).us" xmltv_id="TVBe HDTV (TVBeHD)">TVBe HDTV (TVBeHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ8(180).us" xmltv_id="SHOPZ8(180)">SHOPZ8(180)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Premiere.4.(NET).(PREM4NE).us" xmltv_id="Premiere 4 (NET) (PREM4NE)">Premiere 4 (NET) (PREM4NE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Next.Level.Sports(NXTLVL).us" xmltv_id="Next Level Sports(NXTLVL)">Next Level Sports(NXTLVL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.Jaya.(ATNJ).us" xmltv_id="ATN Jaya (ATNJ)">ATN Jaya (ATNJ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Alpha.Sat.(ALPHA).us" xmltv_id="Alpha Sat (ALPHA)">Alpha Sat (ALPHA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Freeform.HDTV.(East).(FRFHD).us" xmltv_id="Freeform HDTV (East) (FRFHD)">Freeform HDTV (East) (FRFHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Chicago.Plus.Full.Time.HDTV.(NBCSCH+H).us" xmltv_id="NBC Sports Chicago Plus Full Time HDTV (NBCSCH+H)">NBC Sports Chicago Plus Full Time HDTV (NBCSCH+H)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Start.TV.Network.(East.Feed).(START).us" xmltv_id="Start TV Network (East Feed) (START)">Start TV Network (East Feed) (START)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Great.American.Family.(GFAM).us" xmltv_id="Great American Family (GFAM)">Great American Family (GFAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News18.Kerala.(N18KLA).us" xmltv_id="News18 Kerala (N18KLA)">News18 Kerala (N18KLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.8.(TUDNX8).us" xmltv_id="TUDNxtra 8 (TUDNX8)">TUDNxtra 8 (TUDNX8)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ShopHQ.(ShopHQ).us" xmltv_id="ShopHQ (ShopHQ)">ShopHQ (ShopHQ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.HDTV.(West).(SHOHD).us" xmltv_id="Showtime HDTV (West) (SHOHD)">Showtime HDTV (West) (SHOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CGTN.News.(CGTN).us" xmltv_id="CGTN News (CGTN)">CGTN News (CGTN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sports.Alternate.(PAC12).us" xmltv_id="Sports Alternate (PAC12)">Sports Alternate (PAC12)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PACVIA.(CATHAY).us" xmltv_id="PACVIA (CATHAY)">PACVIA (CATHAY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dunya.TV.USA.(DUNYA).us" xmltv_id="Dunya TV USA (DUNYA)">Dunya TV USA (DUNYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News18.India.(N18I).us" xmltv_id="News18 India (N18I)">News18 India (N18I)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTV.Global.(PTVGLOB).us" xmltv_id="PTV Global (PTVGLOB)">PTV Global (PTVGLOB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Televisión.de.Venezuela.(TELVEN).us" xmltv_id="Televisión de Venezuela (TELVEN)">Televisión de Venezuela (TELVEN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.us" xmltv_id="3ABN">3ABN</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RFD.HDTV.(RFDHD).us" xmltv_id="RFD HDTV (RFDHD)">RFD HDTV (RFDHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|An.Hui.TV.(AHTV).us" xmltv_id="An Hui TV (AHTV)">An Hui TV (AHTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Cowboy.Channel.(COWBOY).us" xmltv_id="The Cowboy Channel (COWBOY)">The Cowboy Channel (COWBOY)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Satellite.Response.Network.7.(MALL).us" xmltv_id="Satellite Response Network 7 (MALL)">Satellite Response Network 7 (MALL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Food.Food.(FOOD2).us" xmltv_id="Food Food (FOOD2)">Food Food (FOOD2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FanDuel.Racing.(FANDUELR).us" xmltv_id="FanDuel Racing (FANDUELR)">FanDuel Racing (FANDUELR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Classic.(East).(STZCL).us" xmltv_id="STARZ ENCORE Classic (East) (STZCL)">STARZ ENCORE Classic (East) (STZCL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MBC.Drama.(MBCDRAMA).us" xmltv_id="MBC Drama (MBCDRAMA)">MBC Drama (MBCDRAMA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Family.Movie.Classics.(FAMMCLSD).us" xmltv_id="Family Movie Classics (FAMMCLSD)">Family Movie Classics (FAMMCLSD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Prosieben.(PRSBN).us" xmltv_id="Prosieben (PRSBN)">Prosieben (PRSBN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BBC.America.HDTV.(East).(BBC).us" xmltv_id="BBC America HDTV (East) (BBC)">BBC America HDTV (East) (BBC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News18.Tamil.(N18TML).us" xmltv_id="News18 Tamil (N18TML)">News18 Tamil (N18TML)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ReelzChannel.HDTV.(REELZH).us" xmltv_id="ReelzChannel HDTV (REELZH)">ReelzChannel HDTV (REELZH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GAME+.us" xmltv_id="GAME+">GAME+</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVP.HDTV.(Poland).(TVPHD).us" xmltv_id="TVP HDTV (Poland) (TVPHD)">TVP HDTV (Poland) (TVPHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Southwest.(BSSW).us" xmltv_id="Bally Sports Southwest (BSSW)">Bally Sports Southwest (BSSW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|LIVENOW.us" xmltv_id="LIVENOW">LIVENOW</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME9).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME9)">NHL Center Ice &amp; MLB Extra Innings (GAME9)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mexicanal.(MXCAN).us" xmltv_id="Mexicanal (MXCAN)">Mexicanal (MXCAN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATTSWPL.ATT.SportsNet.Southwest.Plus.us" xmltv_id="ATTSWPL ATT SportsNet Southwest Plus">ATTSWPL ATT SportsNet Southwest Plus</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|France.24.(North.America.-.French).(F24).us" xmltv_id="France 24 (North America - French) (F24)">France 24 (North America - French) (F24)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mega.Cosmos.(MEGA).us" xmltv_id="Mega Cosmos (MEGA)">Mega Cosmos (MEGA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Fight.Network.(United.States).(TFN).us" xmltv_id="The Fight Network (United States) (TFN)">The Fight Network (United States) (TFN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jaya.Movies.(JAYAMOV).us" xmltv_id="Jaya Movies (JAYAMOV)">Jaya Movies (JAYAMOV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Now.BNC.(BNC).us" xmltv_id="Now BNC (BNC)">Now BNC (BNC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jaya.Plus.(JAYA+).us" xmltv_id="Jaya Plus (JAYA+)">Jaya Plus (JAYA+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cable.News.Network.HDTV.(CNNHD).us" xmltv_id="Cable News Network HDTV (CNNHD)">Cable News Network HDTV (CNNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Dhol.TV.(Sling).(PTCDT).us" xmltv_id="PTC Dhol TV (Sling) (PTCDT)">PTC Dhol TV (Sling) (PTCDT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPNU.HDTV.(ESPNUHD).us" xmltv_id="ESPNU HDTV (ESPNUHD)">ESPNU HDTV (ESPNUHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|One.America.News.Network.HDTV.(East).(OANHD).us" xmltv_id="One America News Network HDTV (East) (OANHD)">One America News Network HDTV (East) (OANHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dish.Studio.HD.(STUDIOHD).us" xmltv_id="Dish Studio HD (STUDIOHD)">Dish Studio HD (STUDIOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|AMC.HDTV.(East).(AMCHD).us" xmltv_id="AMC HDTV (East) (AMCHD)">AMC HDTV (East) (AMCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Real.XX.(XREAL).us" xmltv_id="Real XX (XREAL)">Real XX (XREAL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Westerns.(East).(STZWS).us" xmltv_id="STARZ ENCORE Westerns (East) (STZWS)">STARZ ENCORE Westerns (East) (STZWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Simran.(Sling).(PTCSR).us" xmltv_id="PTC Simran (Sling) (PTCSR)">PTC Simran (Sling) (PTCSR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ASPiRE.SDTV.(ASPRE).us" xmltv_id="ASPiRE SDTV (ASPRE)">ASPiRE SDTV (ASPRE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hollywood.Suite.80s.us" xmltv_id="Hollywood Suite 80s">Hollywood Suite 80s</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Science.HDTV.(SCIHD).us" xmltv_id="Science HDTV (SCIHD)">Science HDTV (SCIHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Gem.Shopping.Network.(GEMS).us" xmltv_id="Gem Shopping Network (GEMS)">Gem Shopping Network (GEMS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Phoenix.InfoNews.(PHNX).us" xmltv_id="Phoenix InfoNews (PHNX)">Phoenix InfoNews (PHNX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Laff.TV.(DISH).(LAFF).us" xmltv_id="Laff TV (DISH) (LAFF)">Laff TV (DISH) (LAFF)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Showtime.Extreme.(East).(SHOXe).us" xmltv_id="Showtime Extreme (East) (SHOXe)">Showtime Extreme (East) (SHOXe)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SEC.Network.HDTV.(SECN).us" xmltv_id="SEC Network HDTV (SECN)">SEC Network HDTV (SECN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SporTV.international.(PFC).us" xmltv_id="SporTV international (PFC)">SporTV international (PFC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" xmltv_id="Hallmark Movies and Mysteries HDTV (HMMHD)">Hallmark Movies and Mysteries HDTV (HMMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Reality.Kings.(RKTV).us" xmltv_id="Reality Kings (RKTV)">Reality Kings (RKTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME7).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME7)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME7)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Longhorn.Network.HDTV.(LONG).us" xmltv_id="The Longhorn Network HDTV (LONG)">The Longhorn Network HDTV (LONG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.Latino.Network.us" xmltv_id="3ABN Latino Network">3ABN Latino Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nuestra.Tele.Noticias.24.(NTN24).us" xmltv_id="Nuestra Tele Noticias 24 (NTN24)">Nuestra Tele Noticias 24 (NTN24)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GEO.News.(GEONEWS).us" xmltv_id="GEO News (GEONEWS)">GEO News (GEONEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Paramount.Network.HDTV.(East).(PARHD).us" xmltv_id="Paramount Network HDTV (East) (PARHD)">Paramount Network HDTV (East) (PARHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PTC.Punjabi.Gold.HDTV.(PTCGLD).us" xmltv_id="PTC Punjabi Gold HDTV (PTCGLD)">PTC Punjabi Gold HDTV (PTCGLD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ1.us" xmltv_id="SHOPZ1">SHOPZ1</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPN.Deportes.HDTV.(EDEPHD).us" xmltv_id="ESPN Deportes HDTV (EDEPHD)">ESPN Deportes HDTV (EDEPHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Pasiones.(USA).(PASN).us" xmltv_id="Pasiones (USA) (PASN)">Pasiones (USA) (PASN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|OuterMax.west.us" xmltv_id="OuterMax - Pacific">OuterMax - Pacific</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Art.Aflam.1.HDTV.(ART).us" xmltv_id="Art Aflam 1 HDTV (ART)">Art Aflam 1 HDTV (ART)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FOXSOUL.us" xmltv_id="FOXSOUL">FOXSOUL</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CMT.HDTV.(East).(CMTHD).us" xmltv_id="CMT HDTV (East) (CMTHD)">CMT HDTV (East) (CMTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Golf.Channel.HDTV.(GLFHD).us" xmltv_id="The Golf Channel HDTV (GLFHD)">The Golf Channel HDTV (GLFHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|OTV.Arabic.(OTV).us" xmltv_id="OTV Arabic (OTV)">OTV Arabic (OTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MARQ.Marquee.Sports.Network.us" xmltv_id="MARQ Marquee Sports Network">MARQ Marquee Sports Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME5).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME5)">NHL Center Ice &amp; MLB Extra Innings (GAME5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BET.Jams.(BETJ).us" xmltv_id="BET Jams (BETJ)">BET Jams (BETJ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Trace.Sport.Stars.HDTV.(TRCSPHD).us" xmltv_id="Trace Sport Stars HDTV (TRCSPHD)">Trace Sport Stars HDTV (TRCSPHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Law.and.Crime.(LAWC).us" xmltv_id="Law and Crime (LAWC)">Law and Crime (LAWC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|3ABN.International.Network.us" xmltv_id="3ABN International Network">3ABN International Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Turner.Classic.Movies.HDTV.(TCMHD).us" xmltv_id="Turner Classic Movies HDTV (TCMHD)">Turner Classic Movies HDTV (TCMHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fujian.Straits.TV.(SETV).(FUJTV).us" xmltv_id="Fujian Straits TV (SETV) (FUJTV)">Fujian Straits TV (SETV) (FUJTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|In.Country.TV.(ICTV).us" xmltv_id="In Country TV (ICTV)">In Country TV (ICTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME7).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME7)">NHL Center Ice &amp; MLB Extra Innings (GAME7)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Inspirational.Network.East.(INSP).us" xmltv_id="Inspirational Network East (INSP)">Inspirational Network East (INSP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Quisqueya.(Sling).(QUIS).us" xmltv_id="TV Quisqueya (Sling) (QUIS)">TV Quisqueya (Sling) (QUIS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cuba.Max.(CUBAM).us" xmltv_id="Cuba Max (CUBAM)">Cuba Max (CUBAM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.4.us" xmltv_id="NBA League Pass 4">NBA League Pass 4</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Discovery.Channel.en.Español.(DSCE).us" xmltv_id="The Discovery Channel en Español (DSCE)">The Discovery Channel en Español (DSCE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|euronews.(EUNEWS).us" xmltv_id="euronews (EUNEWS)">euronews (EUNEWS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVBJ.(TVBJ).us" xmltv_id="TVBJ (TVBJ)">TVBJ (TVBJ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.Soccer.Plus.(FSPLUS).us" xmltv_id="Fox Soccer Plus (FSPLUS)">Fox Soccer Plus (FSPLUS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Boomerang.(BOOM).us" xmltv_id="Boomerang (BOOM)">Boomerang (BOOM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.Edge.HD.(East).(SZEHD).us" xmltv_id="STARZ Edge HD (East) (SZEHD)">STARZ Edge HD (East) (SZEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVP.1.(TVP1).us" xmltv_id="TVP 1 (TVP1)">TVP 1 (TVP1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|UNIVERSO.HDTV.(East).(UNVSOHD).us" xmltv_id="UNIVERSO HDTV (East) (UNVSOHD)">UNIVERSO HDTV (East) (UNVSOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Video.Rola.(V-ROLA).us" xmltv_id="Video Rola (V-ROLA)">Video Rola (V-ROLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Udaya.TV.(UDAYA).us" xmltv_id="Udaya TV (UDAYA)">Udaya TV (UDAYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|B4U.Music.(B4UMU).us" xmltv_id="B4U Music (B4UMU)">B4U Music (B4UMU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Motor.Trend.HDTV.(MTHD).us" xmltv_id="Motor Trend HDTV (MTHD)">Motor Trend HDTV (MTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dish.Network.FYI.(DNTWRK).us" xmltv_id="Dish Network FYI (DNTWRK)">Dish Network FYI (DNTWRK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Home.Shopping.Network.2.HDTV.(HSN2).us" xmltv_id="Home Shopping Network 2 HDTV (HSN2)">Home Shopping Network 2 HDTV (HSN2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CBC.Drama.(CBCDM).us" xmltv_id="CBC Drama (CBCDM)">CBC Drama (CBCDM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cable.Satellite.Public.Affairs.Network.2.(CSPAN2).us" xmltv_id="Cable Satellite Public Affairs Network 2 (CSPAN2)">Cable Satellite Public Affairs Network 2 (CSPAN2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Root.Sports.Northwest.24/7.HDTV.(Seattle).(ROOTD).us" xmltv_id="Root Sports Northwest 24/7 HDTV (Seattle) (ROOTD)">Root Sports Northwest 24/7 HDTV (Seattle) (ROOTD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Big.Ten.Network.HDTV.(National).(BTNHD).us" xmltv_id="Big Ten Network HDTV (National) (BTNHD)">Big Ten Network HDTV (National) (BTNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GRT.GBA.Satellite.TV.(GRTGBA).us" xmltv_id="GRT GBA Satellite TV (GRTGBA)">GRT GBA Satellite TV (GRTGBA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.-.Cricket.Plus.us" xmltv_id="ATN - Cricket Plus">ATN - Cricket Plus</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NewsNation.HDTV.(NEWSNTN).us" xmltv_id="NewsNation HDTV (NEWSNTN)">NewsNation HDTV (NEWSNTN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sony.Marathi.(Dish).(SONY.MAR).us" xmltv_id="Sony Marathi (Dish) (SONY MAR)">Sony Marathi (Dish) (SONY MAR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Cooking.Channel.HDTV.(COOKHD).us" xmltv_id="The Cooking Channel HDTV (COOKHD)">The Cooking Channel HDTV (COOKHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Black.(East).(STZBK).us" xmltv_id="STARZ ENCORE Black (East) (STZBK)">STARZ ENCORE Black (East) (STZBK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Madison.Square.Garden.HDTV.(MSG.HD).us" xmltv_id="Madison Square Garden HDTV (MSG HD)">Madison Square Garden HDTV (MSG HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Satellite.Response.Network.1.(EPIC).us" xmltv_id="Satellite Response Network 1 (EPIC)">Satellite Response Network 1 (EPIC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.West.HDTV.(BSWSTHD).us" xmltv_id="Bally Sports West HDTV (BSWSTHD)">Bally Sports West HDTV (BSWSTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Movie.Channel.HDTV.(East).(TMCHD).us" xmltv_id="The Movie Channel HDTV (East) (TMCHD)">The Movie Channel HDTV (East) (TMCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Food.Network.HDTV.(East).(FOODHD).us" xmltv_id="Food Network HDTV (East) (FOODHD)">Food Network HDTV (East) (FOODHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVN.24.News.Channel.(TVN24NEW).us" xmltv_id="TVN 24 News Channel (TVN24NEW)">TVN 24 News Channel (TVN24NEW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Kids.Street.(KIDST).us" xmltv_id="Kids Street (KIDST)">Kids Street (KIDST)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME4).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME4)">NHL Center Ice &amp; MLB Extra Innings (GAME4)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|K.TV.(S..Asian.-.Tamil).(K.TV).us" xmltv_id="K TV (S. Asian - Tamil) (K TV)">K TV (S. Asian - Tamil) (K TV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zee.Cinema.(Canada).(ZEECIN).us" xmltv_id="Zee Cinema (Canada) (ZEECIN)">Zee Cinema (Canada) (ZEECIN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CBS.News.us" xmltv_id="CBS News">CBS News</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.HDTV.(East).(HBOHD).us" xmltv_id="HBO HDTV (East) (HBOHD)">HBO HDTV (East) (HBOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Curiosity.Channel(Stream).us" xmltv_id="Curiosity Channel(Stream)">Curiosity Channel(Stream)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|People.TV.(PEOPLE).us" xmltv_id="People TV (PEOPLE)">People TV (PEOPLE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVB.Drama.Channel.(TVBD).us" xmltv_id="TVB Drama Channel (TVBD)">TVB Drama Channel (TVBD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME3).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME3)">NHL Center Ice &amp; MLB Extra Innings (GAME3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TYC.Sports.(TYCSPORTS).us" xmltv_id="TYC Sports (TYCSPORTS)">TYC Sports (TYCSPORTS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Network.US.HDTV.(NHLHD).us" xmltv_id="NHL Network US HDTV (NHLHD)">NHL Network US HDTV (NHLHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|PFC.FR.(PFC.FR).us" xmltv_id="PFC FR (PFC FR)">PFC FR (PFC FR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Quran.Al.Kareem.(AQAK).us" xmltv_id="Al Quran Al Kareem (AQAK)">Al Quran Al Kareem (AQAK)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.Colors.Marathi.(COLOR).us" xmltv_id="ATN Colors Marathi (COLOR)">ATN Colors Marathi (COLOR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|EWTN.Espanol.us" xmltv_id="EWTN Espanol">EWTN Espanol</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Monumental.Sports.Network.us" xmltv_id="Monumental Sports Network">Monumental Sports Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.Kids.and.Family.HD.(East).(SZKHD).us" xmltv_id="STARZ Kids and Family HD (East) (SZKHD)">STARZ Kids and Family HD (East) (SZKHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Telefe.(TELFE2).us" xmltv_id="Telefe (TELFE2)">Telefe (TELFE2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rotana.Cinema.(RotanaCin).us" xmltv_id="Rotana Cinema (RotanaCin)">Rotana Cinema (RotanaCin)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SCRNVOI.ScreenPix.Voices.us" xmltv_id="SCRNVOI ScreenPix Voices">SCRNVOI ScreenPix Voices</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Record.Internacional.(United.States).(RECORD).us" xmltv_id="Record Internacional (United States) (RECORD)">Record Internacional (United States) (RECORD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|USTV.(USTV).us" xmltv_id="USTV (USTV)">USTV (USTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBA.League.Pass.3.us" xmltv_id="NBA League Pass 3">NBA League Pass 3</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.HD.(East).(STZEH).us" xmltv_id="STARZ ENCORE HD (East) (STZEH)">STARZ ENCORE HD (East) (STZEH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FXX.HDTV.(East).(FXXHD).us" xmltv_id="FXX HDTV (East) (FXXHD)">FXX HDTV (East) (FXXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WWE.Network.us" xmltv_id="WWE Network">WWE Network</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|iTVN.(Chicago).HDTV.(ITVNH).us" xmltv_id="iTVN (Chicago) HDTV (ITVNH)">iTVN (Chicago) HDTV (ITVNH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SCRNPIX.ScreenPix.us" xmltv_id="SCRNPIX ScreenPix">SCRNPIX ScreenPix</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RaiNews.24.(RAINEW).us" xmltv_id="RaiNews 24 (RAINEW)">RaiNews 24 (RAINEW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Galavision.HDTV.(East).(GALAH).us" xmltv_id="Galavision HDTV (East) (GALAH)">Galavision HDTV (East) (GALAH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Univisión.Network.(Pacific).(UNI).us" xmltv_id="Univisión Network (Pacific) (UNI)">Univisión Network (Pacific) (UNI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Free.Speech.TV.(FSTV).us" xmltv_id="Free Speech TV (FSTV)">Free Speech TV (FSTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BET.Her.HDTV.(BHERHD).us" xmltv_id="BET Her HDTV (BHERHD)">BET Her HDTV (BHERHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GSN.(East).(GSN).us" xmltv_id="GSN (East) (GSN)">GSN (East) (GSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SONY.MAX.2.(SONYMAX2).us" xmltv_id="SONY MAX 2 (SONYMAX2)">SONY MAX 2 (SONYMAX2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WAPA.América.(WAPA).us" xmltv_id="WAPA América (WAPA)">WAPA América (WAPA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|KWGN.(KWGN).us" xmltv_id="KWGN (KWGN)">KWGN (KWGN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Art.Aflam.2.(ART2).us" xmltv_id="Art Aflam 2 (ART2)">Art Aflam 2 (ART2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Hollywood.Suite.70s.us" xmltv_id="Hollywood Suite 70s">Hollywood Suite 70s</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Midwest.St..Louis.HDTV.24/7.(BSMWHD).us" xmltv_id="Bally Sports Midwest St. Louis HDTV 24/7 (BSMWHD)">Bally Sports Midwest St. Louis HDTV 24/7 (BSMWHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|truTV.HDTV.(East).(TruTVD).us" xmltv_id="truTV HDTV (East) (TruTVD)">truTV HDTV (East) (TruTVD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dominican.View.(DOMV).us" xmltv_id="Dominican View (DOMV)">Dominican View (DOMV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|A3Cine.(A3CINE).us" xmltv_id="A3Cine (A3CINE)">A3Cine (A3CINE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" xmltv_id="NBC Sports Philadelphia HDTV (NBCSPAHD)">NBC Sports Philadelphia HDTV (NBCSPAHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" xmltv_id="Altitude Sports and Entertainment (Colorado) HDTV 24/7 (ALTHD)">Altitude Sports and Entertainment (Colorado) HDTV 24/7 (ALTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVE.Internacional.(North.and.South.America).(TVE).us" xmltv_id="TVE Internacional (North and South America) (TVE)">TVE Internacional (North and South America) (TVE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Heroes.and.Icons.(National.Feed).(H.and.I).us" xmltv_id="Heroes and Icons (National Feed) (H and I)">Heroes and Icons (National Feed) (H and I)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Justice.Central.(JUST).us" xmltv_id="Justice Central (JUST)">Justice Central (JUST)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Future.TV.(Arabic).(FUTR).us" xmltv_id="Future TV (Arabic) (FUTR)">Future TV (Arabic) (FUTR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Disney.Junior.HDTV.East.(DISJr).us" xmltv_id="Disney Junior HDTV East (DISJr)">Disney Junior HDTV East (DISJr)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Boston.24/7.HDTV.(NBCSBHD).us" xmltv_id="NBC Sports Boston 24/7 HDTV (NBCSBHD)">NBC Sports Boston 24/7 HDTV (NBCSBHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RSN.Alternate.Channel.HDTV.(ALT).us" xmltv_id="RSN Alternate Channel HDTV (ALT)">RSN Alternate Channel HDTV (ALT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Xtra.(WILLX).us" xmltv_id="Willow Xtra (WILLX)">Willow Xtra (WILLX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Outdoor.Channel.HDTV.(OUTHD).us" xmltv_id="Outdoor Channel HDTV (OUTHD)">Outdoor Channel HDTV (OUTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Home.Shopping.Network.(HSN).us" xmltv_id="Home Shopping Network (HSN)">Home Shopping Network (HSN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SCRNACT.ScreenPix.Action.us" xmltv_id="SCRNACT ScreenPix Action">SCRNACT ScreenPix Action</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Madison.Square.Garden.Plus.HDTV.(MSG+H).us" xmltv_id="Madison Square Garden Plus HDTV (MSG+H)">Madison Square Garden Plus HDTV (MSG+H)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CMT.Music.(CMTM).us" xmltv_id="CMT Music (CMTM)">CMT Music (CMTM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Boston.Plus.Overflow.(NBCSB+).us" xmltv_id="NBC Sports Boston Plus Overflow (NBCSB+)">NBC Sports Boston Plus Overflow (NBCSB+)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Bangla.(COLOR).us" xmltv_id="Colors Bangla (COLOR)">Colors Bangla (COLOR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|AXSTV.HD.(AXSTV).us" xmltv_id="AXSTV HD (AXSTV)">AXSTV HD (AXSTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.San.Diego.Alternate.Feed.HDTV.(BSSDHDALT).us" xmltv_id="Bally Sports San Diego Alternate Feed HDTV (BSSDHDALT)">Bally Sports San Diego Alternate Feed HDTV (BSSDHDALT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATN.Ary.Zauq.(ARYZQ).us" xmltv_id="ATN Ary Zauq (ARYZQ)">ATN Ary Zauq (ARYZQ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVP.Polonia.(TVPOL).us" xmltv_id="TVP Polonia (TVPOL)">TVP Polonia (TVPOL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SET.MAX.(DISH).(SETMX).us" xmltv_id="SET MAX (DISH) (SETMX)">SET MAX (DISH) (SETMX)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CB.Tu.Televisión.Michoacán.(CBTV).us" xmltv_id="CB Tu Televisión Michoacán (CBTV)">CB Tu Televisión Michoacán (CBTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ6.us" xmltv_id="SHOPZ6">SHOPZ6</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.Zone.HDTV.(East).(HBOZHD).us" xmltv_id="HBO Zone HDTV (East) (HBOZHD)">HBO Zone HDTV (East) (HBOZHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TUDNxtra.3.(TUDNX3).us" xmltv_id="TUDNxtra 3 (TUDNX3)">TUDNxtra 3 (TUDNX3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" xmltv_id="beIN SPORTS CONNECT LaLiga (BEIN3-I)">beIN SPORTS CONNECT LaLiga (BEIN3-I)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nickelodeon.HDTV.(East).(NICHD).us" xmltv_id="Nickelodeon HDTV (East) (NICHD)">Nickelodeon HDTV (East) (NICHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Premiere.3.(NET).(PREM3NE).us" xmltv_id="Premiere 3 (NET) (PREM3NE)">Premiere 3 (NET) (PREM3NE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|beIN.Sports.HDTV.(Spanish).(beINHD).us" xmltv_id="beIN Sports HDTV (Spanish) (beINHD)">beIN Sports HDTV (Spanish) (beINHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|RIT.(RIT).us" xmltv_id="RIT (RIT)">RIT (RIT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Kapatid.TV5.(KTV5).us" xmltv_id="Kapatid TV5 (KTV5)">Kapatid TV5 (KTV5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Newsmax.(NEWSM).us" xmltv_id="Newsmax (NEWSM)">Newsmax (NEWSM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Big.Ten.Network.HDTV.(24/7.Overflow.#1).(BTFB1).us" xmltv_id="Big Ten Network HDTV (24/7 Overflow #1) (BTFB1)">Big Ten Network HDTV (24/7 Overflow #1) (BTFB1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|VICE.HDTV.(VICEHD).us" xmltv_id="VICE HDTV (VICEHD)">VICE HDTV (VICEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Colors.Gujarati.(COLGUJ).us" xmltv_id="Colors Gujarati (COLGUJ)">Colors Gujarati (COLGUJ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|China.Movie.Channel.(CHINACH).us" xmltv_id="China Movie Channel (CHINACH)">China Movie Channel (CHINACH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Movie.Channel.Xtra.(West).(TMCXw).us" xmltv_id="The Movie Channel Xtra (West) (TMCXw)">The Movie Channel Xtra (West) (TMCXw)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Ohio.(Cleveland).HDTV.(BSOHHD).us" xmltv_id="Bally Sports Ohio (Cleveland) HDTV (BSOHHD)">Bally Sports Ohio (Cleveland) HDTV (BSOHHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Shen.Zhen.TV.(SZTV).us" xmltv_id="Shen Zhen TV (SZTV)">Shen Zhen TV (SZTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GMA.RADIO.DZBBR.(DZBBR).us" xmltv_id="GMA RADIO DZBBR (DZBBR)">GMA RADIO DZBBR (DZBBR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.Chicago.HDTV.(NBCSCHHD).us" xmltv_id="NBC Sports Chicago HDTV (NBCSCHHD)">NBC Sports Chicago HDTV (NBCSCHHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MGM+.Hits.HDTV.(East).(MGM+HTHD).us" xmltv_id="MGM+ Hits HDTV (East) (MGM+HTHD)">MGM+ Hits HDTV (East) (MGM+HTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Dish.College.Sports.(COLLG).us" xmltv_id="Dish College Sports (COLLG)">Dish College Sports (COLLG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Disney.XD.(East).(DISXD).us" xmltv_id="Disney XD (East) (DISXD)">Disney XD (East) (DISXD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Three.Angels.Broadcasting.Network.(3ABN).us" xmltv_id="Three Angels Broadcasting Network (3ABN)">Three Angels Broadcasting Network (3ABN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|News.Only.(Sling).(NEWSO).us" xmltv_id="News Only (Sling) (NEWSO)">News Only (Sling) (NEWSO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jiangsu.International.TV.Channel.(Chinese-Mandarin).(JIC).us" xmltv_id="Jiangsu International TV Channel (Chinese-Mandarin) (JIC)">Jiangsu International TV Channel (Chinese-Mandarin) (JIC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TASTE.Tastemade.us" xmltv_id="TASTE Tastemade">TASTE Tastemade</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|STARZ.ENCORE.Family.(East).(STZFM).us" xmltv_id="STARZ ENCORE Family (East) (STZFM)">STARZ ENCORE Family (East) (STZFM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Azteca.Clic.(AZCLIC).us" xmltv_id="Azteca Clic (AZCLIC)">Azteca Clic (AZCLIC)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Sun.HDTV.(BSSUNHD).us" xmltv_id="Bally Sports Sun HDTV (BSSUNHD)">Bally Sports Sun HDTV (BSSUNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Milenio.Televisión.(MILTV).us" xmltv_id="Milenio Televisión (MILTV)">Milenio Televisión (MILTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Aapka.Colors.(US).(AAPKAUS).us" xmltv_id="Aapka Colors (US) (AAPKAUS)">Aapka Colors (US) (AAPKAUS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Globo.Internacional.(LATAM.and.United.States).(GLOBO).us" xmltv_id="TV Globo Internacional (LATAM and United States) (GLOBO)">TV Globo Internacional (LATAM and United States) (GLOBO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HBO.2.HDTV.(East).(HBO2HD).us" xmltv_id="HBO 2 HDTV (East) (HBO2HD)">HBO 2 HDTV (East) (HBO2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MSGZ2HD.us" xmltv_id="MSGZ2HD">MSGZ2HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ION.East.Cable/Dish.(ION).us" xmltv_id="ION East Cable/Dish (ION)">ION East Cable/Dish (ION)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|BBC.Arabic.(DISH).(BBCARAB).us" xmltv_id="BBC Arabic (DISH) (BBCARAB)">BBC Arabic (DISH) (BBCARAB)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GMA.Life.TV.(GMAL).us" xmltv_id="GMA Life TV (GMAL)">GMA Life TV (GMAL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bandamax.(U.S.).(BANDA).us" xmltv_id="Bandamax (U.S.) (BANDA)">Bandamax (U.S.) (BANDA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Real.Americas.Voice.us" xmltv_id="Real Americas Voice">Real Americas Voice</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Baby.TV.(Poland).US.feed.(BBTVP).us" xmltv_id="Baby TV (Poland) US feed (BBTVP)">Baby TV (Poland) US feed (BBTVP)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NBC.Sports.California.(DISH).(NBCSCA).us" xmltv_id="NBC Sports California (DISH) (NBCSCA)">NBC Sports California (DISH) (NBCSCA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|FM.(FM).us" xmltv_id="FM (FM)">FM (FM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Great.American.Country.HDTV.(GACHD).us" xmltv_id="Great American Country HDTV (GACHD)">Great American Country HDTV (GACHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|UniMás.(East).(UNIMAS).us" xmltv_id="UniMás (East) (UNIMAS)">UniMás (East) (UNIMAS)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Jus.Punjabi.(JUSPUNJ).us" xmltv_id="Jus Punjabi (JUSPUNJ)">Jus Punjabi (JUSPUNJ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SundanceTV.HDTV.(East).(SUNHD).us" xmltv_id="SundanceTV HDTV (East) (SUNHD)">SundanceTV HDTV (East) (SUNHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ESPN.News.HDTV.(ESNEWSHD).us" xmltv_id="ESPN News HDTV (ESNEWSHD)">ESPN News HDTV (ESNEWSHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Antenna.Greek.TV.(ANTENA).us" xmltv_id="Antenna Greek TV (ANTENA)">Antenna Greek TV (ANTENA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|LOGO.HDTV.(East).(LGOHD).us" xmltv_id="LOGO HDTV (East) (LGOHD)">LOGO HDTV (East) (LGOHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|National.Geographic.Channel.HDTV.(NGCHD).us" xmltv_id="National Geographic Channel HDTV (NGCHD)">National Geographic Channel HDTV (NGCHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Sakshi.TV.(SAKSHI).us" xmltv_id="Sakshi TV (SAKSHI)">Sakshi TV (SAKSHI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ActionMAX.HDTV.(East).(AMXHD).us" xmltv_id="ActionMAX HDTV (East) (AMXHD)">ActionMAX HDTV (East) (AMXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TVB.News.(TVBN).us" xmltv_id="TVB News (TVBN)">TVB News (TVBN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mid.Atlantic.Sports.Network.2.HDTV.(MASN2HD).us" xmltv_id="Mid Atlantic Sports Network 2 HDTV (MASN2HD)">Mid Atlantic Sports Network 2 HDTV (MASN2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" xmltv_id="ATT SportsNet Pittsburgh HDTV (Pittsburgh DMA) (ATTHD)">ATT SportsNet Pittsburgh HDTV (Pittsburgh DMA) (ATTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Azteca.Cinema.(AZCINE).us" xmltv_id="Azteca Cinema (AZCINE)">Azteca Cinema (AZCINE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TV.Games.Network.(TVG).us" xmltv_id="TV Games Network (TVG)">TV Games Network (TVG)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ITVN.Extra.(ITVNE).us" xmltv_id="ITVN Extra (ITVNE)">ITVN Extra (ITVNE)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|LOVE.us" xmltv_id="LOVE">LOVE</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Estrella.TV.(East).(ESTRELLA).us" xmltv_id="Estrella TV (East) (ESTRELLA)">Estrella TV (East) (ESTRELLA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAMEHD).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAMEHD)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAMEHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Cine.Latino.(US).(CINEL).us" xmltv_id="Cine Latino (US) (CINEL)">Cine Latino (US) (CINEL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.North.HDTV.(BSNOR).us" xmltv_id="Bally Sports North HDTV (BSNOR)">Bally Sports North HDTV (BSNOR)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.Sports.1.HDTV.(FS1HD).us" xmltv_id="Fox Sports 1 HDTV (FS1HD)">Fox Sports 1 HDTV (FS1HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CBS.Sports.Network.HDTV.(CBSSD).us" xmltv_id="CBS Sports Network HDTV (CBSSD)">CBS Sports Network HDTV (CBSSD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Baby.TV.(France).(BABYTV).us" xmltv_id="Baby TV (France) (BABYTV)">Baby TV (France) (BABYTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rec.TV.(RECTV).us" xmltv_id="Rec TV (RECTV)">Rec TV (RECTV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Universal.Kids.HDTV.(SPROUTHD).us" xmltv_id="Universal Kids HDTV (SPROUTHD)">Universal Kids HDTV (SPROUTHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME1).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME1)">NHL Center Ice &amp; MLB Extra Innings (GAME1)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME6).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME6)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME6)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|El.Trece.(Canal.13).(CNL13).us" xmltv_id="El Trece (Canal 13) (CNL13)">El Trece (Canal 13) (CNL13)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Mav.TV.HDTV.(MavHD).us" xmltv_id="Mav TV HDTV (MavHD)">Mav TV HDTV (MavHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Lifetime.Movies.HDTV.(East).(LIFEMOV).us" xmltv_id="Lifetime Movies HDTV (East) (LIFEMOV)">Lifetime Movies HDTV (East) (LIFEMOV)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ART.Music.(ARTMU).us" xmltv_id="ART Music (ARTMU)">ART Music (ARTMU)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|QVC3.(QVC3).us" xmltv_id="QVC3 (QVC3)">QVC3 (QVC3)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GMA.Pinoy.TV.(East).(GMA).us" xmltv_id="GMA Pinoy TV (East) (GMA)">GMA Pinoy TV (East) (GMA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Estudio.5.(ESTUD5).us" xmltv_id="Estudio 5 (ESTUD5)">Estudio 5 (ESTUD5)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Al.Jadeed.(Al.Jadeed).us" xmltv_id="Al Jadeed (Al Jadeed)">Al Jadeed (Al Jadeed)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Zoom.(ZOOM).us" xmltv_id="Zoom (ZOOM)">Zoom (ZOOM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|International.Access.(INTER).us" xmltv_id="International Access (INTER)">International Access (INTER)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Radio.Channel.(RADIO).us" xmltv_id="Radio Channel (RADIO)">Radio Channel (RADIO)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rythmos.Radio.(RYTHM).us" xmltv_id="Rythmos Radio (RYTHM)">Rythmos Radio (RYTHM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Times.Now.(Dish).(TIMES).us" xmltv_id="Times Now (Dish) (TIMES)">Times Now (Dish) (TIMES)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME14).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME14)">NHL Center Ice &amp; MLB Extra Innings (GAME14)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Florida.(Dish).(BSFL).us" xmltv_id="Bally Sports Florida (Dish) (BSFL)">Bally Sports Florida (Dish) (BSFL)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|The.Disney.Channel.HDTV.(East).(DISHD).us" xmltv_id="The Disney Channel HDTV (East) (DISHD)">The Disney Channel HDTV (East) (DISHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|GREAT.(Smart).(GREAT).us" xmltv_id="GREAT (Smart) (GREAT)">GREAT (Smart) (GREAT)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SHOPZ3-TCT.FAMILY.HD.us" xmltv_id="SHOPZ3-TCT FAMILY HD">SHOPZ3-TCT FAMILY HD</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Discovery.Life.Channel.(DLIF).us" xmltv_id="Discovery Life Channel (DLIF)">Discovery Life Channel (DLIF)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Renew.TV.(RENEW).us" xmltv_id="Renew TV (RENEW)">Renew TV (RENEW)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAMEHD2).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAMEHD2)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAMEHD2)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Fox.Sports.2.HDTV.(FS2HD).us" xmltv_id="Fox Sports 2 HDTV (FS2HD)">Fox Sports 2 HDTV (FS2HD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Tr3s.(East).(TR3s).us" xmltv_id="Tr3s (East) (TR3s)">Tr3s (East) (TR3s)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.(GAME11).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings (GAME11)">NHL Center Ice &amp; MLB Extra Innings (GAME11)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Lifetime.Television.HDTV.(East).(LIFEH).us" xmltv_id="Lifetime Television HDTV (East) (LIFEH)">Lifetime Television HDTV (East) (LIFEH)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|SEC.Network.HDTV.(SEC-A).us" xmltv_id="SEC Network HDTV (SEC-A)">SEC Network HDTV (SEC-A)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Yankees.Television.HDTV.(YESHD).us" xmltv_id="Yankees Television HDTV (YESHD)">Yankees Television HDTV (YESHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Trinity.Broadcasting.Network.(TBN).us" xmltv_id="Trinity Broadcasting Network (TBN)">Trinity Broadcasting Network (TBN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|HDNet.Movies.(HDNTM).us" xmltv_id="HDNet Movies (HDNTM)">HDNet Movies (HDNTM)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Nicktoons.Network.(East).(NICKTOON).us" xmltv_id="Nicktoons Network (East) (NICKTOON)">Nicktoons Network (East) (NICKTOON)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|MTV.Beirut.(MTVBER).us" xmltv_id="MTV Beirut (MTVBER)">MTV Beirut (MTVBER)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Roya.TV.(Sling).(ROYA).us" xmltv_id="Roya TV (Sling) (ROYA)">Roya TV (Sling) (ROYA)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NHL.Center.Ice.&amp;.MLB.Extra.Innings.HDTV.(GAME9).us" xmltv_id="NHL Center Ice &amp; MLB Extra Innings HDTV (GAME9)">NHL Center Ice &amp; MLB Extra Innings HDTV (GAME9)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|TN.(Todo.Noticias).Argentina.(TN).us" xmltv_id="TN (Todo Noticias) Argentina (TN)">TN (Todo Noticias) Argentina (TN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|ThrillerMAX.HDTV.(East).(TMXHD).us" xmltv_id="ThrillerMAX HDTV (East) (TMXHD)">ThrillerMAX HDTV (East) (TMXHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Bally.Sports.Arizona.(Dish).(BSAZ).us" xmltv_id="Bally Sports Arizona (Dish) (BSAZ)">Bally Sports Arizona (Dish) (BSAZ)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|CDINA.Cinema.Dinamita.us" xmltv_id="CDINA Cinema Dinamita">CDINA Cinema Dinamita</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Univision.Network.HDTV.(UNIHD).us" xmltv_id="Univision Network HDTV (UNIHD)">Univision Network HDTV (UNIHD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Rai.Italia.Nord.America.(RAI).us" xmltv_id="Rai Italia Nord America (RAI)">Rai Italia Nord America (RAI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|NFL.RedZone.HDTV.(NFLRZD).us" xmltv_id="NFL RedZone HDTV (NFLRZD)">NFL RedZone HDTV (NFLRZD)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|WeatherNation.HDTV.(WTHRN).us" xmltv_id="WeatherNation HDTV (WTHRN)">WeatherNation HDTV (WTHRN)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|LBCI.(LBCI).us" xmltv_id="LBCI (LBCI)">LBCI (LBCI)</channel>
+    <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Lebanese.Broadcasting.Corporation.(LBC).us" xmltv_id="Lebanese Broadcasting Corporation (LBC)">Lebanese Broadcasting Corporation (LBC)</channel>
   </channels>
 </site>

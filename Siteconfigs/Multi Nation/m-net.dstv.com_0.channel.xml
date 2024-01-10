@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="m-net.dstv.com_0">
   <channels>
-    <channel site="m-net.dstv.com_0" site_id="38" xmltv_id="ME">ME</channel>
-    <channel site="m-net.dstv.com_0" site_id="35" xmltv_id="AfroCinema | 198">AfroCinema | 198</channel>
-    <channel site="m-net.dstv.com_0" site_id="1" xmltv_id="M-Net | 101">M-Net | 101</channel>
-    <channel site="m-net.dstv.com_0" site_id="28" xmltv_id="M-Net Movies 1 | 104">M-Net Movies 1 | 104</channel>
-    <channel site="m-net.dstv.com_0" site_id="29" xmltv_id="M-Net Movies 2 | 106">M-Net Movies 2 | 106</channel>
-    <channel site="m-net.dstv.com_0" site_id="30" xmltv_id="M-Net Movies 3 | 107">M-Net Movies 3 | 107</channel>
-    <channel site="m-net.dstv.com_0" site_id="31" xmltv_id="M-Net Movies 4 | 108">M-Net Movies 4 | 108</channel>
-    <channel site="m-net.dstv.com_0" site_id="33" xmltv_id="Novela Magic | 165">Novela Magic | 165</channel>
+    <channel site="m-net.dstv.com_0" site_id="1||101" xmltv_id="M-Net | 101">M-Net | 101</channel>
+    <channel site="m-net.dstv.com_0" site_id="28||104" xmltv_id="M-Net Movies 1 | 104">M-Net Movies 1 | 104</channel>
+    <channel site="m-net.dstv.com_0" site_id="29||106" xmltv_id="M-Net Movies 2 | 106">M-Net Movies 2 | 106</channel>
+    <channel site="m-net.dstv.com_0" site_id="30||107" xmltv_id="M-Net Movies 3 | 107">M-Net Movies 3 | 107</channel>
+    <channel site="m-net.dstv.com_0" site_id="31||108" xmltv_id="M-Net Movies 4 | 108">M-Net Movies 4 | 108</channel>
+    <channel site="m-net.dstv.com_0" site_id="32||111" xmltv_id="M-Net Movies Action HQ | 111">M-Net Movies Action HQ | 111</channel>
+    <channel site="m-net.dstv.com_0" site_id="37||113" xmltv_id="Lethal Legends">Lethal Legends</channel>
+    <channel site="m-net.dstv.com_0" site_id="38||115" xmltv_id="ME">ME</channel>
+    <channel site="m-net.dstv.com_0" site_id="41||139" xmltv_id="Cine Magic">Cine Magic</channel>
+    <channel site="m-net.dstv.com_0" site_id="40||143" xmltv_id="Magic Showcase">Magic Showcase</channel>
+    <channel site="m-net.dstv.com_0" site_id="33||165" xmltv_id="Novela Magic | 165">Novela Magic | 165</channel>
+    <channel site="m-net.dstv.com_0" site_id="35||198" xmltv_id="AfroCinema | 198">AfroCinema | 198</channel>
+    <channel site="m-net.dstv.com_0" site_id="39||199" xmltv_id="Remembering Desmond Tutu">Remembering Desmond Tutu</channel>
   </channels>
 </site>
