@@ -2,49 +2,68 @@
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]canalplus.com[ne]_0">
   <channels>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180001||13EME.RUE" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180789||1MAGIC" xmltv_id="1MAGIC">1MAGIC</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180122||2STV" xmltv_id="2STV">2STV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180623||3TV" xmltv_id="3TV">3TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180829||7INFO" xmltv_id="7INFO">7INFO</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180190||7TV" xmltv_id="7TV">7TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180335||A." xmltv_id="A+">A+</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180074||A..BENIN" xmltv_id="A+ BENIN">A+ BENIN</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180681||A..IVOIRE.Antenne" xmltv_id="A+ IVOIRE Antenne">A+ IVOIRE Antenne</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180758||A..KIDS" xmltv_id="A+ KIDS">A+ KIDS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180003||AB1" xmltv_id="AB1">AB1</channel>
-    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180004||ACTION" xmltv_id="ACTION">ACTION</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180244||ACTION.HD" xmltv_id="ACTION HD">ACTION HD</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180168||AFRICA.24" xmltv_id="AFRICA 24">AFRICA 24</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180012||AFRICA.24.ENGLISH" xmltv_id="AFRICA 24 ENGLISH">AFRICA 24 ENGLISH</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180006||AFRICA.24.INFINITY" xmltv_id="AFRICA 24 INFINITY">AFRICA 24 INFINITY</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180009||AFRICA.24.SPORT" xmltv_id="AFRICA 24 SPORT">AFRICA 24 SPORT</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180783||AFRICA.MAGIC.EPIC" xmltv_id="AFRICA MAGIC EPIC">AFRICA MAGIC EPIC</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180788||AFRICA.MAGIC.SHOWCASE" xmltv_id="AFRICA MAGIC SHOWCASE">AFRICA MAGIC SHOWCASE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180166||AFRICABLE" xmltv_id="AFRICABLE">AFRICABLE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180420||AFRICANEWS" xmltv_id="AFRICANEWS">AFRICANEWS</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180242||AFRICANEWS.ENG" xmltv_id="AFRICANEWS ENG">AFRICANEWS ENG</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180083||AFRIKINFO.TV" xmltv_id="AFRIKINFO TV">AFRIKINFO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180277||AL.JAZEERA" xmltv_id="AL JAZEERA">AL JAZEERA</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180091||AL.MOURIDIYYAH.TV" xmltv_id="AL MOURIDIYYAH TV">AL MOURIDIYYAH TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180922||ALAFIA.TV" xmltv_id="ALAFIA TV">ALAFIA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180776||ALBAYANE" xmltv_id="ALBAYANE">ALBAYANE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180108||ALLELUIA.WORLD.TV" xmltv_id="ALLELUIA WORLD TV">ALLELUIA WORLD TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180759||ANIMAUX" xmltv_id="ANIMAUX">ANIMAUX</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180322||ANTENNE.A" xmltv_id="ANTENNE A">ANTENNE A</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180686||AREWA.24" xmltv_id="AREWA 24">AREWA 24</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180007||ARTE.France" xmltv_id="ARTE France">ARTE France</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180612||ASFIYAHI" xmltv_id="ASFIYAHI">ASFIYAHI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180378||ASONGA.TV" xmltv_id="ASONGA TV">ASONGA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180749||AUTHENTIC.TV" xmltv_id="AUTHENTIC TV">AUTHENTIC TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180565||AUTOMOTO" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180273||B-ONE" xmltv_id="B-ONE">B-ONE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180115||BALAFON.TV" xmltv_id="BALAFON TV">BALAFON TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180569||BANTAMBA.TV" xmltv_id="BANTAMBA TV">BANTAMBA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180008||BBC.NEWS" xmltv_id="BBC NEWS">BBC NEWS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180327||BBLACK.AFRICA" xmltv_id="BBLACK AFRICA">BBLACK AFRICA</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180325||BENIE.TV" xmltv_id="BENIE TV">BENIE TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180118||BETV" xmltv_id="BETV">BETV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180337||BF1.TV" xmltv_id="BF1 TV">BF1 TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180840||BLOOMBERG.TV" xmltv_id="BLOOMBERG TV">BLOOMBERG TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180925||BONFEREY" xmltv_id="BONFEREY">BONFEREY</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180030||BOSOLO.TV" xmltv_id="BOSOLO TV">BOSOLO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180753||BTN.TV" xmltv_id="BTN TV">BTN TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180556||BURKINA.INFO" xmltv_id="BURKINA INFO">BURKINA INFO</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180390||BUSINESS.24" xmltv_id="BUSINESS 24">BUSINESS 24</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180037||Bukedde.TV" xmltv_id="Bukedde TV">Bukedde TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180120||C8" xmltv_id="C8">C8</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180026||CAM10" xmltv_id="CAM10">CAM10</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180172||CANAL.2.INTER" xmltv_id="CANAL 2 INTER">CANAL 2 INTER</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180671||CANAL.2.MOVIES" xmltv_id="CANAL 2 MOVIES">CANAL 2 MOVIES</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180546||CANAL.3.BENIN" xmltv_id="CANAL 3 BENIN">CANAL 3 BENIN</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180795||CANAL.3.BURKINA" xmltv_id="CANAL 3 BURKINA">CANAL 3 BURKINA</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180093||CANAL.EDUCATION" xmltv_id="CANAL EDUCATION">CANAL EDUCATION</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180245||CANAL.EVENEMENT.AFRIQUE" xmltv_id="CANAL EVENEMENT AFRIQUE">CANAL EVENEMENT AFRIQUE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180231||CANAL.EVENEMENT.EASY" xmltv_id="CANAL EVENEMENT EASY">CANAL EVENEMENT EASY</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180626||CANAL..ACTION.CENTRE" xmltv_id="CANAL+ ACTION CENTRE">CANAL+ ACTION CENTRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180645||CANAL..ACTION.OUEST" xmltv_id="CANAL+ ACTION OUEST">CANAL+ ACTION OUEST</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180101||CANAL..CAN.HD" xmltv_id="CANAL+ CAN HD">CANAL+ CAN HD</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180210||CANAL..CAN.HD.IVOIRE" xmltv_id="CANAL+ CAN HD IVOIRE">CANAL+ CAN HD IVOIRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180125||CANAL..CINEMA.CENTRE" xmltv_id="CANAL+ CINEMA CENTRE">CANAL+ CINEMA CENTRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180016||CANAL..CINEMA.OUEST" xmltv_id="CANAL+ CINEMA OUEST">CANAL+ CINEMA OUEST</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180980||CANAL..DOCS" xmltv_id="CANAL+ DOCS">CANAL+ DOCS</channel>
@@ -59,6 +78,7 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180129||CANAL..PREMIERE.CENTRE" xmltv_id="CANAL+ PREMIERE CENTRE">CANAL+ PREMIERE CENTRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180018||CANAL..PREMIERE.OUEST" xmltv_id="CANAL+ PREMIERE OUEST">CANAL+ PREMIERE OUEST</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180625||CANAL..SPORT.1" xmltv_id="CANAL+ SPORT 1">CANAL+ SPORT 1</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180232||CANAL..SPORT.1.IVOIRE" xmltv_id="CANAL+ SPORT 1 IVOIRE">CANAL+ SPORT 1 IVOIRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180124||CANAL..SPORT.2" xmltv_id="CANAL+ SPORT 2">CANAL+ SPORT 2</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180149||CANAL..SPORT.3" xmltv_id="CANAL+ SPORT 3">CANAL+ SPORT 3</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180393||CANAL..SPORT.4" xmltv_id="CANAL+ SPORT 4">CANAL+ SPORT 4</channel>
@@ -67,9 +87,11 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180928||CAPITAL.SANTE.TV" xmltv_id="CAPITAL SANTE TV">CAPITAL SANTE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180756||CARTOON.NETWORK.Africa.SA" xmltv_id="CARTOON NETWORK Africa SA">CARTOON NETWORK Africa SA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180765||CDIRECT" xmltv_id="CDIRECT">CDIRECT</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180309||CGTN-FRANCAIS" xmltv_id="CGTN-FRANCAIS">CGTN-FRANCAIS</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180104||CH1" xmltv_id="CH1">CH1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180669||CHERIFLA.TV" xmltv_id="CHERIFLA TV">CHERIFLA TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180126||CHINGUIT.TV" xmltv_id="CHINGUIT TV">CHINGUIT TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180602||CIS.TV" xmltv_id="CIS TV">CIS TV</channel>
-    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180615||CLIQUE.TV" xmltv_id="CLIQUE TV">CLIQUE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180571||CNBC.AFRICA" xmltv_id="CNBC AFRICA">CNBC AFRICA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180048||CNEWS" xmltv_id="CNEWS">CNEWS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180760||CRIME.DISTRICT" xmltv_id="CRIME DISTRICT">CRIME DISTRICT</channel>
@@ -79,8 +101,10 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180217||CSTAR" xmltv_id="CSTAR">CSTAR</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180711||CUISINES" xmltv_id="CUISINES">CUISINES</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180764||CVK" xmltv_id="CVK">CVK</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180117||DASH.TV.NEWS" xmltv_id="DASH TV NEWS">DASH TV NEWS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180027||DBS" xmltv_id="DBS">DBS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180380||DIGITAL.CONGO" xmltv_id="DIGITAL CONGO">DIGITAL CONGO</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180792||DISCOVERY.CHANNEL" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180035||DISNEY.CHANNEL" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180075||DISNEY.JUNIOR" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180930||DJOMA.TV" xmltv_id="DJOMA TV">DJOMA TV</channel>
@@ -89,10 +113,14 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180924||DOUNIA" xmltv_id="DOUNIA">DOUNIA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180383||DRTV" xmltv_id="DRTV">DRTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180036||E!" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180780||E!.DSTV" xmltv_id="E! DSTV">E! DSTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180421||E-TELEVISION" xmltv_id="E-TELEVISION">E-TELEVISION</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180419||EASY.TV" xmltv_id="EASY TV">EASY TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180039||EATV" xmltv_id="EATV">EATV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180974||ECCLESIA.TV" xmltv_id="ECCLESIA TV">ECCLESIA TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180107||EDEN.TV" xmltv_id="EDEN TV">EDEN TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180387||ELECTRON.TV" xmltv_id="ELECTRON TV">ELECTRON TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180127||ELWATANIYA.TV" xmltv_id="ELWATANIYA TV">ELWATANIYA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180673||EMCI" xmltv_id="EMCI">EMCI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180374||ENGLISH.CLUB.TV" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180170||EQUINOXE.TV" xmltv_id="EQUINOXE TV">EQUINOXE TV</channel>
@@ -100,19 +128,27 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180040||EURONEWS" xmltv_id="EURONEWS">EURONEWS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180041||EUROSPORT.1" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180042||EUROSPORT.2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180084||EVANGILE.TV" xmltv_id="EVANGILE TV">EVANGILE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180398||EVASION.TV" xmltv_id="EVASION TV">EVASION TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180740||FARIN.WATA" xmltv_id="FARIN WATA">FARIN WATA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180376||FASHION.AFRICA.TV" xmltv_id="FASHION AFRICA TV">FASHION AFRICA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180750||FLASH.TV" xmltv_id="FLASH TV">FLASH TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180264||FOR.YOU.TV" xmltv_id="FOR YOU TV">FOR YOU TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180114||FRANCE.24" xmltv_id="FRANCE 24">FRANCE 24</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180045||FRANCE.3" xmltv_id="FRANCE 3">FRANCE 3</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180046||FRANCE.5" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180094||FULBE" xmltv_id="FULBE">FULBE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180057||France.2.INT" xmltv_id="France 2 INT">France 2 INT</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180187||GABON.1ERE" xmltv_id="GABON 1ERE">GABON 1ERE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180427||GABON.24" xmltv_id="GABON 24">GABON 24</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180830||GABON.CULTURE" xmltv_id="GABON CULTURE">GABON CULTURE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180113||GALAXIE.TELE" xmltv_id="GALAXIE TELE">GALAXIE TELE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180136||GAME.ONE" xmltv_id="GAME ONE">GAME ONE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180619||GC1" xmltv_id="GC1">GC1</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180582||GC3" xmltv_id="GC3">GC3</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180718||GC4" xmltv_id="GC4">GC4</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180752||GENESIS.TV" xmltv_id="GENESIS TV">GENESIS TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180102||GO.TV" xmltv_id="GO TV">GO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180379||GOLFE.TV" xmltv_id="GOLFE TV">GOLFE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180367||GULLI.AFRICA" xmltv_id="GULLI AFRICA">GULLI AFRICA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180034||HERITAGE.TV" xmltv_id="HERITAGE TV">HERITAGE TV</channel>
@@ -120,10 +156,15 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180033||HK6" xmltv_id="HK6">HK6</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180061||HOPE.TV" xmltv_id="HOPE TV">HOPE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180064||HOREB.TV" xmltv_id="HOREB TV">HOREB TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180119||HTV.BURUNDI" xmltv_id="HTV BURUNDI">HTV BURUNDI</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180103||HUSTLER" xmltv_id="HUSTLER">HUSTLER</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180308||I24.NEWS" xmltv_id="I24 NEWS">I24 NEWS</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180386||IMPACT.TV" xmltv_id="IMPACT TV">IMPACT TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180025||INFO.TV" xmltv_id="INFO TV">INFO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180050||INFOSPORT." xmltv_id="INFOSPORT+">INFOSPORT+</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180279||IQRAA" xmltv_id="IQRAA">IQRAA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180751||ISANGO.STAR.TV" xmltv_id="ISANGO STAR TV">ISANGO STAR TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180123||ISIBO.TV" xmltv_id="ISIBO TV">ISIBO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180038||ITV" xmltv_id="ITV">ITV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180722||ITV" xmltv_id="ITV">ITV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180580||IVOIRE.TV.Music" xmltv_id="IVOIRE TV Music">IVOIRE TV Music</channel>
@@ -131,11 +172,13 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180527||JOLIBA" xmltv_id="JOLIBA">JOLIBA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180019||KABACK.TV" xmltv_id="KABACK TV">KABACK TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180640||KALAC.TV" xmltv_id="KALAC TV">KALAC TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180096||KAYES.TV" xmltv_id="KAYES TV">KAYES TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180747||KC2" xmltv_id="KC2">KC2</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180070||KTN.HOME" xmltv_id="KTN HOME">KTN HOME</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180068||KTN.NEWS" xmltv_id="KTN NEWS">KTN NEWS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180278||KTO" xmltv_id="KTO">KTO</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180761||LA3" xmltv_id="LA3">LA3</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180112||LABARI" xmltv_id="LABARI">LABARI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180921||LAMP.FALL.TV" xmltv_id="LAMP FALL TV">LAMP FALL TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180777||LCA" xmltv_id="LCA">LCA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180054||LCI" xmltv_id="LCI">LCI</channel>
@@ -144,7 +187,6 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180762||LIFE.TV" xmltv_id="LIFE TV">LIFE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180178||LIPTAKO.TV" xmltv_id="LIPTAKO TV">LIPTAKO TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180323||LMTV" xmltv_id="LMTV">LMTV</channel>
-    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180755||LOVE.NATURE" xmltv_id="LOVE NATURE">LOVE NATURE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180573||LTM" xmltv_id="LTM">LTM</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180931||LUDIKIDS.OI" xmltv_id="LUDIKIDS OI">LUDIKIDS OI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180639||LUX.TV" xmltv_id="LUX TV">LUX TV</channel>
@@ -152,18 +194,25 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180973||MABOKE.TV" xmltv_id="MABOKE TV">MABOKE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180972||MADI.TV" xmltv_id="MADI TV">MADI TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180032||MALAIKA.TV" xmltv_id="MALAIKA TV">MALAIKA TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180092||MALIKIA.TV" xmltv_id="MALIKIA TV">MALIKIA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180585||MANDE.TV" xmltv_id="MANDE TV">MANDE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180059||MANGAS" xmltv_id="MANGAS">MANGAS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180412||MCR.TV" xmltv_id="MCR TV">MCR TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180574||MEDI1.TV" xmltv_id="MEDI1 TV">MEDI1 TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180372||MEDIA.PRIME" xmltv_id="MEDIA PRIME">MEDIA PRIME</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180265||MELODY.D'AFRIQUE" xmltv_id="MELODY D'AFRIQUE">MELODY D'AFRIQUE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180063||MEZZO" xmltv_id="MEZZO">MEZZO</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180667||MGG.TV" xmltv_id="MGG TV">MGG TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180929||MIKUBA.TV" xmltv_id="MIKUBA TV">MIKUBA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180627||MISHAPI" xmltv_id="MISHAPI">MISHAPI</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180781||MNET.CITY" xmltv_id="MNET CITY">MNET CITY</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180790||MNET.MOVIES.3" xmltv_id="MNET MOVIES 3">MNET MOVIES 3</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180791||MNET.MOVIES.4" xmltv_id="MNET MOVIES 4">MNET MOVIES 4</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180665||MOLIERE.TV" xmltv_id="MOLIERE TV">MOLIERE TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180089||MOURCHID.TV" xmltv_id="MOURCHID TV">MOURCHID TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180065||MTV.France" xmltv_id="MTV France">MTV France</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180147||MTV.HITS" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180081||MTV.LEBANON" xmltv_id="MTV LEBANON">MTV LEBANON</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180670||MUSEUM.TV" xmltv_id="MUSEUM TV">MUSEUM TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180223||NAT.GEO.WILD" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180959||NATHAN." xmltv_id="NATHAN+">NATHAN+</channel>
@@ -172,13 +221,16 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180715||NCI" xmltv_id="NCI">NCI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180307||NHK.WORLD.TV" xmltv_id="NHK WORLD TV">NHK WORLD TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180224||NICKELODEON" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180785||NICKELODEON.DSTV" xmltv_id="NICKELODEON DSTV">NICKELODEON DSTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180941||NICKELODEON.JR" xmltv_id="NICKELODEON JR">NICKELODEON JR</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180786||NICKELODEON.JUNIOR.DSTV" xmltv_id="NICKELODEON JUNIOR DSTV">NICKELODEON JUNIOR DSTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180643||NIETA.TV" xmltv_id="NIETA TV">NIETA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180600||NOLLYWOOD.EPIC" xmltv_id="NOLLYWOOD EPIC">NOLLYWOOD EPIC</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180270||NOLLYWOOD.TV" xmltv_id="NOLLYWOOD TV">NOLLYWOOD TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180971||NOVELAS..Cameroun." xmltv_id="NOVELAS (Cameroun)">NOVELAS (Cameroun)</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180368||NOVELAS.TV" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180689||NOVELAS.TV..IVOIRE." xmltv_id="NOVELAS TV (IVOIRE)">NOVELAS TV (IVOIRE)</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180281||NTV" xmltv_id="NTV">NTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180428||NYOTA" xmltv_id="NYOTA">NYOTA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180415||OMEGA.TV" xmltv_id="OMEGA TV">OMEGA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180404||ONE.TV" xmltv_id="ONE TV">ONE TV</channel>
@@ -187,14 +239,20 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180397||ORTM2" xmltv_id="ORTM2">ORTM2</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180371||PACIS.TV" xmltv_id="PACIS TV">PACIS TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180303||PARAMOUNT.TV" xmltv_id="PARAMOUNT TV">PARAMOUNT TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180280||PENTHOUSE.BLACK.CENTRE" xmltv_id="PENTHOUSE BLACK CENTRE">PENTHOUSE BLACK CENTRE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180652||PENTHOUSE.BLACK.OUEST" xmltv_id="PENTHOUSE BLACK OUEST">PENTHOUSE BLACK OUEST</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180082||PITCHOUN.AFRICA" xmltv_id="PITCHOUN AFRICA">PITCHOUN AFRICA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180128||PIWI." xmltv_id="PIWI+">PIWI+</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180072||PLANETE." xmltv_id="PLANETE+">PLANETE+</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180073||PLANETE..AVENTURE" xmltv_id="PLANETE+ AVENTURE">PLANETE+ AVENTURE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180142||PLANETE..CRIME" xmltv_id="PLANETE+ CRIME">PLANETE+ CRIME</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180055||POLAR." xmltv_id="POLAR+">POLAR+</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180211||PRIVATE.TV" xmltv_id="PRIVATE TV">PRIVATE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180728||PSTV" xmltv_id="PSTV">PSTV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180947||RAI" xmltv_id="RAI">RAI</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180164||RATELKI" xmltv_id="RATELKI">RATELKI</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180085||REFLET.TV" xmltv_id="REFLET TV">REFLET TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180587||RENOUVEAU.MALI.CULTURE" xmltv_id="RENOUVEAU MALI CULTURE">RENOUVEAU MALI CULTURE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180778||RENOUVEAU.TV" xmltv_id="RENOUVEAU TV">RENOUVEAU TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180121||RTB" xmltv_id="RTB">RTB</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180060||RTB.ZENITH" xmltv_id="RTB ZENITH">RTB ZENITH</channel>
@@ -205,7 +263,7 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180017||RTG2" xmltv_id="RTG2">RTG2</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180171||RTI.1" xmltv_id="RTI 1">RTI 1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180271||RTI2" xmltv_id="RTI2">RTI2</channel>
-    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180077||RTL9" xmltv_id="RTL9">RTL9</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180243||RTL9.HD" xmltv_id="RTL9 HD">RTL9 HD</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180716||RTNB" xmltv_id="RTNB">RTNB</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180208||RTNC" xmltv_id="RTNC">RTNC</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180062||RTNK" xmltv_id="RTNK">RTNK</channel>
@@ -216,7 +274,9 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180238||SARAOUNIA.TV" xmltv_id="SARAOUNIA TV">SARAOUNIA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180664||SAVANE.TV" xmltv_id="SAVANE TV">SAVANE TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180373||SCIENCE.ET.VIE.TV" xmltv_id="SCIENCE ET VIE TV">SCIENCE ET VIE TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180099||SEGOU.TV" xmltv_id="SEGOU TV">SEGOU TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180377||SEN.TV" xmltv_id="SEN TV">SEN TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180236||SENSATION.TV" xmltv_id="SENSATION TV">SENSATION TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180080||SERIE.CLUB" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180047||SINEMA.ZETU" xmltv_id="SINEMA ZETU">SINEMA ZETU</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180976||SOS.DOCTEUR.TV" xmltv_id="SOS DOCTEUR TV">SOS DOCTEUR TV</channel>
@@ -224,17 +284,26 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180192||STV" xmltv_id="STV">STV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180828||SUD.1ERE" xmltv_id="SUD 1ERE">SUD 1ERE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180926||SUNNA.TV" xmltv_id="SUNNA TV">SUNNA TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180100||SUNNA.TV.SAVANA" xmltv_id="SUNNA TV SAVANA">SUNNA TV SAVANA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180710||SUNU.YEUF" xmltv_id="SUNU YEUF">SUNU YEUF</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180793||SUPERSPORT.EPL" xmltv_id="SUPERSPORT EPL">SUPERSPORT EPL</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180794||SUPERSPORT.LA.LIGA" xmltv_id="SUPERSPORT LA LIGA">SUPERSPORT LA LIGA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180078||SYFY" xmltv_id="SYFY">SYFY</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180116||TAMBARIN.HAUSA.TV" xmltv_id="TAMBARIN HAUSA TV">TAMBARIN HAUSA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180043||TBC1" xmltv_id="TBC1">TBC1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180066||TBC2" xmltv_id="TBC2">TBC2</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180146||TCHAD.24" xmltv_id="TCHAD 24">TCHAD 24</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180079||TCHAD.INFOS" xmltv_id="TCHAD INFOS">TCHAD INFOS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180381||TELE.50" xmltv_id="TELE 50">TELE 50</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180235||TELE.AFRICA" xmltv_id="TELE AFRICA">TELE AFRICA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180204||TELE.CONGO" xmltv_id="TELE CONGO">TELE CONGO</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180274||TELE.SAHEL" xmltv_id="TELE SAHEL">TELE SAHEL</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180090||TELE-ECOLE" xmltv_id="TELE-ECOLE">TELE-ECOLE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180782||TELEMUNDO" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180088||TELEMUSIK.SENEGAL" xmltv_id="TELEMUSIK SENEGAL">TELEMUSIK SENEGAL</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180002||TELESUD" xmltv_id="TELESUD">TELESUD</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180148||TELETOON." xmltv_id="TELETOON+">TELETOON+</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180111||TENERE" xmltv_id="TENERE">TENERE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180095||TF1" xmltv_id="TF1">TF1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180613||TF1.SERIES.FILMS" xmltv_id="TF1 SERIES FILMS">TF1 SERIES FILMS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180234||TFM" xmltv_id="TFM">TFM</channel>
@@ -245,8 +314,11 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180723||TM1" xmltv_id="TM1">TM1</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180098||TMC" xmltv_id="TMC">TMC</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180757||TNT.Africa" xmltv_id="TNT Africa">TNT Africa</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180087||TOUBA.TV" xmltv_id="TOUBA TV">TOUBA TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180233||TOUMAI.TV" xmltv_id="TOUMAI TV">TOUMAI TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180727||TOUTE.L.HISTOIRE" xmltv_id="TOUTE L HISTOIRE">TOUTE L HISTOIRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180341||TOZALI.TV" xmltv_id="TOZALI TV">TOZALI TV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180213||TPT." xmltv_id="TPT+">TPT+</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180214||TRACE.AFRICA.AFRIQUE" xmltv_id="TRACE AFRICA AFRIQUE">TRACE AFRICA AFRIQUE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180000||TRACE.CHRISTMAS" xmltv_id="TRACE CHRISTMAS">TRACE CHRISTMAS</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180620||TRACE.GOSPEL" xmltv_id="TRACE GOSPEL">TRACE GOSPEL</channel>
@@ -267,18 +339,22 @@
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180923||TVC" xmltv_id="TVC">TVC</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180339||TVCA" xmltv_id="TVCA">TVCA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180927||TVGE" xmltv_id="TVGE">TVGE</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180581||UNIVERS.TV" xmltv_id="UNIVERS TV">UNIVERS TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180138||USHUAÏA.TV" xmltv_id="USHUAÏA TV">USHUAÏA TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180051||UTV" xmltv_id="UTV">UTV</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180388||VISION.4" xmltv_id="VISION 4">VISION 4</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180682||VISION.4.RCA" xmltv_id="VISION 4 RCA">VISION 4 RCA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180934||VIXEN" xmltv_id="VIXEN">VIXEN</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180215||VOIR." xmltv_id="VOIR+">VOIR+</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180796||VOIR..COTE.D.IVOIRE" xmltv_id="VOIR+ COTE D IVOIRE">VOIR+ COTE D IVOIRE</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180193||VOX.AFRICA" xmltv_id="VOX AFRICA">VOX AFRICA</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180561||VOX.TV" xmltv_id="VOX TV">VOX TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180011||W-SPORT" xmltv_id="W-SPORT">W-SPORT</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180572||WALF.TV" xmltv_id="WALF TV">WALF TV</channel>
-    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180614||WATAAA" xmltv_id="WATAAA">WATAAA</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180212||WILDEARTH" xmltv_id="WILDEARTH">WILDEARTH</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180110||XXL" xmltv_id="XXL">XXL</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180005||ZACU.TV" xmltv_id="ZACU TV">ZACU TV</channel>
     <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180396||ZEE.MAGIC" xmltv_id="ZEE MAGIC">ZEE MAGIC</channel>
+    <channel site="[ENC][EX]canalplus.com[ne]_0" site_id="180784||ZEE.WORLD" xmltv_id="ZEE WORLD">ZEE WORLD</channel>
   </channels>
 </site>
