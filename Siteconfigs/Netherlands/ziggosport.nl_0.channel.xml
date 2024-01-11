@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="ziggosport.nl_0">
   <channels>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Select" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Voetbal" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Golf" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Racing" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Docu" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Tennis" xmltv_id="Ziggo Sport Tennis">Ziggo Sport Tennis</channel>
-    <channel site="ziggosport.nl_0" site_id="Ziggo Sport 14" xmltv_id="Ziggo Sport 14">Ziggo Sport 14</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport 14||logo-channel-ziggosport.svg" xmltv_id="Ziggo Sport 14">Ziggo Sport 14</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Select||logo-channel-select.svg" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Voetbal||logo-channel-voetbal.svg" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Golf||logo-channel-golf.svg" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Racing||logo-channel-racing.svg" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Docu||logo-channel-docu.svg" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
+    <channel site="ziggosport.nl_0" site_id="Ziggo Sport Tennis||logo-channel-tennis.svg" xmltv_id="Ziggo Sport Tennis">Ziggo Sport Tennis</channel>
   </channels>
 </site>

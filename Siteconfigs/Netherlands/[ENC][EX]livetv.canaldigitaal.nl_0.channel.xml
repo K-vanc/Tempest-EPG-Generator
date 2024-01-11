@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]livetv.canaldigitaal.nl_0">
   <channels>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JIY-fyHDkM1Rk260f-WNXlVD8iYnlDtWOQ4ah0hb" xmltv_id="één HD">één HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xXyJW5JI58w41XLGd0MHryA15TC1u8hGoWE9Vl7Z" xmltv_id="Canvas HD">Canvas HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JIY-fyHDkM1Rk260f-WNXlVD8iYnlDtWOQ4ah0hb" xmltv_id="VRT 1">VRT 1</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xXyJW5JI58w41XLGd0MHryA15TC1u8hGoWE9Vl7Z" xmltv_id="VRT CANVAS HD">VRT CANVAS HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="V6sXTJf1I6krfS3MRe0Dd5UGqFczlxHlZ86MLQ_R" xmltv_id="VTM HD">VTM HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VTs1c2evViLMuNNWd6kqT3A6qb_h2oSNtEW1boH5" xmltv_id="Play4">Play4</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f10-0KTQ1iszOgLAwiPZTgA9NY9LvO_CtqjbfxDo" xmltv_id="VTM 2">VTM 2</channel>
@@ -11,7 +11,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="QCTpe0KAIF6RhCBMi_lirK-WXmhYlSY-yQBoMlY6" xmltv_id="VTM 4">VTM 4</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vRMpt9m113fVcOKy32-orNl7hZN-ZkrMUuEm1UwV" xmltv_id="Play6">Play6</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sKdRqoLSrU4JLac_PkI0-i7UhAKUFqg4Dyz2PqZ_" xmltv_id="VTM GOLD">VTM GOLD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tr2IFVnsSCQB-xVF6UvGsfW7aTQmsYreNLWqludL" xmltv_id="VTM Kids">VTM Kids</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tr2IFVnsSCQB-xVF6UvGsfW7aTQmsYreNLWqludL" xmltv_id="VTM NON-STOP DOKTERS">VTM NON-STOP DOKTERS</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ybB6s4EOBBNiuwIkowwP96dG-sh8PPvCwBLkS3sI" xmltv_id="Ketnet">Ketnet</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VAt55AFmgCeiZD3VeBntKC0tzq5Pg6njlA2Kis12" xmltv_id="Play7">Play7</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ZaP7TY5pf7ASg0No-UPcPAN0RumrFomXHhIF9ZKa" xmltv_id="Infokanaal">Infokanaal</channel>
@@ -21,7 +21,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="odcUuIBelyfg71B_sEbKM097T76HH65-ZS--Nnma" xmltv_id="Kanaal Z">Kanaal Z</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="fZ_kIYDrWMzQy8la7CHKeCPGq4Ej8LsS-c628r-v" xmltv_id="BVN">BVN</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="O7u9KkM0xGhIgPd7SI3vCYXo-isfcKEhVe-fYkWo" xmltv_id="MENT TV">MENT TV</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="hStn2xoVsJu09yc6AWPNkPzl5QEMva_YP4XGqwtM" xmltv_id="Fox">Fox</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="hStn2xoVsJu09yc6AWPNkPzl5QEMva_YP4XGqwtM" xmltv_id="Star Channel">Star Channel</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="v0orovTc-4z0pr4cRNue4RLddJdpctIG7P0Kavpr" xmltv_id="History">History</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OKPgb3GEofLcJUy4jFPdsuLZe7hRH9WeDVbNkG-Q" xmltv_id="BBC First HD">BBC First HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5HWDeMiEjo6f3wE9P8keQSbkNUxe82Kq6PCPKFdO" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
@@ -34,7 +34,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6TBaYIult_a7AJ_yrIUqyGu8OjKt9Y1z7q2ZirBS" xmltv_id="ELEVEN Pro League 2 NL">ELEVEN Pro League 2 NL</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="gMS71pyUkmhYnRY7Sp-WQrgJ6BVNwMhhGlvDHU7G" xmltv_id="ELEVEN Pro League 3 NL">ELEVEN Pro League 3 NL</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="nTG8t5ztNKaRfQNhnqeZgrIhNPN8RUVwdMAB9kik" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PN3ONHXhJ2CojrJMn0adSYyFYiRh8XtiOrdRNze7" xmltv_id="Sport 10">Sport 10</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PN3ONHXhJ2CojrJMn0adSYyFYiRh8XtiOrdRNze7" xmltv_id="Sport 10 HD">Sport 10 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="az5fOMPlRP78rEjIFpVKzsR1OUIRduqzQpclxlp1" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="J3y5DxWB041-Q9iw-LMthzeRsXRoJKfUjIpu7GVQ" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kg0dXFHDeFBtc077bTw2K6PIMZjLfHwrLEGSpb6I" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
@@ -44,11 +44,12 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2AXpdDpJOwbUTYS0SldRmaYbiaxwET_bfrtV0UEz" xmltv_id="Disney XD HD (04u-18u)">Disney XD HD (04u-18u)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="S9d4xr5ounXv27B_MjTJS8GH_MUh3-MX8tiXEogd" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3eLl2SWkz_HR6mLQsTy_Vnncj9youE2LrwN4lU44" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1ph8RnRWZ4D0UqBbmTdqnL_FhaR68YzxFQh2Jsxa" xmltv_id="duck tv">duck tv</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1ph8RnRWZ4D0UqBbmTdqnL_FhaR68YzxFQh2Jsxa" xmltv_id="ducktv">ducktv</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="z55krizi5eG9Y8ZzEbPfi3rTETMX0V80BUM0MPm_" xmltv_id="Baby TV">Baby TV</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GdpL5nMyk1NcLfU261_aXM6dGibHCl1OLgyx9544" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OacPymbO0f6ifM5PxUg58wvLQWRlgyjmE2sCKxqd" xmltv_id="Pebble TV">Pebble TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="XmwOQFr2Zzpaw69tv3bHWc7-xrX1CnM8HIk4jVMG" xmltv_id="192TV">192TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xU6Tdm1hQ36eH1itZb1pXeb9qbHvIGz-iX1OwpIb" xmltv_id="MTV NL">MTV NL</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GdpL5nMyk1NcLfU261_aXM6dGibHCl1OLgyx9544" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BFKX-rwOIt-AB-ZgXHYaezFanZ5_q83BxK91ojNw" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="A32HhBwtYMe4lO4xw6XWxAUJclLY3SINft_WJbQK" xmltv_id="XITE">XITE</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Mpw70GftHQ_H60VOCrbNThnMkX07uVwp9a3re83Y" xmltv_id="MTV 00s">MTV 00s</channel>
@@ -63,27 +64,28 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="pRqkZNFJxFcFITQEay2_Q5YoqdazSBBXxfrcy4LW" xmltv_id="France 2 HD">France 2 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xZKMS_mhrVhdjINQqgkU0wgpxM3f0XE-g3t7XsjP" xmltv_id="franceinfo">franceinfo</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Q5HzqCO2eICuK0QQjDkSOrUXCVUiNAVWySg7yUJh" xmltv_id="(18+) Playboy TV HD">(18+) Playboy TV HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SU8j9Ce1vrvKFuPntS1BYU6YQvaj7ayY4yF8SpiQ" xmltv_id="(18+) Dorcel TV HD (23-05)">(18+) Dorcel TV HD (23-05)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SU8j9Ce1vrvKFuPntS1BYU6YQvaj7ayY4yF8SpiQ" xmltv_id="(18+) Dorcel TV HD">(18+) Dorcel TV HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="39e4nBt6aDkZBrPjHXbpJF48cABM-mXIe87FvgE6" xmltv_id="(18+) Leo TV (22-06)">(18+) Leo TV (22-06)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UZYysXfobARiMj1_pu4MsuGbvKXyl0cJEygUFyGk" xmltv_id="(18+) Dorcel XXX (00-05)">(18+) Dorcel XXX (00-05)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UZYysXfobARiMj1_pu4MsuGbvKXyl0cJEygUFyGk" xmltv_id="(18+) Dorcel XXX">(18+) Dorcel XXX</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="uzzOPjn9-HFO22_9TIFik_kYR33hCvPGAG-X04lw" xmltv_id="(18+) Hustler TV">(18+) Hustler TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YpjzRbEa_wpN2s7x5MDvTjWUzv6hIB0PBTvAhgO3" xmltv_id="(18+) Penthouse Gold">(18+) Penthouse Gold</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="P72s8qv5YtADUc9kO5ZiQ6EZswaiv8CqRMFrZ551" xmltv_id="(18+) Penthouse Quickies">(18+) Penthouse Quickies</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="P72s8qv5YtADUc9kO5ZiQ6EZswaiv8CqRMFrZ551" xmltv_id="(18+) Penthouse Reality TV">(18+) Penthouse Reality TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LppV5VNv-_xc9kMKBA86imA_-vLCecdiZr3MIEyU" xmltv_id="(18+) VividTV">(18+) VividTV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GuWcT5XzyK01Z74TLsufoJ0VThHsJ_K9S6eG8XEg" xmltv_id="(18+) VIXEN HD">(18+) VIXEN HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="bRGs0D7A5-JzLfZP7P-kv0cHduoz4xi8M2zae5-Q" xmltv_id="(18+) Man-X (00-06)">(18+) Man-X (00-06)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LMfl2o1S7SFoHchYr9c0JCKbd3w9K3XkGci7RjBG" xmltv_id="FIGHTBOX">FIGHTBOX</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="N2VYHuUpqpVDKyFGVJ9MXUqclWvP2fzAI2rw6qXM" xmltv_id="InUltra UHD">InUltra UHD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="clwCvxvD7qGz7kNxkZKAJ_UcNYWHqAkIlq7Em9VD" xmltv_id="MyZen TV 4K">MyZen TV 4K</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="clwCvxvD7qGz7kNxkZKAJ_UcNYWHqAkIlq7Em9VD" xmltv_id="MyZen.tv">MyZen.tv</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n-rGdJpEw565eTiv05UrLZn_lwV9cPwWFjq6oFll" xmltv_id="AutoMotorSport HD">AutoMotorSport HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3YkPDJJdyjwswasPAIGFn8QaYsTE1vyJC8nnNFlD" xmltv_id="AutoMotorSport HD">AutoMotorSport HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qkurpqg-1I4MvV2ZgYCh7BwCOKQ2nOWiEvUmfrbq" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="c2Zizb4y-j0jSz1je7joROr5YbwFwCVZpjVkTHAo" xmltv_id="Love Nature 4k">Love Nature 4k</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BqugkTEkk1017AmSmL2yFgzBHhMNVWP4TFLj-rQH" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="K_ufbr1AwomsLYLd2DiLQI3JbpHjRp6KEA4XALVP" xmltv_id="EarthxTV">EarthxTV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_RVw6L7EBUIG4-BSuxzlB83DJiST2r2Lz5Ag1hVO" xmltv_id="Sky News">Sky News</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7C23WBA4SKmWqZoQm06_ZxRMRm0ST1qaNg0x8DKh" xmltv_id="BBC World News HD">BBC World News HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7C23WBA4SKmWqZoQm06_ZxRMRm0ST1qaNg0x8DKh" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jo6muwfrJiEjZNPZ6FwAJ9kzqTS-7NDpQCa1PTAJ" xmltv_id="CNBC HD">CNBC HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J" xmltv_id="France 24 (in English)">France 24 (in English)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="nIsWZMGegZ9XVvUTERNM-QkTV__chha16_zLU7Rq" xmltv_id="Euronews (Français)">Euronews (Français)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VOqemAVo6UBSWvYncEHhG_vaTy0ZZAGoOC0kNSRA" xmltv_id="TV5MONDE HD (F,B,CH)">TV5MONDE HD (F,B,CH)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="k8Xa_tdVu4FOO97gzPVfHh6OSWx7RT6KbrQ72UIj" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_lYAaFXuigO2Y41jJaV70v5dh7TOpWcsg3tdVRIh" xmltv_id="CNN International">CNN International</channel>
@@ -97,7 +99,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="w1dmJY5C4gd4VhZXKpbQs1ipdkAplXxJZ_fQlS-6" xmltv_id="CGTN Documentary HD">CGTN Documentary HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="i0b3-T_GDgG0jh_f2f2kuWthNoC9AxtZV0ZlTNuu" xmltv_id="TV Noord">TV Noord</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9KWRx1PpAfAhzEkIICQGPQY_qpKXJCgn0e6sAfKO" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Kzk167jYHmkA684sDFse1ZzqXJRNKHjJUnBAr-9w" xmltv_id="L1MBURG">L1MBURG</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Kzk167jYHmkA684sDFse1ZzqXJRNKHjJUnBAr-9w" xmltv_id="L1mburg">L1mburg</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RFYpjtwB4fnb4BTr-VAf8HIw1-8f9WP3pGH3fg_B" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xzS1QgcwXYYveWn0v5zTDP86VchfkXeKG6h2NvJH" xmltv_id="TV Gelderland">TV Gelderland</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="QOFmbg81iP3GvmNaCAbhBSebp5kpF6b33NoX76Nv" xmltv_id="Omrop Fryslan">Omrop Fryslan</channel>
@@ -110,7 +112,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="46gQICNiun84mlPOkRcYvm-LBOD7I-1GGyK78sNY" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sJVL-q7CPKj4THA8vz2pqfB0wVi7Wps2Bg1lCs28" xmltv_id="SAT.1 Gold Österreich">SAT.1 Gold Österreich</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sRYgIqXBSAsxGYPqq3iaa55NIvKBULfIQd-1wIEt" xmltv_id="RTL Television">RTL Television</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kKDMeBHwwT3H_w4Jlh1UaDHahnV5U3S4YfIy0Ejd" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BEhLG_RwjRKI5RCxHvRofhh2CoPqkiQUMCXrrjL1" xmltv_id="RTLZWEI">RTLZWEI</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ybxBk6aDdP4DErwrRzvfRvF4PCm3xBC2XEw9rhLU" xmltv_id="NITRO">NITRO</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1" xmltv_id="RTLup">RTLup</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SuHkMD67eYUKopLXJdaCES5yCKMqJFdPA8JDnPok" xmltv_id="ProSieben">ProSieben</channel>
@@ -118,14 +120,14 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="0a1-GQWfmPcArTtD-kGibNqNKLBrRzAPorl3s7e0" xmltv_id="VOXup">VOXup</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="V8ycBSF2Ek4KiJi6fS1VQNDH6LcDseEL-sq1jN5W" xmltv_id="VOX">VOX</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rpEr0ml-G1HtdWJvof7YuqVOlp1IgwuvQveHyF5k" xmltv_id="sixx">sixx</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aRBd9nolmDtBFkqWe1TYK4n0Bh984nfTvk0PrSZ5" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="r6U2phvOi9OYnpCdNQtiAlpKQ24ey956BkiTXaPo" xmltv_id="Kabel Eins">Kabel Eins</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="dOCnH842qiQdDaIHvgebzfkjHw2p84WxQEr8gcpA" xmltv_id="DMAX">DMAX</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UkL0JlXceD33uUGULv6k0rlqMwYzELkqrlWPKaFW" xmltv_id="N24 Doku">N24 Doku</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vkDuCy-3m0q_31RGnyqjksF8ouMLb38W3jJAFDvN" xmltv_id="Kabel Eins Doku Austria">Kabel Eins Doku Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1UEYSDN8f4K10YM61V-F_rWv6L9_kVnY1xztISp2" xmltv_id="Tele 5">Tele 5</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ZlYLuRV9FUJmabygjF4yGuoe2XhuualwVN9M1O6e" xmltv_id="arte HD">arte HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ZlYLuRV9FUJmabygjF4yGuoe2XhuualwVN9M1O6e" xmltv_id="Arte HD">Arte HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="A_kUN_sEspE3TS-6X6lX-KKxUDZAGxVlXfm_LFz8" xmltv_id="ONE HD">ONE HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1xAweThSb0ehJR7kYC2jKGSpoe9zXD3jpw1M6YEM" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1xAweThSb0ehJR7kYC2jKGSpoe9zXD3jpw1M6YEM" xmltv_id="Lilo TV">Lilo TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="0ZAi5RvqNu8QCR7NLHSrnHivAaORQZMT4my4hccD" xmltv_id="ZDF_neo HD">ZDF_neo HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="w2Ne8-SdZtBTSLlYGKqAq-U9dF09Mjj4Pjorp0pk" xmltv_id="Euronews (Deutsch)">Euronews (Deutsch)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="CSGKliRXOms6lsxLKX16R_Zijbb6xABcSo-ReWMH" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
@@ -134,35 +136,35 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2c8VBmQkjxPT7fo0ZJSyVrPTfm5I5fOroDlPL8JF" xmltv_id="Tagesschau 24 HD">Tagesschau 24 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="DovKbTuHC3SMwe-_h_nRDzHUs8Vvi2k44QNXi9fv" xmltv_id="Welt">Welt</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="veE2L-Ar3ZuXcfCFf1lw2MWsN7V_SjCcq-GSHAMl" xmltv_id="n-tv">n-tv</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms" xmltv_id="Servus TV HD Deutschland">Servus TV HD Deutschland</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms" xmltv_id="DF1 HD">DF1 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rmSjj7YgCK6PXcdsA94iroV0tMe7c7xKMAlpXPP_" xmltv_id="Eurosport 1 Deutschland">Eurosport 1 Deutschland</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh" xmltv_id="sport1">sport1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="av01X64DxeEU-wNJ6cOh9EQQak7V0RvqxTrCz1B_" xmltv_id="DW-TV (Deutsche Welle)">DW-TV (Deutsche Welle)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="KU_1m3GhDiBK-LF5st2JdbeGPtMdG8_XaKXcALz-" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Rj_5OuDStMJ_ahbnONBEbAv7XkUJ7H-OlpMTeo62" xmltv_id="Disney Channel DE">Disney Channel DE</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="snxwx5OVJN3iWy2UW5H6VKFaLznEUBBr2T5mI9YL" xmltv_id="Nickelodeon DE">Nickelodeon DE</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AUtjZVdEewEEbOsunzitWSar4aQyWkDA-WSiNTdc" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="uzx1HhGjtSor4NY24SnftIOVAXUI32YlSk9y01Wp" xmltv_id="Nickelodeon DE">Nickelodeon DE</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AUtjZVdEewEEbOsunzitWSar4aQyWkDA-WSiNTdc" xmltv_id="RTL Super">RTL Super</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-" xmltv_id="KiKA HD">KiKA HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="u8uQ2ZQih0D5WgGUA0SxoMsRL2HxFhYexFNpQmOJ" xmltv_id="RiC">RiC</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9x2Y-reSWJnCYXAd9c1CO-AeSgWypvJycWs2n4Iu" xmltv_id="OE24.TV">OE24.TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UurnAERgsmTp4v-YnPueI79MEJzpWXYi6ZCshYH2" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Köln">WDR HD Köln</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Duisburg">WDR HD Duisburg</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Bonn">WDR HD Bonn</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Aachen">WDR HD Aachen</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="dLoS4rjAJ1kmZxY1tQs9TQR3GbyPnKwmmncvro4s" xmltv_id="WDR HD Köln">WDR HD Köln</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Rp-vXc6edaG0sDnqBrxKQB3ZUaJ1hit-11rQtqG8" xmltv_id="WDR HD Duisburg">WDR HD Duisburg</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NZmzXp7HhxnX9xDURGcx__JINVsvPO5Z_MU3QDTF" xmltv_id="WDR HD Bonn">WDR HD Bonn</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="KKgP8Cm1-LRKiFICZRNoGodpYcuOq9_oLdtMyzXB" xmltv_id="WDR HD Aachen">WDR HD Aachen</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Bielefeld">WDR HD Bielefeld</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Dortmund">WDR HD Dortmund</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Düsseldorf">WDR HD Düsseldorf</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Essen">WDR HD Essen</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Wuppertal">WDR HD Wuppertal</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Münster">WDR HD Münster</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Siegen">WDR HD Siegen</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="TxIyDiIJw8FEuW2o87s9OABeXIWQMEE-_U4r96af" xmltv_id="WDR HD Dortmund">WDR HD Dortmund</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="gcrdlDWor9PxrlAt8qWfuUHNhTqCvMQSmT18e31q" xmltv_id="WDR HD Düsseldorf">WDR HD Düsseldorf</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="nChDz9gDeGq-Mf5qTpmvIvaP5NG8_-OnGWDfSlOp" xmltv_id="WDR HD Essen">WDR HD Essen</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="XAhoQN8Sm1dQX-vcplp7Fdl_yAGIkRDRI04QZpd8" xmltv_id="WDR HD Wuppertal">WDR HD Wuppertal</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6qPbOBL5qs-_foR7JmrM0mKhBLXa18bRKFWJvylp" xmltv_id="WDR HD Münster">WDR HD Münster</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3n4l8Zj6CoEty6CpQ--0uauy_MSYun-p-STq2jY0" xmltv_id="WDR HD Siegen">WDR HD Siegen</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qrWWPTElzXesaBYXp4Hcea1rQXXimaAQzxkUIYLT" xmltv_id="R9 Österreich HD">R9 Österreich HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="uinRH9tyRdsRFNQNt2IrjfSefYW62EvtImfh6JUj" xmltv_id="Krone TV">Krone TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jRb-Fp9u8j4zzlxo0IphRagXWSWDMKShlJlshXG1" xmltv_id="RBB Brandenburg HD">RBB Brandenburg HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="M-lfnG-iQ3UQ4_UXR7p2hGyUE63r70IMRFIegwMy" xmltv_id="RBB Berlin HD">RBB Berlin HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_tzxk06emsMjKwcl_R8NTLPpOrcauHnfmJ-wlf75" xmltv_id="Anixe +">Anixe +</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LCd2SSB4kcVvmJfZqA5Tln3HwSnsp0a6giJzgQxw" xmltv_id="Aristo TV">Aristo TV</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="QOS7PFynz14uywZREBpAPbzVtbbT-6STfJIDPT1D" xmltv_id="Aristo TV">Aristo TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="khHy6FGYwW1nc1v9f8-sxRvJa1KV803Yv-2egOJf" xmltv_id="WDR Mediathek">WDR Mediathek</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="fY3lDa4eemAnm3dgM8m4ud8YlpVkgPbuE6YqZFeP" xmltv_id="Bild Live TV">Bild Live TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3NfHXwLpWRSjrPcKTZoMuBq6SzpnvvE503ZWZArn" xmltv_id="SWR BW HD">SWR BW HD</channel>
@@ -186,7 +188,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tlUIWm_qlCjDIMa5IF3ClPaQWZbCegWaxa2q7w_6" xmltv_id="Ulm-Allgäu HD">Ulm-Allgäu HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="M7mk6Pn262wqpN0h0baRX4OBHhg-63Zw3BoMTiyk" xmltv_id="Franken Plus">Franken Plus</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aNI-C4v8Zb0k9U7J0ppcNgEubJKbftvbPrbYKPxx" xmltv_id="HGTV (Deutschland)">HGTV (Deutschland)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PPWpbWpsxmaGrgaFeR_plsdPS0K2k5AkVqFVscA-" xmltv_id="Shop 24 Direct">Shop 24 Direct</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PPWpbWpsxmaGrgaFeR_plsdPS0K2k5AkVqFVscA-" xmltv_id="StarParadies">StarParadies</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Qg5nNBaT3bQjkukjDSzzZPIFjx56g1x1kkXOUfQV" xmltv_id="Comedy Central (D)">Comedy Central (D)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jYULoraJwPV0iySb3cAQ-qTRBOOSQGbNKA16d6T0" xmltv_id="MTV Deutschland">MTV Deutschland</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Qe70pPV8tEPQ54w_0j1jWgzow8xyMFIyrohVleq-" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
@@ -200,23 +202,23 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="MqI9yJHvfHGz1ypkszLblLwLmMX9TEkbtS6isvkR" xmltv_id="Sparhandy">Sparhandy</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rPqIaxetBGmAR6Mg6PwaXjStUJkeIrmRJdc40Qaz" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="dksPkUoqN53oekBG-EGKHYwSYhRSeA0sSPQU6AaN" xmltv_id="LT1">LT1</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cKsd0uQWh7Ru32iOz7PYm2g6ksuxxsLZgn5BghkE" xmltv_id="Schau TV">Schau TV</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cKsd0uQWh7Ru32iOz7PYm2g6ksuxxsLZgn5BghkE" xmltv_id="Kurier TV">Kurier TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2XnezUrgX8cX0XLFNRR97RQWk8v-s-DteNI0-e8I" xmltv_id="Equi 8">Equi 8</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2LqHamUbqm7-LNSgiW7Y967QmIcKrPKhi8DUuiex" xmltv_id="Regio TV">Regio TV</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yNd_Ie5UnIhPWmZPcpQD4uS7YOFJMQCTk2_wzkM6" xmltv_id="Lilo TV">Lilo TV</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yNd_Ie5UnIhPWmZPcpQD4uS7YOFJMQCTk2_wzkM6" xmltv_id="Volksmusik TV">Volksmusik TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7FyxNhTlImhxblyTnBxaW2_IEbbuenHwsZaHoPpH" xmltv_id="TVA - OTV">TVA - OTV</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kKDMeBHwwT3H_w4Jlh1UaDHahnV5U3S4YfIy0Ejd" xmltv_id="RTLZWEI Austria">RTLZWEI Austria</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sRYgIqXBSAsxGYPqq3iaa55NIvKBULfIQd-1wIEt" xmltv_id="RTL Austria">RTL Austria</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YDHTGfdjaRQMohZsR09NoSAgg0_SLxgDh1JYSeiG" xmltv_id="SUPER RTL Austria">SUPER RTL Austria</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BEhLG_RwjRKI5RCxHvRofhh2CoPqkiQUMCXrrjL1" xmltv_id="RTLZWEI Austria">RTLZWEI Austria</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="514oPCfl9kMmpafMCMeNIQcxcbytlZ23ebJUGJET" xmltv_id="RTL Austria">RTL Austria</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YDHTGfdjaRQMohZsR09NoSAgg0_SLxgDh1JYSeiG" xmltv_id="RTL Super Austria">RTL Super Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8u8OiMLBsZeokEgloWlLSplvp97OP41XiJOAVPMw" xmltv_id="RTL Nitro Austria">RTL Nitro Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n3yDP7NO5mCydzPJcjXeg4BCXv37PHe7DPkolyxe" xmltv_id="SAT.1 Österreich">SAT.1 Österreich</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="46gQICNiun84mlPOkRcYvm-LBOD7I-1GGyK78sNY" xmltv_id="SAT.1 Schweiz">SAT.1 Schweiz</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aRBd9nolmDtBFkqWe1TYK4n0Bh984nfTvk0PrSZ5" xmltv_id="Kabel Eins Schweiz">Kabel Eins Schweiz</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="r6U2phvOi9OYnpCdNQtiAlpKQ24ey956BkiTXaPo" xmltv_id="Kabel Eins Schweiz">Kabel Eins Schweiz</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aRBd9nolmDtBFkqWe1TYK4n0Bh984nfTvk0PrSZ5" xmltv_id="Kabel Eins Austria">Kabel Eins Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="dmCz7CDzCUJvYsPA4egKxUp_780JUhH37NmP0H-E" xmltv_id="ProSieben Austria">ProSieben Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SuHkMD67eYUKopLXJdaCES5yCKMqJFdPA8JDnPok" xmltv_id="ProSieben Schweiz">ProSieben Schweiz</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="snxwx5OVJN3iWy2UW5H6VKFaLznEUBBr2T5mI9YL" xmltv_id="Nickelodeon Austria">Nickelodeon Austria</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="V8ycBSF2Ek4KiJi6fS1VQNDH6LcDseEL-sq1jN5W" xmltv_id="VOX Austria">VOX Austria</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="HXLNNVmUM4Q_Ty9PGsoON7PIhtaZm1P-H_yhvk-D" xmltv_id="VOX Austria">VOX Austria</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SZ5WFCZlXklhj0pk6UJ9xuTN1Y-Aay1jXoDiC95E" xmltv_id="Folx">Folx</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="o3rLQX0hDJQnlPJdv9CfPwi379LT1M6SNeQF7_jB" xmltv_id="Niederbayern TV HD">Niederbayern TV HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3lxya3qOwmjiAzQFAPSSxc7_fTyp_qxm3XnGwsLm" xmltv_id="MeinTVshop">MeinTVshop</channel>
@@ -225,8 +227,22 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AjDOtAOljJ97QQSgUuZN6-zkaKEwOhAC-V6r3AuW" xmltv_id="QVC HD Germany">QVC HD Germany</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="19Bi9FN6WATPfVO7NWYTHnp6bxyY4MAVFHIQ1nIN" xmltv_id="Juwelo HD">Juwelo HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UzaP9ib30cssZqsUcetAURfgXy460VdqJf7Iv4MC" xmltv_id="DW-TV HD">DW-TV HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="L2AqhR9OoKu-QSr3nMhtn3UL8lfiAJateorj5r1i" xmltv_id="Deluxe Flashback">Deluxe Flashback</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="I4SBehRwCt3SNDfts_HXgFn_If1JIhU_1trQR-9a" xmltv_id="Deluxe Dance by Kontor">Deluxe Dance by Kontor</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6PdqtrVAsUlsu69M5Qm8TD_MY09s_0lAkBXUXMpo" xmltv_id="Deluxe Rock">Deluxe Rock</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xCGu-gc_Igh-q2hCL43KGUBlfs__2sL0wPqa-haF" xmltv_id="Deluxe Rap">Deluxe Rap</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="V_Zswp5FGABt-C6zBlqad43lr2Sc9L4pALfzflJr" xmltv_id="Deluxe Lounge">Deluxe Lounge</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="F-7BE_ZH1v9uEeEW3NpbIBoQI3cA07TYFbYZFjGD" xmltv_id="Red Adventure">Red Adventure</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Zkx0sAto5F6HGLtfa38sSHGEx7DsX_DRWwzquZE8" xmltv_id="Serien+">Serien+</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NXzeF-V_kxU8c5eOXY0P0bSe1hjkCXgp2hrMbkvm" xmltv_id="CGTN Documentary HD (13)">CGTN Documentary HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8MDYXh0R-mR8NDkw13ivXDlMNkXFEGaOjY6vR-K7" xmltv_id="LCP HD">LCP HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GsLEL5cyHijlCn40RMkhZdeK08Coiky27NICE7i6" xmltv_id="Crime Time">Crime Time</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UY0wX1Il5y1niLJipti623j2mAyoiH1X8XC-Kv_J" xmltv_id="Just Cooking">Just Cooking</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f6FVu8NXlStLzM7F9ADMGtjqaftI7TtHv6PhI27_" xmltv_id="One TERRA">One TERRA</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Vp2WyZ8aGwgEotP8mplQFTNouoKRl9MAARE7VZsq" xmltv_id="Hip Trips">Hip Trips</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="mWbo99VEVQGXbSfsMj7rwQE_m7OKPVADUcEpviG6" xmltv_id="Xplore">Xplore</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UcyW-gIv4dH-KQvJSjtWvj5BFn9y7g8H5JO10TBH" xmltv_id="TV Monaco">TV Monaco</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ukwQxMoejoORnPsjVfN9LNPz5l6yG3NgpolmvUFE" xmltv_id="TVRI">TVRI</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="le0F86OFFnrwK7dIrKUgeB-JpoPLprnzjX8mRYdV" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7diFU5eivtaeSw4M0gzHQLqVLYvgF9nlzLojZ8nr" xmltv_id="RTL Tele Letzebuerg">RTL Tele Letzebuerg</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BhVJ8I8LWvb5-uxj0odHXX-3NPKRlTvpV5f0n7DS" xmltv_id="Chamber TV HD">Chamber TV HD</channel>
@@ -242,46 +258,44 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="mgmHSe9nEMJpOLKaSgKhoGU6hCf4bfgz2AcoeK5_" xmltv_id="Al Jazeera HD (13)">Al Jazeera HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ceybk2P4nOAw6xx9Y0PqJL3O2acNUZ-Ae8U_TAxm" xmltv_id="TRWAM">TRWAM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ylVRghMYk0V6Skb9G_goxc_Ssuex8rRFV1PWocUY" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6dbLHWu7_Xtyajr6006nLFpVWPkyah38jytgyuCX" xmltv_id="TV 8">TV 8</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aa3ZeqZlbTnOqy_BG9pRXb4zTVP3qtB6MwC34hoo" xmltv_id="REBEL">REBEL</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Q-rDCjC6ITWDtfSRoZqq50sPsCXlgeyE6ivy0Frb" xmltv_id="Ocko Star">Ocko Star</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jYZN6FfHJXAGhbgiTcrfgXFUPaZbUvkuIKgAHbXk" xmltv_id="Ocko">Ocko</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6dbLHWu7_Xtyajr6006nLFpVWPkyah38jytgyuCX" xmltv_id="TV 8 HD">TV 8 HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Q-rDCjC6ITWDtfSRoZqq50sPsCXlgeyE6ivy0Frb" xmltv_id="OCKO STAR">OCKO STAR</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jYZN6FfHJXAGhbgiTcrfgXFUPaZbUvkuIKgAHbXk" xmltv_id="OCKO">OCKO</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Kx006ODkArYdag52HxVve4QF94HatbxGJ1gqO_ox" xmltv_id="CT 24 HD">CT 24 HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jEkhpxs2Pb2h5a8Cvy0wc5vwh8LOWKjvqyQFqeeV" xmltv_id="Noe TV HD">Noe TV HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jEkhpxs2Pb2h5a8Cvy0wc5vwh8LOWKjvqyQFqeeV" xmltv_id="Noe TV">Noe TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="q1-IzRD8VDr4AP62rhZYA3SpxS9B6NfLzzFrqFFq" xmltv_id="RTVS 24 HD">RTVS 24 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9ZxCHkSxgCwyWYWxLH5hkNtlwPFjsY-LxzGO4xTr" xmltv_id="TV Lux HD">TV Lux HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SJFcZL4A2DlPctmitwoLmecxnFDWA1XCn9L4zmff" xmltv_id="regionalnitelevize.cz">regionalnitelevize.cz</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SJFcZL4A2DlPctmitwoLmecxnFDWA1XCn9L4zmff" xmltv_id="A11">A11</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ERRhGDA7jBpQZh9ac4BTZEjfAhIFx_AqHwrn1NZM" xmltv_id="SonLife Broadcasting Network">SonLife Broadcasting Network</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YbvbK21aKYeAZzINkM-5bcMn466rvFFHt_EY1fQY" xmltv_id="GOD Europe">GOD Europe</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9ipnH4rf6VWEDIovn7oJvTNoOZK9tYAJH75hydfL" xmltv_id="EWTN katholisches TV">EWTN katholisches TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="bQ9RDUnp7ZmfQ8QXgU-CIxUiDXTvSmTgt1FVdISt" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="-CRxFNAzevHK1Z5OX5-1VIB6ABK2EyNFeq3pzE1A" xmltv_id="K-TV Fernsehen">K-TV Fernsehen</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="h1O9wtpskmLG0CfLA0sybc3lSeTG6MXAtxHlV9iJ" xmltv_id="TBN Europe (13)">TBN Europe (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="v0KcqKmvAG8mzRzmo-8j-1SKQ4y6QJt8dciFnUsH" xmltv_id="Hilsong Channel (13)">Hilsong Channel (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="bQ9RDUnp7ZmfQ8QXgU-CIxUiDXTvSmTgt1FVdISt" xmltv_id="Bibel TV (13)">Bibel TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="MZSQ5diYcF2XMk-v9ZgPU4Zt7KXNbuVtIrHfwH_O" xmltv_id="Daystar TV (13)">Daystar TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="zhELzw-dZs3MFXe1GyNKnCttlW63Y9K0ZqERNJp7" xmltv_id="S Neu Jerusalem (13)">S Neu Jerusalem (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yapzI_bWjfV18QC8WF3gpymrHr48EdLqYKj4HO2i" xmltv_id="Tele Padre Pio (13)">Tele Padre Pio (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="uehhLx2iFsxcd23ri_gtE7_ySu2MnJF6MMAtFpwI" xmltv_id="Angel TV (13)">Angel TV (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RwhVYQlbIUjBZOQu-l5WulVMyhm_xEjF4UWafitt" xmltv_id="KICC TV (13)">KICC TV (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RwhVYQlbIUjBZOQu-l5WulVMyhm_xEjF4UWafitt" xmltv_id="KICC TV (28)">KICC TV (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1qNKNQ3FfRrlT8CJg3RVi7VPLcZf7L8gBUbT1DKN" xmltv_id="sonnenklar.TV HD">sonnenklar.TV HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="QF-QKeGSPZyrG3CDR6Y-J1luZ-_edF7-y_VNU6Aj" xmltv_id="AstroTV">AstroTV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="DQQ76MRxewXiI5TXWnJ3KbUgfb_RAsxf2g-_0lID" xmltv_id="Juwelo TV">Juwelo TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7PksHdz6PiCTNhv0bMcS1BcFn3w6HjYI6OFkTyTQ" xmltv_id="HSE24 Extra">HSE24 Extra</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="WkTgDlno22VxkuoOC-rXBnOOnf-lFhBRIK1SFXXk" xmltv_id="Current Time TV">Current Time TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8vJzkbKQBoIh0PZgbgMuRneO8cIroIx6GjS4TV4q" xmltv_id="Home Shopping europe Deutschland">Home Shopping europe Deutschland</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_bH_mri6jh0mm59DRkDvVFLfYbVaIPHsIEpcK66x" xmltv_id="TV Rus">TV Rus</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kCD0d35ZAetUyqDyGoQf_vcoP0YQD22_WXBJgCx2" xmltv_id="TV Rus+ (13)">TV Rus+ (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_bH_mri6jh0mm59DRkDvVFLfYbVaIPHsIEpcK66x" xmltv_id="TV RUS">TV RUS</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="CjuT7vZch6cHPonmCwR_b8wwMuJinLf_au5gvbxF" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="lZZymHSMHK_aaxwAItyr5C-VZiPnGxHA8vi4-DPq" xmltv_id="Channel 21 Shop">Channel 21 Shop</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Q7aiWhpkV2NxlvBPfsR_ou3LemXjKmUIngSSn5WT" xmltv_id="Genius Teleshopping">Genius Teleshopping</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="u7Jwu68Tv08WoG8msoOgTDih72xQfYiEVTnXbibJ" xmltv_id="Well TV (13)">Well TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Q9_ev5sKhOFxPXN2VJOFFe_jqVZmS1dvuNyTz9Cl" xmltv_id="ER24 (13)">ER24 (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LI9DK_X0Ytbcppaty9qI-lQ_VkumPMAzBw0k3wZU" xmltv_id="Music Box Polska (13)">Music Box Polska (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OsaUZXLmY0Ag-SAbobW4AwRb1L_M3e6p96JuevY_" xmltv_id="TRT World HD">TRT World HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="pH-4fuuSAjtKLfak3l-yDQCEe8oX27uHoLe4roDm" xmltv_id="Class TV Moda (13)">Class TV Moda (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="E3JxJMRWjZuMhYuZErh7yZxr4U0Eenfa-k7AY4jR" xmltv_id="Algérie 3">Algérie 3</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LV-HafSYFv4tBK3CanG_oE54LRlujuna2fyQ4UWB" xmltv_id="Rik Sat (13)">Rik Sat (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="gRLL1Pao5NNNS7CM34RAjROWRE8xCd_T2nal1dtI" xmltv_id="Armenia 1">Armenia 1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="coKIJeQeoGx6Gq29PzIGSqSIrl2ks-UqB98NztMh" xmltv_id="8 Kanal International">8 Kanal International</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JGQPH-M3jxa7pVSW-SpZB5PZ9eLL2SiN72DM7mQa" xmltv_id="NTV Mir">NTV Mir</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AhHch1biiFXAZVXWKxcqu6i4LEMitdQUE9LsPZI5" xmltv_id="SES UHD Demo Channel">SES UHD Demo Channel</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Uvez7kCF9q5-Gh-grdv9OrIZMyRTZaBfG8Oz9Lnt" xmltv_id="UHD1 by ASTRA">UHD1 by ASTRA</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PMsMtrmBObglAjeoZUbi5V2FQNmsuR91EXnhHP2l" xmltv_id="QVC2 UHD">QVC2 UHD</channel>
@@ -291,36 +305,35 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="XsydVr5Dn7OlxwpvWoceWIMpiKv0yycpSuiBLawL" xmltv_id="Hotbird 4K1 (13)">Hotbird 4K1 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="EPb-jc7cdLk0Dtf7rH_HLvlzyB3TTomZvsh-OuKt" xmltv_id="SES UHD Demo2">SES UHD Demo2</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JRJTmONyv77sTeOu8ssiOLPn2ALfF9xOKgaVGp5G" xmltv_id="Canale Italia 83 (13)">Canale Italia 83 (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="CbbCaavy0IXZnC6BD6cybCYuWBuX7GLwsAu3Kr1V" xmltv_id="Pop Economy (13)">Pop Economy (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cu7xDDYbeXxqOw-09iLcirqB1oraxiKaWEPfD1PK" xmltv_id="ACI Sport TV (13)">ACI Sport TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YlSz4UBk1SiCDI7iRMhpTGkBwDb2DkrMwchaOSpY" xmltv_id="Voice of America (13)">Voice of America (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rAjNU6xrUbBUptC7Gg9g2a0hM9UibhmpAQEKyR1p" xmltv_id="VOA TV 2 (13)">VOA TV 2 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="4NoE4ZI8rWttpu7wgWxY66R1TGbcKoQAqofPtAsq" xmltv_id="MS Motor TV">MS Motor TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J" xmltv_id="France 24 HD (in English) (13)">France 24 HD (in English) (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sEmA3BEo74xjlgUQgKLG3_1BujIrqHIA_kUBELox" xmltv_id="BFC (13)">BFC (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="og4abYZB1sQOsXVr4lVlMZACqmVlAiPwTegJbFxM" xmltv_id="NASA HDTV (13)">NASA HDTV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="eb0oYxbeRPlBvk0dOKon9tiGK71yDFBnWxr98_DY" xmltv_id="MS Channel (13)">MS Channel (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1newJpXsDfqpmOugt3YUN_QlTG23o0yI7XeXwdb9" xmltv_id="TV Yes (13)">TV Yes (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="e1hODMrM8e6WA2430LY1UpUGR3Pn49HWiWF_e3HF" xmltv_id="CTV Vaticano (13)">CTV Vaticano (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jn6njqlmlAW5lwVdm68dKev0tIcmKkFDgTiLFIGn" xmltv_id="W9 HD Suisse (9)">W9 HD Suisse (9)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ziEBl9tZYmMB7yjbLXNEX06hbXNm3CESPHO0r5_T" xmltv_id="6ter Suisse (9)">6ter Suisse (9)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="zqJl-XWLrxzrgu0w2Bm582ET2EFp_tO-1i703Pkr" xmltv_id="M6 HD Suisse (9)">M6 HD Suisse (9)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8pD15azeShSIerMOtmVqZPi8Wi4tz6dPJ1O568Bz" xmltv_id="CGTN Français HD">CGTN Français HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Sie0X-VqN0eQUIhydiiCQWtPpcHfCj7kX-y4U6_t" xmltv_id="BBC One HD">BBC One HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xWWrXQIZOlzzQ3l7Rh4AFVKblg5hv-xe8eGnoki4" xmltv_id="BBC Two HD">BBC Two HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="EbFMLjSbBYx7MfBJYWnSDnXMx58AitncPag1ThEh" xmltv_id="Antena HD (13)">Antena HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Qg629DdgB_alibkw15TZJJbA12kfgrmi9YUrkfQ0" xmltv_id="La Une HD (13)">La Une HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tronMtHJj_mJkVrgbe84Hl6AvKLAAJxWnrg9A0LW" xmltv_id="Tipik (13)">Tipik (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AHwwxDCu7HVxX7Pxptm7J4ZqQUTXBORGMYa52otY" xmltv_id="RTL-TVI HD (13)">RTL-TVI HD (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1LcLqKY48p6nlz_M4275G8NDlNs40HN4goFxDSwX" xmltv_id="Club RTL / Kidz RTL (13)">Club RTL / Kidz RTL (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="A_LCoCRylC1F5nLdQ1cVus7dgglokuDAZMXIU0SW" xmltv_id="Plug RTL (13)">Plug RTL (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AHwwxDCu7HVxX7Pxptm7J4ZqQUTXBORGMYa52otY" xmltv_id="RTL TVI HD (13)">RTL TVI HD (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1LcLqKY48p6nlz_M4275G8NDlNs40HN4goFxDSwX" xmltv_id="RTL Club">RTL Club</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="A_LCoCRylC1F5nLdQ1cVus7dgglokuDAZMXIU0SW" xmltv_id="RTL Plug (13)">RTL Plug (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RestgL3iB64p72CQnt8piwpJmsezwtf55aN3FDkC" xmltv_id="La Trois (13)">La Trois (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ROXjqjLYvN50d61U-XtSY64eEBNXAaZfRm8z1JLn" xmltv_id="AB3">AB3</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qbcq20C6elwvVPgpXMXbEgmhO8Yvq7t-3qyMxn8R" xmltv_id="TF 1 HD">TF 1 HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qbcq20C6elwvVPgpXMXbEgmhO8Yvq7t-3qyMxn8R" xmltv_id="TF1 HD">TF1 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xcPy-rm7VuNTIt12CZBnESSJblbFLQXv3H_lBjGp" xmltv_id="France 3 HD">France 3 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="HRQckU_1tcQeCDWQH5n4e-efaO5ReWpzWJzthCpl" xmltv_id="France 4 HD">France 4 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RQNMrFpPyeR3PSYkAvGvi5UYXcWzORtL5jW_yMoU" xmltv_id="France 5 HD">France 5 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="z9FEXEiaCjTTVsPIsKx3o6MtBVhhDEUUYWkhbHPd" xmltv_id="TV Breizh HD">TV Breizh HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="KvInkrVufHX6QV_7_YAVSYqLq8xAnT1KCfgfaM_F" xmltv_id="Comédie+ HD">Comédie+ HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="m8BmH5vRdz1rnn6C-8jz-j_ZtaOFOXWK8pXZt3sz" xmltv_id="MCM">MCM</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vF1y7BcohvK6ISICwmXrt-xN93FFefc1Cs9w2PuN" xmltv_id="M6 Music">M6 Music</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="m-1WDc4roxWIi4f1tZC3MKA6Jjw0K8H5odb26gjz" xmltv_id="TMC HD">TMC HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sfTHmQ6bs-mtPMrEUOPQn8xIM-uUWVP4_zA9DkCm" xmltv_id="TFX HD">TFX HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="hwaWtuFqWpj1v9M1sbQmjAHHsWpjjufUr2fAiRfa" xmltv_id="AB1">AB1</channel>
@@ -328,7 +341,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="0QmGnjfEOxn_EF-MSpGPEol4V3WXYIdy8r05pYfi" xmltv_id="Disney Channel+1 HD">Disney Channel+1 HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ahBqDeEFmTBhFeRzI2DNlG6JQxra4Sgm0yhDZSgQ" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qtUVU0cYfcRE6HsYUGJvxXIpnG2YbUKr6owmrQxW" xmltv_id="Gulli HD">Gulli HD</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="pCm3IQ-fJKPl4navp6gzJ8fkv4w8cEUNyIVgck0U" xmltv_id="Nickelodeon HD(+)">Nickelodeon HD(+)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="pCm3IQ-fJKPl4navp6gzJ8fkv4w8cEUNyIVgck0U" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Ya64RAITwaIdBDuj5oWQHCUAsnpagYvGaA4titdK" xmltv_id="TiJi HD">TiJi HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JACMuWM5jHD7kCLp7Gwyw9KXgwEat53gS8vl2PAC" xmltv_id="Canal J HD">Canal J HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="M7xxfVQX2tqKALbJz2F5SwSz_6cwcEyeWEuE-fl-" xmltv_id="Télétoon+ HD">Télétoon+ HD</channel>
@@ -349,7 +362,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="hk0Nf4L1RMgfHpP8oxvPg6kuNIiD90WRgMhQiqxW" xmltv_id="National Geographic Wild HD (FR)">National Geographic Wild HD (FR)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="aZ6GfFC329euUCPDhbSrrxpmPs4vsOVleQQiIkdi" xmltv_id="Chasse et Pêche">Chasse et Pêche</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rZ-Q3Msg7lASkHA10vgNKktIIp6qEZSY0W0Oh50P" xmltv_id="(18+) XXL">(18+) XXL</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6m-hroHy7cif_cVpGFiYbxLCzEHwcXuGnK1ZrjxL" xmltv_id="(18+) Hustler HD">(18+) Hustler HD</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sOddcm_bNRhl5eGjiVcSPxTWu9nW6eI89hWIOryS" xmltv_id="(18+) Hustler HD">(18+) Hustler HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="g5UuMbK8VSOSSqbRXcucIGoTYFsdGDjTbEtQPTu4" xmltv_id="(18+) Private tv HD">(18+) Private tv HD</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AeNq5DgU2PSbYJ-J4iXwurZgb1xOWmQeVpjV9J9-" xmltv_id="VRT Radio1">VRT Radio1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qCO7V4H1Ldy3JAck6XHZEsM4tV-AiPyC_DN79ip7" xmltv_id="VRT Radio2">VRT Radio2</channel>
@@ -358,7 +371,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AOdGqMcwbyokoPNzouue1Whbps3OgnQXfaqbifod" xmltv_id="Klara">Klara</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VpivcMD6zdL8-wMcSW7MZr3t5DoZYbcLaYaTvWpg" xmltv_id="QMusic">QMusic</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OLEKa4-3deerFoDT9ZK_vViF56eyagR_Ooov1Lha" xmltv_id="Joe">Joe</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yW9muf2H66HtHJA9PjuHYUHG6Q8syZgef5bEQjD-" xmltv_id="Nostalgie">Nostalgie</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yW9muf2H66HtHJA9PjuHYUHG6Q8syZgef5bEQjD-" xmltv_id="Play Nostalgie">Play Nostalgie</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="nybqChvCaSyIj5m1HKiI0ZjBlYE4fCYLsAm1teMr" xmltv_id="NRJ">NRJ</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="90EK-PG7v3unV6eIPv-z51yI-MqJqSDpvtWgWRtB" xmltv_id="Classicnl">Classicnl</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n0ZQ-ayWBMmWJp8ye263WiTTdkP7XWv2dRr-m7QT" xmltv_id="BNR Nieuwsradio">BNR Nieuwsradio</channel>
@@ -375,7 +388,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="l3_mjiT_LKm69OlphLqi4wAozwGK_vFWSwF56C-9" xmltv_id="NPO Radio 1">NPO Radio 1</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YsDmx3kyZ2pxqWhELYENMCedHtiZqZz_GoGaVX0b" xmltv_id="NPO Radio 2">NPO Radio 2</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="gnP3FDE86hcSwRL4sXmb4IB5fFxm2KdbDe0DHx1V" xmltv_id="NPO 3FM">NPO 3FM</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LSO-S41ZNb6hZkLWuJGAJymijhsWulW1OJkT98Ze" xmltv_id="NPO Radio 4">NPO Radio 4</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LSO-S41ZNb6hZkLWuJGAJymijhsWulW1OJkT98Ze" xmltv_id="NPO Klassiek">NPO Klassiek</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ebOqnYPkY4oV4VFLTSTQmaWYubLtGld40cL3UXxo" xmltv_id="NPO Radio 5">NPO Radio 5</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xDYpGeF5rNFFX7CymX3iKYOOzXvcgHfG7dNAV6P3" xmltv_id="SLAM!">SLAM!</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NifCLBSqkyKzmdwELhJkIU6PmjXI83IcZrZFqPgm" xmltv_id="COUNTRY JZ">COUNTRY JZ</channel>
@@ -397,9 +410,9 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Gl7AAwn5DtRp2AtlhNyzaq3M3kJCdmhE0XmTa035" xmltv_id="Radio Classique">Radio Classique</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="wT_u3n-G6rT5_mpA3cVjnHdu3F3LlxbAcKfHD0t9" xmltv_id="NRJ FR">NRJ FR</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="R6aigCbVmD9KeFRUqaSKZTjk6L9E5gL3GEO2m4NF" xmltv_id="Europe 1">Europe 1</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ZV9RmttFmt2HeiFP6LTgvA_XYUQY6BlDHgTvYFXs" xmltv_id="Virgin Radio FR">Virgin Radio FR</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ZV9RmttFmt2HeiFP6LTgvA_XYUQY6BlDHgTvYFXs" xmltv_id="Europe2">Europe2</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GjOgXd3RzWAqPy7h23NAEcNHuvqO2PNv5Gs4EErC" xmltv_id="Sky Rock">Sky Rock</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yKZqAQcMemn8Ek8g1Y8rgdkc-tnRLgmhFuG0O2sT" xmltv_id="Nova">Nova</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yKZqAQcMemn8Ek8g1Y8rgdkc-tnRLgmhFuG0O2sT" xmltv_id="Radio Nova">Radio Nova</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="I32XjWi73jNgu2E6zUS60mLhwu_SCUSYjK_Sc0lj" xmltv_id="RFM">RFM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Rge0pSYeydiSkIELi7zhSNUyY7-CPaqvBbC0K-0t" xmltv_id="Cherie FM">Cherie FM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2vqP1rvXChjBQZPQhwh03CaNhuZ70cUAglZ_KFVr" xmltv_id="France Culture">France Culture</channel>
@@ -423,7 +436,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PBQnyrxIp1uym_rDpR5rTcrBtfP5MfFcDuDztxIv" xmltv_id="WDR Event">WDR Event</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NbtaIqhr5lfcv1DqldkVqq7Ur8qQSL3O_5SNiOvh" xmltv_id="Beur FM">Beur FM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GwxzoEMObwC2jFektb_gyiEQD38nRIcTHqAKDwea" xmltv_id="Sud Radio">Sud Radio</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yW9muf2H66HtHJA9PjuHYUHG6Q8syZgef5bEQjD-" xmltv_id="Nostalgie (FR)">Nostalgie (FR)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="G5Vf8907m_Xs8rruY_EEln0UytNjHzitxfMtWL-1" xmltv_id="Nostalgie (FR)">Nostalgie (FR)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jh8GEXMqWlxndtVkLYtUErw1fHX5nZThqr8xaOUo" xmltv_id="La prem1ère">La prem1ère</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="TczSVHAXuSMKN55ooiYO-3HWkUdrrU6liYOCi5gM" xmltv_id="VivaCité">VivaCité</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="AyF2AwQcjbn_TZuhjBrVvpEmSj6vZEJfZTAPNK14" xmltv_id="Musiq 3">Musiq 3</channel>
@@ -457,8 +470,8 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="MGH9M-Y-iWihN5xjmuXFm0oag2Q4ZpdYOQoNk-z4" xmltv_id="hr4">hr4</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ByIW9gO3dLVft8Oi_icbq6I8yKj0v-ekE0ZMx7NP" xmltv_id="You FM">You FM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NAeVaxkPOG1_ygfddzpM9aoxZRurDl7MDBEvzwXn" xmltv_id="hr-info">hr-info</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n-7vsARqGAh0TzQ9zFvzECEhEw-x07HIEab9fYsk" xmltv_id="MDR Jump">MDR Jump</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tv60bV6z3nfxW4i8EEnhUmH0_1ekcrLTDi_qvWk_" xmltv_id="MDR1 Sachsen">MDR1 Sachsen</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n-7vsARqGAh0TzQ9zFvzECEhEw-x07HIEab9fYsk" xmltv_id="MDR JUMP">MDR JUMP</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tv60bV6z3nfxW4i8EEnhUmH0_1ekcrLTDi_qvWk_" xmltv_id="MDR1 SACHSEN">MDR1 SACHSEN</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Ml1nCvizmLYwA5ECcXImrU4GLVLdkGYNQAttNrVa" xmltv_id="MDR1 S-Anhalt">MDR1 S-Anhalt</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ba95dACeadv6gkOqWGJ6IwWjODhxntKs4CNq3a1H" xmltv_id="MDR1 Thuringen">MDR1 Thuringen</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Bbd1__3OxhPEGAT9QJStLpeJr69u_9WraBxNNFEr" xmltv_id="MDR Kultur">MDR Kultur</channel>
@@ -514,11 +527,8 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f3of4tSE9ODW8gsEnbmxt4GvdXkNL2ewKqk3LTbj" xmltv_id="FM4">FM4</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="dMa3MI9aM0jigZ7SxjSWNF9UoXQSrPp-4s7G89bv" xmltv_id="Rockantenne">Rockantenne</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="mpXu0ybndRTKf5CEUDERL_T-4FxdcjXx2cerB-ia" xmltv_id="Radio Maria">Radio Maria</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="MA9hEmoQmPLpM6MhYL0K3GF4eVdLfxBWxajzPNrU" xmltv_id="Hit Radio FFH">Hit Radio FFH</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6Cu05BPq1YD3RpWQCVCYe4zgUSmnEfIvz6QwlZFc" xmltv_id="Hitradio OE3">Hitradio OE3</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="d6zrOTIwVZdBbpC65Wt1CoeEKf9wKnYorOgg-l8z" xmltv_id="Harmony FM">Harmony FM</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="z_245K9xABRm4lxzdWrJrzCI62BSOvnr89aZeWvz" xmltv_id="Sunshine Live">Sunshine Live</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xFjIucQcA7afkObBcqPfZ5vFFYOEjDmqofegg_uo" xmltv_id="Planet Radio">Planet Radio</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ttqELLsLvA7Y2HCGC6kufYaFPKtFzrAUztqVKBhJ" xmltv_id="Klassik Radio">Klassik Radio</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8iPRhcPI2fBLnAA5MLbAvO721QlUGYT2dhRg3FeX" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="KLf5_LT8QXQvy4GgRdG0nuJhogP3vPD-m8FAAuf2" xmltv_id="Radio Horeb">Radio Horeb</channel>
@@ -572,10 +582,8 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="e5YNY9pCyCe6wtAQQRpIBw6eyAUBUnj3-9nuvbDg" xmltv_id="Rai Gulp HD (13)">Rai Gulp HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="NTek_HnoGIz0HzXbSRGUQJN0Hzs60GYWzWhdxTuX" xmltv_id="Rai News 24 HD (13)">Rai News 24 HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="U7VluQcVSX14YDt4iujo2FSTSDzvUErqwUxExHc-" xmltv_id="TgCom24 HD (13)">TgCom24 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IHrhjehSrqOj4LQGr4TPHw41t3ulu7mjyeJf_pf9" xmltv_id="One Music Television (13)">One Music Television (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RjitdN-0gkslAcwnMKflVT5v7fKvnBTQpJyEikrU" xmltv_id="TRM (13)">TRM (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6PdQUmnPLzjQfaJI6KFXmaUcw5TiMyocDHMmEYXw" xmltv_id="Rai Sport+ HD (13)">Rai Sport+ HD (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n4nOd4GCk3gJ3GM5O77vEwymQk8sROOtjTxOEBD0" xmltv_id="Zwei Music Television (13)">Zwei Music Television (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kznmfI9l3iwc0971NhO2B_HQ1N76Unpvzos0Cn9I" xmltv_id="Fishing TV (13)">Fishing TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="e-HJzJtCo1NzviZMS__H398riVZ3jcKsgxXn6LiK" xmltv_id="RTL 102.5 News (13)">RTL 102.5 News (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cappKk-TFBOO9BQw9DNqoU0dsOrFKQ_og3A4YaAE" xmltv_id="RDS Relax (13)">RDS Relax (13)</channel>
@@ -583,16 +591,16 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="whCylIR_RulD1Kcby_l-LrLuQk2OpHTtGJDnw6Z0" xmltv_id="Radio kiss kiss TV (13)">Radio kiss kiss TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="F8XKQSKnEz49RA5CBDw0mAhsWZphW2tC7ogEUb1t" xmltv_id="SRF Info HD (13)">SRF Info HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Rny34pvFLovgGYyCp8snr4oVMhz_vZSUUZCu0z5S" xmltv_id="Folx TV (13)">Folx TV (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yUZ6SD6HeHhdp9BaBV0V769UaOR51rSWRlBHyMpg" xmltv_id="RT Doc HD (13)">RT Doc HD (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="QigVhSuSW9mQNqGwmv6P1PY4qjdyVH6HiEAmDdy0" xmltv_id="Nuta Gold (13)">Nuta Gold (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jbzH1qn6JmpsYWP-Dr-eF52fCyd6RCKYB_fefpep" xmltv_id="RTP International (13)">RTP International (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ScpRb8XIPLd0ppqBdh5OdfbhIYJC1awm1t6y3UWd" xmltv_id="France 24 Fr HD (13)">France 24 Fr HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Xwh43SpDFOYonCQXiGJJlGdXsjGpe-cOuBLDuoGC" xmltv_id="4Fun.TV (13)">4Fun.TV (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="hCnydxg6q0Ge1MLngO4Os_WQnG60-VbXphXLPNcu" xmltv_id="Gold TV (13)">Gold TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="G6T5WMe9bfs4xN4s4yhLue-wsD9uG5FxBKOAl3i3" xmltv_id="TV Romania International (13)">TV Romania International (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="s3sbLvaN3Zb7mNRWj8U_YfJOscctQZIO76NEZzei" xmltv_id="4Fun Dance (13)">4Fun Dance (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="k9v9iU1w_8TjXwd3swITuuZvj7CLw28EkAdRyUlW" xmltv_id="4Fun Kids (13)">4Fun Kids (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="WduKLnOqHbibLKRwDCW-SkE2Z85y2hi9vRXs0WHo" xmltv_id="Tele 5 polska (13)">Tele 5 polska (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="FHyCmLAjcG9W5A7eM-ozfN-YKpt7grJAMjJznBC7" xmltv_id="CNBC (13)">CNBC (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IAGHrWi8qgYXCDOCKleZCTGKxXHv5icwOj4hXdkr" xmltv_id="Canale 239 (13)">Canale 239 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8C6E89mGhtMfjflsxpW3HWv0IRdW4wgGTT4rWsHd" xmltv_id="Euronews (Italiano) (13)">Euronews (Italiano) (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Bs3Nib-J01dVuadaKXNPPjpK2zppOi-Y5qTJ8bia" xmltv_id="Stars TV (13)">Stars TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="CbE12-bxNH2N3nJW6oDu792DJh_EXc9GiiT168HM" xmltv_id="EQUtv (13)">EQUtv (13)</channel>
@@ -603,7 +611,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tTMkd0nd0iVGvBSCV31u-Zirjz99mgU6RZ987zH3" xmltv_id="BBC Arabic TV (13)">BBC Arabic TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="K4_OgYjgtB5m1B1l4cqA6hErAjG2yTKVYwL2Zdxr" xmltv_id="ERT World (13)">ERT World (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vxvOwMR-SNNiIf2PIvtgyf6-2QXNXTy2bQTgHrfV" xmltv_id="KBS World HD (13)">KBS World HD (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YPgvkfydtS7WWXOjgp4wxOzFxPCK6L9m1v-hiIeA" xmltv_id="Arte HD (13)">Arte HD (13)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YPgvkfydtS7WWXOjgp4wxOzFxPCK6L9m1v-hiIeA" xmltv_id="arte HD (13)">arte HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="J037Kz1swCZrU5pKlVk00VZAysPs1uLfQEIRIItQ" xmltv_id="Al Aoula Inter 1 (13)">Al Aoula Inter 1 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="JtoZ5bry646YSNkFt8ax3fcd3rAkmW1iejqggaPw" xmltv_id="2M Monde (13)">2M Monde (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="L0PNuFitsGUhSethAclQRvCZ98dNZpJ2AjjDuupY" xmltv_id="Arriadia 3 (13)">Arriadia 3 (13)</channel>
@@ -632,36 +640,30 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="up5pfTUza54MjH-JymTkfvpbHrYfxqmmAwaB-Q5t" xmltv_id="Al Arabia (13)">Al Arabia (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="KjscEurHnEgY96OfT4Aeuq3UmRTHXDdUzQQijjuG" xmltv_id="Tunis 7 (13)">Tunis 7 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jUlIlq50WqPpdh2NENfgUy8wh34ZUxzG4gauji5A" xmltv_id="Canal Algerie">Canal Algerie</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="-aswmz-hTWMNTr27jgWwfTR9ufUQgacO_a8puvYt" xmltv_id="CCTV 4 (13)">CCTV 4 (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="88xv8mxnIn8eAWlGpSfKCYSUP94a_W68gKli0GA8" xmltv_id="Power TV (13)">Power TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PBqN0mhu67iY59s5OSYM7Nz20zZWth6HdMDg8jwX" xmltv_id="CCTV 4 HD (13)">CCTV 4 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kvrUooIqNKdq21l2rcgcZ3Z-JjYHw7TTB44cHkOY" xmltv_id="Arirang TV (13)">Arirang TV (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IBbxK9in-5513Y1RBBSv9MXCov_ed6-3EP84ruS9" xmltv_id="Thai TV Global Network (13)">Thai TV Global Network (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UhKVTvfPKGjPSA6lD7oGi9CjACrjrkk2Egrb5AFL" xmltv_id="i24 News English HD (13)">i24 News English HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="w9lHZEKQg8TjGMkoqiEDyamQUUBlTJaUfqAPcyj4" xmltv_id="Manoto HD (13)">Manoto HD (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Jncrvy12Ldi1ZfMvLX28UJZOmSdWfSrE0p0rB3YS" xmltv_id="BFM TV (13)">BFM TV (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Sie0X-VqN0eQUIhydiiCQWtPpcHfCj7kX-y4U6_t" xmltv_id="BBC One HD (28)">BBC One HD (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Sie0X-VqN0eQUIhydiiCQWtPpcHfCj7kX-y4U6_t" xmltv_id="BBC One London (28)">BBC One London (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xWWrXQIZOlzzQ3l7Rh4AFVKblg5hv-xe8eGnoki4" xmltv_id="BBC Two HD (28)">BBC Two HD (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="55d0cJC8URuzkcGcOsas55q_4mcXN6d7QkWQSRE1" xmltv_id="ITV (28)">ITV (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="55d0cJC8URuzkcGcOsas55q_4mcXN6d7QkWQSRE1" xmltv_id="ITV1 (28)">ITV1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="B6n_rwZoSS17wR3OkTsvF_ZEUXF7ErGlSAsZqDqE" xmltv_id="Channel 4 HD (28)">Channel 4 HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="bPPyyC60xEcrazY1yYkRUqL8TsjAibpOh45Y6Bnb" xmltv_id="Channel 5 HD (28)">Channel 5 HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="zyNXJ4DbuE3hhBt9A8yERxtHMVZCj9BApRWM5cO6" xmltv_id="BBC Four HD (28)">BBC Four HD (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Sie0X-VqN0eQUIhydiiCQWtPpcHfCj7kX-y4U6_t" xmltv_id="BBC One SD (28)">BBC One SD (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="xWWrXQIZOlzzQ3l7Rh4AFVKblg5hv-xe8eGnoki4" xmltv_id="BBC Two SD (28)">BBC Two SD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2jkKEuV0xIYp1Ey1oByqDhqjQToh3HkQoxdkYQ9z" xmltv_id="BBC ALBA (28)">BBC ALBA (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kbyEh0bUQyAkoIoFFq874W23n9XFH14ss5-Qhvbv" xmltv_id="S4C HD (28)">S4C HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GJjj0Ha1UD8cF5zUhyL0Upg4-ZxzgW2KgwWvX3dt" xmltv_id="BBC Scotland (28)">BBC Scotland (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1ogsY-lXTbrs1vmt4S1kZ5cXlBmzzVPvE9M0cC-8" xmltv_id="ITV Meridian South Coast HD (28)">ITV Meridian South Coast HD (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vXBWEmooB0tKRyihnYObPffo3GcnTMTWxK_MiUdt" xmltv_id="ITV +1 (28)">ITV +1 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1ogsY-lXTbrs1vmt4S1kZ5cXlBmzzVPvE9M0cC-8" xmltv_id="ITV1 Meridian South Coast HD (28)">ITV1 Meridian South Coast HD (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vXBWEmooB0tKRyihnYObPffo3GcnTMTWxK_MiUdt" xmltv_id="ITV1 +1 (28)">ITV1 +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="mBOj5W3Vq6laKyoEkGqaJPYwboj9W9lk946YUpQc" xmltv_id="ITV 2 (28)">ITV 2 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IV71SK24OB7CleIpYHtOpPkR0AswhjOzyeR1TkZN" xmltv_id="ITV 2 +1 (28)">ITV 2 +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LY7DBdqHOGarnnH6loWsNPqdvs2YqfhBkxl7Rk8v" xmltv_id="ITV 3 (28)">ITV 3 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="HXuLwDb1ib9vJQurzm1Yj0DIrd3AbG39ci0iiJvx" xmltv_id="ITV 3 +1 (28)">ITV 3 +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="knUaF-rPxNDWdBQqSfpJ4vgbj2YAbnFkxNdY94vD" xmltv_id="ITV 4 (28)">ITV 4 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="gXV0-NmynO9KXSiwv6wT0r-goscEaKivYeiSFl1I" xmltv_id="ITV4 +1 (28)">ITV4 +1 (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n57RAyOPq8KN72b2Sa55ywDcDP3GGyUirImuxkcq" xmltv_id="ITV Be (28)">ITV Be (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="n57RAyOPq8KN72b2Sa55ywDcDP3GGyUirImuxkcq" xmltv_id="ITV Be HD (28)">ITV Be HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yrtRlJXV05FK4-3vVBD0RowMWK3byl-EHXeeGtfl" xmltv_id="BBC Three (20-05)">BBC Three (20-05)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="EjR-G3fT-PdVjIWQCgng-VZWEh1HK_NfPqU9Z7jt" xmltv_id="Channel 5">Channel 5</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RZyoxHKPa72pF0sDKDUk23AK_LQIypeBVUXSqYLv" xmltv_id="Channel 4 +1 (28)">Channel 4 +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="6zazsTPRqFFJ3H0l7YlfsOv2GMVFIKCJT6kcxD4u" xmltv_id="More 4 (28)">More 4 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jpSgdApwKQtaAtMugGXats5wdCl4aRAUB-0CMDqK" xmltv_id="More 4 +1 (28)">More 4 +1 (28)</channel>
@@ -669,11 +671,11 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vOdMVCyltP4neDQy09kXrlyT-6hno47-nCCVx5dV" xmltv_id="E4 UK (28)">E4 UK (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="00g7Y1AEaZZiEih52L7OOsbGXH0vsE1bRh1ciNEc" xmltv_id="E4 +1 (28)">E4 +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cdB9Yqz5Gk16wmMOxUsw8Z4a8VDv-58_cU_drebb" xmltv_id="4seven (28)">4seven (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ha16mRyad5F-4Bx7_6eNPF9gmhn5ZLHTGugRxIDy" xmltv_id="Channel 5 +1 (28)">Channel 5 +1 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="ha16mRyad5F-4Bx7_6eNPF9gmhn5ZLHTGugRxIDy" xmltv_id="Channel 5+1 (28)">Channel 5+1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="rebP9Wrup1PFmdNtbjqSHmVsmUk6r8WN5-CnXGFy" xmltv_id="UTV (Ulster) (28)">UTV (Ulster) (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="UByNAIYQRgh1IJ4m3QDdLoiIbPjGe3JOtLWkD-_j" xmltv_id="5SELECT (28)">5SELECT (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="jwkTBzgzFFZtFrUjp2KxMn2zWoe-Ck3AipgGBgwc" xmltv_id="5 USA (28)">5 USA (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="27NIEaArHtr0Y20_MkAmLByHBZW6KunIxzQAxNhr" xmltv_id="5 USA +1 (28)">5 USA +1 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="27NIEaArHtr0Y20_MkAmLByHBZW6KunIxzQAxNhr" xmltv_id="5 USA+1 (28)">5 USA+1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VFAHY2qMfDPWaQcF9ws8SGOOtI3P3N8InrWG05c-" xmltv_id="5STAR (28)">5STAR (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="bj_DZp0DJbH15voYD0k1lH0aDiUudw_15zZtFB0r" xmltv_id="5STAR +1 (28)">5STAR +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LQtGeIP3ZGgkGs9fsJtiWc-EXUXxl-DHQWOnXgWr" xmltv_id="Dave (28)">Dave (28)</channel>
@@ -688,7 +690,6 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="wcbJGeWTTMTiY8NVOrCMUKDnTeMMCRMG3_zjBPDU" xmltv_id="Quest+1 (28)">Quest+1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IcLOZdEuE2icyDQl1Mxc6_lfcOmrb6C6vjMJxUuB" xmltv_id="Quest Red (28)">Quest Red (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VBtdr0ojV4mVtYuPpdyZ4_HO-5jHA4X6M0pReZMO" xmltv_id="Quest Red +1 (28)">Quest Red +1 (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="yYcK6beL4yyPpdnlnlYyS5p8RCVW_Ix9niN1O1A2" xmltv_id="Smithsonian Channel UK">Smithsonian Channel UK</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tEDvZdYnncLvylGcRrCm2LIix5DY2kWfKkFP0DLy" xmltv_id="DMAX UK (28)">DMAX UK (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Tjg1k3C-vhTV36psYikPuIt-m0wJE9qjAa5BzZY-" xmltv_id="PBS America (28)">PBS America (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="uYHXmUhoKj3ayiaSsDEiijS7pnWumINROUIl9QYa" xmltv_id="Food Network (28)">Food Network (28)</channel>
@@ -698,7 +699,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="GMQqdHOrmgDgE0hWAiTVVa1AF4YEWhnoNJItW5TZ" xmltv_id="Sky Arts Ireland (28)">Sky Arts Ireland (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Hh1UjAJH0hytsQFS2_fOgV4i9ho2AOnqgBeNamc7" xmltv_id="Talk Radio TV (28)">Talk Radio TV (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9vxBnzXQ_bBUPwqQgRiyWFebSPnjZLFsoPHxbAEH" xmltv_id="BBC Parliament (28)">BBC Parliament (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5BVXiLRLhYLJ8CZRyNVKK_JtWIpz3grG8QVjkymk" xmltv_id="BBC News HD (28)">BBC News HD (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5BVXiLRLhYLJ8CZRyNVKK_JtWIpz3grG8QVjkymk" xmltv_id="BBC News (28)">BBC News (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Dpw0tRbl-K2pwcbabGHM7xP3q2vEnAmpHIU2pBBy" xmltv_id="Sky News UK (28)">Sky News UK (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="_lYAaFXuigO2Y41jJaV70v5dh7TOpWcsg3tdVRIh" xmltv_id="CNN International HD (28)">CNN International HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8nRYvJ0dlpD_OiMX4FA_PjM7xcana5KDb0tX0SEv" xmltv_id="Bloomberg HD (28)">Bloomberg HD (28)</channel>
@@ -713,7 +714,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="lkGJ-JgZL_Fm7BxICF18t1vi7CWRpoJhjTz_RwXq" xmltv_id="WION (28)">WION (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="W4L2OMy6U5RPbzKr0Wo6JjZYVrjm6Exn686_Flel" xmltv_id="NHK World HD (28)">NHK World HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="nCCQy7mjQSAAXhlCX_bEVZDs6MiTZFWjdQts1DUr" xmltv_id="NTD TV (28)">NTD TV (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OHEQyzQTkQGVoX6mUV5Lh9lnKhdKFnPVWIBKOWxl" xmltv_id="TRT World (28)">TRT World (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OHEQyzQTkQGVoX6mUV5Lh9lnKhdKFnPVWIBKOWxl" xmltv_id="TRT World HD (28)">TRT World HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="LSCDK65KqIN3OUZdAgPAV5O2wK41w91ivDPvLh6B" xmltv_id="TVC News (28)">TVC News (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="XRc2pEOMjRdqvGLOfz8A8Fy-IZ7OaOBE_ApcBwGA" xmltv_id="Arise News - India (28)">Arise News - India (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="BCXpFlr1GsI8VW5C-Mxa1Y-tA_cyDeNS_cXy4kmD" xmltv_id="W (28)">W (28)</channel>
@@ -721,15 +722,14 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="iLYdmI4gWRcMzEHRpyDJSnjx1yGbFrdN1DVKTddI" xmltv_id="Freesports HD (28)">Freesports HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8xaG-hEdDdu95AWjepUgyHi8N-rrInnEywdvAkTP" xmltv_id="Showcase (28)">Showcase (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="plA44GoHw3oHIX-bfhcMGyrUpFzHhL0nRCYmDWm9" xmltv_id="SportyStuff HD (28)">SportyStuff HD (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="WeKYtrIHqQZALkxQk0OzveKhX9Egx4Yzc59mnXUa" xmltv_id="Live 360 (28)">Live 360 (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f3GOQTMGr0yHy8w0BA-UcwPXTsIRjh2N-GGdLT39" xmltv_id="Pick TV (28)">Pick TV (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f3GOQTMGr0yHy8w0BA-UcwPXTsIRjh2N-GGdLT39" xmltv_id="Sky Mix (28)">Sky Mix (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="m80q1Gwy8n4tEsXBY46hh-6Ql133pBYWnMIjKp_9" xmltv_id="Challenge (28)">Challenge (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="91x25IYYnXcYQUyDvJls-spid85koqx7odNrh4ru" xmltv_id="Challenge Ireland (28)">Challenge Ireland (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9qwMGRGUFk6JWcFAS-IifRkCc_3FvivT77r7Qiyb" xmltv_id="Paramount Network (28)">Paramount Network (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5i9ZOH15IALNJA2W534VCQrS_KBHmlIdNrZWkZmW" xmltv_id="CBS Reality (28)">CBS Reality (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IcORNRmIpvGvEFwI4y1EmzfDT0GUT1JgiGZwAIwP" xmltv_id="CBS Reality +1 (28)">CBS Reality +1 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="9qwMGRGUFk6JWcFAS-IifRkCc_3FvivT77r7Qiyb" xmltv_id="5 Action (28)">5 Action (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5i9ZOH15IALNJA2W534VCQrS_KBHmlIdNrZWkZmW" xmltv_id="True Crime (28)">True Crime (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IcORNRmIpvGvEFwI4y1EmzfDT0GUT1JgiGZwAIwP" xmltv_id="True Crime+1 (28)">True Crime+1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cpC7abNVzpeZ-jinJ3Hxite3szOGJFCHPWw-jJpb" xmltv_id="Legend (28)">Legend (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="y2iP8JV5BP6KjmTVDLNWlPgQnVcbVe5QX6VPJv96" xmltv_id="RealityXtra (28)">RealityXtra (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="y2iP8JV5BP6KjmTVDLNWlPgQnVcbVe5QX6VPJv96" xmltv_id="True Crime Xtra (28)">True Crime Xtra (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="HwTfEpYPlJxuJsqcj4Vlo5h4TNA_2vU44nVpyZ57" xmltv_id="Drama (28)">Drama (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Yd2NOr-2aqM9j36sshF67DB8r0Z3KVIL0qQpz_Z0" xmltv_id="Drama+1 (28)">Drama+1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="WyPq8cMRH7iEFb6x6q_TNSMaddrQHvBaOujjXumN" xmltv_id="Yesterday (28)">Yesterday (28)</channel>
@@ -745,8 +745,8 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="cCGZPnhS5eB6hazBaIvLf3ZOC__iDwMAyUlwuP1w" xmltv_id="Great! Movies (28)">Great! Movies (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Vv5DVngcu9YnOSG612KnYjQX6gy_-VdJXcDVK_tf" xmltv_id="Great! Movies +1 (28)">Great! Movies +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="wAEXUE7TWC7Zf3MOw2X8CO9c4xOlQ_JWeeZ6x-AX" xmltv_id="Talking Pictures (28)">Talking Pictures (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vLHVI4FEPXFMC9SqvkZfGYZSq3jJSRKPBLLQgMGs" xmltv_id="HorrorXtra (28)">HorrorXtra (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="30Rr1JnUJchB2CFl-Xdij_Nc0oabdoJJi50UDm_o" xmltv_id="HorrorXtra +1 (28)">HorrorXtra +1 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vLHVI4FEPXFMC9SqvkZfGYZSq3jJSRKPBLLQgMGs" xmltv_id="Legend Xtra (28)">Legend Xtra (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="30Rr1JnUJchB2CFl-Xdij_Nc0oabdoJJi50UDm_o" xmltv_id="Legend Xtra +1 (28)">Legend Xtra +1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8XivPrZY-Bp8pP3CiLsvfBrvIfXL7KXSosAGow4b" xmltv_id="CBBC HD (28)">CBBC HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="VWtgxWXLRqp4fQch0NttkAPTE10eDEsYCluU-s1I" xmltv_id="CBeebies HD (28)">CBeebies HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="mQCF5u7jduO1NoVjUHZ2ZV9ij0gNsgE7LwHRlvSs" xmltv_id="CITV U.K. (28)">CITV U.K. (28)</channel>
@@ -760,16 +760,15 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="pOV7uQk0hgRfLz4W23JZ5MnqDTfXvsZeoCqRzBDb" xmltv_id="The Box UK (28)">The Box UK (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="8em79DJukFFPisXHiyZCAPqtPbLdSLDxtyrDrKNd" xmltv_id="Thats TV Gold">Thats TV Gold</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="f7jL0u-DfWZf1hxwjfBczxJXjtZ3Ft8ZmWl20tZ4" xmltv_id="Channel 7 UK (28)">Channel 7 UK (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7qPwGQysocNpK_sQ6XOBp-d0v7jWkCSRA7t68Oxy" xmltv_id="VOX Africa (28)">VOX Africa (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="PlZqebK3YpmK4ceYvTH4hDDh1Oo-AMcIpsd4gARZ" xmltv_id="ROK TV (28)">ROK TV (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="B7c6yR9W7dZn6R4cBboZLrS7kbSvPmKEIOMdXUi_" xmltv_id="Thats 60 (28)">Thats 60 (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="V75qIZht1CvoofyJOsJuyuVi_g_Dq6HU5JHHwMeP" xmltv_id="EarthxTV (28)">EarthxTV (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="RaQJnGkW2D99QNlf-m5Sb8ILOdmGbwVAA7fuxVos" xmltv_id="Thats 80s (28)">Thats 80s (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="l8y2er4EinMyDgqAxX8hpH9u7AKeD8DI1Lt6YU-N" xmltv_id="Trace Vault (28)">Trace Vault (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="kYEz2BDl4TKlXz7Kp_XA2ZYIVY7TNZT746bJJyu_" xmltv_id="Trace Urban (28)">Trace Urban (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="vC8dFROCxup1GB1i903IKesVPadUM-FElv38kCx9" xmltv_id="Now 70s (28)">Now 70s (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="5n8mUQnfSQo6RjPGe_9P-3q9XX1vV5853YvTW5-w" xmltv_id="Now XMas (28)">Now XMas (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="FC8tQlXpnTOkH0EOSo7tTaWpsKQ8Zi30HuBS4nFL" xmltv_id="Now 80s (28)">Now 80s (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="FC8tQlXpnTOkH0EOSo7tTaWpsKQ8Zi30HuBS4nFL" xmltv_id="NOW Rock (28)">NOW Rock (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="4h-HeiWhtcJ50VUfSbtaFKDdFTTlLmvpjh8SK5K_" xmltv_id="Kiss TV (28)">Kiss TV (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7O7MslSHymOxS-3ryyIVuqO2U0-731khk2B6NBnJ" xmltv_id="Clubland TV (28)">Clubland TV (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="wHL_kqFkaR-SEnf_jhKSsQXHrwcM0TF5Suc_GKdB" xmltv_id="Keep it Country (28)">Keep it Country (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sOSCjGY_eTZdPmHzf-3RbBQXjKcgOb69E9pMo_Py" xmltv_id="Pitaara (28)">Pitaara (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="lqrRv0URa09zuanLAGTDUHzFcr69OahTcdsaaWQP" xmltv_id="4Music (28)">4Music (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="OaoBfMbHFT6Q7mC5fAr0G-LtawNVYhcJpnPIG3bQ" xmltv_id="Magic (28)">Magic (28)</channel>
@@ -777,7 +776,7 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="7fD7iU2jwaOtg7EhrdQNYMaN7ULb7lAGg2LWppIK" xmltv_id="JML Direct (28)">JML Direct (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="SirUI7LMohxexAdCPyNnpWLLdqJQgo5s1T8FNJBV" xmltv_id="High Street TV 1 (28)">High Street TV 1 (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="2u2kP1umiowLkbgysXeJBcuycNp_sTOaXzLf98IM" xmltv_id="Brit Asia TV (28)">Brit Asia TV (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sN4_AwR6Gth_BTLeMiHhMZJf6HI4lO_dJWh3v9Lj" xmltv_id="Bangla TV (28)">Bangla TV (28)</channel>
+    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="sN4_AwR6Gth_BTLeMiHhMZJf6HI4lO_dJWh3v9Lj" xmltv_id="92 News (28)">92 News (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="B-cdKAg3ZZvFrfFI1R83Swfb6OwnYIwnZd7xCxEM" xmltv_id="Arirang HD (28)">Arirang HD (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="IpBHHsI3ELK_eeTTkPdPDLtJuQOYNt-iq3qacpWa" xmltv_id="Aastha (28)">Aastha (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="inEcBfeluhbSb0qk9-rlauXoAq5D4vxEASi6rY_9" xmltv_id="Kerrang (28)">Kerrang (28)</channel>
@@ -787,11 +786,8 @@
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qTV4YjCwfxD2AmO7fIYyXJqTc8oQ6_uPWfOIyBEt" xmltv_id="Sky News Arabia (28)">Sky News Arabia (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="1678Y8xfqc5ek1hYF8-FYcLmoO2KcJhyHeEom9X8" xmltv_id="Takbeer TV (28)">Takbeer TV (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="qXt2yqwaIRODAvx6Iy9xCfvfBIeUBc07TVX2a1QU" xmltv_id="Channel S (28)">Channel S (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="3eyxlTaSNsNBgAIcMEz18fC6s3XM0G3USXAwnv0i" xmltv_id="Hidayat TV (28)">Hidayat TV (28)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="N_U4gsi8eJ3P8uYQCgGNJsadVoaFkaWk6OSWxoH6" xmltv_id="BBC Red Button 1 (28)">BBC Red Button 1 (28)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="L93CtMLqExk4nXcu0ImNRslo4fp47svZQAom8b1o" xmltv_id="Nickelodeon Ukraine Pluto TV">Nickelodeon Ukraine Pluto TV</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="YijpR0pODrTqVe2eMLlWx9lNpOJ6wFwkyVg8_-9V" xmltv_id="Espreso TV (13)">Espreso TV (13)</channel>
-    <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="Zv8mBv4kozlDfJeXZbld0FBrSfLkedRk9ElMZuRk" xmltv_id="Rada (13)">Rada (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="TdVqOgz-dO8vY_JWpHHPtzFPTYfl-nYPUebsfsdy" xmltv_id="UA TV (13)">UA TV (13)</channel>
     <channel site="[ENC][EX]livetv.canaldigitaal.nl_0" site_id="tMzwz8dyFQDcdqWcbKnMt0_JgFbpLu7lzj_OOWq5" xmltv_id="Vozrozhdeniye (13)">Vozrozhdeniye (13)</channel>
   </channels>
