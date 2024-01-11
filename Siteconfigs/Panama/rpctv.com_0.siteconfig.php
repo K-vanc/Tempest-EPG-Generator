@@ -9,7 +9,7 @@ return array (
   'timezone' => 'America/Panama',
   'culture' => 'es',
   'max_day' => '3.1',
-  'url1' => 'https://www.telemetro.com/parrilla',
+  'url1' => 'https://www.rpctv.com/parrilla',
   'requestOption1' => '1',
   'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'host_header1' => 'www.rpctv.com',
