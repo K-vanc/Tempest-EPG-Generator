@@ -1,165 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]startsiden.no_0">
   <channels>
-    <channel site="[ENC]startsiden.no_0" site_id="NRK1" xmltv_id="NRK1">NRK1</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="NRK2" xmltv_id="NRK2">NRK2</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="NRK3" xmltv_id="NRK3">NRK3</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV2NORGE" xmltv_id="TV 2 Norway">TV 2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="NRK1" xmltv_id="NRK1 Norway">NRK1 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="NRK2" xmltv_id="NRK2 Norway">NRK2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="NRK3" xmltv_id="NRK3 Norway">NRK3 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV2NORGE" xmltv_id="TV 2 Direkte Norway">TV 2 Direkte Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TVNORGE" xmltv_id="TVNorge">TVNorge</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV3NORGE" xmltv_id="TV3 Norway">TV3 Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_NRKSUPER_NO" xmltv_id="NRK Super Norway">NRK Super Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="VIASAT4" xmltv_id="Viasat 4 Norway">Viasat 4 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV3PLUS_NO" xmltv_id="TV3+ Norway">TV3+ Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TVNORGEMAX" xmltv_id="MAX Norway">MAX Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV2NZEBRA" xmltv_id="TV 2 Zebra Norway">TV 2 Zebra Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="THEVOICENO" xmltv_id="VOX Norway">VOX Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="FEM" xmltv_id="FEM Norway">FEM Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYTLCNORGE" xmltv_id="TLC Norway">TLC Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BBCENTERTAINMENTN" xmltv_id="BBC Brit Norway">BBC Brit Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BBCENTERTAINMENTN" xmltv_id="BBC Nordic Norway">BBC Nordic Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="NGC" xmltv_id="National Geographic Norway">National Geographic Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYNO" xmltv_id="Discovery Channel Norway">Discovery Channel Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYNO" xmltv_id="Discovery Channel Norge">Discovery Channel Norge</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DISNEYCHANNELNO" xmltv_id="Disney Channel Nordics">Disney Channel Nordics</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TRAVELCH" xmltv_id="Travel Channel EMEA English">Travel Channel EMEA English</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_INVESTIGATIONDISCOVERY_NO" xmltv_id="Investigation Discovery Norway">Investigation Discovery Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="HISTORYCH" xmltv_id="History Norway">History Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="ANIMALPLANET" xmltv_id="Animal Planet Norway">Animal Planet Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="EUROSPORT" xmltv_id="Eurosport Norway">Eurosport Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="EUROSPORT" xmltv_id="Eurosport 1 Norway">Eurosport 1 Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV1000" xmltv_id="Viasat Film Premiere Norway">Viasat Film Premiere Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MTVNO" xmltv_id="MTV Norway">MTV Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="vg-norway--no-no-" xmltv_id="VG Norway">VG Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV6_NO" xmltv_id="TV6 Norway">TV6 Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_CARTOONNETWORK_NO" xmltv_id="Cartoon Network Norway">Cartoon Network Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="EUROSPORT2" xmltv_id="ES NO Norway Eurosport 2">ES NO Norway Eurosport 2</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="EUROSPORT2" xmltv_id="Eurosport N Norway">Eurosport N Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="VIASATHISTORY" xmltv_id="Viasat History Norway">Viasat History Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-1-norway--no-no-" xmltv_id="TV 2 Sport 1 Norway">TV 2 Sport 1 Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="viasport-1-norway--no-no-" xmltv_id="Viasport 1 Norway">Viasport 1 Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="tv-2-nyhetskanalen-norway--no-no-" xmltv_id="TV 2 Nyhetskanalen Norway">TV 2 Nyhetskanalen Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="v-sport-1-norway--no-no-" xmltv_id="V Sport 1 Norway">V Sport 1 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="tv-2-nyheter-norway--no-no-" xmltv_id="TV 2 Nyheter Norway">TV 2 Nyheter Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV1000DRAMA" xmltv_id="Viasat Series Norway">Viasat Series Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="CPLFILMHD" xmltv_id="C More First Norway">C More First Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="CPLHITS" xmltv_id="C More Hits Norway">C More Hits Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="CPLHITS" xmltv_id="TV4 Hits Norway">TV4 Hits Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="CPLSERIES" xmltv_id="C More Series Norway">C More Series Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="SVT1" xmltv_id="SVT1">SVT1</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="SVT2" xmltv_id="SVT2">SVT2</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="DR1" xmltv_id="DR1">DR1</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="DR2" xmltv_id="DR2">DR2</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="SVT1" xmltv_id="SVT1 Sweden">SVT1 Sweden</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="SVT2" xmltv_id="SVT2 Sweden">SVT2 Sweden</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="DR1" xmltv_id="DR1 Denmark">DR1 Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="DR2" xmltv_id="DR2 Denmark">DR2 Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV4" xmltv_id="TV4 Sweden">TV4 Sweden</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV2DANMARK" xmltv_id="TV 2 Denmark">TV 2 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BARNKANALEN" xmltv_id="Barnkanalen SVT-B">Barnkanalen SVT-B</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BARNKANALEN" xmltv_id="Barnkanalen SVT-B Sweden">Barnkanalen SVT-B Sweden</channel>
     <channel site="[ENC]startsiden.no_0" site_id="SVT24" xmltv_id="SVT 24 Sweden">SVT 24 Sweden</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV3SVERIGE" xmltv_id="TV3 Sweden">TV3 Sweden</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BBCENTERTAINMENT_EN" xmltv_id="BBC Brit Nordics English">BBC Brit Nordics English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BBCKNOWLEDGE" xmltv_id="BBC Earth Nordics English">BBC Earth Nordics English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="VH1CLASSIC" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVROCKS_EN" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="SKYNEWS" xmltv_id="Sky News International">Sky News International</channel>
     <channel site="[ENC]startsiden.no_0" site_id="ALJAZEERA" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="baby-tv-english--gb-en-" xmltv_id="Baby TV English">Baby TV English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="baby-tv-english-uk--gb-en-" xmltv_id="Baby TV English UK">Baby TV English UK</channel>
     <channel site="[ENC]startsiden.no_0" site_id="CNBCNOR" xmltv_id="CNBC">CNBC</channel>
     <channel site="[ENC]startsiden.no_0" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="M_EURONEWS_DE" xmltv_id="Euronews English">Euronews English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="HUSTLERTV" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="M_EURONEWS_DE" xmltv_id="Euronews English France">Euronews English France</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="HUSTLERTV" xmltv_id="Hustler TV UK">Hustler TV UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BBCKNOWLEDGE" xmltv_id="BBC Earth Nordics English">BBC Earth Nordics English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BBCENTERTAINMENT_EN" xmltv_id="BBC Nordic English">BBC Nordic English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="VH1CLASSIC" xmltv_id="MTV 80s UK">MTV 80s UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVROCKS_EN" xmltv_id="MTV 90s UK">MTV 90s UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="SKYNEWS" xmltv_id="Sky News International">Sky News International</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_EUROSPORT_DK" xmltv_id="Eurosport 1 Denmark">Eurosport 1 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV2DCHARLIE" xmltv_id="TV 2 Charlie">TV 2 Charlie</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV2DCHARLIE" xmltv_id="TV 2 Charlie Denmark">TV 2 Charlie Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV3SPORT1DK" xmltv_id="TV3 Sport Denmark">TV3 Sport Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000CLASSIC_DK" xmltv_id="Viasat Film Hits Denmark">Viasat Film Hits Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_VIASATGOLF_DK" xmltv_id="Viasat Golf Denmark">Viasat Golf Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="viasat-ultra-hd-denmark--dk-da-" xmltv_id="Viasat Ultra HD Denmark">Viasat Ultra HD Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_BOOMERANG_NO" xmltv_id="Boomerang Norway">Boomerang Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_BOOMERANG_NO" xmltv_id="Cartoonito Nordic Norway">Cartoonito Nordic Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="PLAYHOUSE" xmltv_id="Disney Junior Norway">Disney Junior Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="REALITY" xmltv_id="CBS Reality Europe">CBS Reality Europe</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_DISCOVERYHD_EN" xmltv_id="Discovery Channel Central Europe English">Discovery Channel Central Europe English</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DISCSCI" xmltv_id="Discovery Science Europe English">Discovery Science Europe English</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_H2HD_EN" xmltv_id="HISTORY2 Europe">HISTORY2 Europe</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVHITS_EN" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVHITS_EN" xmltv_id="MTV Hits UK">MTV Hits UK</channel>
     <channel site="[ENC]startsiden.no_0" site_id="NGCWILDHD" xmltv_id="National Geographic Wild Nordics">National Geographic Wild Nordics</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BBCONE_EN" xmltv_id="BBC 1">BBC 1</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BLUEHUSTLER" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BOOMERANG_EN" xmltv_id="Boomerang Nordics English">Boomerang Nordics English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="FUELTV_EN" xmltv_id="Fuel.TV English">Fuel.TV English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="GOSPELCHANNEL" xmltv_id="Gospel Channel Scandinavia">Gospel Channel Scandinavia</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVLIVEHD_EN" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="M_MOTORVISION_DE" xmltv_id="Motorvision TV">Motorvision TV</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="CMORESTARS_NO" xmltv_id="C More Stars Norway">C More Stars Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="es-no-norway-eurosport-2--no-no-" xmltv_id="ES NO Norway Eurosport 2">ES NO Norway Eurosport 2</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BBCONE_EN" xmltv_id="BBC 1 UK">BBC 1 UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BLUEHUSTLER" xmltv_id="Blue Hustler UK">Blue Hustler UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BOOMERANG_EN" xmltv_id="Cartoonito Nordic English">Cartoonito Nordic English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="FUELTV_EN" xmltv_id="Fuel TV Portugal English">Fuel TV Portugal English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_MTVLIVEHD_EN" xmltv_id="MTV Live HD UK">MTV Live HD UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="M_MOTORVISION_DE" xmltv_id="Motorvision TV Germany">Motorvision TV Germany</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="ADULTCH" xmltv_id="Adult Channel UK">Adult Channel UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BBCWORLD" xmltv_id="BBC News UK">BBC News UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_BBCENTERTAINMENT_DK" xmltv_id="BBC Nordic Denmark">BBC Nordic Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BLOOMBERG" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="CCTV" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CARTOONNETWORKNORDIC_EN" xmltv_id="Cartoon Network Nordics English">Cartoon Network Nordics English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="BOOMERANG_DK" xmltv_id="Cartoonito Nordic Denmark">Cartoonito Nordic Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="club-mtv--gb-en-" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="M_DEUTSCHEWELLE_DE" xmltv_id="Deutsche Welle (DW)">Deutsche Welle (DW)</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYDK" xmltv_id="Discovery Channel Denmark">Discovery Channel Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_DISNEYJUNIOR_DK" xmltv_id="Disney Junior Denmark">Disney Junior Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="EENTERTAINMENT" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="eurosport-n-norway--no-no-" xmltv_id="Eurosport N Norway">Eurosport N Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="FRANCENEWS" xmltv_id="France 24 English">France 24 English</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_GINXTV_EN" xmltv_id="Ginx TV Esports UK">Ginx TV Esports UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="history-2-channel-denmark--dk-da-" xmltv_id="History 2 Channel Denmark">History 2 Channel Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="KANAL4DK" xmltv_id="Kanal 4 Denmark">Kanal 4 Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEZZOLIVEHD_EN" xmltv_id="MEZZO LIVE English France">MEZZO LIVE English France</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="VH1" xmltv_id="MTV 00s UK">MTV 00s UK</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="NATIONALGEOGRAPHICDK" xmltv_id="National Geographic Denmark">National Geographic Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="NATIONALGEOGRAPHICWILD" xmltv_id="National Geographic Wild Norway">National Geographic Wild Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="nautical-channel--us-en-" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_SFKANALEN_DK" xmltv_id="SF-kanalen Denmark">SF-kanalen Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-2-norway--no-no-" xmltv_id="TV 2 Sport 2 Norway">TV 2 Sport 2 Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-premium-2--no-no-" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV3DANMARK" xmltv_id="TV3 Denmark">TV3 Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="CMORESTARS_NO" xmltv_id="TV4 Stars Norway">TV4 Stars Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="v-sport-2-norway--no-no-" xmltv_id="V Sport 2 Norway">V Sport 2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="V_SPORT_PREMIER_LEAGUE_NORWAY_1_NO" xmltv_id="V sport Premier League 1 Norway">V sport Premier League 1 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="vh1-denmark--dk-da-" xmltv_id="VH1 Denmark">VH1 Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="VIASATEXPLORER" xmltv_id="Viasat Explore Norway">Viasat Explore Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="viasport-2-norway--no-no-" xmltv_id="Viasport 2 Norway">Viasport 2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000ACTION_DK" xmltv_id="Viasat Film Action Denmark">Viasat Film Action Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000FAMILY_DK" xmltv_id="Viasat Film Family Denmark">Viasat Film Family Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000_DK" xmltv_id="Viasat Film Premiere HD Denmark">Viasat Film Premiere HD Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="6EREN" xmltv_id="6'eren Denmark">6'eren Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CANALSERIES_DK" xmltv_id="C More Series Denmark">C More Series Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CARTOONNETWORK_DK" xmltv_id="Cartoon Network Denmark">Cartoon Network Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="DRRAMASJANG" xmltv_id="DR Ramasjang Denmark">DR Ramasjang Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_HISTORYCHANNEL_DK" xmltv_id="History Channel Denmark">History Channel Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="KANAL5DK" xmltv_id="Kanal 5 Denmark">Kanal 5 Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MTVDK" xmltv_id="MTV Denmark">MTV Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_NICKJR_DK" xmltv_id="Nick Jr. Denmark">Nick Jr. Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_ANIMALPLANETHD_DK" xmltv_id="TV 2 News Denmark">TV 2 News Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV2DFILM" xmltv_id="TV 2 Sport Denmark">TV 2 Sport Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-x-denmark--dk-da-" xmltv_id="TV 2 Sport X Denmark">TV 2 Sport X Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_VIASATHISTORY_DK" xmltv_id="Viasat History Denmark">Viasat History Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000DRAMA_DK" xmltv_id="Viasat Series Denmark">Viasat Series Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_CANALFIRST_DK" xmltv_id="C More First HD Denmark">C More First HD Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CANALHITS_DK" xmltv_id="C More Hits Denmark">C More Hits Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DISNEYCHANNELDK" xmltv_id="Disney Channel Denmark">Disney Channel Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_INVESTIGATIONDISCOVERY_DK" xmltv_id="Investigation Discovery Denmark">Investigation Discovery Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="nicktoons-denmark--dk-da-" xmltv_id="Nicktoons Denmark">Nicktoons Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="see-denmark--dk-da-" xmltv_id="See Denmark">See Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV3SPORT2_DK" xmltv_id="TV3 Max Denmark">TV3 Max Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CANALHITS_DK" xmltv_id="TV4 Hits Denmark">TV4 Hits Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_VIASATEXPLORER_DK" xmltv_id="Viasat Explore Denmark">Viasat Explore Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_BBCENTERTAINMENT_DK" xmltv_id="BBC Brit Denmark">BBC Brit Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BOOMERANG_DK" xmltv_id="Boomerang Denmark">Boomerang Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYDK" xmltv_id="Discovery Channel Denmark">Discovery Channel Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_DISNEYJUNIOR_DK" xmltv_id="Disney Junior Denmark">Disney Junior Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="history2-denmark--dk-da-" xmltv_id="HISTORY2 Denmark">HISTORY2 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="KANAL4DK" xmltv_id="Kanal 4 Denmark">Kanal 4 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="NATIONALGEOGRAPHICDK" xmltv_id="National Geographic Denmark">National Geographic Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_SFKANALEN_DK" xmltv_id="SF-kanalen Denmark">SF-kanalen Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV3DANMARK" xmltv_id="TV3 Denmark">TV3 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="vh1-denmark--dk-da-" xmltv_id="VH1 Denmark">VH1 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000ACTION_DK" xmltv_id="Viasat Film Action Denmark">Viasat Film Action Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000FAMILY_DK" xmltv_id="Viasat Film Family Denmark">Viasat Film Family Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000_DK" xmltv_id="Viasat Film Premiere HD Denmark">Viasat Film Premiere HD Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="ADULTCH" xmltv_id="Adult Channel">Adult Channel</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BBCWORLD" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="BLOOMBERG" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="CCTV" xmltv_id="CGTN">CGTN</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CARTOONNETWORKNORDIC_EN" xmltv_id="Cartoon Network Nordics English">Cartoon Network Nordics English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="club-mtv--gb-en-" xmltv_id="Club MTV">Club MTV</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="M_DEUTSCHEWELLE_DE" xmltv_id="Deutsche Welle (DW)">Deutsche Welle (DW)</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="EENTERTAINMENT" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="FRANCENEWS" xmltv_id="France 24 English">France 24 English</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_GINXTV_EN" xmltv_id="Ginx TV Esports">Ginx TV Esports</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEZZOLIVEHD_EN" xmltv_id="MEZZO LIVE HD EN">MEZZO LIVE HD EN</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="VH1" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="nautical-channel--us-en-" xmltv_id="Nautical Channel">Nautical Channel</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="6EREN" xmltv_id="6'eren">6'eren</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CANALSERIES_DK" xmltv_id="C More Series Denmark">C More Series Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_CARTOONNETWORK_DK" xmltv_id="Cartoon Network Denmark">Cartoon Network Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="DRRAMASJANG" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_HISTORYCHANNEL_DK" xmltv_id="History Channel Denmark">History Channel Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="KANAL5DK" xmltv_id="Kanal 5 Denmark">Kanal 5 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MTVDK" xmltv_id="MTV Denmark">MTV Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_NICKJR_DK" xmltv_id="Nick Jr. Denmark">Nick Jr. Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_ANIMALPLANETHD_DK" xmltv_id="TV 2 News">TV 2 News</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV2DFILM" xmltv_id="TV 2 Sport Denmark">TV 2 Sport Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-x-denmark--dk-da-" xmltv_id="TV 2 Sport X Denmark">TV 2 Sport X Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_VIASATHISTORY_DK" xmltv_id="Viasat History Denmark">Viasat History Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV1000DRAMA_DK" xmltv_id="Viasat Series Denmark">Viasat Series Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_ANIMALPLANET_DK" xmltv_id="Animal Planet Denmark">Animal Planet Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="CANAL9" xmltv_id="Canal 9">Canal 9</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="CANAL9" xmltv_id="Canal 9 Denmark">Canal 9 Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DK4" xmltv_id="DK4 Denmark">DK4 Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_EUROSPORT2_DK" xmltv_id="Eurosport 2 Denmark">Eurosport 2 Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="folketinget--dk-da-" xmltv_id="Folketinget">Folketinget</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="folketinget-denmark--dk-da-" xmltv_id="Folketinget Denmark">Folketinget Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_NATGEOWILD_DK" xmltv_id="National Geographic Wild Denmark">National Geographic Wild Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="DISCOVERYTLCDANMARK" xmltv_id="TLC Denmark">TLC Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV2FRI_DK" xmltv_id="TV 2 Fri">TV 2 Fri</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV2DZULU" xmltv_id="TV 2 Zulu">TV 2 Zulu</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV2DZULU" xmltv_id="TV 2 Echo Denmark">TV 2 Echo Denmark</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_TV2FRI_DK" xmltv_id="TV 2 Fri Denmark">TV 2 Fri Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV3PULS" xmltv_id="TV3 Puls Denmark">TV3 Puls Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV3DKPLUS" xmltv_id="TV3+ Denmark">TV3+ Denmark</channel>
     <channel site="[ENC]startsiden.no_0" site_id="MEETV_VIASATNATURECRIME_DK" xmltv_id="Viasat Nature Nordic Denmark">Viasat Nature Nordic Denmark</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="MEETV_NICKJR_NO" xmltv_id="Nick Jr. Norway">Nick Jr. Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="NICKELODEON" xmltv_id="Nickelodeon Norway">Nickelodeon Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="CPLSF" xmltv_id="SF-kanalen Norway">SF-kanalen Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-premium--no-no-" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="TV1000FAMILY" xmltv_id="Viasat Film Family Norway">Viasat Film Family Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="viasport-3-norway--no-no-" xmltv_id="Viasport 3 Norway">Viasport 3 Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="VISJONNO" xmltv_id="Visjon Norge Norway">Visjon Norge Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="norway-live--no-no-" xmltv_id="Norway Live">Norway Live</channel>
     <channel site="[ENC]startsiden.no_0" site_id="RIKSTOTO" xmltv_id="RIKSTOTO Norway">RIKSTOTO Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="tv-2-livsstil-norway--no-no-" xmltv_id="TV 2 Livsstil Norway">TV 2 Livsstil Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="history2-norway--no-no-" xmltv_id="HISTORY2 Norway">HISTORY2 Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="matkanalen-norway--no-no-" xmltv_id="Matkanalen Norway">Matkanalen Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="history-2-norway--no-no-" xmltv_id="History 2 Norway">History 2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="v-sport---norway--no-no-" xmltv_id="V Sport + Norway">V Sport + Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV1000ACTION" xmltv_id="Viasat Film Action Norway">Viasat Film Action Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="TV1000CLASSIC" xmltv_id="Viasat Film Hits Norway">Viasat Film Hits Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="VIASATGOLF" xmltv_id="Viasat Golf Norway">Viasat Golf Norway</channel>
     <channel site="[ENC]startsiden.no_0" site_id="VIASATNATURE" xmltv_id="Viasat Nature Nordic Norway">Viasat Nature Nordic Norway</channel>
-    <channel site="[ENC]startsiden.no_0" site_id="viasport--norway--no-no-" xmltv_id="Viasport+ Norway">Viasport+ Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="MEETV_NICKJR_NO" xmltv_id="Nick Jr. Norway">Nick Jr. Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="NICKELODEON" xmltv_id="Nickelodeon Norway">Nickelodeon Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="CPLSF" xmltv_id="SF-kanalen Norway">SF-kanalen Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="tv-2-sport-premium-norway--no-no-" xmltv_id="TV 2 Sport Premium Norway">TV 2 Sport Premium Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="v-sport-3-norway--no-no-" xmltv_id="V Sport 3 Norway">V Sport 3 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="V_SPORT_PREMIER_LEAGUE_NORWAY_2_NO" xmltv_id="V sport Premier League 2 Norway">V sport Premier League 2 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="V_SPORT_PREMIER_LEAGUE_NORWAY_3_NO" xmltv_id="V sport Premier League 3 Norway">V sport Premier League 3 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="V_SPORT_PREMIER_LEAGUE_NORWAY_4_NO" xmltv_id="V sport Premier League 4 Norway">V sport Premier League 4 Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="V_SPORT_PREMIER_LEAGUE_NORWAY_NO" xmltv_id="V sport Premier League Norway">V sport Premier League Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="TV1000FAMILY" xmltv_id="Viasat Film Family Norway">Viasat Film Family Norway</channel>
+    <channel site="[ENC]startsiden.no_0" site_id="VISJONNO" xmltv_id="Visjon Norge Norway">Visjon Norge Norway</channel>
   </channels>
 </site>
