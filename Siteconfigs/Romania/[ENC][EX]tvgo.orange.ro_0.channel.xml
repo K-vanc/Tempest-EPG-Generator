@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvgo.orange.ro_0">
   <channels>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="hPiSwCPY3HtF2-2iN8vntL6D9_jF-J86LVe-88Ia" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="5PdzSrjXPYwJlKgeCo1Ck-CFstw4d2_wUB4nElEw" xmltv_id="Diva">Diva</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="A7akpVMa8EsDexVjQKDHeElsYxXB1_D7txT69yLH" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="B0UIaBjkaS-7v77FxfqKv6pPw7qVv9bJR-cPz249" xmltv_id="My Zen TV HD">My Zen TV HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="0IPd5m0I_7yX9M57GEsSpVZ93Tndy37U7B1mzlti" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="D6umjBDPciFQPGKy31MWmS3aCVHQWw4vOoXW45Ta" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="qXzsywjfo486KIAE0mNlhwAbppwVMFt9ucQtq_Ns" xmltv_id="Kanal D HD">Kanal D HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="86yX3QXqgAiXY-ztCOnoRBopshoFs4F6OLNO992S" xmltv_id="Antena 3 CNN">Antena 3 CNN</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="T0spZ9OvA2hE-mHeck0pmpvPSLuZCGtG3RPNZ4ON" xmltv_id="Romania TV">Romania TV</channel>
@@ -46,7 +45,6 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="zlNh_v8ALi855iPGmm3Dfq5rDoZ2HQwi7YaPIGls" xmltv_id="TVR 1 HD">TVR 1 HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="2sDGDkl5wPcfaJ_R7sMVJ7SmDjjRhl08Iex6ow6h" xmltv_id="TVR 2 HD">TVR 2 HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="O-fic_pUIAKOJcBGk0ESpnQ4La1x75_aYSol3QgW" xmltv_id="TVR3">TVR3</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="n8oOtnSpl3EAQDznnveJ0QveI4Vkb0BR9uZML3wO" xmltv_id="TVR International">TVR International</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="QLhKy70LiXVuc3zaOsr7lyxuIhiq1xbeGZa9B3lC" xmltv_id="Prima News HD">Prima News HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="ppBwKgeoJxgoBSm88WUBEeZm4LQM4PUMXBhghtat" xmltv_id="Profit News TV">Profit News TV</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="uYuEZ6ETN6e1UOGwwBflvusL_2DbakGuGhBOH45o" xmltv_id="Kanal D2">Kanal D2</channel>
@@ -57,8 +55,8 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="4I8OejxRyl4eZ7_YmF9ZpSTOSiEzqlNy4Xntywxp" xmltv_id="NCN TV">NCN TV</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="fTm2H6DVrghILuwnlzLNRgPEilZo_rrtUqMyH__w" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="2rdxjmWpdvkKs6dLp9Fx1FZM3cMAmYusKKyiS0ee" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="NgTwtL0_Vt6f9NergtLVOC4JvfNilqvqpSHhVcSC" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Rwm5nIeXmyowJ_wqNvor1fdQv4aFE0F93dodNyXG" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="D6umjBDPciFQPGKy31MWmS3aCVHQWw4vOoXW45Ta" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="VbD2elhR7hqPLDvdUQz4vYkhqiutGOY2Y9I3OwWK" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="1ph8RnRWZ4D0UqBbmTdqnL_FhaR68YzxFQh2Jsxa" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="EwLOq52jPiYyiq8SSsWeKpFmpN6kHTURt-LT5_c8" xmltv_id="Minimax">Minimax</channel>
@@ -66,6 +64,7 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="gnP3FDE86hcSwRL4sXmb4IB5fFxm2KdbDe0DHx1V" xmltv_id="Nick JR">Nick JR</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="ts33ePNn_aR75OlcyBsd3pqPHhUjpwXpdso7wmRJ" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="1UEYSDN8f4K10YM61V-F_rWv6L9_kVnY1xztISp2" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="A7akpVMa8EsDexVjQKDHeElsYxXB1_D7txT69yLH" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="qXyNKJ6YhQB48u1b7dqCgQTkv8Y0iwJTRjFWnsdy" xmltv_id="Da Vinci Learning HD">Da Vinci Learning HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="av01X64DxeEU-wNJ6cOh9EQQak7V0RvqxTrCz1B_" xmltv_id="CNN HD">CNN HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="fZ_kIYDrWMzQy8la7CHKeCPGq4Ej8LsS-c628r-v" xmltv_id="CGTN">CGTN</channel>
@@ -73,13 +72,12 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="wWwgoH8nstvywRZv_Yxasd5bnd_QPeaWr8bD7DRU" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="A_LCoCRylC1F5nLdQ1cVus7dgglokuDAZMXIU0SW" xmltv_id="Nat Geo People">Nat Geo People</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="6dbLHWu7_Xtyajr6006nLFpVWPkyah38jytgyuCX" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="0IPd5m0I_7yX9M57GEsSpVZ93Tndy37U7B1mzlti" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="yxZ-06Hv2_k-mKW1whdIYNONUguuSpWi95NXk5D4" xmltv_id="BBC World News HD">BBC World News HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="uYHXmUhoKj3ayiaSsDEiijS7pnWumINROUIl9QYa" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="VOqemAVo6UBSWvYncEHhG_vaTy0ZZAGoOC0kNSRA" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="DIXyxQEB98y4x8x4dUZl6s-t2LvcGGm9ajiWFJ2u" xmltv_id="Viasat History HD">Viasat History HD</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Sw46a4tLIYV1Bpeg6F2vlCAmhDRdTeF4tjJvcyPx" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="iNVbpM7NRSSFuH57lqcSL-wPy_-o1vuZe_-vySEV" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Sw46a4tLIYV1Bpeg6F2vlCAmhDRdTeF4tjJvcyPx" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="pfMkghhW62a08KNpKyD79iIDXuJ_4TF12coL6OIb" xmltv_id="Travel Mix HD">Travel Mix HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="AACMhP-Cw8LOQ74fPFSAxYGGeUvXmUN-aP96zDpi" xmltv_id="Docubox HD">Docubox HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Qg5nNBaT3bQjkukjDSzzZPIFjx56g1x1kkXOUfQV" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
@@ -115,6 +113,7 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="M9u2LBzhREM6Bg-n5oOKZZwyAdwkbZQ7eLklVI_x" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="EAOMn1_1z97nfngeEk5dG8PgSlIB1PdVl4Zib5qQ" xmltv_id="TV City HD">TV City HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="TTn9c3AQyHU7ACCXtTnTTdXYALSlBtNYpQrQ0wSe" xmltv_id="The Fishing and Hunting Channel HD">The Fishing and Hunting Channel HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="B0UIaBjkaS-7v77FxfqKv6pPw7qVv9bJR-cPz249" xmltv_id="My Zen TV HD">My Zen TV HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="pMMPUTErxAkCe-oHOthXLjW7HSiU_qIJ10gLhtEI" xmltv_id="Fashionbox HD">Fashionbox HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="pGnOZAWpLDb_ez_xObDC3eqChTFPPKDw2CbmtMtE" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="7qTG6jUYqfri71NHXFFQVwhwKh947wEtxo5C3K-c" xmltv_id="TLC HD">TLC HD</channel>
@@ -127,6 +126,7 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="4SRIEKZIXSBSFWy5pB_xkG5k8_DiIUKgTZNdG3Pw" xmltv_id="Fightbox HD">Fightbox HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="EFDLUreaILbapMtPHWhoBexIZcl6DIX6dyeqIFti" xmltv_id="Motorvision HD">Motorvision HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="-9avOOhqtMF_2462C_Nxbzc5YXeNaxxVRpnb7Vlv" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="hPiSwCPY3HtF2-2iN8vntL6D9_jF-J86LVe-88Ia" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Om0vvNnspJ_rZqpMk8jRVlcBFxAZTKn5KaqJyx0V" xmltv_id="Kiss TV">Kiss TV</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="Zu868g2MHZJNX2S7pLENm3_s4MY05wDFJ95c3mwR" xmltv_id="Etno TV HD">Etno TV HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="-v8rIC-eqOLBkWCBswqFDz1acDFLvuCSH81FSsFY" xmltv_id="Taraf TV HD">Taraf TV HD</channel>
@@ -140,12 +140,22 @@
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="2AXpdDpJOwbUTYS0SldRmaYbiaxwET_bfrtV0UEz" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="LSO-S41ZNb6hZkLWuJGAJymijhsWulW1OJkT98Ze" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="qcfjqHo9j7TewVNRtIXenPA0qgAqW--j32lTY3-6" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
-    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="abXXzNuVjF21zJlnIG4eL-fXJLTpDo5k0hmFl-Ku" xmltv_id="Mooz HD">Mooz HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="v2mEZb8WuHRrAEr7kNhby0O8lV1_MlBC-oeiNrtX" xmltv_id="Mooz HITS">Mooz HITS</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="bFffoBhZiWSaqTofV14X2HWqyaCkWMuU3dyc3qRB" xmltv_id="Mooz RO">Mooz RO</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="lOLdy05gmMzK5-YT_TArBf8gthYX2zMASiQ2rtCZ" xmltv_id="iConcerts HD">iConcerts HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="ONarp12v21qrWn9kD17HkKtqvfY3jq1HGP5IqN9n" xmltv_id="Inedit TV">Inedit TV</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="C2Z4KDXyu1s8SfjC2ThtSvRRnUILzjewxyWEB94o" xmltv_id="Agro TV">Agro TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="SVvc2VtRV3PwO-e1aKgklDUAjDta_FkzVYIOTc2K" xmltv_id="Moldova TV">Moldova TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="MO8xPpSILhN6OmzopqoriMQG7O0AgHjP38K5c8_9" xmltv_id="Medika TV">Medika TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="13pDnLB9qJJrzCffE_fZyLbOEe5IBNJsag0MEMMw" xmltv_id="IDA TV">IDA TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="g0fyO7288lp6niOSP30ruMifv2pz9viISx4hk4V8" xmltv_id="Exploris">Exploris</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="9-_okFFs4rBi7v0nio5hnUk9rRUyU0jn40USVQgP" xmltv_id="Traditional TV">Traditional TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="wEYapZlMMbHwiZJHjPRRcxyieUDqSfixAHbTGKIj" xmltv_id="TV AS">TV AS</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="hT8hm7wPR1Hv-Pk1zA-hDvuiVQ7obWJ4Z5yMRFCH" xmltv_id="EMI TV">EMI TV</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="s7aDEoyQa2g4hV2Xmkcf40tsCVJiLCzJuTuy0ltQ" xmltv_id="Party Mix">Party Mix</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="1Jk2NYBNidmTFeEvZ3TSYLl4J4ailTD5JOajL9Xa" xmltv_id="Disco Mix HD">Disco Mix HD</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="qIBc0MKz61HY6NTjGtBnN92xp58eFy6PI2xmzhHh" xmltv_id="Atomic">Atomic</channel>
+    <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="7D20Vv8jgOPjrHeNjLJQXQvyCAg7WpH_Z4_EY-dd" xmltv_id="Rapsodia TV">Rapsodia TV</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="XN1k3rNjyp4Dytkq7LRq8sQR9XlXHDPE_gxczRJq" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="9ZxCHkSxgCwyWYWxLH5hkNtlwPFjsY-LxzGO4xTr" xmltv_id="Antena Stars HD">Antena Stars HD</channel>
     <channel site="[ENC][EX]tvgo.orange.ro_0" site_id="WxU9O_hgdmcUez7UCCKTSkb6CojCHPPiT_r6Iko9" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
