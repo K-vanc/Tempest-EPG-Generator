@@ -5,6 +5,7 @@
     <channel site="[ENC][EX]teleman.pl_0" site_id="Ale-Kino" xmltv_id="ale kino+">ale kino+</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="AMC" xmltv_id="AMC">AMC</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="Animal-Planet-HD" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]teleman.pl_0" site_id="Antena-HD" xmltv_id="Antena HD">Antena HD</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="AXN" xmltv_id="AXN">AXN</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="AXN-Black" xmltv_id="AXN Black">AXN Black</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="AXN-Spin" xmltv_id="AXN Spin">AXN Spin</channel>
@@ -13,7 +14,6 @@
     <channel site="[ENC][EX]teleman.pl_0" site_id="BBC-Earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="BBC-First" xmltv_id="BBC First">BBC First</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="BBC-Lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
-    <channel site="[ENC][EX]teleman.pl_0" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CanalPlus-1" xmltv_id="CANAL+ 1">CANAL+ 1</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CanalPlus-4K" xmltv_id="CANAL+ 4K">CANAL+ 4K</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CanalPlus-Dokument" xmltv_id="CANAL+ Dokument">CANAL+ Dokument</channel>
@@ -29,6 +29,7 @@
     <channel site="[ENC][EX]teleman.pl_0" site_id="CanalPlus-Sport-4" xmltv_id="CANAL+ Sport 4">CANAL+ Sport 4</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CanalPlus-Sport-5" xmltv_id="CANAL+ Sport 5">CANAL+ Sport 5</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="Cartoon-Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]teleman.pl_0" site_id="Cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CBS-Europa" xmltv_id="CBS Europa">CBS Europa</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="CBS-Reality" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="Crime-Investigation-Network" xmltv_id="CI Polsat">CI Polsat</channel>
@@ -58,8 +59,8 @@
     <channel site="[ENC][EX]teleman.pl_0" site_id="Filmbox-Premium" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="Fokus-TV" xmltv_id="Fokus TV">Fokus TV</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="Food-Network" xmltv_id="Food Network">Food Network</channel>
-    <channel site="[ENC][EX]teleman.pl_0" site_id="FOX" xmltv_id="FOX">FOX</channel>
-    <channel site="[ENC][EX]teleman.pl_0" site_id="FOX-Comedy" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel site="[ENC][EX]teleman.pl_0" site_id="FOX" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]teleman.pl_0" site_id="FOX-Comedy" xmltv_id="FX Comedy">FX Comedy</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="HBO" xmltv_id="HBO">HBO</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="HBO2" xmltv_id="HBO 2">HBO 2</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="HBO3" xmltv_id="HBO 3">HBO 3</channel>
@@ -137,6 +138,7 @@
     <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Kobieta" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Kultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="tvp-kultura-2" xmltv_id="TVP Kultura 2">TVP Kultura 2</channel>
+    <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Nauka" xmltv_id="TVP Nauka">TVP Nauka</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Rozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
     <channel site="[ENC][EX]teleman.pl_0" site_id="TVP-Seriale" xmltv_id="TVP Seriale">TVP Seriale</channel>

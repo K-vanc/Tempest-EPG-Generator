@@ -191,9 +191,9 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fast-funbox-hd-104" xmltv_id="Fast&amp;FunBox HD">Fast&amp;FunBox HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fightbox-436" xmltv_id="FightBox">FightBox</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fightbox-hd-453" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fighttime" xmltv_id="FighTime">FighTime</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fightklub-78" xmltv_id="Fightklub">Fightklub</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fightklub-hd-168" xmltv_id="Fightklub HD">Fightklub HD</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fighttime" xmltv_id="FightTime">FightTime</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="filmax" xmltv_id="FILMAX">FILMAX</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="filmbox-action-451" xmltv_id="FilmBox Action">FilmBox Action</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="filmbox-arthouse-183" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
@@ -207,10 +207,6 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="polsat-food-157" xmltv_id="Food Network">Food Network</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="polsat-food-network-hd-209" xmltv_id="Food Network HD">Food Network HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="food-network-hd-240" xmltv_id="Food Network HD - EN">Food Network HD - EN</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-127" xmltv_id="FOX">FOX</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-comedy-75" xmltv_id="FOX Comedy">FOX Comedy</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-comedy-hd-405" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-hd-128" xmltv_id="FOX HD">FOX HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="france-2-pl-329" xmltv_id="France 2 - PL">France 2 - PL</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="france-24-491" xmltv_id="France 24">France 24</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="france-24-en-70" xmltv_id="France 24 - EN">France 24 - EN</channel>
@@ -218,6 +214,10 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="france-24-en-hd-657" xmltv_id="France 24 HD - EN">France 24 HD - EN</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="uatv-549" xmltv_id="Freedom">Freedom</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="funbox-4k-605" xmltv_id="FunBox UHD">FunBox UHD</channel>
+    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-127" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-comedy-75" xmltv_id="FX Comedy">FX Comedy</channel>
+    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-comedy-hd-405" xmltv_id="FX Comedy HD">FX Comedy HD</channel>
+    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="fox-hd-128" xmltv_id="FX HD">FX HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="gametoon-hd-602" xmltv_id="Gametoon HD">Gametoon HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="ginx-tv-503" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="ginx-tv-hd-504" xmltv_id="Ginx eSports TV HD">Ginx eSports TV HD</channel>
@@ -312,7 +312,6 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="nickelodeon-hd-44" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="nicktoons-hd-631" xmltv_id="Nicktoons HD">Nicktoons HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="rtl-nitro-545" xmltv_id="Nitro">Nitro</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="nlo-tv-2" xmltv_id="NLO TV 2">NLO TV 2</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="nova-331" xmltv_id="Nova">Nova</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="novela-tv-461" xmltv_id="Novela tv">Novela tv</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="novela-tv-hd-155" xmltv_id="Novela tv HD">Novela tv HD</channel>
@@ -431,9 +430,7 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-hits-365" xmltv_id="Sky Hits">Sky Hits</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-krimi-422" xmltv_id="Sky Krimi">Sky Krimi</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-news-340" xmltv_id="Sky News">Sky News</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-select-423" xmltv_id="Sky Select">Sky Select</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-sport-austria-444" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sky-sport-hd-1-445" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="spiegel-geschichte-379" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sport-1-362" xmltv_id="Sport 1">Sport 1</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="sportklub-29" xmltv_id="Sportklub">Sportklub</channel>
@@ -563,8 +560,6 @@
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="tvt-500" xmltv_id="TVT">TVT</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="twoja-telewizja-morska-490" xmltv_id="Twoja Telewizja Morska">Twoja Telewizja Morska</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="twoja-tv-514" xmltv_id="Twoja.TV">Twoja.TV</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="ukraina-1" xmltv_id="Ukraina 1">Ukraina 1</channel>
-    <channel site="[ENC][EX]programtv.onet.pl_0" site_id="ukraina-2" xmltv_id="Ukraina 2">Ukraina 2</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="ultra-tv-4k-669" xmltv_id="ULTRA TV 4K">ULTRA TV 4K</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="vivid-red-hd-627" xmltv_id="Vivid RED HD">Vivid RED HD</channel>
     <channel site="[ENC][EX]programtv.onet.pl_0" site_id="vivid-touch-636" xmltv_id="Vivid Touch">Vivid Touch</channel>

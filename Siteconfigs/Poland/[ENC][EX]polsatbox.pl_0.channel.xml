@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]polsatbox.pl_0">
   <channels>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="-fx" xmltv_id="FX">FX</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="adult-channel" xmltv_id="Adult Channel">Adult Channel</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="adventure" xmltv_id="Adventure">Adventure</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="adventure-hd" xmltv_id="Adventure HD">Adventure HD</channel>
@@ -8,7 +9,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="al-jazeera-hd" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ale-kino-plus-" xmltv_id="ale kino+">ale kino+</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ale-kino-plus-hd" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="amazing-tv" xmltv_id="Amazing TV">Amazing TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="amc" xmltv_id="AMC">AMC</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="animal-planet-(niem.)" xmltv_id="Animal Planet (niem.)">Animal Planet (niem.)</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
@@ -23,7 +23,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="axn-spin-hd" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="babyfirsttv" xmltv_id="BabyFirstTV">BabyFirstTV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-brit" xmltv_id="BBC Brit">BBC Brit</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-brit-hd" xmltv_id="BBC Brit HD">BBC Brit HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-cbeebies" xmltv_id="BBC CBeebies">BBC CBeebies</channel>
@@ -33,7 +32,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-knowledge-hd" xmltv_id="BBC Knowledge HD">BBC Knowledge HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-lifestyle-hd" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="beate-uhse.tv" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="belgia-tv1" xmltv_id="Belgia - TV1">Belgia - TV1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="belsat-tv" xmltv_id="Belsat TV">Belsat TV</channel>
@@ -44,8 +43,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="blue-hustler-hd" xmltv_id="Blue Hustler HD">Blue Hustler HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="blue-movie" xmltv_id="Blue Movie">Blue Movie</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="boomerang-hd" xmltv_id="Boomerang HD">Boomerang HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="br" xmltv_id="BR">BR</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="br-alpha" xmltv_id="BR Alpha">BR Alpha</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="c-music-tv" xmltv_id="C Music TV">C Music TV</channel>
@@ -76,11 +73,11 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="canal-plus-1-hd" xmltv_id="CANAL+1 HD">CANAL+1 HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cartoon-network-hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="cartoon-network-tcm" xmltv_id="Cartoon Network/TCM">Cartoon Network/TCM</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="cartoonito-hd" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cbs-europa" xmltv_id="CBS Europa">CBS Europa</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cbs-europa-hd" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="cctv-news" xmltv_id="CCTV News">CCTV News</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ci-polsat" xmltv_id="CI POLSAT">CI POLSAT</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ci-polsat-hd" xmltv_id="CI POLSAT HD">CI POLSAT HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
@@ -100,6 +97,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="czworka-polskie-radio-hd" xmltv_id="Czwórka Polskie Radio HD">Czwórka Polskie Radio HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="da-vinci" xmltv_id="Da Vinci">Da Vinci</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="da-vinci-hd" xmltv_id="Da Vinci HD">Da Vinci HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="dacha-tv" xmltv_id="Dacha TV">Dacha TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="dami-skarzysko-kamienna" xmltv_id="Dami Skarżysko-Kamienna">Dami Skarżysko-Kamienna</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="das-erste" xmltv_id="Das Erste">Das Erste</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="deutsches-musik-fernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
@@ -183,6 +181,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="fightbox-hd" xmltv_id="FightBox HD">FightBox HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="fightklub" xmltv_id="Fightklub">Fightklub</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="fightklub-hd" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="film-ua-drama" xmltv_id="Film UA Drama">Film UA Drama</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="filmbox-action" xmltv_id="FilmBox Action">FilmBox Action</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="filmbox-arthouse" xmltv_id="FilmBox ArtHouse">FilmBox ArtHouse</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="filmbox-arthouse-hd" xmltv_id="FilmBox Arthouse HD">FilmBox Arthouse HD</channel>
@@ -193,25 +192,21 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="fokus-tv-hd" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="folx-tv" xmltv_id="Folx TV">Folx TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="food-network-hd" xmltv_id="Food Network HD">Food Network HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fox" xmltv_id="FOX">FOX</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fox-comedy" xmltv_id="Fox Comedy">Fox Comedy</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fox-comedy-hd" xmltv_id="Fox Comedy HD">Fox Comedy HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="france-24" xmltv_id="France 24">France 24</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="france-24-en" xmltv_id="France 24 - EN">France 24 - EN</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="france-24-en-hd" xmltv_id="France 24 - EN HD">France 24 - EN HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="france-24-hd" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="franken-fernsehen" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="funbox-4k" xmltv_id="FunBox 4K">FunBox 4K</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fx-comedy" xmltv_id="FX Comedy">FX Comedy</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fx-comedy-hd" xmltv_id="FX Comedy HD">FX Comedy HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="fx-hd" xmltv_id="FX HD">FX HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="gametoon-hd" xmltv_id="Gametoon HD">Gametoon HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ginx-tv" xmltv_id="GINX TV">GINX TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="god-tv" xmltv_id="God TV">God TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="goldstart-tv" xmltv_id="Goldstart TV">Goldstart TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="golf-channel" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="golf-channel-polska-hd" xmltv_id="Golf Channel Polska HD">Golf Channel Polska HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="gotv" xmltv_id="gotv">gotv</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="h2" xmltv_id="H2">H2</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="hamburg-1" xmltv_id="Hamburg 1">Hamburg 1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="hbo" xmltv_id="HBO">HBO</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
@@ -230,18 +225,21 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="id" xmltv_id="ID">ID</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="id-hd" xmltv_id="ID HD">ID HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="insight-tv-uhd" xmltv_id="Insight TV UHD">Insight TV UHD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="inspiration-tv" xmltv_id="Inspiration TV">Inspiration TV</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="inultra-tv-uhd" xmltv_id="InUltra TV UHD">InUltra TV UHD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="itvs" xmltv_id="iTVS">iTVS</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="jazz" xmltv_id="JAZZ">JAZZ</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="jim-jam-polsat" xmltv_id="Jim Jam Polsat">Jim Jam Polsat</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="junior-(niem.)" xmltv_id="Junior (niem.)">Junior (niem.)</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="kabel-eins" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="kbs-world-hd" xmltv_id="KBS World HD">KBS World HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ki.ka" xmltv_id="KI.KA">KI.KA</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="kino-polska-hd" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="kino-polska-muzyka" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="kino-tv" xmltv_id="Kino TV">Kino TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="kino-tv-hd" xmltv_id="Kino TV HD">Kino TV HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="kus-kus" xmltv_id="Kus Kus">Kus Kus</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="kvartal-tv-international" xmltv_id="Kvartal TV International">Kvartal TV International</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="love-nature-4k" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="lubelska.tv" xmltv_id="Lubelska.tv">Lubelska.tv</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="lubelska.tv-hd" xmltv_id="Lubelska.tv HD">Lubelska.tv HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="m-6" xmltv_id="M 6">M 6</channel>
@@ -257,8 +255,8 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="minimini-plus-hd" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mixtape" xmltv_id="MIXTAPE">MIXTAPE</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="motorvision" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="motowizja" xmltv_id="Motowizja">Motowizja</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="motowizja-hd" xmltv_id="Motowizja HD">Motowizja HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="motowizja-tv" xmltv_id="Motowizja TV">Motowizja TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mtv-club" xmltv_id="MTV Club">MTV Club</channel>
@@ -270,9 +268,10 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mtv-polska-hd" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="mtv00s" xmltv_id="MTV00s">MTV00s</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="muenchen.tv" xmltv_id="muenchen.tv">muenchen.tv</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="museum-tv-4k" xmltv_id="Museum TV 4K">Museum TV 4K</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="music-box" xmltv_id="Music Box">Music Box</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="music-box-hd" xmltv_id="Music Box HD">Music Box HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="myzen.tv-hd" xmltv_id="myZen.tv HD">myZen.tv HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="myzen-tv-4k" xmltv_id="MyZen TV 4K">MyZen TV 4K</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="n-24" xmltv_id="N 24">N 24</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="n-tv" xmltv_id="n-tv">n-tv</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="nasa-tv-uhd" xmltv_id="NASA TV UHD">NASA TV UHD</channel>
@@ -295,9 +294,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="nicktoons-hd" xmltv_id="Nicktoons HD">Nicktoons HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="niki-junior" xmltv_id="Niki Junior">Niki Junior</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="niki-kids" xmltv_id="Niki Kids">Niki Kids</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="nlo-tv-2" xmltv_id="NLO TV 2">NLO TV 2</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="nova" xmltv_id="Nova">Nova</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="novela-tv" xmltv_id="Novela tv">Novela tv</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="novela-tv-hd" xmltv_id="Novela tv HD">Novela tv HD</channel>
@@ -339,6 +335,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-news-2" xmltv_id="POLSAT News 2">POLSAT News 2</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-news-2-hd" xmltv_id="POLSAT News 2 HD">POLSAT News 2 HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-news-hd" xmltv_id="POLSAT News HD">POLSAT News HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-news-polityka" xmltv_id="Polsat News Polityka">Polsat News Polityka</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-play" xmltv_id="POLSAT Play">POLSAT Play</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-play-hd" xmltv_id="POLSAT Play HD">POLSAT Play HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="polsat-rodzina" xmltv_id="POLSAT Rodzina">POLSAT Rodzina</channel>
@@ -389,7 +386,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="rtl-102.5" xmltv_id="RTL 102.5">RTL 102.5</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="rtl-2" xmltv_id="RTL 2">RTL 2</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="rtl-hd" xmltv_id="RTL HD">RTL HD</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sat.1" xmltv_id="SAT.1">SAT.1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sbn" xmltv_id="SBN">SBN</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sci-fi" xmltv_id="SCI FI">SCI FI</channel>
@@ -407,10 +403,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-nostalgie" xmltv_id="Sky Nostalgie">Sky Nostalgie</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-select" xmltv_id="Sky Select">Sky Select</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-sport-1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-sport-2" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-sport-austria" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="sky-sport-hd-1" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="spiegel-geschichte" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sport-1" xmltv_id="Sport 1">Sport 1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="sportklub" xmltv_id="SportKlub">SportKlub</channel>
@@ -446,7 +439,6 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="teletoon-plus-hyper" xmltv_id="teleTOON+/Hyper">teleTOON+/Hyper</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="telewizja-pomerania" xmltv_id="Telewizja Pomerania">Telewizja Pomerania</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="test" xmltv_id="test">test</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="tf-1" xmltv_id="TF 1">TF 1</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="totv" xmltv_id="TO!TV">TO!TV</channel>
@@ -477,6 +469,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-puls-hd" xmltv_id="TV Puls HD">TV Puls HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-regio" xmltv_id="TV Regio">TV Regio</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-regionalna-lubin" xmltv_id="TV Regionalna Lubin">TV Regionalna Lubin</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-relax" xmltv_id="TV Relax">TV Relax</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-republika" xmltv_id="TV Republika">TV Republika</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-republika-hd" xmltv_id="TV Republika HD">TV Republika HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="tv-trwam" xmltv_id="TV Trwam">TV Trwam</channel>
@@ -539,12 +532,9 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="twoja-telewizja-morska" xmltv_id="Twoja Telewizja Morska">Twoja Telewizja Morska</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="twoja.tv" xmltv_id="Twoja.TV">Twoja.TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="uatv" xmltv_id="UATV">UATV</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="ukraina-1" xmltv_id="Ukraina 1">Ukraina 1</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="ukraina-24" xmltv_id="Ukraina 24">Ukraina 24</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="ukraina-24-hd" xmltv_id="Ukraina 24 HD">Ukraina 24 HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="ultra-tv-4k" xmltv_id="ULTRA TV 4K">ULTRA TV 4K</channel>
-    <channel site="[ENC][EX]polsatbox.pl_0" site_id="vivd-touch" xmltv_id="Vivd Touch">Vivd Touch</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="vivid-red" xmltv_id="Vivid Red">Vivid Red</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="vivid-touch" xmltv_id="Vivid Touch">Vivid Touch</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="vox" xmltv_id="VOX">VOX</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="vox-music-tv" xmltv_id="VOX Music TV">VOX Music TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="warner-tv" xmltv_id="Warner TV">Warner TV</channel>
@@ -565,6 +555,7 @@
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="zdf-info" xmltv_id="ZDF Info">ZDF Info</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="zoom-tv" xmltv_id="Zoom TV">Zoom TV</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="zoom-tv-hd" xmltv_id="ZOOM TV HD">ZOOM TV HD</channel>
+    <channel site="[ENC][EX]polsatbox.pl_0" site_id="1-plus-1-international" xmltv_id="1+1 International">1+1 International</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="13-ulica" xmltv_id="13 Ulica">13 Ulica</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="13-ulica-hd" xmltv_id="13 Ulica HD">13 Ulica HD</channel>
     <channel site="[ENC][EX]polsatbox.pl_0" site_id="13.tv" xmltv_id="13.tv">13.tv</channel>

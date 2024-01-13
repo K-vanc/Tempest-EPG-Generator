@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]telemagazyn.pl_0">
   <channels>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="hity-dnia" xmltv_id="Hity redakcji">Hity redakcji</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="13_ulica" xmltv_id="13 Ulica">13 Ulica</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="13th_street_niem" xmltv_id="13th Street (NIEM)">13th Street (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="2x2" xmltv_id="2x2">2x2</channel>
@@ -41,6 +42,7 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_sport_fr" xmltv_id="Canal + Sport (FR)">Canal + Sport (FR)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_4k" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_dokument" xmltv_id="CANAL+ Dokument">CANAL+ Dokument</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="domo_tv" xmltv_id="CANAL+ DOMO HD">CANAL+ DOMO HD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_family" xmltv_id="CANAL+ Family">CANAL+ Family</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_film" xmltv_id="CANAL+ Film">CANAL+ Film</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="canal_j_fr" xmltv_id="Canal J (FR)">Canal J (FR)</channel>
@@ -91,7 +93,6 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="disney_xd" xmltv_id="Disney XD">Disney XD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="dizi" xmltv_id="DIZI">DIZI</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="dmaxx_niem" xmltv_id="DMAX (NIEM)">DMAX (NIEM)</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="domo_tv" xmltv_id="DOMO+">DOMO+</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="duck_tv_hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="duck_tv" xmltv_id="Duck TV">Duck TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvee_en" xmltv_id="E! (ANG)">E! (ANG)</channel>
@@ -128,11 +129,12 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="filmbox_premium" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="fokus_tv" xmltv_id="FOKUS TV">FOKUS TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="food_network" xmltv_id="Food Network">Food Network</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="fox_comedy" xmltv_id="FOX Comedy">FOX Comedy</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="fox_hd" xmltv_id="Fox HD">Fox HD</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="france_2" xmltv_id="France 2">France 2</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="france_24" xmltv_id="France 24">France 24</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="france_3_fr" xmltv_id="France 3 (FR)">France 3 (FR)</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="fx_comedy" xmltv_id="FX Comedy">FX Comedy</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="fx" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="gold_tv" xmltv_id="GOLD TV">GOLD TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="goldstar_tv_niem" xmltv_id="Goldstar TV (NIEM)">Goldstar TV (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="golf_channel" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="h2" xmltv_id="H2">H2</channel>
@@ -144,6 +146,7 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="hessen_3_niem" xmltv_id="Hessen 3 (NIEM)">Hessen 3 (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="hgtv" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="history" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="home_tv" xmltv_id="HOME TV">HOME TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="hse_24_niem" xmltv_id="HSE 24 (NIEM)">HSE 24 (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="investigation_discovery" xmltv_id="Investigation Discovery (ID)">Investigation Discovery (ID)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="italia_1" xmltv_id="Italia 1">Italia 1</channel>
@@ -194,14 +197,13 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="novela_tv" xmltv_id="Novela TV">Novela TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="nowa_tv" xmltv_id="Nowa TV">Nowa TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="nsport" xmltv_id="nSPORT+">nSPORT+</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="ntl_radomsko" xmltv_id="NTL Radomsko">NTL Radomsko</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="n_tv_niem" xmltv_id="n-tv (NIEM)">n-tv (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="nuta_tv" xmltv_id="Nuta TV">Nuta TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="ontv" xmltv_id="ONTV">ONTV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="opoka_tv" xmltv_id="OPOKA.TV">OPOKA.TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="orf_1_niem" xmltv_id="ORF 1 (NIEM)">ORF 1 (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="orf_2_niem" xmltv_id="ORF 2 (NIEM)">ORF 2 (NIEM)</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="paramount_channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="paramount_network" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="phoenix_niem" xmltv_id="Phoenix (NIEM)">Phoenix (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="planete" xmltv_id="PLANETE+">PLANETE+</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="polo_tv" xmltv_id="Polo TV">Polo TV</channel>
@@ -288,7 +290,6 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tnt_film" xmltv_id="TNT Film">TNT Film</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tok_fm" xmltv_id="TOK FM">TOK FM</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="top_kids" xmltv_id="Top Kids">Top Kids</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="to_tv" xmltv_id="TO!TV">TO!TV</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="trace_urban" xmltv_id="Trace Urban">Trace Urban</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="travel_channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tsr_2_fr" xmltv_id="TSR 2 (FR)">TSR 2 (FR)</channel>
@@ -303,6 +304,7 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tv-trwam" xmltv_id="TV Trwam">TV Trwam</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tv5_monde_fds_fr" xmltv_id="TV5 Monde FDS (FR)">TV5 Monde FDS (FR)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvc" xmltv_id="TVC">TVC</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tve" xmltv_id="TVE">TVE</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvn_24_biznes_i_swiat" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvn_24" xmltv_id="TVN 24">TVN 24</channel>
@@ -320,6 +322,7 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_info" xmltv_id="TVP INFO">TVP INFO</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tplk" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_kultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_nauka" xmltv_id="TVP Nauka">TVP Nauka</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_rozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp_seriale" xmltv_id="TVP Seriale">TVP Seriale</channel>
@@ -341,7 +344,6 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp3_warszawa" xmltv_id="TVP3 Warszawa">TVP3 Warszawa</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp3_wroclaw" xmltv_id="TVP3 Wrocław">TVP3 Wrocław</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvp3" xmltv_id="TVP3">TVP3</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvr" xmltv_id="TVR">TVR</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tvregionalna_pl" xmltv_id="TVREGIONALNA.PL">TVREGIONALNA.PL</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="tv_silesia" xmltv_id="TVS">TVS</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="universal_channel" xmltv_id="Universal Channel">Universal Channel</channel>
@@ -356,7 +358,7 @@
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="water_planet" xmltv_id="Water Planet">Water Planet</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="wdr_niem" xmltv_id="WDR (NIEM)">WDR (NIEM)</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="wellbeing_network" xmltv_id="Wellbeing Network">Wellbeing Network</channel>
-    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="wp1" xmltv_id="WP1">WP1</channel>
+    <channel site="[ENC][EX]telemagazyn.pl_0" site_id="wp" xmltv_id="WP">WP</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="superstacja" xmltv_id="Wydarzenia 24">Wydarzenia 24</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="xxl" xmltv_id="XXL">XXL</channel>
     <channel site="[ENC][EX]telemagazyn.pl_0" site_id="zdf_niem" xmltv_id="ZDF (NIEM)">ZDF (NIEM)</channel>
