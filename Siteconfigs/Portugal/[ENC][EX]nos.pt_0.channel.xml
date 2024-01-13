@@ -46,7 +46,7 @@
     <channel site="[ENC][EX]nos.pt_0" site_id="107" xmltv_id="RTP Madeira">RTP Madeira</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="108" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="109" xmltv_id="France 24 (I)">France 24 (I)</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="111" xmltv_id="Globo Now HD">Globo Now HD</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="111" xmltv_id="Globo News">Globo News</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="112" xmltv_id="PFC">PFC</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="113" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="114" xmltv_id="FOX Crime">FOX Crime</channel>
@@ -62,7 +62,7 @@
     <channel site="[ENC][EX]nos.pt_0" site_id="132" xmltv_id="France 24 (F)">France 24 (F)</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="134" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="137" xmltv_id="SPORT TV1 HD">SPORT TV1 HD</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="138" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="138" xmltv_id="TPA Notícias">TPA Notícias</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="139" xmltv_id="RTP 1 HD">RTP 1 HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="141" xmltv_id="TVCine TOP HD">TVCine TOP HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="142" xmltv_id="Canção Nova">Canção Nova</channel>
@@ -78,7 +78,6 @@
     <channel site="[ENC][EX]nos.pt_0" site_id="176" xmltv_id="Biggs">Biggs</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="177" xmltv_id="FOX Movies">FOX Movies</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="180" xmltv_id="SPORT TV5 HD">SPORT TV5 HD</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="181" xmltv_id="Toros TV HD">Toros TV HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="187" xmltv_id="SPORT TV2 HD">SPORT TV2 HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="188" xmltv_id="SPORT TV3 HD">SPORT TV3 HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="194" xmltv_id="AXN Movies HD">AXN Movies HD</channel>
@@ -136,7 +135,6 @@
     <channel site="[ENC][EX]nos.pt_0" site_id="519" xmltv_id="ELEVEN SPORTS 2">ELEVEN SPORTS 2</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="530" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="538" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="541" xmltv_id="DW (Alemão)">DW (Alemão)</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="543" xmltv_id="Trace Toca">Trace Toca</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="544" xmltv_id="Canal História HD">Canal História HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="545" xmltv_id="AMC Crime HD">AMC Crime HD</channel>
@@ -161,12 +159,15 @@
     <channel site="[ENC][EX]nos.pt_0" site_id="673" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="679" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="680" xmltv_id="Horse TV">Horse TV</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="681" xmltv_id="Nickelodeon Ukraine Pluto TV">Nickelodeon Ukraine Pluto TV</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="684" xmltv_id="ELEVEN EXTRA 1">ELEVEN EXTRA 1</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="685" xmltv_id="ELEVEN EXTRA 2">ELEVEN EXTRA 2</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="686" xmltv_id="ELEVEN EXTRA 3">ELEVEN EXTRA 3</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="687" xmltv_id="ELEVEN EXTRA 4">ELEVEN EXTRA 4</channel>
     <channel site="[ENC][EX]nos.pt_0" site_id="689" xmltv_id="Unifé TV">Unifé TV</channel>
-    <channel site="[ENC][EX]nos.pt_0" site_id="693" xmltv_id="Gospel TV">Gospel TV</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="694" xmltv_id="OneToro TV">OneToro TV</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="697" xmltv_id="New Brasil">New Brasil</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="701" xmltv_id="W-Sport">W-Sport</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="702" xmltv_id="Dizi">Dizi</channel>
+    <channel site="[ENC][EX]nos.pt_0" site_id="704" xmltv_id="Trace Brasil">Trace Brasil</channel>
   </channels>
 </site>
