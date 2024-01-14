@@ -10,7 +10,7 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10007||8269.f.JOJ_Cinema_HD.png" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10008||50047.f.Dajto_HD_SK.png" xmltv_id="Dajto HD">Dajto HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10009||8406.f.WAU_SK.png" xmltv_id="WAU HD">WAU HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10010||Trojka_HD.f.Trojka_HD.png" xmltv_id="Trojka HD">Trojka HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10193||RTVS24_HD.f.png" xmltv_id="RTVS 24 HD">RTVS 24 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10011||8636.f.RiK_HD.png" xmltv_id="Jojko HD">Jojko HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10012||5169.f.TA3.png" xmltv_id="TA3 HD">TA3 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10013||483_50055_c_7d2257cda285bcbb3e8b67a71f1cc0d4.TV_LUX_SK.png" xmltv_id="TV LUX HD">TV LUX HD</channel>
@@ -19,7 +19,6 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10014||Folklorika_HD.f.Folklorika_HD.png" xmltv_id="Folklorika HD">Folklorika HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10015||8437.f.TV8_HD.png" xmltv_id="TV8 HD">TV8 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10016||50040.f.SENZI_HD.png" xmltv_id="SENZI HD">SENZI HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10017||9097.f.CT_3_HD.png" xmltv_id="CT 3 HD">CT 3 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10018||5053.f.CT_1_HD.png" xmltv_id="CT 1 HD">CT 1 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10019||5054.f.CT_2_HD.png" xmltv_id="CT 2 HD">CT 2 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10020||8432.f.CT_D_art_HD.png" xmltv_id="CT D HD / CT art HD">CT D HD / CT art HD</channel>
@@ -27,7 +26,8 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10022||8434.f.Nova_International_HD.png" xmltv_id="Nova International HD">Nova International HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10023||8436.f.Prima_PLUS_HD.png" xmltv_id="Prima PLUS HD">Prima PLUS HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10024||8200.f.AMC_HD.png" xmltv_id="AMC HD">AMC HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10025||8671sd.f.Seznamcz_TV.png" xmltv_id="Seznam TV">Seznam TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10198||JOJ24.f.png" xmltv_id="JOJ 24 HD">JOJ 24 HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10025||8671sd.f.Seznamcz_TV.png" xmltv_id="Seznam.cz TV HD">Seznam.cz TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10026||9096.f.CNN_Prima_News_HD.png" xmltv_id="CNN Prima News HD">CNN Prima News HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10027||8738.f.Prima_KRIMI_HD.png" xmltv_id="Prima KRIMI HD">Prima KRIMI HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10028||769676.f.Prima_MAX_HD.png" xmltv_id="Prima MAX HD">Prima MAX HD</channel>
@@ -37,35 +37,33 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10032||5039.f.Barrandov_TV_HD.png" xmltv_id="Barrandov TV HD">Barrandov TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10033||7236.f.Barrandov_Plus_HD.png" xmltv_id="Barrandov Krimi HD">Barrandov Krimi HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10034||7230.f.Kino_Barrandov_HD.png" xmltv_id="Kino Barrandov HD">Kino Barrandov HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10035||5172.f.Noe_TV.png" xmltv_id="Noe TV">Noe TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10035||5172.f.Noe_TV.png" xmltv_id="Noe TV HD">Noe TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10036||7213.f.Mnam_TV_HD.png" xmltv_id="Mnam TV HD">Mnam TV HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10037||8203.f.Mnau_TV.png" xmltv_id="Mnau TV">Mnau TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10037||8203.f.Mnau_TV.png" xmltv_id="Mnau TV HD">Mnau TV HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10195||TurboTV.png" xmltv_id="TurboTV HD">TurboTV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10038||8648.f.TV_Raj.png" xmltv_id="TV Raj HD">TV Raj HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10039||ruzinov.f.TV_Ruzinov_HD.png" xmltv_id="TV Ruzinov HD">TV Ruzinov HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10040||5001.f.AXN.png" xmltv_id="AXN">AXN</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10041||5036.f.AXN_White.png" xmltv_id="AXN White">AXN White</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10042||5038.f.AXN_Black.png" xmltv_id="AXN Black">AXN Black</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10043||8004.f.Film_plus_HD.png" xmltv_id="Film+ HD CZ">Film+ HD CZ</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10204||doktor.f.png" xmltv_id="TV Doktor HD">TV Doktor HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10199||skvele.f.png" xmltv_id="Skvele TV HD">Skvele TV HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10196||Markiza_Krimi_HD.f.png" xmltv_id="Markiza Krimi HD">Markiza Krimi HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10043||filmplus.f.png" xmltv_id="Film+ CZ HD">Film+ CZ HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10044||5092.f.FilmBox.png" xmltv_id="FilmBox HD">FilmBox HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10045||5094.f.FilmBox_Family.png" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10046||5051.f.CS_film_CS_mini.png" xmltv_id="CS Film CS Horror">CS Film CS Horror</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10047||8603.f.WAR.png" xmltv_id="CS History">CS History</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10048||5111.f.Kino_Svet.png" xmltv_id="CS Mystery">CS Mystery</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10046||5051.f.CS_film_CS_mini.png" xmltv_id="CS Film CS Horror HD">CS Film CS Horror HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10047||8603.f.WAR.png" xmltv_id="CS History HD">CS History HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10048||5111.f.Kino_Svet.png" xmltv_id="CS Mystery HD">CS Mystery HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10049||5000.f.Animal_Planet_HD.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10050||5044.f.CBS_Reality.png" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10051||8202.f.Crime_and_Investigation.png" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10052||5006.f.Discovery.png" xmltv_id="Discovery HD">Discovery HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10053||8415.f.Discovery_Science_HD.png" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10054||8414.f.DTX_HD.png" xmltv_id="DTX HD">DTX HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10055||8416.f.IDX_HD.png" xmltv_id="ID HD">ID HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10056||8085.f.Food_Network_HD.png" xmltv_id="Food Network HD">Food Network HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10057||5013.f.History_HD.png" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10057||10057.png" xmltv_id="History HD">History HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10058||5122.f.Nat_Geo_HD.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10059||8081.f.Nat_Geo_Wild_HD.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10060||5162.f.Spektrum_HD.png" xmltv_id="Spektrum HD">Spektrum HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10061||5163.f.Spektrum_home.png" xmltv_id="Spektrum home">Spektrum home</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10062||5061.f.Discovery_TLC.png" xmltv_id="TLC">TLC</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10063||5193.f.TV_Paprika.png" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10061||5163.f.Spektrum_home.png" xmltv_id="Spektrum home HD">Spektrum home HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10062||5061.f.Discovery_TLC.png" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10063||5193.f.TV_Paprika.png" xmltv_id="TV Paprika HD">TV Paprika HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10064||7253.f.Travel_Channel_HD.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10065||764620.f.Viasat_Explore_HD.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10066||764622.f.Viasat_History_HD.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
@@ -73,19 +71,16 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10068||5096.f.Fishing_and_Hunting.png" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10069||hobby_tv.f.Hobby_TV_HD.png" xmltv_id="Hobby TV HD">Hobby TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10070||park_tv.f.Park_TV_HD.png" xmltv_id="Park TV HD">Park TV HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10071||adventure.f.Adventure_HD.png" xmltv_id="Adventure HD">Adventure HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10072||5070.f.Eurosport_HD.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10073||5069.f.Eurosport_2_HD.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10074||7212.f.Sport_1_HD.png" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10075||5165.f.Sport_2_HD.png" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10076||5166.f.Sport_5.png" xmltv_id="Sport 5">Sport 5</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10077||483_20030_c_a8656683994a04e1456c9f3df4209ac7.Auto_Motor_Sport_SK.png" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10078||5100.f.Golf_Channel_HD.png" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10079||1236.f.Extreme_Sports.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10080||5128.f.Nova_Sport_HD.png" xmltv_id="Nova Sport 1 HD">Nova Sport 1 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10081||8079.f.Nova_Sport_2_HD.png" xmltv_id="Nova Sport 2 HD">Nova Sport 2 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10082||5055.f.CT_sport_HD.png" xmltv_id="CT sport HD">CT sport HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10083||Chuck_TV_HD.f.Chuck_TV_HD.png" xmltv_id="Chuck TV">Chuck TV</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10084||5007.f.duck_tv.png" xmltv_id="ducktv HD">ducktv HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10085||5117.f.Minimax_Animax.png" xmltv_id="Minimax">Minimax</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10086||5063.f.Disney_Channel.png" xmltv_id="Disney Channel">Disney Channel</channel>
@@ -98,40 +93,44 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10093||1183.f.MTV_Live_HD.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10094||8464.f.MTV_Dance.png" xmltv_id="Club MTV">Club MTV</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10095||5207.f.MTV_Rocks.png" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10096||0145.f.VH1.png" xmltv_id="VH 1">VH 1</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10096||0145.f.VH1.png" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10097||1178.f.VH1_Classic.png" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10098||5153.f.Retro_Music_TV.png" xmltv_id="Retro Music TV">Retro Music TV</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10100||8909.f.Power_TV_HD.png" xmltv_id="Power TV HD">Power TV HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10101||Slager_original.png" xmltv_id="Slager original">Slager original</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10102||Slager_muzika.png" xmltv_id="Slager muzika">Slager muzika</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10103||Slagr_premium.f.Slagr_premium.png" xmltv_id="Slagr premium">Slagr premium</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10104||1151.f.Mezzo.png" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10101||Slager_original.png" xmltv_id="Slager original HD">Slager original HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10102||Slager_muzika.png" xmltv_id="Slager muzika HD">Slager muzika HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10103||Slagr_premium.f.Slagr_premium.png" xmltv_id="Slager Premium HD">Slager Premium HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10104||10104.png" xmltv_id="Mezzo">Mezzo</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10105||8274.f.Fashion_TV_HD.png" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10106||5152.f.RELAX.png" xmltv_id="RELAX">RELAX</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10107||0011.f.BBC_World_News.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10203||eentertainment.f.png" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10197||9106.f.png" xmltv_id="Sky News">Sky News</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10108||1166.f.CNN_Int.png" xmltv_id="CNN">CNN</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10109||4667.f.Deutsche_Welle.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10110||0016.f.CNBC.png" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10109||4667.f.Deutsche_Welle.png" xmltv_id="Deutsche Welle HD">Deutsche Welle HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10110||0016.f.CNBC.png" xmltv_id="CNBC Europe HD">CNBC Europe HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10111||8649.f.Euronews_HD.png" xmltv_id="Euronews HD">Euronews HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10112||1140.f.France_24.png" xmltv_id="France 24">France 24</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10113||7004.f.Russia_Today_HD.png" xmltv_id="Russia Today HD">Russia Today HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10114||8649fr.f.Euronews_FR.png" xmltv_id="Euronews FR">Euronews FR</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10115||1006.f.ORF1.png" xmltv_id="ORF 1">ORF 1</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10116||1007.f.ORF2.png" xmltv_id="ORF 2">ORF 2</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10117||ORF3.f.ORF3.png" xmltv_id="ORF III">ORF III</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10118||TVP_Polonia.f.TVP_Polonia.png" xmltv_id="TVP Polonia">TVP Polonia</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10119||TRT_World.f.TRT_World.png" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10118||TVP_Polonia.f.TVP_Polonia.png" xmltv_id="TVP Polonia HD">TVP Polonia HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10190||UATV.f.png" xmltv_id="UATV">UATV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10192||Espreso_TV.f.png" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10194||CurrentTime.f.png" xmltv_id="Current Time HD">Current Time HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10119||TRT_World.f.TRT_World.png" xmltv_id="TRT World HD">TRT World HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10120||5104.f.HBO_HD.png" xmltv_id="HBO HD">HBO HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10121||5077.f.HBO_2_HD.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10122||5103.f.HBO_3_HD.png" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10123||5048.f.Cinemax_HD.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10124||5047.f.Cinemax_2_HD.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10201||arthouse.f.png" xmltv_id="FilmBox Arthouse HD">FilmBox Arthouse HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10125||5011.f.FilmBox_Extra_HD.png" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10126||8201.f.FilmBox_Premium_HD.png" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10127||5095.f.FilmBox_Plus.png" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10200||360tunebox.f.png" xmltv_id="360 TuneBox HD">360 TuneBox HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10127||5095.f.FilmBox_Plus.png" xmltv_id="FilmBox Stars HD">FilmBox Stars HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10202||fashionbox.f.png" xmltv_id="FashionBox HD">FashionBox HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10128||8006.f.Fightbox_HD.png" xmltv_id="Fightbox HD">Fightbox HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10129||8633.f.Docubox_HD.png" xmltv_id="Docubox HD">Docubox HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10130||8005.f.Fast_and_Fun_HD.png" xmltv_id="Fast &amp; Fun HD">Fast &amp; Fun HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10130||8005.f.Fast_and_Fun_HD.png" xmltv_id="Fast &amp; FunBox HD">Fast &amp; FunBox HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10131||5198.f.EroXXX_HD.png" xmltv_id="EroXXX HD">EroXXX HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10134||Leo_TV_HD.f.Leo_TV_HD.png" xmltv_id="Leo TV HD">Leo TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10136||Extasy_HD.f.Extasy_HD.png" xmltv_id="Extasy HD">Extasy HD</channel>
@@ -139,52 +138,75 @@
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10188||Brazzers_TV_HD.png" xmltv_id="Brazzers TV HD">Brazzers TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10189||Reality_Kings_HD.png" xmltv_id="Reality Kings HD">Reality Kings HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10137||483_3_c_8c438f56a055eb522959f7d1d67c3316.Hir_TV_SK.png" xmltv_id="HirTV">HirTV</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10138||483_1_c_d2833062eaff6dc96b18f25694620e09.m1_SK.png" xmltv_id="M1 HD">M1 HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10139||483_4_c_e25cc974339b1fe70362d71af3cfa6e6.m2_SK.png" xmltv_id="m2">m2</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10140||M5.f.M5.png" xmltv_id="M5">M5</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10141||483_14_c_6a0946d31005cf6d80795cebf8ff3d0b.M4_Sport_HU_HD.png" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10142||483_6_c_a3d559aa63f5f7892b903d4e19d03d6a.RTL_Klub_SK.png" xmltv_id="RTL Klub">RTL Klub</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10143||483_9_c_1cae97d83ed8c6dd05e6b5b6952b31fb.RTL_2_HUN_SK.png" xmltv_id="RTL 2 (HUN)">RTL 2 (HUN)</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10138||10138.png" xmltv_id="m1 HD">m1 HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10139||10139.png" xmltv_id="m2 HD">m2 HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10140||M5.f.M5.png" xmltv_id="m5 HD">m5 HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10141||10141.png" xmltv_id="m4 Sport HD">m4 Sport HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10142||483_6_c_a3d559aa63f5f7892b903d4e19d03d6a.RTL_Klub_SK.png" xmltv_id="RTL HU">RTL HU</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10143||483_9_c_1cae97d83ed8c6dd05e6b5b6952b31fb.RTL_2_HUN_SK.png" xmltv_id="RTL KETTO">RTL KETTO</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10144||8741.f.Filmbox_HU.png" xmltv_id="Filmbox HU">Filmbox HU</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10145||483_13_c_67a1cc500fb0219ad22022f9b6a5bdf5.Duna_World_SK.png" xmltv_id="Duna World">Duna World</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10146||483_2_c_f722c641cc8eee9954c7d17090dbb352.Duna.png" xmltv_id="Duna">Duna</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10145||483_13_c_67a1cc500fb0219ad22022f9b6a5bdf5.Duna_World_SK.png" xmltv_id="Duna World HD">Duna World HD</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10146||483_2_c_f722c641cc8eee9954c7d17090dbb352.Duna.png" xmltv_id="Duna HD">Duna HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10147||483_5_c_83605e6df56dd3fd70decd6ec788e5f5.Magyar_ATV_SK.png" xmltv_id="Magyar ATV">Magyar ATV</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10148||483_11_w_c2db000b3b3fe8fab637bc2a3aa973d3.TV2_SK.png" xmltv_id="TV2">TV2</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10149||483_8_c_b0512fcf56051fb60e240a360ced3a57.Cool_TV_SK.png" xmltv_id="Cool TV">Cool TV</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10150||483010.f.Story_4_SK.png" xmltv_id="Story 4">Story 4</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10150||483010.f.Story_4_SK.png" xmltv_id="TV4">TV4</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10151||9052.f.TV_Paprika_HU.png" xmltv_id="TV Paprika HU">TV Paprika HU</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10152||8649.f.Euronews_HU.png" xmltv_id="Euronews HU">Euronews HU</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10153||RTL_Gold_HU.f.RTL_Gold_HU.png" xmltv_id="RTL Gold">RTL Gold</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10154||RTL_plus_HU.f.RTL_plus_HU.png" xmltv_id="RTL+">RTL+</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10154||RTL_plus_HU.f.RTL_plus_HU.png" xmltv_id="RTL HAROM">RTL HAROM</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10155||Sorozat_plus_HU.f.Sorozat_plus_HU.png" xmltv_id="Sorozat+">Sorozat+</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10156||Muzsika_TV_HU.f.Muzsika_TV_HU.png" xmltv_id="Muzsika TV">Muzsika TV</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10157||Slager_TV_HU.f.Slager_TV_HU.png" xmltv_id="Slager TV">Slager TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10157||Slager_TV_HU.f.Slager_TV_HU.png" xmltv_id="Slager TV HD">Slager TV HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10158||Story_4_HU.f.Story_4_HU.png" xmltv_id="Story 4">Story 4</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10159||Super_TV2_HU.f.Super_TV2_HU.png" xmltv_id="Super TV2">Super TV2</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10160||TV2Sef_HU.f.TV2Sef_HU.png" xmltv_id="TV2Sef">TV2Sef</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10161||Fem3_HU.f.Fem3_HU.png" xmltv_id="Fem3">Fem3</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10162||Film_plus_HU.f.Film_plus_HU.png" xmltv_id="Film+">Film+</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10162||Film_plus_HU.f.Film_plus_HU.png" xmltv_id="FILM+ HU">FILM+ HU</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10163||Kabel_eins_SK.png" xmltv_id="Kabel eins">Kabel eins</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10164||483_110002_c_e959874e6c55bdc3dab22b3adb5d40ea.N24_SK.png" xmltv_id="N24">N24</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10164||483_110002_c_e959874e6c55bdc3dab22b3adb5d40ea.N24_SK.png" xmltv_id="WELT">WELT</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10165||483_110003_c_df1289a7f954043a763d02f963e41dc6.ProSieben_SK.png" xmltv_id="ProSieben">ProSieben</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10166||483_110004_c_13134c68f3d625820f8972c4d5c86386.RTL_SK.png" xmltv_id="RTL">RTL</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10167||RTL_2_GER_SK.png" xmltv_id="RTL 2 (GER)">RTL 2 (GER)</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10166||483_110004_c_13134c68f3d625820f8972c4d5c86386.RTL_SK.png" xmltv_id="RTL DE">RTL DE</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10167||RTL_2_GER_SK.png" xmltv_id="RTL Zwei">RTL Zwei</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10168||483_110007_c_1445e329c18d9eaa68f816d1163d2f72.Super_RTL_SK.png" xmltv_id="Super RTL">Super RTL</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10169||483_110006_c_e051e3d4a1274f965874a5117218978c.SAT_1_SK.png" xmltv_id="SAT 1">SAT 1</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10170||VOX_SK.png" xmltv_id="VOX">VOX</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10171||9107.f.Nitro.png" xmltv_id="Nitro">Nitro</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10172||5132.f.Channel_One_Russia.png" xmltv_id="Channel One Russia">Channel One Russia</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10173||9098.f.Dom_Kino_PREMIUM_HD.png" xmltv_id="Dom Kino PREMIUM HD">Dom Kino PREMIUM HD</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10174||5064.f.Dom_Kino.png" xmltv_id="Dom Kino">Dom Kino</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10175||5188.f.Vremja.png" xmltv_id="Vremja">Vremja</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10176||9099.f.Poekhali_exclamation.png" xmltv_id="Poekhali!">Poekhali!</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10177||9100.f.Telecafe.png" xmltv_id="Telecafe">Telecafe</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10178||9101.f.Bobyor.png" xmltv_id="Bobyor">Bobyor</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10178||9101.f.Bobyor.png" xmltv_id="Bober">Bober</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10179||9102.f.Pobeda.png" xmltv_id="Pobeda">Pobeda</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10180||9103.f.Carousel.png" xmltv_id="Carousel">Carousel</channel>
     <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10181||9104.f.O_exclamation.png" xmltv_id="O!">O!</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10182||5120.f.Muzyka.png" xmltv_id="Muzyka">Muzyka</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10183||483_50053_c_da57c9a58b1bf6ad545c52998b45c05c.TV_Region_SK.png" xmltv_id="TV Region">TV Region</channel>
-    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10184||TV_Romana.f.TV_Romana.png" xmltv_id="TV Romana">TV Romana</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10182||5120.f.Muzyka.png" xmltv_id="Muzika Pervogo">Muzika Pervogo</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12101||TV_Bratislava.f.png" xmltv_id="TV Bratislava">TV Bratislava</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12102||Zapadoslovenska_TV.f.png" xmltv_id="Zapadoslovenska TV">Zapadoslovenska TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12103||Mestska_TV_Trnava.f.png" xmltv_id="Mestska TV Trnava">Mestska TV Trnava</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12104||TV_Nitricka.f.png" xmltv_id="TV Nitricka">TV Nitricka</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12105||TV7_Presov.f.png" xmltv_id="TV7 Presov">TV7 Presov</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12106||TV_Reduta_SNV.f.png" xmltv_id="TV Reduta (SNV)">TV Reduta (SNV)</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12107||RTV_Krea.f.png" xmltv_id="RTV Krea">RTV Krea</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12108||DSTV.f.png" xmltv_id="DSTV">DSTV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12109||Bardejovska_TV_BTV.f.png" xmltv_id="Bardejovska TV (BTV)">Bardejovska TV (BTV)</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12110||TV_Poprad.f.png" xmltv_id="TV Poprad">TV Poprad</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12111||TV_Hronka.f.png" xmltv_id="TV Hronka">TV Hronka</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12112||Levicka_TV_LTS.f.png" xmltv_id="Levicka TV LTS">Levicka TV LTS</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12113||TV_Stara_Tura.f.png" xmltv_id="TV Stara Tura">TV Stara Tura</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12114||Banovska_TV.f.png" xmltv_id="Banovska TV">Banovska TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12115||Hlohovska_TV.f.png" xmltv_id="Hlohovska TV">Hlohovska TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12116||TV_Mistral.f.png" xmltv_id="TV Mistral">TV Mistral</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12117||ATV_Ziar_nad_Hronom.f.png" xmltv_id="ATV Ziar nad Hronom">ATV Ziar nad Hronom</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12118||Roznavska_TV_RVTV.f.png" xmltv_id="Roznavska TV (RVTV)">Roznavska TV (RVTV)</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12119||TV_Dolny_Kubin.f.png" xmltv_id="TV Dolny Kubin">TV Dolny Kubin</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12120||B52_Vranovska_TV.f.png" xmltv_id="B52 Vranovska TV">B52 Vranovska TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12121||TOP_TV_Topolniky.f.png" xmltv_id="TOP TV Topolniky">TOP TV Topolniky</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12122||Lubovnianska_TV.f.png" xmltv_id="Lubovnianska TV">Lubovnianska TV</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12123||TV_Nove_Zamky.f.png" xmltv_id="TV Nove Zamky">TV Nove Zamky</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12124||TV_Moldava.f.png" xmltv_id="TV Moldava">TV Moldava</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:12125||TV_Vita.f.png" xmltv_id="TV Vita">TV Vita</channel>
+    <channel site="[ENC]horizon.tv[Sk]_0" site_id="lgi-obolite-sk-prod-master:10184||TV_Romana.f.TV_Romana.png" xmltv_id="TV Romana HD">TV Romana HD</channel>
   </channels>
 </site>
