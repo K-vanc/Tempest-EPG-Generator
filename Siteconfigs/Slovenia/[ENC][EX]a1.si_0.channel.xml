@@ -9,21 +9,21 @@
     <channel site="[ENC][EX]a1.si_0" site_id="PLANETTV" xmltv_id="Planet TV">Planet TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="POPKINO" xmltv_id="Kino">Kino</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BRIO" xmltv_id="Brio">Brio</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="FOX" xmltv_id="Fox">Fox</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="FOXHD" xmltv_id="STAR Channel">STAR Channel</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="FOXLIFE" xmltv_id="Fox Life">Fox Life</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="FOXCRIME" xmltv_id="Fox Crime">Fox Crime</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CINESTARTV" xmltv_id="CineStar TV">CineStar TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CINESTARFAMILY" xmltv_id="Cinestar Family">Cinestar Family</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="TV1000" xmltv_id="TV 1000">TV 1000</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="MGM" xmltv_id="AMC">AMC</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="FOXMOVIES" xmltv_id="Fox Movies">Fox Movies</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="CINESTARPREMIERE" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="CINESTARPREMIERE2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="HALLMARK" xmltv_id="Diva">Diva</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="KLASIKTV" xmltv_id="Klasik TV">Klasik TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="ARENATV" xmltv_id="Arena TV">Arena TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PLANETPLUS" xmltv_id="Planet Eva">Planet Eva</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="MGM" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="FOXMOVIESHD" xmltv_id="STAR Movies">STAR Movies</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="CINESTARPR1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="CINESTARPR2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PLANET2" xmltv_id="Planet TV 2">Planet TV 2</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="GOLDTV" xmltv_id="Gold TV">Gold TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="ARENATV" xmltv_id="Arena TV">Arena TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PETELIN" xmltv_id="Aktual TV">Aktual TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="CARLI" xmltv_id="TV Veseljak Golica">TV Veseljak Golica</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NOVA24TV" xmltv_id="Nova 24 TV">Nova 24 TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NOVA24TV2" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="AXN" xmltv_id="AXN">AXN</channel>
@@ -31,8 +31,9 @@
     <channel site="[ENC][EX]a1.si_0" site_id="BBCFIRST" xmltv_id="BBC First">BBC First</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="EPICDRAMA" xmltv_id="Viasat Epic Drama">Viasat Epic Drama</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="EUROCHANNEL" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="TV1000" xmltv_id="TV 1000">TV 1000</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="Voyo" xmltv_id="VOYO">VOYO</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="GOLDTV" xmltv_id="Gold TV">Gold TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="KLASIKTV" xmltv_id="Klasik TV">Klasik TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BBCEARTH" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PLANETEARTH" xmltv_id="Planet Earth">Planet Earth</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NATGEO" xmltv_id="National Geographic">National Geographic</channel>
@@ -66,6 +67,7 @@
     <channel site="[ENC][EX]a1.si_0" site_id="ARENASP2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ARENASP3" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ARENASP4" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="ARENAPREMIUM" xmltv_id="Arena Sport Premium 1">Arena Sport Premium 1</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="EUROSPORT" xmltv_id="Eurosport">Eurosport</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="EUROSPORT2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="DSF" xmltv_id="Sport1">Sport1</channel>
@@ -77,6 +79,7 @@
     <channel site="[ENC][EX]a1.si_0" site_id="MOTORVISIONTV" xmltv_id="Motorvision TV">Motorvision TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NBATV" xmltv_id="NBA TV">NBA TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="YACHTSAIL" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PINKSI" xmltv_id="TV 3">TV 3</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RTS" xmltv_id="RTS">RTS</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TELEM" xmltv_id="Tele M">Tele M</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="KOPER" xmltv_id="TV Koper-Capodistria">TV Koper-Capodistria</channel>
@@ -90,11 +93,11 @@
     <channel site="[ENC][EX]a1.si_0" site_id="TVNAKUPI" xmltv_id="TV Nakupi">TV Nakupi</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="VITEL" xmltv_id="Vitel">Vitel</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TVGALEJA" xmltv_id="Galeja TV">Galeja TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="PINKSI" xmltv_id="TV 3">TV 3</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PINKSLO" xmltv_id="Pink Si">Pink Si</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BKTVSLO" xmltv_id="BK TV">BK TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="GOTV" xmltv_id="GO TV">GO TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVATV" xmltv_id="Prva TV">Prva TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PTUJTV" xmltv_id="Ptujska TV">Ptujska TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="TVSG" xmltv_id="TV SG">TV SG</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="ZDRAVATVSI" xmltv_id="Zdrava TV">Zdrava TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ORON" xmltv_id="OronTV">OronTV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TVBeltinci" xmltv_id="Beltinci">Beltinci</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TVM" xmltv_id="V Živo.si">V Živo.si</channel>
@@ -107,14 +110,14 @@
     <channel site="[ENC][EX]a1.si_0" site_id="TRZICTV" xmltv_id="Tržič TV">Tržič TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="HRT1" xmltv_id="HRT 1">HRT 1</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="HRT2" xmltv_id="HRT 2">HRT 2</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="RTLHRVATSKA" xmltv_id="RTL Hrvatska">RTL Hrvatska</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="RTLHRVATSKA2HD" xmltv_id="RTL Hrvatska 2">RTL Hrvatska 2</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="RTLHRVATSKAHD" xmltv_id="RTL Hrvatska">RTL Hrvatska</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="RTLHRVATSKA2" xmltv_id="RTL Hrvatska 2">RTL Hrvatska 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RTCG" xmltv_id="RTCG">RTCG</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RTK" xmltv_id="RTK">RTK</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="HAYATTV" xmltv_id="Hayat">Hayat</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="OBNBOSNA" xmltv_id="Obn TV">Obn TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BNTV" xmltv_id="BN TV">BN TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="KRISTAL" xmltv_id="Kristal TV">Kristal TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="GRANDTV" xmltv_id="Grand">Grand</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="GRANDTV2" xmltv_id="Grand 2">Grand 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ORF1" xmltv_id="ORF1">ORF1</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ORF2" xmltv_id="ORF2">ORF2</channel>
@@ -128,14 +131,15 @@
     <channel site="[ENC][EX]a1.si_0" site_id="ITALIA1" xmltv_id="MEDIASET">MEDIASET</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RETE4" xmltv_id="RETE 4">RETE 4</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CANALE5" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="BLOOMBERGADRIA" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="INFO" xmltv_id="Top TV">Top TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="BBCWORLD" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="BBCWORLD" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CNN" xmltv_id="CNN">CNN</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BLOOMBERG" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TV5" xmltv_id="TV5 Monde">TV5 Monde</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="FRANCE24" xmltv_id="France 24">France 24</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NTV" xmltv_id="N-TV">N-TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="TVE" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="TVE" xmltv_id="TV E">TV E</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RUSSIATODAY" xmltv_id="Russia Today">Russia Today</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="ALJAZEERA" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="N1HR" xmltv_id="N1">N1</channel>
@@ -152,23 +156,25 @@
     <channel site="[ENC][EX]a1.si_0" site_id="MEDIAINTER" xmltv_id="Mediaset">Mediaset</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RUSSIA1" xmltv_id="Channel One Russia">Channel One Russia</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="POPOTO" xmltv_id="OTO">OTO</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="BOOMERANG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="BOOMERANG" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CARTOON" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="BABYTV" xmltv_id="Baby TV">Baby TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="SUPERRTL" xmltv_id="Super RTL">Super RTL</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="MINIMAX" xmltv_id="Minimax">Minimax</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NICKJR" xmltv_id="Nick Jr.">Nick Jr.</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="DUCKTV" xmltv_id="Duck TV">Duck TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="DISNEY" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="DISNEYPLAYHOUSE" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NICKLEODEON" xmltv_id="Nickleodeon">Nickleodeon</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="OKBAMBINO" xmltv_id="OK Kids">OK Kids</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="NICKTOONS" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="MTV" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="MTVLIVEHD" xmltv_id="MTV Live">MTV Live</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="CARLI" xmltv_id="Čarli TV">Čarli TV</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="GOLICA" xmltv_id="TV Golica">TV Golica</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="PAPRIKA" xmltv_id="TV Veseljak">TV Veseljak</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="PETELIN" xmltv_id="TV Petelin">TV Petelin</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="FOLXHD" xmltv_id="Folx">Folx</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="ONEADRIAHD" xmltv_id="One Adria">One Adria</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PAPRIKA" xmltv_id="Best TV">Best TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="ADRIAHD" xmltv_id="Adria">Adria</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="DMSAT" xmltv_id="DM Sat">DM Sat</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="JUGOTONTV" xmltv_id="Jugoton">Jugoton</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="CMC" xmltv_id="CMC">CMC</channel>
@@ -180,6 +186,7 @@
     <channel site="[ENC][EX]a1.si_0" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="MEZZOLIVEHD" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TOXICTV" xmltv_id="Toxic TV">Toxic TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="GOLICA" xmltv_id="TV Zlati Zvoki">TV Zlati Zvoki</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RADIOHIT" xmltv_id="Radio HIT">Radio HIT</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RADIOEKSPRES" xmltv_id="Radio Ekspres">Radio Ekspres</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="RADIOANTENA" xmltv_id="Radio Antena">Radio Antena</channel>
@@ -210,9 +217,9 @@
     <channel site="[ENC][EX]a1.si_0" site_id="PLAYBOYTV" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="SEXATION" xmltv_id="Sexation">Sexation</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="HUSTLER" xmltv_id="Hustler">Hustler</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="HUSTLERHD" xmltv_id="Hustler HD">Hustler HD</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="REALITYKINGS" xmltv_id="Reality Kings">Reality Kings</channel>
-    <channel site="[ENC][EX]a1.si_0" site_id="BABESTV" xmltv_id="Babes TV">Babes TV</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="HUSTLERHD" xmltv_id="Hustler_HD">Hustler_HD</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="SATISFACTIONPRIVE" xmltv_id="Satisfacion Prive">Satisfacion Prive</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="SEXT6SENSO" xmltv_id="Sexto Senso">Sexto Senso</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="SPICE" xmltv_id="Brazzers">Brazzers</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="DUSKTV" xmltv_id="Dusk TV">Dusk TV</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="REDLIGHT" xmltv_id="Redlight">Redlight</channel>
@@ -263,6 +270,13 @@
     <channel site="[ENC][EX]a1.si_0" site_id="RTS2zemeljski" xmltv_id="RTS Zemeljski 2">RTS Zemeljski 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TVDugaNovisad" xmltv_id="TV Duga">TV Duga</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="TVSvetPlusBeograd" xmltv_id="TV Svet Plus">TV Svet Plus</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVAWORLD" xmltv_id="TV Prva World">TV Prva World</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVAFILES" xmltv_id="TV Prva Files">TV Prva Files</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVAKICK" xmltv_id="TV Prva Kick">TV Prva Kick</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVALIFE" xmltv_id="TV Prva Life">TV Prva Life</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="PRVAPLUS" xmltv_id="TV Prva Plus">TV Prva Plus</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="HAPPYREALITY1" xmltv_id="Happy Reality 1">Happy Reality 1</channel>
+    <channel site="[ENC][EX]a1.si_0" site_id="HAPPYREALITY2" xmltv_id="Happy Reality 2">Happy Reality 2</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PINKMUSIC" xmltv_id="Pink Music">Pink Music</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PINK" xmltv_id="Pink Plus">Pink Plus</channel>
     <channel site="[ENC][EX]a1.si_0" site_id="PINKEXTRA" xmltv_id="Pink Extra">Pink Extra</channel>
