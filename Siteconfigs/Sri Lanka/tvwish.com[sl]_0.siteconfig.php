@@ -27,7 +27,7 @@ return array (
   'showicon' => '"pu":"(.*?)"||#addstart#https://tvwish.com/img/program/',
   'season' => '-S(\\d+)',
   'episode' => '"en":(?!0)(\\d+)',
-  'channel_logo' => '||#add#https://tvwish.com/Img/Channel/##channel##.png',
+  'channel_logo' => '||#add#https://tvwish.com/Img/Channel/##channel##.webp',
   'pagekey1' => '"pi":(\\d+)',
   'detail_url1' => 'https://tvwish.com/Program/##pagekey1##/CreditsJson',
   'detail_requestOption1' => '1',
