@@ -2,17 +2,22 @@
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]rakuten.tv[se]_0">
   <channels>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="the-guardian" xmltv_id="The Guardian">The Guardian</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="bloomberg-tv" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="newsworld" xmltv_id="NewsWorld">NewsWorld</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="africanews-en" xmltv_id="Africanews English">Africanews English</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="bloomberg-tv-new" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="bloomberg-originals" xmltv_id="Bloomberg Originals">Bloomberg Originals</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="ticker-news" xmltv_id="ticker NEWS">ticker NEWS</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="revry-news" xmltv_id="Revry News">Revry News</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="washington-post-television" xmltv_id="Washington Post Television">Washington Post Television</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="reuters" xmltv_id="Reuters">Reuters</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="africanews-en" xmltv_id="Africanews English">Africanews English</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="euronews-live-uk" xmltv_id="Euronews LIVE">Euronews LIVE</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="cgtn-documentary" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="space-science-now" xmltv_id="Space &amp; Science Now">Space &amp; Science Now</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="adventure-earth" xmltv_id="Adventure Earth">Adventure Earth</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="waterbear" xmltv_id="Waterbear">Waterbear</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="earth-touch-tv" xmltv_id="Earth Touch TV">Earth Touch TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="nature-time-en" xmltv_id="Nature Time">Nature Time</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="beautiful-planet" xmltv_id="Beautiful Planet">Beautiful Planet</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="documentary" xmltv_id="Documentary+">Documentary+</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="quintus-radical-docs" xmltv_id="Radical Docs">Radical Docs</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="wonder" xmltv_id="Wonder">Wonder</channel>
@@ -20,90 +25,95 @@
     <channel site="[ENC]rakuten.tv[se]_0" site_id="real-stories" xmltv_id="Real Stories">Real Stories</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="real-wild" xmltv_id="Real Wild">Real Wild</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="history-hit" xmltv_id="History Hit - Golden Cinema">History Hit - Golden Cinema</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="aventurama-tv-en" xmltv_id="Aventurama TV">Aventurama TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="humanity-en" xmltv_id="Humanity Documentaries">Humanity Documentaries</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="documentaries-se-rakuten-tv-fd6ce467-e3fd-499c-9d67-c5e44a8eec94" xmltv_id="Dokumentärer - Rakuten TV">Dokumentärer - Rakuten TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="wild-earth" xmltv_id="WildEarth">WildEarth</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="weather-spy" xmltv_id="Weather Spy">Weather Spy</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="weather-spy-new" xmltv_id="Weather Spy">Weather Spy</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="stingray-naturescape" xmltv_id="Stingray Naturescape">Stingray Naturescape</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="super-toons-tv-english" xmltv_id="Super Toons TV">Super Toons TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="happykids-new" xmltv_id="HappyKids">HappyKids</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="wb-teletubbies-en" xmltv_id="Teletubbies">Teletubbies</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="cool-school" xmltv_id="Cool School">Cool School</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="brat-tv" xmltv_id="Brat TV">Brat TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="baby-shark-tv" xmltv_id="Baby Shark TV">Baby Shark TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="family-se-rakuten-tv" xmltv_id="Familj - Rakuten TV">Familj - Rakuten TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="inspotlight" xmltv_id="INSPOTLIGHT">INSPOTLIGHT</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="qwest-tv-classical" xmltv_id="Qwest TV Classical">Qwest TV Classical</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="trace-urban" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="now-90s" xmltv_id="NOW Rock">NOW Rock</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="now-80s" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="now-70s" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="deluxe-lounge-hd" xmltv_id="Deluxe Lounge HD">Deluxe Lounge HD</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="qello-concerts-by-stingray" xmltv_id="Qello Concerts by Stingray">Qello Concerts by Stingray</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="stingray-karaoke" xmltv_id="Stingray Karaoke">Stingray Karaoke</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="stingray-remember-the-80-s" xmltv_id="Stingray: Remember the 80’s">Stingray: Remember the 80’s</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="stingray-hit-list" xmltv_id="Stingray: Hitlist">Stingray: Hitlist</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="stingray-greatest-hits" xmltv_id="Stingray Greatest Hits">Stingray Greatest Hits</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="qwest-tv-mix" xmltv_id="Qwest TV Mix">Qwest TV Mix</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="qwest-tv-jazz-and-beyond" xmltv_id="Qwest TV Jazz and Beyond">Qwest TV Jazz and Beyond</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="qwest-tv" xmltv_id="Qwest TV">Qwest TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="clubbing-tv" xmltv_id="CLUBBING TV">CLUBBING TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="planet-eat" xmltv_id="Planet Eat">Planet Eat</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="ifood-tv" xmltv_id="iFood.tv">iFood.tv</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="gusto-tv-new" xmltv_id="Gusto TV">Gusto TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="bon-appetit" xmltv_id="Bon Appétit">Bon Appétit</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="tastemade-intl" xmltv_id="Tastemade">Tastemade</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="meateater" xmltv_id="MeatEater">MeatEater</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="gousa-tv" xmltv_id="GoUSA TV">GoUSA TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="love-stories-tv" xmltv_id="Love Stories TV">Love Stories TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="myzen-fit-uk" xmltv_id="MyZen Fit">MyZen Fit</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="museum-fast-uk" xmltv_id="Museum Fast">Museum Fast</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="powernation" xmltv_id="Powernation">Powernation</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="myzen-fit-uk" xmltv_id="Wellbeing TV">Wellbeing TV</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="museum-fast-uk" xmltv_id="BelAir TV">BelAir TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="vogue" xmltv_id="Vogue">Vogue</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="vanity-fair" xmltv_id="Vanity Fair">Vanity Fair</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="travelxp-eng" xmltv_id="Travelxp">Travelxp</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="the-design-network" xmltv_id="The Design Network">The Design Network</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="gq" xmltv_id="GQ">GQ</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="glamour" xmltv_id="Glamour">Glamour</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="luxe-tv-en" xmltv_id="Luxe TV">Luxe TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="gq" xmltv_id="GQ">GQ</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="nitro-circus" xmltv_id="Nitro Circus">Nitro Circus</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="mavtv-motorsports-network-new" xmltv_id="MAVTV Motorsports Network">MAVTV Motorsports Network</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="motorsport-tv-en" xmltv_id="Motorsport.tv">Motorsport.tv</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="strongman-champions-league" xmltv_id="Strongman Champions League">Strongman Champions League</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="world-of-free-sports-en" xmltv_id="World of Freesports">World of Freesports</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="motorracing-english-feed" xmltv_id="Motor Racing">Motor Racing</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="horizonsports-english" xmltv_id="Horizon Sports">Horizon Sports</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="fite-24-7" xmltv_id="Fite 24/7">Fite 24/7</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="dazn-combat" xmltv_id="DAZN Combat">DAZN Combat</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="usga" xmltv_id="USGA">USGA</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="powernation" xmltv_id="Powernation">Powernation</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="edgesport" xmltv_id="EDGESport">EDGESport</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="edgesport" xmltv_id="EDGEsport">EDGEsport</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="world-poker-tour" xmltv_id="World Poker Tour">World Poker Tour</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="glory-kickboxing" xmltv_id="GLORY Kickboxing">GLORY Kickboxing</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="impact-wrestling" xmltv_id="Impact! Wrestling">Impact! Wrestling</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="hard-knocks-fighting-championship" xmltv_id="Hard Knocks Fighting Championship">Hard Knocks Fighting Championship</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="estv" xmltv_id="ESTV">ESTV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="billiards-tv" xmltv_id="World Billiards TV">World Billiards TV</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="motorvision-tv" xmltv_id="MOTORVISION.TV">MOTORVISION.TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="world-poker-tour" xmltv_id="World Poker Tour">World Poker Tour</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="mavtv-motorsports-network" xmltv_id="MAVTV Motorsports Network">MAVTV Motorsports Network</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="mech-plus" xmltv_id="Mech+">Mech+</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="5-minutes-craft-en" xmltv_id="5-Minute Craft">5-Minute Craft</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="fuel-tv-new" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="fifa-plus-en-2" xmltv_id="FIFA+">FIFA+</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="dazn-women-s-football" xmltv_id="DAZN Women's Football">DAZN Women's Football</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-hot-ones" xmltv_id="Hot Ones">Hot Ones</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="come-dine-with-me" xmltv_id="Come Dine With Me">Come Dine With Me</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="world-of-love-island" xmltv_id="World of Love Island">World of Love Island</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="just-for-laughs-tv-en" xmltv_id="Just for Laughs TV">Just for Laughs TV</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="love-pets" xmltv_id="Love Pets">Love Pets</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="jail" xmltv_id="Jail">Jail</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="mech-plus" xmltv_id="Robot Wars by Mech+">Robot Wars by Mech+</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="5-minutes-craft-en" xmltv_id="5-Minute Crafts">5-Minute Crafts</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-forensic-files" xmltv_id="Forensic Files">Forensic Files</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-dr-g-medical-examiner" xmltv_id="Dr. G: Medical Examiner">Dr. G: Medical Examiner</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="great-british-menu" xmltv_id="Great British Menu">Great British Menu</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="shades-of-black" xmltv_id="Shades of Black">Shades of Black</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="cops" xmltv_id="COPS">COPS</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="homes-under-the-hammer" xmltv_id="Homes Under the Hammer">Homes Under the Hammer</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="ted-en" xmltv_id="TED">TED</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="watch-mojo" xmltv_id="WatchMojo">WatchMojo</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="fail-army" xmltv_id="Fail Army">Fail Army</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="bondi-vet" xmltv_id="Bondi Vet">Bondi Vet</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="hell-s-kitchen-itv" xmltv_id="Hell's Kitchen">Hell's Kitchen</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="jukin-fail-army-new" xmltv_id="Fail Army">Fail Army</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="young-hollywood" xmltv_id="Young Hollywood">Young Hollywood</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="wired" xmltv_id="Wired">Wired</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="revry" xmltv_id="Revry">Revry</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="true-crime-now-bd6a1fb1-0bd1-483c-9c55-d31a11c1a146" xmltv_id="True Crime Now">True Crime Now</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="inwonder-new" xmltv_id="INWONDER">INWONDER</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="afv-family" xmltv_id="AFV Family">AFV Family</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="infast" xmltv_id="INFAST">INFAST</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="people-are-awesome" xmltv_id="People Are Awesome">People Are Awesome</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="the-pet-collective" xmltv_id="The Pet Collective">The Pet Collective</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="people-are-awesome-new" xmltv_id="People Are Awesome">People Are Awesome</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="the-pet-collective-new" xmltv_id="The Pet Collective">The Pet Collective</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="yu-gi-oh-en" xmltv_id="Yu-Gi-Oh!">Yu-Gi-Oh!</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-world-s-wildest-police-videos" xmltv_id="World's Wildest Police Videos">World's Wildest Police Videos</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="rakuten-viki-new" xmltv_id="Rakuten VIKI">Rakuten VIKI</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="don-t-tell-the-bride" xmltv_id="Don’t Tell The Bride">Don’t Tell The Bride</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="real-crime-new" xmltv_id="Real Crime">Real Crime</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="andromeda-se" xmltv_id="Andromeda">Andromeda</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-unsolved-mysteries" xmltv_id="Unsolved Mysteries">Unsolved Mysteries</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="filmrise-sci-fi-se" xmltv_id="FilmRise Sci-Fi">FilmRise Sci-Fi</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="wutang-collection-eng" xmltv_id="Wu Tang Collection TV">Wu Tang Collection TV</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="grjngo-en" xmltv_id="Grjngo">Grjngo</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="bjg-tjme" xmltv_id="Bjg Tjme">Bjg Tjme</channel>
-    <channel site="[ENC]rakuten.tv[se]_0" site_id="fawesome" xmltv_id="Fawesome">Fawesome</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="grjngo-en" xmltv_id="Grjngo - Western Films">Grjngo - Western Films</channel>
+    <channel site="[ENC]rakuten.tv[se]_0" site_id="bjg-tjme" xmltv_id="Bigtime">Bigtime</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="shorts-tv-uk" xmltv_id="Shorts">Shorts</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="lone-star" xmltv_id="Lone Star">Lone Star</channel>
     <channel site="[ENC]rakuten.tv[se]_0" site_id="filmstream-spi" xmltv_id="Filmstream">Filmstream</channel>

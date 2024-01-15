@@ -17,7 +17,7 @@ return array (
   'content_type1' => 'text/html; charset=UTF-8',
   'urldate_format1' => '#weekdayname#mandag|tisdag|onsdag|torsdag|fredag|lordag|sondag',
   'show' => '(<li>.*?<\\/li>)||#exclude#<ins class="adsbygoogle"',
-  'start' => 'def lead">(\\d{2}[\\.:]\\d{2})',
+  'start' => 'lead">(\\d{2}[\\.:]\\d{2})',
   'start_format' => 'H#i',
   'title' => '<b class="fvs">(.*?)<\\/b>',
   'desc' => '<\\/p><p>(.*?)<\\/p>',

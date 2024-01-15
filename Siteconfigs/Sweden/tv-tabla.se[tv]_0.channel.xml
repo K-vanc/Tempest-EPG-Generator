@@ -5,19 +5,8 @@
     <channel site="tv-tabla.se[tv]_0" site_id="axess_tv" xmltv_id="Axess TV">Axess TV</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="barnkanalen" xmltv_id="Barnkanalen">Barnkanalen</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_first" xmltv_id="C More First">C More First</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_fotboll" xmltv_id="C More Fotboll">C More Fotboll</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_hits" xmltv_id="C More Hits">C More Hits</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_hockey" xmltv_id="C More Hockey">C More Hockey</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_live" xmltv_id="C More Live">C More Live</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_live_2" xmltv_id="C More Live 2">C More Live 2</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_live_3" xmltv_id="C More Live 3">C More Live 3</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_live_4" xmltv_id="C More Live 4">C More Live 4</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_live_5" xmltv_id="C More Live 5">C More Live 5</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_mix" xmltv_id="C More Mix">C More Mix</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_series" xmltv_id="C More Series">C More Series</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="bbc_nordic" xmltv_id="BBC Nordic">BBC Nordic</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="c_more_sf" xmltv_id="C More SF">C More SF</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="c_more_stars" xmltv_id="C More Stars">C More Stars</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="discovery_channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="discovery_science" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="disney_channel" xmltv_id="Disney Channel">Disney Channel</channel>
@@ -40,10 +29,9 @@
     <channel site="tv-tabla.se[tv]_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="nrk1" xmltv_id="NRK1">NRK1</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="nrk2" xmltv_id="NRK2">NRK2</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="paramount_movies" xmltv_id="Paramount+ Movies">Paramount+ Movies</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="paramount_series" xmltv_id="Paramount+ Series">Paramount+ Series</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="sjuan" xmltv_id="Sjuan">Sjuan</channel>
-    <channel site="tv-tabla.se[tv]_0" site_id="sportkanalen" xmltv_id="Sportkanalen">Sportkanalen</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="skyshowtime_1" xmltv_id="SkyShowtime 1">SkyShowtime 1</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="skyshowtime_2" xmltv_id="SkyShowtime 2">SkyShowtime 2</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="svt_24" xmltv_id="SVT 24">SVT 24</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="svt1" xmltv_id="SVT1">SVT1</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="svt2" xmltv_id="SVT2">SVT2</channel>
@@ -56,7 +44,18 @@
     <channel site="tv-tabla.se[tv]_0" site_id="tv4" xmltv_id="TV4">TV4</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="tv4_fakta" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="tv4_film" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_fotboll" xmltv_id="TV4 Fotboll">TV4 Fotboll</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="tv4_guld" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_hits" xmltv_id="TV4 Hits">TV4 Hits</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_hockey" xmltv_id="TV4 Hockey">TV4 Hockey</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_motor" xmltv_id="TV4 Motor">TV4 Motor</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_sport_live_1" xmltv_id="TV4 Sport Live 1">TV4 Sport Live 1</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_sport_live_2" xmltv_id="TV4 Sport Live 2">TV4 Sport Live 2</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_sport_live_3" xmltv_id="TV4 Sport Live 3">TV4 Sport Live 3</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_sport_live_4" xmltv_id="TV4 Sport Live 4">TV4 Sport Live 4</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_sportkanalen" xmltv_id="TV4 Sportkanalen">TV4 Sportkanalen</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_stars" xmltv_id="TV4 Stars">TV4 Stars</channel>
+    <channel site="tv-tabla.se[tv]_0" site_id="tv4_tennis" xmltv_id="TV4 Tennis">TV4 Tennis</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="tv6" xmltv_id="TV6">TV6</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="tv8" xmltv_id="TV8">TV8</channel>
     <channel site="tv-tabla.se[tv]_0" site_id="v_film_action_hd" xmltv_id="V Film Action HD">V Film Action HD</channel>
