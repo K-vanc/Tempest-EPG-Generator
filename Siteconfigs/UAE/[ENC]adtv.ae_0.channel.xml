@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]adtv.ae_0">
+  <channels>
+    <channel site="[ENC]adtv.ae_0" site_id="Abu%2520Dhabi%2520Channel||Abu-Dhabi-TV-live-logo.png" xmltv_id="Abu Dhabi Channel">Abu Dhabi Channel</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="Emirates%2520Channel||Emarat-TV-live-logo.png" xmltv_id="Emirates Channel">Emirates Channel</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="Baynounah||Baynounah-TV-live-logo.png" xmltv_id="Baynounah">Baynounah</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="National%2520Geographic%2520HD%2520Channel||National-Geographic-live-logo.png" xmltv_id="National Geographic HD Channel">National Geographic HD Channel</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="Abu%2520Dhabi%2520Sports%2520Channel%25201||AD-Sports-1-live-logo.png" xmltv_id="Abu Dhabi Sports Channel 1">Abu Dhabi Sports Channel 1</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="Abu%2520Dhabi%2520Sports%2520Channel%25202||AD-Sports-2-live-logo.png" xmltv_id="Abu Dhabi Sports Channel 2">Abu Dhabi Sports Channel 2</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="YAS%2520Sports%2520Channel||Yas-TV-live-logo.png" xmltv_id="YAS Sports Channel">YAS Sports Channel</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="abu_dhabi_fm||Abu-Dhabi-FM-live-logo.png" xmltv_id="Abu Dhabi FM">Abu Dhabi FM</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="emarat_fm||Emarat-Fm-live-logo.png" xmltv_id="Emarat FM">Emarat FM</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="quran_kareem||Quran-Kareem-live-logo.png" xmltv_id="Quran Kareem">Quran Kareem</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="star_fm||Star-FM-live-logo.png" xmltv_id="Star FM">Star FM</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="radio_1||Radio-1-live-logo.png" xmltv_id="Radio 1">Radio 1</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="radio_2||Radio-2-live-logo.png" xmltv_id="Radio 2">Radio 2</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="kadak_fm||Kadak-FM-live-logo.png" xmltv_id="Kadak FM">Kadak FM</channel>
+    <channel site="[ENC]adtv.ae_0" site_id="classic_fm||Classic-FM-live-logo.png" xmltv_id="Classic FM">Classic FM</channel>
+  </channels>
+</site>
