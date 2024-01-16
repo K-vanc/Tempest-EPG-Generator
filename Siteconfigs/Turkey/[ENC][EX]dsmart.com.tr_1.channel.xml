@@ -49,11 +49,11 @@
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="52||epg/images/0x60/5c6e669dcfef0b613d9fed23" xmltv_id="A Para">A Para</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="53||api/v1/public/images/null/womantv.png" xmltv_id="Woman TV">Woman TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="55||api/v1/public/images/kanallar/VAV_TV_logosu.png" xmltv_id="Vav TV">Vav TV</channel>
-    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="56||api/v1/public/images/kanallar/bbcearth.png" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="56||api/v1/public/images/kanallar/bbc-earth.png" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="57||api/v1/public/images/kanallar/HISTORY_HD.png" xmltv_id="Viasat History">Viasat History</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="58||api/v1/public/images/kanallar/docu_screen.jpeg" xmltv_id="DocuScreen">DocuScreen</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="59||api/v1/public/images/kanallar/discovery-new.png" xmltv_id="Discovery">Discovery</channel>
-    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="61||api/v1/public/images/kanallar/d-science-new.png" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="61||api/v1/public/images/kanallar/ID%20LOGO%20(gradient)-01-01.png" xmltv_id="Discovery ID">Discovery ID</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="62||api/v1/public/images/kanallar/History%20Logo%20on%20Black%20BG.PNG" xmltv_id="History Channel">History Channel</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="63||epg/images/0x60/5c626fafcfef0b62124f0e1c" xmltv_id="National Geographic">National Geographic</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="64||epg/images/0x60/5c626f0ccfef0b62124f0e16" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
@@ -112,7 +112,7 @@
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="138||api/v1/public/images/kanallar/eba-ilkokul.png" xmltv_id="TRT EBATV İlkokul">TRT EBATV İlkokul</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="139||api/v1/public/images/kanallar/eba-ortaokul.png" xmltv_id="TRT EBATV Ortaokul">TRT EBATV Ortaokul</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="140||api/v1/public/images/kanallar/eba-lise.png" xmltv_id="TRT EBATV LİSE">TRT EBATV LİSE</channel>
-    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="147||epg/images/0x60/59f19761cfef0b221f7da92b" xmltv_id="KRT">KRT</channel>
+    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="147||api/v1/public/images/kanallar/krt_logo.png" xmltv_id="KRT">KRT</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="149||epg/images/0x60/59f19761cfef0b221f7da8ce" xmltv_id="Kadırga TV">Kadırga TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="152||epg/images/0x60/59f19761cfef0b221f7da8dc" xmltv_id="Bengütürk TV">Bengütürk TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="153||epg/images/0x60/59f19761cfef0b221f7da83c" xmltv_id="Line TV">Line TV</channel>
@@ -124,7 +124,6 @@
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="198||epg/images/0x60/59f19761cfef0b221f7da870" xmltv_id="Köy TV">Köy TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="199||epg/images/0x60/59f19761cfef0b221f7da941" xmltv_id="Çifçi TV">Çifçi TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="200||api/v1/public/images/kanallar/agrotv.png" xmltv_id="Agro TV">Agro TV</channel>
-    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="204||epg/images/0x60/59f19761cfef0b221f7da886" xmltv_id="Kanal 42">Kanal 42</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="205||api/v1/public/images/kanallar/yildiztv.png" xmltv_id="Yıldız En TV">Yıldız En TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="206||api/v1/public/images/kanallar/tivi6.png" xmltv_id="Tivi6">Tivi6</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="209||epg/images/0x60/59f19761cfef0b221f7da830" xmltv_id="TV Den">TV Den</channel>
@@ -147,7 +146,6 @@
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="273||epg/images/0x60/59f19761cfef0b221f7da7d6" xmltv_id="Tele 1">Tele 1</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="274||api/v1/public/images/kanallar/FLASH%20HABER%20LOGO.png" xmltv_id="Flash Haber">Flash Haber</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="277||epg/images/0x60/59f31601cfef0b3061cf4276" xmltv_id="a2">a2</channel>
-    <channel site="[ENC][EX]dsmart.com.tr_1" site_id="279||epg/images/0x60/59f19761cfef0b221f7da8d4" xmltv_id="KKTC Kanal T">KKTC Kanal T</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="280||epg/images/0x60/59f19761cfef0b221f7da7de" xmltv_id="Yeni Kocaeli TV">Yeni Kocaeli TV</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="281||epg/images/0x60/59f19761cfef0b221f7da8d2" xmltv_id="BRT 1">BRT 1</channel>
     <channel site="[ENC][EX]dsmart.com.tr_1" site_id="282||epg/images/0x60/59f19761cfef0b221f7da864" xmltv_id="TRT World">TRT World</channel>
