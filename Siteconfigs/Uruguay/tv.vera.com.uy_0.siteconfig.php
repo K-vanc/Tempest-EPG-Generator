@@ -41,6 +41,7 @@ return array (
   'stop' => '"fecha_hora_fin":"(.*?)"',
   'stop_format' => 'Y-m-d H#i#s',
   'title' => '"nombre_programa":"(.*?)",',
+  'subtitle' => '"subtitle":"(.*?)",',
   'desc' => '"descripcion":"(.*?)",|>|"descripcion_corta":"(.*?)",',
   'channel_logo' => '||#add#https://cds-assets.cdn.antel.net.uy/imagenes/recursos/##cclogo##.jpeg',
   'ccurl1' => 'https://veratv-be.vera.com.uy/api/sesiones',
