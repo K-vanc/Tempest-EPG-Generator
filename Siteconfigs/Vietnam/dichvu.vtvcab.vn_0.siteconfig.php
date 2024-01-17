@@ -16,7 +16,7 @@ return array (
   'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
   'host_header1' => 'dichvu.vtvcab.vn',
   'urldate_format1' => 'd-m-Y||#split#(-)',
-  'show' => '<tbody>.*?(?:<tr>)(.*?)(?:<\\/tr>).*?<\\/tbody>',
+  'show' => '<tbody>.*?(?:<tr>)(.*?)(?:<\\/tr>).*?<\\/tbody>||#exclude#">Chưa',
   'start' => '<td>\\s*(\\d+:\\d+)',
   'start_format' => 'H#i',
   'title' => '<\\/td>\\s*<td>(.*?)<\\/td>\\s*<td>',
