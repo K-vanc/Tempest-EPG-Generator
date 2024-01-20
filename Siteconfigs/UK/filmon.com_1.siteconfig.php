@@ -1,7 +1,4 @@
-<?php 
-/*     Tempest EPG Generator (made by Kvanc)
-https://github.com/K-vanc/Tempest-EPG-Generator.git  */
-return array (
+<?php return array (
   'filename' => 'filmon.com',
   'creator_name' => 'Kivanc',
   'creation_date' => '2021-10-06',
@@ -29,13 +26,22 @@ return array (
   'season' => '"seriesNumber":((?!0)\\d+)',
   'episode' => '"episodeNumber":((?!0)\\d+)',
   'channel_logo' => '||#add#https://static.filmon.com/assets/channels/##channel##/big_logo.png',
-  'ccurl1' => 'https://www.filmon.com/channels/',
+  'ccurl1' => 'https://www.filmon.com/groups/?with-special=true',
   'ccrequestOption1' => '1',
   'ccaccept_header1' => 'application/json, text/javascript, */*; q=0.01',
   'cccontent_type1' => 'application/json',
   'cchost_header1' => 'www.filmon.com',
   'ccXMLHttpRequest1' => 'on',
-  'ccchannel_block' => '\\[.*?(?:{)(.*?)(?:\\}).*?\\]',
+  'ccgrabber_1' => 'on',
+  'ccgpattern_1' => '(.+)||#replace#.*?"alias":\\s*"(.*?)".*?"channels_count":\\s*\\d+.*?}(?:\\s*\\])?##(\\|)$||\\1|##',
+  'ccurl2' => 'https://www.filmon.com/group/##subpage2##',
+  'ccrequestOption2' => '1',
+  'ccaccept_header2' => 'application/json, text/javascript, */*; q=0.01',
+  'cccontent_type2' => 'application/json',
+  'cchost_header2' => 'www.filmon.com',
+  'ccXMLHttpRequest2' => 'on',
+  'ccsubpage_format2' => '##grabber_1##',
+  'ccchannel_block' => '{"id":.*?"description":',
   'ccchannel_id' => '"id":(\\d+)',
   'ccchannel_name' => '"title":"(.*?)","',
 );

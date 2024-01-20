@@ -1,43 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="bfbs.com_0">
   <channels>
-    <channel site="bfbs.com_0" site_id="1087" xmltv_id="BBC One">BBC One</channel>
-    <channel site="bfbs.com_0" site_id="1088" xmltv_id="BBC Two">BBC Two</channel>
-    <channel site="bfbs.com_0" site_id="1089" xmltv_id="ITV">ITV</channel>
-    <channel site="bfbs.com_0" site_id="1110" xmltv_id="Channel 4">Channel 4</channel>
-    <channel site="bfbs.com_0" site_id="1092" xmltv_id="Channel 5">Channel 5</channel>
-    <channel site="bfbs.com_0" site_id="1095" xmltv_id="BFBS Extra">BFBS Extra</channel>
-    <channel site="bfbs.com_0" site_id="1096" xmltv_id="BFBS Sky Sports">BFBS Sky Sports</channel>
-    <channel site="bfbs.com_0" site_id="1097" xmltv_id="BFBS BT Sport">BFBS BT Sport</channel>
-    <channel site="bfbs.com_0" site_id="1098" xmltv_id="BFBS Sport">BFBS Sport</channel>
-    <channel site="bfbs.com_0" site_id="1122" xmltv_id="BFBS Sport 2">BFBS Sport 2</channel>
-    <channel site="bfbs.com_0" site_id="1137" xmltv_id="BFBS Sport 3">BFBS Sport 3</channel>
-    <channel site="bfbs.com_0" site_id="1138" xmltv_id="BFBS Sport 4">BFBS Sport 4</channel>
-    <channel site="bfbs.com_0" site_id="1139" xmltv_id="BFBS Sport 5">BFBS Sport 5</channel>
-    <channel site="bfbs.com_0" site_id="1126" xmltv_id="Premier Sports HD">Premier Sports HD</channel>
-    <channel site="bfbs.com_0" site_id="1129" xmltv_id="MUTV">MUTV</channel>
-    <channel site="bfbs.com_0" site_id="1099" xmltv_id="Nepal TV">Nepal TV</channel>
-    <channel site="bfbs.com_0" site_id="1128" xmltv_id="Kantipur">Kantipur</channel>
-    <channel site="bfbs.com_0" site_id="1102" xmltv_id="BFBS Sky Cinema">BFBS Sky Cinema</channel>
-    <channel site="bfbs.com_0" site_id="1113" xmltv_id="Sky History">Sky History</channel>
-    <channel site="bfbs.com_0" site_id="1114" xmltv_id="Sky History 2">Sky History 2</channel>
-    <channel site="bfbs.com_0" site_id="1116" xmltv_id="Crime Investigation">Crime Investigation</channel>
-    <channel site="bfbs.com_0" site_id="1104" xmltv_id="ITV2">ITV2</channel>
-    <channel site="bfbs.com_0" site_id="1108" xmltv_id="ITVbe">ITVbe</channel>
-    <channel site="bfbs.com_0" site_id="1106" xmltv_id="ITV4">ITV4</channel>
-    <channel site="bfbs.com_0" site_id="1109" xmltv_id="More4">More4</channel>
-    <channel site="bfbs.com_0" site_id="1148" xmltv_id="BBC Three">BBC Three</channel>
-    <channel site="bfbs.com_0" site_id="1090" xmltv_id="BBC Four">BBC Four</channel>
-    <channel site="bfbs.com_0" site_id="1149" xmltv_id="BBC Scotland">BBC Scotland</channel>
-    <channel site="bfbs.com_0" site_id="1093" xmltv_id="5 Star">5 Star</channel>
-    <channel site="bfbs.com_0" site_id="1123" xmltv_id="5USA">5USA</channel>
-    <channel site="bfbs.com_0" site_id="1101" xmltv_id="Sky News">Sky News</channel>
-    <channel site="bfbs.com_0" site_id="1112" xmltv_id="BBC News">BBC News</channel>
-    <channel site="bfbs.com_0" site_id="1103" xmltv_id="Cbeebies">Cbeebies</channel>
-    <channel site="bfbs.com_0" site_id="1091" xmltv_id="CBBC">CBBC</channel>
-    <channel site="bfbs.com_0" site_id="1107" xmltv_id="CITV">CITV</channel>
-    <channel site="bfbs.com_0" site_id="1132" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="bfbs.com_0" site_id="1133" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel site="bfbs.com_0" site_id="1134" xmltv_id="NickToons">NickToons</channel>
+    <channel site="bfbs.com_0" site_id="689776" xmltv_id="BBC One">BBC One</channel>
+    <channel site="bfbs.com_0" site_id="689777" xmltv_id="BBC Two">BBC Two</channel>
+    <channel site="bfbs.com_0" site_id="689778" xmltv_id="ITV">ITV</channel>
+    <channel site="bfbs.com_0" site_id="689779" xmltv_id="BFBS Extra">BFBS Extra</channel>
+    <channel site="bfbs.com_0" site_id="689780" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel site="bfbs.com_0" site_id="689781" xmltv_id="TNT Sports">TNT Sports</channel>
+    <channel site="bfbs.com_0" site_id="689782" xmltv_id="BFBS Sport">BFBS Sport</channel>
+    <channel site="bfbs.com_0" site_id="689783" xmltv_id="Sky News">Sky News</channel>
+    <channel site="bfbs.com_0" site_id="689784" xmltv_id="Forces TV">Forces TV</channel>
+    <channel site="bfbs.com_0" site_id="689785" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="bfbs.com_0" site_id="689786" xmltv_id="Sky Cinema">Sky Cinema</channel>
+    <channel site="bfbs.com_0" site_id="689787" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="bfbs.com_0" site_id="689788" xmltv_id="Nepal TV">Nepal TV</channel>
   </channels>
 </site>

@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]bbc.co.uk_0">
   <channels>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcone" xmltv_id="[England] BBC One">[England] BBC One</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbctwo" xmltv_id="[England] BBC Two">[England] BBC Two</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcthree" xmltv_id="[England] BBC Three">[England] BBC Three</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcfour" xmltv_id="[England] BBC Four">[England] BBC Four</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|radio1" xmltv_id="[England] BBC Radio 1">[England] BBC Radio 1</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|cbbc" xmltv_id="[England] CBBC">[England] CBBC</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|cbeebies" xmltv_id="[England] CBeebies">[England] CBeebies</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcscotland" xmltv_id="[England] BBC Scotland">[England] BBC Scotland</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcnews" xmltv_id="[England] BBC News">[England] BBC News</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcparliament" xmltv_id="[England] BBC Parliament">[England] BBC Parliament</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|bbcalba" xmltv_id="[England] BBC Alba">[England] BBC Alba</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="en|##|s4c" xmltv_id="[England] S4C">[England] S4C</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcone" xmltv_id="[Northern Ireland] BBC One">[Northern Ireland] BBC One</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbctwo" xmltv_id="[Northern Ireland] BBC Two">[Northern Ireland] BBC Two</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ni|##|bbcthree" xmltv_id="[Northern Ireland] BBC Three">[Northern Ireland] BBC Three</channel>
@@ -49,18 +37,6 @@
     <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcparliament" xmltv_id="[Wales] BBC Parliament">[Wales] BBC Parliament</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|bbcalba" xmltv_id="[Wales] BBC Alba">[Wales] BBC Alba</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="wa|##|s4c" xmltv_id="[Wales] S4C">[Wales] S4C</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcone" xmltv_id="[Cambridge] BBC One">[Cambridge] BBC One</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbctwo" xmltv_id="[Cambridge] BBC Two">[Cambridge] BBC Two</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcthree" xmltv_id="[Cambridge] BBC Three">[Cambridge] BBC Three</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcfour" xmltv_id="[Cambridge] BBC Four">[Cambridge] BBC Four</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|radio1" xmltv_id="[Cambridge] BBC Radio 1">[Cambridge] BBC Radio 1</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|cbbc" xmltv_id="[Cambridge] CBBC">[Cambridge] CBBC</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|cbeebies" xmltv_id="[Cambridge] CBeebies">[Cambridge] CBeebies</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcscotland" xmltv_id="[Cambridge] BBC Scotland">[Cambridge] BBC Scotland</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcnews" xmltv_id="[Cambridge] BBC News">[Cambridge] BBC News</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcparliament" xmltv_id="[Cambridge] BBC Parliament">[Cambridge] BBC Parliament</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|bbcalba" xmltv_id="[Cambridge] BBC Alba">[Cambridge] BBC Alba</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ca|##|s4c" xmltv_id="[Cambridge] S4C">[Cambridge] S4C</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcone" xmltv_id="[Channel Islands] BBC One">[Channel Islands] BBC One</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbctwo" xmltv_id="[Channel Islands] BBC Two">[Channel Islands] BBC Two</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="ci|##|bbcthree" xmltv_id="[Channel Islands] BBC Three">[Channel Islands] BBC Three</channel>
@@ -145,18 +121,6 @@
     <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcparliament" xmltv_id="[North West] BBC Parliament">[North West] BBC Parliament</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|bbcalba" xmltv_id="[North West] BBC Alba">[North West] BBC Alba</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="nw|##|s4c" xmltv_id="[North West] S4C">[North West] S4C</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcone" xmltv_id="[Oxfordshire] BBC One">[Oxfordshire] BBC One</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbctwo" xmltv_id="[Oxfordshire] BBC Two">[Oxfordshire] BBC Two</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcthree" xmltv_id="[Oxfordshire] BBC Three">[Oxfordshire] BBC Three</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcfour" xmltv_id="[Oxfordshire] BBC Four">[Oxfordshire] BBC Four</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|radio1" xmltv_id="[Oxfordshire] BBC Radio 1">[Oxfordshire] BBC Radio 1</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|cbbc" xmltv_id="[Oxfordshire] CBBC">[Oxfordshire] CBBC</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|cbeebies" xmltv_id="[Oxfordshire] CBeebies">[Oxfordshire] CBeebies</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcscotland" xmltv_id="[Oxfordshire] BBC Scotland">[Oxfordshire] BBC Scotland</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcnews" xmltv_id="[Oxfordshire] BBC News">[Oxfordshire] BBC News</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcparliament" xmltv_id="[Oxfordshire] BBC Parliament">[Oxfordshire] BBC Parliament</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|bbcalba" xmltv_id="[Oxfordshire] BBC Alba">[Oxfordshire] BBC Alba</channel>
-    <channel site="[ENC]bbc.co.uk_0" site_id="ox|##|s4c" xmltv_id="[Oxfordshire] S4C">[Oxfordshire] S4C</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcone" xmltv_id="[South] BBC One">[South] BBC One</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbctwo" xmltv_id="[South] BBC Two">[South] BBC Two</channel>
     <channel site="[ENC]bbc.co.uk_0" site_id="so|##|bbcthree" xmltv_id="[South] BBC Three">[South] BBC Three</channel>
