@@ -19,7 +19,7 @@ return array (
   'gpattern_1' => '"sessionId":"(.*?)"',
   'grabber_2' => 'on',
   'gpattern_2' => '"tenantCode":"(.*?)"',
-  'url2' => 'https://teleupapi.revlet.net/service/api/v1/tv/guide?start_time=##urldate1##&end_time=##stopdate1##&page=0&pagesize=100',
+  'url2' => 'https://teleupapi.revlet.net/service/api/v1/tv/guide?start_time=##urldate2##&end_time=##stopdate2##&page=0&pagesize=100',
   'requestOption2' => '1',
   'accept_header2' => 'application/json, text/plain, */*',
   'content_type2' => 'text/plain; charset=UTF-8',
