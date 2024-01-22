@@ -1,179 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]play.xumo.com_1">
   <channels>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991377" xmltv_id="ABC News Live (XABCN-CMS)">ABC News Live (XABCN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991398" xmltv_id="Love Nature (XLONAT-CMS)">Love Nature (XLONAT-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951134" xmltv_id="UFC (XUFC-CMS)">UFC (XUFC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991333" xmltv_id="Dove Channel (XDOVE-CMS)">Dove Channel (XDOVE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991337" xmltv_id="FilmRise Action (XFLMR-CMS)">FilmRise Action (XFLMR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991747" xmltv_id="Telemundo Al Día (XTMNEWS-CMS)">Telemundo Al Día (XTMNEWS-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991291" xmltv_id="PowerNation (XPWRN-CMS)">PowerNation (XPWRN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991283" xmltv_id="Rainbow Rangers (XAMEB-CMS)">Rainbow Rangers (XAMEB-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991122" xmltv_id="The Bob Ross Channel (XBOBRO-CMS)">The Bob Ross Channel (XBOBRO-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991667" xmltv_id="Are We There Yet? (XARYET-CMS)">Are We There Yet? (XARYET-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991367" xmltv_id="Forensic Files (XFORE-CMS)">Forensic Files (XFORE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991709" xmltv_id="Hallmark Movies &amp; More (XHALLM-CMS)">Hallmark Movies &amp; More (XHALLM-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991349" xmltv_id="It's Showtime at the Apollo (XAPLLO-CMS)">It's Showtime at the Apollo (XAPLLO-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991290" xmltv_id="HISTORY (XHIST-CMS)">HISTORY (XHIST-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991745" xmltv_id="Wu Tang Collection TV (XWUTANG-CMS)">Wu Tang Collection TV (XWUTANG-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991386" xmltv_id="NEW Korean MOVIES &amp; SERIES (XNWKID-CMS)">NEW Korean MOVIES &amp; SERIES (XNWKID-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991278" xmltv_id="GLORY Kickboxing (XGLRY-CMS)">GLORY Kickboxing (XGLRY-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991176" xmltv_id="Just for Laughs TV (XJUST-CMS)">Just for Laughs TV (XJUST-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991784" xmltv_id="Xumo Free Action &amp; Drama TV (XACDR--DRM)">Xumo Free Action &amp; Drama TV (XACDR--DRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991124" xmltv_id="Dry Bar Comedy (XDRYB-CMS)">Dry Bar Comedy (XDRYB-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991772" xmltv_id="EncourageTV (XENC-CMS)">EncourageTV (XENC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991379" xmltv_id="Combat War Channel (XCOWC-CMS)">Combat War Channel (XCOWC-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991158" xmltv_id="CBS News (XCBSNWS-CMS)">CBS News (XCBSNWS-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991292" xmltv_id="DUST (XDST-CMS)">DUST (XDST-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991399" xmltv_id="Warriors &amp; Gangsters (XCNLF-CMS)">Warriors &amp; Gangsters (XCNLF-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991337" xmltv_id="FilmRise (XFLMR-CMS)">FilmRise (XFLMR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995113" xmltv_id="NBC News NOW (XNBCN2-CMS)">NBC News NOW (XNBCN2-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991336" xmltv_id="Maverick Black Cinema (XMAV-CMS)">Maverick Black Cinema (XMAV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991680" xmltv_id="Unsolved Mysteries (XUNSMYS)">Unsolved Mysteries (XUNSMYS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951129" xmltv_id="Wipeout Xtra (XWIPE-CMS)">Wipeout Xtra (XWIPE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991377" xmltv_id="ABC News Live (XABCN-CMS)">ABC News Live (XABCN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991372" xmltv_id="WEATHERSPY (XWTSY-CMS)">WEATHERSPY (XWTSY-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991294" xmltv_id="Nitro Circus (XNITR-CMS)">Nitro Circus (XNITR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991341" xmltv_id="IMPACT Wrestling Channel (XIMPT-CMS)">IMPACT Wrestling Channel (XIMPT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991276" xmltv_id="CBC NEWS (XCBC-CMS)">CBC NEWS (XCBC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951130" xmltv_id="Fear Factor (XFEAR-CMS)">Fear Factor (XFEAR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991105" xmltv_id="Xumo Free Comedy TV (XCMTV-CMS)">Xumo Free Comedy TV (XCMTV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991292" xmltv_id="Alien Nation by DUST (XDST-CMS)">Alien Nation by DUST (XDST-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991628" xmltv_id="WildEarth (XWLDER-CMS)">WildEarth (XWLDER-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991733" xmltv_id="Xumo Free Comedy Movies (XFMC--NDRM)">Xumo Free Comedy Movies (XFMC--NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951132" xmltv_id="Fight Network (XFGHT-CMS)">Fight Network (XFGHT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991340" xmltv_id="Food52 (XFOOD-CMS)">Food52 (XFOOD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991202" xmltv_id="Tastemade (XTASTE-CMS)">Tastemade (XTASTE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991730" xmltv_id="Xumo Free Westerns (XFWS--NDRM)">Xumo Free Westerns (XFWS--NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951218" xmltv_id="Xumo Free Nature &amp; Wildlife TV (XNATWLD-CMS)">Xumo Free Nature &amp; Wildlife TV (XNATWLD-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991357" xmltv_id="Real Crime (XRTD-CMS)">Real Crime (XRTD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991393" xmltv_id="Samuel Goldwyn Films (XSAMGF-CMS)">Samuel Goldwyn Films (XSAMGF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991384" xmltv_id="Xumo Free Crime TV (XFMCR-CMS)">Xumo Free Crime TV (XFMCR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951146" xmltv_id="Family Affair Channel (XFMAF-CMS)">Family Affair Channel (XFMAF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995117" xmltv_id="Xumo Free Food TV (XFOODTV-CMS)">Xumo Free Food TV (XFOODTV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991232" xmltv_id="Family Feud (XFAMF-CMS)">Family Feud (XFAMF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991160" xmltv_id="PBS Digital Studios (XPBSDIGI-CMS)">PBS Digital Studios (XPBSDIGI-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991312" xmltv_id="Gravitas Movies (XGRV-CMS)">Gravitas Movies (XGRV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991142" xmltv_id="Cine Romántico (XCINER-CMS)">Cine Romántico (XCINER-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991331" xmltv_id="The Asylum (XASY-CMS)">The Asylum (XASY-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991635" xmltv_id="LiveNOW from FOX (XFOXNMT-CMS)">LiveNOW from FOX (XFOXNMT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991138" xmltv_id="Vogue (XVGE-CMS)">Vogue (XVGE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991709" xmltv_id="Hallmark Movies &amp; More (XHALLM-CMS)">Hallmark Movies &amp; More (XHALLM-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991680" xmltv_id="Unsolved Mysteries (XUNSMYS)">Unsolved Mysteries (XUNSMYS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951216" xmltv_id="The Rifleman (XRIFL-CMS)">The Rifleman (XRIFL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951192" xmltv_id="Anger Management Channel (XANGR-CMS)">Anger Management Channel (XANGR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991157" xmltv_id="The Johnny Carson Show (XJHN-CMS)">The Johnny Carson Show (XJHN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951237" xmltv_id="Million Dollar Listing Vault (XMDLV-CMS)">Million Dollar Listing Vault (XMDLV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951186" xmltv_id="LiveNOW from FOX (XFXN-CMS)">LiveNOW from FOX (XFXN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991734" xmltv_id="Xumo Free Horror &amp; Thriller Movies (XFMH--NDRM)">Xumo Free Horror &amp; Thriller Movies (XFMH--NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991364" xmltv_id="Xumo Free Reality TV (XBIFE-CMS)">Xumo Free Reality TV (XBIFE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999615" xmltv_id="Dark Matter TV (XDRKUS-CMS)">Dark Matter TV (XDRKUS-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951277" xmltv_id="Ghost Hunters Channel (XGSTHNT-CMS)">Ghost Hunters Channel (XGSTHNT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991113" xmltv_id="Deal Or No Deal (XDOND-CMS)">Deal Or No Deal (XDOND-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995115" xmltv_id="TODAY All Day (XTODAY-AMGI)">TODAY All Day (XTODAY-AMGI)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951252" xmltv_id="Cheaters (XCHTRS-CMS)">Cheaters (XCHTRS-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991147" xmltv_id="TYT (XTYTNEWS-CMS)">TYT (XTYTNEWS-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991374" xmltv_id="Outdoor America (XODAM-CMS)">Outdoor America (XODAM-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951151" xmltv_id="Lidia's Kitchen (XLIDA-CMS)">Lidia's Kitchen (XLIDA-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991736" xmltv_id="Xumo Her Free Movies (XHRF--NDRM)">Xumo Her Free Movies (XHRF--NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991300" xmltv_id="Stash TV (XFLMHB-CMS)">Stash TV (XFLMHB-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951189" xmltv_id="BibleStream (XBIBL-CMS)">BibleStream (XBIBL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951160" xmltv_id="Cowboy Way (XCWBY-CMS)">Cowboy Way (XCWBY-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995114" xmltv_id="Heartland (XHRT-CMS)">Heartland (XHRT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991271" xmltv_id="HSN (XHSN-CMS)">HSN (XHSN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991346" xmltv_id="Divorce Court (XDIV-CMS)">Divorce Court (XDIV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991388" xmltv_id="Judge Nosey (XRNOSY-CMS)">Judge Nosey (XRNOSY-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951137" xmltv_id="Love Quest: Powered by Banijay (XALRL-CMS)">Love Quest: Powered by Banijay (XALRL-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991769" xmltv_id="Paranormal Files (XPRFL-CMS)">Paranormal Files (XPRFL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991336" xmltv_id="Maverick Black Cinema (XMAV-CMS)">Maverick Black Cinema (XMAV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991153" xmltv_id="FailArmy (XJUKIN-CMS)">FailArmy (XJUKIN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991344" xmltv_id="QVC (XQVC-CMS)">QVC (XQVC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99915028" xmltv_id="Newsmax2 (XNWSMAX2-CMS)">Newsmax2 (XNWSMAX2-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951135" xmltv_id="Great American Adventures (XGRAM-CMS)">Great American Adventures (XGRAM-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951209" xmltv_id="Baby Shark TV (XBBYSH-CMS)">Baby Shark TV (XBBYSH-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991643" xmltv_id="CBS News Chicago (XCBSNCHI-CMS)">CBS News Chicago (XCBSNCHI-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991107" xmltv_id="Xumo Free Kids TV (XFMK-CMS)">Xumo Free Kids TV (XFMK-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991197" xmltv_id="NatureVision (XNTV-CMS)">NatureVision (XNTV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991293" xmltv_id="This Old House (XTOH-CMS)">This Old House (XTOH-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991732" xmltv_id="Xumo Free Action Movies (XFMA--NDRM)">Xumo Free Action Movies (XFMA--NDRM)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991681" xmltv_id="Hell's Kitchen (XHELKIT)">Hell's Kitchen (XHELKIT)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951192" xmltv_id="Anger Management Channel (XANGR-CMS)">Anger Management Channel (XANGR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951218" xmltv_id="Xumo Free Nature &amp; Wildlife TV (XNATWLD-CMS)">Xumo Free Nature &amp; Wildlife TV (XNATWLD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991728" xmltv_id="Xumo Free Black Cinema (XFBC--NDRM)">Xumo Free Black Cinema (XFBC--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991123" xmltv_id="LOL Network (XLOLNET-CMS)">LOL Network (XLOLNET-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991383" xmltv_id="GoTraveler (XGOTRL-CMS)">GoTraveler (XGOTRL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951160" xmltv_id="Cowboy Way (XCWBY-CMS)">Cowboy Way (XCWBY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991113" xmltv_id="Deal Or No Deal (XDOND-CMS)">Deal Or No Deal (XDOND-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991635" xmltv_id="LiveNOW from FOX (XFOXNMT-CMS)">LiveNOW from FOX (XFOXNMT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991196" xmltv_id="FOX Sports (XFOX-CMS)">FOX Sports (XFOX-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951123" xmltv_id="GlewedTV Sci-Fi (XGLWD-CMS)">GlewedTV Sci-Fi (XGLWD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991321" xmltv_id="Runtime (XAMMO-CMS)">Runtime (XAMMO-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991312" xmltv_id="Gravitas Movies (XGRV-CMS)">Gravitas Movies (XGRV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991659" xmltv_id="Game Show A Go-Go (XFXRUN-CMS)">Game Show A Go-Go (XFXRUN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991116" xmltv_id="TIME (XTIME-CMS)">TIME (XTIME-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991346" xmltv_id="Divorce Court (XDIV-CMS)">Divorce Court (XDIV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951207" xmltv_id="Fifth Gear (XFIFG-CMS)">Fifth Gear (XFIFG-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951186" xmltv_id="LiveNOW from FOX (XFXN-CMS)">LiveNOW from FOX (XFXN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995117" xmltv_id="Xumo Free Food TV (XFOODTV-CMS)">Xumo Free Food TV (XFOODTV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991667" xmltv_id="Are We There Yet? (XARYET-CMS)">Are We There Yet? (XARYET-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991291" xmltv_id="PowerNation (XPWRN-CMS)">PowerNation (XPWRN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991331" xmltv_id="The Asylum (XASY-CMS)">The Asylum (XASY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991733" xmltv_id="Xumo Free Comedy Movies (XFMC--NDRM)">Xumo Free Comedy Movies (XFMC--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991382" xmltv_id="MagellanTV Now (XVOYD-CMS)">MagellanTV Now (XVOYD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951187" xmltv_id="Fox Weather (XFXW-CMS)">Fox Weather (XFXW-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991176" xmltv_id="Just for Laughs (XJUST-CMS)">Just for Laughs (XJUST-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991745" xmltv_id="Wu Tang Collection TV (XWUTANG-CMS)">Wu Tang Collection TV (XWUTANG-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991290" xmltv_id="HISTORY (XHIST-CMS)">HISTORY (XHIST-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951135" xmltv_id="Great American Adventures (XGRAM-CMS)">Great American Adventures (XGRAM-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991369" xmltv_id="America's Test Kitchen (XAMTK-CMS)">America's Test Kitchen (XAMTK-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991384" xmltv_id="Xumo Free Crime TV (XFMCR-CMS)">Xumo Free Crime TV (XFMCR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991293" xmltv_id="This Old House (XTOH-CMS)">This Old House (XTOH-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991348" xmltv_id="KOCOWA K-Drama (X-KOW)">KOCOWA K-Drama (X-KOW)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991739" xmltv_id="Cine Sureño (XCINES-CMS)">Cine Sureño (XCINES-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991310" xmltv_id="The Archive (XARC-CMS)">The Archive (XARC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991749" xmltv_id="Historias de Amor (XTMNV-CMS)">Historias de Amor (XTMNV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991741" xmltv_id="Topic Crime &amp; Thrillers (XTOPC-CMS)">Topic Crime &amp; Thrillers (XTOPC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991174" xmltv_id="The Pet Collective (XPETCOL-CMS)">The Pet Collective (XPETCOL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99915028" xmltv_id="Newsmax TV (XNWSMAX2-CMS)">Newsmax TV (XNWSMAX2-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991202" xmltv_id="Tastemade (XTASTE-CMS)">Tastemade (XTASTE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951188" xmltv_id="Estrella News (XESTNW-CMS)">Estrella News (XESTNW-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991379" xmltv_id="Combat War Channel (XCOWC-CMS)">Combat War Channel (XCOWC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995105" xmltv_id="Snowy River (XSNRV-CMS)">Snowy River (XSNRV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991341" xmltv_id="IMPACT Wrestling Channel (XIMPT-CMS)">IMPACT Wrestling Channel (XIMPT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991294" xmltv_id="Nitro Circus (XNITR-CMS)">Nitro Circus (XNITR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991315" xmltv_id="ACC Digital Network (XACC-CMS)">ACC Digital Network (XACC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999615" xmltv_id="Dark Matter TV (XDRKUS-CMS)">Dark Matter TV (XDRKUS-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951216" xmltv_id="The Rifleman (XRIFL-CMS)">The Rifleman (XRIFL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991124" xmltv_id="Dry Bar Comedy (XDRYB-CMS)">Dry Bar Comedy (XDRYB-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991747" xmltv_id="Telemundo Al Día (XTMNEWS-CMS)">Telemundo Al Día (XTMNEWS-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991727" xmltv_id="Xumo Free Movies (XFRM--NDRM)">Xumo Free Movies (XFRM--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991368" xmltv_id="REELZ Famous &amp; Infamous (XREEL-CMS)">REELZ Famous &amp; Infamous (XREEL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991111" xmltv_id="Xumo Free Travel &amp; Lifestyle TV (XTRLI-CMS)">Xumo Free Travel &amp; Lifestyle TV (XTRLI-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991281" xmltv_id="PGA TOUR (XPGAT-CMS)">PGA TOUR (XPGAT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991628" xmltv_id="WildEarth (XWLDER-CMS)">WildEarth (XWLDER-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991748" xmltv_id="Lo Mejor de Telemundo (XTMREAL-CMS)">Lo Mejor de Telemundo (XTMREAL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991140" xmltv_id="Bon Appétit (XBONAP-CMS)">Bon Appétit (XBONAP-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991736" xmltv_id="Xumo Her Free Movies (XHRF--NDRM)">Xumo Her Free Movies (XHRF--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951151" xmltv_id="Lidia's Kitchen (XLIDA-CMS)">Lidia's Kitchen (XLIDA-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991271" xmltv_id="HSN (XHSN-CMS)">HSN (XHSN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991300" xmltv_id="Alice Movies (XFLMHB-CMS)">Alice Movies (XFLMHB-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991197" xmltv_id="NatureVision (XNTV-CMS)">NatureVision (XNTV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991285" xmltv_id="Adventure Sports Network (XASN-CMS)">Adventure Sports Network (XASN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991229" xmltv_id="Architectural Digest (XARD-CMS)">Architectural Digest (XARD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991153" xmltv_id="FailArmy (XJUKIN-CMS)">FailArmy (XJUKIN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991278" xmltv_id="GLORY Kickboxing (XGLRY-CMS)">GLORY Kickboxing (XGLRY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991338" xmltv_id="JTV Jewelry Love (XJWLTV-CMS)">JTV Jewelry Love (XJWLTV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991232" xmltv_id="Family Feud (XFAMF-CMS)">Family Feud (XFAMF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951187" xmltv_id="Fox Weather (XFXW-CMS)">Fox Weather (XFXW-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991634" xmltv_id="Degrassi (XDGRS-CMS)">Degrassi (XDGRS-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991106" xmltv_id="RiffTrax (XRIFF-CMS)">RiffTrax (XRIFF-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995114" xmltv_id="Heartland (XHRT-CMS)">Heartland (XHRT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991730" xmltv_id="Xumo Free Westerns (XFWS--NDRM)">Xumo Free Westerns (XFWS--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991374" xmltv_id="Outdoor America (XODAM-CMS)">Outdoor America (XODAM-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991142" xmltv_id="Cine Romántico (XCINER-CMS)">Cine Romántico (XCINER-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951145" xmltv_id="The Girls Next Door Channel (XGND-CMS)">The Girls Next Door Channel (XGND-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991354" xmltv_id="American Classics (XAMR-CMS)">American Classics (XAMR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991388" xmltv_id="Judge Nosey (XRNOSY-CMS)">Judge Nosey (XRNOSY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991950" xmltv_id="Madre (XPOP3-CMS)">Madre (XPOP3-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991372" xmltv_id="WEATHERSPY (XWTSY-CMS)">WEATHERSPY (XWTSY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991639" xmltv_id="Xumo Free Game Show TV (XGMSHW-DRM)">Xumo Free Game Show TV (XGMSHW-DRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991389" xmltv_id="USGA (XUSGA-CMS)">USGA (XUSGA-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991105" xmltv_id="Xumo Free Comedy TV (XCMTV-CMS)">Xumo Free Comedy TV (XCMTV-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991731" xmltv_id="Xumo Free Documentaries (XFMD--NDRM)">Xumo Free Documentaries (XFMD--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991755" xmltv_id="Tribeca Channel (XTRIB-CMS)">Tribeca Channel (XTRIB-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991375" xmltv_id="CHIVE TV (XCHIV-CMS)">CHIVE TV (XCHIV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995115" xmltv_id="TODAY All Day (XTODAY-AMGI)">TODAY All Day (XTODAY-AMGI)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991393" xmltv_id="Samuel Goldwyn Films (XSAMGF-CMS)">Samuel Goldwyn Films (XSAMGF-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991633" xmltv_id="PokerGO (XPKRGO-CMS)">PokerGO (XPKRGO-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991670" xmltv_id="Mixible (XCBSET-CMS)">Mixible (XCBSET-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991317" xmltv_id="World Poker Tour (XWPT-CMS)">World Poker Tour (XWPT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991674" xmltv_id="Canela Tv Clasicos (XCNLA-CMS)">Canela Tv Clasicos (XCNLA-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991708" xmltv_id="Trinity Broadcast Network (XTBN-CMS)">Trinity Broadcast Network (XTBN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991349" xmltv_id="It's Showtime at the Apollo (XAPLLO-CMS)">It's Showtime at the Apollo (XAPLLO-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951129" xmltv_id="Wipeout Xtra (XWIPE-CMS)">Wipeout Xtra (XWIPE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991688" xmltv_id="El Rey (XELRY-CMS)">El Rey (XELRY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991135" xmltv_id="WIRED (XWRD-CMS)">WIRED (XWRD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991108" xmltv_id="theGRIO (XBNC-CMS)">theGRIO (XBNC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991187" xmltv_id="Funny or Die (XFUNDIE-CMS)">Funny or Die (XFUNDIE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991638" xmltv_id="DOCUMENTARY+ (XDOCPL-CMS)">DOCUMENTARY+ (XDOCPL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951136" xmltv_id="AXS TV NOW (XAXSTV-CMS)">AXS TV NOW (XAXSTV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991157" xmltv_id="The Johnny Carson Show (XJHN-CMS)">The Johnny Carson Show (XJHN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991138" xmltv_id="Vogue (XVGE-CMS)">Vogue (XVGE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991693" xmltv_id="Homeful (XHMFL-CMS)">Homeful (XHMFL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991356" xmltv_id="eSports Revolution (XESREV-CMS)">eSports Revolution (XESREV-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991268" xmltv_id="Toon Goggles (XTOON-CMS)">Toon Goggles (XTOON-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991340" xmltv_id="Food52 (XFOOD-CMS)">Food52 (XFOOD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991784" xmltv_id="Xumo Free Action &amp; Drama TV (XACDR--DRM)">Xumo Free Action &amp; Drama TV (XACDR--DRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991276" xmltv_id="CBC NEWS (XCBC-CMS)">CBC NEWS (XCBC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991137" xmltv_id="GQ (XUMOGQ-CMS)">GQ (XUMOGQ-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951138" xmltv_id="McLeod's Daughters (XMCDTR-CMS)">McLeod's Daughters (XMCDTR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991344" xmltv_id="QVC (XQVC-CMS)">QVC (XQVC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991772" xmltv_id="EncourageTV (XENC-CMS)">EncourageTV (XENC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951123" xmltv_id="GlewedTV Sci-Fi (XGLWD-CMS)">GlewedTV Sci-Fi (XGLWD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991106" xmltv_id="RiffTrax (XRIFF-CMS)">RiffTrax (XRIFF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991659" xmltv_id="Game Show A Go-Go (XFXRUN-CMS)">Game Show A Go-Go (XFXRUN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991728" xmltv_id="Xumo Free Black Cinema (XFBC--NDRM)">Xumo Free Black Cinema (XFBC--NDRM)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991735" xmltv_id="Xumo Free Sci-Fi &amp; Fantasy Movies (XFSF--NDRM)">Xumo Free Sci-Fi &amp; Fantasy Movies (XFSF--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991139" xmltv_id="Glamour (XGLAM-CMS)">Glamour (XGLAM-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991687" xmltv_id="Los Pitufos (XSMRF)">Los Pitufos (XSMRF)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951132" xmltv_id="Fight Network (XFGHT-CMS)">Fight Network (XFGHT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991671" xmltv_id="Little Baby Bum and Friends (XBUM-CMS)">Little Baby Bum and Friends (XBUM-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951130" xmltv_id="Fear Factor (XFEAR-CMS)">Fear Factor (XFEAR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991147" xmltv_id="TYT (XTYTNEWS-CMS)">TYT (XTYTNEWS-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951146" xmltv_id="Family Affair Channel (XFMAF-CMS)">Family Affair Channel (XFMAF-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991111" xmltv_id="Xumo Free Travel &amp; Lifestyle TV (XTRLI-CMS)">Xumo Free Travel &amp; Lifestyle TV (XTRLI-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991633" xmltv_id="PokerGO (XPKRGO-CMS)">PokerGO (XPKRGO-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991354" xmltv_id="American Classics (XAMR-CMS)">American Classics (XAMR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991189" xmltv_id="Outside (XOUT-CMS)">Outside (XOUT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995105" xmltv_id="Snowy River (XSNRV-CMS)">Snowy River (XSNRV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991729" xmltv_id="Xumo Free Family Movies (XFMF--NDRM)">Xumo Free Family Movies (XFMF--NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951207" xmltv_id="Fifth Gear (XFIFG-CMS)">Fifth Gear (XFIFG-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991383" xmltv_id="GoTraveler (XGOTRL-CMS)">GoTraveler (XGOTRL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991310" xmltv_id="The Archive (XARC-CMS)">The Archive (XARC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991229" xmltv_id="Architectural Digest (XARD-CMS)">Architectural Digest (XARD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951145" xmltv_id="The Girls Next Door Channel (XGND-CMS)">The Girls Next Door Channel (XGND-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991204" xmltv_id="Just for Laughs Gags (XJFLG-CMS)">Just for Laughs Gags (XJFLG-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991734" xmltv_id="Xumo Free Horror &amp; Thriller Movies (XFMH--NDRM)">Xumo Free Horror &amp; Thriller Movies (XFMH--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991107" xmltv_id="Xumo Free Kids TV (XFMK-CMS)">Xumo Free Kids TV (XFMK-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991123" xmltv_id="LOL Network (XLOLNET-CMS)">LOL Network (XLOLNET-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991671" xmltv_id="Little Baby Bum and Friends (XBUM-CMS)">Little Baby Bum and Friends (XBUM-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991174" xmltv_id="The Pet Collective (XPETCOL-CMS)">The Pet Collective (XPETCOL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991140" xmltv_id="Bon Appétit (XBONAP-CMS)">Bon Appétit (XBONAP-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951138" xmltv_id="McLeod's Daughters (XMCDTR-CMS)">McLeod's Daughters (XMCDTR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991381" xmltv_id="Demand Africa (XDEAFR-CMS)">Demand Africa (XDEAFR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991638" xmltv_id="DOCUMENTARY+ (XDOCPL-CMS)">DOCUMENTARY+ (XDOCPL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991755" xmltv_id="Tribeca Channel (XTRIB-CMS)">Tribeca Channel (XTRIB-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991253" xmltv_id="All Babies Channel (XHOOP-CMS)">All Babies Channel (XHOOP-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991759" xmltv_id="Today's Homeowner (XHOME-CMS)">Today's Homeowner (XHOME-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951148" xmltv_id="Barney and Friends (XBRNY-CMS)">Barney and Friends (XBRNY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991190" xmltv_id="Comedy Dynamics (XCMDY-CMS)">Comedy Dynamics (XCMDY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991327" xmltv_id="Kartoon Channel! (XGEN-CMS)">Kartoon Channel! (XGEN-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951189" xmltv_id="BibleStream (XBIBL-CMS)">BibleStream (XBIBL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991189" xmltv_id="Outside (XOUT-CMS)">Outside (XOUT-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951209" xmltv_id="Baby Shark TV (XBBYSH-CMS)">Baby Shark TV (XBBYSH-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991253" xmltv_id="HooplaKidzTV (XHOOP-CMS)">HooplaKidzTV (XHOOP-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991333" xmltv_id="Dove Channel (XDOVE-CMS)">Dove Channel (XDOVE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991283" xmltv_id="Ameba (XAMEB-CMS)">Ameba (XAMEB-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991364" xmltv_id="Xumo Free Reality TV (XBIFE-CMS)">Xumo Free Reality TV (XBIFE-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991273" xmltv_id="batteryPOP (XBATPOP-CMS)">batteryPOP (XBATPOP-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991175" xmltv_id="People Are Awesome (XPPLRAW-CMS)">People Are Awesome (XPPLRAW-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991262" xmltv_id="Journy (XJRNY-CMS)">Journy (XJRNY-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991386" xmltv_id="NEW Korean MOVIES &amp; SERIES (XNWKID-CMS)">NEW Korean MOVIES &amp; SERIES (XNWKID-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991761" xmltv_id="Teletubbies (XTLTB-CMS)">Teletubbies (XTLTB-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991348" xmltv_id="KOCOWA K-Drama (X-KOW)">KOCOWA K-Drama (X-KOW)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991779" xmltv_id="Jubao (XJUB-CMS)">Jubao (XJUB-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991160" xmltv_id="PBS Digital Studios (XPBSDIGI-CMS)">PBS Digital Studios (XPBSDIGI-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951137" xmltv_id="Love Quest: Powered by Banijay (XALRL-CMS)">Love Quest: Powered by Banijay (XALRL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991370" xmltv_id="ShopLC (XSHLC-CMS)">ShopLC (XSHLC-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991695" xmltv_id="kweliTV (XKWLI)">kweliTV (XKWLI)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991643" xmltv_id="CBS News Chicago (XCBSNCHI-CMS)">CBS News Chicago (XCBSNCHI-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991381" xmltv_id="Demand Africa (XDEAFR-CMS)">Demand Africa (XDEAFR-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991748" xmltv_id="Lo Mejor de Telemundo (XTMREAL-CMS)">Lo Mejor de Telemundo (XTMREAL-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991327" xmltv_id="Kartoon Channel! (XGEN-CMS)">Kartoon Channel! (XGEN-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991739" xmltv_id="Cine Sureño (XCINES-CMS)">Cine Sureño (XCINES-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991175" xmltv_id="People Are Awesome (XPPLRAW-CMS)">People Are Awesome (XPPLRAW-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991281" xmltv_id="PGA TOUR (XPGAT-CMS)">PGA TOUR (XPGAT-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991389" xmltv_id="USGA (XUSGA-CMS)">USGA (XUSGA-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991273" xmltv_id="batteryPOP (XBATPOP-CMS)">batteryPOP (XBATPOP-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9995113" xmltv_id="NBC News NOW (XNBCN2-CMS)">NBC News NOW (XNBCN2-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991775" xmltv_id="Love Nature en Español (XLONATES-CMS)">Love Nature en Español (XLONATES-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991729" xmltv_id="Xumo Free Family Movies (XFMF--NDRM)">Xumo Free Family Movies (XFMF--NDRM)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991122" xmltv_id="The Bob Ross Channel (XBOBRO-CMS)">The Bob Ross Channel (XBOBRO-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991687" xmltv_id="MojiTV (XSMRF)">MojiTV (XSMRF)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991108" xmltv_id="theGRIO (XBNC-CMS)">theGRIO (XBNC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991135" xmltv_id="WIRED (XWRD-CMS)">WIRED (XWRD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991338" xmltv_id="JTV Jewelry Love (XJWLTV-CMS)">JTV Jewelry Love (XJWLTV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991639" xmltv_id="Xumo Free Game Show TV (XGMSHW-DRM)">Xumo Free Game Show TV (XGMSHW-DRM)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991756" xmltv_id="Xumo Free Bollywood &amp; Indian Cinema (XBLWD-CMS)">Xumo Free Bollywood &amp; Indian Cinema (XBLWD-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991137" xmltv_id="GQ (XUMOGQ-CMS)">GQ (XUMOGQ-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991249" xmltv_id="World Surf League (XWSL-CMS)">World Surf League (XWSL-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991785" xmltv_id="beIN SPORTS XTRA en Español (XBEINES-CMS)">beIN SPORTS XTRA en Español (XBEINES-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991141" xmltv_id="Vanity Fair (XVNTYFR-CMS)">Vanity Fair (XVNTYFR-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991326" xmltv_id="pocket.watch (XPW-CMS)">pocket.watch (XPW-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991662" xmltv_id="El Tribunal del Pueblo (XTRIBP-CMS)">El Tribunal del Pueblo (XTRIBP-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991394" xmltv_id="Antiques Roadshow UK (XARSD-CMS)">Antiques Roadshow UK (XARSD-CMS)</channel>
-    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999998" xmltv_id="Home Channel (XDSCVR)">Home Channel (XDSCVR)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991749" xmltv_id="Historias de Amor (XTMNV-CMS)">Historias de Amor (XTMNV-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991187" xmltv_id="Funny or Die (XFUNDIE-CMS)">Funny or Die (XFUNDIE-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99991370" xmltv_id="ShopLC (XSHLC-CMS)">ShopLC (XSHLC-CMS)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|99951188" xmltv_id="Estrella News (XESTNW-CMS)">Estrella News (XESTNW-CMS)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999726" xmltv_id="Movies Page - NON DRM (XFMP-NDRM)">Movies Page - NON DRM (XFMP-NDRM)</channel>
+    <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999998" xmltv_id="Home Channel (XDSCVR)">Home Channel (XDSCVR)</channel>
     <channel site="[ENC]play.xumo.com_1" site_id="10001|##|9999793" xmltv_id="Series Page - NDRM (XSERS-NDRM)">Series Page - NDRM (XSERS-NDRM)</channel>
   </channels>
 </site>

@@ -19,7 +19,7 @@ return array (
   'urldate_format1' => '#range#m-d-Y',
   'grabber_1' => 'on',
   'gpattern_1' => '||#add###urldate1##||#replace#(,)|||',
-  'show' => '<h2 id="(?:##grabber_1##)".*?<div class="show-grid">.*?(?:<a class=)(.*?)(?:<\\/a>).*?<\\/div>',
+  'show' => '<h2 id="(?:##grabber_1##)".*?<div class="show-grid">.*?(?:<a class=)(.*?)(?:<\\/a>).*?<\\/script>\\s*<\\/div>',
   'start' => '<time>(.*?)<\\/time>',
   'start_format' => 'g#i A',
   'title' => '<h3>(.*?)<\\/h3>',

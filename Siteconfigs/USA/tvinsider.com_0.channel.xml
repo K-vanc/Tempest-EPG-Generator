@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tvinsider.com_0">
   <channels>
+    <channel site="tvinsider.com_0" site_id="5-star-max" xmltv_id="5-Star MAX">5-Star MAX</channel>
     <channel site="tvinsider.com_0" site_id="ae" xmltv_id="A&amp;E">A&amp;E</channel>
     <channel site="tvinsider.com_0" site_id="abc" xmltv_id="ABC">ABC</channel>
+    <channel site="tvinsider.com_0" site_id="action-max" xmltv_id="Action MAX">Action MAX</channel>
     <channel site="tvinsider.com_0" site_id="adult-swim" xmltv_id="Adult Swim">Adult Swim</channel>
     <channel site="tvinsider.com_0" site_id="amc" xmltv_id="AMC">AMC</channel>
     <channel site="tvinsider.com_0" site_id="american-heroes-channel" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
     <channel site="tvinsider.com_0" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel site="tvinsider.com_0" site_id="antenna-tv" xmltv_id="Antenna TV">Antenna TV</channel>
     <channel site="tvinsider.com_0" site_id="aspire" xmltv_id="Aspire">Aspire</channel>
+    <channel site="tvinsider.com_0" site_id="awe" xmltv_id="AWE">AWE</channel>
     <channel site="tvinsider.com_0" site_id="axs" xmltv_id="AXS">AXS</channel>
+    <channel site="tvinsider.com_0" site_id="babyfirst" xmltv_id="BabyFirst">BabyFirst</channel>
     <channel site="tvinsider.com_0" site_id="bbc-america" xmltv_id="BBC America">BBC America</channel>
+    <channel site="tvinsider.com_0" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
     <channel site="tvinsider.com_0" site_id="bet" xmltv_id="BET">BET</channel>
     <channel site="tvinsider.com_0" site_id="bet-gospel" xmltv_id="BET Gospel">BET Gospel</channel>
     <channel site="tvinsider.com_0" site_id="bet-her" xmltv_id="BET Her">BET Her</channel>
+    <channel site="tvinsider.com_0" site_id="bet-jams" xmltv_id="BET Jams">BET Jams</channel>
+    <channel site="tvinsider.com_0" site_id="bet-soul" xmltv_id="BET Soul">BET Soul</channel>
     <channel site="tvinsider.com_0" site_id="big-ten-network" xmltv_id="Big Ten Network">Big Ten Network</channel>
     <channel site="tvinsider.com_0" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel site="tvinsider.com_0" site_id="bounce-tv" xmltv_id="Bounce TV">Bounce TV</channel>
@@ -21,33 +28,43 @@
     <channel site="tvinsider.com_0" site_id="buzzr" xmltv_id="Buzzr">Buzzr</channel>
     <channel site="tvinsider.com_0" site_id="byutv" xmltv_id="BYUtv">BYUtv</channel>
     <channel site="tvinsider.com_0" site_id="c-span" xmltv_id="C-SPAN">C-SPAN</channel>
+    <channel site="tvinsider.com_0" site_id="c-span-2" xmltv_id="C-SPAN 2">C-SPAN 2</channel>
+    <channel site="tvinsider.com_0" site_id="c-span-3" xmltv_id="C-SPAN 3">C-SPAN 3</channel>
     <channel site="tvinsider.com_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel site="tvinsider.com_0" site_id="catchy-comedy" xmltv_id="Catchy Comedy">Catchy Comedy</channel>
+    <channel site="tvinsider.com_0" site_id="catholic-faith-network" xmltv_id="Catholic Faith Network">Catholic Faith Network</channel>
     <channel site="tvinsider.com_0" site_id="cbs" xmltv_id="CBS">CBS</channel>
     <channel site="tvinsider.com_0" site_id="cbs-sports-network" xmltv_id="CBS Sports Network">CBS Sports Network</channel>
+    <channel site="tvinsider.com_0" site_id="charge" xmltv_id="Charge!">Charge!</channel>
     <channel site="tvinsider.com_0" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel site="tvinsider.com_0" site_id="circle" xmltv_id="Circle">Circle</channel>
     <channel site="tvinsider.com_0" site_id="cleo-tv" xmltv_id="Cleo TV">Cleo TV</channel>
     <channel site="tvinsider.com_0" site_id="cmt" xmltv_id="CMT">CMT</channel>
     <channel site="tvinsider.com_0" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
     <channel site="tvinsider.com_0" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="tvinsider.com_0" site_id="cnn-international" xmltv_id="CNN International">CNN International</channel>
     <channel site="tvinsider.com_0" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="tvinsider.com_0" site_id="comedy-tv" xmltv_id="Comedy TV">Comedy TV</channel>
     <channel site="tvinsider.com_0" site_id="comet" xmltv_id="Comet">Comet</channel>
     <channel site="tvinsider.com_0" site_id="cooking-channel" xmltv_id="Cooking Channel">Cooking Channel</channel>
     <channel site="tvinsider.com_0" site_id="court-tv" xmltv_id="Court TV">Court TV</channel>
     <channel site="tvinsider.com_0" site_id="cozi-tv" xmltv_id="Cozi TV">Cozi TV</channel>
+    <channel site="tvinsider.com_0" site_id="create" xmltv_id="Create">Create</channel>
     <channel site="tvinsider.com_0" site_id="crime-and-investigation-network" xmltv_id="Crime and Investigation Network">Crime and Investigation Network</channel>
     <channel site="tvinsider.com_0" site_id="dabl" xmltv_id="Dabl">Dabl</channel>
+    <channel site="tvinsider.com_0" site_id="dazn" xmltv_id="DAZN">DAZN</channel>
     <channel site="tvinsider.com_0" site_id="destination-america" xmltv_id="Destination America">Destination America</channel>
     <channel site="tvinsider.com_0" site_id="discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel site="tvinsider.com_0" site_id="discovery-family" xmltv_id="Discovery Family">Discovery Family</channel>
     <channel site="tvinsider.com_0" site_id="discovery-life-channel" xmltv_id="Discovery Life Channel">Discovery Life Channel</channel>
     <channel site="tvinsider.com_0" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="tvinsider.com_0" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="tvinsider.com_0" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
     <channel site="tvinsider.com_0" site_id="e" xmltv_id="E!">E!</channel>
     <channel site="tvinsider.com_0" site_id="espn" xmltv_id="ESPN">ESPN</channel>
     <channel site="tvinsider.com_0" site_id="espn2" xmltv_id="ESPN2">ESPN2</channel>
     <channel site="tvinsider.com_0" site_id="espnu" xmltv_id="ESPNU">ESPNU</channel>
+    <channel site="tvinsider.com_0" site_id="family-movie-classics" xmltv_id="Family Movie Classics">Family Movie Classics</channel>
     <channel site="tvinsider.com_0" site_id="fetv" xmltv_id="FETV">FETV</channel>
     <channel site="tvinsider.com_0" site_id="flix" xmltv_id="Flix">Flix</channel>
     <channel site="tvinsider.com_0" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
@@ -65,8 +82,8 @@
     <channel site="tvinsider.com_0" site_id="game-show-network" xmltv_id="Game Show Network">Game Show Network</channel>
     <channel site="tvinsider.com_0" site_id="gettv" xmltv_id="getTV">getTV</channel>
     <channel site="tvinsider.com_0" site_id="golf-channel" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="tvinsider.com_0" site_id="great-american-faith-and-living" xmltv_id="Great American Faith &amp; Living">Great American Faith &amp; Living</channel>
     <channel site="tvinsider.com_0" site_id="great-american-family" xmltv_id="Great American Family">Great American Family</channel>
-    <channel site="tvinsider.com_0" site_id="great-american-living" xmltv_id="Great American Living">Great American Living</channel>
     <channel site="tvinsider.com_0" site_id="grit" xmltv_id="Grit">Grit</channel>
     <channel site="tvinsider.com_0" site_id="hallmark-channel" xmltv_id="Hallmark Channel">Hallmark Channel</channel>
     <channel site="tvinsider.com_0" site_id="hallmark-drama" xmltv_id="Hallmark Drama">Hallmark Drama</channel>
@@ -78,10 +95,12 @@
     <channel site="tvinsider.com_0" site_id="hbo-zone" xmltv_id="HBO Zone">HBO Zone</channel>
     <channel site="tvinsider.com_0" site_id="hbo2" xmltv_id="HBO2">HBO2</channel>
     <channel site="tvinsider.com_0" site_id="hdnet-movies" xmltv_id="HDNet Movies">HDNet Movies</channel>
+    <channel site="tvinsider.com_0" site_id="here-tv" xmltv_id="Here TV">Here TV</channel>
     <channel site="tvinsider.com_0" site_id="heroes-icons" xmltv_id="Heroes &amp; Icons">Heroes &amp; Icons</channel>
     <channel site="tvinsider.com_0" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
     <channel site="tvinsider.com_0" site_id="history-channel" xmltv_id="History Channel">History Channel</channel>
     <channel site="tvinsider.com_0" site_id="hln" xmltv_id="HLN">HLN</channel>
+    <channel site="tvinsider.com_0" site_id="hsn" xmltv_id="HSN">HSN</channel>
     <channel site="tvinsider.com_0" site_id="ifc" xmltv_id="IFC">IFC</channel>
     <channel site="tvinsider.com_0" site_id="impact" xmltv_id="Impact">Impact</channel>
     <channel site="tvinsider.com_0" site_id="indieplex" xmltv_id="IndiePlex">IndiePlex</channel>
@@ -89,6 +108,8 @@
     <channel site="tvinsider.com_0" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel site="tvinsider.com_0" site_id="ion-mystery" xmltv_id="ION Mystery">ION Mystery</channel>
     <channel site="tvinsider.com_0" site_id="ion-television" xmltv_id="Ion Television">Ion Television</channel>
+    <channel site="tvinsider.com_0" site_id="jewelry-television" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel site="tvinsider.com_0" site_id="justice-central" xmltv_id="Justice Central">Justice Central</channel>
     <channel site="tvinsider.com_0" site_id="laff" xmltv_id="Laff">Laff</channel>
     <channel site="tvinsider.com_0" site_id="lifetime" xmltv_id="Lifetime">Lifetime</channel>
     <channel site="tvinsider.com_0" site_id="lmn" xmltv_id="Lifetime Movie Network">Lifetime Movie Network</channel>
@@ -97,44 +118,61 @@
     <channel site="tvinsider.com_0" site_id="magnolia-network" xmltv_id="Magnolia Network">Magnolia Network</channel>
     <channel site="tvinsider.com_0" site_id="mavtv" xmltv_id="MAVTV">MAVTV</channel>
     <channel site="tvinsider.com_0" site_id="metv" xmltv_id="MeTV">MeTV</channel>
+    <channel site="tvinsider.com_0" site_id="metv-plus" xmltv_id="MeTV+">MeTV+</channel>
     <channel site="tvinsider.com_0" site_id="mgm-plus" xmltv_id="MGM+">MGM+</channel>
     <channel site="tvinsider.com_0" site_id="mgm-plus-drive-in" xmltv_id="MGM+ Drive-In">MGM+ Drive-In</channel>
     <channel site="tvinsider.com_0" site_id="mgm-plus-hits" xmltv_id="MGM+ Hits">MGM+ Hits</channel>
     <channel site="tvinsider.com_0" site_id="mgm-plus-marquee" xmltv_id="MGM+ Marquee">MGM+ Marquee</channel>
     <channel site="tvinsider.com_0" site_id="military-history" xmltv_id="Military History">Military History</channel>
     <channel site="tvinsider.com_0" site_id="mlb-network" xmltv_id="MLB Network">MLB Network</channel>
+    <channel site="tvinsider.com_0" site_id="more-max" xmltv_id="More MAX">More MAX</channel>
     <channel site="tvinsider.com_0" site_id="motortrend" xmltv_id="MotorTrend">MotorTrend</channel>
-    <channel site="tvinsider.com_0" site_id="moviemax" xmltv_id="MovieMax">MovieMax</channel>
+    <channel site="tvinsider.com_0" site_id="moviemax" xmltv_id="Movie MAX">Movie MAX</channel>
+    <channel site="tvinsider.com_0" site_id="movieplex" xmltv_id="MoviePlex">MoviePlex</channel>
     <channel site="tvinsider.com_0" site_id="movies" xmltv_id="Movies!">Movies!</channel>
     <channel site="tvinsider.com_0" site_id="msg" xmltv_id="MSG">MSG</channel>
     <channel site="tvinsider.com_0" site_id="msnbc" xmltv_id="MSNBC">MSNBC</channel>
     <channel site="tvinsider.com_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="tvinsider.com_0" site_id="mtv-classic" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel site="tvinsider.com_0" site_id="mtv-live" xmltv_id="MTV Live">MTV Live</channel>
     <channel site="tvinsider.com_0" site_id="mtv2" xmltv_id="MTV2">MTV2</channel>
     <channel site="tvinsider.com_0" site_id="mynetworktv" xmltv_id="MyNetworkTV">MyNetworkTV</channel>
     <channel site="tvinsider.com_0" site_id="nat-geo" xmltv_id="Nat Geo">Nat Geo</channel>
     <channel site="tvinsider.com_0" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel site="tvinsider.com_0" site_id="nba-tv" xmltv_id="NBA TV">NBA TV</channel>
     <channel site="tvinsider.com_0" site_id="nbc" xmltv_id="NBC">NBC</channel>
+    <channel site="tvinsider.com_0" site_id="newsmax" xmltv_id="Newsmax">Newsmax</channel>
     <channel site="tvinsider.com_0" site_id="newsnation" xmltv_id="NewsNation">NewsNation</channel>
     <channel site="tvinsider.com_0" site_id="nfl-network" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="tvinsider.com_0" site_id="nhk-world" xmltv_id="NHK World">NHK World</channel>
     <channel site="tvinsider.com_0" site_id="nhl-network" xmltv_id="NHL Network">NHL Network</channel>
     <channel site="tvinsider.com_0" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
     <channel site="tvinsider.com_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="tvinsider.com_0" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="tvinsider.com_0" site_id="oan" xmltv_id="OAN">OAN</channel>
+    <channel site="tvinsider.com_0" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="tvinsider.com_0" site_id="outer-max" xmltv_id="Outer MAX">Outer MAX</channel>
     <channel site="tvinsider.com_0" site_id="ovation" xmltv_id="Ovation">Ovation</channel>
     <channel site="tvinsider.com_0" site_id="own" xmltv_id="OWN">OWN</channel>
     <channel site="tvinsider.com_0" site_id="oxygen" xmltv_id="Oxygen">Oxygen</channel>
     <channel site="tvinsider.com_0" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel site="tvinsider.com_0" site_id="pbs" xmltv_id="PBS">PBS</channel>
     <channel site="tvinsider.com_0" site_id="pbs-kids" xmltv_id="PBS Kids">PBS Kids</channel>
+    <channel site="tvinsider.com_0" site_id="pets" xmltv_id="Pets">Pets</channel>
     <channel site="tvinsider.com_0" site_id="pop" xmltv_id="Pop TV">Pop TV</channel>
+    <channel site="tvinsider.com_0" site_id="primo-tv" xmltv_id="Primo TV">Primo TV</channel>
+    <channel site="tvinsider.com_0" site_id="pursuit" xmltv_id="Pursuit">Pursuit</channel>
     <channel site="tvinsider.com_0" site_id="qvc" xmltv_id="QVC">QVC</channel>
+    <channel site="tvinsider.com_0" site_id="recipe-tv" xmltv_id="Recipe TV">Recipe TV</channel>
     <channel site="tvinsider.com_0" site_id="reelz" xmltv_id="Reelz">Reelz</channel>
     <channel site="tvinsider.com_0" site_id="retroplex" xmltv_id="RetroPlex">RetroPlex</channel>
+    <channel site="tvinsider.com_0" site_id="revolt" xmltv_id="Revolt">Revolt</channel>
     <channel site="tvinsider.com_0" site_id="rewind-tv" xmltv_id="Rewind TV">Rewind TV</channel>
     <channel site="tvinsider.com_0" site_id="rfd-tv" xmltv_id="RFD-TV">RFD-TV</channel>
+    <channel site="tvinsider.com_0" site_id="sbn" xmltv_id="SBN">SBN</channel>
     <channel site="tvinsider.com_0" site_id="sbs" xmltv_id="SBS">SBS</channel>
     <channel site="tvinsider.com_0" site_id="science-channel" xmltv_id="Science Channel">Science Channel</channel>
+    <channel site="tvinsider.com_0" site_id="scripps-news" xmltv_id="Scripps News">Scripps News</channel>
     <channel site="tvinsider.com_0" site_id="sec-network" xmltv_id="SEC Network">SEC Network</channel>
     <channel site="tvinsider.com_0" site_id="showtime" xmltv_id="Showtime">Showtime</channel>
     <channel site="tvinsider.com_0" site_id="showtime-2" xmltv_id="Showtime 2">Showtime 2</channel>
@@ -142,6 +180,8 @@
     <channel site="tvinsider.com_0" site_id="showtime-familyzone" xmltv_id="Showtime FamilyZone">Showtime FamilyZone</channel>
     <channel site="tvinsider.com_0" site_id="showtime-showcase" xmltv_id="Showtime Showcase">Showtime Showcase</channel>
     <channel site="tvinsider.com_0" site_id="showtime-women" xmltv_id="Showtime Women">Showtime Women</channel>
+    <channel site="tvinsider.com_0" site_id="shoxbet" xmltv_id="SHOxBET">SHOxBET</channel>
+    <channel site="tvinsider.com_0" site_id="smile" xmltv_id="Smile">Smile</channel>
     <channel site="tvinsider.com_0" site_id="smithsonian-channel" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
     <channel site="tvinsider.com_0" site_id="start-tv" xmltv_id="Start TV">Start TV</channel>
     <channel site="tvinsider.com_0" site_id="starz" xmltv_id="Starz">Starz</channel>
@@ -160,21 +200,30 @@
     <channel site="tvinsider.com_0" site_id="story-television" xmltv_id="Story Television">Story Television</channel>
     <channel site="tvinsider.com_0" site_id="sundance" xmltv_id="Sundance">Sundance</channel>
     <channel site="tvinsider.com_0" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel site="tvinsider.com_0" site_id="tastemade" xmltv_id="Tastemade">Tastemade</channel>
+    <channel site="tvinsider.com_0" site_id="tbd" xmltv_id="TBD">TBD</channel>
     <channel site="tvinsider.com_0" site_id="tbs" xmltv_id="TBS">TBS</channel>
     <channel site="tvinsider.com_0" site_id="teennick" xmltv_id="TeenNick">TeenNick</channel>
     <channel site="tvinsider.com_0" site_id="telemundo" xmltv_id="Telemundo">Telemundo</channel>
     <channel site="tvinsider.com_0" site_id="tennis-channel" xmltv_id="Tennis Channel">Tennis Channel</channel>
+    <channel site="tvinsider.com_0" site_id="the-cowboy-channel" xmltv_id="The Cowboy Channel">The Cowboy Channel</channel>
     <channel site="tvinsider.com_0" site_id="the-cw" xmltv_id="The CW">The CW</channel>
     <channel site="tvinsider.com_0" site_id="the-movie-channel" xmltv_id="The Movie Channel">The Movie Channel</channel>
+    <channel site="tvinsider.com_0" site_id="the-movie-channel-extra" xmltv_id="The Movie Channel Extra">The Movie Channel Extra</channel>
     <channel site="tvinsider.com_0" site_id="the-weather-channel" xmltv_id="The Weather Channel">The Weather Channel</channel>
     <channel site="tvinsider.com_0" site_id="this-tv" xmltv_id="This TV">This TV</channel>
+    <channel site="tvinsider.com_0" site_id="thrillermax" xmltv_id="Thriller MAX">Thriller MAX</channel>
     <channel site="tvinsider.com_0" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel site="tvinsider.com_0" site_id="tnt" xmltv_id="TNT">TNT</channel>
     <channel site="tvinsider.com_0" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="tvinsider.com_0" site_id="trinity-broadcast-network" xmltv_id="Trinity Broadcast Network">Trinity Broadcast Network</channel>
+    <channel site="tvinsider.com_0" site_id="true-crime-network" xmltv_id="True Crime Network">True Crime Network</channel>
     <channel site="tvinsider.com_0" site_id="trutv" xmltv_id="truTV">truTV</channel>
     <channel site="tvinsider.com_0" site_id="turner-classic-movies" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel site="tvinsider.com_0" site_id="tv-japan" xmltv_id="TV Japan">TV Japan</channel>
     <channel site="tvinsider.com_0" site_id="tv-land" xmltv_id="TV Land">TV Land</channel>
     <channel site="tvinsider.com_0" site_id="tv-one" xmltv_id="TV One">TV One</channel>
+    <channel site="tvinsider.com_0" site_id="twist" xmltv_id="Twist">Twist</channel>
     <channel site="tvinsider.com_0" site_id="universal-kids" xmltv_id="Universal Kids">Universal Kids</channel>
     <channel site="tvinsider.com_0" site_id="univision" xmltv_id="Univision">Univision</channel>
     <channel site="tvinsider.com_0" site_id="uptv" xmltv_id="UPtv">UPtv</channel>
@@ -182,6 +231,9 @@
     <channel site="tvinsider.com_0" site_id="vh1" xmltv_id="VH1">VH1</channel>
     <channel site="tvinsider.com_0" site_id="vice-tv" xmltv_id="Vice TV">Vice TV</channel>
     <channel site="tvinsider.com_0" site_id="we-tv" xmltv_id="We TV">We TV</channel>
+    <channel site="tvinsider.com_0" site_id="willow" xmltv_id="Willow">Willow</channel>
+    <channel site="tvinsider.com_0" site_id="world-channel" xmltv_id="World Channel">World Channel</channel>
     <channel site="tvinsider.com_0" site_id="z-living" xmltv_id="Z Living">Z Living</channel>
+    <channel site="tvinsider.com_0" site_id="zoomoo" xmltv_id="ZooMoo">ZooMoo</channel>
   </channels>
 </site>
