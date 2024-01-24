@@ -4,7 +4,6 @@ you can create your own channel list for
 * tvpassport
 * tvguide
 * ontvtonight
-* directv
 * online.tivo
 * whattowatch
 * tvlistings.zap2it
