@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tvcesoir.fr_0">
+  <channels>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|847049/tf-1" xmltv_id="[Bouygues] TF 1">[Bouygues] TF 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|657850/france-2" xmltv_id="[Bouygues] France 2">[Bouygues] France 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|708251/france-3" xmltv_id="[Bouygues] France 3">[Bouygues] France 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82484954/canal" xmltv_id="[Bouygues] Canal+">[Bouygues] Canal+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82515355/france-5" xmltv_id="[Bouygues] France 5">[Bouygues] France 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|779554/m6" xmltv_id="[Bouygues] M6">[Bouygues] M6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82484952/arte" xmltv_id="[Bouygues] Arte">[Bouygues] Arte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82514957/c8" xmltv_id="[Bouygues] C8">[Bouygues] C8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82515050/w9" xmltv_id="[Bouygues] W9">[Bouygues] W9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485548/tmc" xmltv_id="[Bouygues] TMC">[Bouygues] TMC</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82514956/tfx" xmltv_id="[Bouygues] TFX">[Bouygues] TFX</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82515048/nrj-12" xmltv_id="[Bouygues] NRJ 12">[Bouygues] NRJ 12</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82514953/lcp" xmltv_id="[Bouygues] LCP">[Bouygues] LCP</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82515049/france-4" xmltv_id="[Bouygues] France 4">[Bouygues] France 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495148/bfm-tv" xmltv_id="[Bouygues] BFM TV">[Bouygues] BFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495251/cnews" xmltv_id="[Bouygues] CNews">[Bouygues] CNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495155/cstar" xmltv_id="[Bouygues] CSTAR">[Bouygues] CSTAR</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|76515449/gulli" xmltv_id="[Bouygues] Gulli">[Bouygues] Gulli</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|72684970/tf1-series-films" xmltv_id="[Bouygues] TF1 Séries Films">[Bouygues] TF1 Séries Films</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|76698180/lequipe" xmltv_id="[Bouygues] L'Équipe">[Bouygues] L'Équipe</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|54846982/6ter" xmltv_id="[Bouygues] 6ter">[Bouygues] 6ter</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|78825051/rmc-story" xmltv_id="[Bouygues] RMC Story">[Bouygues] RMC Story</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82776768/rmc-decouverte" xmltv_id="[Bouygues] RMC Découverte">[Bouygues] RMC Découverte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67726982/cherie-25" xmltv_id="[Bouygues] Chérie 25">[Bouygues] Chérie 25</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495353/lci" xmltv_id="[Bouygues] LCI">[Bouygues] LCI</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70827378/franceinfo" xmltv_id="[Bouygues] Franceinfo">[Bouygues] Franceinfo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485050/paris-premiere" xmltv_id="[Bouygues] Paris Première">[Bouygues] Paris Première</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495757/tv-breizh" xmltv_id="[Bouygues] TV Breizh">[Bouygues] TV Breizh</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485256/teva" xmltv_id="[Bouygues] Téva">[Bouygues] Téva</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82847665/rtl-9" xmltv_id="[Bouygues] RTL 9">[Bouygues] RTL 9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485055/tv5-monde" xmltv_id="[Bouygues] TV5 Monde">[Bouygues] TV5 Monde</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67835154/canal-sport-360" xmltv_id="[Bouygues] Canal+ Sport 360">[Bouygues] Canal+ Sport 360</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67807084/canal-foot" xmltv_id="[Bouygues] Canal+ Foot">[Bouygues] Canal+ Foot</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505652/canal-sport" xmltv_id="[Bouygues] Canal+ Sport">[Bouygues] Canal+ Sport</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505650/canal-cinema" xmltv_id="[Bouygues] Canal+ Cinéma">[Bouygues] Canal+ Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67716978/canal-grand-ecran" xmltv_id="[Bouygues] Canal+ Grand Ecran">[Bouygues] Canal+ Grand Ecran</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|79826777/ocs-max" xmltv_id="[Bouygues] OCS Max">[Bouygues] OCS Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|79826772/ocs-pulp" xmltv_id="[Bouygues] OCS Pulp">[Bouygues] OCS Pulp</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|79677170/ocs-geants" xmltv_id="[Bouygues] OCS Géants">[Bouygues] OCS Géants</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66834970/bein-sports-1" xmltv_id="[Bouygues] beIN SPORTS 1">[Bouygues] beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835070/bein-sports-2" xmltv_id="[Bouygues] beIN SPORTS 2">[Bouygues] beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835170/bein-sports-3" xmltv_id="[Bouygues] beIN SPORTS 3">[Bouygues] beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|71797870/game-one" xmltv_id="[Bouygues] Game One">[Bouygues] Game One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485653/mcm" xmltv_id="[Bouygues] MCM">[Bouygues] MCM</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66698470/bet" xmltv_id="[Bouygues] BET">[Bouygues] BET</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70676770/comedy-central" xmltv_id="[Bouygues] Comedy Central">[Bouygues] Comedy Central</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485754/mtv" xmltv_id="[Bouygues] MTV">[Bouygues] MTV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485357/ab1" xmltv_id="[Bouygues] AB1">[Bouygues] AB1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67826873/crime-district" xmltv_id="[Bouygues] Crime District">[Bouygues] Crime District</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|84826583/trace-sport-stars" xmltv_id="[Bouygues] Trace Sport Stars">[Bouygues] Trace Sport Stars</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67808369/canal-series" xmltv_id="[Bouygues] Canal+ Séries">[Bouygues] Canal+ Séries</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505157/cine-premier" xmltv_id="[Bouygues] Ciné+ Premier">[Bouygues] Ciné+ Premier</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505249/cine-frisson" xmltv_id="[Bouygues] Ciné+ Frisson">[Bouygues] Ciné+ Frisson</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505749/cine-famiz" xmltv_id="[Bouygues] Ciné+ Famiz">[Bouygues] Ciné+ Famiz</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505252/cine-classic" xmltv_id="[Bouygues] Ciné+ Classic">[Bouygues] Ciné+ Classic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67676776/cine-club" xmltv_id="[Bouygues] Ciné+ Club">[Bouygues] Ciné+ Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505248/cine-emotion" xmltv_id="[Bouygues] Ciné+ Emotion">[Bouygues] Ciné+ Emotion</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485451/action" xmltv_id="[Bouygues] Action">[Bouygues] Action</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495550/tcm-cinema" xmltv_id="[Bouygues] TCM Cinéma">[Bouygues] TCM Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70806582/paramount-channel" xmltv_id="[Bouygues] Paramount Channel">[Bouygues] Paramount Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485655/canal-j" xmltv_id="[Bouygues] Canal J">[Bouygues] Canal J</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82504950/tiji" xmltv_id="[Bouygues] Tiji">[Bouygues] Tiji</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67657573/canal-kids" xmltv_id="[Bouygues] Canal+ KIDS">[Bouygues] Canal+ KIDS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|78525270/nickelodeon-teen" xmltv_id="[Bouygues] Nickelodéon Teen">[Bouygues] Nickelodéon Teen</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495150/boomerang" xmltv_id="[Bouygues] Boomerang">[Bouygues] Boomerang</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495351/nickelodeon" xmltv_id="[Bouygues] Nickelodéon">[Bouygues] Nickelodéon</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|78677478/nickelodeon-junior" xmltv_id="[Bouygues] Nickelodéon Junior">[Bouygues] Nickelodéon Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495448/ushuaia-tv" xmltv_id="[Bouygues] Ushuaïa TV">[Bouygues] Ushuaïa TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485557/histoire-tv" xmltv_id="[Bouygues] Histoire TV">[Bouygues] Histoire TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495052/trek" xmltv_id="[Bouygues] Trek">[Bouygues] Trek</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485657/animaux" xmltv_id="[Bouygues] Animaux">[Bouygues] Animaux</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495248/science-et-vie" xmltv_id="[Bouygues] Science et vie">[Bouygues] Science et vie</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505353/toute-lhistoire" xmltv_id="[Bouygues] Toute l'Histoire">[Bouygues] Toute l'Histoire</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495055/chasse-peche" xmltv_id="[Bouygues] Chasse &amp; Pêche">[Bouygues] Chasse &amp; Pêche</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|67687983/canal-docs" xmltv_id="[Bouygues] Canal+ DOCS">[Bouygues] Canal+ DOCS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70787971/gong" xmltv_id="[Bouygues] Gong">[Bouygues] Gong</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|74797870/j-one" xmltv_id="[Bouygues] J-One">[Bouygues] J-One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485656/mangas" xmltv_id="[Bouygues] Mangas">[Bouygues] Mangas</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70717977/gong-max" xmltv_id="[Bouygues] Gong Max">[Bouygues] Gong Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|84797970/toonami" xmltv_id="[Bouygues] Toonami">[Bouygues] Toonami</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|78827270/nrj-hits" xmltv_id="[Bouygues] NRJ Hits">[Bouygues] NRJ Hits</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|70827772/mtv-hits-france" xmltv_id="[Bouygues] MTV Hits France">[Bouygues] MTV Hits France</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495356/trace-urban" xmltv_id="[Bouygues] Trace Urban">[Bouygues] Trace Urban</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82485654/mezzo" xmltv_id="[Bouygues] Mezzo">[Bouygues] Mezzo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83847367/stingray-classica" xmltv_id="[Bouygues] Stingray Classica">[Bouygues] Stingray Classica</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|77545470/m6-music" xmltv_id="[Bouygues] M6 Music">[Bouygues] M6 Music</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82505556/mcm-top" xmltv_id="[Bouygues] MCM TOP">[Bouygues] MCM TOP</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82777084/rfm-tv" xmltv_id="[Bouygues] RFM TV">[Bouygues] RFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|83495355/trace-caribbean" xmltv_id="[Bouygues] Trace Caribbean">[Bouygues] Trace Caribbean</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|77906978/mezzo-live-hd" xmltv_id="[Bouygues] Mezzo Live HD">[Bouygues] Mezzo Live HD</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|84776970/melody" xmltv_id="[Bouygues] Melody">[Bouygues] Melody</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82565652/equidia" xmltv_id="[Bouygues] Equidia">[Bouygues] Equidia</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82495156/automoto" xmltv_id="[Bouygues] Automoto">[Bouygues] Automoto</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|79768470/oltv" xmltv_id="[Bouygues] OLTV">[Bouygues] OLTV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|82565449/golf-channel" xmltv_id="[Bouygues] Golf Channel">[Bouygues] Golf Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835270/bein-sports-max-4" xmltv_id="[Bouygues] beIN SPORTS MAX 4">[Bouygues] beIN SPORTS MAX 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835370/bein-sports-max-5" xmltv_id="[Bouygues] beIN SPORTS MAX 5">[Bouygues] beIN SPORTS MAX 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835470/bein-sports-max-6" xmltv_id="[Bouygues] beIN SPORTS MAX 6">[Bouygues] beIN SPORTS MAX 6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835570/bein-sports-max-7" xmltv_id="[Bouygues] beIN SPORTS MAX 7">[Bouygues] beIN SPORTS MAX 7</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-5|##|66835670/bein-sports-max-8" xmltv_id="[Bouygues] beIN SPORTS MAX 8">[Bouygues] beIN SPORTS MAX 8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|847049/tf-1" xmltv_id="[Free] TF 1">[Free] TF 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|657850/france-2" xmltv_id="[Free] France 2">[Free] France 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|708251/france-3" xmltv_id="[Free] France 3">[Free] France 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82484954/canal" xmltv_id="[Free] Canal+">[Free] Canal+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82515355/france-5" xmltv_id="[Free] France 5">[Free] France 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|779554/m6" xmltv_id="[Free] M6">[Free] M6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82484952/arte" xmltv_id="[Free] Arte">[Free] Arte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82514957/c8" xmltv_id="[Free] C8">[Free] C8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82515050/w9" xmltv_id="[Free] W9">[Free] W9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485548/tmc" xmltv_id="[Free] TMC">[Free] TMC</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82514956/tfx" xmltv_id="[Free] TFX">[Free] TFX</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82515048/nrj-12" xmltv_id="[Free] NRJ 12">[Free] NRJ 12</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82514953/lcp" xmltv_id="[Free] LCP">[Free] LCP</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82515049/france-4" xmltv_id="[Free] France 4">[Free] France 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495148/bfm-tv" xmltv_id="[Free] BFM TV">[Free] BFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495251/cnews" xmltv_id="[Free] CNews">[Free] CNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495155/cstar" xmltv_id="[Free] CSTAR">[Free] CSTAR</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|76515449/gulli" xmltv_id="[Free] Gulli">[Free] Gulli</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|72684970/tf1-series-films" xmltv_id="[Free] TF1 Séries Films">[Free] TF1 Séries Films</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|76698180/lequipe" xmltv_id="[Free] L'Équipe">[Free] L'Équipe</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|54846982/6ter" xmltv_id="[Free] 6ter">[Free] 6ter</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|78825051/rmc-story" xmltv_id="[Free] RMC Story">[Free] RMC Story</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82776768/rmc-decouverte" xmltv_id="[Free] RMC Découverte">[Free] RMC Découverte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67726982/cherie-25" xmltv_id="[Free] Chérie 25">[Free] Chérie 25</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82495353/lci" xmltv_id="[Free] LCI">[Free] LCI</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70827378/franceinfo" xmltv_id="[Free] Franceinfo">[Free] Franceinfo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485050/paris-premiere" xmltv_id="[Free] Paris Première">[Free] Paris Première</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|66834970/bein-sports-1" xmltv_id="[Free] beIN SPORTS 1">[Free] beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|66835070/bein-sports-2" xmltv_id="[Free] beIN SPORTS 2">[Free] beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|66835170/bein-sports-3" xmltv_id="[Free] beIN SPORTS 3">[Free] beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485651/eurosport-1" xmltv_id="[Free] Eurosport 1">[Free] Eurosport 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495250/eurosport-2" xmltv_id="[Free] Eurosport 2">[Free] Eurosport 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82495648/infosport" xmltv_id="[Free] Infosport+">[Free] Infosport+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|79826777/ocs-max" xmltv_id="[Free] OCS Max">[Free] OCS Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|79826772/ocs-pulp" xmltv_id="[Free] OCS Pulp">[Free] OCS Pulp</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|79677170/ocs-geants" xmltv_id="[Free] OCS Géants">[Free] OCS Géants</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505650/canal-cinema" xmltv_id="[Free] Canal+ Cinéma">[Free] Canal+ Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67716978/canal-grand-ecran" xmltv_id="[Free] Canal+ Grand Ecran">[Free] Canal+ Grand Ecran</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67808369/canal-series" xmltv_id="[Free] Canal+ Séries">[Free] Canal+ Séries</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505652/canal-sport" xmltv_id="[Free] Canal+ Sport">[Free] Canal+ Sport</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67835154/canal-sport-360" xmltv_id="[Free] Canal+ Sport 360">[Free] Canal+ Sport 360</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67807084/canal-foot" xmltv_id="[Free] Canal+ Foot">[Free] Canal+ Foot</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67687983/canal-docs" xmltv_id="[Free] Canal+ DOCS">[Free] Canal+ DOCS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67657573/canal-kids" xmltv_id="[Free] Canal+ KIDS">[Free] Canal+ KIDS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485452/disney-channel" xmltv_id="[Free] Disney Channel">[Free] Disney Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|71797870/game-one" xmltv_id="[Free] Game One">[Free] Game One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485357/ab1" xmltv_id="[Free] AB1">[Free] AB1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70806582/paramount-channel" xmltv_id="[Free] Paramount Channel">[Free] Paramount Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485256/teva" xmltv_id="[Free] Téva">[Free] Téva</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82495757/tv-breizh" xmltv_id="[Free] TV Breizh">[Free] TV Breizh</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70807976/polar" xmltv_id="[Free] Polar+">[Free] Polar+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485152/serie-club" xmltv_id="[Free] Série Club">[Free] Série Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70797884/novelas-tv" xmltv_id="[Free] Novelas TV">[Free] Novelas TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485049/planete" xmltv_id="[Free] Planète+">[Free] Planète+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495349/national-geographic" xmltv_id="[Free] National Geographic">[Free] National Geographic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495350/national-geographic-wild" xmltv_id="[Free] National Geographic Wild">[Free] National Geographic Wild</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|77545470/m6-music" xmltv_id="[Free] M6 Music">[Free] M6 Music</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|78827270/nrj-hits" xmltv_id="[Free] NRJ Hits">[Free] NRJ Hits</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70827772/mtv-hits-france" xmltv_id="[Free] MTV Hits France">[Free] MTV Hits France</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485055/tv5-monde" xmltv_id="[Free] TV5 Monde">[Free] TV5 Monde</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485551/comedie" xmltv_id="[Free] Comédie+">[Free] Comédie+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|84797970/toonami" xmltv_id="[Free] Toonami">[Free] Toonami</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485754/mtv" xmltv_id="[Free] MTV">[Free] MTV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485653/mcm" xmltv_id="[Free] MCM">[Free] MCM</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|74797870/j-one" xmltv_id="[Free] J-One">[Free] J-One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485656/mangas" xmltv_id="[Free] Mangas">[Free] Mangas</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70787971/gong" xmltv_id="[Free] Gong">[Free] Gong</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70717977/gong-max" xmltv_id="[Free] Gong Max">[Free] Gong Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|70676770/comedy-central" xmltv_id="[Free] Comedy Central">[Free] Comedy Central</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|66698470/bet" xmltv_id="[Free] BET">[Free] BET</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505157/cine-premier" xmltv_id="[Free] Ciné+ Premier">[Free] Ciné+ Premier</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505249/cine-frisson" xmltv_id="[Free] Ciné+ Frisson">[Free] Ciné+ Frisson</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505248/cine-emotion" xmltv_id="[Free] Ciné+ Emotion">[Free] Ciné+ Emotion</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505749/cine-famiz" xmltv_id="[Free] Ciné+ Famiz">[Free] Ciné+ Famiz</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67676776/cine-club" xmltv_id="[Free] Ciné+ Club">[Free] Ciné+ Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505252/cine-classic" xmltv_id="[Free] Ciné+ Classic">[Free] Ciné+ Classic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485451/action" xmltv_id="[Free] Action">[Free] Action</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82495550/tcm-cinema" xmltv_id="[Free] TCM Cinéma">[Free] TCM Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82565549/disney-junior" xmltv_id="[Free] Disney Junior">[Free] Disney Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|78677478/nickelodeon-junior" xmltv_id="[Free] Nickelodéon Junior">[Free] Nickelodéon Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82504950/tiji" xmltv_id="[Free] Tiji">[Free] Tiji</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505557/piwi" xmltv_id="[Free] Piwi+">[Free] Piwi+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495150/boomerang" xmltv_id="[Free] Boomerang">[Free] Boomerang</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485751/cartoon-network" xmltv_id="[Free] Cartoon Network">[Free] Cartoon Network</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495351/nickelodeon" xmltv_id="[Free] Nickelodéon">[Free] Nickelodéon</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485655/canal-j" xmltv_id="[Free] Canal J">[Free] Canal J</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485748/teletoon" xmltv_id="[Free] Télétoon+">[Free] Télétoon+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|78525270/nickelodeon-teen" xmltv_id="[Free] Nickelodéon Teen">[Free] Nickelodéon Teen</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82565652/equidia" xmltv_id="[Free] Equidia">[Free] Equidia</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|84826583/trace-sport-stars" xmltv_id="[Free] Trace Sport Stars">[Free] Trace Sport Stars</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82495156/automoto" xmltv_id="[Free] Automoto">[Free] Automoto</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82565449/golf-channel" xmltv_id="[Free] Golf Channel">[Free] Golf Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82525254/planete-crime" xmltv_id="[Free] Planète+ Crime">[Free] Planète+ Crime</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495352/planete-aventure" xmltv_id="[Free] Planète+ Aventure">[Free] Planète+ Aventure</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|67826873/crime-district" xmltv_id="[Free] Crime District">[Free] Crime District</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495448/ushuaia-tv" xmltv_id="[Free] Ushuaïa TV">[Free] Ushuaïa TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485557/histoire-tv" xmltv_id="[Free] Histoire TV">[Free] Histoire TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82505353/toute-lhistoire" xmltv_id="[Free] Toute l'Histoire">[Free] Toute l'Histoire</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|83495248/science-et-vie" xmltv_id="[Free] Science et vie">[Free] Science et vie</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-3|##|82485657/animaux" xmltv_id="[Free] Animaux">[Free] Animaux</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|847049/tf-1" xmltv_id="[Orange] TF 1">[Orange] TF 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|657850/france-2" xmltv_id="[Orange] France 2">[Orange] France 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|708251/france-3" xmltv_id="[Orange] France 3">[Orange] France 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82484954/canal" xmltv_id="[Orange] Canal+">[Orange] Canal+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82515355/france-5" xmltv_id="[Orange] France 5">[Orange] France 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|779554/m6" xmltv_id="[Orange] M6">[Orange] M6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82484952/arte" xmltv_id="[Orange] Arte">[Orange] Arte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82514957/c8" xmltv_id="[Orange] C8">[Orange] C8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82515050/w9" xmltv_id="[Orange] W9">[Orange] W9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485548/tmc" xmltv_id="[Orange] TMC">[Orange] TMC</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82514956/tfx" xmltv_id="[Orange] TFX">[Orange] TFX</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82515048/nrj-12" xmltv_id="[Orange] NRJ 12">[Orange] NRJ 12</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82515049/france-4" xmltv_id="[Orange] France 4">[Orange] France 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495148/bfm-tv" xmltv_id="[Orange] BFM TV">[Orange] BFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495251/cnews" xmltv_id="[Orange] CNews">[Orange] CNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495155/cstar" xmltv_id="[Orange] CSTAR">[Orange] CSTAR</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|76515449/gulli" xmltv_id="[Orange] Gulli">[Orange] Gulli</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|72684970/tf1-series-films" xmltv_id="[Orange] TF1 Séries Films">[Orange] TF1 Séries Films</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|76698180/lequipe" xmltv_id="[Orange] L'Équipe">[Orange] L'Équipe</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|54846982/6ter" xmltv_id="[Orange] 6ter">[Orange] 6ter</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|78825051/rmc-story" xmltv_id="[Orange] RMC Story">[Orange] RMC Story</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82776768/rmc-decouverte" xmltv_id="[Orange] RMC Découverte">[Orange] RMC Découverte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67726982/cherie-25" xmltv_id="[Orange] Chérie 25">[Orange] Chérie 25</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82495353/lci" xmltv_id="[Orange] LCI">[Orange] LCI</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|70827378/franceinfo" xmltv_id="[Orange] Franceinfo">[Orange] Franceinfo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485055/tv5-monde" xmltv_id="[Orange] TV5 Monde">[Orange] TV5 Monde</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485256/teva" xmltv_id="[Orange] Téva">[Orange] Téva</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485050/paris-premiere" xmltv_id="[Orange] Paris Première">[Orange] Paris Première</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82847665/rtl-9" xmltv_id="[Orange] RTL 9">[Orange] RTL 9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82495757/tv-breizh" xmltv_id="[Orange] TV Breizh">[Orange] TV Breizh</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67835154/canal-sport-360" xmltv_id="[Orange] Canal+ Sport 360">[Orange] Canal+ Sport 360</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67807084/canal-foot" xmltv_id="[Orange] Canal+ Foot">[Orange] Canal+ Foot</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505652/canal-sport" xmltv_id="[Orange] Canal+ Sport">[Orange] Canal+ Sport</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505650/canal-cinema" xmltv_id="[Orange] Canal+ Cinéma">[Orange] Canal+ Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67716978/canal-grand-ecran" xmltv_id="[Orange] Canal+ Grand Ecran">[Orange] Canal+ Grand Ecran</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67808369/canal-series" xmltv_id="[Orange] Canal+ Séries">[Orange] Canal+ Séries</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67687983/canal-docs" xmltv_id="[Orange] Canal+ DOCS">[Orange] Canal+ DOCS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67657573/canal-kids" xmltv_id="[Orange] Canal+ KIDS">[Orange] Canal+ KIDS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|66834970/bein-sports-1" xmltv_id="[Orange] beIN SPORTS 1">[Orange] beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|66835070/bein-sports-2" xmltv_id="[Orange] beIN SPORTS 2">[Orange] beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|66835170/bein-sports-3" xmltv_id="[Orange] beIN SPORTS 3">[Orange] beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|79826777/ocs-max" xmltv_id="[Orange] OCS Max">[Orange] OCS Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|79826772/ocs-pulp" xmltv_id="[Orange] OCS Pulp">[Orange] OCS Pulp</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|79677170/ocs-geants" xmltv_id="[Orange] OCS Géants">[Orange] OCS Géants</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|70806582/paramount-channel" xmltv_id="[Orange] Paramount Channel">[Orange] Paramount Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82495550/tcm-cinema" xmltv_id="[Orange] TCM Cinéma">[Orange] TCM Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485451/action" xmltv_id="[Orange] Action">[Orange] Action</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505157/cine-premier" xmltv_id="[Orange] Ciné+ Premier">[Orange] Ciné+ Premier</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505249/cine-frisson" xmltv_id="[Orange] Ciné+ Frisson">[Orange] Ciné+ Frisson</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505248/cine-emotion" xmltv_id="[Orange] Ciné+ Emotion">[Orange] Ciné+ Emotion</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505749/cine-famiz" xmltv_id="[Orange] Ciné+ Famiz">[Orange] Ciné+ Famiz</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67676776/cine-club" xmltv_id="[Orange] Ciné+ Club">[Orange] Ciné+ Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505252/cine-classic" xmltv_id="[Orange] Ciné+ Classic">[Orange] Ciné+ Classic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485754/mtv" xmltv_id="[Orange] MTV">[Orange] MTV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|66698470/bet" xmltv_id="[Orange] BET">[Orange] BET</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485357/ab1" xmltv_id="[Orange] AB1">[Orange] AB1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|70676770/comedy-central" xmltv_id="[Orange] Comedy Central">[Orange] Comedy Central</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|71797870/game-one" xmltv_id="[Orange] Game One">[Orange] Game One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485551/comedie" xmltv_id="[Orange] Comédie+">[Orange] Comédie+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|70807976/polar" xmltv_id="[Orange] Polar+">[Orange] Polar+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485152/serie-club" xmltv_id="[Orange] Série Club">[Orange] Série Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495150/boomerang" xmltv_id="[Orange] Boomerang">[Orange] Boomerang</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82504950/tiji" xmltv_id="[Orange] Tiji">[Orange] Tiji</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485655/canal-j" xmltv_id="[Orange] Canal J">[Orange] Canal J</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|78677478/nickelodeon-junior" xmltv_id="[Orange] Nickelodéon Junior">[Orange] Nickelodéon Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495351/nickelodeon" xmltv_id="[Orange] Nickelodéon">[Orange] Nickelodéon</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|78525270/nickelodeon-teen" xmltv_id="[Orange] Nickelodéon Teen">[Orange] Nickelodéon Teen</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485452/disney-channel" xmltv_id="[Orange] Disney Channel">[Orange] Disney Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82565549/disney-junior" xmltv_id="[Orange] Disney Junior">[Orange] Disney Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505557/piwi" xmltv_id="[Orange] Piwi+">[Orange] Piwi+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485748/teletoon" xmltv_id="[Orange] Télétoon+">[Orange] Télétoon+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485657/animaux" xmltv_id="[Orange] Animaux">[Orange] Animaux</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|67826873/crime-district" xmltv_id="[Orange] Crime District">[Orange] Crime District</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82495055/chasse-peche" xmltv_id="[Orange] Chasse &amp; Pêche">[Orange] Chasse &amp; Pêche</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82505353/toute-lhistoire" xmltv_id="[Orange] Toute l'Histoire">[Orange] Toute l'Histoire</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485557/histoire-tv" xmltv_id="[Orange] Histoire TV">[Orange] Histoire TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495448/ushuaia-tv" xmltv_id="[Orange] Ushuaïa TV">[Orange] Ushuaïa TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495348/myzen-tv" xmltv_id="[Orange] Myzen TV">[Orange] Myzen TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495248/science-et-vie" xmltv_id="[Orange] Science et vie">[Orange] Science et vie</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495349/national-geographic" xmltv_id="[Orange] National Geographic">[Orange] National Geographic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495350/national-geographic-wild" xmltv_id="[Orange] National Geographic Wild">[Orange] National Geographic Wild</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485049/planete" xmltv_id="[Orange] Planète+">[Orange] Planète+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82525254/planete-crime" xmltv_id="[Orange] Planète+ Crime">[Orange] Planète+ Crime</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495352/planete-aventure" xmltv_id="[Orange] Planète+ Aventure">[Orange] Planète+ Aventure</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485653/mcm" xmltv_id="[Orange] MCM">[Orange] MCM</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485656/mangas" xmltv_id="[Orange] Mangas">[Orange] Mangas</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|84797970/toonami" xmltv_id="[Orange] Toonami">[Orange] Toonami</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|74797870/j-one" xmltv_id="[Orange] J-One">[Orange] J-One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495356/trace-urban" xmltv_id="[Orange] Trace Urban">[Orange] Trace Urban</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|78827270/nrj-hits" xmltv_id="[Orange] NRJ Hits">[Orange] NRJ Hits</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|77847270/mtv-hits" xmltv_id="[Orange] MTV Hits">[Orange] MTV Hits</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|77545470/m6-music" xmltv_id="[Orange] M6 Music">[Orange] M6 Music</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82777084/rfm-tv" xmltv_id="[Orange] RFM TV">[Orange] RFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|84776970/melody" xmltv_id="[Orange] Melody">[Orange] Melody</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495355/trace-caribbean" xmltv_id="[Orange] Trace Caribbean">[Orange] Trace Caribbean</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82485654/mezzo" xmltv_id="[Orange] Mezzo">[Orange] Mezzo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83495256/mezzo-live" xmltv_id="[Orange] Mezzo Live">[Orange] Mezzo Live</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|83847367/stingray-classica" xmltv_id="[Orange] Stingray Classica">[Orange] Stingray Classica</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|82565652/equidia" xmltv_id="[Orange] Equidia">[Orange] Equidia</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-2|##|66835270/bein-sports-max-4" xmltv_id="[Orange] beIN SPORTS MAX 4">[Orange] beIN SPORTS MAX 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|847049/tf-1" xmltv_id="[SFR] TF 1">[SFR] TF 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|657850/france-2" xmltv_id="[SFR] France 2">[SFR] France 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|708251/france-3" xmltv_id="[SFR] France 3">[SFR] France 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82484954/canal" xmltv_id="[SFR] Canal+">[SFR] Canal+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82515355/france-5" xmltv_id="[SFR] France 5">[SFR] France 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|779554/m6" xmltv_id="[SFR] M6">[SFR] M6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82484952/arte" xmltv_id="[SFR] Arte">[SFR] Arte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82514957/c8" xmltv_id="[SFR] C8">[SFR] C8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82515050/w9" xmltv_id="[SFR] W9">[SFR] W9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485548/tmc" xmltv_id="[SFR] TMC">[SFR] TMC</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82514956/tfx" xmltv_id="[SFR] TFX">[SFR] TFX</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82515048/nrj-12" xmltv_id="[SFR] NRJ 12">[SFR] NRJ 12</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82514953/lcp" xmltv_id="[SFR] LCP">[SFR] LCP</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82515049/france-4" xmltv_id="[SFR] France 4">[SFR] France 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495148/bfm-tv" xmltv_id="[SFR] BFM TV">[SFR] BFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495251/cnews" xmltv_id="[SFR] CNews">[SFR] CNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495155/cstar" xmltv_id="[SFR] CSTAR">[SFR] CSTAR</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|76515449/gulli" xmltv_id="[SFR] Gulli">[SFR] Gulli</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|72684970/tf1-series-films" xmltv_id="[SFR] TF1 Séries Films">[SFR] TF1 Séries Films</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|76698180/lequipe" xmltv_id="[SFR] L'Équipe">[SFR] L'Équipe</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|54846982/6ter" xmltv_id="[SFR] 6ter">[SFR] 6ter</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|78825051/rmc-story" xmltv_id="[SFR] RMC Story">[SFR] RMC Story</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82776768/rmc-decouverte" xmltv_id="[SFR] RMC Découverte">[SFR] RMC Découverte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67726982/cherie-25" xmltv_id="[SFR] Chérie 25">[SFR] Chérie 25</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495353/lci" xmltv_id="[SFR] LCI">[SFR] LCI</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|70827378/franceinfo" xmltv_id="[SFR] Franceinfo">[SFR] Franceinfo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66707766/bfm-business" xmltv_id="[SFR] BFM Business">[SFR] BFM Business</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83708249/rmc-sport-1" xmltv_id="[SFR] RMC Sport 1">[SFR] RMC Sport 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|77678370/rmc-sport-2" xmltv_id="[SFR] RMC Sport 2">[SFR] RMC Sport 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66708070/bfm-paris-ile-de-france" xmltv_id="[SFR] BFM Paris Île-de-France">[SFR] BFM Paris Île-de-France</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495156/discovery-channel-f" xmltv_id="[SFR] Discovery Channel (F)">[SFR] Discovery Channel (F)</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485153/discovery-science" xmltv_id="[SFR] Discovery Science">[SFR] Discovery Science</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|705052/france-24" xmltv_id="[SFR] France 24">[SFR] France 24</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|69788770/euronews" xmltv_id="[SFR] EuroNews">[SFR] EuroNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485552/13eme-rue" xmltv_id="[SFR] 13ème Rue">[SFR] 13ème Rue</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83897070/syfy" xmltv_id="[SFR] Syfy">[SFR] Syfy</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485754/mtv" xmltv_id="[SFR] MTV">[SFR] MTV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485653/mcm" xmltv_id="[SFR] MCM">[SFR] MCM</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485357/ab1" xmltv_id="[SFR] AB1">[SFR] AB1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485152/serie-club" xmltv_id="[SFR] Série Club">[SFR] Série Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|71797870/game-one" xmltv_id="[SFR] Game One">[SFR] Game One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|74797870/j-one" xmltv_id="[SFR] J-One">[SFR] J-One</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66698470/bet" xmltv_id="[SFR] BET">[SFR] BET</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|70676770/comedy-central" xmltv_id="[SFR] Comedy Central">[SFR] Comedy Central</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485050/paris-premiere" xmltv_id="[SFR] Paris Première">[SFR] Paris Première</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485256/teva" xmltv_id="[SFR] Téva">[SFR] Téva</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495757/tv-breizh" xmltv_id="[SFR] TV Breizh">[SFR] TV Breizh</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485055/tv5-monde" xmltv_id="[SFR] TV5 Monde">[SFR] TV5 Monde</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|80505270/public-senat-2424" xmltv_id="[SFR] Public Sénat 24/24">[SFR] Public Sénat 24/24</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|76677770/la-chaine-meteo" xmltv_id="[SFR] La Chaîne Météo">[SFR] La Chaîne Météo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82836549/rmc-sport-access" xmltv_id="[SFR] RMC Sport Access">[SFR] RMC Sport Access</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66834970/bein-sports-1" xmltv_id="[SFR] beIN SPORTS 1">[SFR] beIN SPORTS 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66835070/bein-sports-2" xmltv_id="[SFR] beIN SPORTS 2">[SFR] beIN SPORTS 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|66835170/bein-sports-3" xmltv_id="[SFR] beIN SPORTS 3">[SFR] beIN SPORTS 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505652/canal-sport" xmltv_id="[SFR] Canal+ Sport">[SFR] Canal+ Sport</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82565652/equidia" xmltv_id="[SFR] Equidia">[SFR] Equidia</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495156/automoto" xmltv_id="[SFR] Automoto">[SFR] Automoto</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82565449/golf-channel" xmltv_id="[SFR] Golf Channel">[SFR] Golf Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495648/infosport" xmltv_id="[SFR] Infosport+">[SFR] Infosport+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485651/eurosport-1" xmltv_id="[SFR] Eurosport 1">[SFR] Eurosport 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495250/eurosport-2" xmltv_id="[SFR] Eurosport 2">[SFR] Eurosport 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67835154/canal-sport-360" xmltv_id="[SFR] Canal+ Sport 360">[SFR] Canal+ Sport 360</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67807084/canal-foot" xmltv_id="[SFR] Canal+ Foot">[SFR] Canal+ Foot</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|79826777/ocs-max" xmltv_id="[SFR] OCS Max">[SFR] OCS Max</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|79826772/ocs-pulp" xmltv_id="[SFR] OCS Pulp">[SFR] OCS Pulp</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|79677170/ocs-geants" xmltv_id="[SFR] OCS Géants">[SFR] OCS Géants</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505157/cine-premier" xmltv_id="[SFR] Ciné+ Premier">[SFR] Ciné+ Premier</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505249/cine-frisson" xmltv_id="[SFR] Ciné+ Frisson">[SFR] Ciné+ Frisson</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505248/cine-emotion" xmltv_id="[SFR] Ciné+ Emotion">[SFR] Ciné+ Emotion</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505749/cine-famiz" xmltv_id="[SFR] Ciné+ Famiz">[SFR] Ciné+ Famiz</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67676776/cine-club" xmltv_id="[SFR] Ciné+ Club">[SFR] Ciné+ Club</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505252/cine-classic" xmltv_id="[SFR] Ciné+ Classic">[SFR] Ciné+ Classic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505650/canal-cinema" xmltv_id="[SFR] Canal+ Cinéma">[SFR] Canal+ Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67657573/canal-kids" xmltv_id="[SFR] Canal+ KIDS">[SFR] Canal+ KIDS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67808369/canal-series" xmltv_id="[SFR] Canal+ Séries">[SFR] Canal+ Séries</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67716978/canal-grand-ecran" xmltv_id="[SFR] Canal+ Grand Ecran">[SFR] Canal+ Grand Ecran</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67687983/canal-docs" xmltv_id="[SFR] Canal+ DOCS">[SFR] Canal+ DOCS</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|70806582/paramount-channel" xmltv_id="[SFR] Paramount Channel">[SFR] Paramount Channel</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495550/tcm-cinema" xmltv_id="[SFR] TCM Cinéma">[SFR] TCM Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485451/action" xmltv_id="[SFR] Action">[SFR] Action</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|70807976/polar" xmltv_id="[SFR] Polar+">[SFR] Polar+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495448/ushuaia-tv" xmltv_id="[SFR] Ushuaïa TV">[SFR] Ushuaïa TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495052/trek" xmltv_id="[SFR] Trek">[SFR] Trek</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|67826873/crime-district" xmltv_id="[SFR] Crime District">[SFR] Crime District</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485557/histoire-tv" xmltv_id="[SFR] Histoire TV">[SFR] Histoire TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82505353/toute-lhistoire" xmltv_id="[SFR] Toute l'Histoire">[SFR] Toute l'Histoire</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495253/kto" xmltv_id="[SFR] KTO">[SFR] KTO</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485657/animaux" xmltv_id="[SFR] Animaux">[SFR] Animaux</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82495055/chasse-peche" xmltv_id="[SFR] Chasse &amp; Pêche">[SFR] Chasse &amp; Pêche</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495248/science-et-vie" xmltv_id="[SFR] Science et vie">[SFR] Science et vie</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|77858470/mens-up-tv" xmltv_id="[SFR] Men's UP TV">[SFR] Men's UP TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495348/myzen-tv" xmltv_id="[SFR] Myzen TV">[SFR] Myzen TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485049/planete" xmltv_id="[SFR] Planète+">[SFR] Planète+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82525254/planete-crime" xmltv_id="[SFR] Planète+ Crime">[SFR] Planète+ Crime</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495352/planete-aventure" xmltv_id="[SFR] Planète+ Aventure">[SFR] Planète+ Aventure</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495349/national-geographic" xmltv_id="[SFR] National Geographic">[SFR] National Geographic</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495350/national-geographic-wild" xmltv_id="[SFR] National Geographic Wild">[SFR] National Geographic Wild</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|82485650/seasons" xmltv_id="[SFR] Seasons">[SFR] Seasons</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|78677478/nickelodeon-junior" xmltv_id="[SFR] Nickelodéon Junior">[SFR] Nickelodéon Junior</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-4|##|83495150/boomerang" xmltv_id="[SFR] Boomerang">[SFR] Boomerang</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|847049/tf-1" xmltv_id="[TNT] TF 1">[TNT] TF 1</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|657850/france-2" xmltv_id="[TNT] France 2">[TNT] France 2</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|708251/france-3" xmltv_id="[TNT] France 3">[TNT] France 3</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82484954/canal" xmltv_id="[TNT] Canal+">[TNT] Canal+</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82515355/france-5" xmltv_id="[TNT] France 5">[TNT] France 5</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|779554/m6" xmltv_id="[TNT] M6">[TNT] M6</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82484952/arte" xmltv_id="[TNT] Arte">[TNT] Arte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82514957/c8" xmltv_id="[TNT] C8">[TNT] C8</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82515050/w9" xmltv_id="[TNT] W9">[TNT] W9</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82485548/tmc" xmltv_id="[TNT] TMC">[TNT] TMC</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82514956/tfx" xmltv_id="[TNT] TFX">[TNT] TFX</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82515048/nrj-12" xmltv_id="[TNT] NRJ 12">[TNT] NRJ 12</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82514953/lcp" xmltv_id="[TNT] LCP">[TNT] LCP</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82515049/france-4" xmltv_id="[TNT] France 4">[TNT] France 4</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|83495148/bfm-tv" xmltv_id="[TNT] BFM TV">[TNT] BFM TV</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|83495251/cnews" xmltv_id="[TNT] CNews">[TNT] CNews</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|83495155/cstar" xmltv_id="[TNT] CSTAR">[TNT] CSTAR</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|76515449/gulli" xmltv_id="[TNT] Gulli">[TNT] Gulli</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|72684970/tf1-series-films" xmltv_id="[TNT] TF1 Séries Films">[TNT] TF1 Séries Films</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|76698180/lequipe" xmltv_id="[TNT] L'Équipe">[TNT] L'Équipe</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|54846982/6ter" xmltv_id="[TNT] 6ter">[TNT] 6ter</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|78825051/rmc-story" xmltv_id="[TNT] RMC Story">[TNT] RMC Story</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82776768/rmc-decouverte" xmltv_id="[TNT] RMC Découverte">[TNT] RMC Découverte</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|67726982/cherie-25" xmltv_id="[TNT] Chérie 25">[TNT] Chérie 25</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82495353/lci" xmltv_id="[TNT] LCI">[TNT] LCI</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|70827378/franceinfo" xmltv_id="[TNT] Franceinfo">[TNT] Franceinfo</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82485050/paris-premiere" xmltv_id="[TNT] Paris Première">[TNT] Paris Première</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82505652/canal-sport" xmltv_id="[TNT] Canal+ Sport">[TNT] Canal+ Sport</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82505650/canal-cinema" xmltv_id="[TNT] Canal+ Cinéma">[TNT] Canal+ Cinéma</channel>
+    <channel site="[ENC][EX]tvcesoir.fr_0" site_id="-1|##|82485049/planete" xmltv_id="[TNT] Planète+">[TNT] Planète+</channel>
+  </channels>
+</site>
