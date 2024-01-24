@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]directv.com_1">
+  <channels>
+    <channel site="[ENC]directv.com_1" site_id="6339cee3-8845-4d74-96b6-147eaafe8fb6" xmltv_id="NBA League Pass 748">NBA League Pass 748</channel>
+    <channel site="[ENC]directv.com_1" site_id="c6dc4d77-8cc4-4de1-9b69-8b27577c49c2" xmltv_id="5StarMAX HD">5StarMAX HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e3c2e362-a1d2-4cac-b14c-500abae391e4" xmltv_id="88 Films">88 Films</channel>
+    <channel site="[ENC]directv.com_1" site_id="f85473e2-cf24-4831-905c-3b2ca04b2f32" xmltv_id="88 TV">88 TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e1ae46f-40ab-44ee-b20e-d4508363a65e" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd1d9255-2292-45eb-9700-bb6b338e8649" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel site="[ENC]directv.com_1" site_id="9dffdf10-1e03-437c-870b-78f6bf7730d8" xmltv_id="A3 New York 07 WABC ABC">A3 New York 07 WABC ABC</channel>
+    <channel site="[ENC]directv.com_1" site_id="d7ef9aa1-c645-4829-868d-0c2de357e8dc" xmltv_id="ACC Network">ACC Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="4adb6040-f730-4e88-be8c-742a12943915" xmltv_id="ACC Network HD">ACC Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a368c1d1-d258-4e80-9448-b9ef3a8271c7" xmltv_id="AccuWeather HD">AccuWeather HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bf3ed883-db9f-40d0-afaa-77ca71911e24" xmltv_id="ActionMax HD">ActionMax HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="47d82811-c906-40dc-bafb-a3090ec7433b" xmltv_id="Altitude Sports">Altitude Sports</channel>
+    <channel site="[ENC]directv.com_1" site_id="1ae636b8-db56-4dc4-84fa-580443bc9bce" xmltv_id="Altitude Sports (Alternate)">Altitude Sports (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="abe39072-98ac-490b-92c7-724c21ed66ad" xmltv_id="Altitude Sports HD (Alternate)">Altitude Sports HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2723937d-fe56-4ebb-bdb2-047118a55418" xmltv_id="Altitude Sports Alternate">Altitude Sports Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="7b4405c7-5cdd-4248-a399-1859e74652ab" xmltv_id="Altitude Sports HD">Altitude Sports HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b428862c-08fc-47d1-98f4-7cc8bdbf0c31" xmltv_id="AMC HD">AMC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4b1c3363-8495-4f3d-a319-b0a9e1ab0697" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]directv.com_1" site_id="41d6d859-3dd5-406f-9fa3-1fa25de472c7" xmltv_id="AMC+ HD">AMC+ HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dcc2ae44-f2a3-4293-9f0a-f2425a7bf63e" xmltv_id="America's Value Channel">America's Value Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="273ee54c-95b7-4f29-b254-ddfac3139716" xmltv_id="America's Value Channel (85)">America's Value Channel (85)</channel>
+    <channel site="[ENC]directv.com_1" site_id="bca90090-7f85-4e55-ba11-ae184874a02d" xmltv_id="American Heroes HD">American Heroes HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a1cc44bc-a1d3-4cfc-9561-f79244ddd509" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="83adf7f3-d28a-4b4c-a710-8f207c65dbc1" xmltv_id="ANC (99R)">ANC (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2022d13f-d2c5-44bd-9e92-041d33c18c49" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="7a69165d-3a82-4674-9103-b2b30962e10e" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]directv.com_1" site_id="25cbe8bb-c628-44f0-aa9f-8668cad54fc0" xmltv_id="Antena 3">Antena 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="0e0bedcf-e82f-4e4d-9127-920715d20616" xmltv_id="Aqui">Aqui</channel>
+    <channel site="[ENC]directv.com_1" site_id="87e79461-6524-45b1-b0ef-9c01ac1e7f08" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="181271ae-0aa6-4974-83e2-c80759427ae3" xmltv_id="ASPIRE (HD)">ASPIRE (HD)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d0cfb93a-9a63-4ef4-99ed-eff6fb064214" xmltv_id="Atlanta, GA WGBP IND 66 A3 HD (virt)">Atlanta, GA WGBP IND 66 A3 HD (virt)</channel>
+    <channel site="[ENC]directv.com_1" site_id="22743767-b7a4-44e8-9090-b5a6329ccde8" xmltv_id="Atreseries">Atreseries</channel>
+    <channel site="[ENC]directv.com_1" site_id="ce81370b-d84f-4ca8-8a7d-9ce7c1da0687" xmltv_id="Atres Cine">Atres Cine</channel>
+    <channel site="[ENC]directv.com_1" site_id="7ae9a96c-cda3-42da-9851-bfb916ae4c39" xmltv_id="SportsNet Pittsburgh Alternate">SportsNet Pittsburgh Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="44483b11-87ac-4da6-a420-538a462f45e0" xmltv_id="AXS TV HD">AXS TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dc38a660-5e22-4813-8495-72b44dabedb2" xmltv_id="BabyFirst">BabyFirst</channel>
+    <channel site="[ENC]directv.com_1" site_id="e68a9f77-7585-4b8a-a365-efffe5531d25" xmltv_id="BabyTV">BabyTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="ac4489f7-ba81-450c-a58a-37125bdb2bab" xmltv_id="Bally Sports Cincinnati">Bally Sports Cincinnati</channel>
+    <channel site="[ENC]directv.com_1" site_id="79874a82-b9e7-4fa6-9951-be43e81897a4" xmltv_id="Bally Sports Cincinnati Extra">Bally Sports Cincinnati Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="91bb64ee-9d42-4c0b-b4a8-475f08b3b5e2" xmltv_id="Bally Sports Cincinnati Extra 2">Bally Sports Cincinnati Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="af29f7cb-de54-45be-9d39-23c4c58b0677" xmltv_id="Bally Sports Cincinnati Extra 2 HD">Bally Sports Cincinnati Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3ba39d33-57c6-45e6-aa43-5adad698d5aa" xmltv_id="Bally Sports Cincinnati Extra HD">Bally Sports Cincinnati Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="adb0f3e1-83e7-41f3-99f2-4cca04b70126" xmltv_id="Bally Sports Cincinnati HD">Bally Sports Cincinnati HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2d65625a-e82e-4779-8af5-f587d25176e2" xmltv_id="Bally Sports Detroit">Bally Sports Detroit</channel>
+    <channel site="[ENC]directv.com_1" site_id="55ef2341-59eb-4070-9f78-cd88e67f2677" xmltv_id="Bally Sports Detroit">Bally Sports Detroit</channel>
+    <channel site="[ENC]directv.com_1" site_id="c73d9832-c30f-4110-a22d-fcc6f6af2faf" xmltv_id="Bally Sports Detroit Extra">Bally Sports Detroit Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="09e56b5f-76d6-4868-bc27-ea2562aa649e" xmltv_id="Bally Sports Detroit Extra 2">Bally Sports Detroit Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="f9241b27-5e99-4ef9-8d0f-d6fe59277455" xmltv_id="Bally Sports Detroit Extra 2 HD">Bally Sports Detroit Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8efe96c0-d979-44e3-bea2-c6daf9ff9837" xmltv_id="Bally Sports Detroit Extra HD">Bally Sports Detroit Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6a81e0fc-9a39-4d2c-af48-d6f407d58f94" xmltv_id="Bally Sports Detroit HD">Bally Sports Detroit HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="49c576a8-2f09-408c-863e-4dfb38403b48" xmltv_id="Bally Sports Florida">Bally Sports Florida</channel>
+    <channel site="[ENC]directv.com_1" site_id="120f040a-8037-411d-97f6-4606ed4df815" xmltv_id="Bally Sports Florida">Bally Sports Florida</channel>
+    <channel site="[ENC]directv.com_1" site_id="779e9c47-b67c-465c-af1b-6e59b387f436" xmltv_id="Bally Sports Florida Extra">Bally Sports Florida Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="c0f928b6-c345-4fe8-b214-a69b640d2110" xmltv_id="Bally Sports Florida Extra 2">Bally Sports Florida Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="6d0da2a8-581f-4e7c-bc65-b8ecde538d49" xmltv_id="Bally Sports Florida Extra 2 HD">Bally Sports Florida Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5a485fbf-d90d-424e-8e76-cfe7082659bd" xmltv_id="Bally Sports Florida Extra 3">Bally Sports Florida Extra 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="cc1d1cf9-e946-4766-8bab-2cea6dd60331" xmltv_id="Bally Sports Florida Extra 3 HD">Bally Sports Florida Extra 3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5c3286c0-cf57-401a-b47e-7070f009f0de" xmltv_id="Bally Sports Florida Extra HD">Bally Sports Florida Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a83153d4-8b3b-481d-aa73-1c24f88c9c59" xmltv_id="Bally Sports Florida HD">Bally Sports Florida HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b8cb12ee-66df-400b-9131-0308cae00992" xmltv_id="Bally Sports Great Lakes">Bally Sports Great Lakes</channel>
+    <channel site="[ENC]directv.com_1" site_id="5489b178-2cfc-4922-bb44-ae9ce443195f" xmltv_id="Bally Sports Great Lakes">Bally Sports Great Lakes</channel>
+    <channel site="[ENC]directv.com_1" site_id="80e3f07d-16dd-478a-b11c-6c3e5fe1c8ce" xmltv_id="Bally Sports Great Lakes Extra">Bally Sports Great Lakes Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="f5fab9b4-4d14-4598-abbb-53c4d5cc7aad" xmltv_id="Bally Sports Great Lakes Extra HD">Bally Sports Great Lakes Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f82df400-2fb0-4d2b-8cb1-d7dad5135181" xmltv_id="Bally Sports Great Lakes HD">Bally Sports Great Lakes HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="46c91959-a087-41ce-86d9-076509300da7" xmltv_id="Bally Sports Indiana">Bally Sports Indiana</channel>
+    <channel site="[ENC]directv.com_1" site_id="8d2fa590-62a6-48e7-aaec-9365b35eafb2" xmltv_id="Bally Sports Indiana HD">Bally Sports Indiana HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a323b01c-8253-412f-a4f7-b9e24754fd5c" xmltv_id="Bally Sports Kansas City">Bally Sports Kansas City</channel>
+    <channel site="[ENC]directv.com_1" site_id="8c51a85a-1cc1-4405-88ee-aa4a78c58fab" xmltv_id="Bally Sports Kansas City HD">Bally Sports Kansas City HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2e745fef-0dd5-40dc-9efb-7fc0b7c57bfd" xmltv_id="Bally Sports Midwest">Bally Sports Midwest</channel>
+    <channel site="[ENC]directv.com_1" site_id="701cde1a-a123-48ec-aabc-f2dac654c69f" xmltv_id="Bally Sports Midwest">Bally Sports Midwest</channel>
+    <channel site="[ENC]directv.com_1" site_id="1a2259e6-94b3-49ee-8b45-18628d3f2856" xmltv_id="Bally Sports Midwest Extra">Bally Sports Midwest Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="6b9fb3b1-7806-4485-ae25-bd259705138c" xmltv_id="Bally Sports Midwest Extra 2">Bally Sports Midwest Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="cde42c09-7d8b-47b0-9aa0-976715935e5a" xmltv_id="Bally Sports Midwest Extra 2 HD">Bally Sports Midwest Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f37b1915-db1f-4621-9282-23674a5cfa06" xmltv_id="Bally Sports Midwest Extra 3">Bally Sports Midwest Extra 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="b92cc904-1a2e-42d1-8b9a-bbb10eff5d7d" xmltv_id="Bally Sports Midwest Extra HD">Bally Sports Midwest Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="49ac4ef4-7d37-47a5-8b7a-2aa5f101d508" xmltv_id="Bally Sports Midwest HD">Bally Sports Midwest HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dff2b2cf-b149-4963-842e-aefe5117dadd" xmltv_id="Bally Sports New Orleans">Bally Sports New Orleans</channel>
+    <channel site="[ENC]directv.com_1" site_id="780eaa10-ec69-49ba-9195-939a62dfd2bd" xmltv_id="Bally Sports New Orleans HD">Bally Sports New Orleans HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c22906bf-8bfc-4333-87ba-6f4f2f94f3d6" xmltv_id="Bally Sports North">Bally Sports North</channel>
+    <channel site="[ENC]directv.com_1" site_id="33bdaae8-a265-4cfc-9fdd-f4aad69cdc14" xmltv_id="Bally Sports North">Bally Sports North</channel>
+    <channel site="[ENC]directv.com_1" site_id="f507e094-1b10-4809-94a0-9184c7b18968" xmltv_id="Bally Sports North Extra">Bally Sports North Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e17aeb8-f11b-42cf-bbec-ad0395d0be4e" xmltv_id="Bally Sports North Extra 2">Bally Sports North Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="1a4a07ae-d5b0-4076-bff6-69d01a3ea3eb" xmltv_id="Bally Sports North Extra 2 HD">Bally Sports North Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5136d67e-6ba6-4a3b-a33e-b983a1995a09" xmltv_id="Bally Sports North Extra HD">Bally Sports North Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="edc70feb-4fce-48cc-95f2-b9c6f3c87c1f" xmltv_id="Bally Sports North HD">Bally Sports North HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5c8740f1-c238-4dd6-8426-261ff9975673" xmltv_id="Bally Sports Ohio">Bally Sports Ohio</channel>
+    <channel site="[ENC]directv.com_1" site_id="6fe192ff-8493-4eb6-ad04-9552e60b7886" xmltv_id="Bally Sports Ohio">Bally Sports Ohio</channel>
+    <channel site="[ENC]directv.com_1" site_id="5d2fe1b9-bf27-48a3-b4aa-66af51c8d741" xmltv_id="Bally Sports Ohio Extra">Bally Sports Ohio Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="7e9612f3-dcae-4e4a-8960-3c9078acf7bf" xmltv_id="Bally Sports Ohio Extra HD">Bally Sports Ohio Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d2526e64-69bd-49e6-a71b-ded130bc65b3" xmltv_id="Bally Sports Ohio HD">Bally Sports Ohio HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="7edeb031-12d0-4424-ab82-5d9b5aef89da" xmltv_id="Bally Sports Oklahoma">Bally Sports Oklahoma</channel>
+    <channel site="[ENC]directv.com_1" site_id="b6cbbea9-322b-4f34-b592-f38601574c0b" xmltv_id="Bally Sports Oklahoma">Bally Sports Oklahoma</channel>
+    <channel site="[ENC]directv.com_1" site_id="6b6b735e-1b94-44a8-a9fe-5b4c040bd815" xmltv_id="Bally Sports Oklahoma">Bally Sports Oklahoma</channel>
+    <channel site="[ENC]directv.com_1" site_id="970e0bb2-db17-4fa8-8911-8f6000e97f31" xmltv_id="Bally Sports Oklahoma Extra">Bally Sports Oklahoma Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="30bba476-5f7d-4a6f-bac6-4faa511759b2" xmltv_id="Bally Sports Oklahoma Extra">Bally Sports Oklahoma Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="8dbe8bf9-5f7b-4802-a7fd-a8da35a96a76" xmltv_id="Bally Sports Oklahoma HD">Bally Sports Oklahoma HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6512c657-b23d-48b3-a134-5428cdcd3bc1" xmltv_id="Bally Sports San Diego">Bally Sports San Diego</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd975114-c32e-4a57-9ba8-fc48a1aea15f" xmltv_id="Bally Sports San Diego">Bally Sports San Diego</channel>
+    <channel site="[ENC]directv.com_1" site_id="7b9d1017-0710-467e-bf02-dacd163d5ec3" xmltv_id="Bally Sports San Diego HD">Bally Sports San Diego HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="396ae17b-a534-45af-9168-ee53aee88397" xmltv_id="Bally Sports SoCal">Bally Sports SoCal</channel>
+    <channel site="[ENC]directv.com_1" site_id="23aea6b5-14d0-478f-84cd-a4628797c34d" xmltv_id="Bally Sports SoCal">Bally Sports SoCal</channel>
+    <channel site="[ENC]directv.com_1" site_id="f5a48101-27b0-4753-89c4-4a88eb76121f" xmltv_id="Bally Sports SoCal Extra">Bally Sports SoCal Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="68272e58-68bf-458e-898c-6d787880acec" xmltv_id="Bally Sports SoCal Extra HD">Bally Sports SoCal Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e75b2f0-0211-47ff-8977-716a8bcfde07" xmltv_id="Bally Sports SoCal HD">Bally Sports SoCal HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="990b73eb-dd88-4596-b7b9-6fdd65e67a17" xmltv_id="Bally Sports South">Bally Sports South</channel>
+    <channel site="[ENC]directv.com_1" site_id="906e8e85-ec67-47e4-8678-3244aca1953a" xmltv_id="Bally Sports South">Bally Sports South</channel>
+    <channel site="[ENC]directv.com_1" site_id="2abd6b5d-69d1-47fd-87f3-cd2711e93642" xmltv_id="Bally Sports South Extra">Bally Sports South Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="09e8cc91-2e75-4ef6-af78-c78f73e95140" xmltv_id="Bally Sports South Extra 2">Bally Sports South Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="0e3fb1f0-2a22-4edb-bf3c-2a819f3791ab" xmltv_id="Bally Sports South Extra 2 HD">Bally Sports South Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="36023c22-fea0-4d16-815d-5414b051895c" xmltv_id="Bally Sports South Extra 3">Bally Sports South Extra 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="355dcba6-f214-40a8-a5db-34dc004ad94c" xmltv_id="Bally Sports South Extra 3 HD">Bally Sports South Extra 3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="75f456ca-8194-449c-b7ef-a8abc28944ce" xmltv_id="Bally Sports South Extra 4">Bally Sports South Extra 4</channel>
+    <channel site="[ENC]directv.com_1" site_id="c35a59f3-8782-4150-b7c7-bb55f229661c" xmltv_id="Bally Sports South Extra 4 HD">Bally Sports South Extra 4 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fe1ce2c3-7efe-4016-b6ac-279d452b88eb" xmltv_id="Bally Sports South Extra 5">Bally Sports South Extra 5</channel>
+    <channel site="[ENC]directv.com_1" site_id="a0b124d2-2ded-4acb-9b38-8f246c8a1687" xmltv_id="Bally Sports South Extra 5 HD">Bally Sports South Extra 5 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ea1316b4-c3f7-42b9-82e6-de01713a882e" xmltv_id="Bally Sports South Extra HD">Bally Sports South Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a043ae0a-2cdc-4162-b8d3-40d7a392b7e7" xmltv_id="Bally Sports South HD">Bally Sports South HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b782b702-16b6-45d6-bfba-5f7bfb547cad" xmltv_id="Bally Sports Southeast">Bally Sports Southeast</channel>
+    <channel site="[ENC]directv.com_1" site_id="d6fc6af9-708f-4adb-9595-4617038d269b" xmltv_id="Bally Sports Southeast">Bally Sports Southeast</channel>
+    <channel site="[ENC]directv.com_1" site_id="12f74699-d54d-4893-8de3-a521416894a0" xmltv_id="Bally Sports Southeast Extra">Bally Sports Southeast Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="afef8595-aca3-4411-8fc6-75d12a423033" xmltv_id="Bally Sports Southeast Extra 2">Bally Sports Southeast Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="c97395d5-cfa9-48dd-927c-6abb4fc17596" xmltv_id="Bally Sports Southeast Extra 2 HD">Bally Sports Southeast Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fad35f0f-d0af-4725-b963-e5d226674f12" xmltv_id="Bally Sports Southeast Extra 3">Bally Sports Southeast Extra 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="c631d164-d3ec-4665-a81b-9bac2ad5ead0" xmltv_id="Bally Sports Southeast Extra 3 HD">Bally Sports Southeast Extra 3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4f05299d-ba2a-43dc-bc5e-a784ca77ac5b" xmltv_id="Bally Sports Southeast Extra HD">Bally Sports Southeast Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3d242837-d8ba-4a80-9b17-b4f43bb00db4" xmltv_id="Bally Sports Southeast HD">Bally Sports Southeast HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="33e40a74-4f60-4496-95a5-863ed29fe282" xmltv_id="Bally Sports Southwest">Bally Sports Southwest</channel>
+    <channel site="[ENC]directv.com_1" site_id="b5904e5d-60a9-4d6a-ae11-67fc6899071a" xmltv_id="Bally Sports Southwest">Bally Sports Southwest</channel>
+    <channel site="[ENC]directv.com_1" site_id="66d54b92-6c6c-4372-85c9-5020849b7b76" xmltv_id="Bally Sports Southwest Extra">Bally Sports Southwest Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="a51c8a14-77d6-4891-8a08-151bd1d72789" xmltv_id="Bally Sports Southwest Extra 2">Bally Sports Southwest Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="6c1e20e9-95d4-4ae5-af44-79e3cd67f85f" xmltv_id="Bally Sports Southwest Extra 2 HD">Bally Sports Southwest Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="67abce1e-281f-4c00-aa8f-f950b57902ce" xmltv_id="Bally Sports Southwest Extra 3">Bally Sports Southwest Extra 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="4217c3d7-3495-46c3-9830-7f29dbd86cbb" xmltv_id="Bally Sports Southwest Extra 3 HD">Bally Sports Southwest Extra 3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bc5cec91-a2b2-4034-b354-0e2472e9d53c" xmltv_id="Bally Sports Southwest Extra 4">Bally Sports Southwest Extra 4</channel>
+    <channel site="[ENC]directv.com_1" site_id="3b43f5a9-bd94-4757-896c-b059c140ed1d" xmltv_id="Bally Sports Southwest Extra 4 HD">Bally Sports Southwest Extra 4 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="110b054b-2e51-4483-9180-c5fcb7420464" xmltv_id="Bally Sports Southwest Extra 5">Bally Sports Southwest Extra 5</channel>
+    <channel site="[ENC]directv.com_1" site_id="9f02d706-bce0-4ca6-810c-835db563ff55" xmltv_id="Bally Sports Southwest Extra 5 HD">Bally Sports Southwest Extra 5 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="44b9e1c7-9a63-4bb1-a77e-07fe4c8c7781" xmltv_id="Bally Sports Southwest Extra HD">Bally Sports Southwest Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="70ba6bf3-5c0f-4d1c-a5fd-5bfaa9c9cef7" xmltv_id="Bally Sports Southwest HD">Bally Sports Southwest HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="db75789c-591a-48de-9b06-651fd4ba5b50" xmltv_id="Bally Sports Sun">Bally Sports Sun</channel>
+    <channel site="[ENC]directv.com_1" site_id="f8156dfa-cb26-4730-80ce-f08b4fc08022" xmltv_id="Bally Sports Sun">Bally Sports Sun</channel>
+    <channel site="[ENC]directv.com_1" site_id="f9956fde-522c-4fe5-ab00-1ab6eb2a762c" xmltv_id="Bally Sports Sun Extra">Bally Sports Sun Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd92c40b-f39a-48c0-bf7b-470910f41bb1" xmltv_id="Bally Sports Sun Extra 2">Bally Sports Sun Extra 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="cc3e12b8-4e03-4ad9-b14f-33848091a0e0" xmltv_id="Bally Sports Sun Extra 2 HD">Bally Sports Sun Extra 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="25c7127e-c63d-459c-950a-a699164657cf" xmltv_id="Bally Sports Sun Extra HD">Bally Sports Sun Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ac746804-7046-443e-bdb4-2fa16b08d7a7" xmltv_id="Bally Sports Sun HD">Bally Sports Sun HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dba7f476-f332-4669-bf65-3d7a2cc7568e" xmltv_id="Bally Sports West">Bally Sports West</channel>
+    <channel site="[ENC]directv.com_1" site_id="870d3551-2665-4c21-95fd-bfd86fb46816" xmltv_id="Bally Sports West">Bally Sports West</channel>
+    <channel site="[ENC]directv.com_1" site_id="fa85727a-a231-422e-b11e-196b6f0c8a0f" xmltv_id="Bally Sports West Extra">Bally Sports West Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="c9057d4e-7000-4b13-946e-775744d0a716" xmltv_id="Bally Sports West Extra HD">Bally Sports West Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bee9bd3a-6782-47fc-9527-bdcc25b2d010" xmltv_id="Bally Sports West HD">Bally Sports West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ccc05f72-9f42-4cd9-8d17-78242eb51ea9" xmltv_id="Bally Sports Wisconsin">Bally Sports Wisconsin</channel>
+    <channel site="[ENC]directv.com_1" site_id="69b8913d-314c-4611-9427-c67ae6d58561" xmltv_id="Bally Sports Wisconsin">Bally Sports Wisconsin</channel>
+    <channel site="[ENC]directv.com_1" site_id="48443959-2560-4d6a-92b3-4fa9dc17ae80" xmltv_id="Bally Sports Wisconsin Extra">Bally Sports Wisconsin Extra</channel>
+    <channel site="[ENC]directv.com_1" site_id="f3a8b828-2163-4f15-b957-432262fcae3c" xmltv_id="Bally Sports Wisconsin Extra HD">Bally Sports Wisconsin Extra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fa399648-0193-4506-9842-d1dbfaa1fdc1" xmltv_id="Bally Sports Wisconsin HD">Bally Sports Wisconsin HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b5a2d87e-46e6-4c8a-9d06-953bd102c1b7" xmltv_id="Bandamax (103A)">Bandamax (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="e6daa895-a3e0-4584-bcf5-a639ef703013" xmltv_id="BBC America">BBC America</channel>
+    <channel site="[ENC]directv.com_1" site_id="f0651d6c-09c5-46a9-a168-cfc86e01cdc7" xmltv_id="BBC America HD">BBC America HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="38fa4074-8901-45d1-be15-2fcaf7e54f24" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC]directv.com_1" site_id="5b6a428b-4ebe-4b26-a83b-4568dd34dead" xmltv_id="BEST Channel 268">BEST Channel 268</channel>
+    <channel site="[ENC]directv.com_1" site_id="17c6d420-7a71-4d3b-a9df-25fa0032b7b5" xmltv_id="BEST Channel 88">BEST Channel 88</channel>
+    <channel site="[ENC]directv.com_1" site_id="17e01f38-d5e2-4d4b-89c6-5f36d76224cf" xmltv_id="BET">BET</channel>
+    <channel site="[ENC]directv.com_1" site_id="a8a891ae-7b6c-4195-9863-fc261d5a0d77" xmltv_id="BET Her">BET Her</channel>
+    <channel site="[ENC]directv.com_1" site_id="89c5c432-4596-47ef-a801-1b0308ba6994" xmltv_id="BET HD">BET HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4acb50cc-b347-45c1-941c-50d65fb25271" xmltv_id="BET West HD">BET West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9a1380bd-3201-4fdd-a46e-c71a0453c87a" xmltv_id="BTN HD">BTN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e868d507-c1c5-4a98-8251-9638991a692d" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="9d556827-6bb0-4e70-b843-1ae390321e74" xmltv_id="Bloomberg TV HD">Bloomberg TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bbd2a770-7534-44ff-b260-9a502d886ad1" xmltv_id="Blossom">Blossom</channel>
+    <channel site="[ENC]directv.com_1" site_id="efabe7f5-d961-4434-b4a6-339d13b7c4e9" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]directv.com_1" site_id="82539a74-53de-49ba-bcb4-1a43775803f9" xmltv_id="BounceTV">BounceTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="3f31ce5a-dac9-4ada-acb3-b9016c4c2bb5" xmltv_id="Bravo">Bravo</channel>
+    <channel site="[ENC]directv.com_1" site_id="83249ad9-5836-4d16-a5f7-9cc2a42032c9" xmltv_id="Bravo HD">Bravo HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dd2088cf-9555-45bc-914b-5ed4d4c7bb88" xmltv_id="BTN">BTN</channel>
+    <channel site="[ENC]directv.com_1" site_id="4bfae50c-9f91-4613-8847-02181340006f" xmltv_id="BYUtv">BYUtv</channel>
+    <channel site="[ENC]directv.com_1" site_id="6bb55705-16e0-416a-bdde-8617d4f91bc6" xmltv_id="CSPAN">CSPAN</channel>
+    <channel site="[ENC]directv.com_1" site_id="fdb542e6-fbea-4c9d-875b-2252c1623023" xmltv_id="CSPAN 2">CSPAN 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="acc6bdcb-309c-4878-b43e-7645b6b44349" xmltv_id="Canal 22 Internacional">Canal 22 Internacional</channel>
+    <channel site="[ENC]directv.com_1" site_id="687be8f3-8dfe-4dfa-809d-6fe59d52c65b" xmltv_id="Caracol TV">Caracol TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="544994e6-90f7-4d23-a475-7261ef9e0f03" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="b58935e4-74c0-4d19-aa0c-d0557d716f2b" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2c8f5f1d-ca3e-44a3-80ee-a30bf8060aa2" xmltv_id="Cartoon Network West">Cartoon Network West</channel>
+    <channel site="[ENC]directv.com_1" site_id="df1ed548-0058-4b36-ab79-a544e5f5be71" xmltv_id="CBO (99R)">CBO (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2945210e-6289-4402-be3a-6704b027ec50" xmltv_id="CBS Sports Network HD">CBS Sports Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bacabf02-88d4-489a-bd0a-a356730aeed0" xmltv_id="CBS Sports Network">CBS Sports Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="50e4be08-7078-44c8-90ed-f4608a6aa7cf" xmltv_id="A3 New York 02 WCBS CBS">A3 New York 02 WCBS CBS</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e84579f-f790-459e-813a-5920822f76ce" xmltv_id="CCTV-4 2113">CCTV-4 2113</channel>
+    <channel site="[ENC]directv.com_1" site_id="f2c60f88-a637-4a5f-9187-5101127ac793" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="[ENC]directv.com_1" site_id="d76ced91-2313-4534-8784-d08a6d9bcb6d" xmltv_id="Celebrity Shopping TV">Celebrity Shopping TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="f531a84b-8e53-4f3e-8ccc-fa5d459cb3a4" xmltv_id="Celebrity Shopping TV 95">Celebrity Shopping TV 95</channel>
+    <channel site="[ENC]directv.com_1" site_id="83788be3-54b2-4e29-baf1-3b48a3b5f0e2" xmltv_id="Centroamerica TV (103A)">Centroamerica TV (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="a3dd9246-76b4-4ad4-92ea-e283e10867a5" xmltv_id="CGTN 2053 (99R)">CGTN 2053 (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="32c1d8b7-80de-4c1a-9a57-46802a0e9ed6" xmltv_id="CGTN 2119">CGTN 2119</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1b3b680-e847-4d94-ad77-89df2092c7ec" xmltv_id="Channel NECO International">Channel NECO International</channel>
+    <channel site="[ENC]directv.com_1" site_id="58c3ba50-76a8-4fa3-88b7-f87e2d57bc72" xmltv_id="Charming China 2055">Charming China 2055</channel>
+    <channel site="[ENC]directv.com_1" site_id="a0fd6593-9d0a-4800-b4fe-ab9841a1e63f" xmltv_id="Charming China 2116">Charming China 2116</channel>
+    <channel site="[ENC]directv.com_1" site_id="95622e62-7b62-4eea-bf32-691abc764c77" xmltv_id="Cheddar News">Cheddar News</channel>
+    <channel site="[ENC]directv.com_1" site_id="4e98afac-fd4c-4904-9e57-164118cb09e6" xmltv_id="Christian Television Net">Christian Television Net</channel>
+    <channel site="[ENC]directv.com_1" site_id="bd54e604-74c0-4b4a-99d6-29e533a3372b" xmltv_id="Cine Estelar">Cine Estelar</channel>
+    <channel site="[ENC]directv.com_1" site_id="68468e32-5d35-4998-890f-481e574e243e" xmltv_id="Cinelatino">Cinelatino</channel>
+    <channel site="[ENC]directv.com_1" site_id="68f91c91-2e0b-4eec-817b-fe362a6f9ede" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
+    <channel site="[ENC]directv.com_1" site_id="927649ff-4390-4c19-b8ba-c6331371d013" xmltv_id="Cinema One Global">Cinema One Global</channel>
+    <channel site="[ENC]directv.com_1" site_id="7f5fa93b-9dfa-463d-94e0-5b515138682d" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]directv.com_1" site_id="577da2f8-1c59-4297-8956-c24d30b1d967" xmltv_id="Cinemax East HD">Cinemax East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6a2752b0-1ce4-494f-9788-7931e8222025" xmltv_id="MAX Latino HD">MAX Latino HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2b7762fc-4740-49fd-be4e-c144528d9b1b" xmltv_id="Cinemax West">Cinemax West</channel>
+    <channel site="[ENC]directv.com_1" site_id="0e9a6483-c7e1-4cb1-9e51-dda1ead5b966" xmltv_id="Cinemax West HD">Cinemax West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dca12473-3206-473c-a35e-3c96f4d37ff4" xmltv_id="Cine Nostalgia">Cine Nostalgia</channel>
+    <channel site="[ENC]directv.com_1" site_id="d3349098-3608-45d6-8efb-24ebae2be28c" xmltv_id="Cleo TV">Cleo TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="dcb531c5-fe52-426f-a160-f03068225351" xmltv_id="CMT">CMT</channel>
+    <channel site="[ENC]directv.com_1" site_id="c1a35106-2d20-4b58-bcfe-906cdb19197d" xmltv_id="CMT HD">CMT HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="96d103cb-6037-4c2d-a4c0-821d1992b3d7" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]directv.com_1" site_id="cbc01bc2-bd52-4380-8b7e-f991a03b65f1" xmltv_id="CNBC World">CNBC World</channel>
+    <channel site="[ENC]directv.com_1" site_id="c3cfa12b-f991-4ace-9438-62ace1ac535a" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ed9bff75-8aad-433e-9b94-34d9f80aa777" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]directv.com_1" site_id="519a0379-3e00-4a61-8581-56f5bf7488a2" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a5c240be-3eea-4446-9aa9-7acfeb94d765" xmltv_id="CNN en Espanol (103A)">CNN en Espanol (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7f7c3e96-628e-43df-bb90-7307f3878140" xmltv_id="CNNi">CNNi</channel>
+    <channel site="[ENC]directv.com_1" site_id="6bc2e297-8940-4561-9071-994328392946" xmltv_id="Comedy TV HD">Comedy TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4b524e42-aee7-448b-968a-a05f83bebe49" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]directv.com_1" site_id="5070bc2e-dd69-4dee-98b4-a4c5e3b1fd7b" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6aec9a4e-7824-4869-b75f-fb1c648d207e" xmltv_id="Comedy Central West HD">Comedy Central West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f207fc01-1206-405c-982a-6bdfb9bd4fe3" xmltv_id="Commercial Special Events 574">Commercial Special Events 574</channel>
+    <channel site="[ENC]directv.com_1" site_id="94cb65bc-f81e-4840-be7a-7e5af654678d" xmltv_id="Cooking Channel">Cooking Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="9d882605-20d3-4ff3-b6e1-03139d4f1e11" xmltv_id="Cooking Channel HD">Cooking Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5730892a-4401-48a3-a03e-d82880fd8795" xmltv_id="COOL Network 203">COOL Network 203</channel>
+    <channel site="[ENC]directv.com_1" site_id="2f5860df-d97c-499e-838f-027471ebb3bf" xmltv_id="COOL Network 78">COOL Network 78</channel>
+    <channel site="[ENC]directv.com_1" site_id="8f4c4f53-92ad-4430-9d67-fe21808384af" xmltv_id="Cowboy Channel">Cowboy Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="c725c691-7980-4353-8580-c261fb6900b8" xmltv_id="COZI TV">COZI TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="4e1a55e5-c4ec-4f63-8981-0f6cd6a84ae2" xmltv_id="CRAVE">CRAVE</channel>
+    <channel site="[ENC]directv.com_1" site_id="42e2134f-53c3-41fa-9f6c-049de7e7cb76" xmltv_id="CRAVE (92)">CRAVE (92)</channel>
+    <channel site="[ENC]directv.com_1" site_id="000a4fef-16ba-4a86-8a45-ca4ac4d30684" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a2768a5c-52f8-4d85-9851-7094fada59ee" xmltv_id="CTI TV (99R)">CTI TV (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d72363ce-f342-4523-843f-01b4e3a72aab" xmltv_id="CTI Zhong Tian">CTI Zhong Tian</channel>
+    <channel site="[ENC]directv.com_1" site_id="c208b92c-37a4-45c8-8c94-0b7abf6811cb" xmltv_id="CTS">CTS</channel>
+    <channel site="[ENC]directv.com_1" site_id="4f335f08-d319-4199-89ea-6a58a77ef803" xmltv_id="CW Plus">CW Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="5972cb2f-63d7-47fb-bec3-e1f956f15ceb" xmltv_id="Daystar HD">Daystar HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5be62e9b-3bac-43a5-9115-85dd0dc929a4" xmltv_id="Daystar Espanol">Daystar Espanol</channel>
+    <channel site="[ENC]directv.com_1" site_id="0f3f4392-e832-4653-b202-e72ecec89995" xmltv_id="DEALS">DEALS</channel>
+    <channel site="[ENC]directv.com_1" site_id="a89729e1-5207-4a33-9cdd-e4182b0ce1f4" xmltv_id="De Pelicula Clasico (103A)">De Pelicula Clasico (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="245dfb72-b8f8-42d8-b78e-ed03904821fb" xmltv_id="De Pelicula (103A)">De Pelicula (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="6903683f-175f-4289-bec6-1de345090173" xmltv_id="Destination America HD">Destination America HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="617c60e0-eee2-4788-9865-3851ec6570db" xmltv_id="Destination America">Destination America</channel>
+    <channel site="[ENC]directv.com_1" site_id="935e3fe1-7db2-4757-9cd3-17250f1b01c9" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]directv.com_1" site_id="429ccc87-fcaf-4a61-8bff-fcb4299eef8d" xmltv_id="Discovery Family Channel">Discovery Family Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="4d2c2d58-cb18-44fe-8f9b-96637b1aac60" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5372d13d-fe7d-4b4f-b1e9-b28435f3a7c7" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel site="[ENC]directv.com_1" site_id="300563d0-a917-4813-be4e-1a800bd5331d" xmltv_id="Discovery Family Channel HD">Discovery Family Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1d69d262-270e-410e-93f8-fc30f16dce87" xmltv_id="Discovery en Espanol">Discovery en Espanol</channel>
+    <channel site="[ENC]directv.com_1" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" xmltv_id="Discovery Familia (103A)">Discovery Familia (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d2fa44ae-2225-45f7-bad8-25dce913ecf4" xmltv_id="Disney Channel (East)">Disney Channel (East)</channel>
+    <channel site="[ENC]directv.com_1" site_id="e0811c53-5460-4731-a8dd-1e3e3543a4c1" xmltv_id="Disney Channel (West)">Disney Channel (West)</channel>
+    <channel site="[ENC]directv.com_1" site_id="8ef7ede4-94b2-44c3-bced-ecf138fe1c9b" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9e23d3ae-2671-4f37-bae2-476220f2db6c" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]directv.com_1" site_id="b49573ad-cf93-4c89-81dd-c06ce57822f2" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c424f16f-aadd-414f-a9ba-c40e6a634977" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b7c1fb6b-0eb7-4fa9-b7e0-1005f699fbb6" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fc656ac0-652b-42f4-ae42-fade3a74b8f5" xmltv_id="Dog TV">Dog TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="90665c8d-e2e0-49aa-9582-93f9fe7b2571" xmltv_id="DZMM (99R)">DZMM (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="1538b39f-3303-44d0-a98f-dbfb77ce13df" xmltv_id="E!">E!</channel>
+    <channel site="[ENC]directv.com_1" site_id="b587c1f5-49ec-4006-b806-9073e5f53d50" xmltv_id="E! HD">E! HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a8ed3781-bab6-4379-b811-5c4a8182c7b5" xmltv_id="EarthxTV">EarthxTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="213a1ba4-67ac-479c-bd29-b9437239410b" xmltv_id="EBS (99R)">EBS (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7cd54ce7-987c-46dc-a4fe-f0a96b7aff58" xmltv_id="TC Internacional">TC Internacional</channel>
+    <channel site="[ENC]directv.com_1" site_id="7748f087-fb64-4851-b62a-d72e37bbd7f1" xmltv_id="Ecuavisa Internacional (103A)">Ecuavisa Internacional (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="1043de21-ff86-4496-907c-ae5d31595923" xmltv_id="Enlace">Enlace</channel>
+    <channel site="[ENC]directv.com_1" site_id="1853c168-521f-424e-a070-49a60aae018c" xmltv_id="ESNE PIO">ESNE PIO</channel>
+    <channel site="[ENC]directv.com_1" site_id="2c66bc77-c723-46fb-a602-50730b111b39" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC]directv.com_1" site_id="841df9a6-60ed-4616-b8f3-707b1f5f5972" xmltv_id="ESPN Deportes (103A)">ESPN Deportes (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1f76753-8507-4df5-bdeb-77ce20690d9d" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5a24a595-c58b-4144-9a95-928f1c648d91" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC]directv.com_1" site_id="fa09c7bf-b0bd-4976-9bab-c7e2c5021ade" xmltv_id="ESPN2 HD">ESPN2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2ec64545-91c5-4f3a-9934-d9633962fe3b" xmltv_id="ESPN Deportes HD">ESPN Deportes HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c7385ebe-0068-4c7a-8c84-2146862d2694" xmltv_id="ESPNews HD">ESPNews HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="7eedc616-4a44-41c5-a42a-1270266bb9c4" xmltv_id="ESPNews">ESPNews</channel>
+    <channel site="[ENC]directv.com_1" site_id="d31f04b3-4d19-443d-8c23-bf3c2233937d" xmltv_id="ESPNU">ESPNU</channel>
+    <channel site="[ENC]directv.com_1" site_id="78a8f90a-df4f-4fcf-be56-df27539c5ac4" xmltv_id="ESPNU HD">ESPNU HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f7ef160c-dbba-4d72-b426-a99bf20778ce" xmltv_id="Estrella TV">Estrella TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="8ecf03e0-a6a1-44a2-bcd8-f43e55588ddd" xmltv_id="Estrella News">Estrella News</channel>
+    <channel site="[ENC]directv.com_1" site_id="c26f8f09-66fb-452a-ab90-86e90a69d599" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC]directv.com_1" site_id="d9cfd282-ed6a-4c87-9e22-de51d14e9557" xmltv_id="EWTN Espanol">EWTN Espanol</channel>
+    <channel site="[ENC]directv.com_1" site_id="927bdde6-1594-4fd6-9216-b62832020831" xmltv_id="Family Entertainment Television">Family Entertainment Television</channel>
+    <channel site="[ENC]directv.com_1" site_id="d4791ed5-5e7e-4596-bbe6-1884f80bf100" xmltv_id="Family Movie Classic">Family Movie Classic</channel>
+    <channel site="[ENC]directv.com_1" site_id="29f35d32-a695-40de-9fbb-56d5c0204822" xmltv_id="FanDuel TV HD">FanDuel TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="67729323-49fc-4587-a6fd-75e9a9e61f94" xmltv_id="Film 24H">Film 24H</channel>
+    <channel site="[ENC]directv.com_1" site_id="8c29ea39-968a-491b-8ca1-8caa98b619d4" xmltv_id="Flix">Flix</channel>
+    <channel site="[ENC]directv.com_1" site_id="3bc5e947-4d01-498c-a9d9-0e08bd42ab7f" xmltv_id="FM HD">FM HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8ee8d3ba-e481-47d7-9651-21b39b1ca140" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="b6258d16-2f69-4846-abc7-b3947eea6e2b" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="113ffc23-cef3-4ad3-85f3-7f741a1d337e" xmltv_id="FOROtv">FOROtv</channel>
+    <channel site="[ENC]directv.com_1" site_id="84df7371-69e0-49be-a058-bf2f6e8bac84" xmltv_id="Fox Business Network">Fox Business Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="d6bf4706-2005-419a-a168-bb7bc464d20f" xmltv_id="Fox Business Network HD">Fox Business Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1a7b1247-19d3-4d6e-8e6f-ba3504086d80" xmltv_id="FOX Deportes (103A)">FOX Deportes (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="772f7eca-a5ff-4072-b3d8-6a082f4586fd" xmltv_id="FOX News Channel">FOX News Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="e286a88a-9068-45ff-a81d-929b9455b557" xmltv_id="FOX News Channel HD">FOX News Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dea4e7c2-bf52-40d8-8918-ba137e608f6d" xmltv_id="FOX Soccer Plus">FOX Soccer Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="d29f3a3b-29ea-4807-9222-3e29fc8df922" xmltv_id="FOX Soccer Plus 621-1 HD">FOX Soccer Plus 621-1 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f86aec47-ea18-4de2-8f67-38384c91102a" xmltv_id="FOX Sports 1 HD">FOX Sports 1 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="454a64a1-89a7-415b-a315-c3c3ac505198" xmltv_id="FOX Sports 1">FOX Sports 1</channel>
+    <channel site="[ENC]directv.com_1" site_id="bfc46e01-73b9-4571-8357-f8298d2b2ced" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="7da4298b-c078-4dbd-9542-c3313901e5b0" xmltv_id="A3 New York 05 WNYW Fox">A3 New York 05 WNYW Fox</channel>
+    <channel site="[ENC]directv.com_1" site_id="45c68715-9c20-4897-9235-8ec996d2af97" xmltv_id="FOX Deportes HD">FOX Deportes HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e4cfd3d-56dd-4463-8f48-9620c2e6ab5d" xmltv_id="FOX Soul">FOX Soul</channel>
+    <channel site="[ENC]directv.com_1" site_id="6aeb8ae6-2f8b-48fb-a746-2f963ea8e86d" xmltv_id="Free Speech TV">Free Speech TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="4cec7218-4a47-45b9-9f4a-64c050dd9479" xmltv_id="Freeform">Freeform</channel>
+    <channel site="[ENC]directv.com_1" site_id="33ad289e-84cc-462f-bfee-26531b95d443" xmltv_id="Freeform HD">Freeform HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c710ec79-d8e0-4100-ae61-ab296cbb1fc0" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="cff1891b-b09a-4b79-9d89-28754383976e" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="97c42c68-6aca-4e70-8368-381efcb10cbf" xmltv_id="Fuse HD">Fuse HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d52ff6be-47ed-488b-bcf2-d483245671b0" xmltv_id="FX">FX</channel>
+    <channel site="[ENC]directv.com_1" site_id="af2ab375-0902-4865-acb5-61df66acca5b" xmltv_id="FX HD">FX HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="dbd1e961-c6de-41d6-8f65-485f34f28321" xmltv_id="FX Movie">FX Movie</channel>
+    <channel site="[ENC]directv.com_1" site_id="d7088b74-3db2-4672-825e-6c7cb8ff41ec" xmltv_id="FX Movie Channel HD">FX Movie Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ed015ad5-de85-4784-802e-79e812e5d5b4" xmltv_id="FXX">FXX</channel>
+    <channel site="[ENC]directv.com_1" site_id="d48f198b-6a0f-4d53-9749-222e38f8847b" xmltv_id="FXX HD">FXX HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="09460ae7-c7de-4587-b0a9-f95d741cafe2" xmltv_id="FYI">FYI</channel>
+    <channel site="[ENC]directv.com_1" site_id="6d1cd9b3-d125-4e87-a37f-0309c1459f8a" xmltv_id="FYI HD">FYI HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="187cc33f-28cc-404d-b2ab-c2b317a982f0" xmltv_id="Galavision">Galavision</channel>
+    <channel site="[ENC]directv.com_1" site_id="851e06c6-a83a-4d33-a19d-bb726a9a955f" xmltv_id="Galavision HD">Galavision HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d9507af3-62d5-4f24-b733-7fef236d6c59" xmltv_id="Game Show Network">Game Show Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="215e5905-fa49-4ccc-9138-884f6947e05d" xmltv_id="GEB America">GEB America</channel>
+    <channel site="[ENC]directv.com_1" site_id="e499c4cf-6b9b-483f-b1fa-cbd0d79a81bf" xmltv_id="GEM Shopping Network">GEM Shopping Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="af65f4b4-f0cc-4f11-b9b7-d372a4b9723e" xmltv_id="Get It Infomercial">Get It Infomercial</channel>
+    <channel site="[ENC]directv.com_1" site_id="52077ba9-daeb-433d-95f2-a64c5754734a" xmltv_id="Get IT Infomercial 85-3">Get IT Infomercial 85-3</channel>
+    <channel site="[ENC]directv.com_1" site_id="f2826647-aa15-443d-9242-a05526e580aa" xmltv_id="GET">GET</channel>
+    <channel site="[ENC]directv.com_1" site_id="031bf138-a1b9-4fc2-8c07-a59d6fc13e54" xmltv_id="TV Globo">TV Globo</channel>
+    <channel site="[ENC]directv.com_1" site_id="712f8ad2-116c-4f74-bcbc-c86a44ef287a" xmltv_id="GMA Life (99R)">GMA Life (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b6ec81ad-d1d1-451b-9651-7ca7db1cc644" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="26e16a66-c9ca-4248-9739-630412389d09" xmltv_id="Go4IT">Go4IT</channel>
+    <channel site="[ENC]directv.com_1" site_id="54039c6f-c2b7-4a78-93d9-cef292f2e997" xmltv_id="God TV">God TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="198f2a0b-7546-4986-8444-fb1a8b029e82" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="35621fc9-1d39-49c7-bdef-4c182d3d07fa" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="66dd9213-b693-4bbc-b183-f1873463c4a1" xmltv_id="GolTV">GolTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="f141d0e0-d2ae-4a99-8a95-1d01b4ba4f0c" xmltv_id="Great American Family">Great American Family</channel>
+    <channel site="[ENC]directv.com_1" site_id="7d74cbcf-0ae9-4981-b7ba-9dde99194efa" xmltv_id="Great American Family HD">Great American Family HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e70487a5-cc3f-479e-9271-882db3d66ae9" xmltv_id="GRIT">GRIT</channel>
+    <channel site="[ENC]directv.com_1" site_id="11cc055c-6f49-4c2e-b391-f96b7ac8e7d7" xmltv_id="Game Show Network HD">Game Show Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d52074e1-ce5f-4e01-99d0-781cca127fad" xmltv_id="GZTV">GZTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="af8acf8a-7195-4f03-8a19-6f59ba859129" xmltv_id="Hallmark">Hallmark</channel>
+    <channel site="[ENC]directv.com_1" site_id="cb4259f1-c227-41e7-8542-1d08a47cf49d" xmltv_id="Hallmark Channel HD">Hallmark Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ccd6fd6a-c746-44de-bbc2-05e31ecfd851" xmltv_id="Hallmark Drama HD">Hallmark Drama HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c56bfe8a-9078-4646-9b33-ba89e2efa9cb" xmltv_id="Hallmark Movies &amp; Mysteries HD">Hallmark Movies &amp; Mysteries HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4fc097f1-e123-4b41-b302-faf4e7d82118" xmltv_id="HBO HD East">HBO HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="7fe9d32a-0313-4ee6-911f-9ed6e42ee8dc" xmltv_id="HBO Family East HD">HBO Family East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="efe03e4e-1994-4716-a74d-8948f01c856e" xmltv_id="HBO Latino HD">HBO Latino HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="51cfd7f4-0f6e-4c9b-b2ec-646afb3f7d93" xmltv_id="HBO2 HD East">HBO2 HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="703c22aa-7be9-43b4-a3fb-d828479bc421" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4faa526d-e733-4bcc-9be5-d405f799c7fe" xmltv_id="HBO East">HBO East</channel>
+    <channel site="[ENC]directv.com_1" site_id="750abec1-baa8-4ad7-b190-bb4f0f82a494" xmltv_id="HBO Family East">HBO Family East</channel>
+    <channel site="[ENC]directv.com_1" site_id="f68f3f9c-4f24-40d7-a2a3-84da06b05bc2" xmltv_id="HBO Family West">HBO Family West</channel>
+    <channel site="[ENC]directv.com_1" site_id="09bc1016-83a8-47f8-8e80-1d21f136fdaa" xmltv_id="HBO Latino">HBO Latino</channel>
+    <channel site="[ENC]directv.com_1" site_id="2954a159-3d15-46c5-863e-116de74b3763" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel site="[ENC]directv.com_1" site_id="5beb41da-ff97-42af-a31f-3787ee6878b6" xmltv_id="HBO Signature HD East">HBO Signature HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="0ec985b3-ff79-4bca-8a07-09a164888201" xmltv_id="HBO West">HBO West</channel>
+    <channel site="[ENC]directv.com_1" site_id="6da0d147-0635-4fe0-a003-19c6dc089af5" xmltv_id="HBO West HD">HBO West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9cc69dee-d1f4-4f2d-a646-657b2ddbc5f7" xmltv_id="HBO Zone HD">HBO Zone HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="245d3ba9-2d23-4999-b31f-b91ad0760d2b" xmltv_id="HBO2 East">HBO2 East</channel>
+    <channel site="[ENC]directv.com_1" site_id="5f50d25a-3283-4d8d-8cfd-adb8b999c0b3" xmltv_id="HBO2 West">HBO2 West</channel>
+    <channel site="[ENC]directv.com_1" site_id="c4256331-1604-417d-9c37-6dba5513ef98" xmltv_id="HBO2 West HD">HBO2 West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f740634f-0413-4404-bc74-f38b2cf73836" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="b7669e3c-2916-4b8c-b40d-6266e791ab57" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="46ffcf64-998d-4037-8741-5ed260b08303" xmltv_id="History">History</channel>
+    <channel site="[ENC]directv.com_1" site_id="8dc85473-5c44-444f-8ee3-f3ad6da10329" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="927e8333-b28c-4464-913f-9017fb9da939" xmltv_id="History en Espanol">History en Espanol</channel>
+    <channel site="[ENC]directv.com_1" site_id="6feed8e2-5530-440d-9ce7-314447b54f5f" xmltv_id="HITN (103A)">HITN (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d391259d-6f0f-4f00-85a3-cc91b13ac9b5" xmltv_id="HLN">HLN</channel>
+    <channel site="[ENC]directv.com_1" site_id="8d1c72f6-99db-4279-a5b2-183f92c53a61" xmltv_id="HLN HD">HLN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="0285d109-35e9-4a98-bc1e-5e91b4a545b5" xmltv_id="Hogar de HGTV">Hogar de HGTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="35292d2f-5c02-47f5-9ea1-aef0e7433ec9" xmltv_id="Hola TV">Hola TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="a58a86bb-07f4-4c61-bdd0-eb61afa1d82b" xmltv_id="Home Shopping Network HD">Home Shopping Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b4163eb0-abb6-4753-b830-e95334a7c96c" xmltv_id="Home Shopping Network">Home Shopping Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="fcc9de26-d9bf-4dfc-8e8b-36bf341d6231" xmltv_id="Home Shopping Network 70-1">Home Shopping Network 70-1</channel>
+    <channel site="[ENC]directv.com_1" site_id="f7351b75-b3bb-4932-8e80-340afa957c41" xmltv_id="Home Shopping Network 70-1 (HD)">Home Shopping Network 70-1 (HD)</channel>
+    <channel site="[ENC]directv.com_1" site_id="09800e1f-c5c7-4e30-acc6-5c30c6303135" xmltv_id="Honvietv">Honvietv</channel>
+    <channel site="[ENC]directv.com_1" site_id="c8173e6e-bf8f-492d-a992-c3b4baf8d799" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="173aa1c2-5e38-4ac4-b7b0-fbb749bf9f93" xmltv_id="HSN2">HSN2</channel>
+    <channel site="[ENC]directv.com_1" site_id="bb69566a-8bcb-46a4-badb-1e6705d4041b" xmltv_id="HDNET MOVIES">HDNET MOVIES</channel>
+    <channel site="[ENC]directv.com_1" site_id="6c966c95-d0b6-426d-bf35-c3d60324eea6" xmltv_id="I Cable Finance">I Cable Finance</channel>
+    <channel site="[ENC]directv.com_1" site_id="61ef0398-a41c-4f29-92ea-51f6373a1a75" xmltv_id="I Cable News">I Cable News</channel>
+    <channel site="[ENC]directv.com_1" site_id="8a5c075e-1969-453b-b5f9-9108243c7816" xmltv_id="i24 News">i24 News</channel>
+    <channel site="[ENC]directv.com_1" site_id="38fde57a-aab6-447f-af12-7c9f40cab36a" xmltv_id="IDEA Channel 270">IDEA Channel 270</channel>
+    <channel site="[ENC]directv.com_1" site_id="30735bd4-156f-47a3-8af0-fd52927949b1" xmltv_id="IDEA Channel 84">IDEA Channel 84</channel>
+    <channel site="[ENC]directv.com_1" site_id="9e89d8ee-9678-4378-988f-09665f91f1c2" xmltv_id="IFC HD">IFC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9e503771-1090-4748-8b67-b852c88103a1" xmltv_id="IFC">IFC</channel>
+    <channel site="[ENC]directv.com_1" site_id="a002b981-880a-4a43-ac4a-15add9d06b92" xmltv_id="iHeartRADIO">iHeartRADIO</channel>
+    <channel site="[ENC]directv.com_1" site_id="2845f7ff-fdd9-4de7-80e2-884c39e7d7f3" xmltv_id="IMPACT TV">IMPACT TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="c4808883-e447-4c81-a65e-899843518f84" xmltv_id="INFO Temp 7">INFO Temp 7</channel>
+    <channel site="[ENC]directv.com_1" site_id="9fecfd4b-8efb-4466-90e4-dbb97388d621" xmltv_id="INSP">INSP</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c6a1eea-d513-4ed7-b467-dcde66069d31" xmltv_id="INSP HD">INSP HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3b14bc0f-5154-45cf-b3d7-0dbd9f613a22" xmltv_id="Interactive Advertising Channel HD (98)">Interactive Advertising Channel HD (98)</channel>
+    <channel site="[ENC]directv.com_1" site_id="364d8c51-278e-4d12-9233-9dff23a0a93a" xmltv_id="Interactive Advertising Channel HD 111">Interactive Advertising Channel HD 111</channel>
+    <channel site="[ENC]directv.com_1" site_id="1dd9b3b8-12fe-4821-9cef-0f5adbd4b0e5" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2d59507f-9a2f-442b-bc83-00938909250f" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC]directv.com_1" site_id="175bd340-10e5-49e4-ae44-c479e4784c38" xmltv_id="ION Television East HD">ION Television East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="00fded8f-378e-43de-8eab-08337b48d221" xmltv_id="JBS">JBS</channel>
+    <channel site="[ENC]directv.com_1" site_id="974e261e-f83c-4f7d-9c13-7fbedd8bd614" xmltv_id="Jewelry Television (72)">Jewelry Television (72)</channel>
+    <channel site="[ENC]directv.com_1" site_id="e320dc82-26db-4e64-8548-f9180bd7f0c3" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel site="[ENC]directv.com_1" site_id="47d77232-55e0-44e5-bb00-f26d5b9e732c" xmltv_id="Jewish Life TV">Jewish Life TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="1d36c051-d7cd-42a5-8a79-5c9ceac2fca8" xmltv_id="Justice Central HD">Justice Central HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f7a30314-2f97-4fba-a293-db97cac8262a" xmltv_id="KABC (Los Angeles) ABC HD West">KABC (Los Angeles) ABC HD West</channel>
+    <channel site="[ENC]directv.com_1" site_id="d9e97344-0295-49ad-8199-d439e39bc61c" xmltv_id="KABC (Los Angeles) ABC West">KABC (Los Angeles) ABC West</channel>
+    <channel site="[ENC]directv.com_1" site_id="47572734-120f-456c-a99b-34c55521a4d0" xmltv_id="KBS America">KBS America</channel>
+    <channel site="[ENC]directv.com_1" site_id="76bb4544-3b10-4cba-807a-35510861e255" xmltv_id="KBS America HD">KBS America HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b5528361-0aef-491e-a41b-46316ef5be7f" xmltv_id="KBS Korea">KBS Korea</channel>
+    <channel site="[ENC]directv.com_1" site_id="b2ef58c3-fe74-4da6-a1f9-8da54760a310" xmltv_id="KCBS (Los Angeles) CBS HD West">KCBS (Los Angeles) CBS HD West</channel>
+    <channel site="[ENC]directv.com_1" site_id="91e8af46-f568-4d24-857c-746ee4061b85" xmltv_id="KCBS (Los Angeles) CBS West">KCBS (Los Angeles) CBS West</channel>
+    <channel site="[ENC]directv.com_1" site_id="ce1c1389-5ded-4c28-9409-d49c4bc1d56d" xmltv_id="Kids Mix Channel">Kids Mix Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="f51589d0-374c-423f-874c-eee8d9c44f87" xmltv_id="KNBC (Los Angeles) NBC HD West">KNBC (Los Angeles) NBC HD West</channel>
+    <channel site="[ENC]directv.com_1" site_id="516bf591-7d24-4851-8f25-1bb4fb3fba79" xmltv_id="KNBC (Los Angeles) NBC West">KNBC (Los Angeles) NBC West</channel>
+    <channel site="[ENC]directv.com_1" site_id="99ec43e9-7cbb-4cd7-86a1-0f8482da754b" xmltv_id="KTLA CW West">KTLA CW West</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e4cf914-7e73-4c69-8d10-54e7812423f7" xmltv_id="KTTV (Los Angeles) FOX HD West">KTTV (Los Angeles) FOX HD West</channel>
+    <channel site="[ENC]directv.com_1" site_id="8b6a05d1-18a8-4f19-a1b1-5fb8fc2a9402" xmltv_id="KTTV (Los Angeles) FOX West">KTTV (Los Angeles) FOX West</channel>
+    <channel site="[ENC]directv.com_1" site_id="65412a7f-9e46-46b4-a207-19be93edd0c4" xmltv_id="LifeS">LifeS</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1dd879a-5790-454f-9104-39432f4859c6" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="128de99f-f5e8-4eda-8c34-989e743b8c09" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="[ENC]directv.com_1" site_id="7da4a06b-ca37-4123-8994-b3794b673df6" xmltv_id="LMN HD">LMN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="98d4c6b9-d796-4e72-8ec3-31c4d86c6855" xmltv_id="Little Saigon Radio Channel (99R)">Little Saigon Radio Channel (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="69f987e8-61d6-4bb8-999e-b6413c6c6708" xmltv_id="Living Faith Network">Living Faith Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="0c8d3bdf-b53b-42d8-bbda-5c1f742e235b" xmltv_id="LMN">LMN</channel>
+    <channel site="[ENC]directv.com_1" site_id="14ec4f80-2045-4d80-8bf4-36a57123d642" xmltv_id="Logo">Logo</channel>
+    <channel site="[ENC]directv.com_1" site_id="940180da-7917-48f1-ac82-383eae9afc71" xmltv_id="Longhorn Network HD">Longhorn Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="be2fe9b9-6477-4971-aec7-70c0f5370952" xmltv_id="Madison Square Garden">Madison Square Garden</channel>
+    <channel site="[ENC]directv.com_1" site_id="1303fc1c-3394-4985-9bea-efa21366241a" xmltv_id="Magnolia Network">Magnolia Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="43847d39-8406-487a-b232-8ceea451186e" xmltv_id="Magnolia Network HD">Magnolia Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6febb6a7-44f0-4036-9c90-13c4310c0d9f" xmltv_id="MALL">MALL</channel>
+    <channel site="[ENC]directv.com_1" site_id="de0be721-1adc-4b48-b27b-807865641810" xmltv_id="Marquee Sports Network">Marquee Sports Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="4ee999b9-4089-478e-91cc-05440acc38b9" xmltv_id="Marquee Sports Network HD.">Marquee Sports Network HD.</channel>
+    <channel site="[ENC]directv.com_1" site_id="ed32ab4b-42fe-4044-82f0-20a1c61b967b" xmltv_id="Marquee Sports Network.">Marquee Sports Network.</channel>
+    <channel site="[ENC]directv.com_1" site_id="f7b1faf6-5a72-45f5-a8e6-c9f267b2a4c3" xmltv_id="MASN">MASN</channel>
+    <channel site="[ENC]directv.com_1" site_id="8e4f3326-9bf2-46df-a128-92df7f3e8919" xmltv_id="MASN HD">MASN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fd7bb93b-6935-4eb7-bf9f-e7b7546f60b7" xmltv_id="MASN2">MASN2</channel>
+    <channel site="[ENC]directv.com_1" site_id="b8bd5fef-35b8-4e31-a78d-4712681e5d34" xmltv_id="Mid Atlantic Sports Net. HD Alt.">Mid Atlantic Sports Net. HD Alt.</channel>
+    <channel site="[ENC]directv.com_1" site_id="21e41317-1a4e-4302-b43e-b916fa1e7534" xmltv_id="MAVTV HD">MAVTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5bfd1748-3c90-4b9e-8998-02a5e8c9940e" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC]directv.com_1" site_id="4f284e66-f351-4db8-a086-c998817dc409" xmltv_id="MBN (99R)">MBN (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="02e8a5d8-06ef-45fe-8e50-6f3117a35d50" xmltv_id="MediaSet Italia (99R)">MediaSet Italia (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="6d416fed-9084-4406-91ab-7dc8ab638993" xmltv_id="MEGA TV (103A)">MEGA TV (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="888e3a20-6838-46e6-a68d-fb33cafd4f33" xmltv_id="MEGA TV HD">MEGA TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ff4797e7-54c7-4d09-968c-def455e9cf65" xmltv_id="Meganoticias">Meganoticias</channel>
+    <channel site="[ENC]directv.com_1" site_id="038e34a5-d895-44cb-81da-f5d0b860fd06" xmltv_id="MeTV">MeTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="8f79eb33-17b6-4c95-a687-f9823230e6d5" xmltv_id="MGM+">MGM+</channel>
+    <channel site="[ENC]directv.com_1" site_id="94e444e1-e188-46a0-b5d4-913a3945fa7a" xmltv_id="MGM+ HITS">MGM+ HITS</channel>
+    <channel site="[ENC]directv.com_1" site_id="811a9bcb-279f-4362-8a9b-2845fe3eb636" xmltv_id="MGM+ MARQUEE">MGM+ MARQUEE</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e045c6a-dc42-4229-a760-6599ef6dd343" xmltv_id="Mid Atlantic Sports Network Alt.">Mid Atlantic Sports Network Alt.</channel>
+    <channel site="[ENC]directv.com_1" site_id="c8e2cc18-4320-4f21-8a59-68c2f33c0c05" xmltv_id="MLB Network HD">MLB Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c7296581-8b43-4e1f-bbd6-484c5e1713a6" xmltv_id="MLB Network">MLB Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="23d4fb04-2b56-4a9e-9066-47022a5e164f" xmltv_id="MLB Strike Zone HD">MLB Strike Zone HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="47c10a14-e199-4bdf-82ef-78deb343d8d8" xmltv_id="MLB Strike Zone">MLB Strike Zone</channel>
+    <channel site="[ENC]directv.com_1" site_id="2321d9f1-a28a-494d-b3bc-cd50a156299a" xmltv_id="Monumental Sports Network">Monumental Sports Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="cfaf4c6b-fc72-4b3a-af5d-be8074adfbe1" xmltv_id="Monumental Sports Network (Alternate)">Monumental Sports Network (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d69fe447-2e99-4fe1-a888-7af281700185" xmltv_id="Monumental Sports Network Alternate">Monumental Sports Network Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="335e1127-3daa-4187-9869-ccf1e2d2a606" xmltv_id="Monumental Sports Network HD">Monumental Sports Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ab074342-55eb-4db8-bbe4-f5b15b17e737" xmltv_id="Monumental Sports Network HD (Alternate)">Monumental Sports Network HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b50dbe54-734b-4091-ba1e-0b41b813be90" xmltv_id="MOR 101.9 (99R)">MOR 101.9 (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="a7ddef69-0fc3-456a-8516-6803a3fd8910" xmltv_id="MoreMAX">MoreMAX</channel>
+    <channel site="[ENC]directv.com_1" site_id="45cdfc9d-1228-4b50-8987-7c82db99f1ba" xmltv_id="MoreMAX HD">MoreMAX HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="32f60ebb-2e14-4265-b5bf-1c63f1d58f7c" xmltv_id="MotorTrend HD">MotorTrend HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d9ce30f2-a74d-4f3d-9883-abb1a3cda196" xmltv_id="MovieMAX">MovieMAX</channel>
+    <channel site="[ENC]directv.com_1" site_id="ad7c110d-65a0-43b0-93f1-29d695c10901" xmltv_id="Madison Square Garden HD">Madison Square Garden HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5e2df6ea-3021-4cd5-a3bb-8710e97fa73f" xmltv_id="MSG ALT-1">MSG ALT-1</channel>
+    <channel site="[ENC]directv.com_1" site_id="ed1e080e-fb50-4b8a-b701-1340b189334a" xmltv_id="MSG Alternate HD 635-1">MSG Alternate HD 635-1</channel>
+    <channel site="[ENC]directv.com_1" site_id="605a35a4-6d88-44b6-af6a-323b6d4d1a07" xmltv_id="MSG/MSGSN Alternate 635-2 HD">MSG/MSGSN Alternate 635-2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9c6e69b3-e20b-490f-a382-109a9798642c" xmltv_id="MSG ALT-2">MSG ALT-2</channel>
+    <channel site="[ENC]directv.com_1" site_id="c7e8820b-c13e-458d-993a-27680f5981da" xmltv_id="MSG/MSGSN Alternate 635-3 HD">MSG/MSGSN Alternate 635-3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e57ff28-45ae-4136-926e-f2bcb4cf4921" xmltv_id="MSG ALT-3">MSG ALT-3</channel>
+    <channel site="[ENC]directv.com_1" site_id="487fc9ec-3e12-4246-b5bf-672316525968" xmltv_id="MSG Alternate 635-1">MSG Alternate 635-1</channel>
+    <channel site="[ENC]directv.com_1" site_id="2640bccd-4920-433e-be0e-a4e013a56248" xmltv_id="MSG Sportsnet">MSG Sportsnet</channel>
+    <channel site="[ENC]directv.com_1" site_id="2f03db29-3914-4b6e-a37b-ba2b34811ff8" xmltv_id="MSG Sportsnet HD">MSG Sportsnet HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ca3653bb-dbdd-43cb-bbeb-119378f960a0" xmltv_id="MSG/MSGSN Alternate 635-2">MSG/MSGSN Alternate 635-2</channel>
+    <channel site="[ENC]directv.com_1" site_id="6f8363cb-b828-4f5a-a2f4-de337f3fec41" xmltv_id="MSG/MSGSN Alternate 635-3">MSG/MSGSN Alternate 635-3</channel>
+    <channel site="[ENC]directv.com_1" site_id="84ab9eb1-aa33-4a2f-96f6-feba0ce713a4" xmltv_id="MSNBC">MSNBC</channel>
+    <channel site="[ENC]directv.com_1" site_id="7188780b-f344-4cb6-8ebc-7c7937a02004" xmltv_id="MSNBC HD">MSNBC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="91afef58-5b68-4a58-aa3e-e3383521621b" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1557f70-9718-4365-aca6-0fdc7b6c94c6" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel site="[ENC]directv.com_1" site_id="6bb1b774-c06c-44e1-a316-5d41c63229e0" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="40d3f0f0-6504-4d54-b5dd-3ba65f2bb4e1" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e3190daa-5f8a-41e8-b8ff-0d9eae7bb347" xmltv_id="MTV West HD">MTV West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4ec976b6-089d-45b5-ab45-89a88778f27e" xmltv_id="MTV2">MTV2</channel>
+    <channel site="[ENC]directv.com_1" site_id="5fa9cee6-c5e0-4efd-8035-23dd470c2f3d" xmltv_id="MTV2 HD">MTV2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="aa91c124-7b85-4e0c-a2a2-ec6bd7e4cc14" xmltv_id="Multimedios">Multimedios</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd646fe6-8ac3-4914-b011-6ea85b6cc952" xmltv_id="New York, NY WWOR MNT 9 A3 HD">New York, NY WWOR MNT 9 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="80789941-adbb-4d1f-adec-6775e30a599a" xmltv_id="Myx">Myx</channel>
+    <channel site="[ENC]directv.com_1" site_id="2a20c19d-ae2c-4b15-8b6c-24223a4c4d40" xmltv_id="NASA TV">NASA TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="9c05f5fd-529d-4e3a-8683-33003c243914" xmltv_id="Nat Geo WILD">Nat Geo WILD</channel>
+    <channel site="[ENC]directv.com_1" site_id="efeb88ef-f6ff-4688-8604-5dcf3e3d005f" xmltv_id="Nat Geo Mundo">Nat Geo Mundo</channel>
+    <channel site="[ENC]directv.com_1" site_id="86732c76-8068-44b3-9c89-f39523208b9c" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="47cdf02d-0661-4250-9b8e-c11b8902e1cb" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]directv.com_1" site_id="cba2a67f-9cae-41e0-a27e-9444c979b689" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="10627bc1-89a2-4c00-bf92-8851d96e1b98" xmltv_id="NBA TV HD">NBA TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f30122ac-f360-4a81-ae67-e2d8d7d560f6" xmltv_id="NBA League Pass 747">NBA League Pass 747</channel>
+    <channel site="[ENC]directv.com_1" site_id="6c338f1a-61cb-4a66-9132-4a2d3c6895f2" xmltv_id="NBA League Pass 748 HD">NBA League Pass 748 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="31534f26-7e6d-438b-aff2-c564f996f6de" xmltv_id="NBA League Pass 749 HD">NBA League Pass 749 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3a1b95ae-bcd7-48d0-a286-2c483507da9f" xmltv_id="NBA League Pass 750">NBA League Pass 750</channel>
+    <channel site="[ENC]directv.com_1" site_id="60e63910-da59-44d7-ab94-b4894a907fdc" xmltv_id="NBA League Pass 750 HD">NBA League Pass 750 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="176b05bb-6ade-47eb-bc07-38d30acebd11" xmltv_id="NBA League Pass 751">NBA League Pass 751</channel>
+    <channel site="[ENC]directv.com_1" site_id="2eee1482-f7d6-42d2-96ef-3ab38bed977a" xmltv_id="NBA League Pass 751 HD">NBA League Pass 751 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6b6ab82e-87f2-4199-a639-db671057c832" xmltv_id="NBA League Pass 752">NBA League Pass 752</channel>
+    <channel site="[ENC]directv.com_1" site_id="b269bc27-63a5-40dd-bbc3-345e55865eaa" xmltv_id="NBA League Pass 752 HD">NBA League Pass 752 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6f69683d-0c4c-4782-81c5-87c18bb93f91" xmltv_id="NBA League Pass 753">NBA League Pass 753</channel>
+    <channel site="[ENC]directv.com_1" site_id="8e76b2e8-fbf1-41cd-bfb7-f1ba99a69bcf" xmltv_id="NBA League Pass 753 HD">NBA League Pass 753 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="96128d80-9242-4686-84f0-39150395a2a4" xmltv_id="NBA League Pass 754 HD">NBA League Pass 754 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="836da3e8-749d-4774-b391-5b01d2299fbf" xmltv_id="NBA League Pass 755">NBA League Pass 755</channel>
+    <channel site="[ENC]directv.com_1" site_id="4e7bdf2c-509c-4eb0-a546-ebbaac2ad6e0" xmltv_id="NBA League Pass 755 HD">NBA League Pass 755 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1f92b106-ee91-41cf-9c54-6db38f0d71ba" xmltv_id="NBA League Pass 756">NBA League Pass 756</channel>
+    <channel site="[ENC]directv.com_1" site_id="fb9dae50-1f0e-400c-a797-d8e135f50e71" xmltv_id="NBA League Pass 756 HD">NBA League Pass 756 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a01a9f1f-eb4d-4470-be81-7a4f87a3ba19" xmltv_id="NBA League Pass 757 HD">NBA League Pass 757 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c74980de-3df1-4469-a9b0-83cbd685f138" xmltv_id="NBA League Pass 758 HD">NBA League Pass 758 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a712165a-8399-4389-a0d3-ed017c9ef7e2" xmltv_id="NBA League Pass 759">NBA League Pass 759</channel>
+    <channel site="[ENC]directv.com_1" site_id="4eacba42-09cc-46a0-8ce7-74e1811bd2ce" xmltv_id="NBA League Pass 759 HD">NBA League Pass 759 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c476e5e-dbf1-42ee-9007-2c8fba286bc8" xmltv_id="NBA League Pass 760">NBA League Pass 760</channel>
+    <channel site="[ENC]directv.com_1" site_id="ca7af17e-2760-41b7-bb4f-de594796fe56" xmltv_id="NBA League Pass 760 HD">NBA League Pass 760 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5d03a311-818a-46a2-be54-49449f752017" xmltv_id="NBA League Pass 761">NBA League Pass 761</channel>
+    <channel site="[ENC]directv.com_1" site_id="a0680f88-a979-46d1-bc86-eb7f3bf47d5a" xmltv_id="NBA League Pass 761 HD">NBA League Pass 761 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e96f599e-8f88-4be1-84e1-b65aba4dc6e2" xmltv_id="NBA League Pass 762">NBA League Pass 762</channel>
+    <channel site="[ENC]directv.com_1" site_id="942a78e6-11aa-4ecd-8742-4e55bfd4e611" xmltv_id="NBA League Pass 762 HD">NBA League Pass 762 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1120325b-0dbe-4bb8-8cda-a001e03f39f9" xmltv_id="NBA League Pass 763">NBA League Pass 763</channel>
+    <channel site="[ENC]directv.com_1" site_id="5cb0375e-f86c-41e1-8296-7d3486ef8ad5" xmltv_id="NBA League Pass 763 HD">NBA League Pass 763 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="97c8294e-54ba-4c4c-85e8-8fa2bcfb7c29" xmltv_id="NBA League Pass 764">NBA League Pass 764</channel>
+    <channel site="[ENC]directv.com_1" site_id="7be61ca9-0335-4e14-8f9f-ec62779e13f8" xmltv_id="NBA League Pass 764 HD">NBA League Pass 764 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4725549e-6f86-4cf2-9b07-f77e1aba4a2a" xmltv_id="NBA League Pass 765">NBA League Pass 765</channel>
+    <channel site="[ENC]directv.com_1" site_id="dece446f-d6a3-449c-9ab6-12e64167fbbc" xmltv_id="NBA League Pass 765 HD">NBA League Pass 765 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="41b4f158-38d0-4979-8e41-f1a212042fdf" xmltv_id="NBA League Pass 766">NBA League Pass 766</channel>
+    <channel site="[ENC]directv.com_1" site_id="510d0f1d-7fc9-405a-a9dc-f72342f32155" xmltv_id="NBA League Pass 766 HD">NBA League Pass 766 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bbc3696c-6acb-4b33-bc6f-0e07215e50ac" xmltv_id="NBA League Pass 767">NBA League Pass 767</channel>
+    <channel site="[ENC]directv.com_1" site_id="e753fc7a-cbb9-4d22-84e2-52e0ac414478" xmltv_id="NBA League Pass 767 HD">NBA League Pass 767 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="960f4168-15cd-43f0-a345-2ebe421b08d9" xmltv_id="NBA League Pass 768">NBA League Pass 768</channel>
+    <channel site="[ENC]directv.com_1" site_id="d3082943-5474-4800-b5f3-f41123185bb2" xmltv_id="NBA League Pass 768 HD">NBA League Pass 768 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="723cff35-7d03-4932-9cf9-3aadca72d786" xmltv_id="NBA League Pass HD 747">NBA League Pass HD 747</channel>
+    <channel site="[ENC]directv.com_1" site_id="5cb6a6db-9440-40c2-8759-6f3475f9b6ea" xmltv_id="NBA TV">NBA TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="d81e8266-2da9-45c2-a40f-13bd27742daa" xmltv_id="NBC Sports Bay Area">NBC Sports Bay Area</channel>
+    <channel site="[ENC]directv.com_1" site_id="b0b06816-dd9f-41be-8004-4b2c39065d19" xmltv_id="NBC Sports Bay Area HD">NBC Sports Bay Area HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9398568f-571d-44a5-aeaa-4235dc874ae1" xmltv_id="NBC Sports Bay Area Plus (Alternate)">NBC Sports Bay Area Plus (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="4902a50e-d8ce-4598-aeb4-b9005f607249" xmltv_id="NBC Sports Bay Area Plus (Alternate 2)">NBC Sports Bay Area Plus (Alternate 2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d0cac0bf-467d-4acd-add9-0b7836171829" xmltv_id="NBC Sports Bay Area Plus HD (Alternate 2)">NBC Sports Bay Area Plus HD (Alternate 2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="eb8988a5-c8e5-47c2-b120-4f765eab3d85" xmltv_id="NBC Sports Bay Area Plus HD (Alternate)">NBC Sports Bay Area Plus HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="737ccfce-e1c3-4d1c-a731-7905e0035c8f" xmltv_id="NBC Sports Bay Area Plus HD Alternate">NBC Sports Bay Area Plus HD Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="0a0b9eee-e635-4d0c-a901-4b9d20cc3f14" xmltv_id="NBC Sports Boston">NBC Sports Boston</channel>
+    <channel site="[ENC]directv.com_1" site_id="645e1601-8b4a-4cfe-8ec3-2a4c78b37f13" xmltv_id="NBC Sports Boston Alternate">NBC Sports Boston Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="a107b385-f66a-4fe2-a311-533cd040e74f" xmltv_id="NBC Sports Boston Alternate HD">NBC Sports Boston Alternate HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="022da6da-eb29-4975-b0e5-1ba83b768312" xmltv_id="NBC Sports Boston HD">NBC Sports Boston HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="14a95a61-2e2e-4081-9d3c-940ca78b7766" xmltv_id="NBC Sports California">NBC Sports California</channel>
+    <channel site="[ENC]directv.com_1" site_id="80b10b51-2b88-470e-ac21-6dffecb85d84" xmltv_id="NBC Sports California (Alternate)">NBC Sports California (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7cb0ea92-2d62-400e-9b91-8419bc8cd36b" xmltv_id="NBC Sports California (Alternate 2)">NBC Sports California (Alternate 2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="1d6aba71-5282-4f56-8acf-2a2aff938b0f" xmltv_id="NBC Sports California HD">NBC Sports California HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="da25f459-628a-4394-98a5-8afd7efbef27" xmltv_id="NBC Sports California HD (Alternate2)">NBC Sports California HD (Alternate2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="1dc41f1c-7380-4bf8-a4b5-13f688b48fd6" xmltv_id="NBC Sports California Plus">NBC Sports California Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="b7191f70-378b-47d4-8e7e-83ee6414b6ac" xmltv_id="NBC Sports California HD (Alternate)">NBC Sports California HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="16e41d2f-f7e1-4a11-b655-a71de3b6d027" xmltv_id="NBC Sports California Plus 2">NBC Sports California Plus 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="6a1a59a4-a7c2-4d19-9284-02d62b6e2776" xmltv_id="NBC Sports Chicago">NBC Sports Chicago</channel>
+    <channel site="[ENC]directv.com_1" site_id="1a6be6ca-c05f-4780-b4bc-4a2610291dc6" xmltv_id="NBC Sports Chicago HD">NBC Sports Chicago HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a3a2bb42-bc27-41b8-a92c-88cdaef06203" xmltv_id="NBC Sports Chicago Plus">NBC Sports Chicago Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="2fa52b7a-1118-4922-9e38-662df44f5225" xmltv_id="NBC Sports Chicago Plus">NBC Sports Chicago Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="8f249c24-86a3-40ca-b288-bc05150b3384" xmltv_id="NBC Sports Chicago Plus 2">NBC Sports Chicago Plus 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="93b95a0b-3ecc-4406-98d9-5975b3310d69" xmltv_id="NBC Sports Chicago Plus 2">NBC Sports Chicago Plus 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="1961dd61-e6d0-4510-b8b6-a56fcba0d2ce" xmltv_id="NBC Sports Chicago Plus 2 HD">NBC Sports Chicago Plus 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ae6eb561-5bd5-42c4-9bae-e959e1254e63" xmltv_id="A3 New York 04 WNBC NBC">A3 New York 04 WNBC NBC</channel>
+    <channel site="[ENC]directv.com_1" site_id="4428ff9c-a80a-409f-8fa4-f5ed43a11891" xmltv_id="NBC Sports Chicago Plus HD">NBC Sports Chicago Plus HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b483a61d-4b7a-48ba-8446-d0729df61697" xmltv_id="NESN">NESN</channel>
+    <channel site="[ENC]directv.com_1" site_id="efe6d2f4-43a5-4ebc-bb30-9508733ce4a5" xmltv_id="NESN+ (Alternate)">NESN+ (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="a758c1e7-0d3b-4c07-8b9f-e00850387cb9" xmltv_id="NESN HD">NESN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5900f38f-1973-4a53-9168-980fa39474ab" xmltv_id="NESN PLUS">NESN PLUS</channel>
+    <channel site="[ENC]directv.com_1" site_id="5d03a7c5-e0e6-4588-b0e9-012e0c3e63b8" xmltv_id="NESN+ HD (Alternate)">NESN+ HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="214d6f94-29b2-4e96-8864-57d25aa2903c" xmltv_id="NEW TV (319)">NEW TV (319)</channel>
+    <channel site="[ENC]directv.com_1" site_id="bc3ead9b-b1ac-4612-bc33-f7dcf1a97935" xmltv_id="NEW TV (77)">NEW TV (77)</channel>
+    <channel site="[ENC]directv.com_1" site_id="9ec0e078-1606-4016-a339-6a3481e1bdb7" xmltv_id="New York, NY WFUT UMas 68 SD">New York, NY WFUT UMas 68 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="0be2dc12-c9e8-45da-808a-7c63865d08b9" xmltv_id="New York, NY WJLP METV 33 A3 HD">New York, NY WJLP METV 33 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1763bfc4-6b76-408a-84f7-2746ff61708d" xmltv_id="New York, NY WJLP METV 33 SD">New York, NY WJLP METV 33 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="59ac5c1a-e800-4c7e-ad7d-18cd2280da63" xmltv_id="New York, NY WKOB-LD IND 42 SD">New York, NY WKOB-LD IND 42 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1ff3270-9af5-4220-a87c-48906e1ef885" xmltv_id="New York, NY WLIW PBS 21 A3 HD">New York, NY WLIW PBS 21 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5a568125-a300-4a2f-9a41-4af7064129e8" xmltv_id="New York, NY WLIW PBS 21 SD">New York, NY WLIW PBS 21 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b2ffb99d-f981-4c2b-a930-9b625fa948c8" xmltv_id="New York, NY WLNY IND 55 SD">New York, NY WLNY IND 55 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1324c261-6653-4ff1-b95f-c590c25fc273" xmltv_id="New York, NY WMBC IND 63 A3 HD">New York, NY WMBC IND 63 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9608f705-2d22-4f35-852d-c5d927b96670" xmltv_id="New York, NY WMBC IND 63 SD">New York, NY WMBC IND 63 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5dacb0b6-fbef-43e4-afb5-90d9956d4062" xmltv_id="New York, NY WNET PBS 13 SD">New York, NY WNET PBS 13 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bbfde0e2-014c-4b9e-b774-785d5fa69635" xmltv_id="New York, NY WNJN PBS 50 SD">New York, NY WNJN PBS 50 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e49675fb-74b5-4cdc-8273-df93d932a61e" xmltv_id="New York, NY WNJU TMO 47 A3 HD">New York, NY WNJU TMO 47 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="28650a45-1762-469f-b4da-959b81845d2f" xmltv_id="New York, NY WNJU TMO 47 SD">New York, NY WNJU TMO 47 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a8ba3566-44a5-409e-add1-db4393f24daa" xmltv_id="New York, NY WNYE ETV 25 A3 HD">New York, NY WNYE ETV 25 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="559c9464-10e3-4e40-9c15-e044adbba05a" xmltv_id="New York, NY WNYE ETV 25 SD">New York, NY WNYE ETV 25 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9d7b6bb2-c31e-4f24-818b-59934a97b33e" xmltv_id="New York, NY WPIX CW 11 A3 HD">New York, NY WPIX CW 11 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e12080fd-377a-4472-9e51-08559a5d9f9e" xmltv_id="New York, NY WPIX CW 11 SD">New York, NY WPIX CW 11 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="409cc69d-780a-4667-b28d-970dd9833ffd" xmltv_id="New York, NY WPXN ION 31 A3 HD">New York, NY WPXN ION 31 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e68e7c8f-93a1-468b-b3c8-73d110051278" xmltv_id="New York, NY WPXN ION 31 SD">New York, NY WPXN ION 31 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8f3eded6-7863-4e3d-8e51-48f5f161a5cd" xmltv_id="New York, NY WRNN IND 62 A3 HD">New York, NY WRNN IND 62 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a6432546-8863-4d19-8b54-f292ad5bdef7" xmltv_id="New York, NY WRNN IND 62 SD">New York, NY WRNN IND 62 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ad7b7999-1018-4e8a-b79c-5ff2f369e30d" xmltv_id="New York, NY WWOR MNT 9 SD">New York, NY WWOR MNT 9 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a4b21a1e-e1af-40ef-8536-ccbd21c68b92" xmltv_id="New York, NY WXTV UNI 41 SD">New York, NY WXTV UNI 41 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="653b3fd0-3988-406f-80c4-80d7c85b3eb5" xmltv_id="New York, NY WZME IND 43 A3 HD">New York, NY WZME IND 43 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="17c99ebd-a3e5-45f3-939b-59317e57e55f" xmltv_id="New York, NY WZME IND 43 SD">New York, NY WZME IND 43 SD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e14e1153-f879-400f-ba26-7ace93def3fe" xmltv_id="New York WABC 7 ABC">New York WABC 7 ABC</channel>
+    <channel site="[ENC]directv.com_1" site_id="e8058ad8-3008-417b-a2a7-04836bf9d281" xmltv_id="New York WCBS 2 CBS">New York WCBS 2 CBS</channel>
+    <channel site="[ENC]directv.com_1" site_id="d9a85a79-b2bf-421d-9a9f-ab525fe12b80" xmltv_id="New York WNBC 4 NBC">New York WNBC 4 NBC</channel>
+    <channel site="[ENC]directv.com_1" site_id="61862d16-926e-452f-bc80-0823465e2c2e" xmltv_id="New York WNYW 5 Fox">New York WNYW 5 Fox</channel>
+    <channel site="[ENC]directv.com_1" site_id="024ce6d3-02a1-4bf8-af48-0b4544b3d187" xmltv_id="News Mix">News Mix</channel>
+    <channel site="[ENC]directv.com_1" site_id="31c8230c-3cb6-43ee-ac3d-9288ec1f0d74" xmltv_id="News Mix 71">News Mix 71</channel>
+    <channel site="[ENC]directv.com_1" site_id="dd85480a-4cf2-446c-ab67-3deb7ea00581" xmltv_id="Newsmax TV HD">Newsmax TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5576b285-b115-44e1-9789-1803ab7091fd" xmltv_id="NewsNation HD">NewsNation HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ad07532c-0e59-4fd0-9536-7f858b223b53" xmltv_id="NewsNation">NewsNation</channel>
+    <channel site="[ENC]directv.com_1" site_id="bcf92b51-1468-4e05-ba16-cd2b17a6194b" xmltv_id="Next Level Sports HD">Next Level Sports HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b9b1b688-8d78-4580-8913-e98fe3bd9b05" xmltv_id="NFL Network HD">NFL Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8c6223d2-9bf7-4449-8ee6-a9f1cc2cc880" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="1f16d48c-530d-446f-a759-2d7c7a8a527a" xmltv_id="NFL RedZone HD">NFL RedZone HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="26025056-fcd3-4a31-b83f-2c069c1c73d4" xmltv_id="NHK World News">NHK World News</channel>
+    <channel site="[ENC]directv.com_1" site_id="46906881-e27c-472d-9beb-abd4e47b7ca1" xmltv_id="NHK World News 2049">NHK World News 2049</channel>
+    <channel site="[ENC]directv.com_1" site_id="028e8e6c-3ecd-4248-a436-1f3284a3f955" xmltv_id="NHL Network HD">NHL Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1c39c407-2b49-478b-8e62-3e051a695d0c" xmltv_id="NHL Center Ice 769">NHL Center Ice 769</channel>
+    <channel site="[ENC]directv.com_1" site_id="013d35ca-a926-4a6a-9298-1c987bce588b" xmltv_id="NHL Center Ice 769 HD">NHL Center Ice 769 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="7eb4a1d8-c55f-4487-ab1a-342e0afcb7a5" xmltv_id="NHL Center Ice 770">NHL Center Ice 770</channel>
+    <channel site="[ENC]directv.com_1" site_id="5cd71954-f428-4d13-8aec-320cea6651c3" xmltv_id="NHL Center Ice 770 HD">NHL Center Ice 770 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="71b63de5-4ce9-4891-a59a-ff09190c349d" xmltv_id="NHL Center Ice 771">NHL Center Ice 771</channel>
+    <channel site="[ENC]directv.com_1" site_id="64dcc587-f000-4595-b534-5d11b6b8f287" xmltv_id="NHL Center Ice 771 HD">NHL Center Ice 771 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="588e9724-d03d-46d2-aab4-892ec3043d70" xmltv_id="NHL Center Ice 772">NHL Center Ice 772</channel>
+    <channel site="[ENC]directv.com_1" site_id="85daa8c4-9bce-49d7-895c-209f4b83f0f5" xmltv_id="NHL Center Ice 772 HD">NHL Center Ice 772 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="63d490dc-8b8a-4986-a6b7-d2ed07669e11" xmltv_id="NHL Center Ice 773">NHL Center Ice 773</channel>
+    <channel site="[ENC]directv.com_1" site_id="5c65454d-b1c8-4977-86e9-3195c13c9d63" xmltv_id="NHL Center Ice 773 HD">NHL Center Ice 773 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8a50e776-fc49-433e-bd8b-2c80221aa748" xmltv_id="NHL Center Ice 774">NHL Center Ice 774</channel>
+    <channel site="[ENC]directv.com_1" site_id="5be8e1c0-8db4-4a5e-9ed1-4151456407e7" xmltv_id="NHL Center Ice 774 HD">NHL Center Ice 774 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3947f4a3-af5e-4016-b4a2-ae83ac90a9f3" xmltv_id="NHL Center Ice 775">NHL Center Ice 775</channel>
+    <channel site="[ENC]directv.com_1" site_id="839b9767-115c-4ec3-be3f-0b25c214ede7" xmltv_id="NHL Center Ice 775 HD">NHL Center Ice 775 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd3d2ede-4561-4f9e-acab-f90ca945ef59" xmltv_id="NHL Center Ice 776">NHL Center Ice 776</channel>
+    <channel site="[ENC]directv.com_1" site_id="93437531-5393-4ef6-b14e-c63367b8044a" xmltv_id="NHL Center Ice 776 HD">NHL Center Ice 776 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4a7914bf-dc08-473d-8b6c-263ae3173d07" xmltv_id="NHL Center Ice 777">NHL Center Ice 777</channel>
+    <channel site="[ENC]directv.com_1" site_id="56073966-d192-492e-9689-b581bf590b25" xmltv_id="NHL Center Ice 777 HD">NHL Center Ice 777 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4c9debe1-a8f9-410c-b9d6-1018c66bf617" xmltv_id="NHL Center Ice 778">NHL Center Ice 778</channel>
+    <channel site="[ENC]directv.com_1" site_id="66bb184a-7b11-4f22-86c0-a0777942ac55" xmltv_id="NHL Center Ice 778 HD">NHL Center Ice 778 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="745fb880-1f70-4973-9dd7-c1d5db24ed5b" xmltv_id="NHL Center Ice 779">NHL Center Ice 779</channel>
+    <channel site="[ENC]directv.com_1" site_id="5b4a0c00-1932-4fc0-991f-37bf15545d54" xmltv_id="NHL Center Ice 779 HD">NHL Center Ice 779 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="60f44506-eb8c-4fdc-8560-6a3be7ae59e0" xmltv_id="NHL Center Ice 780">NHL Center Ice 780</channel>
+    <channel site="[ENC]directv.com_1" site_id="435bf3d9-3fbb-4c9a-ad15-d94891958295" xmltv_id="NHL Center Ice 780 HD">NHL Center Ice 780 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4b639abe-d662-4b33-8635-f20556e0c931" xmltv_id="NHL Center Ice 781">NHL Center Ice 781</channel>
+    <channel site="[ENC]directv.com_1" site_id="81857112-f3b8-4605-97d6-3b191c912b39" xmltv_id="NHL Center Ice 781 HD">NHL Center Ice 781 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f56c3762-f2ba-41a6-82a5-2e284a72ead1" xmltv_id="NHL Center Ice 782">NHL Center Ice 782</channel>
+    <channel site="[ENC]directv.com_1" site_id="7b04b9a0-0478-4d5b-a831-961f1b9bca85" xmltv_id="NHL Center Ice 782 HD">NHL Center Ice 782 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="26eac303-3396-4cfa-b04c-8a3aec967c72" xmltv_id="NHL Center Ice 783">NHL Center Ice 783</channel>
+    <channel site="[ENC]directv.com_1" site_id="2cc0ba2d-ebc4-46d0-bf3d-a128fdb79c84" xmltv_id="NHL Center Ice 783 HD">NHL Center Ice 783 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="e44b65d3-2530-4d10-9308-f2702e094871" xmltv_id="NHL Center Ice 784">NHL Center Ice 784</channel>
+    <channel site="[ENC]directv.com_1" site_id="c0f8a7ec-660c-4097-8050-93c1490d286d" xmltv_id="NHL Center Ice 784 HD">NHL Center Ice 784 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b6ebbd2e-9245-4e7c-95ec-4b59bab521f7" xmltv_id="NHL Center Ice 785">NHL Center Ice 785</channel>
+    <channel site="[ENC]directv.com_1" site_id="a8d1b168-75a5-46e1-ab7c-64ba5315cebc" xmltv_id="NHL Center Ice 785 HD">NHL Center Ice 785 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2634ab00-00ff-4289-b109-d8ffb6d243df" xmltv_id="NHL Center Ice 786">NHL Center Ice 786</channel>
+    <channel site="[ENC]directv.com_1" site_id="7dd3a808-de4a-46bf-8358-c5e8754c26a3" xmltv_id="NHL Center Ice 786 HD">NHL Center Ice 786 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2598cae2-783b-4c90-8d1a-2cfc9d2e6984" xmltv_id="NHL Center Ice 787">NHL Center Ice 787</channel>
+    <channel site="[ENC]directv.com_1" site_id="5ac43fb7-fe7b-4e46-b477-41057908bc75" xmltv_id="NHL Center Ice 787 HD">NHL Center Ice 787 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="11668ec1-8069-421a-8795-be84f04260e9" xmltv_id="NHL Center Ice 788">NHL Center Ice 788</channel>
+    <channel site="[ENC]directv.com_1" site_id="bb54792f-e74c-49a6-80af-a185f36fecf0" xmltv_id="NHL Center Ice 789">NHL Center Ice 789</channel>
+    <channel site="[ENC]directv.com_1" site_id="16738928-2596-4a76-b9bd-4d4be7022fe7" xmltv_id="NHL Center Ice 790">NHL Center Ice 790</channel>
+    <channel site="[ENC]directv.com_1" site_id="de3a8257-fe5d-4cc4-ab95-78d86be6af1c" xmltv_id="NHL Center Ice 792">NHL Center Ice 792</channel>
+    <channel site="[ENC]directv.com_1" site_id="95552de2-4665-4470-922a-b4769be575fa" xmltv_id="NHL Center Ice 793">NHL Center Ice 793</channel>
+    <channel site="[ENC]directv.com_1" site_id="08501d13-3285-41a4-80f8-729d20cb0348" xmltv_id="NHL Network">NHL Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="07451ee9-2ed8-428f-bec1-12b35bed6ccc" xmltv_id="NHL Network Alternate">NHL Network Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="ac5a3584-c71a-4cbc-84dc-655406891cf7" xmltv_id="NHL Network Alternate HD">NHL Network Alternate HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9bbe980e-451e-42f1-8ffa-c12f7f4ddabe" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC]directv.com_1" site_id="0ae8d67d-2284-4e26-a2f9-4ba1b2819ff9" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3914ef4b-2eb7-48f5-99fb-8216ee8e37ad" xmltv_id="Nickelodeon East">Nickelodeon East</channel>
+    <channel site="[ENC]directv.com_1" site_id="18ee6c13-d93a-4f79-bd02-21bd18b052a3" xmltv_id="Nickelodeon East HD">Nickelodeon East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="63c40d47-aab6-4ba9-b1ad-de7a646e4ce9" xmltv_id="Nickelodeon West">Nickelodeon West</channel>
+    <channel site="[ENC]directv.com_1" site_id="41a3b6f2-8fbd-416d-9c61-b150d4006711" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1ddf432-7f01-4022-bb5f-f43828799024" xmltv_id="Nippon TV HD">Nippon TV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c6bb192-dc04-48de-862b-71fb9e12cd1f" xmltv_id="NRB">NRB</channel>
+    <channel site="[ENC]directv.com_1" site_id="2cdd1068-8a3c-40ee-9d41-48016d5712e4" xmltv_id="NTN 24 (103A)">NTN 24 (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="5482a6ae-a603-47e3-a543-4ff86f6e0b0a" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
+    <channel site="[ENC]directv.com_1" site_id="f712dac3-1041-4564-908e-165ef9093b83" xmltv_id="Nuestra Vision">Nuestra Vision</channel>
+    <channel site="[ENC]directv.com_1" site_id="fdb4e801-b869-4c73-8bfa-2274323b14b7" xmltv_id="Once Mexico">Once Mexico</channel>
+    <channel site="[ENC]directv.com_1" site_id="99163796-fc80-4cba-ba9e-77afc20d90bc" xmltv_id="OPM TV">OPM TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="a0c52f45-a7c5-41ce-ab29-47e73f222a1b" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="f33c61e3-1697-4307-a30f-cf2af76bed69" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b1b5893b-9eac-4c60-995a-b8106412a718" xmltv_id="Ovation">Ovation</channel>
+    <channel site="[ENC]directv.com_1" site_id="9e44efca-a796-4d96-a15f-25c0e75f90ce" xmltv_id="Ovation HD">Ovation HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="58e441dc-f9fe-41a5-af33-aac1f03d3ed1" xmltv_id="OWN">OWN</channel>
+    <channel site="[ENC]directv.com_1" site_id="f1082500-8827-43bd-a782-583a56f5b2db" xmltv_id="OWN HD">OWN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="535fb7d4-b50b-42b0-a465-96b1d7b06799" xmltv_id="OWN West">OWN West</channel>
+    <channel site="[ENC]directv.com_1" site_id="2b054eaf-3dd6-4178-9a91-5dd02f58791a" xmltv_id="Oxygen True Crime HD">Oxygen True Crime HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ed5ec2b7-b51a-4bf0-92b0-965232c6c5e0" xmltv_id="Oxygen True Crime">Oxygen True Crime</channel>
+    <channel site="[ENC]directv.com_1" site_id="8e30858c-4f59-4e13-b297-091bafa7f91f" xmltv_id="Paramount+ with SHOWTIME EAST">Paramount+ with SHOWTIME EAST</channel>
+    <channel site="[ENC]directv.com_1" site_id="a78c644e-08a0-47d7-ada2-9d0251f556e8" xmltv_id="Paramount+ with SHOWTIME WEST HD">Paramount+ with SHOWTIME WEST HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1c4e1fec-a588-42e2-b068-e04ad332824c" xmltv_id="Paramount+ with SHOWTIME WEST">Paramount+ with SHOWTIME WEST</channel>
+    <channel site="[ENC]directv.com_1" site_id="f7c51034-f830-4d00-a55e-e79981af9edd" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="35132820-6521-4eb9-9ccf-1dd42de1a5c3" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4120dd0a-1c5f-42ba-80c6-3fb269edb45e" xmltv_id="Pasiones">Pasiones</channel>
+    <channel site="[ENC]directv.com_1" site_id="ae23c8ee-e923-4ec4-b3c9-5079d67974c0" xmltv_id="PBO">PBO</channel>
+    <channel site="[ENC]directv.com_1" site_id="46c15402-92e9-4aee-9b2d-e8512c33696a" xmltv_id="PBS Kids">PBS Kids</channel>
+    <channel site="[ENC]directv.com_1" site_id="10bac3e0-2cea-4b9f-a473-ed3efffbea5f" xmltv_id="New York, NY WEDW PBS 49 A3 HD">New York, NY WEDW PBS 49 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="261f8679-5d40-4769-88e5-642b787db3b7" xmltv_id="New York, NY WNET PBS 13 A3 HD">New York, NY WNET PBS 13 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="16ac1489-3d4d-4e7e-8f2b-f2d0b4664a90" xmltv_id="New York, NY WNJN PBS 50 A3 HD">New York, NY WNJN PBS 50 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="92eb7112-07ed-48cf-aa1e-ac9bf75d3cbe" xmltv_id="PBSNET">PBSNET</channel>
+    <channel site="[ENC]directv.com_1" site_id="cc6652d2-fb20-4f2a-8abe-de649b71cc9e" xmltv_id="Peru Magico">Peru Magico</channel>
+    <channel site="[ENC]directv.com_1" site_id="5ecf3dda-2297-48d4-80db-af16887865cb" xmltv_id="Phoenix Hong Kong">Phoenix Hong Kong</channel>
+    <channel site="[ENC]directv.com_1" site_id="0c567dd6-3779-450e-9553-af963a3ab929" xmltv_id="Phoenix Info News (99R)">Phoenix Info News (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="9c95f924-c5df-4f32-a17e-3345d97d1eef" xmltv_id="Phoenix TV (2050)">Phoenix TV (2050)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b461e376-e4c2-490f-8992-c5fe15ae582f" xmltv_id="Phoenix TV (2115)">Phoenix TV (2115)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2fb0e133-7cd4-4817-bbc3-9698566f491e" xmltv_id="POP HD">POP HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="520ba247-660d-481d-97e5-b231d3256723" xmltv_id="Pop TV">Pop TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="8a176c5d-4164-4ccc-992b-072d6c8eb1fb" xmltv_id="Pursuit Channel">Pursuit Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="f6b8efa2-124b-4238-b42f-970d3a854dda" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC]directv.com_1" site_id="433f0e4a-18f5-4b11-be5a-696bafca7bcd" xmltv_id="QVC (70)">QVC (70)</channel>
+    <channel site="[ENC]directv.com_1" site_id="f05cf06e-cdeb-4b19-baec-cc2ae0d86742" xmltv_id="QVC Channel 317">QVC Channel 317</channel>
+    <channel site="[ENC]directv.com_1" site_id="352ed336-6f24-4801-8a2d-711bf8e86317" xmltv_id="QVC HD">QVC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4d7c01e5-531f-41c3-96d6-ce67ea400cec" xmltv_id="QVC HD (317)">QVC HD (317)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b57ae0e3-b95d-4583-9d9a-41b78bd4f49a" xmltv_id="QVC HD (70)">QVC HD (70)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d1d47246-2807-4675-b3ce-ed179689fec5" xmltv_id="QVC2">QVC2</channel>
+    <channel site="[ENC]directv.com_1" site_id="b14e8538-f332-425c-b7ad-684eb5467f7f" xmltv_id="QVC2 (76)">QVC2 (76)</channel>
+    <channel site="[ENC]directv.com_1" site_id="893b200c-1f5c-4d8f-82c8-9219fa0e5118" xmltv_id="QVC2 (79)">QVC2 (79)</channel>
+    <channel site="[ENC]directv.com_1" site_id="cdc92164-5416-44a1-a03a-3dc5713c0cd0" xmltv_id="QVC3">QVC3</channel>
+    <channel site="[ENC]directv.com_1" site_id="6f5bb930-5af0-435f-9a89-8e938bea25ec" xmltv_id="Radio Rai">Radio Rai</channel>
+    <channel site="[ENC]directv.com_1" site_id="ba6310c7-f2ec-4312-8c33-912c27877327" xmltv_id="RadioS">RadioS</channel>
+    <channel site="[ENC]directv.com_1" site_id="7acc5a6e-ee65-4749-a071-9f587ad6d499" xmltv_id="Rai Italia">Rai Italia</channel>
+    <channel site="[ENC]directv.com_1" site_id="4be5bdd3-daf7-4c24-9540-770441a90469" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="[ENC]directv.com_1" site_id="9e1c6135-ac12-439a-a592-48107be0ff96" xmltv_id="Rai World Premium">Rai World Premium</channel>
+    <channel site="[ENC]directv.com_1" site_id="a5f102f9-b54d-4431-b702-053fd4c7616e" xmltv_id="ReelzChannel HD">ReelzChannel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="60a7043a-e7f9-4c08-9b6d-87dba36ff3e4" xmltv_id="ReelzChannel">ReelzChannel</channel>
+    <channel site="[ENC]directv.com_1" site_id="17915df7-392d-458c-a52d-f15761031840" xmltv_id="RENEW TV (324)">RENEW TV (324)</channel>
+    <channel site="[ENC]directv.com_1" site_id="babda3be-824b-4727-bb51-0c5006b63f91" xmltv_id="RENEW TV (85-1)">RENEW TV (85-1)</channel>
+    <channel site="[ENC]directv.com_1" site_id="8fff1531-0549-4bf4-8bd0-8e52ce8545e3" xmltv_id="Revolt HD">Revolt HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="33b33049-4d09-4ad9-8c25-b1862f8a7600" xmltv_id="RFD HD TV">RFD HD TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="cd4f0bc6-5056-4977-8864-abbe1af3aea6" xmltv_id="ROOT SPORTS Northwest">ROOT SPORTS Northwest</channel>
+    <channel site="[ENC]directv.com_1" site_id="51560801-0d3a-414e-ba0b-83e209976eb8" xmltv_id="ROOT SPORTS Northwest HD">ROOT SPORTS Northwest HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9f1d8b6a-2dc9-4999-a399-21ce7d5da79b" xmltv_id="Root Sports Northwest Plus">Root Sports Northwest Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="18616b4e-bfa9-4584-8d0c-d74d54e5e619" xmltv_id="ROOT SPORTS Northwest Plus">ROOT SPORTS Northwest Plus</channel>
+    <channel site="[ENC]directv.com_1" site_id="8b2e5ca5-6c35-45d3-985d-96158421524f" xmltv_id="ROOT Sports Northwest Plus 2">ROOT Sports Northwest Plus 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="e7567948-8957-43d9-a179-384d5b405898" xmltv_id="ROOT Sports Northwest Plus 2 HD">ROOT Sports Northwest Plus 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="505441f9-9e1f-4733-bfc7-b44395fad9da" xmltv_id="ROOT SPORTS Northwest Plus HD">ROOT SPORTS Northwest Plus HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="22af13da-f05e-4f34-bfcf-4ef1b9729f15" xmltv_id="RTVI">RTVI</channel>
+    <channel site="[ENC]directv.com_1" site_id="0561cc7b-78c9-472c-b7a1-9301af4ac503" xmltv_id="S Channel">S Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="2bc1b471-ebfd-4593-83aa-06135dbce929" xmltv_id="SALE Network">SALE Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c37755d-5b85-4ed1-adff-e940fe564876" xmltv_id="SALE Network.">SALE Network.</channel>
+    <channel site="[ENC]directv.com_1" site_id="47d2901e-b124-4fd5-aa38-7e98c238ba67" xmltv_id="Sari Sari Channel">Sari Sari Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="ff08d2fe-7437-4946-9598-66bd23d34188" xmltv_id="Save">Save</channel>
+    <channel site="[ENC]directv.com_1" site_id="45c78eaa-f721-4490-87a6-9d8038d3b375" xmltv_id="Save 222 (Infomercial)">Save 222 (Infomercial)</channel>
+    <channel site="[ENC]directv.com_1" site_id="769f5de2-0030-4acf-bf27-3d97a0992c90" xmltv_id="SBS 2080 (99R)">SBS 2080 (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="0b9b8d2b-cd03-4c65-a6f8-482005736f51" xmltv_id="SBS HD">SBS HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4e5cb66b-0d41-45c0-873d-e49ee16a3733" xmltv_id="SBS Plus (99R)">SBS Plus (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="f1c2cf9d-c540-4dd2-9e9c-c49ba1c65d28" xmltv_id="SBTN">SBTN</channel>
+    <channel site="[ENC]directv.com_1" site_id="5bc45a0d-29b8-4cdc-a0b2-c694a29c51f2" xmltv_id="Science">Science</channel>
+    <channel site="[ENC]directv.com_1" site_id="96c2990a-a4f4-4009-8076-a62ee28ae061" xmltv_id="Science HD">Science HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="336feaf4-0c3f-4b91-b903-81d2694ba296" xmltv_id="Scientology Network">Scientology Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="e014b20e-3de9-4647-9273-8e8db8491f4b" xmltv_id="Seasonal Sport Offer Channel">Seasonal Sport Offer Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="426cecf2-e6f5-4eb7-b071-c38f86226ebf" xmltv_id="Seasonal Sports Offer Channel">Seasonal Sports Offer Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="0a89b977-d5e0-419d-aa75-5af7ab193dab" xmltv_id="SEC Network">SEC Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c8abb32-1002-4118-a3b2-2201be88fe5a" xmltv_id="SEC Network HD">SEC Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6fba2e7f-b312-4c84-96e8-ab5c766cfefe" xmltv_id="SECRET TV">SECRET TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="0fc617e9-ca44-4fc6-b524-c84b2a814cab" xmltv_id="SECRET TV (250)">SECRET TV (250)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b9609c18-e937-4f1e-a913-ae5dba4754f1" xmltv_id="SEEK">SEEK</channel>
+    <channel site="[ENC]directv.com_1" site_id="ebd281b2-2cbb-4d59-9ad5-1292289932e1" xmltv_id="SEEK 97">SEEK 97</channel>
+    <channel site="[ENC]directv.com_1" site_id="62ab9994-c0bb-41ee-9629-3220d474fad0" xmltv_id="Shepherd's Chapel">Shepherd's Chapel</channel>
+    <channel site="[ENC]directv.com_1" site_id="a2113d48-e836-4614-b607-ee8c59b183b9" xmltv_id="Shop HQ">Shop HQ</channel>
+    <channel site="[ENC]directv.com_1" site_id="ee12231b-41af-437e-86a3-0182f51551cb" xmltv_id="SHOP HQ (73)">SHOP HQ (73)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2f0d7833-e695-43a7-8432-82812cdfc532" xmltv_id="Shop LC HD">Shop LC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f8e95634-bf63-429f-99fe-b4c229b03ce2" xmltv_id="Shop LC HD 75">Shop LC HD 75</channel>
+    <channel site="[ENC]directv.com_1" site_id="9cf938f5-e2c1-4909-9536-918305eb4f23" xmltv_id="ShortsTV HD">ShortsTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="0bba36e4-7802-43c0-ad3f-cc0ff064a518" xmltv_id="Paramount+ with SHOWTIME EAST HD">Paramount+ with SHOWTIME EAST HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="23e1c6f4-81ce-4cbd-948b-93619740b339" xmltv_id="SHOWTIME 2 HD">SHOWTIME 2 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bbb883d9-cec7-45c3-943e-6e22dad6e181" xmltv_id="SHOWTIME 2">SHOWTIME 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="b8ce8d20-0304-4c27-b6aa-2074fa4cfbb8" xmltv_id="Showtime Extreme">Showtime Extreme</channel>
+    <channel site="[ENC]directv.com_1" site_id="a0652edf-0255-4cd0-b19a-3593673ea6f8" xmltv_id="Showtime Extreme HD">Showtime Extreme HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6d7bde13-2992-4f23-8b3d-ec02eaa17d4f" xmltv_id="Showtime FamilyZone HD">Showtime FamilyZone HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4128313f-fce9-474d-b5fe-c709c4e1e07d" xmltv_id="Showtime Next HD">Showtime Next HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="463bedb2-ce78-4c4e-9c3b-9b13fdee54cd" xmltv_id="Showtime Showcase HD">Showtime Showcase HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8f4b91e5-a872-4caa-80c2-b817cf80f69d" xmltv_id="SHOxBET">SHOxBET</channel>
+    <channel site="[ENC]directv.com_1" site_id="095db592-0d0e-4f05-92cb-29c23525ac62" xmltv_id="SHOxBET HD">SHOxBET HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b7dd0c3c-d22b-4a6b-b360-dcaf56deab7f" xmltv_id="Smithsonian Channel HD">Smithsonian Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b5452e9c-1d13-42ed-9723-794d26e77530" xmltv_id="SportsNet New York HD">SportsNet New York HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="0582fc73-558a-4294-afe6-4eb211b9594b" xmltv_id="So Yummy">So Yummy</channel>
+    <channel site="[ENC]directv.com_1" site_id="dd9680df-bb6b-4499-8a05-5f95c586669b" xmltv_id="Son Life Broadcasting HD">Son Life Broadcasting HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a778edc5-9569-4db9-a1f8-bc10a93a5b0d" xmltv_id="Sony Cine">Sony Cine</channel>
+    <channel site="[ENC]directv.com_1" site_id="3517dc60-418a-4d0a-8a0e-4be262dd27ee" xmltv_id="Sony Movies">Sony Movies</channel>
+    <channel site="[ENC]directv.com_1" site_id="0771b5ec-a6d7-4a98-8b03-dbe42a9ca3e8" xmltv_id="Space City Home Network Alternate">Space City Home Network Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="73507e54-57e2-4ca8-b815-845aebaa8ec7" xmltv_id="Space City Home Network HD">Space City Home Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="505c4489-465a-4c7b-8436-255ae534a80a" xmltv_id="Space City Home Network">Space City Home Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="03cf3ec5-9ad0-43e9-b3a0-ad01b74a5f71" xmltv_id="Space City Home Network Alternate">Space City Home Network Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="ceb40004-5a65-4a23-8d8c-6349225e2059" xmltv_id="Space City Home Network HD Alternate">Space City Home Network HD Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="a6776631-3200-4a17-8b8b-2a0aba570e3e" xmltv_id="Spectrum SportsNet Alternate">Spectrum SportsNet Alternate</channel>
+    <channel site="[ENC]directv.com_1" site_id="8daed9b5-1b79-4654-b395-d6be84e12ff4" xmltv_id="Spectrum SportsNet">Spectrum SportsNet</channel>
+    <channel site="[ENC]directv.com_1" site_id="feb4ace1-1fb3-41bb-85f7-873faa3eac19" xmltv_id="Spectrum SportsNet (Alternate)">Spectrum SportsNet (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="dcbda44e-b993-495f-b28d-5f9a1dddcb34" xmltv_id="Spectrum SportsNet LA">Spectrum SportsNet LA</channel>
+    <channel site="[ENC]directv.com_1" site_id="268359f2-6a3b-4625-979b-b099bdfcbba7" xmltv_id="Spectrum SportsNet LA HD">Spectrum SportsNet LA HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8c4620bb-bdd2-4917-b94a-b7e9484a8239" xmltv_id="Spectrum SportsNet HD">Spectrum SportsNet HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d4d5226d-a464-4630-a38f-1addb17c472c" xmltv_id="Spectrum SportsNet HD (Alternate)">Spectrum SportsNet HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="e7fea4c6-af18-43ff-bde6-06b4a23071ef" xmltv_id="SPORTS MIX HD (205)">SPORTS MIX HD (205)</channel>
+    <channel site="[ENC]directv.com_1" site_id="564a5fe1-e088-4e93-b4fe-67521aae1e29" xmltv_id="SPORTS MIX HD (600)">SPORTS MIX HD (600)</channel>
+    <channel site="[ENC]directv.com_1" site_id="28cb5863-af10-473d-9625-fb6fd2206fe6" xmltv_id="SportsGrid">SportsGrid</channel>
+    <channel site="[ENC]directv.com_1" site_id="35c1ba7e-1007-4171-a7a1-a04912e8149f" xmltv_id="Sportsman Channel">Sportsman Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="78673916-6fd6-45cd-b5f2-fdad66eb8288" xmltv_id="SportsNet New York">SportsNet New York</channel>
+    <channel site="[ENC]directv.com_1" site_id="b40add45-90b2-4f4a-b75e-3adb8d2c09e5" xmltv_id="SportsNet Pittsburgh">SportsNet Pittsburgh</channel>
+    <channel site="[ENC]directv.com_1" site_id="19bc7c01-8abf-402c-94f1-6fe02df48c36" xmltv_id="SportsNet Pittsburgh HD">SportsNet Pittsburgh HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c8a0f8af-2f39-468e-9609-ee41139046bc" xmltv_id="SportsNet Pittsburgh (Alternate)">SportsNet Pittsburgh (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="2bc0797c-1e72-4ae9-8430-4a00bb64bfe4" xmltv_id="SportsNet Pittsburgh (Alternate 2)">SportsNet Pittsburgh (Alternate 2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7dc1c3d5-ac6a-4535-b12f-2c24141b7e0d" xmltv_id="SportsNet Pittsburgh HD (Alternate)">SportsNet Pittsburgh HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="deb7b6c7-e1fb-43d0-9243-c0b30119b25c" xmltv_id="SportsNet Pittsburgh HD (Alternate 2)">SportsNet Pittsburgh HD (Alternate 2)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7fa8341d-f580-4896-933c-e328f0a68cb8" xmltv_id="SporTV">SporTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="42d7c5c9-84fb-4a90-b2b6-624e4cf46637" xmltv_id="STARZ Encore Action HD">STARZ Encore Action HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ecf02663-f12d-4e5b-954e-fcc64ed4c295" xmltv_id="STARZ Encore Black">STARZ Encore Black</channel>
+    <channel site="[ENC]directv.com_1" site_id="69429991-b95f-4bef-8d71-ff6ba44d1824" xmltv_id="STARZ Encore Classic">STARZ Encore Classic</channel>
+    <channel site="[ENC]directv.com_1" site_id="f25513f5-3685-40aa-a172-c07265006b5b" xmltv_id="STARZ Encore Family">STARZ Encore Family</channel>
+    <channel site="[ENC]directv.com_1" site_id="0e89f29b-17a7-4e9e-8edd-bbe2de49cb56" xmltv_id="STARZ Encore Suspense">STARZ Encore Suspense</channel>
+    <channel site="[ENC]directv.com_1" site_id="c40a0cb8-8717-46e0-9920-c17cf6f5e124" xmltv_id="STARZ Encore Westerns">STARZ Encore Westerns</channel>
+    <channel site="[ENC]directv.com_1" site_id="a159f96b-b98b-4772-af97-dff13b11a0d2" xmltv_id="STARZ Kids &amp; Family HD">STARZ Kids &amp; Family HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="78487d44-75e4-42a9-9a43-2c3ea9736d3e" xmltv_id="STARZ Cinema HD">STARZ Cinema HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="c7cca5a8-98ee-44bb-9af6-91aa79e37652" xmltv_id="STARZ Comedy HD">STARZ Comedy HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="2b37e536-052a-4969-b5c9-2bc1455d8c51" xmltv_id="STARZ East">STARZ East</channel>
+    <channel site="[ENC]directv.com_1" site_id="109f98f5-33b9-4fc0-b039-061672bd5917" xmltv_id="STARZ Edge">STARZ Edge</channel>
+    <channel site="[ENC]directv.com_1" site_id="92f13716-7093-49a7-8f6a-335f0b30e9e4" xmltv_id="STARZ Encore">STARZ Encore</channel>
+    <channel site="[ENC]directv.com_1" site_id="6f9320fa-1b8e-4319-9cb5-ca2ace386f55" xmltv_id="STARZ Encore Action">STARZ Encore Action</channel>
+    <channel site="[ENC]directv.com_1" site_id="689ce7db-1803-4433-947c-943c3241b518" xmltv_id="Starz Encore en Espanol (103A)">Starz Encore en Espanol (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="676e4861-8f11-40d9-9285-a78455472b29" xmltv_id="STARZ Encore HD">STARZ Encore HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3db92850-0314-4bd9-a517-7af91523d3ea" xmltv_id="STARZ Encore West">STARZ Encore West</channel>
+    <channel site="[ENC]directv.com_1" site_id="2b80c0fe-0670-4a20-977e-83e8658c1678" xmltv_id="STARZ East HD">STARZ East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e5f46ea-3381-4436-9f8c-478fdf4a2ab6" xmltv_id="STARZ Edge HD">STARZ Edge HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="6e0e284f-e971-414e-8cbe-bb813257ed58" xmltv_id="STARZ in Black">STARZ in Black</channel>
+    <channel site="[ENC]directv.com_1" site_id="d539400e-8ef3-4c0d-9673-5ad31347dae5" xmltv_id="STARZ in Black HD">STARZ in Black HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="17b336f5-9ead-4b76-8526-54bc8688e6e9" xmltv_id="STARZ West">STARZ West</channel>
+    <channel site="[ENC]directv.com_1" site_id="a5362726-4133-4233-89e6-459b8f435810" xmltv_id="STARZ West HD">STARZ West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="f56626d5-7461-4408-91f6-8d235b884be6" xmltv_id="SundanceTV HD">SundanceTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="a26e1629-c5c5-4bd1-a44d-a911bde51139" xmltv_id="SundanceTV">SundanceTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="43261502-fc5d-4367-9969-b410bed04856" xmltv_id="SUR Peru (103A)">SUR Peru (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7d83b2a7-c1d8-4052-82ea-5624a19667d9" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC]directv.com_1" site_id="f859a25e-eb37-4fde-bc34-612d415b8bb2" xmltv_id="SYFYHD">SYFYHD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4a881476-a974-40ae-bf6e-162699e56bc7" xmltv_id="Tan">Tan</channel>
+    <channel site="[ENC]directv.com_1" site_id="ca0a1649-7452-498b-a1c6-647938cc0e3d" xmltv_id="Tastemade">Tastemade</channel>
+    <channel site="[ENC]directv.com_1" site_id="91732881-6d5e-48c9-bde5-6ae4496e2598" xmltv_id="Tastemade Home">Tastemade Home</channel>
+    <channel site="[ENC]directv.com_1" site_id="08b29152-16a7-4cd4-bd22-f34eec8fea27" xmltv_id="Tastemade Travel">Tastemade Travel</channel>
+    <channel site="[ENC]directv.com_1" site_id="f01823c4-547e-4af2-b678-740752628217" xmltv_id="TBN Inspire">TBN Inspire</channel>
+    <channel site="[ENC]directv.com_1" site_id="6d38dc98-d69c-4449-8de3-f4c5a4216a93" xmltv_id="TBS">TBS</channel>
+    <channel site="[ENC]directv.com_1" site_id="86528a42-ae4e-405c-8fae-c567c1ed70df" xmltv_id="TBS HD">TBS HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="385801f7-606a-457d-8116-e1a73cf77484" xmltv_id="TBS West HD">TBS West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ae82036e-3af0-4f54-8a86-bb9c433ba8f4" xmltv_id="TCM">TCM</channel>
+    <channel site="[ENC]directv.com_1" site_id="6b20b8de-3094-48f4-ad7b-4eecc2f8d48a" xmltv_id="TCM HD">TCM HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1c8226dd-f0c7-4b69-bbb4-142a6deff392" xmltv_id="TCT Network">TCT Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="d920e05c-e03f-449c-962a-a16bea9fb5a3" xmltv_id="TeenNick">TeenNick</channel>
+    <channel site="[ENC]directv.com_1" site_id="750f242a-4554-4f92-b037-b389949980c2" xmltv_id="TeleCentro">TeleCentro</channel>
+    <channel site="[ENC]directv.com_1" site_id="f613d391-2db1-470b-b875-a0ee899dc876" xmltv_id="Telefe">Telefe</channel>
+    <channel site="[ENC]directv.com_1" site_id="81eb963b-d26c-4a45-a525-1bdcd7655dda" xmltv_id="Telemundo East">Telemundo East</channel>
+    <channel site="[ENC]directv.com_1" site_id="b6319342-0343-4b72-82bf-54239c87f363" xmltv_id="Telemundo West (103A)">Telemundo West (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d33d363d-4144-4aae-be5d-debebeef2b0d" xmltv_id="Tennis Channel HD">Tennis Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="cebcc32e-32d6-495d-989b-99f1062b1624" xmltv_id="Tennis Channel">Tennis Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="5d926d7d-5379-4d3a-8a2e-7091c0ba08c9" xmltv_id="TFC - The Filipino Channel (99R)">TFC - The Filipino Channel (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="56f08371-563d-4910-8b4f-147e829104e5" xmltv_id="The Weather Channel HD">The Weather Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="abe265fc-942d-4f2c-b03d-39eb96f02a4a" xmltv_id="The Movie Channel East">The Movie Channel East</channel>
+    <channel site="[ENC]directv.com_1" site_id="3078897a-8da3-4a0f-b5e1-19aac06a1c0d" xmltv_id="The Movie Channel East HD">The Movie Channel East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8995127b-a5ba-469e-926a-4a2d8a6ce3cf" xmltv_id="The Movie Channel West">The Movie Channel West</channel>
+    <channel site="[ENC]directv.com_1" site_id="15d23b4b-a9df-4094-ba16-cebfca650cd1" xmltv_id="The Movie Channel Xtra HD">The Movie Channel Xtra HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="3aa82652-2a94-49db-a4a3-76d5f1c6d843" xmltv_id="The Weather Channel">The Weather Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="cfd4b615-c89c-47db-a561-5f582c3e23a2" xmltv_id="The WORD Network">The WORD Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="80c25768-273c-4298-a307-a6255e60cf7f" xmltv_id="The First">The First</channel>
+    <channel site="[ENC]directv.com_1" site_id="c546d353-7526-4d4d-9cf3-e7afefad7f44" xmltv_id="theGrio">theGrio</channel>
+    <channel site="[ENC]directv.com_1" site_id="48338a58-883f-4c70-b946-08bef542e323" xmltv_id="ThrillerMAX HD">ThrillerMAX HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="37a0a48a-3ca8-465f-8c4e-cbce36dd0ff3" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]directv.com_1" site_id="be9b2996-ae6c-4161-b99b-6158e6d2b798" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="ca68b631-34c4-4e31-a4b3-ef0b031eace7" xmltv_id="TNT">TNT</channel>
+    <channel site="[ENC]directv.com_1" site_id="3c10db4e-98ac-40c0-a301-661504f60588" xmltv_id="TNT HD">TNT HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="fb089f4f-0b1a-481c-adb1-d624884f51f2" xmltv_id="TNT West HD">TNT West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="810fc6fc-3c81-4537-ab56-facfe8980dd6" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]directv.com_1" site_id="088ffb78-2fed-4ebb-bf13-bf009d0700d7" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="d2f0861d-1db9-4d78-8213-d6f5676689ab" xmltv_id="Trinity Broadcast Network HD">Trinity Broadcast Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="74c41fde-6f1e-4920-8429-16d9d4fa259c" xmltv_id="Tr3S (103A)">Tr3S (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="237c0fe0-d6db-4084-81f2-56c44ca019aa" xmltv_id="truTV">truTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="1b10de5e-3e3b-488f-9740-bec197244114" xmltv_id="truTV HD">truTV HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="94f6ccab-c0c4-4011-b060-5f7205dc8528" xmltv_id="TUDN HD">TUDN HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="64d08230-b1b3-4261-b3ac-211a02f2d4e6" xmltv_id="TUDN">TUDN</channel>
+    <channel site="[ENC]directv.com_1" site_id="a119d741-4acd-454b-bcf4-e73f8f55b04e" xmltv_id="TV Japan">TV Japan</channel>
+    <channel site="[ENC]directv.com_1" site_id="bab6fd9e-72e5-4a8a-abca-99ecc45f1f6b" xmltv_id="TV Land">TV Land</channel>
+    <channel site="[ENC]directv.com_1" site_id="a22a1e02-fb9b-4d64-b9e8-2ce5eac89d6d" xmltv_id="TV Land HD">TV Land HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="8c312c97-15af-45d1-b754-9770c854f177" xmltv_id="TV One HD">TV One HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="7073892a-12e1-46cc-b6dc-8e441e0ea819" xmltv_id="TV5 (99R)">TV5 (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="26f4f648-65d8-4778-97bd-b6fab983f943" xmltv_id="TV Chile (103A)">TV Chile (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="e6191fde-773f-4d56-8e76-0c889fdb7dd8" xmltv_id="TVE (103A)">TVE (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="fba717c0-23b5-46e5-9102-e95279739000" xmltv_id="Tviet (99R)">Tviet (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="7ba1eb96-697f-4146-b3b2-6cb319d16cd3" xmltv_id="TyC Sports">TyC Sports</channel>
+    <channel site="[ENC]directv.com_1" site_id="b3ead28d-5ea7-4f87-8120-62a5bfc6cce0" xmltv_id="UniMas SD West (103A)">UniMas SD West (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="dad499f5-14e2-43f8-a98a-333022817223" xmltv_id="UniMas West HD">UniMas West HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="bca9e155-9227-4bdc-b518-8b7021157cc9" xmltv_id="New York, NY WFUT UMas 68 A3 HD">New York, NY WFUT UMas 68 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="325d8ba8-70e4-4dee-805d-07516411d01c" xmltv_id="Universal Kids">Universal Kids</channel>
+    <channel site="[ENC]directv.com_1" site_id="dd6bcabb-6534-4b06-804f-986e69b5d8b6" xmltv_id="Universal Kids HD">Universal Kids HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="4aac3d11-c961-4ec3-9e62-300a0b4ac1e9" xmltv_id="Universo (103A)">Universo (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="b0453ac3-7a84-462d-8ef0-c1d66810b72c" xmltv_id="Universo HD">Universo HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="5e034b4a-569e-4baf-bf87-8abaabc613b8" xmltv_id="Univision East">Univision East</channel>
+    <channel site="[ENC]directv.com_1" site_id="94f35e95-f0d6-4967-874e-234e4ceaae8c" xmltv_id="Univision East HD">Univision East HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="1bbdd13d-6561-4b64-b441-4b6023ded388" xmltv_id="Univision telenovelas">Univision telenovelas</channel>
+    <channel site="[ENC]directv.com_1" site_id="b67cde95-4ba4-4ada-b6c6-be81221957a3" xmltv_id="Univision West (103A)">Univision West (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="dee11770-5e9f-4cd2-b286-661ce2e303c8" xmltv_id="New York, NY WXTV UNI 41 A3 HD">New York, NY WXTV UNI 41 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="843f6a76-f055-46ad-9371-c70b15fd55c8" xmltv_id="UPTV">UPTV</channel>
+    <channel site="[ENC]directv.com_1" site_id="f4902d0e-360b-44d6-8add-0cd3b24b01ed" xmltv_id="US Open Court Channel 1">US Open Court Channel 1</channel>
+    <channel site="[ENC]directv.com_1" site_id="1b851863-e771-4a77-a380-9965cd774bc0" xmltv_id="US Open Court Channel 2">US Open Court Channel 2</channel>
+    <channel site="[ENC]directv.com_1" site_id="929196d7-8591-4ea2-aca9-9afe74efd2a6" xmltv_id="US Open Court Channel 3">US Open Court Channel 3</channel>
+    <channel site="[ENC]directv.com_1" site_id="6595db93-0e03-47d5-b9b1-d68b71310716" xmltv_id="US Open Court Channel 4">US Open Court Channel 4</channel>
+    <channel site="[ENC]directv.com_1" site_id="8d01ee84-de2e-4f6b-8ffd-c65ad5ba9a71" xmltv_id="US Open Court Channel 5">US Open Court Channel 5</channel>
+    <channel site="[ENC]directv.com_1" site_id="00fe3c8a-dade-497c-ba7a-67b32bcddbfa" xmltv_id="USA Network">USA Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="214a502e-c54a-4b61-8904-b4ce37c1e38a" xmltv_id="USA Network HD">USA Network HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="b9fbebc1-62ff-4be5-bf0b-4b8bc1e761b1" xmltv_id="VALU">VALU</channel>
+    <channel site="[ENC]directv.com_1" site_id="834b72c5-22ec-4cb6-b3af-3ecd9c6ccacc" xmltv_id="VALU (91)">VALU (91)</channel>
+    <channel site="[ENC]directv.com_1" site_id="77060657-4bec-44ca-9f06-ebef29e8e970" xmltv_id="VePlus">VePlus</channel>
+    <channel site="[ENC]directv.com_1" site_id="0c565006-b3f1-4f36-a3a3-ba195b0ff895" xmltv_id="VGN TV">VGN TV</channel>
+    <channel site="[ENC]directv.com_1" site_id="cc8b6744-9ba8-4a89-a90a-d4f6dc09a232" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC]directv.com_1" site_id="3e229de3-9fb0-4f09-8a0c-4c88b4c61614" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="01a62748-de51-4c3d-b4ad-1167e6983492" xmltv_id="VICE">VICE</channel>
+    <channel site="[ENC]directv.com_1" site_id="2e991d96-3ca5-41f6-8ec1-6db7bd9f4371" xmltv_id="VICE HD">VICE HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="129d7c86-3a81-4bfe-afd7-b2f60dad9dda" xmltv_id="VICTORY">VICTORY</channel>
+    <channel site="[ENC]directv.com_1" site_id="372d24ff-ca2e-438b-86f0-fbdef2b13873" xmltv_id="Videorola">Videorola</channel>
+    <channel site="[ENC]directv.com_1" site_id="2991a5d2-22a8-49a6-8500-5833f4ac31e0" xmltv_id="Vien Thao (99R)">Vien Thao (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="c587874a-4a6c-42d4-87cd-fc21d58f707b" xmltv_id="Viendo Movies">Viendo Movies</channel>
+    <channel site="[ENC]directv.com_1" site_id="8a939ddd-0d98-4066-b4c6-d18bb2ea2211" xmltv_id="Viet Face (99R)">Viet Face (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="a552c179-351c-4108-91b5-e5d193b83db8" xmltv_id="Vietv (99R)">Vietv (99R)</channel>
+    <channel site="[ENC]directv.com_1" site_id="f846cc88-c855-4ecb-ab2d-d2f98509eee6" xmltv_id="VISION TV Channel 262">VISION TV Channel 262</channel>
+    <channel site="[ENC]directv.com_1" site_id="834ce34a-0768-441c-b804-23f850db8dfb" xmltv_id="VISION TV Channel 89">VISION TV Channel 89</channel>
+    <channel site="[ENC]directv.com_1" site_id="9deec11c-482b-4f94-b1dc-be9365a5f8a7" xmltv_id="Vme">Vme</channel>
+    <channel site="[ENC]directv.com_1" site_id="c359fc4e-1bea-442b-972e-a55a6ce5aba6" xmltv_id="WABC (New York) ABC East">WABC (New York) ABC East</channel>
+    <channel site="[ENC]directv.com_1" site_id="ec38798e-ed88-43b5-8e1b-182c280945b8" xmltv_id="WABC (New York) ABC HD East">WABC (New York) ABC HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="d3cb96a7-c699-4ddd-bd3b-e9d654704897" xmltv_id="WAPA America (103A)">WAPA America (103A)</channel>
+    <channel site="[ENC]directv.com_1" site_id="aa7d150f-08da-423c-8fec-2f138d7d9da8" xmltv_id="WCBS (New York) CBS East">WCBS (New York) CBS East</channel>
+    <channel site="[ENC]directv.com_1" site_id="c1c37837-0e6e-4000-be5a-c2461e4a00c1" xmltv_id="WCBS (New York) CBS HD East">WCBS (New York) CBS HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="d38f1910-a0af-4933-8a89-fd100277c0b0" xmltv_id="WE tv HD">WE tv HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="02001ea9-bd8a-4185-b05d-82ea8fdc42d6" xmltv_id="WE tv">WE tv</channel>
+    <channel site="[ENC]directv.com_1" site_id="c17cd3d2-0549-44f3-845b-0f39eb194ce4" xmltv_id="Willow HD">Willow HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="42fb56a2-5a5a-456c-8846-71f0941d0ea5" xmltv_id="Willow Xtra">Willow Xtra</channel>
+    <channel site="[ENC]directv.com_1" site_id="fda58531-ea33-45d3-a7cd-70b7cdc7ed91" xmltv_id="Willow Xtra">Willow Xtra</channel>
+    <channel site="[ENC]directv.com_1" site_id="518012ba-c9b7-4f8a-943b-801aa7356210" xmltv_id="WINS">WINS</channel>
+    <channel site="[ENC]directv.com_1" site_id="037403cf-bedd-4ba7-9f14-cf4a78ea772c" xmltv_id="New York, NY WLNY IND 55 A3 HD">New York, NY WLNY IND 55 A3 HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="9cbb661f-5086-4c0f-94e3-9ca57a3b5642" xmltv_id="WNBC (New York) NBC East">WNBC (New York) NBC East</channel>
+    <channel site="[ENC]directv.com_1" site_id="51220e77-5010-4812-bc7f-b22d99b455a1" xmltv_id="WNBC (New York) NBC HD East">WNBC (New York) NBC HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="697a34e7-d326-4dfd-9275-119b341be23b" xmltv_id="WNYW (New York) FOX East">WNYW (New York) FOX East</channel>
+    <channel site="[ENC]directv.com_1" site_id="29878ad9-e93b-4b30-9d3f-cf04ca853914" xmltv_id="WNYW (New York) FOX HD East">WNYW (New York) FOX HD East</channel>
+    <channel site="[ENC]directv.com_1" site_id="490f4723-11be-4917-97f2-0aa207be03ce" xmltv_id="World Harvest Television">World Harvest Television</channel>
+    <channel site="[ENC]directv.com_1" site_id="b0c58509-8e98-45bc-81ba-eade20af8d9f" xmltv_id="WOW TV 234">WOW TV 234</channel>
+    <channel site="[ENC]directv.com_1" site_id="a38b3bf1-3e07-4157-86aa-f9709eb3b592" xmltv_id="WOW TV 98-1">WOW TV 98-1</channel>
+    <channel site="[ENC]directv.com_1" site_id="323df93e-266f-4ccd-8469-7a2c53ae0a15" xmltv_id="XPLOR">XPLOR</channel>
+    <channel site="[ENC]directv.com_1" site_id="976369aa-12ed-4378-82ef-d467b9349681" xmltv_id="XPLOR (262-1)">XPLOR (262-1)</channel>
+    <channel site="[ENC]directv.com_1" site_id="63c1506a-c95f-4a1d-932e-c722ef37ce3a" xmltv_id="XTRA (99)">XTRA (99)</channel>
+    <channel site="[ENC]directv.com_1" site_id="1892b902-6ef6-4b19-ba5d-241a250009af" xmltv_id="XTRA Network">XTRA Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="a3a93b18-cfeb-409d-b3dd-6385ddd07bf2" xmltv_id="Yankee Ent. &amp; Sports (YES)">Yankee Ent. &amp; Sports (YES)</channel>
+    <channel site="[ENC]directv.com_1" site_id="dad66180-1fa1-41da-9334-cb7e0cc57230" xmltv_id="YES (Alternate)">YES (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="d78f51a2-e4a7-4c3e-86c9-1f6f4361d2fb" xmltv_id="YES HD">YES HD</channel>
+    <channel site="[ENC]directv.com_1" site_id="45aff6bc-1b2c-4273-ba15-34ed6b696578" xmltv_id="YES HD (Alternate)">YES HD (Alternate)</channel>
+    <channel site="[ENC]directv.com_1" site_id="c0520c45-69ef-475b-b24a-87e737cedad5" xmltv_id="YES Network">YES Network</channel>
+    <channel site="[ENC]directv.com_1" site_id="cc49f879-bf36-4da3-a653-da8d6480fd0c" xmltv_id="YTN">YTN</channel>
+    <channel site="[ENC]directv.com_1" site_id="13598f84-d7e2-4ecc-aba5-d3720db52ade" xmltv_id="ZooMoo">ZooMoo</channel>
+  </channels>
+</site>
