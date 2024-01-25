@@ -19,7 +19,7 @@ return array (
   'start' => 'itemprop="startDate" content="(.*?)"',
   'start_format' => 'Y-m-d\\G\\M\\TH#i#s',
   'title' => 'target="_blank">(.*?)<\\/a>||#replace#(\\s\\d+\\.)$##(\\s[XVILMDC]+\\.\\/\\d+\\.)$||##',
-  'subtitle' => '<div class="smartpe_progentrylong">(.*?)<\\/div>||#include#<p/>||#replace#(<p\\/>(?:Rendező|Rendezte).*?)$##(<p\\/>Főszereplők.*?)$##(<p\\/><p\\/>.*?)$##^(.*?<p\\/>)##^((?:\\d+\\/)?\\d+\\.(?:\\s)?(?:rész)?(?:\\:)?)||########',
+  'subtitle' => '<div class="smartpe_progentrylong">(.*?)<br\\/><br\\/>||#replace#(<p\\/>(?:Rendező|Rendezte).*?)$##(<p\\/>Főszereplők.*?)$##(<p\\/><p\\/>.*?)$##^(.*?<p\\/>)##^((?:\\d+\\/)?\\d+\\.(?:\\s)?(?:rész)?(?:\\:)?)||########',
   'desc' => '<div class="smartpe_progentrylong">(?:.*?<p\\/><p\\/>)?(.*?)<\\/div>||#replace#((?:<p\\/>)?(?:Rendező|Rendezte).*?)$##((?:<p\\/>)?Főszereplők.*?)$||##',
   'category' => '"smartpe_progshortdesc" itemprop="description">(?!\\d{4})(?:[a-z].*?\\s)?(.*?)(?:,(?:\\s)?\\d{4})?<\\/|#|<div class="smartpe_recommendation_live" title="(.*?)\\s||#word#',
   'showicon' => '"smartpe_progentrycell smartpe_screenshot">\\s*<img src="(.*?)"||#replace#(\\/small\\/)||/fb/||#addstart#https:',
