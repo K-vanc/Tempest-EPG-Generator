@@ -7,7 +7,7 @@ return array (
   'creation_date' => '2024-01-06',
   'rev_no' => 'R0',
   'remarks' => 'Rewrite',
-  'timezone' => 'Europe/Rome',
+  'timezone' => 'UTC',
   'culture' => 'it',
   'max_day' => '7.1',
   'rating_system' => 'MBACT',
