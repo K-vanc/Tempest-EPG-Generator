@@ -7,7 +7,7 @@ return array (
   'creation_date' => '2024-01-24',
   'rev_no' => 'R0',
   'remarks' => 'Ciao Amici Miei!',
-  'timezone' => 'Europe/Rome',
+  'timezone' => 'UTC',
   'culture' => 'it',
   'max_day' => '8',
   'episodeOption' => '1',
