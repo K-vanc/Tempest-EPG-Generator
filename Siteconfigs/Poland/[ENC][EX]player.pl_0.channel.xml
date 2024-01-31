@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]player.pl_0">
+  <channels>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1908473||r-scale-3b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/49770073" xmltv_id="TVN HD">TVN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1908474||r-scale-1f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908474/images/50622682" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57630||r-scale-d2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770089" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57633||r-scale-7f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57633/images/49770097" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1908475||r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770120" xmltv_id="TTV HD">TTV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57610||r-scale-3b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57610/images/49476243" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57615||r-scale-a7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57615/images/51618029" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57616||r-scale-0a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57616/images/51618037" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57626||r-scale-79.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769141" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57631||r-scale-d9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57631/images/49770128" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930755||r-scale-b6.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930755/images/49768828" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930753||r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930753/images/49769040" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930751||r-scale-a1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930751/images/49768868" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930757||r-scale-dd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930757/images/49769024" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930756||r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930756/images/48881724" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930750||r-scale-bc.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930750/images/49768836" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930759||r-scale-4d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930759/images/49786459" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930758||r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930758/images/49768844" xmltv_id="DTX">DTX</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57613||r-scale-b0.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57613/images/49769032" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330167||r-scale-c9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330167/images/52502449" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57590||r-scale-82.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57590/images/49768876" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330169||r-scale-ff.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502615" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330165||r-scale-78.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330165/images/52496620" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330168||r-scale-fd.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502502" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|2930752||r-scale-7a.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49768977" xmltv_id="Metro">Metro</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330166||r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496636" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330171||r-scale-b5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330171/images/52496644" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6330170||r-scale-6d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496628" xmltv_id="Warner TV HD">Warner TV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57594||r-scale-4e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266427.png" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57603||r-scale-f1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266429.png" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57605||r-scale-0a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266431.png" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|113229||r-scale-70.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266433.png" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57592||r-scale-0e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_815964.png" xmltv_id="CANAL+ PREMIUM HD">CANAL+ PREMIUM HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57611||r-scale-4d.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250293.png" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57598||r-scale-cc.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250303.png" xmltv_id="CANAL+ FILM HD">CANAL+ FILM HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57612||r-scale-bb.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250308.png" xmltv_id="CANAL+ SERIALE HD">CANAL+ SERIALE HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|5899827||r-scale-88.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250315.png" xmltv_id="CANAL+ FAMILY HD">CANAL+ FAMILY HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57617||r-scale-08.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_558307.png" xmltv_id="CANAL+ DOKUMENT HD">CANAL+ DOKUMENT HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57595||r-scale-bc.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250322.png" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57614||r-scale-0e.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250325.png" xmltv_id="CANAL+ SPORT 2 HD">CANAL+ SPORT 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1960975||r-scale-d1.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575902.png" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1960976||r-scale-63.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575905.png" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|57621||r-scale-87.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_251967.png" xmltv_id="CANAL+ Now HD">CANAL+ Now HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6342854||r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342854/images/52605452" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6342855||r-scale-ab.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342855/images/52605565" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|6342856||r-scale-0f.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342856/images/52605577" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|101381||r-scale-b9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/101381/images/49769016" xmltv_id="MOTOWIZJA">MOTOWIZJA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1381580||r-scale-16.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381580/images/49770136" xmltv_id="ITVN HD">ITVN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1381583||r-scale-e4.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381583/images/49770144" xmltv_id="ITVN Extra HD">ITVN Extra HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|1381584||r-scale-70.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381584/images/49768961" xmltv_id="TVN24 HD International">TVN24 HD International</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759890||r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759890/images/55090786" xmltv_id="TVN Rewolucje w Kuchni Online">TVN Rewolucje w Kuchni Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759882||r-scale-d5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759882/images/55089347" xmltv_id="TVN Kultowe Seriale Online">TVN Kultowe Seriale Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759881||r-scale-2d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759881/images/55090849" xmltv_id="TVN Rajska Miłość Online">TVN Rajska Miłość Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759886||r-scale-49.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759886/images/55089641" xmltv_id="TVN Talk Show Online">TVN Talk Show Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759884||r-scale-f5.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759884/images/55089509" xmltv_id="TVN Kryminalnie Online">TVN Kryminalnie Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759880||r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759880/images/55090798" xmltv_id="TVN Momenty Prawdy Online">TVN Momenty Prawdy Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759891||r-scale-eb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759891/images/55090792" xmltv_id="TVN Życie Jak w Bajce Online">TVN Życie Jak w Bajce Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759892||r-scale-45.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759892/images/55080443" xmltv_id="TVN Szpitalne Historie Online">TVN Szpitalne Historie Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759888||r-scale-e7.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759888/images/55089743" xmltv_id="TVN Seriale o Kobietach Online">TVN Seriale o Kobietach Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759887||r-scale-0c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759887/images/55089677" xmltv_id="TVN Telenowele Online">TVN Telenowele Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759893||r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759893/images/55089326" xmltv_id="TVN Szkoła Życia Online">TVN Szkoła Życia Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759889||r-scale-fb.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759889/images/55090765" xmltv_id="TVN W Domu Online">TVN W Domu Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759883||r-scale-6b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759883/images/55089488" xmltv_id="TVN Moto Online">TVN Moto Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759885||r-scale-34.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759885/images/55089575" xmltv_id="TVN Usterka Online">TVN Usterka Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="BROWSER|##|8759879||r-scale-98.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/8759879/images/55090885" xmltv_id="TVN Prawo i Życie Online">TVN Prawo i Życie Online</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1908473||r-scale-4b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908473/images/49770076" xmltv_id="TVN HD">TVN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1908474||r-scale-81.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908474/images/50622685" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57630||r-scale-5c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57630/images/49770092" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57633||r-scale-31.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57633/images/49770100" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1908475||r-scale-e0.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1908475/images/49770123" xmltv_id="TTV HD">TTV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57610||r-scale-4b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57610/images/49476246" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57615||r-scale-29.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57615/images/51618032" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57616||r-scale-db.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57616/images/51618040" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57626||r-scale-09.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57626/images/49769144" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57631||r-scale-b9.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57631/images/49770131" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930755||r-scale-d6.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930755/images/49768831" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930753||r-scale-66.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930753/images/49769043" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930751||r-scale-c1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930751/images/49768871" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930757||r-scale-44.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930757/images/49769027" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930756||r-scale-9c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930756/images/48881726" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930750||r-scale-2c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930750/images/49768839" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930759||r-scale-f1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930759/images/49786462" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57613||r-scale-2e.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57613/images/49769035" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930758||r-scale-62.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930758/images/49768847" xmltv_id="DTX">DTX</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330169||r-scale-81.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330169/images/52502618" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57590||r-scale-41.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/57590/images/49768940" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330165||r-scale-e1.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330165/images/52496623" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330167||r-scale-47.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330167/images/52502452" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|2930752||r-scale-72.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/2930752/images/49769011" xmltv_id="Metro">Metro</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330168||r-scale-63.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330168/images/52502505" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330166||r-scale-4b.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330166/images/52496639" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330171||r-scale-2c.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330171/images/52496647" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6330170||r-scale-0d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6330170/images/52496631" xmltv_id="Warner TV HD">Warner TV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57594||r-scale-cc.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266428.png" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57603||r-scale-37.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266430.png" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57605||r-scale-4d.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266432.png" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|113229||r-scale-c2.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_266434.png" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57611||r-scale-b8.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250297.png" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57592||r-scale-cb.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_815968.png" xmltv_id="CANAL+ PREMIUM HD">CANAL+ PREMIUM HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57598||r-scale-43.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250305.png" xmltv_id="CANAL+ FILM HD">CANAL+ FILM HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57612||r-scale-3a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250312.png" xmltv_id="CANAL+ SERIALE HD">CANAL+ SERIALE HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|5899827||r-scale-f2.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250317.png" xmltv_id="CANAL+ FAMILY HD">CANAL+ FAMILY HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57617||r-scale-71.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_558310.png" xmltv_id="CANAL+ DOKUMENT HD">CANAL+ DOKUMENT HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57595||r-scale-33.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250324.png" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57614||r-scale-74.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250327.png" xmltv_id="CANAL+ SPORT 2 HD">CANAL+ SPORT 2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1960975||r-scale-ec.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575903.png" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1960976||r-scale-24.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_575906.png" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57621||r-scale-38.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_251969.png" xmltv_id="CANAL+ Now HD">CANAL+ Now HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6342854||r-scale-06.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342854/images/52605455" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6342855||r-scale-b2.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342855/images/52605575" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|6342856||r-scale-16.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/6342856/images/52605580" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|101381||r-scale-29.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/101381/images/49769019" xmltv_id="MOTOWIZJA">MOTOWIZJA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1381580||r-scale-86.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381580/images/49770139" xmltv_id="ITVN HD">ITVN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1381583||r-scale-7d.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381583/images/49770147" xmltv_id="ITVN Extra HD">ITVN Extra HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|1381584||r-scale-00.dcs.redcdn.pl/scale/o2/tvnplayer/portal/upload/live/1381584/images/49768964" xmltv_id="TVN24 HD International">TVN24 HD International</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597018" xmltv_id="TVP SPORT">TVP SPORT</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597011" xmltv_id="TVP3 Gdańsk">TVP3 Gdańsk</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57587" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257992" xmltv_id="TVP ROZRYWKA">TVP ROZRYWKA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257978" xmltv_id="TV PULS 2">TV PULS 2</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|276284" xmltv_id="TTV">TTV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|281952" xmltv_id="TVP3 Białystok">TVP3 Białystok</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57604" xmltv_id="TVP1 HD">TVP1 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257985" xmltv_id="NOWA TV">NOWA TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57607" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257989" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597012" xmltv_id="TVP3 Katowice">TVP3 Katowice</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597013" xmltv_id="TVP3 Kraków">TVP3 Kraków</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257979" xmltv_id="TVP INFO HD">TVP INFO HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|284533" xmltv_id="METRO TV">METRO TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257986" xmltv_id="WP">WP</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597014" xmltv_id="TVP3 Poznań">TVP3 Poznań</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|402665" xmltv_id="TVP3 Olsztyn">TVP3 Olsztyn</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257980" xmltv_id="ATM ROZRYWKA">ATM ROZRYWKA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|284534" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57624||r-scale-5d.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250221.png" xmltv_id="TVN HD">TVN HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597015" xmltv_id="TVP3 Łódź">TVP3 Łódź</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257981||r-scale-25.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_264521.png" xmltv_id="TTV HD">TTV HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257988" xmltv_id="FOKUS TV">FOKUS TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|104057" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597016" xmltv_id="TVP3 Opole">TVP3 Opole</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57629||r-scale-5a.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/TVN_SD_320x240.png" xmltv_id="TVN">TVN</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257990" xmltv_id="SUPER POLSAT">SUPER POLSAT</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257991" xmltv_id="TVP KULTURA">TVP KULTURA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257982" xmltv_id="TVP HISTORIA">TVP HISTORIA</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|597017" xmltv_id="TVP3 Wrocław">TVP3 Wrocław</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57632" xmltv_id="Polsat">Polsat</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257993" xmltv_id="ZOOM TV">ZOOM TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257983" xmltv_id="TV Puls">TV Puls</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257984" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57627" xmltv_id="TVP2 HD">TVP2 HD</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|57634" xmltv_id="TVN 7">TVN 7</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|257977" xmltv_id="POLO TV">POLO TV</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|104056" xmltv_id="TVP3 Warszawa">TVP3 Warszawa</channel>
+    <channel site="[ENC][EX]player.pl_0" site_id="STB|##|276283||r-scale-43.dcs.redcdn.pl/scale/o2/n/edytorEPG/logo/logotype_250409.png" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+  </channels>
+</site>
