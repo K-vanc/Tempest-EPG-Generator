@@ -10,4 +10,4 @@ And typing your location code into "User Key" box such as "GBR-ENG-north_west-li
 <br>And all channels linked to entered location code will be listed in created channel.xml file<br>
 ![image](https://user-images.githubusercontent.com/97025515/170435226-129e8183-2628-4147-8793-4939278a2805.png)
 <br>Note that if you run "Channel Generator" without any location code, default location code for London will be used and Tempest 
-will auto create "bt_location_codes.txt" file into "/tempest_config/site_config/" folder for info
+will auto create "bt_location_codes.txt" or "ee_co_uk_location_codes.txt" file into "/tempest_config/site_config/" folder for info
