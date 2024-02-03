@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]player.ee.co.uk_0">
+  <channels>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1044||449a9915-afc4-5e53-b329-e19766ee6fdb" xmltv_id="BBC One London">BBC One London</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..10bf||e9a78cda-0d44-5c09-a1c1-b6ae76b9ff20" xmltv_id="BBC Two England">BBC Two England</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2045||baf2ddba-dcc2-56b0-aedb-5009c211f64f" xmltv_id="ITV1 London">ITV1 London</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..20c0||6b7d39ac-912c-523d-a825-660a158b5388" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2134||4efea56f-26ba-54ff-879a-51725216bd63" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2085||59d7b06a-1572-5c5c-afc9-d2b90eea5608" xmltv_id="ITV2">ITV2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..11c0||a176200b-0bdf-5ee9-8b3a-d36d81ed0bf6" xmltv_id="BBC Four">BBC Four</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2066||94a5f3c5-6369-5892-b8c4-2fd942a7b56c" xmltv_id="ITV3">ITV3</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..56c0||905e39f5-2bc0-500f-b468-a367cfc35dcf" xmltv_id="Sky Mix">Sky Mix</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ac0||d22d3e88-1956-5696-8f54-6436f2aa9d96" xmltv_id="QUEST">QUEST</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2100||4c9aab1c-4f90-5fd9-8526-2df4f1d4d79a" xmltv_id="E4">E4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..20c1||25ff20fa-3c01-508f-833c-b342bb024081" xmltv_id="Film4">Film4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2104||d1834d20-3c6f-5448-aabf-082d24220fad" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3340||46d51433-8d1a-5eb4-b85c-06de09795709" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5ca0||6c464bad-c566-57c5-908d-4e4eda51cfdc" xmltv_id="Really">Really</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..20fa||a1a922e9-2190-5ff3-85d7-4922bd29ce59" xmltv_id="More 4">More 4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5700||098c46ac-df22-57f5-8fde-9a0b69d4d9e3" xmltv_id="Dave">Dave</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f50||8ecc5abb-7782-5f90-a09c-2b17970a6544" xmltv_id="Drama">Drama</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..32c0||7e5df322-bf61-52b0-ab4d-e4e9f8f8c785" xmltv_id="5USA">5USA</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3ce8||474890f0-931b-57ea-9668-fb45647d051c" xmltv_id="TJC">TJC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..10c0||bf147439-3941-5f51-997d-01bc5448afdd" xmltv_id="BBC Three">BBC Three</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6dc0||3836ce8e-7a83-545f-b5ff-47d80694a783" xmltv_id="W">W</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..208a||5b6999f2-66c9-5e3a-990b-a51b1ad3b131" xmltv_id="ITV4">ITV4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..64c0||8d3f20d6-42a6-5207-ad8f-7a3aef88dd74" xmltv_id="Yesterday">Yesterday</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2094||e7a205a2-dc47-543c-8b32-e45e952c7992" xmltv_id="ITVBe">ITVBe</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3e50||f04b7bec-d8c8-5926-8e37-eef4cc85f09d" xmltv_id="ITV2 +1">ITV2 +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..210a||4162c590-1f50-5844-80dc-a1b87118983e" xmltv_id="E4+1">E4+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5760||3e0498bf-f04f-511e-b296-ef5cf8d1c72a" xmltv_id="E4 Extra">E4 Extra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3280||ae77fea7-4c26-5635-ae3e-2d710a9a9322" xmltv_id="5STAR">5STAR</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3ef0||1d2edead-6a26-54d4-a1c8-3d20124aa3b3" xmltv_id="5ACTION">5ACTION</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ce0||2938f8b8-4af2-5214-a21b-ff371d88af18" xmltv_id="GREAT! movies">GREAT! movies</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..20a9||f97a7af4-29f0-56de-bf8c-48b3b39d1c20" xmltv_id="ITV1 +1 London">ITV1 +1 London</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5680||b814a0f7-da9e-551d-a28d-751ec5fa4fed" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3850||2015d09c-d016-52ef-9bbd-756a2d04cc38" xmltv_id="QVC2">QVC2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..32e0||b9103eb0-afc2-5bf3-9f75-cc27129a8348" xmltv_id="Channel 5+1">Channel 5+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6c20||749e80c6-1597-5d9e-8583-43ce075c1e42" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5cc0||4021a9ba-439e-58e4-9648-37d1bf0376f7" xmltv_id="Quest Red">Quest Red</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3890||789ab686-96c5-5ddf-b077-ff032410ae6b" xmltv_id="Legend">Legend</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3cd8||4e396dfa-6aad-599b-ad4c-9c07d86009c1" xmltv_id="GREAT! action">GREAT! action</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5a00||42216d16-dd33-5c49-bb55-67221db4d68c" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6d60||2e535965-0d50-5aaa-bba3-3c3c75c4d388" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5f80||550d6ceb-cc51-5d6d-a4c6-91609a4eacfe" xmltv_id="Gems TV">Gems TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4f20||d8edcd93-731a-57c6-a7e7-d28be55d126e" xmltv_id="5Select">5Select</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..57c0||2f4d91e2-0181-5ccc-8504-4f6e77e57930" xmltv_id="Film4+1">Film4+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..56d2||7125b28d-ee74-5463-9b16-e776c32819fe" xmltv_id="Challenge">Challenge</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5800||22edbc3e-e735-55aa-8148-b12b6f125ece" xmltv_id="4seven">4seven</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6a20||da4d5985-4463-5a90-9770-4190ea6352ab" xmltv_id="GREAT! tv">GREAT! tv</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6540||582f5e13-c661-5cb4-9144-c6a37f18ee10" xmltv_id="Ideal World">Ideal World</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6aa0||d304e543-d655-5329-8fb3-adb5dde8a190" xmltv_id="GREAT! Romance">GREAT! Romance</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6d20||adcc3fee-dae0-5dbe-a5e5-57497282529b" xmltv_id="That's TV (UK)">That's TV (UK)</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..32d0||2ccbfb08-22b9-5830-8ffc-099f69ccc8d6" xmltv_id="Dave Ja Vu">Dave Ja Vu</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3df8||93535f6c-fe7c-515f-aa93-42530392b6d7" xmltv_id="ITVBe +1">ITVBe +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3e90||1aab1110-fdc8-5259-ac19-d7950058dbdb" xmltv_id="ITV3 +1">ITV3 +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5740||393e1707-bf6f-511b-ad7c-6b43df5b2680" xmltv_id="Drama+1">Drama+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ea0||02d19fcc-2ef0-501c-b126-1169c22fd1af" xmltv_id="GREAT! movies extra">GREAT! movies extra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ec0||856732b7-8c70-50ec-b624-ee6c410b7e13" xmltv_id="GREAT! tv +1">GREAT! tv +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ee0||216edc51-0013-5e40-920d-9d3f219068f8" xmltv_id="GREAT! Romance mix">GREAT! Romance mix</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3830||874b6c57-ad81-51e6-8df5-bd5c32031070" xmltv_id="Blaze">Blaze</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5a70||bd7e739e-6daf-5bcc-8b24-15c4b1d2b04d" xmltv_id="That's TV 2">That's TV 2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4ec0||d46cdc27-4ecc-5654-927a-bea66ea703ba" xmltv_id="TBN UK">TBN UK</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3870||077d07de-4ebc-5311-b5cc-688f7e9863e4" xmltv_id="True Crime">True Crime</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3878||ee26c4d8-1321-533d-a24d-5b76b40a608d" xmltv_id="True Crime Xtra">True Crime Xtra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..8540||3a9eb86a-37c5-56ca-9368-319153e9c64b" xmltv_id="Legend Xtra">Legend Xtra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5d00||5042db49-3732-5930-bc4f-428baff560e6" xmltv_id="QUEST+1">QUEST+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6d80||6626e568-2471-57d0-b131-79931733def6" xmltv_id="That's 60s">That's 60s</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6a40||6d6fb116-4043-51aa-a7bc-cfec8abbfccc" xmltv_id="Jewellery Maker">Jewellery Maker</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6cc0||34b49347-546b-5655-99ec-fd4ac189c4c7" xmltv_id="Hobby Maker">Hobby Maker</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5d40||c5b2658a-9e4c-5132-9ae5-8df0ebaa1be4" xmltv_id="Yesterday+1">Yesterday+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5d60||bd8350bc-3a39-52cf-b376-5eac9272520a" xmltv_id="That's 90s">That's 90s</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3898||eae8b8d5-a7e6-53da-8e41-0ef61cb689ad" xmltv_id="TCC">TCC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6a60||16f1b0dd-04ea-509d-a007-3e7a1d418048" xmltv_id="EarthxTV">EarthxTV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3834||bd1d8037-1fd5-5ba5-8cbd-f3042a5a8657" xmltv_id="Blaze+1">Blaze+1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6e40||0bac19f5-fa5b-5ad4-bd0c-92fda005a86e" xmltv_id="Talking Pictures TV">Talking Pictures TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fec||dfa0587b-2960-5a89-aa5a-9c31f7071805" xmltv_id="Together TV">Together TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6d40||e8b295b8-b9ec-53e6-867b-c37237c54e80" xmltv_id="PBS America">PBS America</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5b20||64f88535-2c33-52a3-b802-52bd03cee252" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3e30||b80ea1bf-dff3-5132-be5d-b94853a76639" xmltv_id="ITV4 +1">ITV4 +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3880||97356f5c-de09-54f0-aec5-df69a2f3b318" xmltv_id="WildEarth">WildEarth</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6b00||477a1135-1f09-5890-8e50-acfd1c10b71d" xmltv_id="Together TV +1">Together TV +1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2198||5cb64c67-edec-5bd1-9aa1-62cbd77fdd9b" xmltv_id="Freeview">Freeview</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4480||73ed6e4a-352b-5f2c-904b-a4b8fdb25bf4" xmltv_id="BBC One London HD">BBC One London HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4440||fba8cd2c-9de0-52b2-81c1-6ac7fae054d6" xmltv_id="BBC Two HD">BBC Two HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..44c4||8f2002ee-9a5c-5bc3-82b3-351d98b3b7ae" xmltv_id="ITV1 HD">ITV1 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4500||577d38b6-3bd6-50c4-826f-4cde99028059" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4540||372c788f-c9d7-51db-bf34-e4dd0f93aa40" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4680||d693e06a-2f17-5c2e-affb-cd241afe15f1" xmltv_id="BBC Four HD">BBC Four HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4600||b7426706-c777-5c84-846c-781e5b6d1193" xmltv_id="BBC Three HD">BBC Three HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1200||9cf3f5ba-53ac-599b-af71-d5e761d83273" xmltv_id="CBBC">CBBC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1240||b8722f13-1363-5ca6-9073-da1ff730a8d6" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..46c0||fecfd6c6-3be7-55ea-9f44-ddb7579e65a0" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..4700||19110970-d8f9-5527-9395-5c4c88525841" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..8200||38fd277d-5ffc-5fe1-a8ca-7ef61788b567" xmltv_id="POP">POP</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..82c0||bc0d4c35-40b8-59f6-8e98-05ebe087162b" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..8240||10f0eaa5-5169-565a-8c43-0ade26ed1364" xmltv_id="POP MAX">POP MAX</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f48||e5fac3b5-7f12-561d-8f70-871cb4691db0" xmltv_id="KetchupTv">KetchupTv</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f58||cd20df95-ca84-5f43-9566-5947cb60a356" xmltv_id="Ketchup Too">Ketchup Too</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3298||c2202150-d940-5dc6-a86d-d2d6f9cdf6ba" xmltv_id="YAAAS!">YAAAS!</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..32a0||4b976c45-2c7e-53f0-bf95-2be2b77d3090" xmltv_id="POP Player">POP Player</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fe0||4bf69e63-5077-582f-a9a8-8ac9f2d97c22" xmltv_id="Moochi">Moochi</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1100||6c5aaa8c-8037-564f-8eb9-4c4fa4f60ac1" xmltv_id="BBC News Channel">BBC News Channel</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1280||3623f464-ad33-52ed-bdc8-aca109e2975f" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5640||1e5484ea-8078-59c3-ba79-374a794ad203" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6c40||87720ddd-ab06-51b6-8bc2-096a08aabb2d" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ae0||1aea6a4a-1a8c-5826-8254-d1068bbcce17" xmltv_id="GB News">GB News</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3290||9416fd85-1b34-5edd-9592-4583e3dfbb6b" xmltv_id="TalkTV">TalkTV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1140||0a63c2e9-4d5d-5999-a825-89d93e21b723" xmltv_id="BBC Red Button">BBC Red Button</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3aa8||489572c8-cf75-553d-9039-c86341cfc662" xmltv_id="Sonlife">Sonlife</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..32a8||eefe01ea-0c58-59fc-86a4-c4aa24143c8a" xmltv_id="Fail Army/Pet Collective">Fail Army/Pet Collective</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3ad8||5cb8402a-1c0a-5783-88b4-b1190fe87682" xmltv_id="On Demand 365">On Demand 365</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f96||68296eb9-1468-5266-84ee-ac5d3c974a08" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f9c||fb719152-7a67-5f07-afea-d0bf9add8420" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fa2||a33c9911-a594-56e2-852c-688d766722e5" xmltv_id="WION News">WION News</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3faa||f28901c4-b1e1-5350-ae41-0cf769bfd34b" xmltv_id="Real Crime">Real Crime</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3c58||48038866-3cf7-5a76-ac6c-6ff391084731" xmltv_id="Channelbox">Channelbox</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3358||4bf0e768-5b0e-57a2-b150-41e4248ef5f7" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fa8||c37c7f77-1200-5cbf-9997-f915710ff45b" xmltv_id="ASHARQ NEWS">ASHARQ NEWS</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fb0||2bdba0f7-3d18-583f-9d43-0efcd62c3318" xmltv_id="AL ARABIYA">AL ARABIYA</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fb6||8400c411-fde2-5e16-a2ec-6ad3e79473af" xmltv_id="Shots!">Shots!</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3c78||d7240c73-3679-56a4-918f-070dbb3b0a01" xmltv_id="UK RADIO PORTAL">UK RADIO PORTAL</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fbc||edab38d6-a606-53fe-860a-a42f36aa3068" xmltv_id="Zee World">Zee World</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f60||7224c3bc-0a36-5809-9798-75828fcac293" xmltv_id="Alaraby Network">Alaraby Network</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f70||539af968-99f9-5bb3-8b45-501f089954cf" xmltv_id="ROK">ROK</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f78||7b227e43-68df-5534-87d7-e20859605dd9" xmltv_id="Revelation TV">Revelation TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f80||8c0a8fe2-65e0-5882-9c87-c92c1dfd04a3" xmltv_id="God TV">God TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f88||76968543-909e-50e1-93df-5ba698bf79fc" xmltv_id="3ABN">3ABN</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3f90||1e339e15-c1cc-50a6-9665-a721a5110b49" xmltv_id="AmazingDiscoveries">AmazingDiscoveries</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6ca0||7576ebea-1a33-5622-8126-0009fac927b0" xmltv_id="Together TV IP">Together TV IP</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fc2||90d5540d-3abb-57b8-b677-24de521c584d" xmltv_id="NHK World">NHK World</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fc8||35ac2693-fc7f-5078-8676-fef59cbb61f6" xmltv_id="Newsmax">Newsmax</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fda||09de4269-6974-5792-9c20-3a0dae7d9e0c" xmltv_id="Amazing Facts">Amazing Facts</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fd4||b5761f37-469b-5273-9dd9-6bb94e3eef8f" xmltv_id="Nyx">Nyx</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fce||9c380b1a-67d4-5425-89fc-7fc76c1ddba0" xmltv_id="Mech +">Mech +</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3fe6||c2cdc39e-2957-5dd6-95ee-5fc17b246bc9" xmltv_id="TV Extra">TV Extra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_93_1404_SD||71748625" xmltv_id="Sky News.">Sky News.</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_608791||9911493" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756787||14110442" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_760101||10891979" xmltv_id="EE TV Preview">EE TV Preview</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770512||35583945" xmltv_id="Netflix">Netflix</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770515||35583911" xmltv_id="Prime Video">Prime Video</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772487_1276_SD||77731121" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_154279_2201_SD||50487794" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759409_1412_SD||50190506" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_509198_3825_SD||82273359" xmltv_id="Alibi">Alibi</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_81523_2304_SD||50190493" xmltv_id="GOLD">GOLD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750989_2510_SD||50190489" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_255_1402_SD||50869879" xmltv_id="Sky Max">Sky Max</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772057_1177_SD||62595622" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_318488_2505_SD||50487796" xmltv_id="Sky Sci-Fi">Sky Sci-Fi</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_753644_1212_SD||60355977" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750973_1752_SD||50190504" xmltv_id="Sky Arts.">Sky Arts.</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_57005_2501_SD||50186976" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772169_1127_SD||64704542" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772170_1875_SD||64704560" xmltv_id="Sky History">Sky History</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772168_1194_SD||64704824" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772488_1276_HD||77731122" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758547_2201_HD||50487795" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759410_1412_HD||50186980" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_760040_3825_HD||82273360" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771058_2304_HD||50487774" xmltv_id="GOLD HD">GOLD HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759077_2510_HD||50956205" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_755657_1402_HD||50869876" xmltv_id="Sky Max HD">Sky Max HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772066_1177_HD||62595647" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758174_2505_HD||50487805" xmltv_id="Sky Sci-Fi HD">Sky Sci-Fi HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772065_1212_HD||60355974" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756518_1752_HD||50186978" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_762673_2501_HD||50956206" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772172_1127_HD||64704690" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772173_1875_HD||64704723" xmltv_id="Sky History HD">Sky History HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772171_1194_HD||64704878" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759054_1404_HD||71748643" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772615||81794888" xmltv_id="Sony TV HD">Sony TV HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772313||81794881" xmltv_id="Sony Max HD">Sony Max HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_760356||81794896" xmltv_id="Utsav Plus HD">Utsav Plus HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772614||81794895" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772314||81794892" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772315||81794890" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770737||81794889" xmltv_id="Colors HD">Colors HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770645||81794897" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_763997||10068955" xmltv_id="TNT Sports 1">TNT Sports 1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_764001||10068953" xmltv_id="TNT Sports 2">TNT Sports 2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_768612||21871577" xmltv_id="TNT Sports 3">TNT Sports 3</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758465||10845218" xmltv_id="TNT Sports 4">TNT Sports 4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750611||9911467" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750823||9911469" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_631679_1314_SD||50487791" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_503_1301_SD||50487789" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_768064_1303_SD||50869871" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771052_3838_SD||50487785" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_223160_1302_SD||50487783" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750598_1322_SD||50487788" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759963_1306_SD||50869873" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_397065_1333_SD||50487779" xmltv_id="Sky Sports NFL">Sky Sports NFL</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771051_3839_SD||50487780" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_751621_1354_SD||52950080" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770332_4091_SD||50487790" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_763999||10068964" xmltv_id="TNT Sports 1 HD">TNT Sports 1 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_764003||10068952" xmltv_id="TNT Sports 2 HD">TNT Sports 2 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_768613||22326210" xmltv_id="TNT Sports 3 HD">TNT Sports 3 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_768397||19231389" xmltv_id="TNT Sports Ultimate">TNT Sports Ultimate</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758466||11134246" xmltv_id="TNT Sports 4 HD">TNT Sports 4 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759079||13996060" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_763478||13996074" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759235_1314_HD||50956201" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756532_1301_HD||50641601" xmltv_id="Sky Sports Main Event HD">Sky Sports Main Event HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_768067_1303_HD||50869870" xmltv_id="Sky Sports Premier League HD">Sky Sports Premier League HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771076_3838_HD||50956191" xmltv_id="Sky Sports Football HD">Sky Sports Football HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756533_1302_HD||50641597" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759234_1322_HD||50641598" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_760134_1306_HD||50869872" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_757365_1333_HD||50956189" xmltv_id="Sky Sports NFL HD">Sky Sports NFL HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771075_3839_HD||50956190" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771750_1354_HD||52950079" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771438_4091_HD||50956200" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767933||17254865" xmltv_id="TNT Sports 5">TNT Sports 5</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767934||19231343" xmltv_id="TNT Sports 6">TNT Sports 6</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767935||19231345" xmltv_id="TNT Sports 7">TNT Sports 7</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767936||22932120" xmltv_id="TNT Sports 8">TNT Sports 8</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767937||22931885" xmltv_id="TNT Sports 9">TNT Sports 9</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767938||22931886" xmltv_id="TNT Sports 10">TNT Sports 10</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767454||22931888" xmltv_id="TNT Sports 5 HD">TNT Sports 5 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767456||19231339" xmltv_id="TNT Sports 6 HD">TNT Sports 6 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767457||19231344" xmltv_id="TNT Sports 7 HD">TNT Sports 7 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767459||22931889" xmltv_id="TNT Sports 8 HD">TNT Sports 8 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767460||22931890" xmltv_id="TNT Sports 9 HD">TNT Sports 9 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_767461||22931891" xmltv_id="TNT Sports 10 HD">TNT Sports 10 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_157644_5601_SD||50956167" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750650_5609_SD||50869867" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_154274_1846_SD||50190503" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_751764_1849_SD||50956177" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750608_1857_SD||50190500" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_755542_1371_SD||50956204" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_RBM61990_1147_SD||86454979" xmltv_id="Sky Kids">Sky Kids</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_760136_5601_HD||50956168" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_769621_5609_HD||50869883" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_759443_1846_HD||50956184" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_770161_1857_HD||50956169" xmltv_id="Nick Junior HD">Nick Junior HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_RBM61991_1147_HD||86454981" xmltv_id="Sky Kids HD">Sky Kids HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_771276||44112656" xmltv_id="TNT Sports Box Office HD">TNT Sports Box Office HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772073||61246118" xmltv_id="TNT Sports Box Office 2 HD">TNT Sports Box Office 2 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_769095||60355980" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772384||71021947" xmltv_id="Sky Sports Box Office 2 HD">Sky Sports Box Office 2 HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772174_1198_SD||65179769" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750600_1409_SD||50869868" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_727787_1811_SD||50641700" xmltv_id="Sky Cinema Select">Sky Cinema Select</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756489_1814_SD||50641636" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_727785_1815_SD||50641703" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_727783_1808_SD||50641631" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_92_1001_SD||50190510" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_91_1002_SD||50641618" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_756491_1818_SD||50641701" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_750602_1816_SD||50641628" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_727786_1807_SD||50641649" xmltv_id="Sky Cinema Sci-Fi &amp; Horror">Sky Cinema Sci-Fi &amp; Horror</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_772175_1198_HD||65179777" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_757355_1409_HD||50869865" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758727_1811_HD||50822874" xmltv_id="Sky Cinema Select HD">Sky Cinema Select HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_727788_1814_HD||50641647" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758031_1815_HD||50822872" xmltv_id="Sky Cinema Greats HD">Sky Cinema Greats HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758028_1808_HD||50641632" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758027_1001_HD||50186984" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758026_1002_HD||50822877" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_755087_1818_HD||50822875" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758029_1816_HD||50822873" xmltv_id="Sky Cinema Drama HD">Sky Cinema Drama HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="http%3A%2F%2Fbds.tv%2Fservices%2FBT_758030_1807_HD||50822876" xmltv_id="Sky Cinema Sci-Fi &amp; Horror HD">Sky Cinema Sci-Fi &amp; Horror HD</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..2199||78f8bc8a-ca72-56f8-a476-a7f34386d080" xmltv_id="Accessible TV Guide">Accessible TV Guide</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1c00||dc4cecdf-fee6-5a7f-aef1-d50f06870032" xmltv_id="BBC RB 1">BBC RB 1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3b60||e33d6507-1be9-5e25-a41d-eb024c8c4b7f" xmltv_id="ADULT Section">ADULT Section</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6c00||bed047fb-091f-518a-ac3a-53108fe99ee0" xmltv_id="ADULT Xpanded TV">ADULT Xpanded TV</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5780||330b9fc9-2ad1-527b-b48f-75705593e97e" xmltv_id="ADULT smileTV3">ADULT smileTV3</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6d00||9c658690-8954-5b3a-8923-7defcb15312f" xmltv_id="ADULT Babestn">ADULT Babestn</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3b68||9545516d-e25f-5ba7-914a-6ecc0eb4d7e8" xmltv_id="695">695</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3b48||7ca9f5c7-1e58-5fe8-acff-4470616cd306" xmltv_id="696">696</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5fb4||c44f4f5e-d8c3-5d5d-bebb-d2eafc0a1adc" xmltv_id="697">697</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6f68||f2b33a30-e72b-5fe3-b623-0984b2832bba" xmltv_id="698">698</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6bc0||924ebc74-b376-52ac-9541-a10edfb91059" xmltv_id="ADULT Section">ADULT Section</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1a40||7c32c4f2-5311-5b01-9383-415b0bd02814" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1700||be7d0ac4-5deb-5cd1-b278-e86485a57227" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1a80||011c9ee7-8546-5abb-8cdd-ba557c77f044" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1ac0||38016e8d-0b0e-5fbc-922a-054ef310023a" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1b00||302a4142-b951-5074-bf0d-8a0718181cf8" xmltv_id="BBC Radio 4">BBC Radio 4</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1600||93ed5f9f-51be-51e8-a6b7-6f1610eaa86a" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1640||e66bb880-0f83-5b11-b853-07478e5ca036" xmltv_id="BBC Radio 5 live sports extra">BBC Radio 5 live sports extra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1680||e212dd4b-dcb5-5146-8952-7d7ee53664ad" xmltv_id="BBC Radio 6 Music">BBC Radio 6 Music</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..16c0||6c27da85-a009-515a-8ddb-fcf107f10de4" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1740||5de52c0c-aeb2-50d2-ab55-165525304659" xmltv_id="BBC Asian Network">BBC Asian Network</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1780||7ab307c0-8f4c-5704-9807-f4cba3aba9e1" xmltv_id="BBC World Service">BBC World Service</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..67c0||fe5787d1-70ce-5929-b670-fad29d93ed84" xmltv_id="Hits Radio">Hits Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..69a0||6b4c8f95-cf8b-5919-a76e-93cbf4b6bfd0" xmltv_id="KISS FRESH">KISS FRESH</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6640||02b8a75d-b2ae-5642-a19b-adc320879c10" xmltv_id="KISS">KISS</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6880||96609b2d-1165-5b82-94af-9aeaec5b6c3b" xmltv_id="KISSTORY">KISSTORY</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6800||9286d43b-bdac-59c4-a9f3-cfdd37721360" xmltv_id="Magic">Magic</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6680||2cd76c62-11f2-5e5d-9f3c-8e111098a749" xmltv_id="Greatest Hits Radio">Greatest Hits Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..66c0||c5880b5a-fc96-5eda-bb75-6338d851258f" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6700||8d7b9c41-f46b-5552-be51-3b05ec541060" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1883||82e1b81e-3896-52c2-b3c4-b7fd01e69737" xmltv_id="BBC Radio Berkshire">BBC Radio Berkshire</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..180d||f1ac3765-ee65-5eac-b8c6-e3b3fa1cff06" xmltv_id="BBC Three Counties Radio">BBC Three Counties Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1804||4cf9949e-b7af-5145-861a-7714a37fdee6" xmltv_id="BBC Radio London">BBC Radio London</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..188c||edc311fa-8e27-5251-a4f9-5600798d5f85" xmltv_id="BBC Radio Surrey">BBC Radio Surrey</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5840||c669709b-7e48-5817-8dd3-ef246fd6c6f9" xmltv_id="talkSPORT">talkSPORT</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..58a0||b07dab49-de57-5395-9cc5-ec34dc6abc5c" xmltv_id="Capital">Capital</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..6e00||70892887-f0a1-564c-bc5f-791857defebf" xmltv_id="Premier Radio">Premier Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..3960||9124fa41-efda-59fe-9718-52c0b095af03" xmltv_id="Absolute Radio">Absolute Radio</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5880||41961037-1b3b-5d74-bb24-976e9f88730c" xmltv_id="Heart">Heart</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5860||913ea89d-095f-508a-9fdb-2007c505acf4" xmltv_id="RNIB Connect">RNIB Connect</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5940||3d5f2ab8-5961-55fe-896e-fd7cdc748dfa" xmltv_id="Classic FM">Classic FM</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..5960||9e211bac-a8ba-51dc-9c7a-7a03ee3c3381" xmltv_id="LBC">LBC</channel>
+    <channel site="[ENC]player.ee.co.uk_0" site_id="dvb%3A%2F%2F233a..1887||b5ff9b53-1453-5f06-a3e6-bbf3bb06081c" xmltv_id="BBC Essex">BBC Essex</channel>
+  </channels>
+</site>
