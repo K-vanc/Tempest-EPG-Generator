@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="nhk.or.jp_0">
+  <channels>
+    <channel site="nhk.or.jp_0" site_id="nhkworldjapan" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+  </channels>
+</site>
