@@ -25,7 +25,7 @@ return array (
   'episode' => 'Ep\\.\\s(\\d+)',
   'channel_logo' => '||#add#https://api.superguidatv.it/v1/channels/##cclogo##/logo?width=120&theme=light',
   'production_date' => '\\s\\((\\d{4})',
-  'pagekey1' => 'href="(.*?)"',
+  'pagekey1' => 'href="(.*?)"|>|location_href\\(\'(.*?)\'',
   'detail_url1' => '##pagekey1##',
   'detail_requestOption1' => '1',
   'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
