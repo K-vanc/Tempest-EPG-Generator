@@ -35,7 +35,7 @@ return array (
   'detail_category' => '"genre":\\s*"(.*?)"||#split#(,)',
   'detail_showicon' => 'imgBackdrop" src="(.*?)"',
   'detail_actor' => '"sgtvdetails_divActorContainer">\\s*(.*?)\\s*<\\/div>\\s*<\\/div>||#replace#.*?<strong>(.*?)<\\/strong>.*||\\1',
-  'detail_role' => '"sgtvdetails_divActorContainer">\\s*(.*?)\\s*<\\/div>\\s*<\\/div>||#include#interpreta||#replace#.*?\\s*interpreta\\s*(.*?)">.*||\\1',
+  'detail_role' => '"sgtvdetails_divActorContainer">\\s*(.*?)\\s*<\\/div>\\s*<\\/div>||#include#interpreta||#replace#.*?\\s*interpreta\\s*(.*?)">.*##("\\sstyle.*)||\\1##',
   'detail_director' => '>Regia:\\s*(.*?)<\\/||#split#(,)',
   'detail_country' => 'middle;">([A-Z\\s,]+)\\s*\\d{4}||#split#(,)',
   'detail_star_rating' => '"ratingValue":\\s*"(?!0)(\\d+(?:[\\.,]\\d+)?)||#addend#/5',
