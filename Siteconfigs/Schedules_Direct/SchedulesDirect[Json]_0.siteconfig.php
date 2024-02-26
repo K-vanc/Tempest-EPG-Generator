@@ -17,6 +17,7 @@ return array (
   'requestOption1' => '2',
   'post_data1' => '{"username":"##username##","password":"##password##"}||#hash#sha1#,"password":"(.*?)"\\}$',
   'content_type1' => 'application/json;charset=UTF-8',
+  'static_url1' => 'on',
   'grabber_1' => 'on',
   'gpattern_1' => '"code":0,.*?"token":"(.*?)"',
   'url2' => 'https://json.schedulesdirect.org/20141201/schedules',
