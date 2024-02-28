@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]magentatv.mk_0">
+  <channels>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19122" xmltv_id="МРТ 1 HD">МРТ 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19308" xmltv_id="СИТЕЛ HD">СИТЕЛ HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19287" xmltv_id="КАНАЛ 5 HD">КАНАЛ 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19146" xmltv_id="АЛФА HD">АЛФА HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19342" xmltv_id="ТЕЛМА HD">ТЕЛМА HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19114" xmltv_id="Инфо Канал">Инфо Канал</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19218" xmltv_id="ТВ 24 HD">ТВ 24 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19334" xmltv_id="НАША ТВ">НАША ТВ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19353" xmltv_id="ТВ СОНЦЕ">ТВ СОНЦЕ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19107" xmltv_id="МРТ 4 HD">МРТ 4 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19124" xmltv_id="МРТ 2 HD">МРТ 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19232" xmltv_id="RTV 21 M HD">RTV 21 M HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19309" xmltv_id="ALSAT M HD">ALSAT M HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19341" xmltv_id="KLAN MACEDONIA HD">KLAN MACEDONIA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19223" xmltv_id="ERA">ERA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19304" xmltv_id="TV SHENJA">TV SHENJA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19289" xmltv_id="СОБРАНИСКИ КАНАЛ HD">СОБРАНИСКИ КАНАЛ HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22480" xmltv_id="ВИСТЕЛ">ВИСТЕЛ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19176" xmltv_id="ТВК">ТВК</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19165" xmltv_id="B1">B1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19144" xmltv_id="КТВ">КТВ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19305" xmltv_id="TV FESTA">TV FESTA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19217" xmltv_id="MTM">MTM</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19348" xmltv_id="KOHA">KOHA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19349" xmltv_id="ТЕРА">ТЕРА</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19351" xmltv_id="ТВМ">ТВМ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19237" xmltv_id="TOP ESTRADA">TOP ESTRADA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19221" xmltv_id="USKANA">USKANA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19080" xmltv_id="STAR">STAR</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19105" xmltv_id="ВИС">ВИС</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19112" xmltv_id="TV EDO">TV EDO</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19227" xmltv_id="ТВ СВЕТ">ТВ СВЕТ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19139" xmltv_id="M NET HD">M NET HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19140" xmltv_id="PROTEL">PROTEL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19119" xmltv_id="TV GURRA">TV GURRA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19154" xmltv_id="ТЕЛЕВИЗИЈА 3">ТЕЛЕВИЗИЈА 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19222" xmltv_id="ТВ КОБРА">ТВ КОБРА</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19120" xmltv_id="GLOBI">GLOBI</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19339" xmltv_id="TV+">TV+</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19226" xmltv_id="Канал 8">Канал 8</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19184" xmltv_id="PRVA HD">PRVA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19194" xmltv_id="B92 HD">B92 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19195" xmltv_id="HAPPY HD">HAPPY HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19191" xmltv_id="KCN 1">KCN 1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19137" xmltv_id="NOVA S HD">NOVA S HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19168" xmltv_id="РТС СВЕТ HD">РТС СВЕТ HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19212" xmltv_id="BNT 4">BNT 4</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19082" xmltv_id="PINK PLUS">PINK PLUS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19284" xmltv_id="N1 HD">N1 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19147" xmltv_id="HAYAT 2">HAYAT 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19171" xmltv_id="AL JAZEERA HD">AL JAZEERA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22816" xmltv_id="BLOOMERG ADRIA">BLOOMERG ADRIA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19268" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19269" xmltv_id="RTL 2">RTL 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19270" xmltv_id="RTL LIVING">RTL LIVING</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19271" xmltv_id="RTL KOCKICA">RTL KOCKICA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19096" xmltv_id="PINK WORLD">PINK WORLD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19078" xmltv_id="PINK EXTRA">PINK EXTRA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19102" xmltv_id="PINK SHOW">PINK SHOW</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19098" xmltv_id="PINK ZABAVA">PINK ZABAVA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19095" xmltv_id="PINK REALITY">PINK REALITY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19272" xmltv_id="ELTA HD">ELTA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19273" xmltv_id="O KANAL">O KANAL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19274" xmltv_id="RTRS">RTRS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19286" xmltv_id="SLON TV">SLON TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19275" xmltv_id="JUGOTON TV">JUGOTON TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19340" xmltv_id="CMC">CMC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19313" xmltv_id="ELTA 2">ELTA 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19314" xmltv_id="OTV VALENTINO">OTV VALENTINO</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19085" xmltv_id="VALENTINO MUSIC">VALENTINO MUSIC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19181" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19337" xmltv_id="BBC EARTH HD">BBC EARTH HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19238" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19298" xmltv_id="VIASAT NATURE HD">VIASAT NATURE HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19297" xmltv_id="VIASAT HISTORY HD">VIASAT HISTORY HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19295" xmltv_id="VIASAT EXPLORER HD">VIASAT EXPLORER HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19111" xmltv_id="DA VINCI HD">DA VINCI HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19135" xmltv_id="BRAINZ HD">BRAINZ HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19312" xmltv_id="TRAVEL CHANNEL HD">TRAVEL CHANNEL HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19246" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19182" xmltv_id="NATGEO WILD HD">NATGEO WILD HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22822" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19183" xmltv_id="24 KITCHEN HD">24 KITCHEN HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19108" xmltv_id="KITCHEN TV HD">KITCHEN TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19167" xmltv_id="AGRO TV HD">AGRO TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19220" xmltv_id="LUXE TV HD">LUXE TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20021" xmltv_id="BALKAN TRIP HD">BALKAN TRIP HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19231" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19243" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19338" xmltv_id="FOOD NETWORK HD">FOOD NETWORK HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19236" xmltv_id="VISION PLUS">VISION PLUS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19149" xmltv_id="NEWS 7">NEWS 7</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19148" xmltv_id="RTV 21">RTV 21</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19324" xmltv_id="DUKAGJINI TV">DUKAGJINI TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19230" xmltv_id="KLAN KOSOVA">KLAN KOSOVA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19333" xmltv_id="RTSH 24 LAJME">RTSH 24 LAJME</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19155" xmltv_id="Tring Action">Tring Action</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19255" xmltv_id="TRING FANTASY">TRING FANTASY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19156" xmltv_id="TRING SUPER">TRING SUPER</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19157" xmltv_id="TRING COMEDY">TRING COMEDY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19254" xmltv_id="TRING LIFE">TRING LIFE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19164" xmltv_id="3PLUS">3PLUS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19256" xmltv_id="SMILE">SMILE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19263" xmltv_id="TRING SERIES">TRING SERIES</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19160" xmltv_id="TRING TRING">TRING TRING</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19261" xmltv_id="TIP TV">TIP TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19253" xmltv_id="RTK">RTK</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19290" xmltv_id="RTSH SAT HD">RTSH SAT HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19326" xmltv_id="ARTA">ARTA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19158" xmltv_id="TRING SHQIP">TRING SHQIP</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19159" xmltv_id="FOLK +">FOLK +</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19262" xmltv_id="BBF">BBF</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19257" xmltv_id="TRING WORLD">TRING WORLD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19258" xmltv_id="TRING HISTORY">TRING HISTORY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19161" xmltv_id="TRING PLANET">TRING PLANET</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19259" xmltv_id="LIVING">LIVING</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19264" xmltv_id="MUSE">MUSE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19321" xmltv_id="RTK 2">RTK 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19322" xmltv_id="RTK 3">RTK 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19323" xmltv_id="RTK 4">RTK 4</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19151" xmltv_id="21 JUNIOR">21 JUNIOR</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19328" xmltv_id="DASMA TV">DASMA TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19153" xmltv_id="21 PLUS">21 PLUS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19103" xmltv_id="FIRST TV">FIRST TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19144" xmltv_id="КТВ">КТВ</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19150" xmltv_id="ALBUK HD">ALBUK HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19325" xmltv_id="KANAL 10">KANAL 10</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19331" xmltv_id="SYRI TV">SYRI TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19234" xmltv_id="RTSH MUZIK">RTSH MUZIK</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19352" xmltv_id="T7">T7</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20010" xmltv_id="TV BESA">TV BESA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19277" xmltv_id="RTSH SHQIP">RTSH SHQIP</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19163" xmltv_id="RTSH PLUS">RTSH PLUS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19343" xmltv_id="RTSH 3">RTSH 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19152" xmltv_id="21 POPULLORE">21 POPULLORE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19418" xmltv_id="TRING KIDS">TRING KIDS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19419" xmltv_id="TRING FAMILY">TRING FAMILY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19420" xmltv_id="BUBBLE">BUBBLE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20009" xmltv_id="Club TV">Club TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19423" xmltv_id="EURONEWS ALBANIA">EURONEWS ALBANIA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19416" xmltv_id="TRING CLASSIC">TRING CLASSIC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19417" xmltv_id="TRING NOVELAS">TRING NOVELAS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19421" xmltv_id="TRING COLLECTION">TRING COLLECTION</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19428" xmltv_id="REPORT TV">REPORT TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19422" xmltv_id="KANAL D DRAMA">KANAL D DRAMA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19424" xmltv_id="TEVE 1">TEVE 1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19427" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22479" xmltv_id="TURKISH STORIES">TURKISH STORIES</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19245" xmltv_id="МРТ 5 HD">МРТ 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19134" xmltv_id="VAVOOM HD">VAVOOM HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19117" xmltv_id="NICKELODEON HD">NICKELODEON HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19299" xmltv_id="CARTOON NET">CARTOON NET</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19300" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19123" xmltv_id="BABY TV">BABY TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19315" xmltv_id="MINIMAX">MINIMAX</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19250" xmltv_id="HAYATOVCI">HAYATOVCI</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19350" xmltv_id="NICK JR.">NICK JR.</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19133" xmltv_id="PIKABOO HD">PIKABOO HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19425" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19426" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19162" xmltv_id="NICKTOONS">NICKTOONS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22818" xmltv_id="NICK MUSIC">NICK MUSIC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22686" xmltv_id="UAT 6">UAT 6</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22684" xmltv_id="UAT 4">UAT 4</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22683" xmltv_id="UAT 3">UAT 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22682" xmltv_id="UAT 2">UAT 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22681" xmltv_id="UAT 1">UAT 1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19244" xmltv_id="МРТ 3 HD">МРТ 3 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19213" xmltv_id="ARENA SPORT 1 HD">ARENA SPORT 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19214" xmltv_id="ARENA SPORT 2 HD">ARENA SPORT 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19215" xmltv_id="ARENA SPORT 3 HD">ARENA SPORT 3 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19216" xmltv_id="ARENA SPORT 4 HD">ARENA SPORT 4 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19070" xmltv_id="ARENA SPORT 5 HD">ARENA SPORT 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19072" xmltv_id="ARENA 1 PREMIUM HD">ARENA 1 PREMIUM HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19073" xmltv_id="ARENA 2 PREMIUM HD">ARENA 2 PREMIUM HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19074" xmltv_id="ARENA 3 PREMIUM HD">ARENA 3 PREMIUM HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19109" xmltv_id="ARENA FIGHT HD">ARENA FIGHT HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20020" xmltv_id="ARENA ESPORT HD">ARENA ESPORT HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19310" xmltv_id="EUROSPORT HD">EUROSPORT HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19311" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19283" xmltv_id="SK GOLF HD">SK GOLF HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19129" xmltv_id="SK ESPORTS HD">SK ESPORTS HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19235" xmltv_id="SK FIGHT">SK FIGHT</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19288" xmltv_id="X SPORT">X SPORT</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19279" xmltv_id="SK HD">SK HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19307" xmltv_id="LOV I RIBOLOV">LOV I RIBOLOV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19084" xmltv_id="NOVA SPORT HD">NOVA SPORT HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19280" xmltv_id="SK 1 HD">SK 1 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19281" xmltv_id="SK 2 HD">SK 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19282" xmltv_id="SK 3 HD">SK 3 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19130" xmltv_id="SK 4 HD">SK 4 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19131" xmltv_id="SK 5 HD">SK 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19132" xmltv_id="SK 6 HD">SK 6 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19125" xmltv_id="SK 7 HD">SK 7 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19126" xmltv_id="SK 8 HD">SK 8 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19127" xmltv_id="SK 9 HD">SK 9 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19128" xmltv_id="SK 10 HD">SK 10 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19136" xmltv_id="IDJ TV HD">IDJ TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19291" xmltv_id="BALKAN MUSIC HD">BALKAN MUSIC HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19067" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19248" xmltv_id="MTV 80’s">MTV 80’s</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19303" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19069" xmltv_id="MTV EUROPE">MTV EUROPE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19252" xmltv_id="Balkanika">Balkanika</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19225" xmltv_id="HAYAT MUSIC BOX">HAYAT MUSIC BOX</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19113" xmltv_id="DM sat">DM sat</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19093" xmltv_id="PINK FOLK 1">PINK FOLK 1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19094" xmltv_id="PINK FOLK 2">PINK FOLK 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19347" xmltv_id="GRAND">GRAND</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19285" xmltv_id="GRAND 2">GRAND 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19068" xmltv_id="City Play">City Play</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19077" xmltv_id="BRAVO">BRAVO</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19099" xmltv_id="PINK KONCERT">PINK KONCERT</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19249" xmltv_id="HAYAT FOLK BOX">HAYAT FOLK BOX</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19302" xmltv_id="PLANETA TV HD">PLANETA TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20022" xmltv_id="TOXIC TV HD">TOXIC TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20029" xmltv_id="TOXIC FOLK HD">TOXIC FOLK HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20023" xmltv_id="TOXIC RAP HD">TOXIC RAP HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19081" xmltv_id="PINK MUSIC">PINK MUSIC</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19075" xmltv_id="PINK MUSIC 2">PINK MUSIC 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19071" xmltv_id="PINK HITS">PINK HITS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19100" xmltv_id="PINK HITS 2">PINK HITS 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19097" xmltv_id="PINK N ROLL">PINK N ROLL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19260" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19267" xmltv_id="MTV 90’s">MTV 90’s</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19276" xmltv_id="CLUB MTV">CLUB MTV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22820" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22821" xmltv_id="MEZZO LIVE">MEZZO LIVE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19247" xmltv_id="MTV LIVE HD">MTV LIVE HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19192" xmltv_id="KCN 2">KCN 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19193" xmltv_id="KCN 3">KCN 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19198" xmltv_id="EG MELODY">EG MELODY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19199" xmltv_id="EXYU MELODY">EXYU MELODY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19200" xmltv_id="POP MELODY">POP MELODY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19201" xmltv_id="FOLK MELODY">FOLK MELODY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19202" xmltv_id="HITS MELODY">HITS MELODY</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20133" xmltv_id="MUZZIK">MUZZIK</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20136" xmltv_id="MOBA">MOBA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20135" xmltv_id="POP STAR">POP STAR</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20139" xmltv_id="ZZ TV">ZZ TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20137" xmltv_id="RR">RR</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20138" xmltv_id="WWM">WWM</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20140" xmltv_id="FLASH BACK">FLASH BACK</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20134" xmltv_id="JEKA">JEKA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19178" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19177" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19301" xmltv_id="TV 1000 HD">TV 1000 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19240" xmltv_id="M1">M1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19241" xmltv_id="M1 GOLD">M1 GOLD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19180" xmltv_id="STAR MOVIES">STAR MOVIES</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19179" xmltv_id="STAR CRIME">STAR CRIME</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19172" xmltv_id="CINEMANIA HD">CINEMANIA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19265" xmltv_id="ACTION M">ACTION M</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19266" xmltv_id="FANTASY M">FANTASY M</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19354" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19278" xmltv_id="AXN SPIN">AXN SPIN</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19079" xmltv_id="PINK FILM">PINK FILM</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19173" xmltv_id="EPIC DRAMA HD">EPIC DRAMA HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19101" xmltv_id="PINK SERIJE">PINK SERIJE</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19219" xmltv_id="PICKBOX TV HD">PICKBOX TV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20024" xmltv_id="BBC FIRST HD">BBC FIRST HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20047" xmltv_id="M1 FAMILY HD">M1 FAMILY HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20046" xmltv_id="SUPER M HD">SUPER M HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20044" xmltv_id="SUPERSTAR HD">SUPERSTAR HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20045" xmltv_id="SUPERSTAR 2 HD">SUPERSTAR 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22817" xmltv_id="SCI-FI">SCI-FI</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22819" xmltv_id="DIVA">DIVA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22744" xmltv_id="ИНФО КАНАЛ 3">ИНФО КАНАЛ 3</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19319" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19320" xmltv_id="CINEMAX 2 HD">CINEMAX 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="22743" xmltv_id="ИНФО КАНАЛ 2">ИНФО КАНАЛ 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19316" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19317" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19318" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19185" xmltv_id="PRVA PLUS HD">PRVA PLUS HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19186" xmltv_id="PRVA WORLD HD">PRVA WORLD HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19187" xmltv_id="PRVA MAX HD">PRVA MAX HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19188" xmltv_id="PRVA FILES HD">PRVA FILES HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19189" xmltv_id="PRVA KICK HD">PRVA KICK HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19190" xmltv_id="PRVA LIFE HD">PRVA LIFE HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19196" xmltv_id="HAPPY REALITY 1">HAPPY REALITY 1</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19197" xmltv_id="HAPPY REALITY 2">HAPPY REALITY 2</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19292" xmltv_id="TV 5 HD">TV 5 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19251" xmltv_id="ZDRAVA TELEVIZIJA">ZDRAVA TELEVIZIJA</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19293" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19076" xmltv_id="PINK FASHION">PINK FASHION</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19142" xmltv_id="WNESS TV">WNESS TV</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19296" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="20114" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19169" xmltv_id="DW HD">DW HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19174" xmltv_id="FRANCE 24 HD">FRANCE 24 HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19170" xmltv_id="EURONEWS HD">EURONEWS HD</channel>
+    <channel site="[ENC][EX]magentatv.mk_0" site_id="19175" xmltv_id="FRANCE24 HD">FRANCE24 HD</channel>
+  </channels>
+</site>
