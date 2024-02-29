@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'novasports.gr',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-02-29',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/Athens',
+  'culture' => 'el',
+  'max_day' => '8',
+  'keepindexpage' => 'on',
+  'url1' => 'https://www.novasports.gr/wp-admin/admin-ajax.php?action=nova_get_template&template=tv-program/broadcast&dt=##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => '*/*',
+  'host_header1' => 'www.novasports.gr',
+  'urldate_format1' => 'Y-m-d',
+  'show' => 'alt="##channel##">.*?(?:<div class="show)(.*?)(?:<\\/div>\\s*<\\/div>).*?<\\/div>\\s*<\\/div>\\s*<\\/div>\\s*<\\/div>\\s*<\\/div>',
+  'start' => 'class="time.*?>\\s*(\\d+[\\.:]\\d+)',
+  'start_format' => 'H#i',
+  'title' => 'class="title.*?>(.*?)<\\/',
+  'desc' => 'class="subtitle.*?>(.*?)(?:<\\/|$)',
+  'category' => '(LIVE)\\s*<\\/small',
+  'channel_logo' => '||#add#https://www.novasports.gr/wp-content/uploads/##cclogo##',
+  'ccurl1' => 'https://www.novasports.gr/wp-admin/admin-ajax.php?action=nova_get_template&template=tv-program/broadcast&dt=##urldate1##',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => '*/*',
+  'cchost_header1' => 'www.novasports.gr',
+  'ccurldate_format1' => 'Y-m-d',
+  'ccchannel_block' => '<div class="channel bb.*?<div class="channel-program">||#include#class="channel-title',
+  'ccchannel_id' => 'alt="(.*?)"||#replace#(\\s)||.',
+  'ccchannel_name' => '<div class="channel-title.*?>(.*?)<\\/',
+  'ccchannel_logo' => '\\/uploads\\/(.*?)"',
+);
+?>
