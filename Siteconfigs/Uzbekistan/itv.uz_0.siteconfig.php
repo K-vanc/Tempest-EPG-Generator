@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'itv.uz',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-02-29',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'uz',
+  'max_day' => '7',
+  'url1' => 'https://api.itv.uz/v2/cards/pieces/tv-guide/day-items?channelId=##channel##&timeDifference=-0&timestamp=##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/plain, */*',
+  'host_header1' => 'api.itv.uz',
+  'origin_header1' => 'https://itv.uz',
+  'urldate_format1' => 'unix',
+  'show' => '({"guideId".*?}})',
+  'start' => '"startAt":(\\d+)',
+  'start_format' => 'unix',
+  'stop' => '"endAt":(\\d+)',
+  'stop_format' => 'unix',
+  'title' => '"programTitle":"(.*?)",',
+  'channel_logo' => '||#add#https://files.itv.uz/uploads/iptv/channels/##cclogo##',
+  'ccurl1' => 'https://api.itv.uz/v2/cards/channels/list?categoryId=1&itemsPerPage=0&moduleId=1',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'application/json, text/plain, */*',
+  'cchost_header1' => 'api.itv.uz',
+  'ccorigin_header1' => 'https://itv.uz',
+  'ccchannel_block' => '{"moduleId":.*?}}',
+  'ccchannel_id' => '"channelId":(\\d+)',
+  'ccchannel_name' => '"channelTitle":"(.*?)"',
+  'ccchannel_logo' => '\\/channels\\/(.*?)"',
+);
+?>
