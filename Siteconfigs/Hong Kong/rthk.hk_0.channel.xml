@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="rthk.hk_0">
+  <channels>
+    <channel site="rthk.hk_0" site_id="31" xmltv_id="TV 31">TV 31</channel>
+    <channel site="rthk.hk_0" site_id="32" xmltv_id="TV 32">TV 32</channel>
+    <channel site="rthk.hk_0" site_id="33" xmltv_id="TV 33">TV 33</channel>
+    <channel site="rthk.hk_0" site_id="34" xmltv_id="TV 34">TV 34</channel>
+    <channel site="rthk.hk_0" site_id="35" xmltv_id="TV 35">TV 35</channel>
+    <channel site="rthk.hk_0" site_id="radio1" xmltv_id="Radio 1">Radio 1</channel>
+    <channel site="rthk.hk_0" site_id="radio2" xmltv_id="Radio 2">Radio 2</channel>
+    <channel site="rthk.hk_0" site_id="radio3" xmltv_id="Radio 3">Radio 3</channel>
+    <channel site="rthk.hk_0" site_id="radio4" xmltv_id="Radio 4">Radio 4</channel>
+    <channel site="rthk.hk_0" site_id="radio5" xmltv_id="Radio 5">Radio 5</channel>
+    <channel site="rthk.hk_0" site_id="pth" xmltv_id="Putonghua">Putonghua</channel>
+    <channel site="rthk.hk_0" site_id="radiocnrhk" xmltv_id="CNR/HK">CNR/HK</channel>
+    <channel site="rthk.hk_0" site_id="radiocmgrgb" xmltv_id="CMG/RGB">CMG/RGB</channel>
+  </channels>
+</site>
