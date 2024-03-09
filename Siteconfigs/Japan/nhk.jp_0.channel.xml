@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="nhk.jp_0">
+  <channels>
+    <channel site="nhk.jp_0" site_id="g1" xmltv_id="総合 011">総合 011</channel>
+    <channel site="nhk.jp_0" site_id="g2" xmltv_id="総合 012">総合 012</channel>
+    <channel site="nhk.jp_0" site_id="e1" xmltv_id="Eテレ 021">Eテレ 021</channel>
+    <channel site="nhk.jp_0" site_id="e3" xmltv_id="Eテレ 023">Eテレ 023</channel>
+    <channel site="nhk.jp_0" site_id="s1" xmltv_id="NHK BS 101">NHK BS 101</channel>
+    <channel site="nhk.jp_0" site_id="s2" xmltv_id="NHK BS 102">NHK BS 102</channel>
+    <channel site="nhk.jp_0" site_id="s3" xmltv_id="103">103</channel>
+    <channel site="nhk.jp_0" site_id="s4" xmltv_id="104">104</channel>
+    <channel site="nhk.jp_0" site_id="s5" xmltv_id="BSプレミアム4K">BSプレミアム4K</channel>
+    <channel site="nhk.jp_0" site_id="s6" xmltv_id="BS8K">BS8K</channel>
+    <channel site="nhk.jp_0" site_id="r1" xmltv_id="ラジオ第1">ラジオ第1</channel>
+    <channel site="nhk.jp_0" site_id="r2" xmltv_id="ラジオ第2">ラジオ第2</channel>
+    <channel site="nhk.jp_0" site_id="r3" xmltv_id="FM">FM</channel>
+  </channels>
+</site>
