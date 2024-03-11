@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]webtv.sk_0">
+  <channels>
+    <channel site="[ENC]webtv.sk_0" site_id="stv_1||b5999a971c61bce3f20e6dd45d070ffd.svg" xmltv_id="Jednotka">Jednotka</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="stv_2||dbcdc98ea8db55d1ac282a3361aa6ff2.svg" xmltv_id="Dvojka">Dvojka</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="stv_3||379063b64e1f269a4f77e507842577aa.svg" xmltv_id=":24">:24</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="stv_sport||147bd98d103f68f076595a7a52677af1.svg" xmltv_id="RTVS Šport">RTVS Šport</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="markiza||88aecef2b2abd7bfe49cd1ea2e5a4819.svg" xmltv_id="Markíza">Markíza</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj||95d84ce12d07a68aab67390aa262dab3.svg" xmltv_id="JOJ">JOJ</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="markiza_plus_jedna||e910de4c6891e918d2c52d6149fc9589.svg" xmltv_id="Markíza +1">Markíza +1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_plus_jedna||344458d42be3540a975a0e5076b44228.svg" xmltv_id="JOJ +1">JOJ +1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="coronavirus_info_tv||b4297a00f6ff2fcb10b7274078550272.svg" xmltv_id="HaHa TV">HaHa TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="dajto||b3a07de118d35983c4fc91605c47e0c3.svg" xmltv_id="DajTo">DajTo</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="doma||6f8a77da26a88ed1dc01c3bf0335831c.svg" xmltv_id="Doma">Doma</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="markiza_krimi||e08e303b7c2eca15265050a9e9bbfc1f.svg" xmltv_id="Markíza Krimi">Markíza Krimi</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_plus||1ff8c553aa165983f010c6a5938ec32b.svg" xmltv_id="JOJ Plus">JOJ Plus</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_sport||14af30c201720856221c639dc2ba3bef.svg" xmltv_id="JOJ Šport">JOJ Šport</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="wau||e33dc17b4f8fc0b4f2a2f8be7a35cb3b.svg" xmltv_id="WAU">WAU</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_24||9348e1b0304181264625154822b76820.svg" xmltv_id="JOJ 24">JOJ 24</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_svet||5f573d7409f02c754b1cb8cfe4bc0164.svg" xmltv_id="JOJ Svet">JOJ Svet</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_cinema||800244a29155204f4df7cf9e15f604ab.svg" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="joj_cinema_plus_jedna||fb2c6fd9262372f9ea9ce827111160f7.svg" xmltv_id="JOJ Cinema +1">JOJ Cinema +1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ta_3||a92a0127acea617b5931733cd6f39107.svg" xmltv_id="TA3">TA3</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="up_network||4326b2e49248d24a1d245d584900cd73.svg" xmltv_id="Spark TV">Spark TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="telke||c61652f4ea3b67952d9d4873062b3389.svg" xmltv_id="telKE">telKE</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="rik||5798e668488c086ddfe78922352487bf.svg" xmltv_id="Jojko">Jojko</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ric_tv||cf69564a0e29992f83505ede1a7e9c3e.svg" xmltv_id="RiK TV">RiK TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="lala_tv||524dd0a520d48994f051122a857b3c3c.svg" xmltv_id="LALA TV">LALA TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="turbo_tv||b6380b16e0d51d0c5f57e975c0e9f094.svg" xmltv_id="Turbo TV">Turbo TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tanecnesutaze||60a2b0c04cbc73c131beb0eaf490ed26.svg" xmltv_id="Tanečné súťaže">Tanečné súťaže</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="senzi||7ec316fcee99091442c82f2192d58c0a.svg" xmltv_id="Senzi">Senzi</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="folklorika||23298e5fe2550ce68c1d9b85f6990c69.svg" xmltv_id="Folklorika">Folklorika</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="slager_premium||cf6f01314c9651114abee2e250d52695.svg" xmltv_id="Šláger Premium">Šláger Premium</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="slagr_tv||31783e22e974d5bbfc283d003dc0c1c9.svg" xmltv_id="Šláger Originál">Šláger Originál</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="slagr_2||837798f7f304319a84ef7ad33cea30b1.svg" xmltv_id="Šláger Muzika">Šláger Muzika</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="fashion_tv||e50d4f5967b58983419172b5d8846ccd.svg" xmltv_id="Fashion TV Czech &amp; Slovak">Fashion TV Czech &amp; Slovak</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nasa_hd||5b9b25003fb0cb1b3df08afc3e273a8c.svg" xmltv_id="NASA TV">NASA TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nrsr_tv||b5a78d60f2038ca4617ef859e9bccd03.svg" xmltv_id="tv NRSR">tv NRSR</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="arcadia_tv||a4b5488aae7b9ee54feb80af3cedaa9e.svg" xmltv_id="Arcadia TV">Arcadia TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="skvele||34e778df458adcbfcc93d37d7fd952bd.svg" xmltv_id="Skvelé TV">Skvelé TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="lux||19e5c8601d1e3c8b6e72745c6834a966.svg" xmltv_id="TV LUX">TV LUX</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="noe||76b2928358fde79ea4a6184dc340522b.svg" xmltv_id="NOE">NOE</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ct_1||89f8dc13317fb6802334c16ca15379c8.svg" xmltv_id="ČT1">ČT1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ct_2||e3b13acc7c1107459ce5a79ecd5ee509.svg" xmltv_id="ČT2">ČT2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ct_24||4b057e943a1ce6fcaf81ce83b909777b.svg" xmltv_id="ČT24">ČT24</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ct_sport||43671133b29b86e4eedcd925725087b1.svg" xmltv_id="ČT Sport">ČT Sport</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ct_detem_ct_art||18ec82538f56a8ff0365a37afe2130ae.svg" xmltv_id="ČT :D - ČT art">ČT :D - ČT art</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nova_international||104b43b3ce0c68387f21ce0efebd82f1.svg" xmltv_id="Nova International">Nova International</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_plus_hd||60bbd93de88a577af055f750a1a2f39b.svg" xmltv_id="Prima Plus">Prima Plus</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_news||beac74e18415c0d9f56926529f4001d5.svg" xmltv_id="CNN Prima News">CNN Prima News</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_cool||5bb22595ea32a13013614dc7d869770e.svg" xmltv_id="Prima Cool">Prima Cool</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_max||0f4e3a3b69084a46aa083a9b9efd919f.svg" xmltv_id="Prima Max">Prima Max</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_love||a48feecfef44f261503edb66a308b855.svg" xmltv_id="Prima Love">Prima Love</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="prima_krimi||df864be8e022b54abd942b4e72075e99.svg" xmltv_id="Prima Krimi">Prima Krimi</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="barrandov||1a5f0d7557ca176b19dd73b42532df0d.svg" xmltv_id="Barrandov">Barrandov</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="kino_barrandov||f894f3b885bc02b52d781387fbcbbe46.svg" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="barrandov_plus||154fe5ee8024a98cf41e0cb7d94706da.svg" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="regionalni_televize||c85d15ea68690a4b33db30020bdcc3db.svg" xmltv_id="A11">A11</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_pianko||b392e10f85d5171017b3315622f12d42.svg" xmltv_id="TV Piánko">TV Piánko</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="eurosport_1||f45ce4d81af7c6183b106e16747d25d6.svg" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="eurosport_2||6e7aeaaba158d41bc2a8bb67e6bec9c3.svg" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="sport_1||dcb376772bf63b123d92004a10a03b23.svg" xmltv_id="Sport 1">Sport 1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="sport_2||0f51ec91824fb629399ec84e2c6daac6.svg" xmltv_id="Sport 2">Sport 2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nova_sport_1_hd||7ee08a40878bdeecfe8dbce50a441693.svg" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nova_sport_2_hd||1695e11767f9a9944d12298362d82d53.svg" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="arena_sport_1||b32747bd84d62e65f0a592eefa44ec6a.svg" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="arena_sport_2||125108679548e3d8a13e8ecfa20dbbc2.svg" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="auto_motor_und_sport||4bc4980aab96f89c6066393973591661.svg" xmltv_id="Auto Motor und Sport">Auto Motor und Sport</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="super_yacht_tv||1276b76d026acf81e0c37f50392ba28b.svg" xmltv_id="SuperYacht TV">SuperYacht TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="golf_channel||14b321b355a467a5a0fc59ac49a487c6.svg" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="national_geographic_channel_hd||26caee5d9acccf5b35b5756542c04c16.svg" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="national_geographic_wild||97420325ba282cc3c46755701d611672.svg" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="discovery||a6f7e04cc1ae359a84746eb0c4ed460b.svg" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="investigation_discovery||bd3bb1f3d23a076269b282f01d738020.svg" xmltv_id="ID">ID</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="hgtv||cf74382b49d5b088fc4a43179df9af8a.svg" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tlc||a1d0d525795d3a3f47ef07e743b62df8.svg" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="food_network||c0e751b6e9a9f8cbf1b42cc3b03c2e4a.svg" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="animal_planet||22d1423b143aad8e6e72126a7b01eb3a.svg" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="fishing_and_hunting||c9f83f808a78c7f8bdcab07330cdc7ab.svg" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="history_channel||f5d12f2bcc6d29a4f710eac660e0f59d.svg" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="history_2||4deb95e2a23705c6e5d23878fca52a1c.svg" xmltv_id="History 2">History 2</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="crime_investigation||187a261b08dcd81e5966977d13c5eaf1.svg" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="love_nature||75dcd092564fc21d8aefeacaddbc9b51.svg" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="kitchen||3eec6940f0a38e511f289a5d3b847d79.svg" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_paprika||676ea9e7b6fba998f20c9e013d32cc8d.svg" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="spektrum||ab482b1478e7d46efe71b6d2c77977d2.svg" xmltv_id="Spektrum">Spektrum</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="spektrum_home||d6ebbf8ea635c0941a3802004dd42e16.svg" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="travel_channel_hd||68d873953ac35046b66b4afa67ab86ff.svg" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="filmbox||391528aa0c3f572dc22822ee4f3525a4.svg" xmltv_id="FilmBox">FilmBox</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="filmbox_extra_hd||34790002afbeaec3aefb15eebe69059a.svg" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="filmbox_premium||d03d8019b5d554bdda07411b1125eb37.svg" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="filmbox_family||55de4cad03d4cf2bc5f250ecde34e710.svg" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="filmbox_plus||dffd645341e06809a86df54882ea2a54.svg" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="amc||89bbcd29640a7f8554f374c52510c6c6.svg" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="film_plus||2b999ab7d2f48e7f093f316704cd8e9c.svg" xmltv_id="Film +">Film +</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="axn||8784d41cda66c4ac2b5daef9e69bf183.svg" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="axn_white||e588d1c20649007483b79823faad9cd8.svg" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="axn_black||be7739a317d37eb357d1b703129f2fb4.svg" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="disney_channel||7a17b806af60e71d01e45083c142f35c.svg" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="disney_junior||d81f5ac8106628ffe85533495ec3b19f.svg" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nickelodeon||a9c1e09063be12a1a758c45f8911190c.svg" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nicktoons||fcce0945a335333bb42ecfd978797620.svg" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nick_jr||3406bfdd2052c67d65a5dacb3101785f.svg" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="jim_jam||a98cbd6d7e123fa422d34ceb458dc2c7.svg" xmltv_id="JimJam">JimJam</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="minimax||833cfc6b8c0fe1b2b62175c03cecf00b.svg" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="duck_tv||ebedc1453f7aa2820299843cf9fa5959.svg" xmltv_id="Duck TV">Duck TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mtv_hits||246f8b7066f398258a152ef21d628dd7.svg" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mtv_rocks||ecf2e1352f1ff360b8d59b2cf776fe62.svg" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="vh_1||4484ad116603bc9cd1b6ad4b786a2aa3.svg" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="vh1_classic||b91ee9737bbbd8fe85ce509a5cb915cb.svg" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ocko||7f3ac6a4b0b8f11f58247bdfb7e3875c.svg" xmltv_id="Óčko">Óčko</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ocko_black_hd||c35dcc1aeefa5e01305a074678ee53d2.svg" xmltv_id="Óčko Black">Óčko Black</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ocko_expres||e0eaf0237fadfadf308869e5b54a66dc.svg" xmltv_id="Óčko Expres">Óčko Expres</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ocko_star||5401f69bdc4f92d284c1baab3166fa0a.svg" xmltv_id="Óčko Star">Óčko Star</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="retro_music_television||1dd02c2e852ba444f73dfe15f2d3806f.svg" xmltv_id="Retro Music Television">Retro Music Television</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="pohoda_rebel||c7b81764eb5438bc3792241b3782a5f8.svg" xmltv_id="Rebel">Rebel</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="pohoda_relax||107199f7c34818a72c7d56688e54a438.svg" xmltv_id="Relax">Relax</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_natura||17a94aa0e134f7a1ba42cb4f06e396c2.svg" xmltv_id="TV Natura">TV Natura</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mestska_tv_kosice||f35e875fed9e2b6be78dc78aa6b5f0f5.svg" xmltv_id="Mestská Tv Košice">Mestská Tv Košice</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="rvtv||28a8b1bd1b91a8787c9a5d7cd5bdef49.svg" xmltv_id="RVTV">RVTV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mestska_tv_vranov||a33e4b3cccda8b72bb89cd5292dad847.svg" xmltv_id="Mestská TV Vranov">Mestská TV Vranov</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="miestna_tv_trebisov||10491e8e30e75cd5e7425c36734b4bc9.svg" xmltv_id="Miestna TV Trebišov">Miestna TV Trebišov</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="hn_tv||b9c0dd0f4ede5ae1f57624c3a05136d3.svg" xmltv_id="HN TV">HN TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="btv||5d106ee2fbeaf262cf585a3bc0be6ff9.svg" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="moldava_tv||86991769fd35a4fbdfbab4aa588869f1.svg" xmltv_id="Moldava TV">Moldava TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv9||f4e53667ef20cadd8e3966eb23dd9997.svg" xmltv_id="TV 9">TV 9</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv7||cdf7d49b90a932190c730abea66e9969.svg" xmltv_id="TV7">TV7</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_bratislava||26c62243c02556fc135f44ef109e548c.svg" xmltv_id="TV Bratislava">TV Bratislava</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_ruzinov||e93a509380c1689b47a17f0c90cc2d1c.svg" xmltv_id="TV Ružinov">TV Ružinov</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_romana||28835f9e723260c8b2a9cc307f1d12db.svg" xmltv_id="TV Romana">TV Romana</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="csr_tv||39879c64d7db404cced13697f37a0256.svg" xmltv_id="ČSRTV">ČSRTV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_sen||0a8d5355ce1ad0dab5bd37f2be1e5384.svg" xmltv_id="TV SEN">TV SEN</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="life_tv||615ce4cc0c2e3e55b74c1aa7a661203e.svg" xmltv_id="Life TV">Life TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_raj||51c906a73e041af6fcbc3a3a0a61d1f7.svg" xmltv_id="TV RAJ">TV RAJ</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_vega||87de6ef02c067f0cba8f5d777c304345.svg" xmltv_id="Tv Vega">Tv Vega</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_panorama||bd0a39be7050a8c0db78d28de8ffa2b6.svg" xmltv_id="TV Panoráma">TV Panoráma</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="atv_ziar||e907d96feaa72b89fb8e0c534972bd96.svg" xmltv_id="ATV Žiar">ATV Žiar</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_zemplin||33af6b8f81e29b18629c900899406b46.svg" xmltv_id="TV Zemplín">TV Zemplín</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_poprad||f6b8fc89ab3e422193b465657febada9.svg" xmltv_id="TV Poprad">TV Poprad</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mestska_tv_partizanske||c6878dda287636c6ba47f6a18d05d2cc.svg" xmltv_id="Mestská Televízia Partizánske">Mestská Televízia Partizánske</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_povazie||156e6cd91edb08ee6ccfbbb3a00a1dc7.svg" xmltv_id="TV Považie">TV Považie</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mestska_televizia_trnava||1007bfa4129a251911fe43d74e5efa0c.svg" xmltv_id="Mestská Televízia Trnava">Mestská Televízia Trnava</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="cetv||edbf0d7e40a306b041cf241d1589ed07.svg" xmltv_id="CETV">CETV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="mistral||2ac11a7c09d7eea7096cb8465991ed2c.svg" xmltv_id="TV Mistral">TV Mistral</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_nitricka||b348eee99b13e633eaf5898e21fc284b.svg" xmltv_id="TV Nitrička">TV Nitrička</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_nove_zamky||d55afb757d32b70ce0276b69d146eed4.svg" xmltv_id="TV Nové Zámky">TV Nové Zámky</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="zstv||f5458f29ff86ab599a577129c8756302.svg" xmltv_id="Západoslovenská TV">Západoslovenská TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_vita||eddda66807898b49ee02d20095af1561.svg" xmltv_id="TV Vita">TV Vita</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tv_8||ed0f19faa4a0aa0ff4404ee053f51f11.svg" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="regio_tv||b1b3420a49b5f0783a3e2868e6fd86a0.svg" xmltv_id="Régió TV">Régió TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="locall||9c76909519880e13629fd2d440a8d514.svg" xmltv_id="TV LocAll">TV LocAll</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="polar||cfc4a0d7049341d60fde5f2cbaaa09dd.svg" xmltv_id="Polar TV">Polar TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tvp_world||74c36f59de367d32cfbdefb33823269f.svg" xmltv_id="TVP World">TVP World</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tvp_info||e9fd1387a89705c8bc5900c86217db6a.svg" xmltv_id="TVP Info">TVP Info</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tvp_polonia||19699f3944e10e27e4250ba0cc2d71de.svg" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="ua_tv||0bf4080e907782384db773cfb2b372ca.svg" xmltv_id="UA TV">UA TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="epsreso_tv||3f214d5369e36b8d9b6f13209af9c2bb.svg" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="current_time||69a5c765d9fbc532ae49d9e2cb92f10c.svg" xmltv_id="Current Time">Current Time</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="armenia_1_tv||c7e5533184889bd9ab47896d978dad2e.svg" xmltv_id="Armenia 1 TV">Armenia 1 TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="euronews||3358484bc58ed4d8e2937f6ee51165ad.svg" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="nhk_world_hd||925b83db924067251b517f9f755f7c68.svg" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="arirang_tv||fd01e93f96849d65e5487042868d6516.svg" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="trt_world||1b71e9bfd0a15495158719aca02b4c95.svg" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="al_jazeera_english||8b8c80852b1c0a5e11e2558c7cc4f1a9.svg" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="al_jazeera||aaa573fe62834de165459c6379effda5.svg" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="sky_news||e0b6410f826f66e2598e67b732cc6d9e.svg" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="france_24_english||bb911aa75776374311dfd6a023a93eb9.svg" xmltv_id="France 24 English">France 24 English</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="france24||9fade1a51298d184f92be8f3968015e8.svg" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="rai_uno||9283368353a4d87db9801ffa3505f59c.svg" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="rai_tre||1a0d84babb3ced47c369493a8a12123a.svg" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="cgtn||1a361492e065a56c44e27acb4f2aa46f.svg" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="cgtn_documentary||1eb528efd1abece2f42da396ffe58bfb.svg" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="tve_international||f226b5d8bcf15338e984f6d43b5cde5b.svg" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel site="[ENC]webtv.sk_0" site_id="canal_24_horas||d49b5d8d4e6d05442341f861761aabd6.svg" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+  </channels>
+</site>
