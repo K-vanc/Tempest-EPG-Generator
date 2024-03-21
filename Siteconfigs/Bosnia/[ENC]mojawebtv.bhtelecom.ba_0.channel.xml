@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]mojawebtv.bhtelecom.ba_0">
+  <channels>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="my_tv_bh" xmltv_id="MY TV">MY TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="moja_tv_info" xmltv_id="Moja TV Info">Moja TV Info</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bht1" xmltv_id="BHT 1">BHT 1</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="ftv" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hayat" xmltv_id="Hayat TV">Hayat TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tvsa" xmltv_id="TVSA">TVSA</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="ajb" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bir_tv" xmltv_id="BIR TV">BIR TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="obn" xmltv_id="OBN">OBN</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_bh" xmltv_id="Pink BH">Pink BH</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_igman" xmltv_id="MTV Igman">MTV Igman</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="facetv" xmltv_id="FACE TV">FACE TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_tk" xmltv_id="RTV TK">RTV TK</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_zenica" xmltv_id="RTV Zenica">RTV Zenica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_usk" xmltv_id="RTV USK">RTV USK</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="gorazde" xmltv_id="RTV BPK">RTV BPK</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="izvorna_tv" xmltv_id="Izvorna TV">Izvorna TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_slon" xmltv_id="RTV Slon">RTV Slon</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="o_kanal" xmltv_id="O Kanal">O Kanal</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="ntvic_kakanj" xmltv_id="NTVIC Kakanj">NTVIC Kakanj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="alfa_tv" xmltv_id="Alfa TV">Alfa TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hayatplus" xmltv_id="Hayat 2">Hayat 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="o_kanal_plus" xmltv_id="O Kanal Plus">O Kanal Plus</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="vogosca" xmltv_id="RTV Vogošća">RTV Vogošća</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="visoko" xmltv_id="TV Visoko">TV Visoko</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_maglaj" xmltv_id="RTV Maglaj">RTV Maglaj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kanal6" xmltv_id="Kanal 6">Kanal 6</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtrs" xmltv_id="RTRS">RTRS</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="elta" xmltv_id="Elta TV">Elta TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hit_brcko" xmltv_id="HIT TV Brčko">HIT TV Brčko</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_lukavac" xmltv_id="TV Lukavac">TV Lukavac</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="jata" xmltv_id="NTV Jata">NTV Jata</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="smart_tv" xmltv_id="Smart TV">Smart TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_cazin" xmltv_id="RTV Cazin">RTV Cazin</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="k3" xmltv_id="K3">K3</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_zivinice" xmltv_id="RTV Živinice">RTV Živinice</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtvis" xmltv_id="RTVIS">RTVIS</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_jablanica" xmltv_id="RTV Jablanica">RTV Jablanica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tv7" xmltv_id="TV 7">TV 7</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="city_tv" xmltv_id="City TV">City TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="glas_drine_tv" xmltv_id="TV Glas Drine">TV Glas Drine</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_bugojno" xmltv_id="RTV Bugojno">RTV Bugojno</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="televizija5" xmltv_id="Televizija 5">Televizija 5</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_sana" xmltv_id="RTV Sana">RTV Sana</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tatabrada_tv" xmltv_id="Tatabrada TV">Tatabrada TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="otv_valentino" xmltv_id="OTV Valentino">OTV Valentino</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tv_podrinje" xmltv_id="TV Podrinje">TV Podrinje</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hema" xmltv_id="Hema TV">Hema TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="neon_tv" xmltv_id="Neon TV">Neon TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="super_media_tv" xmltv_id="Super Media TV">Super Media TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_hb" xmltv_id="RTV HB">RTV HB</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="una_tv" xmltv_id="Una TV">Una TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="herceg_tv" xmltv_id="Herceg TV">Herceg TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="shoptel" xmltv_id="SHOPTEL">SHOPTEL</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtl_hr" xmltv_id="RTL Hrvatska">RTL Hrvatska</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtl2_hr" xmltv_id="RTL 2 Hrvatska">RTL 2 Hrvatska</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtl_living" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kcn1" xmltv_id="KCN 1 Kopernikus">KCN 1 Kopernikus</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kcn3" xmltv_id="KCN 3 Svet +">KCN 3 Svet +</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="sandzak_tv" xmltv_id="Sandžak TV">Sandžak TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bloomberg_adria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="m1_film" xmltv_id="M1 Film">M1 Film</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="m1_gold" xmltv_id="M1 Gold">M1 Gold</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="m1_family" xmltv_id="M1 Family">M1 Family</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="superstar_tv" xmltv_id="Superstar TV">Superstar TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="superstar2" xmltv_id="Superstar 2">Superstar 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="as_premium1" xmltv_id="AS Premium 1">AS Premium 1</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="as_premium2" xmltv_id="AS Premium 2">AS Premium 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="as_premium3" xmltv_id="AS Premium 3">AS Premium 3</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena3" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena4" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena5" xmltv_id="Arena Sport 5">Arena Sport 5</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena6" xmltv_id="Arena Sport 6">Arena Sport 6</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena_1x2" xmltv_id="Arena Sport 1x2">Arena Sport 1x2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="premier_league" xmltv_id="Premier League">Premier League</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena_fight" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arena_esport" xmltv_id="Arena eSport">Arena eSport</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="history_channel" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="history_2" xmltv_id="History 2">History 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="viasat_history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="viasat_nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="viasat_explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="historija_tv" xmltv_id="Historija TV">Historija TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="agro_tv" xmltv_id="Agro TV">Agro TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="balkan_trip" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="nickjr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtl_kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hayatovci" xmltv_id="Hayatovci">Hayatovci</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tnt_kids" xmltv_id="TNT Kids">TNT Kids</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="english_club" xmltv_id="English Club TV">English Club TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="islam_channel" xmltv_id="Islam Channel">Islam Channel</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="saudi_quran" xmltv_id="Saudi Quran">Saudi Quran</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="imperia_tv" xmltv_id="Imperia TV">Imperia TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_europe" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mtv_00s" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="club_mtv" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hayat_folk" xmltv_id="Hayat Folk Box">Hayat Folk Box</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="hayat_music" xmltv_id="Hayat Music Box">Hayat Music Box</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="o_kanal_music" xmltv_id="O Kanal Music">O Kanal Music</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="sevdah_tv" xmltv_id="Sevdah TV">Sevdah TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="dm_sat" xmltv_id="DM SAT">DM SAT</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="b1_tv" xmltv_id="B1 TV">B1 TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kcn2" xmltv_id="KCN 2 Music">KCN 2 Music</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bmc" xmltv_id="BMC">BMC</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bmc_etno" xmltv_id="BMC Etno">BMC Etno</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="toxic_tv" xmltv_id="Toxic">Toxic</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="toxic_rap" xmltv_id="Toxic Rap">Toxic Rap</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="toxic_folk" xmltv_id="Toxic Folk">Toxic Folk</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="al_jazeera_arabic" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="al_jazeera_english" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="france24_eng" xmltv_id="France24 English">France24 English</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="france24_fra" xmltv_id="France24 Francais">France24 Francais</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="france24_arab" xmltv_id="France24 Arabic">France24 Arabic</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="cctv_news" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="trt_world" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="trt_arabi" xmltv_id="TRT Arabi">TRT Arabi</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="arirang_tv" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="insta_tv" xmltv_id="Insta TV">Insta TV</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink" xmltv_id="Pink">Pink</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink2" xmltv_id="Red">Red</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_m" xmltv_id="Pink M">Pink M</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_extra" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_style" xmltv_id="Pink Style">Pink Style</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_show" xmltv_id="Pink Show">Pink Show</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_zabava" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_reality" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_fashion" xmltv_id="Pink Fashion">Pink Fashion</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_hits" xmltv_id="Pink Hits">Pink Hits</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_hits2" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_music" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_music2" xmltv_id="Pink Music 2">Pink Music 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_folk1" xmltv_id="Pink Folk 1">Pink Folk 1</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_folk2" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_koncert" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bravo_music" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_n_roll" xmltv_id="Pink n Roll">Pink n Roll</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_kids" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_super_kids" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_family" xmltv_id="Pink Family">Pink Family</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_romance" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_soap" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_serije" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_film" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_action" xmltv_id="Pink Action">Pink Action</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_thriller" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_premium" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_comedy" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_crime_mystery" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_scifi_fantasy" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_western" xmltv_id="Pink Western">Pink Western</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_clasic" xmltv_id="Pink Classic">Pink Classic</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="timeout" xmltv_id="TimeOut">TimeOut</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_world_cinema" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_movies" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_world" xmltv_id="Pink World">Pink World</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_kuvar" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_pedia" xmltv_id="Pink Pedia">Pink Pedia</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="fight_network" xmltv_id="Fight Network">Fight Network</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="city_play" xmltv_id="City Play">City Play</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_ha_ha" xmltv_id="Pink HA HA">Pink HA HA</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="pink_lol" xmltv_id="Pink LOL">Pink LOL</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="vjecna_vatra_cam" xmltv_id="Vječna vatra">Vječna vatra</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bjelasnica" xmltv_id="Bjelašnica">Bjelašnica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bjelasnica2" xmltv_id="Bjelašnica 2">Bjelašnica 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="camigman" xmltv_id="Igman">Igman</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="malta" xmltv_id="Dolac Malta">Dolac Malta</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="jahorina" xmltv_id="Jahorina">Jahorina</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="trebevic_zicara" xmltv_id="Trebević žičara">Trebević žičara</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="ravna_planina_cam" xmltv_id="Ravna Planina">Ravna Planina</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mojmilo_cam" xmltv_id="Mojmilo">Mojmilo</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="sarajevo_cam" xmltv_id="Das ist Sarajevo">Das ist Sarajevo</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="rtv_dom_cam" xmltv_id="Novi Grad Sarajevo">Novi Grad Sarajevo</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="trg_bih_cam" xmltv_id="Trg BiH">Trg BiH</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="skenderija_cam" xmltv_id="Skenderija">Skenderija</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="travnik_cam" xmltv_id="Travnik">Travnik</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="vlasic" xmltv_id="Vlašić">Vlašić</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kakanj_cam" xmltv_id="Kakanj">Kakanj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mostar_cam" xmltv_id="Mostar">Mostar</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mostar_cam_pan" xmltv_id="Mostar panorama">Mostar panorama</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="mostar_rujiste" xmltv_id="Rujište Mostar">Rujište Mostar</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="blagaj_cam" xmltv_id="Blagaj">Blagaj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="stolac_cam" xmltv_id="Stolac">Stolac</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="konjic_cam" xmltv_id="Konjic">Konjic</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="konjic_cam2" xmltv_id="Konjic 2">Konjic 2</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="trebinje_cam" xmltv_id="Trebinje">Trebinje</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="neum" xmltv_id="Neum">Neum</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="gorazde_cam" xmltv_id="Goražde">Goražde</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bihac_cam" xmltv_id="Bihać">Bihać</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="bihac_panorama_cam" xmltv_id="Bihać panorama">Bihać panorama</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kanjon_une_cam" xmltv_id="Kanjon Une">Kanjon Une</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="zenica_cam" xmltv_id="Zenica">Zenica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="smetovi_cam" xmltv_id="Smetovi Zenica">Smetovi Zenica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tuzla_cam" xmltv_id="Tuzla">Tuzla</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="panonska_cam" xmltv_id="Panonska jezera">Panonska jezera</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="brcko_cam" xmltv_id="Brčko">Brčko</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="jablanica_cam" xmltv_id="Jablanica">Jablanica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="jablanicko_jezero_cam" xmltv_id="Jablaničko jezero">Jablaničko jezero</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="gracanica_cam" xmltv_id="Gračanica">Gračanica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="gradacac_cam" xmltv_id="Gradačac">Gradačac</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="banja_luka_cam" xmltv_id="Banja Luka">Banja Luka</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="fojnica_cam" xmltv_id="Fojnica">Fojnica</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="olovo_cam" xmltv_id="Olovo">Olovo</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="maglaj_cam" xmltv_id="Maglaj">Maglaj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="tesanj_cam" xmltv_id="Tešanj">Tešanj</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="zavidovici_cam" xmltv_id="Zavidovići">Zavidovići</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="jajce_cam" xmltv_id="Jajce">Jajce</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="vogosca_cam" xmltv_id="Vogošća">Vogošća</channel>
+    <channel site="[ENC]mojawebtv.bhtelecom.ba_0" site_id="kladanj_cam" xmltv_id="Kladanj">Kladanj</channel>
+  </channels>
+</site>
