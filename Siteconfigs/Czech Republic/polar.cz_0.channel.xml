@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="polar.cz_0">
+  <channels>
+    <channel site="polar.cz_0" site_id="program-for-web?date=XXXX||polar" xmltv_id="Polar">Polar</channel>
+    <channel site="polar.cz_0" site_id="program2-for-web||polar2" xmltv_id="Polar2">Polar2</channel>
+  </channels>
+</site>
