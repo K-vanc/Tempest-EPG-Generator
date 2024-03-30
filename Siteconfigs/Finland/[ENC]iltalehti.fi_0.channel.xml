@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]iltalehti.fi_0">
+  <channels>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|yle-tv1" xmltv_id="[Peruskanavat] Yle TV1">[Peruskanavat] Yle TV1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|yle-tv2" xmltv_id="[Peruskanavat] Yle TV2">[Peruskanavat] Yle TV2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|mtv3" xmltv_id="[Peruskanavat] MTV3">[Peruskanavat] MTV3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|nelonen" xmltv_id="[Peruskanavat] Nelonen">[Peruskanavat] Nelonen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|yle-teema-fem" xmltv_id="[Peruskanavat] Yle Teema Fem">[Peruskanavat] Yle Teema Fem</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|sub" xmltv_id="[Peruskanavat] MTV Sub">[Peruskanavat] MTV Sub</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|tv5" xmltv_id="[Peruskanavat] TV5">[Peruskanavat] TV5</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|liv" xmltv_id="[Peruskanavat] Liv">[Peruskanavat] Liv</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|jim" xmltv_id="[Peruskanavat] Jim">[Peruskanavat] Jim</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|kutonen" xmltv_id="[Peruskanavat] Kutonen">[Peruskanavat] Kutonen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|tlc-finland" xmltv_id="[Peruskanavat] TLC">[Peruskanavat] TLC</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|fox" xmltv_id="[Peruskanavat] Star">[Peruskanavat] Star</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|ava" xmltv_id="[Peruskanavat] MTV Ava">[Peruskanavat] MTV Ava</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|hero" xmltv_id="[Peruskanavat] Hero">[Peruskanavat] Hero</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|frii" xmltv_id="[Peruskanavat] Frii">[Peruskanavat] Frii</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|national-geographic" xmltv_id="[Peruskanavat] National Geographic">[Peruskanavat] National Geographic</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup1|##|eveo" xmltv_id="[Peruskanavat] Eveo">[Peruskanavat] Eveo</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|eurosport" xmltv_id="[Urheilu] Eurosport">[Urheilu] Eurosport</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|eurosport-2" xmltv_id="[Urheilu] Eurosport 2">[Urheilu] Eurosport 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-max" xmltv_id="[Urheilu] MTV Max">[Urheilu] MTV Max</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-sport-1" xmltv_id="[Urheilu] MTV Urheilu 1">[Urheilu] MTV Urheilu 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-sport-2" xmltv_id="[Urheilu] MTV Urheilu 2">[Urheilu] MTV Urheilu 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-urheilu-3" xmltv_id="[Urheilu] MTV Urheilu 3">[Urheilu] MTV Urheilu 3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-1" xmltv_id="[Urheilu] MTV Liiga 1">[Urheilu] MTV Liiga 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-2" xmltv_id="[Urheilu] MTV Liiga 2">[Urheilu] MTV Liiga 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-3" xmltv_id="[Urheilu] MTV Liiga 3">[Urheilu] MTV Liiga 3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-4" xmltv_id="[Urheilu] MTV Liiga 4">[Urheilu] MTV Liiga 4</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-5" xmltv_id="[Urheilu] MTV Liiga 5">[Urheilu] MTV Liiga 5</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-6" xmltv_id="[Urheilu] MTV Liiga 6">[Urheilu] MTV Liiga 6</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-7" xmltv_id="[Urheilu] MTV Liiga 7">[Urheilu] MTV Liiga 7</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|mtv-liiga-uhd" xmltv_id="[Urheilu] MTV Liiga UHD">[Urheilu] MTV Liiga UHD</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-golf" xmltv_id="[Urheilu] V sport GOLF">[Urheilu] V sport GOLF</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-hockey" xmltv_id="[Urheilu] V sport vinter">[Urheilu] V sport vinter</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-urheilu-hd" xmltv_id="[Urheilu] V sport + Suomi">[Urheilu] V sport + Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-sport" xmltv_id="[Urheilu] V sport">[Urheilu] V sport</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-fotboll-hd" xmltv_id="[Urheilu] V sport FOOTBALL">[Urheilu] V sport FOOTBALL</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-jaakiekko-hd" xmltv_id="[Urheilu] V sport 1 Suomi">[Urheilu] V sport 1 Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-jalkapallo-hd" xmltv_id="[Urheilu] V sport 2 Suomi">[Urheilu] V sport 2 Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|viasat-sport-premium-hd" xmltv_id="[Urheilu] V sport PREMIUM">[Urheilu] V sport PREMIUM</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|vsport-live-1" xmltv_id="[Urheilu] V Sport Live 1">[Urheilu] V Sport Live 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|Vsport-live-2" xmltv_id="[Urheilu] V Sport Live 2">[Urheilu] V Sport Live 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|Vsport-live-3" xmltv_id="[Urheilu] V Sport Live 3">[Urheilu] V Sport Live 3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|Vsport-live-4" xmltv_id="[Urheilu] V Sport Live 4">[Urheilu] V Sport Live 4</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|Vsport-live-5" xmltv_id="[Urheilu] V Sport Live 5">[Urheilu] V Sport Live 5</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup9|##|extreme-sports" xmltv_id="[Urheilu] Extreme Sports">[Urheilu] Extreme Sports</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|cmore-first" xmltv_id="[Elokuvat] MTV Aitio">[Elokuvat] MTV Aitio</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|cmore-series" xmltv_id="[Elokuvat] MTV Viihde">[Elokuvat] MTV Viihde</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|viasat-film" xmltv_id="[Elokuvat] V film PREMIERE">[Elokuvat] V film PREMIERE</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|viasat-film-action" xmltv_id="[Elokuvat] V film ACTION">[Elokuvat] V film ACTION</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|viasat-film-family" xmltv_id="[Elokuvat] V film FAMILY">[Elokuvat] V film FAMILY</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup5|##|viasat-film-hits" xmltv_id="[Elokuvat] V film HITS">[Elokuvat] V film HITS</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|mtv-juniori" xmltv_id="[Lapset] MTV juniori">[Lapset] MTV juniori</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|cartoonito" xmltv_id="[Lapset] Cartoonito">[Lapset] Cartoonito</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|cartoon-network" xmltv_id="[Lapset] Cartoon Network">[Lapset] Cartoon Network</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|disney-channel" xmltv_id="[Lapset] Disney Channel">[Lapset] Disney Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|disney-junior" xmltv_id="[Lapset] Disney Junior">[Lapset] Disney Junior</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|nick-jr" xmltv_id="[Lapset] Nick Jr.">[Lapset] Nick Jr.</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|barnkanalen" xmltv_id="[Lapset] Barnkanalen">[Lapset] Barnkanalen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup14|##|viasat-film-family" xmltv_id="[Lapset] V film FAMILY">[Lapset] V film FAMILY</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|mtv-max" xmltv_id="[MTV Katsomo] MTV Max">[MTV Katsomo] MTV Max</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|mtv-juniori" xmltv_id="[MTV Katsomo] MTV juniori">[MTV Katsomo] MTV juniori</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|mtv-sport-1" xmltv_id="[MTV Katsomo] MTV Urheilu 1">[MTV Katsomo] MTV Urheilu 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|mtv-sport-2" xmltv_id="[MTV Katsomo] MTV Urheilu 2">[MTV Katsomo] MTV Urheilu 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|cmore-series" xmltv_id="[MTV Katsomo] MTV Viihde">[MTV Katsomo] MTV Viihde</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|cmore-first" xmltv_id="[MTV Katsomo] MTV Aitio">[MTV Katsomo] MTV Aitio</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|mtv-urheilu-3" xmltv_id="[MTV Katsomo] MTV Urheilu 3">[MTV Katsomo] MTV Urheilu 3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup4|##|sf-kanalen" xmltv_id="[MTV Katsomo] SF-kanalen">[MTV Katsomo] SF-kanalen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-film" xmltv_id="[V sport, series &amp; film] V film PREMIERE">[V sport, series &amp; film] V film PREMIERE</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-film-family" xmltv_id="[V sport, series &amp; film] V film FAMILY">[V sport, series &amp; film] V film FAMILY</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-film-action" xmltv_id="[V sport, series &amp; film] V film ACTION">[V sport, series &amp; film] V film ACTION</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-film-hits" xmltv_id="[V sport, series &amp; film] V film HITS">[V sport, series &amp; film] V film HITS</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-jaakiekko-hd" xmltv_id="[V sport, series &amp; film] V sport 1 Suomi">[V sport, series &amp; film] V sport 1 Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-jalkapallo-hd" xmltv_id="[V sport, series &amp; film] V sport 2 Suomi">[V sport, series &amp; film] V sport 2 Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-sport-premium-hd" xmltv_id="[V sport, series &amp; film] V sport PREMIUM">[V sport, series &amp; film] V sport PREMIUM</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-fotboll-hd" xmltv_id="[V sport, series &amp; film] V sport FOOTBALL">[V sport, series &amp; film] V sport FOOTBALL</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-urheilu-hd" xmltv_id="[V sport, series &amp; film] V sport + Suomi">[V sport, series &amp; film] V sport + Suomi</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-ultra-hd" xmltv_id="[V sport, series &amp; film] V sport ULTRA HD">[V sport, series &amp; film] V sport ULTRA HD</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-golf" xmltv_id="[V sport, series &amp; film] V sport GOLF">[V sport, series &amp; film] V sport GOLF</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-hockey" xmltv_id="[V sport, series &amp; film] V sport vinter">[V sport, series &amp; film] V sport vinter</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-sport" xmltv_id="[V sport, series &amp; film] V sport">[V sport, series &amp; film] V sport</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|vsport-live-1" xmltv_id="[V sport, series &amp; film] V Sport Live 1">[V sport, series &amp; film] V Sport Live 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|Vsport-live-2" xmltv_id="[V sport, series &amp; film] V Sport Live 2">[V sport, series &amp; film] V Sport Live 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|Vsport-live-3" xmltv_id="[V sport, series &amp; film] V Sport Live 3">[V sport, series &amp; film] V Sport Live 3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|Vsport-live-4" xmltv_id="[V sport, series &amp; film] V Sport Live 4">[V sport, series &amp; film] V Sport Live 4</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|Vsport-live-5" xmltv_id="[V sport, series &amp; film] V Sport Live 5">[V sport, series &amp; film] V Sport Live 5</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-nature-crime" xmltv_id="[V sport, series &amp; film] Viasat Nature/Crime">[V sport, series &amp; film] Viasat Nature/Crime</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-history" xmltv_id="[V sport, series &amp; film] Viasat History">[V sport, series &amp; film] Viasat History</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|viasat-explore" xmltv_id="[V sport, series &amp; film] Viasat Explore">[V sport, series &amp; film] Viasat Explore</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|nat-geo-wild-scandinavia" xmltv_id="[V sport, series &amp; film] Nat Geo Wild Scandinavia">[V sport, series &amp; film] Nat Geo Wild Scandinavia</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|national-geographic" xmltv_id="[V sport, series &amp; film] National Geographic">[V sport, series &amp; film] National Geographic</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|disney-channel" xmltv_id="[V sport, series &amp; film] Disney Channel">[V sport, series &amp; film] Disney Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|disney-junior" xmltv_id="[V sport, series &amp; film] Disney Junior">[V sport, series &amp; film] Disney Junior</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup10|##|cartoon-network" xmltv_id="[V sport, series &amp; film] Cartoon Network">[V sport, series &amp; film] Cartoon Network</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|animal-planet" xmltv_id="[Dokumentit] Animal Planet">[Dokumentit] Animal Planet</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|national-geographic" xmltv_id="[Dokumentit] National Geographic">[Dokumentit] National Geographic</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|nat-geo-wild-scandinavia" xmltv_id="[Dokumentit] Nat Geo Wild Scandinavia">[Dokumentit] Nat Geo Wild Scandinavia</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|discovery-channel" xmltv_id="[Dokumentit] Discovery Channel">[Dokumentit] Discovery Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|discovery-science" xmltv_id="[Dokumentit] Discovery Science">[Dokumentit] Discovery Science</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|investigation-discovery" xmltv_id="[Dokumentit] Investigation Discovery">[Dokumentit] Investigation Discovery</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|viasat-explore" xmltv_id="[Dokumentit] Viasat Explore">[Dokumentit] Viasat Explore</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|viasat-history" xmltv_id="[Dokumentit] Viasat History">[Dokumentit] Viasat History</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|viasat-nature-crime" xmltv_id="[Dokumentit] Viasat Nature/Crime">[Dokumentit] Viasat Nature/Crime</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|history-channel" xmltv_id="[Dokumentit] The History Channel">[Dokumentit] The History Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|h2" xmltv_id="[Dokumentit] H2">[Dokumentit] H2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup13|##|travel-channel" xmltv_id="[Dokumentit] Travel Channel">[Dokumentit] Travel Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|fashion-tv" xmltv_id="[Lifestyle] Fashion TV">[Lifestyle] Fashion TV</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|ava" xmltv_id="[Lifestyle] MTV Ava">[Lifestyle] MTV Ava</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|liv" xmltv_id="[Lifestyle] Liv">[Lifestyle] Liv</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|tlc-finland" xmltv_id="[Lifestyle] TLC">[Lifestyle] TLC</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|frii" xmltv_id="[Lifestyle] Frii">[Lifestyle] Frii</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|viasat-film-family" xmltv_id="[Lifestyle] V film FAMILY">[Lifestyle] V film FAMILY</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|viasat-film-hits" xmltv_id="[Lifestyle] V film HITS">[Lifestyle] V film HITS</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|travel-channel" xmltv_id="[Lifestyle] Travel Channel">[Lifestyle] Travel Channel</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup17|##|food-network" xmltv_id="[Lifestyle] Food Network">[Lifestyle] Food Network</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup15|##|mtv-finland" xmltv_id="[Musiikki] MTV Finland">[Musiikki] MTV Finland</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup15|##|mtv-dance" xmltv_id="[Musiikki] Club MTV">[Musiikki] Club MTV</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup15|##|mtv-live-hd" xmltv_id="[Musiikki] MTV Live HD">[Musiikki] MTV Live HD</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup15|##|vh1-classic" xmltv_id="[Musiikki] VH1 Classic">[Musiikki] VH1 Classic</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup15|##|iconcerts" xmltv_id="[Musiikki] iConcerts">[Musiikki] iConcerts</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|al-jazeera" xmltv_id="[Uutiset] Al Jazeera">[Uutiset] Al Jazeera</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|bbc-world-news" xmltv_id="[Uutiset] BBC World News">[Uutiset] BBC World News</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|bloomberg-tv" xmltv_id="[Uutiset] Bloomberg TV">[Uutiset] Bloomberg TV</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|cnbc" xmltv_id="[Uutiset] CNBC">[Uutiset] CNBC</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|cnn" xmltv_id="[Uutiset] CNN">[Uutiset] CNN</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|sky-news" xmltv_id="[Uutiset] Sky News">[Uutiset] Sky News</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|euronews" xmltv_id="[Uutiset] EuroNews">[Uutiset] EuroNews</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup16|##|deutsche-welle" xmltv_id="[Uutiset] Deutsche Welle">[Uutiset] Deutsche Welle</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|svt-1" xmltv_id="[Ruotsi] SVT 1">[Ruotsi] SVT 1</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|svt-2" xmltv_id="[Ruotsi] SVT 2">[Ruotsi] SVT 2</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|kanal5" xmltv_id="[Ruotsi] Kanal5">[Ruotsi] Kanal5</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|tv3" xmltv_id="[Ruotsi] TV3">[Ruotsi] TV3</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|tv4" xmltv_id="[Ruotsi] TV4">[Ruotsi] TV4</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|tv6" xmltv_id="[Ruotsi] TV6">[Ruotsi] TV6</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|svt24" xmltv_id="[Ruotsi] SVT24">[Ruotsi] SVT24</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|barnkanalen" xmltv_id="[Ruotsi] Barnkanalen">[Ruotsi] Barnkanalen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup20|##|sf-kanalen" xmltv_id="[Ruotsi] SF-kanalen">[Ruotsi] SF-kanalen</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|tv-finland" xmltv_id="[Muut] TV Finland">[Muut] TV Finland</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|tv7" xmltv_id="[Muut] TV7">[Muut] TV7</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|himlen-tv7" xmltv_id="[Muut] Himlen TV7">[Muut] Himlen TV7</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|rtl" xmltv_id="[Muut] RTL">[Muut] RTL</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|viron-etv" xmltv_id="[Muut] Viron ETV">[Muut] Viron ETV</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|tv5-monde" xmltv_id="[Muut] TV5 Monde">[Muut] TV5 Monde</channel>
+    <channel site="[ENC]iltalehti.fi_0" site_id="default_builtin_channelgroup18|##|bbc-nordic" xmltv_id="[Muut] BBC Nordic">[Muut] BBC Nordic</channel>
+  </channels>
+</site>
