@@ -9,7 +9,7 @@ return array (
   'timezone' => '+03:00',
   'culture' => 'tr',
   'max_day' => '1',
-  'url1' => 'https://beinsports.com.tr/_next/data/390/tr-TR/yayin-akisi/##channel##/##urldate1##.json?rewriteIds=##channel##&rewriteIds=##urldate1##',
+  'url1' => 'https://beinsports.com.tr/_next/data/409/tr-TR/yayin-akisi/##channel##/##urldate1##.json?rewriteIds=##channel##&rewriteIds=##urldate1##',
   'requestOption1' => '1',
   'accept_header1' => '*/*',
   'host_header1' => 'beinsports.com.tr',
