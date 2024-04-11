@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]programme.tvb.com_0">
+  <channels>
+    <channel site="[ENC]programme.tvb.com_0" site_id="J" xmltv_id="翡翠台">翡翠台</channel>
+    <channel site="[ENC]programme.tvb.com_0" site_id="B" xmltv_id="J2">J2</channel>
+    <channel site="[ENC]programme.tvb.com_0" site_id="C" xmltv_id="無綫新聞台">無綫新聞台</channel>
+    <channel site="[ENC]programme.tvb.com_0" site_id="P" xmltv_id="明珠台">明珠台</channel>
+    <channel site="[ENC]programme.tvb.com_0" site_id="A" xmltv_id="無綫財經體育資訊台">無綫財經體育資訊台</channel>
+  </channels>
+</site>
