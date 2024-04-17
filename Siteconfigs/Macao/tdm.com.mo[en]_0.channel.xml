@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="tdm.com.mo[en]_0">
+  <channels>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|1||2021-03/a8fbac1841a5372178278304967c69fb.png" xmltv_id="TDM Ou Mun Ch. 91">TDM Ou Mun Ch. 91</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|2||2021-03/595c1e8233d7a436a0747bad38a27e81.png" xmltv_id="Canal Macau Ch. 92">Canal Macau Ch. 92</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|5||2021-03/5bde9db9db093ab310ceef6976cd0ee2.png" xmltv_id="TDM Info Ch.94">TDM Info Ch.94</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|6||2021-03/0fb7aed6ff1aca16c34963fcee8eb367.png" xmltv_id="TDM Sport Ch.93">TDM Sport Ch.93</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|7||2021-03/3a515e0352b60f146b1c6a79ddd4c54d.png" xmltv_id="TDM Entertainment Ch.95">TDM Entertainment Ch.95</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="tv|##|8||2021-09/931a1b83173c0557b46f6b7343e7e9f2.png" xmltv_id="Ou Mun-Macau Ch.96">Ou Mun-Macau Ch.96</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="radio|##|3||2021-06/55e035ae8e46ed9a38ae9245ca84c8e1.png" xmltv_id="Ou Mun Tin Toi FM100.7">Ou Mun Tin Toi FM100.7</channel>
+    <channel site="tdm.com.mo[en]_0" site_id="radio|##|4||2021-09/f07735614d6ae85453c50b6e22329756.png" xmltv_id="Rádio Macau FM98">Rádio Macau FM98</channel>
+  </channels>
+</site>
