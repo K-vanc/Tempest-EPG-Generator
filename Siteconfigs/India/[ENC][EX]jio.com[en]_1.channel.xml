@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]jio.com[en]_1">
+  <channels>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="143" xmltv_id="CNBC Tv18 Prime HD">CNBC Tv18 Prime HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="144" xmltv_id="Colors HD">Colors HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="146" xmltv_id="History TV18 HD">History TV18 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="153" xmltv_id="Zee Talkies">Zee Talkies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="154" xmltv_id="Sony SAB">Sony SAB</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="155" xmltv_id="Sony Ten 5 HD">Sony Ten 5 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="162" xmltv_id="Sony Ten 1 HD">Sony Ten 1 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="164" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="165" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="166" xmltv_id="Cartoon Network Telugu">Cartoon Network Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="167" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="173" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="175" xmltv_id="Aastha">Aastha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="177" xmltv_id="ABP News India">ABP News India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="180" xmltv_id="Asianet News">Asianet News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="182" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="183" xmltv_id="B4U Music">B4U Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="185" xmltv_id="And Pictures HD">And Pictures HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="190" xmltv_id="CNBC Awaaz">CNBC Awaaz</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="193" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="196" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="198" xmltv_id="Colors Oriya">Colors Oriya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="202" xmltv_id="DD National">DD National</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="203" xmltv_id="DD News">DD News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="204" xmltv_id="DD Sports">DD Sports</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="212" xmltv_id="ET Now">ET Now</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="231" xmltv_id="News 18 India">News 18 India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="232" xmltv_id="News18 Lokmat">News18 Lokmat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="235" xmltv_id="India TV">India TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="242" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="248" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="250" xmltv_id="Music India">Music India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="252" xmltv_id="ETV Cinema">ETV Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="255" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="258" xmltv_id="NDTV India">NDTV India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="259" xmltv_id="NDTV Profit">NDTV Profit</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="279" xmltv_id="Rishtey">Rishtey</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="286" xmltv_id="Animal Planet HD World">Animal Planet HD World</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="288" xmltv_id="Sanskar">Sanskar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="289" xmltv_id="Sony Max SD">Sony Max SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="290" xmltv_id="sonic Tamil">sonic Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="291" xmltv_id="SET HD">SET HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="383" xmltv_id="Times NOW">Times NOW</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="400" xmltv_id="PM e Vidya 01">PM e Vidya 01</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="401" xmltv_id="Swayam Prabha 19">Swayam Prabha 19</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="402" xmltv_id="PM e Vidya 02">PM e Vidya 02</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="403" xmltv_id="Swayam Prabha 20">Swayam Prabha 20</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="404" xmltv_id="PM e Vidya 07">PM e Vidya 07</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="405" xmltv_id="PM e Vidya 03">PM e Vidya 03</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="406" xmltv_id="PM e Vidya 04">PM e Vidya 04</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="407" xmltv_id="PM e Vidya 05">PM e Vidya 05</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="408" xmltv_id="PM e Vidya 06">PM e Vidya 06</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="409" xmltv_id="PM e Vidya 08">PM e Vidya 08</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="410" xmltv_id="PM e Vidya 09">PM e Vidya 09</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="411" xmltv_id="PM e Vidya 10">PM e Vidya 10</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="412" xmltv_id="Wion">Wion</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="413" xmltv_id="Zee Cinemalu">Zee Cinemalu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="414" xmltv_id="Zee Yuva">Zee Yuva</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="415" xmltv_id="Zee Anmol Cinema">Zee Anmol Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="417" xmltv_id="J Movies">J Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="418" xmltv_id="Jaya Plus">Jaya Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="419" xmltv_id="Jaya TV HD">Jaya TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="420" xmltv_id="Jaya Max">Jaya Max</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="421" xmltv_id="GOA 365">GOA 365</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="422" xmltv_id="In Goa 24x7">In Goa 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="429" xmltv_id="Colors Tamil HD">Colors Tamil HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="440" xmltv_id="9X Jalwa">9X Jalwa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="441" xmltv_id="9x Jhakaas">9x Jhakaas</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="442" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="445" xmltv_id="Zee Marathi">Zee Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="463" xmltv_id="Discovery HD World">Discovery HD World</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="464" xmltv_id="24 Ghanta TV">24 Ghanta TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="465" xmltv_id="Jaihind tv">Jaihind tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="466" xmltv_id="Arihant TV">Arihant TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="471" xmltv_id="Sony SAB HD">Sony SAB HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="472" xmltv_id="And TV HD">And TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="473" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="474" xmltv_id="Sony Pal">Sony Pal</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="476" xmltv_id="Sony Max HD">Sony Max HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="479" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="481" xmltv_id="Epic">Epic</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="482" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="483" xmltv_id="Sony MAX2">Sony MAX2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="484" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="485" xmltv_id="Enterr 10">Enterr 10</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="486" xmltv_id="Bhojpuri Cinema">Bhojpuri Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="487" xmltv_id="Zee Bollywood">Zee Bollywood</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="488" xmltv_id="Zee Action">Zee Action</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="489" xmltv_id="CNBC Tv 18">CNBC Tv 18</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="490" xmltv_id="CNBC Bazaar (MNO)">CNBC Bazaar (MNO)</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="491" xmltv_id="Mirror Now">Mirror Now</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="492" xmltv_id="CNN NEWS 18">CNN NEWS 18</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="493" xmltv_id="India Today">India Today</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="494" xmltv_id="AL Jazeera">AL Jazeera</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="495" xmltv_id="News X">News X</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="496" xmltv_id="dw">dw</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="498" xmltv_id="India news">India news</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="499" xmltv_id="News Nation">News Nation</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="501" xmltv_id="News 24">News 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="502" xmltv_id="Good News Today">Good News Today</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="503" xmltv_id="IBC24">IBC24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="504" xmltv_id="Zee News">Zee News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="506" xmltv_id="Sahara Samay Rastriya">Sahara Samay Rastriya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="507" xmltv_id="SAHARA SAMAY MP">SAHARA SAMAY MP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="508" xmltv_id="SAHARA SAMAY UP">SAHARA SAMAY UP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="509" xmltv_id="Sahara Samay Bihar">Sahara Samay Bihar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="510" xmltv_id="VIP News">VIP News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="511" xmltv_id="Mh One News">Mh One News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="512" xmltv_id="India News UP">India News UP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="513" xmltv_id="India News Rajasthan">India News Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="514" xmltv_id="Sony Ten 1">Sony Ten 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="515" xmltv_id="India News MP">India News MP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="516" xmltv_id="India News Haryana">India News Haryana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="517" xmltv_id="Chardikla Time TV">Chardikla Time TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="518" xmltv_id="Sudarshan">Sudarshan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="519" xmltv_id="Sadhna News Plus">Sadhna News Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="520" xmltv_id="Sansad TV HD">Sansad TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="522" xmltv_id="Sansad TV">Sansad TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="523" xmltv_id="Ten 2">Ten 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="524" xmltv_id="Sony Ten 3 Hindi">Sony Ten 3 Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="525" xmltv_id="Sony Ten 5">Sony Ten 5</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="527" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="528" xmltv_id="DD India">DD India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="529" xmltv_id="News18 MP">News18 MP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="530" xmltv_id="News18 UP">News18 UP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="531" xmltv_id="News18 RAJASTHAN">News18 RAJASTHAN</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="532" xmltv_id="Dabangg">Dabangg</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="533" xmltv_id="Raj Pariwar">Raj Pariwar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="535" xmltv_id="Dhamaal TV">Dhamaal TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="536" xmltv_id="DD Madhya Pradesh">DD Madhya Pradesh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="538" xmltv_id="DD Rajasthan (Jaipur)">DD Rajasthan (Jaipur)</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="539" xmltv_id="DD Bihar">DD Bihar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="540" xmltv_id="DD Uttar Pradesh">DD Uttar Pradesh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="541" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="542" xmltv_id="Pogo Tamil">Pogo Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="543" xmltv_id="Nick Telugu">Nick Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="544" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="545" xmltv_id="Nick Hindi">Nick Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="546" xmltv_id="Nick Tamil">Nick Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="548" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="550" xmltv_id="Discovery Kids Tamil">Discovery Kids Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="551" xmltv_id="TEST14 HD">TEST14 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="554" xmltv_id="Discovery Kids 2">Discovery Kids 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="555" xmltv_id="Chintu TV">Chintu TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="556" xmltv_id="Kochu TV">Kochu TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="557" xmltv_id="Chutti TV">Chutti TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="558" xmltv_id="Kushi TV">Kushi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="559" xmltv_id="Pogo Hindi">Pogo Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="560" xmltv_id="GOOD TiMES">GOOD TiMES</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="561" xmltv_id="Food Food">Food Food</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="562" xmltv_id="Travelxp HD Hindi">Travelxp HD Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="563" xmltv_id="Kaumudy TV">Kaumudy TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="565" xmltv_id="ETV Abhiruchi">ETV Abhiruchi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="566" xmltv_id="Animal Planet Hindi">Animal Planet Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="567" xmltv_id="Animal Planet English">Animal Planet English</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="568" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="569" xmltv_id="D Tamil">D Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="570" xmltv_id="ETV Life">ETV Life</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="571" xmltv_id="TLC Hindi">TLC Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="572" xmltv_id="Zee UP UK">Zee UP UK</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="573" xmltv_id="Discovery Channel Bengali">Discovery Channel Bengali</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="574" xmltv_id="TLC English">TLC English</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="575" xmltv_id="Discovery Channel Hindi">Discovery Channel Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="576" xmltv_id="Discovery Channel Telugu">Discovery Channel Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="577" xmltv_id="History TV18 HD Telugu">History TV18 HD Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="578" xmltv_id="History TV18 HD Hindi">History TV18 HD Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="579" xmltv_id="History TV18 HD Tamil">History TV18 HD Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="580" xmltv_id="DD bharati">DD bharati</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="583" xmltv_id="DD Kisan">DD Kisan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="584" xmltv_id="Mastiii">Mastiii</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="585" xmltv_id="Zing">Zing</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="587" xmltv_id="9XM">9XM</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="591" xmltv_id="E 24">E 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="592" xmltv_id="ZOOM">ZOOM</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="593" xmltv_id="Sadhna">Sadhna</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="594" xmltv_id="Aastha Bhajan">Aastha Bhajan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="596" xmltv_id="Jinvani TV">Jinvani TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="597" xmltv_id="Satsang TV">Satsang TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="598" xmltv_id="Sri Venkateshwar Bhakti">Sri Venkateshwar Bhakti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="599" xmltv_id="Disha tv">Disha tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="601" xmltv_id="Ishwar TV">Ishwar TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="602" xmltv_id="Paras tv">Paras tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="603" xmltv_id="Nambikkai">Nambikkai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="605" xmltv_id="Channel Win">Channel Win</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="606" xmltv_id="Shalom">Shalom</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="607" xmltv_id="Subhavartha TV">Subhavartha TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="608" xmltv_id="Shubhsandesh TV">Shubhsandesh TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="609" xmltv_id="mh1 Shraddha">mh1 Shraddha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="611" xmltv_id="Darshan 24">Darshan 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="612" xmltv_id="ABP Majha">ABP Majha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="613" xmltv_id="Newslive">Newslive</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="614" xmltv_id="ETV Andhra pradesh">ETV Andhra pradesh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="615" xmltv_id="News 18 Tamilnadu">News 18 Tamilnadu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="616" xmltv_id="Tv 9 Gujarat">Tv 9 Gujarat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="617" xmltv_id="TV9 Maharashtra">TV9 Maharashtra</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="618" xmltv_id="TV9 Telugu News">TV9 Telugu News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="619" xmltv_id="TV9 Karnataka">TV9 Karnataka</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="620" xmltv_id="News18 Gujarati">News18 Gujarati</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="623" xmltv_id="Rang">Rang</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="624" xmltv_id="Prag News">Prag News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="625" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="626" xmltv_id="Suvarna News">Suvarna News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="627" xmltv_id="News 18 Assam">News 18 Assam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="628" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="629" xmltv_id="ETV Telugu">ETV Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="630" xmltv_id="ETV Telangana">ETV Telangana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="631" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="632" xmltv_id="Sakshi tv">Sakshi tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="633" xmltv_id="DY 365">DY 365</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="634" xmltv_id="Flower TV">Flower TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="635" xmltv_id="Rengoni">Rengoni</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="636" xmltv_id="Polimer News">Polimer News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="637" xmltv_id="North East Live">North East Live</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="638" xmltv_id="Zee Telugu">Zee Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="639" xmltv_id="Ramdhenu">Ramdhenu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="641" xmltv_id="ABP Asmita">ABP Asmita</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="642" xmltv_id="VTV Gujarati">VTV Gujarati</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="643" xmltv_id="GS TV">GS TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="646" xmltv_id="NTV">NTV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="647" xmltv_id="Pratidin Time">Pratidin Time</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="648" xmltv_id="Mazhavil Manorama">Mazhavil Manorama</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="650" xmltv_id="Raj News Malayalam">Raj News Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="651" xmltv_id="Raj News Kannada">Raj News Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="652" xmltv_id="Zee Hindustan">Zee Hindustan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="653" xmltv_id="News18 Kannada News">News18 Kannada News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="654" xmltv_id="Zee Punjabi HP Haryana">Zee Punjabi HP Haryana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="655" xmltv_id="News18 Punjab Haryana">News18 Punjab Haryana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="656" xmltv_id="News 9">News 9</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="657" xmltv_id="Zee Business">Zee Business</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="658" xmltv_id="Zee News MP Chattisgarh">Zee News MP Chattisgarh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="659" xmltv_id="Zee Rajasthan">Zee Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="661" xmltv_id="Zee Bihar Jharkhand">Zee Bihar Jharkhand</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="662" xmltv_id="Manorama News">Manorama News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="664" xmltv_id="Raj News Telugu">Raj News Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="665" xmltv_id="HM TV">HM TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="666" xmltv_id="ABN Andhra Jyothi">ABN Andhra Jyothi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="667" xmltv_id="T News">T News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="668" xmltv_id="TV 5 News">TV 5 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="671" xmltv_id="Sathiyam TV">Sathiyam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="672" xmltv_id="ABP Ananda">ABP Ananda</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="673" xmltv_id="News7 Tamil">News7 Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="675" xmltv_id="Assam Talks">Assam Talks</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="676" xmltv_id="Sun News">Sun News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="677" xmltv_id="Puthiya Thalimurai">Puthiya Thalimurai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="678" xmltv_id="Udaya Movies">Udaya Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="682" xmltv_id="Sun Life">Sun Life</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="683" xmltv_id="Raj Digital Plus">Raj Digital Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="684" xmltv_id="Gemini Life">Gemini Life</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="685" xmltv_id="Zee Bangla Cinema">Zee Bangla Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="687" xmltv_id="News Time TV">News Time TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="689" xmltv_id="Zee Kannada">Zee Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="690" xmltv_id="DD Bangla">DD Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="691" xmltv_id="Saam Tv">Saam Tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="692" xmltv_id="ETV Plus">ETV Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="693" xmltv_id="News18 BIHAR">News18 BIHAR</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="694" xmltv_id="News18 JKLH">News18 JKLH</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="695" xmltv_id="DD Sahayadri">DD Sahayadri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="696" xmltv_id="News18 Oriya">News18 Oriya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="697" xmltv_id="Sony aath">Sony aath</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="698" xmltv_id="Aakash Aath">Aakash Aath</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="699" xmltv_id="DD Malayalam">DD Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="701" xmltv_id="Dangal">Dangal</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="702" xmltv_id="DD Oriya">DD Oriya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="705" xmltv_id="Polimer TV">Polimer TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="706" xmltv_id="DD Saptagiri">DD Saptagiri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="707" xmltv_id="Raj TV">Raj TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="708" xmltv_id="Makkal TV">Makkal TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="709" xmltv_id="Adithya TV">Adithya TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="710" xmltv_id="Kairali TV">Kairali TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="712" xmltv_id="DD urdu">DD urdu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="713" xmltv_id="DD9 chandana (kannada)">DD9 chandana (kannada)</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="714" xmltv_id="DD Girnar">DD Girnar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="715" xmltv_id="DD Punjabi">DD Punjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="716" xmltv_id="DD Kashir">DD Kashir</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="717" xmltv_id="News18 Bangla News">News18 Bangla News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="718" xmltv_id="Kanak News">Kanak News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="719" xmltv_id="Nepal one">Nepal one</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="720" xmltv_id="DD13 Guwahati NE">DD13 Guwahati NE</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="722" xmltv_id="Zee Sarthak">Zee Sarthak</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="723" xmltv_id="Amrita TV">Amrita TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="724" xmltv_id="Zee Delhi NCR Haryana">Zee Delhi NCR Haryana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="725" xmltv_id="Kairali News">Kairali News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="726" xmltv_id="DD5 Podhigai">DD5 Podhigai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="727" xmltv_id="Vasanth TV">Vasanth TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="728" xmltv_id="Zee Salaam">Zee Salaam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="729" xmltv_id="Gemini Comedy">Gemini Comedy</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="731" xmltv_id="Kairali WE TV">Kairali WE TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="732" xmltv_id="9X Tashan">9X Tashan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="733" xmltv_id="Udaya Comedy">Udaya Comedy</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="734" xmltv_id="Vissa TV">Vissa TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="735" xmltv_id="Sangeet Marathi">Sangeet Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="736" xmltv_id="Maiboli">Maiboli</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="737" xmltv_id="Raj Music Telugu">Raj Music Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="738" xmltv_id="Fakt Marathi">Fakt Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="739" xmltv_id="Raj Music Malayalam">Raj Music Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="740" xmltv_id="Sangeet Bangla">Sangeet Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="741" xmltv_id="Sangeet Bhojpuri">Sangeet Bhojpuri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="742" xmltv_id="mh1 (Music)">mh1 (Music)</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="743" xmltv_id="Raj Music Kannada">Raj Music Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="744" xmltv_id="Udaya Music">Udaya Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="747" xmltv_id="Surya Music">Surya Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="748" xmltv_id="Raj Musix">Raj Musix</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="753" xmltv_id="MTV Beats HD">MTV Beats HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="755" xmltv_id="Colors Marathi HD">Colors Marathi HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="756" xmltv_id="Colors Bengali HD">Colors Bengali HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="757" xmltv_id="Colors Kannada HD">Colors Kannada HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="764" xmltv_id="Channel News Asia International">Channel News Asia International</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="765" xmltv_id="Jonack">Jonack</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="767" xmltv_id="Raj News 24x7">Raj News 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="768" xmltv_id="Jan TV">Jan TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="769" xmltv_id="V6 News">V6 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="770" xmltv_id="Kashish News">Kashish News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="771" xmltv_id="Live Today">Live Today</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="772" xmltv_id="CVR OM Spiritual">CVR OM Spiritual</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="773" xmltv_id="Public Music">Public Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="774" xmltv_id="CVR Health">CVR Health</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="775" xmltv_id="Vanitha">Vanitha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="776" xmltv_id="Bhakti TV">Bhakti TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="777" xmltv_id="Aradhana TV">Aradhana TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="778" xmltv_id="Public TV">Public TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="779" xmltv_id="Prameya News 7">Prameya News 7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="780" xmltv_id="Mathrubhumi News">Mathrubhumi News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="781" xmltv_id="Kalinga TV">Kalinga TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="782" xmltv_id="Sandesh News">Sandesh News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="783" xmltv_id="K News India">K News India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="784" xmltv_id="CVR News">CVR News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="785" xmltv_id="Colors Super">Colors Super</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="786" xmltv_id="Kappa TV">Kappa TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="787" xmltv_id="CVR English">CVR English</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="788" xmltv_id="India Voice">India Voice</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="789" xmltv_id="JK 24x7 News">JK 24x7 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="790" xmltv_id="I News">I News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="791" xmltv_id="Taaza TV">Taaza TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="792" xmltv_id="News State UK UP">News State UK UP</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="793" xmltv_id="Sahara Samay Rajasthan">Sahara Samay Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="794" xmltv_id="Peace of Mind">Peace of Mind</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="795" xmltv_id="testa">testa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="796" xmltv_id="Peppers TV">Peppers TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="797" xmltv_id="testii">testii</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="801" xmltv_id="Divya TV">Divya TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="803" xmltv_id="Tunes 6">Tunes 6</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="804" xmltv_id="Samachar Plus">Samachar Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="807" xmltv_id="Gulistan News">Gulistan News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="808" xmltv_id="Hindi Khabar">Hindi Khabar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="809" xmltv_id="Maha Movies">Maha Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="810" xmltv_id="Janam TV">Janam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="814" xmltv_id="Travelxp Tamil">Travelxp Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="815" xmltv_id="Sonic Hindi">Sonic Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="816" xmltv_id="Cartoon Network Hindi">Cartoon Network Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="817" xmltv_id="Cartoon Network Tamil">Cartoon Network Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="824" xmltv_id="Puthu Yugam">Puthu Yugam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="826" xmltv_id="Malai Murasu">Malai Murasu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="828" xmltv_id="Shubh TV">Shubh TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="829" xmltv_id="Sri Sankara">Sri Sankara</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="830" xmltv_id="Thanthi TV">Thanthi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="831" xmltv_id="Living India News">Living India News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="832" xmltv_id="10 TV">10 TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="837" xmltv_id="Euro News">Euro News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="838" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="842" xmltv_id="Jeevan TV">Jeevan TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="843" xmltv_id="Madhimugam TV">Madhimugam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="844" xmltv_id="Mazavali Manorama HD">Mazavali Manorama HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="845" xmltv_id="MK Music">MK Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="846" xmltv_id="MKN">MKN</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="847" xmltv_id="MK TV">MK TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="850" xmltv_id="News India 24x7">News India 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="851" xmltv_id="SMBC TV">SMBC TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="855" xmltv_id="Total TV">Total TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="856" xmltv_id="Vedic TV">Vedic TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="857" xmltv_id="Vendhar TV">Vendhar TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="858" xmltv_id="Republic TV">Republic TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="866" xmltv_id="Jio Exclusive HD">Jio Exclusive HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="871" xmltv_id="Jio Events HD">Jio Events HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="872" xmltv_id="Sony Yay Hindi">Sony Yay Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="873" xmltv_id="Sony Yay Tamil">Sony Yay Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="874" xmltv_id="Sony Yay Telugu">Sony Yay Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="875" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="876" xmltv_id="Times Now World">Times Now World</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="879" xmltv_id="Hare krsna">Hare krsna</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="880" xmltv_id="Janta TV">Janta TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="882" xmltv_id="News11">News11</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="883" xmltv_id="Oscar Movies">Oscar Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="885" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="886" xmltv_id="Lakshya TV">Lakshya TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="887" xmltv_id="Swar Shree">Swar Shree</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="891" xmltv_id="Sony Ten 2 HD">Sony Ten 2 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="892" xmltv_id="Sony Ten 3 HD Hindi">Sony Ten 3 HD Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="894" xmltv_id="KTV HD">KTV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="895" xmltv_id="Sun Music HD">Sun Music HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="896" xmltv_id="Sun TV HD">Sun TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="897" xmltv_id="Gemini TV HD">Gemini TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="898" xmltv_id="Gemini Music HD">Gemini Music HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="899" xmltv_id="Gemini Movies HD">Gemini Movies HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="900" xmltv_id="Surya HD">Surya HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="901" xmltv_id="Udaya HD">Udaya HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="903" xmltv_id="Only Music">Only Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="904" xmltv_id="Sanjha TV">Sanjha TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="905" xmltv_id="PBN Music">PBN Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="906" xmltv_id="Desi Channel">Desi Channel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="907" xmltv_id="GoodNews Channel">GoodNews Channel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="908" xmltv_id="Indradhanu">Indradhanu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="910" xmltv_id="Media One TV">Media One TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="915" xmltv_id="Khabar Fast">Khabar Fast</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="916" xmltv_id="TV 100">TV 100</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="917" xmltv_id="APN News">APN News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="918" xmltv_id="Bharat Samachar">Bharat Samachar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="921" xmltv_id="Prime News">Prime News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="923" xmltv_id="R.Kannada">R.Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="924" xmltv_id="Mercy TV">Mercy TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="926" xmltv_id="A1 TV Rajasthan">A1 TV Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="927" xmltv_id="First India News">First India News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="929" xmltv_id="Zee 24 Kalak">Zee 24 Kalak</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="933" xmltv_id="4 TV">4 TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="934" xmltv_id="Divya Vani">Divya Vani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="936" xmltv_id="News 1 India">News 1 India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="937" xmltv_id="Sai TV">Sai TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="938" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="939" xmltv_id="Bhaktisagar 2">Bhaktisagar 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="944" xmltv_id="Mantavya News">Mantavya News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="946" xmltv_id="Pitaara">Pitaara</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="950" xmltv_id="R Plus">R Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="951" xmltv_id="Live Punjabi TV">Live Punjabi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="952" xmltv_id="Garv Punjabi Gurbani">Garv Punjabi Gurbani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="953" xmltv_id="Propex TV">Propex TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="955" xmltv_id="Hindu Dharmam">Hindu Dharmam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="956" xmltv_id="TV 5 Kannada">TV 5 Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="957" xmltv_id="INH 24x7">INH 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="958" xmltv_id="DNN">DNN</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="959" xmltv_id="JUSPunjabi">JUSPunjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="960" xmltv_id="JUS 24x7">JUS 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="961" xmltv_id="JUSOne">JUSOne</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="962" xmltv_id="Boogle Bollywood">Boogle Bollywood</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="963" xmltv_id="Arre HD">Arre HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="964" xmltv_id="Om Shanti">Om Shanti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="965" xmltv_id="News 18 Kerala">News 18 Kerala</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="966" xmltv_id="Prudent">Prudent</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="970" xmltv_id="Win TV">Win TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="971" xmltv_id="Vaanavil TV">Vaanavil TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="972" xmltv_id="Sarv Dharam Sangam">Sarv Dharam Sangam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="975" xmltv_id="Jantantra">Jantantra</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="977" xmltv_id="Calvary">Calvary</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="978" xmltv_id="TEST1 HD">TEST1 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="979" xmltv_id="TEST2 HD">TEST2 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="980" xmltv_id="Swayam Prabha 01">Swayam Prabha 01</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="981" xmltv_id="Swayam Prabha 02">Swayam Prabha 02</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="982" xmltv_id="Swayam Prabha 03">Swayam Prabha 03</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="983" xmltv_id="Swayam Prabha 08">Swayam Prabha 08</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="984" xmltv_id="Swayam Prabha 04">Swayam Prabha 04</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="985" xmltv_id="Swayam Prabha 07">Swayam Prabha 07</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="986" xmltv_id="Swayam Prabha 05">Swayam Prabha 05</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="987" xmltv_id="Swayam Prabha 06">Swayam Prabha 06</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="988" xmltv_id="Swayam Prabha 09">Swayam Prabha 09</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="989" xmltv_id="Swayam Prabha 10">Swayam Prabha 10</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="990" xmltv_id="Swayam Prabha 11">Swayam Prabha 11</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="991" xmltv_id="Swayam Prabha 12">Swayam Prabha 12</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="992" xmltv_id="Swayam Prabha 13">Swayam Prabha 13</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="993" xmltv_id="Swayam Prabha 14">Swayam Prabha 14</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="994" xmltv_id="Swayam Prabha 16">Swayam Prabha 16</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="995" xmltv_id="Swayam Prabha 15">Swayam Prabha 15</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="996" xmltv_id="Swayam Prabha 17">Swayam Prabha 17</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="997" xmltv_id="Swayam Prabha 21">Swayam Prabha 21</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="998" xmltv_id="Swayam Prabha 22">Swayam Prabha 22</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="999" xmltv_id="Swayam Prabha 18">Swayam Prabha 18</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1059" xmltv_id="TEST3 HD">TEST3 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1061" xmltv_id="TEST5 HD">TEST5 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1066" xmltv_id="The Q">The Q</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1069" xmltv_id="Vande Gujarat 1">Vande Gujarat 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1070" xmltv_id="Vande Gujarat 2">Vande Gujarat 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1071" xmltv_id="Vande Gujarat 4">Vande Gujarat 4</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1073" xmltv_id="Samara News">Samara News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1075" xmltv_id="Ayush TV">Ayush TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1077" xmltv_id="Sharnam TV">Sharnam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1078" xmltv_id="Soham TV">Soham TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1079" xmltv_id="CN HD+ English">CN HD+ English</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1080" xmltv_id="CN HD+ Telugu">CN HD+ Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1081" xmltv_id="CN HD+ Tamil">CN HD+ Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1082" xmltv_id="Vande Gujarat 3">Vande Gujarat 3</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1083" xmltv_id="Vande Gujarat 5">Vande Gujarat 5</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1084" xmltv_id="Vande Gujarat 6">Vande Gujarat 6</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1085" xmltv_id="Vande Gujarat 7">Vande Gujarat 7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1086" xmltv_id="Vande Gujarat 8">Vande Gujarat 8</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1087" xmltv_id="Vande Gujarat 9">Vande Gujarat 9</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1088" xmltv_id="Vande Gujarat 10">Vande Gujarat 10</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1089" xmltv_id="Vande Gujarat 11">Vande Gujarat 11</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1090" xmltv_id="Vande Gujarat 12">Vande Gujarat 12</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1091" xmltv_id="Vande Gujarat 13">Vande Gujarat 13</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1092" xmltv_id="Vande Gujarat 14">Vande Gujarat 14</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1093" xmltv_id="Vande Gujarat 15">Vande Gujarat 15</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1094" xmltv_id="Vande Gujarat 16">Vande Gujarat 16</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1099" xmltv_id="Hamari Sanskruti">Hamari Sanskruti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1102" xmltv_id="RDX Goa">RDX Goa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1103" xmltv_id="PEACE MUSIC">PEACE MUSIC</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1144" xmltv_id="Namma TV">Namma TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1145" xmltv_id="MTV HD Plus">MTV HD Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1146" xmltv_id="Sony Marathi SD">Sony Marathi SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1148" xmltv_id="TEST8 HD">TEST8 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1151" xmltv_id="Rangamanch">Rangamanch</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1157" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1158" xmltv_id="Colors Infinity HD">Colors Infinity HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1159" xmltv_id="Tulja Bhavani">Tulja Bhavani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1162" xmltv_id="Prime Asia TV HD">Prime Asia TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1163" xmltv_id="JioGames HD">JioGames HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1170" xmltv_id="PTC News">PTC News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1171" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1172" xmltv_id="PTC Chak De">PTC Chak De</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1174" xmltv_id="Fateh TV">Fateh TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1175" xmltv_id="Awakening">Awakening</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1176" xmltv_id="SRMD HD">SRMD HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1179" xmltv_id="Bansal News">Bansal News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1184" xmltv_id="Steelbird Music">Steelbird Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1185" xmltv_id="Swadesh News">Swadesh News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1186" xmltv_id="Kartavya TV">Kartavya TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1187" xmltv_id="Valam TV">Valam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1188" xmltv_id="PTC DHOL TV">PTC DHOL TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1189" xmltv_id="PTC Music">PTC Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1190" xmltv_id="PTC Punjabi Gold">PTC Punjabi Gold</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1191" xmltv_id="PTC Simran">PTC Simran</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1192" xmltv_id="Brit Asia">Brit Asia</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1193" xmltv_id="Hare Krsna Music">Hare Krsna Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1201" xmltv_id="Sadhguru Television HD">Sadhguru Television HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1205" xmltv_id="ABP Ganga">ABP Ganga</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1209" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1210" xmltv_id="Kalaignar Seithigal">Kalaignar Seithigal</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1212" xmltv_id="Hare Krsna Pravachan">Hare Krsna Pravachan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1216" xmltv_id="Highbrow">Highbrow</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1219" xmltv_id="Animal Planet HD Tamil">Animal Planet HD Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1220" xmltv_id="Rajyoga TV">Rajyoga TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1221" xmltv_id="Rajyoga TV Kannada">Rajyoga TV Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1222" xmltv_id="Mandir Shri Govinddevji-Jaipur">Mandir Shri Govinddevji-Jaipur</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1223" xmltv_id="Dagdusheth Ganpati - Pune">Dagdusheth Ganpati - Pune</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1224" xmltv_id="Nimbark TV">Nimbark TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1225" xmltv_id="Click Life">Click Life</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1226" xmltv_id="Nick HD+">Nick HD+</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1227" xmltv_id="Digishala">Digishala</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1230" xmltv_id="PTC VR">PTC VR</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1232" xmltv_id="Hi Dost!">Hi Dost!</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1240" xmltv_id="TEST10 HD">TEST10 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1241" xmltv_id="God TV">God TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1242" xmltv_id="Sonic Telugu">Sonic Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1243" xmltv_id="Sonic Kannada">Sonic Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1244" xmltv_id="Nick Kannada">Nick Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1245" xmltv_id="Sakkat">Sakkat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1246" xmltv_id="Headlines Tripura">Headlines Tripura</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1248" xmltv_id="Bol Hadippa">Bol Hadippa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1249" xmltv_id="Kadak Hits">Kadak Hits</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1250" xmltv_id="Twenty Four News">Twenty Four News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1251" xmltv_id="TV9 Bharatvarsh">TV9 Bharatvarsh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1252" xmltv_id="Tehzeeb TV">Tehzeeb TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1254" xmltv_id="Aastha Telugu">Aastha Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1255" xmltv_id="Aastha Tamil">Aastha Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1256" xmltv_id="Aastha Kannada">Aastha Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1257" xmltv_id="Surya Samachar">Surya Samachar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1260" xmltv_id="Ctvn Akd Plus">Ctvn Akd Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1261" xmltv_id="Calcutta News">Calcutta News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1263" xmltv_id="Total Tv Haryana">Total Tv Haryana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1264" xmltv_id="Kolkata TV">Kolkata TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1265" xmltv_id="Global Sanjh">Global Sanjh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1271" xmltv_id="Sri Krishna Matha Udupi">Sri Krishna Matha Udupi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1273" xmltv_id="Sugran">Sugran</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1274" xmltv_id="Studio One">Studio One</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1278" xmltv_id="Prarthana Bhawan">Prarthana Bhawan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1279" xmltv_id="Manoranjan Grand">Manoranjan Grand</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1280" xmltv_id="Manoranjan TV">Manoranjan TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1281" xmltv_id="Manoranjan Movies">Manoranjan Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1282" xmltv_id="Khushboo TV">Khushboo TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1283" xmltv_id="Mahavir Mandir Patna">Mahavir Mandir Patna</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1284" xmltv_id="Vignesh TV">Vignesh TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1286" xmltv_id="Insync">Insync</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1287" xmltv_id="ANB News">ANB News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1288" xmltv_id="Shri Omkareshwar Mandir">Shri Omkareshwar Mandir</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1290" xmltv_id="Stars Tell">Stars Tell</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1291" xmltv_id="ABP Sanjha">ABP Sanjha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1292" xmltv_id="Wellness">Wellness</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1293" xmltv_id="Lokshahi News">Lokshahi News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1294" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1295" xmltv_id="B4U Kadak">B4U Kadak</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1296" xmltv_id="B4U Bhojpuri">B4U Bhojpuri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1299" xmltv_id="Manjari TV">Manjari TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1315" xmltv_id="HHDL">HHDL</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1319" xmltv_id="Zee Cafe HD">Zee Cafe HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1320" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1322" xmltv_id="&amp;Flix HD">&amp;Flix HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1324" xmltv_id="Colors Gujarati Cinema">Colors Gujarati Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1325" xmltv_id="Colors Infinity SD">Colors Infinity SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1326" xmltv_id="Colors Marathi SD">Colors Marathi SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1327" xmltv_id="Comedy Central SD">Comedy Central SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1328" xmltv_id="DD Arunprabha">DD Arunprabha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1329" xmltv_id="DD Gyandarshan">DD Gyandarshan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1337" xmltv_id="Top Tutor">Top Tutor</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1338" xmltv_id="RT TV">RT TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1340" xmltv_id="Nick Malayalam">Nick Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1341" xmltv_id="Nick Bangla">Nick Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1342" xmltv_id="Nick Marathi">Nick Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1344" xmltv_id="Sonic Malayalam">Sonic Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1345" xmltv_id="Sonic Bangla">Sonic Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1346" xmltv_id="Sonic Marathi">Sonic Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1349" xmltv_id="And Prive HD">And Prive HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1351" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1354" xmltv_id="Zee Telugu HD">Zee Telugu HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1356" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1358" xmltv_id="Zee Talkies HD">Zee Talkies HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1359" xmltv_id="Big Magic">Big Magic</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1360" xmltv_id="Zee Marathi HD">Zee Marathi HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1362" xmltv_id="Zee Kannada HD">Zee Kannada HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1363" xmltv_id="Zee Cinemalu HD">Zee Cinemalu HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1368" xmltv_id="Colors SD">Colors SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1369" xmltv_id="Colors Bangla SD">Colors Bangla SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1370" xmltv_id="Colors Kannada SD">Colors Kannada SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1371" xmltv_id="Colors Tamil">Colors Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1378" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1388" xmltv_id="Goodness">Goodness</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1393" xmltv_id="Sony Wah">Sony Wah</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1394" xmltv_id="Jai Maharashtra">Jai Maharashtra</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1396" xmltv_id="Set SD">Set SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1400" xmltv_id="MTV Beats SD">MTV Beats SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1403" xmltv_id="Republic Bharat">Republic Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1405" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1407" xmltv_id="Sai Leela">Sai Leela</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1410" xmltv_id="PM e Vidya 11">PM e Vidya 11</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1411" xmltv_id="SongDew TV">SongDew TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1412" xmltv_id="Shani Shingnapur">Shani Shingnapur</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1414" xmltv_id="Prati Shirdi Saibaba">Prati Shirdi Saibaba</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1415" xmltv_id="Ganga Darshan Varanasi">Ganga Darshan Varanasi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1417" xmltv_id="SVBC2">SVBC2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1418" xmltv_id="Ichhapuran Balaji Rajasthan">Ichhapuran Balaji Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1419" xmltv_id="Iskon Girgaon">Iskon Girgaon</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1420" xmltv_id="Ashtavinayak Ranjangaon">Ashtavinayak Ranjangaon</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1421" xmltv_id="Karani Mata Rajasthan">Karani Mata Rajasthan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1422" xmltv_id="Mahalaxmi Mumbai">Mahalaxmi Mumbai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1423" xmltv_id="Babulnaath Mumbai">Babulnaath Mumbai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1424" xmltv_id="Mumbadevi Mumbai">Mumbadevi Mumbai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1426" xmltv_id="Santvani">Santvani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1427" xmltv_id="Nandighosha">Nandighosha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1428" xmltv_id="Gyan Brikshya">Gyan Brikshya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1429" xmltv_id="KITE VICTERS">KITE VICTERS</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1430" xmltv_id="Jio KIDS">Jio KIDS</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1432" xmltv_id="TIME8">TIME8</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1433" xmltv_id="India Science">India Science</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1434" xmltv_id="Utkarsh Primary">Utkarsh Primary</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1435" xmltv_id="Utkarsh HSBTE">Utkarsh HSBTE</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1436" xmltv_id="Utkarsh Secondary">Utkarsh Secondary</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1437" xmltv_id="Utkarsh Higher">Utkarsh Higher</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1438" xmltv_id="Velukkudi Discourses">Velukkudi Discourses</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1440" xmltv_id="Krishna Vani">Krishna Vani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1441" xmltv_id="Wah Punjabi">Wah Punjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1447" xmltv_id="TV Teacher">TV Teacher</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1450" xmltv_id="Colors Cineplex Superhit">Colors Cineplex Superhit</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1451" xmltv_id="9 Bharat Samachar">9 Bharat Samachar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1452" xmltv_id="Shemaroo MarathiBana">Shemaroo MarathiBana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1453" xmltv_id="Balle Balle TV">Balle Balle TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1454" xmltv_id="Shiksha TV">Shiksha TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1455" xmltv_id="Janapriyam">Janapriyam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1456" xmltv_id="Lairik">Lairik</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1457" xmltv_id="News Only">News Only</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1458" xmltv_id="Gurkibani">Gurkibani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1463" xmltv_id="Shree Ganesh - Moti Doongri Jaipur">Shree Ganesh - Moti Doongri Jaipur</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1464" xmltv_id="Daijiworld TV 24x7">Daijiworld TV 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1471" xmltv_id="History TV18 SD">History TV18 SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1477" xmltv_id="Colors Cineplex HD">Colors Cineplex HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1479" xmltv_id="Shri Jain Nakoda Parshwanath Tirth">Shri Jain Nakoda Parshwanath Tirth</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1481" xmltv_id="Argus News">Argus News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1482" xmltv_id="AMMA TV">AMMA TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1494" xmltv_id="BHOOMI 24x7">BHOOMI 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1514" xmltv_id="Kannur One">Kannur One</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1515" xmltv_id="News J">News J</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1518" xmltv_id="Moon TV">Moon TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1521" xmltv_id="Birla Brainiacs">Birla Brainiacs</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1525" xmltv_id="TEST13 HD">TEST13 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1527" xmltv_id="Haryanvi Hits">Haryanvi Hits</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1528" xmltv_id="Network 10">Network 10</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1529" xmltv_id="MI TV">MI TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1531" xmltv_id="Gyanvani 1">Gyanvani 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1532" xmltv_id="PM e Vidya 12">PM e Vidya 12</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1534" xmltv_id="World Punjabi">World Punjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1537" xmltv_id="RadheKrishna TV">RadheKrishna TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1539" xmltv_id="Sangat TV">Sangat TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1542" xmltv_id="Tute">Tute</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1543" xmltv_id="Subharti">Subharti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1545" xmltv_id="Punjab School TV">Punjab School TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1548" xmltv_id="Khandoba Majha, Jejuri">Khandoba Majha, Jejuri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1549" xmltv_id="Dharm Granth TV">Dharm Granth TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1550" xmltv_id="AB News">AB News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1551" xmltv_id="P News">P News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1552" xmltv_id="Malanadu TV">Malanadu TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1553" xmltv_id="AB Star News">AB Star News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1554" xmltv_id="Sanatan TV">Sanatan TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1555" xmltv_id="News First">News First</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1557" xmltv_id="Express TV">Express TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1559" xmltv_id="Jigyasa TV">Jigyasa TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1560" xmltv_id="35mm">35mm</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1561" xmltv_id="Sristi TV">Sristi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1562" xmltv_id="Himshiksha Elementary">Himshiksha Elementary</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1563" xmltv_id="Himshiksha Higher">Himshiksha Higher</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1564" xmltv_id="Himshiksha Vocational">Himshiksha Vocational</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1565" xmltv_id="AP-BIE-ARTS">AP-BIE-ARTS</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1566" xmltv_id="AP-BIE-SCIENCE">AP-BIE-SCIENCE</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1567" xmltv_id="AP-CIE-SIVE">AP-CIE-SIVE</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1568" xmltv_id="Atmadarshan TV">Atmadarshan TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1590" xmltv_id="Sanskrit">Sanskrit</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1592" xmltv_id="Lokmanch News">Lokmanch News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1593" xmltv_id="Lifology">Lifology</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1594" xmltv_id="Samachar 24">Samachar 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1605" xmltv_id="Bangla Bhakti">Bangla Bhakti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1606" xmltv_id="Ken TV Keralam">Ken TV Keralam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1607" xmltv_id="Manav Dharam">Manav Dharam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1608" xmltv_id="MP News">MP News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1609" xmltv_id="Ishvani TV">Ishvani TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1610" xmltv_id="Divyang News">Divyang News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1612" xmltv_id="Tara TV">Tara TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1613" xmltv_id="Medha Secondary">Medha Secondary</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1614" xmltv_id="Omnicuris">Omnicuris</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1618" xmltv_id="Real News Kerala">Real News Kerala</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1632" xmltv_id="Colors Kannada Cinema">Colors Kannada Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1633" xmltv_id="Public Movies">Public Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1634" xmltv_id="Siri Kannada">Siri Kannada</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1635" xmltv_id="News State MPCG">News State MPCG</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1641" xmltv_id="Zee Keralam HD">Zee Keralam HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1643" xmltv_id="Harvest TV 24x7">Harvest TV 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1655" xmltv_id="Madha TV">Madha TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1657" xmltv_id="Colors Bangla Cinema">Colors Bangla Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1658" xmltv_id="Aalami Samay">Aalami Samay</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1662" xmltv_id="Surya Comedy">Surya Comedy</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1665" xmltv_id="ETV Cinema HD">ETV Cinema HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1666" xmltv_id="Safari TV">Safari TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1667" xmltv_id="Rongeen TV">Rongeen TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1669" xmltv_id="Sun Bangla">Sun Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1670" xmltv_id="C News Bharat">C News Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1672" xmltv_id="Gyanvani 2">Gyanvani 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1673" xmltv_id="PTD Chhattisgarrh">PTD Chhattisgarrh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1675" xmltv_id="ESG TV">ESG TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1690" xmltv_id="BVTV">BVTV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1691" xmltv_id="Zee Classic">Zee Classic</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1692" xmltv_id="Badakhabar">Badakhabar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1694" xmltv_id="Haryana Beats">Haryana Beats</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1695" xmltv_id="Prime TV">Prime TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1696" xmltv_id="SSV TV">SSV TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1697" xmltv_id="FM News">FM News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1698" xmltv_id="IND 24">IND 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1699" xmltv_id="ANN News">ANN News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1705" xmltv_id="Shri Hingulambika Devi Temple">Shri Hingulambika Devi Temple</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1706" xmltv_id="Shri Mangal Dev Grah Temple">Shri Mangal Dev Grah Temple</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1708" xmltv_id="SKY 12">SKY 12</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1725" xmltv_id="24Hrs TV">24Hrs TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1728" xmltv_id="Anaadi TV">Anaadi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1730" xmltv_id="Luv Punjab TV">Luv Punjab TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1731" xmltv_id="N5TV">N5TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1733" xmltv_id="ND 24">ND 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1734" xmltv_id="Ek Onkar">Ek Onkar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1735" xmltv_id="TV9 Bangla">TV9 Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1738" xmltv_id="Hosanna TV">Hosanna TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1739" xmltv_id="JKAC News">JKAC News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1740" xmltv_id="Purnima TV">Purnima TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1742" xmltv_id="Sanskrit Ganga">Sanskrit Ganga</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1743" xmltv_id="Hornbill TV">Hornbill TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1746" xmltv_id="Zee Picchar HD">Zee Picchar HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1747" xmltv_id="India News Gujarat">India News Gujarat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1751" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1754" xmltv_id="Surya Movies">Surya Movies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1757" xmltv_id="NK TV Plus">NK TV Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1758" xmltv_id="DPK News">DPK News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1759" xmltv_id="Buletin India">Buletin India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1761" xmltv_id="Aryan TV National">Aryan TV National</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1762" xmltv_id="Channel Vision">Channel Vision</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1763" xmltv_id="Colors Cineplex Bollywood">Colors Cineplex Bollywood</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1764" xmltv_id="Dada Bhagwan Foundation">Dada Bhagwan Foundation</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1768" xmltv_id="Naaptol">Naaptol</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1771" xmltv_id="Express News">Express News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1772" xmltv_id="Sony Ten 4 HD Tamil">Sony Ten 4 HD Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1773" xmltv_id="Sony Ten 4 HD Telugu">Sony Ten 4 HD Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1774" xmltv_id="Sony Ten 4 Tamil">Sony Ten 4 Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1775" xmltv_id="Sony Ten 4 Telugu">Sony Ten 4 Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1777" xmltv_id="Bharat News TV">Bharat News TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1780" xmltv_id="HooplaKidz TV">HooplaKidz TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1787" xmltv_id="VISVAS">VISVAS</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1788" xmltv_id="Yeshuaa TV">Yeshuaa TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1789" xmltv_id="Dada Bhagwan Foundation Gujarati">Dada Bhagwan Foundation Gujarati</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1790" xmltv_id="VR Live">VR Live</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1791" xmltv_id="KP News 24x7">KP News 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1793" xmltv_id="National News Sattaxpress">National News Sattaxpress</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1794" xmltv_id="Mangalmay Live">Mangalmay Live</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1795" xmltv_id="Shri Amarnathji Shrine Board">Shri Amarnathji Shrine Board</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1796" xmltv_id="Ananda Barta">Ananda Barta</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1798" xmltv_id="Pasand">Pasand</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1799" xmltv_id="Studio Yuva Alpha">Studio Yuva Alpha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1802" xmltv_id="News World India">News World India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1804" xmltv_id="Jan Setu News">Jan Setu News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1816" xmltv_id="DTV Bharat">DTV Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1817" xmltv_id="NEWS 24 MPCG">NEWS 24 MPCG</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1826" xmltv_id="Swaralasika Sangeetalaya">Swaralasika Sangeetalaya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1827" xmltv_id="Aakash EduTV NEET">Aakash EduTV NEET</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1834" xmltv_id="Green Chillies">Green Chillies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1839" xmltv_id="And Pictures">And Pictures</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1847" xmltv_id="Z10 TV">Z10 TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1850" xmltv_id="SVBC">SVBC</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1851" xmltv_id="Aakash EduTV JEE">Aakash EduTV JEE</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1853" xmltv_id="News11 Bharat">News11 Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1854" xmltv_id="STV Haryana News">STV Haryana News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1855" xmltv_id="NL TV">NL TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1856" xmltv_id="Pratham Khabar 24x7">Pratham Khabar 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1858" xmltv_id="SVBC3">SVBC3</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1859" xmltv_id="SVBC4">SVBC4</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1868" xmltv_id="Punjab Plus">Punjab Plus</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1871" xmltv_id="7X Music">7X Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1883" xmltv_id="Pogo Telugu">Pogo Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1885" xmltv_id="Kripa TV">Kripa TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1886" xmltv_id="Sansad TV Rajya Sabha">Sansad TV Rajya Sabha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1891" xmltv_id="Tribe TV">Tribe TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1894" xmltv_id="Padhega Bharat">Padhega Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1895" xmltv_id="Today 24 News">Today 24 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1896" xmltv_id="News Flash">News Flash</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1897" xmltv_id="Pulse 24">Pulse 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1898" xmltv_id="GBN24">GBN24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1900" xmltv_id="Express News Bharat">Express News Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1901" xmltv_id="Adhyatam TV">Adhyatam TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1906" xmltv_id="Times Now Navbharat">Times Now Navbharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1907" xmltv_id="ET Now Swadesh">ET Now Swadesh</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1918" xmltv_id="Jio Cricket English HD">Jio Cricket English HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1920" xmltv_id="The Q Kahaniyan">The Q Kahaniyan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1925" xmltv_id="MH1 Dil Se">MH1 Dil Se</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1926" xmltv_id="Sanskriti 24x7">Sanskriti 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1933" xmltv_id="Shri Trimbakeshwar Devasthan Trust">Shri Trimbakeshwar Devasthan Trust</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1954" xmltv_id="News Tamil 24x7">News Tamil 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1955" xmltv_id="Foodxp">Foodxp</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1956" xmltv_id="Sidharth TV">Sidharth TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1957" xmltv_id="Sidharth Gold">Sidharth Gold</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1958" xmltv_id="Sidharth Bhakti">Sidharth Bhakti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1959" xmltv_id="Global India">Global India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1961" xmltv_id="Shemaroo TV">Shemaroo TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1962" xmltv_id="Amaar Bangla">Amaar Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1963" xmltv_id="News 24 Express">News 24 Express</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1964" xmltv_id="ABC News">ABC News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1965" xmltv_id="VNM TV">VNM TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1966" xmltv_id="Live TV Kerala">Live TV Kerala</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1967" xmltv_id="PMC Hindi">PMC Hindi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1972" xmltv_id="Top News Marathi">Top News Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1973" xmltv_id="ETV HD">ETV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1974" xmltv_id="Gujarat 1st 24x7">Gujarat 1st 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1975" xmltv_id="PMC Telugu">PMC Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1977" xmltv_id="Zee Bangla HD">Zee Bangla HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1984" xmltv_id="Sports18 1 HD">Sports18 1 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1985" xmltv_id="Sports18 1">Sports18 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1998" xmltv_id="Sports18 Khel">Sports18 Khel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="1999" xmltv_id="Raftaar Media">Raftaar Media</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2000" xmltv_id="PlusTest1">PlusTest1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2001" xmltv_id="PlusTest2 HD">PlusTest2 HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2002" xmltv_id="Aadinath TV">Aadinath TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2003" xmltv_id="3.0 TV">3.0 TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2004" xmltv_id="Shekinah TV">Shekinah TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2005" xmltv_id="IN 24 News">IN 24 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2007" xmltv_id="BS9 News">BS9 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2008" xmltv_id="News 21">News 21</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2010" xmltv_id="Ekamra Nilach akra">Ekamra Nilach akra</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2011" xmltv_id="Ekamra Bharat Odia">Ekamra Bharat Odia</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2012" xmltv_id="Paramatma">Paramatma</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2013" xmltv_id="Leaking Top Secret">Leaking Top Secret</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2014" xmltv_id="News India TV">News India TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2015" xmltv_id="Ekamra Musiq">Ekamra Musiq</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2016" xmltv_id="Ekamra Cinema">Ekamra Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2017" xmltv_id="Munsif TV">Munsif TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2018" xmltv_id="Samachar Nation">Samachar Nation</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2019" xmltv_id="Global Punjab">Global Punjab</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2020" xmltv_id="KKD News">KKD News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2021" xmltv_id="HNN 24x7">HNN 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2022" xmltv_id="NB News">NB News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2024" xmltv_id="And TV">And TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2027" xmltv_id="Raatdin News Network">Raatdin News Network</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2028" xmltv_id="Sadvidya TV">Sadvidya TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2029" xmltv_id="Aaryaa Bhakti">Aaryaa Bhakti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2030" xmltv_id="Aaryaa News">Aaryaa News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2031" xmltv_id="Fashion India">Fashion India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2034" xmltv_id="NSDC TV">NSDC TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2035" xmltv_id="Amritwani">Amritwani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2036" xmltv_id="Dil Se">Dil Se</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2037" xmltv_id="Pop Pataka">Pop Pataka</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2038" xmltv_id="Dhamaal">Dhamaal</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2039" xmltv_id="Adipolli">Adipolli</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2040" xmltv_id="Bollywood Hungama">Bollywood Hungama</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2041" xmltv_id="Bhakti Sagar">Bhakti Sagar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2042" xmltv_id="Nazraana">Nazraana</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2043" xmltv_id="Artist Aloud">Artist Aloud</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2045" xmltv_id="Auroville TV">Auroville TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2063" xmltv_id="RS Bharat">RS Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2064" xmltv_id="Merchant Records">Merchant Records</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2065" xmltv_id="Saregama Music">Saregama Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2074" xmltv_id="Prime Media Goa">Prime Media Goa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2077" xmltv_id="Gangaur">Gangaur</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2078" xmltv_id="Shemaroo Umang">Shemaroo Umang</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2079" xmltv_id="Bharat 24">Bharat 24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2081" xmltv_id="TV27 News">TV27 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2082" xmltv_id="22Scope News">22Scope News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2148" xmltv_id="Voot TEST voot">Voot TEST voot</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2149" xmltv_id="Jio Prime HD">Jio Prime HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2176" xmltv_id="India 24x7">India 24x7</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2177" xmltv_id="Arya Sandesh TV">Arya Sandesh TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2183" xmltv_id="Q GameX">Q GameX</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2184" xmltv_id="U Bangla">U Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2187" xmltv_id="Swatantra News">Swatantra News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2188" xmltv_id="Globe TV">Globe TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2189" xmltv_id="Aaryaa Cinema">Aaryaa Cinema</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2192" xmltv_id="Gurukul">Gurukul</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2205" xmltv_id="Guruvayur Devaswom">Guruvayur Devaswom</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2224" xmltv_id="India News Punjab">India News Punjab</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2227" xmltv_id="Jatra Ekamra">Jatra Ekamra</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2228" xmltv_id="Samay Kolkata">Samay Kolkata</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2229" xmltv_id="Bhojpuri Junction">Bhojpuri Junction</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2230" xmltv_id="Jio Specials HD">Jio Specials HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2233" xmltv_id="News 80">News 80</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2252" xmltv_id="Desi Music Station">Desi Music Station</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2253" xmltv_id="Nakshatra Digital TV">Nakshatra Digital TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2254" xmltv_id="Media9">Media9</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2255" xmltv_id="RRN News">RRN News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2256" xmltv_id="Zee Thirai">Zee Thirai</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2258" xmltv_id="Animax">Animax</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2322" xmltv_id="Divyalok TV">Divyalok TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2323" xmltv_id="TTN24">TTN24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2325" xmltv_id="Punjabi Melodies">Punjabi Melodies</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2326" xmltv_id="Firstpost">Firstpost</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2328" xmltv_id="CyberPeace TV">CyberPeace TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2351" xmltv_id="SRS Bhakti TV">SRS Bhakti TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2352" xmltv_id="Narikaa">Narikaa</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2353" xmltv_id="Bharat Express">Bharat Express</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2354" xmltv_id="Friends TV">Friends TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2355" xmltv_id="One Paschima">One Paschima</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2388" xmltv_id="Sadhguru Television SD">Sadhguru Television SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2423" xmltv_id="Vande Bharat News">Vande Bharat News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2424" xmltv_id="Sun Marathi">Sun Marathi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2433" xmltv_id="E News 79">E News 79</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2434" xmltv_id="M Nadu">M Nadu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2435" xmltv_id="Spondon">Spondon</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2436" xmltv_id="Prime 9 News">Prime 9 News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2437" xmltv_id="Wild Earth">Wild Earth</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2448" xmltv_id="Desika daya">Desika daya</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2686" xmltv_id="Jyothishavartha">Jyothishavartha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2687" xmltv_id="The Book Channel">The Book Channel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2732" xmltv_id="Vistara News">Vistara News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2734" xmltv_id="Popular TV">Popular TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2735" xmltv_id="Samachar Plus Jharkhand Bihar">Samachar Plus Jharkhand Bihar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2742" xmltv_id="Zee Kannada News">Zee Kannada News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2743" xmltv_id="Power TV">Power TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2745" xmltv_id="Saregama Telugu">Saregama Telugu</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2750" xmltv_id="Saga Music">Saga Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2751" xmltv_id="Saga Music Haryanvi">Saga Music Haryanvi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2752" xmltv_id="Ghaint Punjab">Ghaint Punjab</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2753" xmltv_id="YRF Music">YRF Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2754" xmltv_id="Sikh Ratnavali">Sikh Ratnavali</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2755" xmltv_id="Saregama Hum Bhojpuri">Saregama Hum Bhojpuri</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2756" xmltv_id="Star Entertainment">Star Entertainment</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2757" xmltv_id="Zee Zest HD">Zee Zest HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2758" xmltv_id="Zee Chitramandir">Zee Chitramandir</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2759" xmltv_id="DD North East">DD North East</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2760" xmltv_id="My Bharat News">My Bharat News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2761" xmltv_id="Zee Ganga">Zee Ganga</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2762" xmltv_id="NH Studioz">NH Studioz</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2764" xmltv_id="News State Bihar Jharkhand">News State Bihar Jharkhand</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2765" xmltv_id="BSTV">BSTV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2766" xmltv_id="BRAVE TV">BRAVE TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2767" xmltv_id="Sacchi Report">Sacchi Report</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2768" xmltv_id="Jothi TV">Jothi TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2770" xmltv_id="Har Khabar">Har Khabar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2771" xmltv_id="Sadhna News MP CG">Sadhna News MP CG</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2772" xmltv_id="India Daily Live">India Daily Live</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2773" xmltv_id="Aaj Ki Khabar">Aaj Ki Khabar</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2774" xmltv_id="Power Kids TV">Power Kids TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2775" xmltv_id="Grace TV">Grace TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2776" xmltv_id="Dhamaka Movies B4U">Dhamaka Movies B4U</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2777" xmltv_id="Asian News">Asian News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2778" xmltv_id="Tabbar Hits">Tabbar Hits</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2779" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2780" xmltv_id="R Bangla">R Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2781" xmltv_id="CENTA TV">CENTA TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2782" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2783" xmltv_id="Big TV">Big TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2784" xmltv_id="ISKCON Bangalore">ISKCON Bangalore</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2817" xmltv_id="Boogle Bangla">Boogle Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2827" xmltv_id="Headline News">Headline News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2851" xmltv_id="IN24 Live">IN24 Live</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2852" xmltv_id="Sports18 2">Sports18 2</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2853" xmltv_id="Sports18 3">Sports18 3</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2854" xmltv_id="KCM">KCM</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2860" xmltv_id="ICMAI-Delhi">ICMAI-Delhi</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2862" xmltv_id="Mahaa News">Mahaa News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2914" xmltv_id="BHI Channel">BHI Channel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2915" xmltv_id="Praveg TV">Praveg TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2916" xmltv_id="Daily Post PHH">Daily Post PHH</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2917" xmltv_id="Sadhna Gold">Sadhna Gold</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2918" xmltv_id="WPN World Punjabi News">WPN World Punjabi News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2932" xmltv_id="99 TV">99 TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2933" xmltv_id="NK TV Bangla">NK TV Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2934" xmltv_id="Punjabi Hits">Punjabi Hits</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2935" xmltv_id="Pudhari News">Pudhari News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2936" xmltv_id="Oye Music">Oye Music</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2937" xmltv_id="Update India">Update India</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2938" xmltv_id="Haryana Buzz">Haryana Buzz</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2939" xmltv_id="Coke Studio Tamil">Coke Studio Tamil</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2944" xmltv_id="Coke Studio Bharat">Coke Studio Bharat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2945" xmltv_id="Tar TV">Tar TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2946" xmltv_id="National News">National News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2947" xmltv_id="Jeewan Bhakti">Jeewan Bhakti</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2948" xmltv_id="Zee Zest SD">Zee Zest SD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2953" xmltv_id="Enrich TV">Enrich TV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2954" xmltv_id="TV45">TV45</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2955" xmltv_id="Shrimad Ramayan">Shrimad Ramayan</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2956" xmltv_id="ETV Plus HD">ETV Plus HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2957" xmltv_id="Public First">Public First</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2958" xmltv_id="Tamilan Television">Tamilan Television</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2959" xmltv_id="Janta Darbar News">Janta Darbar News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2960" xmltv_id="Sony Ten 1 HD Malayalam">Sony Ten 1 HD Malayalam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2961" xmltv_id="Current Trend Assam">Current Trend Assam</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="2962" xmltv_id="NoFilterNeha">NoFilterNeha</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3003" xmltv_id="Coke Studio Bharat Season 1">Coke Studio Bharat Season 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3004" xmltv_id="Velicham Tv">Velicham Tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3005" xmltv_id="Rupashi Bangla">Rupashi Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3006" xmltv_id="Dhoom Music Bangla">Dhoom Music Bangla</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3007" xmltv_id="AMV">AMV</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3008" xmltv_id="Maya Tv">Maya Tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3009" xmltv_id="India Now">India Now</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3011" xmltv_id="Lancs TV HD">Lancs TV HD</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3013" xmltv_id="Narayana Health">Narayana Health</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3014" xmltv_id="IPN News">IPN News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3015" xmltv_id="Coke Studio Tamil Season 1">Coke Studio Tamil Season 1</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3016" xmltv_id="TNI24">TNI24</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3017" xmltv_id="News Hour">News Hour</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3018" xmltv_id="News 360">News 360</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3019" xmltv_id="Bangla Jago">Bangla Jago</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3020" xmltv_id="Raisinghani vs Raisinghani">Raisinghani vs Raisinghani</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3021" xmltv_id="RC Studio">RC Studio</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3022" xmltv_id="Unique Tv">Unique Tv</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3023" xmltv_id="Janadesh News">Janadesh News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3024" xmltv_id="India TV Yoga Channel">India TV Yoga Channel</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3025" xmltv_id="India TV Aap Ki Adalat">India TV Aap Ki Adalat</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3026" xmltv_id="India TV Speed News">India TV Speed News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3027" xmltv_id="Desh News">Desh News</channel>
+    <channel site="[ENC][EX]jio.com[en]_1" site_id="3028" xmltv_id="BH Style Icons">BH Style Icons</channel>
+  </channels>
+</site>
