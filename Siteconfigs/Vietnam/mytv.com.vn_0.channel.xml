@@ -1,366 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator="Tempest EPG Generator" generator-info="Made by Kvanc" site="mytv.com.vn_0">
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="mytv.com.vn_0">
   <channels>
-    <channel site="mytv.com.vn_0" site_id="1" xmltv_id="VTV1">VTV1</channel>
-    <channel site="mytv.com.vn_0" site_id="2" xmltv_id="VTV2">VTV2</channel>
-    <channel site="mytv.com.vn_0" site_id="3" xmltv_id="VTV3">VTV3</channel>
-    <channel site="mytv.com.vn_0" site_id="4" xmltv_id="VTV4">VTV4</channel>
-    <channel site="mytv.com.vn_0" site_id="5" xmltv_id="VTV5">VTV5</channel>
-    <channel site="mytv.com.vn_0" site_id="6" xmltv_id="VTV6">VTV6</channel>
-    <channel site="mytv.com.vn_0" site_id="7" xmltv_id="HTV1">HTV1</channel>
-    <channel site="mytv.com.vn_0" site_id="8" xmltv_id="HTV2(HD)">HTV2(HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="9" xmltv_id="HTV4">HTV4</channel>
-    <channel site="mytv.com.vn_0" site_id="10" xmltv_id="HTV7">HTV7</channel>
-    <channel site="mytv.com.vn_0" site_id="11" xmltv_id="HTV9">HTV9</channel>
-    <channel site="mytv.com.vn_0" site_id="12" xmltv_id="HTVC Ca Nhạc">HTVC Ca Nhạc</channel>
-    <channel site="mytv.com.vn_0" site_id="13" xmltv_id="HTVC Du Lịch Cuộc Sống">HTVC Du Lịch Cuộc Sống</channel>
-    <channel site="mytv.com.vn_0" site_id="14" xmltv_id="HTVC Gia Đình">HTVC Gia Đình</channel>
-    <channel site="mytv.com.vn_0" site_id="15" xmltv_id="HTVC Phim (HD)">HTVC Phim (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="16" xmltv_id="HTVC Phụ nữ">HTVC Phụ nữ</channel>
-    <channel site="mytv.com.vn_0" site_id="17" xmltv_id="HTVC Thuần Việt (HD)">HTVC Thuần Việt (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="18" xmltv_id="HTV Thể thao">HTV Thể thao</channel>
-    <channel site="mytv.com.vn_0" site_id="19" xmltv_id="VTC1">VTC1</channel>
-    <channel site="mytv.com.vn_0" site_id="20" xmltv_id="VTC2">VTC2</channel>
-    <channel site="mytv.com.vn_0" site_id="21" xmltv_id="VTC3">VTC3</channel>
-    <channel site="mytv.com.vn_0" site_id="22" xmltv_id="VTC6">VTC6</channel>
-    <channel site="mytv.com.vn_0" site_id="23" xmltv_id="VTC7 - Today TV">VTC7 - Today TV</channel>
-    <channel site="mytv.com.vn_0" site_id="24" xmltv_id="VTC8">VTC8</channel>
-    <channel site="mytv.com.vn_0" site_id="25" xmltv_id="VTC9">VTC9</channel>
-    <channel site="mytv.com.vn_0" site_id="26" xmltv_id="MTV">MTV</channel>
-    <channel site="mytv.com.vn_0" site_id="27" xmltv_id="VTVcab10">VTVcab10</channel>
-    <channel site="mytv.com.vn_0" site_id="28" xmltv_id="OPT1">OPT1</channel>
-    <channel site="mytv.com.vn_0" site_id="29" xmltv_id="VTC10">VTC10</channel>
-    <channel site="mytv.com.vn_0" site_id="30" xmltv_id="VTC11">VTC11</channel>
-    <channel site="mytv.com.vn_0" site_id="31" xmltv_id="VTC13 - iTV">VTC13 - iTV</channel>
-    <channel site="mytv.com.vn_0" site_id="32" xmltv_id="VTC14">VTC14</channel>
-    <channel site="mytv.com.vn_0" site_id="33" xmltv_id="VTC16">VTC16</channel>
-    <channel site="mytv.com.vn_0" site_id="34" xmltv_id="AnGiangTV (ATV)">AnGiangTV (ATV)</channel>
-    <channel site="mytv.com.vn_0" site_id="35" xmltv_id="ANTV">ANTV</channel>
-    <channel site="mytv.com.vn_0" site_id="36" xmltv_id="Bắc Ninh">Bắc Ninh</channel>
-    <channel site="mytv.com.vn_0" site_id="37" xmltv_id="Bình Dương 1">Bình Dương 1</channel>
-    <channel site="mytv.com.vn_0" site_id="38" xmltv_id="BinhDuongTV2 (BTV2)">BinhDuongTV2 (BTV2)</channel>
-    <channel site="mytv.com.vn_0" site_id="39" xmltv_id="CanThoTV (THTPCT)">CanThoTV (THTPCT)</channel>
-    <channel site="mytv.com.vn_0" site_id="40" xmltv_id="HaNamTV (HaNam)">HaNamTV (HaNam)</channel>
-    <channel site="mytv.com.vn_0" site_id="41" xmltv_id="Hà Nội 2">Hà Nội 2</channel>
-    <channel site="mytv.com.vn_0" site_id="42" xmltv_id="Hà Nội 1">Hà Nội 1</channel>
-    <channel site="mytv.com.vn_0" site_id="43" xmltv_id="HCaTV">HCaTV</channel>
-    <channel site="mytv.com.vn_0" site_id="44" xmltv_id="HCaTV2">HCaTV2</channel>
-    <channel site="mytv.com.vn_0" site_id="45" xmltv_id="HiTV">HiTV</channel>
-    <channel site="mytv.com.vn_0" site_id="46" xmltv_id="Kiên Giang">Kiên Giang</channel>
-    <channel site="mytv.com.vn_0" site_id="48" xmltv_id="NgheAnTV (NTV)">NgheAnTV (NTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="49" xmltv_id="NHK World Japan">NHK World Japan</channel>
-    <channel site="mytv.com.vn_0" site_id="50" xmltv_id="QPVN">QPVN</channel>
-    <channel site="mytv.com.vn_0" site_id="51" xmltv_id="QuangNinhTV (QTV)">QuangNinhTV (QTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="52" xmltv_id="SocTrangTV (STV)">SocTrangTV (STV)</channel>
-    <channel site="mytv.com.vn_0" site_id="53" xmltv_id="TayNinhTV (TTV11)">TayNinhTV (TTV11)</channel>
-    <channel site="mytv.com.vn_0" site_id="54" xmltv_id="TienGiangTV (THTG)">TienGiangTV (THTG)</channel>
-    <channel site="mytv.com.vn_0" site_id="55" xmltv_id="Vĩnh Long 1">Vĩnh Long 1</channel>
-    <channel site="mytv.com.vn_0" site_id="56" xmltv_id="Vĩnh Long 2">Vĩnh Long 2</channel>
-    <channel site="mytv.com.vn_0" site_id="57" xmltv_id="VinhPhucTV (VP)">VinhPhucTV (VP)</channel>
-    <channel site="mytv.com.vn_0" site_id="58" xmltv_id="VNews">VNews</channel>
-    <channel site="mytv.com.vn_0" site_id="60" xmltv_id="DaNangTV2 (DRT2)">DaNangTV2 (DRT2)</channel>
-    <channel site="mytv.com.vn_0" site_id="61" xmltv_id="DongNaiTV1 (DN1) (HD)">DongNaiTV1 (DN1) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="62" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel site="mytv.com.vn_0" site_id="63" xmltv_id="Arirang">Arirang</channel>
-    <channel site="mytv.com.vn_0" site_id="65" xmltv_id="AXN">AXN</channel>
-    <channel site="mytv.com.vn_0" site_id="66" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel site="mytv.com.vn_0" site_id="67" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel site="mytv.com.vn_0" site_id="68" xmltv_id="Channel NewsAsia (HD)">Channel NewsAsia (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="69" xmltv_id="Channel V">Channel V</channel>
-    <channel site="mytv.com.vn_0" site_id="70" xmltv_id="Max by HBO">Max by HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="71" xmltv_id="Discovery">Discovery</channel>
-    <channel site="mytv.com.vn_0" site_id="72" xmltv_id="Disney">Disney</channel>
-    <channel site="mytv.com.vn_0" site_id="73" xmltv_id="DW">DW</channel>
-    <channel site="mytv.com.vn_0" site_id="74" xmltv_id="Fox Sports">Fox Sports</channel>
-    <channel site="mytv.com.vn_0" site_id="75" xmltv_id="FashionTV">FashionTV</channel>
-    <channel site="mytv.com.vn_0" site_id="76" xmltv_id="HBO">HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="77" xmltv_id="Rai Italia">Rai Italia</channel>
-    <channel site="mytv.com.vn_0" site_id="78" xmltv_id="FOX MOVIES (SD)">FOX MOVIES (SD)</channel>
-    <channel site="mytv.com.vn_0" site_id="79" xmltv_id="Fox Sport 2">Fox Sport 2</channel>
-    <channel site="mytv.com.vn_0" site_id="80" xmltv_id="FOX Life (SD)">FOX Life (SD)</channel>
-    <channel site="mytv.com.vn_0" site_id="81" xmltv_id="Travel and Living">Travel and Living</channel>
-    <channel site="mytv.com.vn_0" site_id="82" xmltv_id="Truesport 4">Truesport 4</channel>
-    <channel site="mytv.com.vn_0" site_id="83" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
-    <channel site="mytv.com.vn_0" site_id="85" xmltv_id="VTV Phú Yên">VTV Phú Yên</channel>
-    <channel site="mytv.com.vn_0" site_id="86" xmltv_id="VTV8">VTV8</channel>
-    <channel site="mytv.com.vn_0" site_id="87" xmltv_id="VTC12 - Home Shopping">VTC12 - Home Shopping</channel>
-    <channel site="mytv.com.vn_0" site_id="88" xmltv_id="VTC4">VTC4</channel>
-    <channel site="mytv.com.vn_0" site_id="89" xmltv_id="TVM">TVM</channel>
-    <channel site="mytv.com.vn_0" site_id="90" xmltv_id="DaNangTV1 (DRT1)">DaNangTV1 (DRT1)</channel>
-    <channel site="mytv.com.vn_0" site_id="91" xmltv_id="Bình Dương 4">Bình Dương 4</channel>
-    <channel site="mytv.com.vn_0" site_id="92" xmltv_id="Thái Nguyên">Thái Nguyên</channel>
-    <channel site="mytv.com.vn_0" site_id="93" xmltv_id="HaiDuongTV (HDTV)">HaiDuongTV (HDTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="94" xmltv_id="ThanhHoaTV (TTV) (HD)">ThanhHoaTV (TTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="95" xmltv_id="DongNaiTV2 (DN2)">DongNaiTV2 (DN2)</channel>
-    <channel site="mytv.com.vn_0" site_id="96" xmltv_id="DongThapTV (THDL)">DongThapTV (THDL)</channel>
-    <channel site="mytv.com.vn_0" site_id="97" xmltv_id="VungTauTV (BRT)">VungTauTV (BRT)</channel>
-    <channel site="mytv.com.vn_0" site_id="98" xmltv_id="Animax">Animax</channel>
-    <channel site="mytv.com.vn_0" site_id="99" xmltv_id="Baby TV">Baby TV</channel>
-    <channel site="mytv.com.vn_0" site_id="100" xmltv_id="National Geographic SD - NGC">National Geographic SD - NGC</channel>
-    <channel site="mytv.com.vn_0" site_id="101" xmltv_id="National Geographic Chanel - NGC (HD)">National Geographic Chanel - NGC (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="102" xmltv_id="FOX">FOX</channel>
-    <channel site="mytv.com.vn_0" site_id="103" xmltv_id="NGA">NGA</channel>
-    <channel site="mytv.com.vn_0" site_id="104" xmltv_id="NGA - HD">NGA - HD</channel>
-    <channel site="mytv.com.vn_0" site_id="105" xmltv_id="FOX MOVIES (HD)">FOX MOVIES (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="106" xmltv_id="FOX Life (HD)">FOX Life (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="107" xmltv_id="CCTV - HD">CCTV - HD</channel>
-    <channel site="mytv.com.vn_0" site_id="108" xmltv_id="Nat Geo Wild - HD">Nat Geo Wild - HD</channel>
-    <channel site="mytv.com.vn_0" site_id="109" xmltv_id="Fox (HD)">Fox (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="110" xmltv_id="HTV3">HTV3</channel>
-    <channel site="mytv.com.vn_0" site_id="111" xmltv_id="CNN">CNN</channel>
-    <channel site="mytv.com.vn_0" site_id="113" xmltv_id="Hải Phòng TV">Hải Phòng TV</channel>
-    <channel site="mytv.com.vn_0" site_id="114" xmltv_id="KhanhHoaTV (KTV)">KhanhHoaTV (KTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="115" xmltv_id="VTVcab11 (VGS Shop)">VTVcab11 (VGS Shop)</channel>
-    <channel site="mytv.com.vn_0" site_id="116" xmltv_id="LaoCaiTV (THLC)">LaoCaiTV (THLC)</channel>
-    <channel site="mytv.com.vn_0" site_id="118" xmltv_id="CCTV_SD">CCTV_SD</channel>
-    <channel site="mytv.com.vn_0" site_id="119" xmltv_id="BinhPhuocTV (BPTV)">BinhPhuocTV (BPTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="120" xmltv_id="QuangBinhTV (QBTV)">QuangBinhTV (QBTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="121" xmltv_id="QuangTriTV (QRTV)">QuangTriTV (QRTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="122" xmltv_id="ThaiBinhTV1 (TV1)">ThaiBinhTV1 (TV1)</channel>
-    <channel site="mytv.com.vn_0" site_id="123" xmltv_id="CaMauTV (CTV1)">CaMauTV (CTV1)</channel>
-    <channel site="mytv.com.vn_0" site_id="124" xmltv_id="VGS Shop">VGS Shop</channel>
-    <channel site="mytv.com.vn_0" site_id="125" xmltv_id="BinhThuanTV (BTV)">BinhThuanTV (BTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="126" xmltv_id="Camera Demo">Camera Demo</channel>
-    <channel site="mytv.com.vn_0" site_id="127" xmltv_id="HTV2 (HD)">HTV2 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="128" xmltv_id="HTV7 (HD)">HTV7 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="135" xmltv_id="CAND">CAND</channel>
-    <channel site="mytv.com.vn_0" site_id="136" xmltv_id="HCaTV - Thong tin KT-VH-XH Ha Noi">HCaTV - Thong tin KT-VH-XH Ha Noi</channel>
-    <channel site="mytv.com.vn_0" site_id="139" xmltv_id="Asian Food Network (HD)">Asian Food Network (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="141" xmltv_id="CaoBangTV (CRTV)">CaoBangTV (CRTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="144" xmltv_id="DaVinci">DaVinci</channel>
-    <channel site="mytv.com.vn_0" site_id="146" xmltv_id="Lạng Sơn TV2">Lạng Sơn TV2</channel>
-    <channel site="mytv.com.vn_0" site_id="147" xmltv_id="RussiaToday">RussiaToday</channel>
-    <channel site="mytv.com.vn_0" site_id="148" xmltv_id="RTRPlaneta">RTRPlaneta</channel>
-    <channel site="mytv.com.vn_0" site_id="149" xmltv_id="NamDinhTV (NTV)">NamDinhTV (NTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="150" xmltv_id="PhuThoTV (PTV)">PhuThoTV (PTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="151" xmltv_id="Thái Nguyên TV1">Thái Nguyên TV1</channel>
-    <channel site="mytv.com.vn_0" site_id="152" xmltv_id="ThaiNguyenTV2 (TV2)">ThaiNguyenTV2 (TV2)</channel>
-    <channel site="mytv.com.vn_0" site_id="153" xmltv_id="YenBaiTV (YTV)">YenBaiTV (YTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="154" xmltv_id="TuyenQuangTV (TTV)">TuyenQuangTV (TTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="155" xmltv_id="HaGiangTV (HGTV)">HaGiangTV (HGTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="156" xmltv_id="LaiChauTV (LTV)">LaiChauTV (LTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="157" xmltv_id="SonLaTV (STV)">SonLaTV (STV)</channel>
-    <channel site="mytv.com.vn_0" site_id="158" xmltv_id="DienBienTV (ĐTV)">DienBienTV (ĐTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="159" xmltv_id="HoaBinhTV (HBTV)">HoaBinhTV (HBTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="160" xmltv_id="NinhBinhTV (NTB)">NinhBinhTV (NTB)</channel>
-    <channel site="mytv.com.vn_0" site_id="161" xmltv_id="HaTinhTV (HTTV)">HaTinhTV (HTTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="162" xmltv_id="DakLakTV (DRT)">DakLakTV (DRT)</channel>
-    <channel site="mytv.com.vn_0" site_id="163" xmltv_id="DakNongTV (PTD)">DakNongTV (PTD)</channel>
-    <channel site="mytv.com.vn_0" site_id="164" xmltv_id="LamDongTV (LDTV)">LamDongTV (LDTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="165" xmltv_id="VTV9 (HD)">VTV9 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="166" xmltv_id="Mosaic1">Mosaic1</channel>
-    <channel site="mytv.com.vn_0" site_id="167" xmltv_id="BenTreTV (THBT)">BenTreTV (THBT)</channel>
-    <channel site="mytv.com.vn_0" site_id="168" xmltv_id="HueTV1 (TRT1)">HueTV1 (TRT1)</channel>
-    <channel site="mytv.com.vn_0" site_id="169" xmltv_id="QuangNgaiTV (PTQ1)">QuangNgaiTV (PTQ1)</channel>
-    <channel site="mytv.com.vn_0" site_id="170" xmltv_id="BinhDinhTV (BTV)">BinhDinhTV (BTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="171" xmltv_id="Trực Tuyến">Trực Tuyến</channel>
-    <channel site="mytv.com.vn_0" site_id="172" xmltv_id="GiaLaiTV (THGL)">GiaLaiTV (THGL)</channel>
-    <channel site="mytv.com.vn_0" site_id="173" xmltv_id="KonTumTV (KRT)">KonTumTV (KRT)</channel>
-    <channel site="mytv.com.vn_0" site_id="175" xmltv_id="TraVinhTV (THTV)">TraVinhTV (THTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="176" xmltv_id="NinhThuanTV (NTV)">NinhThuanTV (NTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="177" xmltv_id="Mosaic2">Mosaic2</channel>
-    <channel site="mytv.com.vn_0" site_id="178" xmltv_id="HungYenTV (HY)">HungYenTV (HY)</channel>
-    <channel site="mytv.com.vn_0" site_id="179" xmltv_id="QuangNamTV (QRT)">QuangNamTV (QRT)</channel>
-    <channel site="mytv.com.vn_0" site_id="180" xmltv_id="BacLieuTV (BTV)">BacLieuTV (BTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="181" xmltv_id="HauGiangTV (HGV)">HauGiangTV (HGV)</channel>
-    <channel site="mytv.com.vn_0" site_id="182" xmltv_id="BacKanTV (TBK)">BacKanTV (TBK)</channel>
-    <channel site="mytv.com.vn_0" site_id="183" xmltv_id="BacGiangTV (BGTV)">BacGiangTV (BGTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="184" xmltv_id="VTC13 (HD)">VTC13 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="185" xmltv_id="NHK World Japan (HD)">NHK World Japan (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="186" xmltv_id="MTV (HD)">MTV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="187" xmltv_id="VTC3 Giải Trí HD">VTC3 Giải Trí HD</channel>
-    <channel site="mytv.com.vn_0" site_id="188" xmltv_id="VTC1 (HD)">VTC1 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="189" xmltv_id="VTC2 HD">VTC2 HD</channel>
-    <channel site="mytv.com.vn_0" site_id="190" xmltv_id="HTV9 (HD)">HTV9 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="191" xmltv_id="Outdoor Channel (HD)">Outdoor Channel (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="192" xmltv_id="VTC3 (HD)">VTC3 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="193" xmltv_id="LangSonTV1 (LSTV1)">LangSonTV1 (LSTV1)</channel>
-    <channel site="mytv.com.vn_0" site_id="194" xmltv_id="K+1">K+1</channel>
-    <channel site="mytv.com.vn_0" site_id="195" xmltv_id="K+NS">K+NS</channel>
-    <channel site="mytv.com.vn_0" site_id="196" xmltv_id="K+PM">K+PM</channel>
-    <channel site="mytv.com.vn_0" site_id="197" xmltv_id="VTVcab1 - Giải Trí TV">VTVcab1 - Giải Trí TV</channel>
-    <channel site="mytv.com.vn_0" site_id="198" xmltv_id="VTVcab2 - Phim Việt">VTVcab2 - Phim Việt</channel>
-    <channel site="mytv.com.vn_0" site_id="199" xmltv_id="VTVcab3 - Thể Thao TV">VTVcab3 - Thể Thao TV</channel>
-    <channel site="mytv.com.vn_0" site_id="200" xmltv_id="VTVcab3 - Thể Thao TV (HD)">VTVcab3 - Thể Thao TV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="202" xmltv_id="VTVcab5 - E Channel">VTVcab5 - E Channel</channel>
-    <channel site="mytv.com.vn_0" site_id="203" xmltv_id="OnSports+">OnSports+</channel>
-    <channel site="mytv.com.vn_0" site_id="204" xmltv_id="VTVcab10">VTVcab10</channel>
-    <channel site="mytv.com.vn_0" site_id="205" xmltv_id="VTVcab8 - BIBI">VTVcab8 - BIBI</channel>
-    <channel site="mytv.com.vn_0" site_id="210" xmltv_id="VTV1 (HD)">VTV1 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="211" xmltv_id="VTV3 (HD)">VTV3 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="212" xmltv_id="VTV6 (HD)">VTV6 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="213" xmltv_id="SCTV10 - Home Shopping">SCTV10 - Home Shopping</channel>
-    <channel site="mytv.com.vn_0" site_id="217" xmltv_id="Test-NGC-HD">Test-NGC-HD</channel>
-    <channel site="mytv.com.vn_0" site_id="218" xmltv_id="VOV1 (Radio)">VOV1 (Radio)</channel>
-    <channel site="mytv.com.vn_0" site_id="219" xmltv_id="VOV2 (Radio)">VOV2 (Radio)</channel>
-    <channel site="mytv.com.vn_0" site_id="220" xmltv_id="VOV3 (Radio)">VOV3 (Radio)</channel>
-    <channel site="mytv.com.vn_0" site_id="221" xmltv_id="VOVGT (Radio)">VOVGT (Radio)</channel>
-    <channel site="mytv.com.vn_0" site_id="223" xmltv_id="Quốc hội (HD)">Quốc hội (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="224" xmltv_id="Nhân dân (HD)">Nhân dân (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="225" xmltv_id="VOVTV">VOVTV</channel>
-    <channel site="mytv.com.vn_0" site_id="226" xmltv_id="SCTV5 - SCj - Kênh mua sắm">SCTV5 - SCj - Kênh mua sắm</channel>
-    <channel site="mytv.com.vn_0" site_id="227" xmltv_id="QPVN (HD)">QPVN (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="228" xmltv_id="K+1 (HD)">K+1 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="229" xmltv_id="K+PM (HD)">K+PM (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="230" xmltv_id="K+NS (HD)">K+NS (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="243" xmltv_id="VinpearlHaLongResort">VinpearlHaLongResort</channel>
-    <channel site="mytv.com.vn_0" site_id="245" xmltv_id="PhuYenTV (PTP)">PhuYenTV (PTP)</channel>
-    <channel site="mytv.com.vn_0" site_id="247" xmltv_id="K+PC (HD)">K+PC (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="249" xmltv_id="K+PC">K+PC</channel>
-    <channel site="mytv.com.vn_0" site_id="251" xmltv_id="VTVcab13 - VTV Huyndai">VTVcab13 - VTV Huyndai</channel>
-    <channel site="mytv.com.vn_0" site_id="253" xmltv_id="THHN_BacLieu">THHN_BacLieu</channel>
-    <channel site="mytv.com.vn_0" site_id="255" xmltv_id="KienGiangTV (KTV) (HD)">KienGiangTV (KTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="258" xmltv_id="Red by HBO">Red by HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="260" xmltv_id="Screen Red">Screen Red</channel>
-    <channel site="mytv.com.vn_0" site_id="262" xmltv_id="GEM HD">GEM HD</channel>
-    <channel site="mytv.com.vn_0" site_id="264" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel site="mytv.com.vn_0" site_id="266" xmltv_id="Toonami">Toonami</channel>
-    <channel site="mytv.com.vn_0" site_id="267" xmltv_id="801">801</channel>
-    <channel site="mytv.com.vn_0" site_id="269" xmltv_id="TienGiang-THHN">TienGiang-THHN</channel>
-    <channel site="mytv.com.vn_0" site_id="277" xmltv_id="Test -HBO">Test -HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="279" xmltv_id="Test-Cinemax">Test-Cinemax</channel>
-    <channel site="mytv.com.vn_0" site_id="281" xmltv_id="Test -Disney">Test -Disney</channel>
-    <channel site="mytv.com.vn_0" site_id="285" xmltv_id="VTV">VTV</channel>
-    <channel site="mytv.com.vn_0" site_id="289" xmltv_id="Test -VTV6HD">Test -VTV6HD</channel>
-    <channel site="mytv.com.vn_0" site_id="290" xmltv_id="THHN_LongAn">THHN_LongAn</channel>
-    <channel site="mytv.com.vn_0" site_id="292" xmltv_id="Channel V (HD)">Channel V (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="294" xmltv_id="DaVinci (HD)">DaVinci (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="298" xmltv_id="AFC HD">AFC HD</channel>
-    <channel site="mytv.com.vn_0" site_id="300" xmltv_id="HTVC Thuần Việt (HD)">HTVC Thuần Việt (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="302" xmltv_id="HTVC Phim (HD)">HTVC Phim (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="304" xmltv_id="QuocHoi">QuocHoi</channel>
-    <channel site="mytv.com.vn_0" site_id="306" xmltv_id="KBS World">KBS World</channel>
-    <channel site="mytv.com.vn_0" site_id="308" xmltv_id="France24">France24</channel>
-    <channel site="mytv.com.vn_0" site_id="309" xmltv_id="VungTau_THHN">VungTau_THHN</channel>
-    <channel site="mytv.com.vn_0" site_id="311" xmltv_id="AlagonChannel">AlagonChannel</channel>
-    <channel site="mytv.com.vn_0" site_id="313" xmltv_id="DW (HD)">DW (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="315" xmltv_id="DW_B2B">DW_B2B</channel>
-    <channel site="mytv.com.vn_0" site_id="317" xmltv_id="VNEWS (HD)">VNEWS (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="319" xmltv_id="DongNaiTV9">DongNaiTV9</channel>
-    <channel site="mytv.com.vn_0" site_id="321" xmltv_id="ABC Autrailia (A+)">ABC Autrailia (A+)</channel>
-    <channel site="mytv.com.vn_0" site_id="323" xmltv_id="BabyFirst">BabyFirst</channel>
-    <channel site="mytv.com.vn_0" site_id="325" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel site="mytv.com.vn_0" site_id="327" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="mytv.com.vn_0" site_id="329" xmltv_id="BBC_LifeStyle">BBC_LifeStyle</channel>
-    <channel site="mytv.com.vn_0" site_id="331" xmltv_id="Warner_TV">Warner_TV</channel>
-    <channel site="mytv.com.vn_0" site_id="333" xmltv_id="Cinemaworld">Cinemaworld</channel>
-    <channel site="mytv.com.vn_0" site_id="335" xmltv_id="ZeeTV">ZeeTV</channel>
-    <channel site="mytv.com.vn_0" site_id="339" xmltv_id="Ceeshow">Ceeshow</channel>
-    <channel site="mytv.com.vn_0" site_id="341" xmltv_id="BBCWorld">BBCWorld</channel>
-    <channel site="mytv.com.vn_0" site_id="343" xmltv_id="CCTV2">CCTV2</channel>
-    <channel site="mytv.com.vn_0" site_id="345" xmltv_id="Hanoicab5">Hanoicab5</channel>
-    <channel site="mytv.com.vn_0" site_id="347" xmltv_id="ahiii">ahiii</channel>
-    <channel site="mytv.com.vn_0" site_id="349" xmltv_id="802">802</channel>
-    <channel site="mytv.com.vn_0" site_id="350" xmltv_id="Thể Thao TV - VTVLivecab3">Thể Thao TV - VTVLivecab3</channel>
-    <channel site="mytv.com.vn_0" site_id="351" xmltv_id="Bóng Đá TV - VTVLivecab16">Bóng Đá TV - VTVLivecab16</channel>
-    <channel site="mytv.com.vn_0" site_id="353" xmltv_id="DN9 - AZshop">DN9 - AZshop</channel>
-    <channel site="mytv.com.vn_0" site_id="355" xmltv_id="VTV_Huyndai">VTV_Huyndai</channel>
-    <channel site="mytv.com.vn_0" site_id="357" xmltv_id="Livestream">Livestream</channel>
-    <channel site="mytv.com.vn_0" site_id="358" xmltv_id="CNBC">CNBC</channel>
-    <channel site="mytv.com.vn_0" site_id="359" xmltv_id="NHK_Premium">NHK_Premium</channel>
-    <channel site="mytv.com.vn_0" site_id="360" xmltv_id="BacNinhTV (BTV) (HD)">BacNinhTV (BTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="361" xmltv_id="WarnerTV (HD)">WarnerTV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="362" xmltv_id="FashionTV (HD)">FashionTV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="363" xmltv_id="Discovery(HD)">Discovery(HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="364" xmltv_id="Hotel Information_Lemont">Hotel Information_Lemont</channel>
-    <channel site="mytv.com.vn_0" site_id="365" xmltv_id="Melia Ba Vi Mountain Retreat">Melia Ba Vi Mountain Retreat</channel>
-    <channel site="mytv.com.vn_0" site_id="366" xmltv_id="Channel News Asia (HD)">Channel News Asia (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="367" xmltv_id="Livestream2">Livestream2</channel>
-    <channel site="mytv.com.vn_0" site_id="368" xmltv_id="Boomerang">Boomerang</channel>
-    <channel site="mytv.com.vn_0" site_id="369" xmltv_id="BanyanTree">BanyanTree</channel>
-    <channel site="mytv.com.vn_0" site_id="370" xmltv_id="B2B_HBO">B2B_HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="371" xmltv_id="B2B_Max by HBO">B2B_Max by HBO</channel>
-    <channel site="mytv.com.vn_0" site_id="372" xmltv_id="B2B_FTV(HD)">B2B_FTV(HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="373" xmltv_id="B2B_Fox Sport">B2B_Fox Sport</channel>
-    <channel site="mytv.com.vn_0" site_id="374" xmltv_id="B2B_Discovery HD">B2B_Discovery HD</channel>
-    <channel site="mytv.com.vn_0" site_id="375" xmltv_id="B2B_Cartoon Network">B2B_Cartoon Network</channel>
-    <channel site="mytv.com.vn_0" site_id="376" xmltv_id="B2B_Bloomberg">B2B_Bloomberg</channel>
-    <channel site="mytv.com.vn_0" site_id="377" xmltv_id="VTV2 (HD)">VTV2 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="378" xmltv_id="VTV4 (HD)">VTV4 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="379" xmltv_id="VTV5 (HD)">VTV5 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="380" xmltv_id="VTV8 (HD)">VTV8 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="381" xmltv_id="VTV9">VTV9</channel>
-    <channel site="mytv.com.vn_0" site_id="382" xmltv_id="Baby TV (HD)">Baby TV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="383" xmltv_id="VTC5">VTC5</channel>
-    <channel site="mytv.com.vn_0" site_id="384" xmltv_id="ViTV (SCTV8)">ViTV (SCTV8)</channel>
-    <channel site="mytv.com.vn_0" site_id="385" xmltv_id="HBO (HD)">HBO (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="386" xmltv_id="Cinemax (HD)">Cinemax (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="387" xmltv_id="AXN (HD)">AXN (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="388" xmltv_id="Fox Sports (HD)">Fox Sports (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="389" xmltv_id="Fox Sports 2 (HD)">Fox Sports 2 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="390" xmltv_id="Disney (HD)">Disney (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="391" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel site="mytv.com.vn_0" site_id="392" xmltv_id="CNN (HD)">CNN (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="393" xmltv_id="Bloomberg (HD)">Bloomberg (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="394" xmltv_id="Animal Plannet (HD)">Animal Plannet (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="395" xmltv_id="Travel &amp; Living (HD)">Travel &amp; Living (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="396" xmltv_id="VTC4 (HD)">VTC4 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="397" xmltv_id="VTC5 (HD)">VTC5 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="398" xmltv_id="VTC7 (HD)">VTC7 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="399" xmltv_id="VTC9 (HD)">VTC9 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="400" xmltv_id="HaNoiTV1 (HD)">HaNoiTV1 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="401" xmltv_id="HaNoiTV2 (HD)">HaNoiTV2 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="402" xmltv_id="BinhDuongTV1 (BTV1) (HD)">BinhDuongTV1 (BTV1) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="403" xmltv_id="BinhDuongTV4 (BTV4) (HD)">BinhDuongTV4 (BTV4) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="404" xmltv_id="DongNaiTV1 (DN1) (HD)">DongNaiTV1 (DN1) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="405" xmltv_id="HaTinhTV (HTTV) (HD)">HaTinhTV (HTTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="406" xmltv_id="ThaiNguyenTV1 (TV1) (HD)">ThaiNguyenTV1 (TV1) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="407" xmltv_id="HaiPhongTV (THP) (HD)">HaiPhongTV (THP) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="408" xmltv_id="HungYenTV (HY) (HD)">HungYenTV (HY) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="409" xmltv_id="QuangNgaiTV (PTQ1) (HD)">QuangNgaiTV (PTQ1) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="410" xmltv_id="PhuThoTV (PTV) (HD)">PhuThoTV (PTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="411" xmltv_id="kênh">kênh</channel>
-    <channel site="mytv.com.vn_0" site_id="415" xmltv_id="Kênh MyTV">Kênh MyTV</channel>
-    <channel site="mytv.com.vn_0" site_id="420" xmltv_id="VTVcab4 - Info TV">VTVcab4 - Info TV</channel>
-    <channel site="mytv.com.vn_0" site_id="421" xmltv_id="VinhLongTV1 (THVL1) HD">VinhLongTV1 (THVL1) HD</channel>
-    <channel site="mytv.com.vn_0" site_id="422" xmltv_id="VinhLongTV2 (THVL2) HD">VinhLongTV2 (THVL2) HD</channel>
-    <channel site="mytv.com.vn_0" site_id="423" xmltv_id="VinhLongTV3 (THVL3) HD">VinhLongTV3 (THVL3) HD</channel>
-    <channel site="mytv.com.vn_0" site_id="424" xmltv_id="VinhLongTV4 (THVL4) HD">VinhLongTV4 (THVL4) HD</channel>
-    <channel site="mytv.com.vn_0" site_id="425" xmltv_id="VTVcab4 (HD)">VTVcab4 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="427" xmltv_id="VTVcab9 - InfoTV">VTVcab9 - InfoTV</channel>
-    <channel site="mytv.com.vn_0" site_id="428" xmltv_id="VTVcab 12 - Style TV">VTVcab 12 - Style TV</channel>
-    <channel site="mytv.com.vn_0" site_id="432" xmltv_id="VTVcab 17 - Yeah1TV">VTVcab 17 - Yeah1TV</channel>
-    <channel site="mytv.com.vn_0" site_id="433" xmltv_id="VTVcab18 - Thể thao Tin tức (HD)">VTVcab18 - Thể thao Tin tức (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="434" xmltv_id="VTVcab19">VTVcab19</channel>
-    <channel site="mytv.com.vn_0" site_id="435" xmltv_id="VTVcab20 - V.Family">VTVcab20 - V.Family</channel>
-    <channel site="mytv.com.vn_0" site_id="436" xmltv_id="VTVcab22 - LifeTV">VTVcab22 - LifeTV</channel>
-    <channel site="mytv.com.vn_0" site_id="437" xmltv_id="VTVcab23 -Thể thao Golf HD">VTVcab23 -Thể thao Golf HD</channel>
-    <channel site="mytv.com.vn_0" site_id="438" xmltv_id="DaNangTV1">DaNangTV1</channel>
-    <channel site="mytv.com.vn_0" site_id="439" xmltv_id="LongAnTV (LA34)">LongAnTV (LA34)</channel>
-    <channel site="mytv.com.vn_0" site_id="440" xmltv_id="VTVcab15 - M Channel">VTVcab15 - M Channel</channel>
-    <channel site="mytv.com.vn_0" site_id="441" xmltv_id="VTVcab16 - Bóng đá TV">VTVcab16 - Bóng đá TV</channel>
-    <channel site="mytv.com.vn_0" site_id="442" xmltv_id="VTVcab16 - Bóng đá TV (HD)">VTVcab16 - Bóng đá TV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="443" xmltv_id="VTVcab10">VTVcab10</channel>
-    <channel site="mytv.com.vn_0" site_id="444" xmltv_id="VTV7 (HD)">VTV7 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="445" xmltv_id="VTV7 (HD)">VTV7 (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="446" xmltv_id="HTV3 (SD)">HTV3 (SD)</channel>
-    <channel site="mytv.com.vn_0" site_id="447" xmltv_id="QuangNinhTV1 (QTV1 HD)">QuangNinhTV1 (QTV1 HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="448" xmltv_id="QuangNinhTV3 (QTV3 HD)">QuangNinhTV3 (QTV3 HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="449" xmltv_id="BinhThuan (BTV6) - Home Shopping">BinhThuan (BTV6) - Home Shopping</channel>
-    <channel site="mytv.com.vn_0" site_id="450" xmltv_id="NgheAnTV (NTV) (HD)">NgheAnTV (NTV) (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="451" xmltv_id="VTVcab 7 - Sức khỏe và Cuộc sống">VTVcab 7 - Sức khỏe và Cuộc sống</channel>
-    <channel site="mytv.com.vn_0" site_id="452" xmltv_id="Clubbing">Clubbing</channel>
-    <channel site="mytv.com.vn_0" site_id="453" xmltv_id="VTC12">VTC12</channel>
-    <channel site="mytv.com.vn_0" site_id="454" xmltv_id="ThanhHoaTV (HD)">ThanhHoaTV (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="455" xmltv_id="Fox Family Movies">Fox Family Movies</channel>
-    <channel site="mytv.com.vn_0" site_id="456" xmltv_id="Fox Family Movies (HD)">Fox Family Movies (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="457" xmltv_id="Nat Geo Wild (HD)">Nat Geo Wild (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="458" xmltv_id="Boomerang (HD)">Boomerang (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="459" xmltv_id="Animax (HD)">Animax (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="460" xmltv_id="BTV9 - An Viên (HD)">BTV9 - An Viên (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="461" xmltv_id="AZShop">AZShop</channel>
-    <channel site="mytv.com.vn_0" site_id="462" xmltv_id="VOVTV">VOVTV</channel>
-    <channel site="mytv.com.vn_0" site_id="463" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel site="mytv.com.vn_0" site_id="464" xmltv_id="BBC LifeStyle">BBC LifeStyle</channel>
-    <channel site="mytv.com.vn_0" site_id="465" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="mytv.com.vn_0" site_id="466" xmltv_id="Cinemaworld">Cinemaworld</channel>
-    <channel site="mytv.com.vn_0" site_id="467" xmltv_id="Cbeebies">Cbeebies</channel>
-    <channel site="mytv.com.vn_0" site_id="468" xmltv_id="Discovery Asia">Discovery Asia</channel>
-    <channel site="mytv.com.vn_0" site_id="469" xmltv_id="FOX Sport-3">FOX Sport-3</channel>
-    <channel site="mytv.com.vn_0" site_id="470" xmltv_id="BinhThuanTV (BTV)">BinhThuanTV (BTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="471" xmltv_id="TraVinhTV (THTV)">TraVinhTV (THTV)</channel>
-    <channel site="mytv.com.vn_0" site_id="472" xmltv_id="CinemaWorld (HD)">CinemaWorld (HD)</channel>
-    <channel site="mytv.com.vn_0" site_id="473" xmltv_id="CinemaWorld (SD)">CinemaWorld (SD)</channel>
-    <channel site="mytv.com.vn_0" site_id="474" xmltv_id="DN9/SkyShop">DN9/SkyShop</channel>
+    <channel site="mytv.com.vn_0" site_id="210||s935.cdn.mytvnet.vn/vimages/65/51/1d/dd/dd/d0/651dd-pvtv1hd-channel-unkn.png" xmltv_id="VTV1 HD">VTV1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="377||s935.cdn.mytvnet.vn/vimages/94/40/07/77/7a/a2/94077-pvtv2hd-channel-unkn.png" xmltv_id="VTV2 HD">VTV2 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="211||s935.cdn.mytvnet.vn/vimages/20/0e/e9/9b/b6/6b/20e9b-pvtv3hd-channel-unkn.png" xmltv_id="VTV3 HD">VTV3 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="378||s935.cdn.mytvnet.vn/vimages/06/64/46/60/07/7c/06460-pvtv4hd-channel-unkn.png" xmltv_id="VTV4 HD">VTV4 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="379||s935.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" xmltv_id="VTV5 HD">VTV5 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="212||s935.cdn.mytvnet.vn/vimages/f0/0b/b6/6e/e5/56/f0b6e-pvtvcnth-channel-unkn.png" xmltv_id="VTV Cần Thơ">VTV Cần Thơ</channel>
+    <channel site="mytv.com.vn_0" site_id="632||s935.cdn.mytvnet.vn/vimages/b4/41/10/03/37/73/b4103-pspotvhd-channel-unkn.png" xmltv_id="SPOTV (HD)">SPOTV (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="459||s935.cdn.mytvnet.vn/vimages/31/18/82/2f/fd/dd/3182f-pvtv7hd-channel-unkn.png" xmltv_id="VTV7 HD">VTV7 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="633||s935.cdn.mytvnet.vn/vimages/fd/d5/5f/f9/99/93/fd5f9-pspotv2hd-channel-unkn.png" xmltv_id="SPOTV2 (HD)">SPOTV2 (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="7||s935.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" xmltv_id="HTV1 HD">HTV1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="115||s935.cdn.mytvnet.vn/vimages/6e/e1/19/95/55/5f/6e195-phcatv5shopping24h-channel-unkn.png" xmltv_id="HCATV5 - Shopping 24h">HCATV5 - Shopping 24h</channel>
+    <channel site="mytv.com.vn_0" site_id="9||s935.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png" xmltv_id="HTV Key (HD)">HTV Key (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="18||s935.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" xmltv_id="HTV Thể thao">HTV Thể thao</channel>
+    <channel site="mytv.com.vn_0" site_id="35||s935.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" xmltv_id="ANTV">ANTV</channel>
+    <channel site="mytv.com.vn_0" site_id="251||s935.cdn.mytvnet.vn/vimages/17/7e/ee/e8/85/5d/17ee8-pvtvcab13-channel-unkn.png" xmltv_id="VTVcab13">VTVcab13</channel>
+    <channel site="mytv.com.vn_0" site_id="20||s935.cdn.mytvnet.vn/vimages/5c/cc/cb/b1/1e/e0/5ccb1-pvtc2-channel-unkn.png" xmltv_id="VTC2">VTC2</channel>
+    <channel site="mytv.com.vn_0" site_id="22||s935.cdn.mytvnet.vn/vimages/3c/cd/da/a9/95/5a/3cda9-pvtc6hd-channel-unkn.png" xmltv_id="VTC6 HD">VTC6 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="421||s935.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" xmltv_id="Vĩnh Long 1 HD">Vĩnh Long 1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="30||s935.cdn.mytvnet.vn/vimages/43/3f/fa/ab/bc/c2/43fab-pvtc11kidstv-channel-unkn.png" xmltv_id="VTC11 - KidsTV">VTC11 - KidsTV</channel>
+    <channel site="mytv.com.vn_0" site_id="423||s935.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" xmltv_id="Vĩnh Long 2 HD">Vĩnh Long 2 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="425||s935.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" xmltv_id="Vĩnh Long 3 HD">Vĩnh Long 3 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="200||s935.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png" xmltv_id="ON Sports (HD)">ON Sports (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="208||s935.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" xmltv_id="ON Football (HD)">ON Football (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="185||s935.cdn.mytvnet.vn/vimages/6a/a4/46/6f/f0/0f/6a46f-pnhkworldjapanhd-channel-unkn.png" xmltv_id="NHK World Japan HD">NHK World Japan HD</channel>
+    <channel site="mytv.com.vn_0" site_id="105||s935.cdn.mytvnet.vn/vimages/ce/ee/e8/82/2e/ee/cee82-pboxhitshd-channel-unkn.png" xmltv_id="Box Hits (HD)">Box Hits (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="429||s935.cdn.mytvnet.vn/vimages/f6/6b/b2/29/99/9c/f6b29-pvnhlong4hd-channel-unkn.png" xmltv_id="Vĩnh Long 4 HD">Vĩnh Long 4 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="69||s935.cdn.mytvnet.vn/vimages/ff/f7/79/9d/da/a0/ff79d-pmusicboxhd-channel-unkn.png" xmltv_id="Music Box (HD)">Music Box (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="14||s935.cdn.mytvnet.vn/vimages/ba/a1/1c/c4/4a/a9/ba1c4-phtvcgianhhd-channel-unkn.png" xmltv_id="HTVC Gia Đình (HD)">HTVC Gia Đình (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="83||s935.cdn.mytvnet.vn/vimages/79/92/2a/a7/76/64/792a7-ptv5monde-channel-unkn.png" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="mytv.com.vn_0" site_id="380||s935.cdn.mytvnet.vn/vimages/68/8a/a5/55/5e/ef/68a55-pvtv8hd-channel-unkn.png" xmltv_id="VTV8 HD">VTV8 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="381||s935.cdn.mytvnet.vn/vimages/ee/ed/db/b1/1b/bb/eedb1-pvtv9hd-channel-unkn.png" xmltv_id="VTV9 HD">VTV9 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="223||s935.cdn.mytvnet.vn/vimages/95/58/8e/e4/4b/b7/958e4-pquchitv-channel-unkn.png" xmltv_id="Quốc hội TV">Quốc hội TV</channel>
+    <channel site="mytv.com.vn_0" site_id="300||s935.cdn.mytvnet.vn/vimages/8b/b4/4f/fa/aa/a0/8b4fa-phtvthunvithd-channel-unkn.png" xmltv_id="HTV Thuần Việt HD">HTV Thuần Việt HD</channel>
+    <channel site="mytv.com.vn_0" site_id="188||s935.cdn.mytvnet.vn/vimages/43/3a/a2/22/29/97/43a22-pvtc1hd-channel-unkn.png" xmltv_id="VTC1 HD">VTC1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="302||s935.cdn.mytvnet.vn/vimages/0f/f5/59/92/2f/f6/0f592-phtvcphimhd-channel-unkn.png" xmltv_id="HTVC Phim HD">HTVC Phim HD</channel>
+    <channel site="mytv.com.vn_0" site_id="184||s935.cdn.mytvnet.vn/vimages/c2/2a/aa/a4/47/75/c2aa4-pvtc13itvhd-channel-unkn.png" xmltv_id="VTC13 - iTV HD">VTC13 - iTV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="224||s935.cdn.mytvnet.vn/vimages/40/04/4e/ea/af/ff/404ea-pnhandanhd-channel-unkn.png" xmltv_id="NhandanHD">NhandanHD</channel>
+    <channel site="mytv.com.vn_0" site_id="192||s935.cdn.mytvnet.vn/vimages/a6/61/18/80/07/70/a6180-pvtc3ththaohd-channel-unkn.png" xmltv_id="VTC3 Thể Thao HD">VTC3 Thể Thao HD</channel>
+    <channel site="mytv.com.vn_0" site_id="110||s935.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png" xmltv_id="HTV3 HD">HTV3 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="225||s935.cdn.mytvnet.vn/vimages/85/55/5b/b4/45/57/855b4-pvovtvvietnamjourneyhd-channel-unkn.png" xmltv_id="VOVTV-VIETNAM JOURNEY HD">VOVTV-VIETNAM JOURNEY HD</channel>
+    <channel site="mytv.com.vn_0" site_id="27||s935.cdn.mytvnet.vn/vimages/85/52/20/05/5f/fc/85205-pono2tvhd-channel-unkn.png" xmltv_id="ON O2TV HD">ON O2TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="45||s935.cdn.mytvnet.vn/vimages/7b/b4/48/81/1b/ba/7b481-phitv-channel-unkn.png" xmltv_id="HiTV">HiTV</channel>
+    <channel site="mytv.com.vn_0" site_id="127||s935.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" xmltv_id="HTV2 HD">HTV2 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="128||s935.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png" xmltv_id="HTV7 HD">HTV7 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="190||s935.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png" xmltv_id="HTV9 HD">HTV9 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="197||s935.cdn.mytvnet.vn/vimages/17/7a/a1/18/8f/f4/17a18-pvtvcab1viegiitr-channel-unkn.png" xmltv_id="VTVcab1 - Vie Giải trí">VTVcab1 - Vie Giải trí</channel>
+    <channel site="mytv.com.vn_0" site_id="198||s935.cdn.mytvnet.vn/vimages/3d/d2/24/49/9e/ed/3d249-ponphimvithd-channel-unkn.png" xmltv_id="ON Phim Việt HD">ON Phim Việt HD</channel>
+    <channel site="mytv.com.vn_0" site_id="201||s935.cdn.mytvnet.vn/vimages/85/57/76/60/05/55/85760-pvtvcab19hd-channel-unkn.png" xmltv_id="VTVcab19 HD">VTVcab19 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="202||s935.cdn.mytvnet.vn/vimages/7a/a9/95/5d/d5/5a/7a95d-ponechannel-channel-unkn.png" xmltv_id="ON E Channel">ON E Channel</channel>
+    <channel site="mytv.com.vn_0" site_id="203||s935.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png" xmltv_id="On Sports+ HD">On Sports+ HD</channel>
+    <channel site="mytv.com.vn_0" site_id="205||s935.cdn.mytvnet.vn/vimages/b4/43/30/0a/ac/cb/b430a-ponbibihd-channel-unkn.png" xmltv_id="ON Bibi HD">ON Bibi HD</channel>
+    <channel site="mytv.com.vn_0" site_id="206||s935.cdn.mytvnet.vn/vimages/6d/df/f4/4e/ee/e9/6df4e-ponstyletvhd-channel-unkn.png" xmltv_id="ON Style TV HD">ON Style TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="209||s935.cdn.mytvnet.vn/vimages/05/5e/eb/b9/95/55/05eb9-pontrendinghd-channel-unkn.png" xmltv_id="ON Trending HD">ON Trending HD</channel>
+    <channel site="mytv.com.vn_0" site_id="204||s935.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png" xmltv_id="ON Cine HD">ON Cine HD</channel>
+    <channel site="mytv.com.vn_0" site_id="615||s935.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png" xmltv_id="VTV5 Tây Nam Bộ (HD)">VTV5 Tây Nam Bộ (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="12||s935.cdn.mytvnet.vn/vimages/b8/8b/bd/da/ae/eb/b8bda-phtvccanhchd-channel-unkn.png" xmltv_id="HTVC Ca Nhạc (HD)">HTVC Ca Nhạc (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="191||s935.cdn.mytvnet.vn/vimages/a8/8d/d6/68/85/57/a8d68-poutdoorhd-channel-unkn.png" xmltv_id="Outdoor HD">Outdoor HD</channel>
+    <channel site="mytv.com.vn_0" site_id="642||s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" xmltv_id="VTV5 Tây Nguyên (HD)">VTV5 Tây Nguyên (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="141||s935.cdn.mytvnet.vn/vimages/a0/0d/d4/4e/e8/8d/a0d4e-pcaobngtv-channel-unkn.png" xmltv_id="Cao Bằng TV">Cao Bằng TV</channel>
+    <channel site="mytv.com.vn_0" site_id="29||s935.cdn.mytvnet.vn/vimages/8e/e2/24/45/53/3b/8e245-pvtc10netviet-channel-unkn.png" xmltv_id="VTC10 - NetViet">VTC10 - NetViet</channel>
+    <channel site="mytv.com.vn_0" site_id="193||s935.cdn.mytvnet.vn/vimages/0a/ab/b3/38/88/8d/0ab38-plngsntvhd-channel-unkn.png" xmltv_id="Lạng Sơn TV HD">Lạng Sơn TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="17||s935.cdn.mytvnet.vn/vimages/04/47/79/98/88/86/04798-phtvthunvit-channel-unkn.png" xmltv_id="HTV Thuần Việt">HTV Thuần Việt</channel>
+    <channel site="mytv.com.vn_0" site_id="227||s935.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" xmltv_id="QPVN (HD)">QPVN (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="241||s935.cdn.mytvnet.vn/vimages/27/7a/a7/71/1f/f0/27a71-ponvfamilyhd-channel-unkn.png" xmltv_id="ON Vfamily HD">ON Vfamily HD</channel>
+    <channel site="mytv.com.vn_0" site_id="317||s935.cdn.mytvnet.vn/vimages/ca/a4/45/5a/a1/19/ca45a-pvnewshd-channel-unkn.png" xmltv_id="VNews HD">VNews HD</channel>
+    <channel site="mytv.com.vn_0" site_id="313||s935.cdn.mytvnet.vn/vimages/38/85/5a/aa/a1/1b/385aa-pdwhd-channel-unkn.png" xmltv_id="DW-HD">DW-HD</channel>
+    <channel site="mytv.com.vn_0" site_id="308||s935.cdn.mytvnet.vn/vimages/b2/26/6b/bc/c6/6d/b26bc-pfrance24-channel-unkn.png" xmltv_id="France24">France24</channel>
+    <channel site="mytv.com.vn_0" site_id="306||s935.cdn.mytvnet.vn/vimages/82/2f/fb/b6/6d/d7/82fb6-pkbsworld-channel-unkn.png" xmltv_id="KBS World">KBS World</channel>
+    <channel site="mytv.com.vn_0" site_id="13||s935.cdn.mytvnet.vn/vimages/8d/d4/4a/a5/5f/fb/8d4a5-phtvcdulchcucsnghd-channel-unkn.png" xmltv_id="HTVC Du Lịch Cuộc Sống (HD)">HTVC Du Lịch Cuộc Sống (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="366||s935.cdn.mytvnet.vn/vimages/69/91/15/50/06/60/69150-pchannelnewsasiahd-channel-unkn.png" xmltv_id="Channel News Asia HD">Channel News Asia HD</channel>
+    <channel site="mytv.com.vn_0" site_id="294||s935.cdn.mytvnet.vn/vimages/b0/0b/b6/6e/e8/86/b0b6e-pdavincihd-channel-unkn.png" xmltv_id="DaVinci HD">DaVinci HD</channel>
+    <channel site="mytv.com.vn_0" site_id="616||s935.cdn.mytvnet.vn/vimages/b4/47/7b/b1/1e/e8/b47b1-pthp-channel-unkn.png" xmltv_id="THP+">THP+</channel>
+    <channel site="mytv.com.vn_0" site_id="298||s935.cdn.mytvnet.vn/vimages/33/33/32/20/08/8d/33320-pasianfoodnetworkhd-channel-unkn.png" xmltv_id="Asian Food Network (HD)">Asian Food Network (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="517||s935.cdn.mytvnet.vn/vimages/a1/12/20/04/4c/cb/a1204-pbbcearthhd-channel-unkn.png" xmltv_id="BBC EARTH HD">BBC EARTH HD</channel>
+    <channel site="mytv.com.vn_0" site_id="519||s935.cdn.mytvnet.vn/vimages/19/93/3d/d6/66/61/193d6-pbbclifestylehd-channel-unkn.png" xmltv_id="BBC LIFE STYLE HD">BBC LIFE STYLE HD</channel>
+    <channel site="mytv.com.vn_0" site_id="521||s935.cdn.mytvnet.vn/vimages/bb/bb/b1/1c/c5/52/bbb1c-pbbcnewshd-channel-unkn.png" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel site="mytv.com.vn_0" site_id="523||s935.cdn.mytvnet.vn/vimages/cd/de/e3/3a/a3/33/cde3a-pcinemaworldhd-channel-unkn.png" xmltv_id="CINEMAWORLD HD">CINEMAWORLD HD</channel>
+    <channel site="mytv.com.vn_0" site_id="525||s935.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png" xmltv_id="CBEEBIES HD">CBEEBIES HD</channel>
+    <channel site="mytv.com.vn_0" site_id="467||s935.cdn.mytvnet.vn/vimages/19/9d/d6/65/51/10/19d65-pcartoonito-channel-unkn.png" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="mytv.com.vn_0" site_id="407||s935.cdn.mytvnet.vn/vimages/a9/9c/c3/35/56/6c/a9c35-phiphngtvhd-channel-unkn.png" xmltv_id="Hải Phòng TV HD">Hải Phòng TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="24||s935.cdn.mytvnet.vn/vimages/4f/ff/f5/58/8a/a5/4ff58-pvtc8-channel-unkn.png" xmltv_id="VTC8">VTC8</channel>
+    <channel site="mytv.com.vn_0" site_id="384||s935.cdn.mytvnet.vn/vimages/f0/0a/a3/31/1f/f3/f0a31-phtvcplushd-channel-unkn.png" xmltv_id="HTVC Plus HD">HTVC Plus HD</channel>
+    <channel site="mytv.com.vn_0" site_id="63||s935.cdn.mytvnet.vn/vimages/36/6c/cc/c9/91/13/36cc9-parirang-channel-unkn.png" xmltv_id="Arirang">Arirang</channel>
+    <channel site="mytv.com.vn_0" site_id="122||s935.cdn.mytvnet.vn/vimages/88/80/01/11/1f/f8/88011-pthibnhtv-channel-unkn.png" xmltv_id="Thái Bình TV">Thái Bình TV</channel>
+    <channel site="mytv.com.vn_0" site_id="149||s935.cdn.mytvnet.vn/vimages/75/58/8c/c5/50/0e/758c5-pnamnhtv-channel-unkn.png" xmltv_id="Nam Định TV">Nam Định TV</channel>
+    <channel site="mytv.com.vn_0" site_id="396||s935.cdn.mytvnet.vn/vimages/55/57/74/4d/d7/79/5574d-pvtc4hd-channel-unkn.png" xmltv_id="VTC4 HD">VTC4 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="397||s935.cdn.mytvnet.vn/vimages/93/3a/a7/7d/de/e4/93a7d-pvtc5hd-channel-unkn.png" xmltv_id="VTC5 HD">VTC5 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="398||s935.cdn.mytvnet.vn/vimages/d2/2a/aa/a1/10/0e/d2aa1-pvtc7todaytvhd-channel-unkn.png" xmltv_id="VTC7 - Today TV HD">VTC7 - Today TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="399||s935.cdn.mytvnet.vn/vimages/8c/cc/ce/e0/08/89/8cce0-pvtc9hd-channel-unkn.png" xmltv_id="VTC9 HD">VTC9 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="400||s935.cdn.mytvnet.vn/vimages/4a/ab/b7/75/55/55/4ab75-phni1hd-channel-unkn.png" xmltv_id="Hà Nội 1 HD">Hà Nội 1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="410||s935.cdn.mytvnet.vn/vimages/3d/d4/46/6a/a3/32/3d46a-pphthtvhd-channel-unkn.png" xmltv_id="Phú Thọ TV (HD)">Phú Thọ TV (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="401||s935.cdn.mytvnet.vn/vimages/f0/0f/f2/28/88/83/f0f28-phni2hd-channel-unkn.png" xmltv_id="Hà Nội 2 HD">Hà Nội 2 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="435||s935.cdn.mytvnet.vn/vimages/e5/5e/ed/df/f8/8e/e5edf-ponmovieshd-channel-unkn.png" xmltv_id="ON MOVIES (HD)">ON MOVIES (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="437||s935.cdn.mytvnet.vn/vimages/2a/a6/69/95/5a/a2/2a695-poninfotvhd-channel-unkn.png" xmltv_id="ON InfoTV HD">ON InfoTV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="439||s935.cdn.mytvnet.vn/vimages/2d/df/fc/c3/35/5d/2dfc3-ponmusichd-channel-unkn.png" xmltv_id="ON MUSIC HD">ON MUSIC HD</channel>
+    <channel site="mytv.com.vn_0" site_id="441||s935.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png" xmltv_id="ON Sports News">ON Sports News</channel>
+    <channel site="mytv.com.vn_0" site_id="415||s935.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png" xmltv_id="ON Golf">ON Golf</channel>
+    <channel site="mytv.com.vn_0" site_id="406||s935.cdn.mytvnet.vn/vimages/36/62/23/33/36/6c/36233-pthinguyntv1hd-channel-unkn.png" xmltv_id="Thái Nguyên TV1 HD">Thái Nguyên TV1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="469||s935.cdn.mytvnet.vn/vimages/b0/0f/f6/65/57/79/b0f65-panimaxhd-channel-unkn.png" xmltv_id="AnimaxHD">AnimaxHD</channel>
+    <channel site="mytv.com.vn_0" site_id="16||s935.cdn.mytvnet.vn/vimages/de/ea/ad/d8/86/64/dead8-phtvphnhd-channel-unkn.png" xmltv_id="HTV Phụ Nữ (HD)">HTV Phụ Nữ (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="33||s935.cdn.mytvnet.vn/vimages/67/79/9a/a9/91/11/679a9-pvtc16hd-channel-unkn.png" xmltv_id="VTC16 HD">VTC16 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="32||s935.cdn.mytvnet.vn/vimages/d1/1c/cd/df/f7/7d/d1cdf-pvtc14hd-channel-unkn.png" xmltv_id="VTC14 HD">VTC14 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="463||s935.cdn.mytvnet.vn/vimages/1b/b7/7a/a0/07/70/1b7a0-pvtc12-channel-unkn.png" xmltv_id="VTC12">VTC12</channel>
+    <channel site="mytv.com.vn_0" site_id="153||s935.cdn.mytvnet.vn/vimages/8f/fe/e9/97/7d/dd/8fe97-pynbitv-channel-unkn.png" xmltv_id="Yên Bái TV">Yên Bái TV</channel>
+    <channel site="mytv.com.vn_0" site_id="527||s935.cdn.mytvnet.vn/vimages/a5/59/9a/a3/39/9c/a59a3-pdiscoveryasiahd-channel-unkn.png" xmltv_id="DISCOVERY ASIA HD">DISCOVERY ASIA HD</channel>
+    <channel site="mytv.com.vn_0" site_id="515||s935.cdn.mytvnet.vn/vimages/16/60/08/8a/a6/60/1608a-phitshd-channel-unkn.png" xmltv_id="HITS (HD)">HITS (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="154||s935.cdn.mytvnet.vn/vimages/b6/61/1c/cf/fe/e0/b61cf-ptuynquangtv-channel-unkn.png" xmltv_id="Tuyên Quang TV">Tuyên Quang TV</channel>
+    <channel site="mytv.com.vn_0" site_id="589||s935.cdn.mytvnet.vn/vimages/c7/7d/df/fb/bc/c3/c7dfb-panimalplannethd-channel-unkn.png" xmltv_id="Animal Plannet HD">Animal Plannet HD</channel>
+    <channel site="mytv.com.vn_0" site_id="590||s935.cdn.mytvnet.vn/vimages/78/88/87/7c/c0/03/7887c-paxnhd-channel-unkn.png" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="mytv.com.vn_0" site_id="591||s935.cdn.mytvnet.vn/vimages/71/1b/ba/ae/e7/75/71bae-pbloomberghd-channel-unkn.png" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel site="mytv.com.vn_0" site_id="592||s935.cdn.mytvnet.vn/vimages/6f/ff/f4/47/73/3b/6ff47-pcartoonnetworkhd-channel-unkn.png" xmltv_id="CartoonNetwork HD">CartoonNetwork HD</channel>
+    <channel site="mytv.com.vn_0" site_id="593||s935.cdn.mytvnet.vn/vimages/93/3c/c3/3a/ab/be/93c3a-pcnnhd-channel-unkn.png" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="mytv.com.vn_0" site_id="594||s935.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" xmltv_id="Discovery(HD)">Discovery(HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="155||s935.cdn.mytvnet.vn/vimages/2d/d3/37/7d/d2/2b/2d37d-phgiangtv-channel-unkn.png" xmltv_id="Hà Giang TV">Hà Giang TV</channel>
+    <channel site="mytv.com.vn_0" site_id="595||s935.cdn.mytvnet.vn/vimages/a8/86/60/07/78/89/a8607-pftvhd-channel-unkn.png" xmltv_id="FTV(HD)">FTV(HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="598||s935.cdn.mytvnet.vn/vimages/30/09/95/57/73/33/30957-pabcaustralia-channel-unkn.png" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel site="mytv.com.vn_0" site_id="596||s935.cdn.mytvnet.vn/vimages/ce/e5/50/09/97/74/ce509-ptlchd-channel-unkn.png" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="mytv.com.vn_0" site_id="597||s935.cdn.mytvnet.vn/vimages/3e/e1/1d/df/f7/7c/3e1df-pwarnerhd-channel-unkn.png" xmltv_id="Warner HD">Warner HD</channel>
+    <channel site="mytv.com.vn_0" site_id="116||s935.cdn.mytvnet.vn/vimages/e6/64/49/95/59/99/e6495-plocaitv-channel-unkn.png" xmltv_id="Lào Cai TV">Lào Cai TV</channel>
+    <channel site="mytv.com.vn_0" site_id="455||s935.cdn.mytvnet.vn/vimages/b5/51/11/10/0d/d1/b5110-pqungninh1qtv1hd-channel-unkn.png" xmltv_id="Quảng Ninh1 (QTV1) HD">Quảng Ninh1 (QTV1) HD</channel>
+    <channel site="mytv.com.vn_0" site_id="457||s935.cdn.mytvnet.vn/vimages/c5/56/63/32/2a/a0/c5632-pqungninh3qtv3hd-channel-unkn.png" xmltv_id="Quảng Ninh3 (QTV3) HD">Quảng Ninh3 (QTV3) HD</channel>
+    <channel site="mytv.com.vn_0" site_id="156||s935.cdn.mytvnet.vn/vimages/17/75/5b/b5/54/4f/175b5-plaichutv-channel-unkn.png" xmltv_id="Lai Châu TV">Lai Châu TV</channel>
+    <channel site="mytv.com.vn_0" site_id="157||s935.cdn.mytvnet.vn/vimages/bb/b7/75/54/4d/df/bb754-psnlatv-channel-unkn.png" xmltv_id="Sơn La TV">Sơn La TV</channel>
+    <channel site="mytv.com.vn_0" site_id="158||s935.cdn.mytvnet.vn/vimages/18/8b/bd/d3/30/0a/18bd3-pinbintv-channel-unkn.png" xmltv_id="Điện Biên TV">Điện Biên TV</channel>
+    <channel site="mytv.com.vn_0" site_id="159||s935.cdn.mytvnet.vn/vimages/0e/e1/14/4e/e1/16/0e14e-phabnhtv-channel-unkn.png" xmltv_id="Hòa Bình TV">Hòa Bình TV</channel>
+    <channel site="mytv.com.vn_0" site_id="93||s935.cdn.mytvnet.vn/vimages/3b/be/ed/d0/03/33/3bed0-phidngtv-channel-unkn.png" xmltv_id="Hải Dương TV">Hải Dương TV</channel>
+    <channel site="mytv.com.vn_0" site_id="160||s935.cdn.mytvnet.vn/vimages/e9/97/7f/fb/be/e9/e97fb-pninhbnhtv-channel-unkn.png" xmltv_id="Ninh Bình TV">Ninh Bình TV</channel>
+    <channel site="mytv.com.vn_0" site_id="477||s935.cdn.mytvnet.vn/vimages/54/4c/c8/80/06/6f/54c80-pthanhhatvhd-channel-unkn.png" xmltv_id="Thanh Hóa TV HD">Thanh Hóa TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="453||s935.cdn.mytvnet.vn/vimages/c0/04/40/0b/ba/ad/c040b-pnghanhd-channel-unkn.png" xmltv_id="Nghệ An (HD)">Nghệ An (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="405||s935.cdn.mytvnet.vn/vimages/37/7d/d4/41/1a/aa/37d41-phtnhtvhd-channel-unkn.png" xmltv_id="Hà Tĩnh TV HD">Hà Tĩnh TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="341||apigw.mytv.vn/api/v1/channel/static/channel/341.png?ver=17" xmltv_id="BBCNews">BBCNews</channel>
+    <channel site="mytv.com.vn_0" site_id="90||s935.cdn.mytvnet.vn/vimages/4f/fe/ec/c6/64/40/4fec6-pnng1-channel-unkn.png" xmltv_id="Đà Nẵng 1">Đà Nẵng 1</channel>
+    <channel site="mytv.com.vn_0" site_id="60||s935.cdn.mytvnet.vn/vimages/ec/c7/77/7c/cc/cc/ec77c-pnng2-channel-unkn.png" xmltv_id="Đà Nẵng 2">Đà Nẵng 2</channel>
+    <channel site="mytv.com.vn_0" site_id="162||s935.cdn.mytvnet.vn/vimages/58/87/7e/e1/12/2a/587e1-pdaklaktv-channel-unkn.png" xmltv_id="DakLak TV">DakLak TV</channel>
+    <channel site="mytv.com.vn_0" site_id="163||s935.cdn.mytvnet.vn/vimages/7b/bc/ce/ef/f0/0e/7bcef-pdaknongtv-channel-unkn.png" xmltv_id="DakNong TV">DakNong TV</channel>
+    <channel site="mytv.com.vn_0" site_id="164||s935.cdn.mytvnet.vn/vimages/f8/82/22/22/21/17/f8222-plmngtv-channel-unkn.png" xmltv_id="Lâm Đồng TV">Lâm Đồng TV</channel>
+    <channel site="mytv.com.vn_0" site_id="95||s935.cdn.mytvnet.vn/vimages/a7/7f/f9/97/7e/e7/a7f97-pngnai2-channel-unkn.png" xmltv_id="Đồng Nai 2">Đồng Nai 2</channel>
+    <channel site="mytv.com.vn_0" site_id="404||s935.cdn.mytvnet.vn/vimages/fc/c0/0c/c8/8a/ae/fc0c8-pngnai1hd-channel-unkn.png" xmltv_id="Đồng Nai 1 HD">Đồng Nai 1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="38||s935.cdn.mytvnet.vn/vimages/41/11/18/83/34/45/41183-pbnhdng2-channel-unkn.png" xmltv_id="Bình Dương 2">Bình Dương 2</channel>
+    <channel site="mytv.com.vn_0" site_id="402||s935.cdn.mytvnet.vn/vimages/ef/f4/46/67/7b/b6/ef467-pbnhdng1hd-channel-unkn.png" xmltv_id="Bình Dương 1 HD">Bình Dương 1 HD</channel>
+    <channel site="mytv.com.vn_0" site_id="479||s935.cdn.mytvnet.vn/vimages/28/82/24/44/4e/e7/28244-pbtv9anvintv-channel-unkn.png" xmltv_id="BTV9 - An Viên TV">BTV9 - An Viên TV</channel>
+    <channel site="mytv.com.vn_0" site_id="47||s935.cdn.mytvnet.vn/vimages/b4/46/62/2d/dc/c1/b462d-plongan-channel-unkn.png" xmltv_id="Long An">Long An</channel>
+    <channel site="mytv.com.vn_0" site_id="54||s935.cdn.mytvnet.vn/vimages/f1/1e/e6/60/0a/a1/f1e60-ptingianghd-channel-unkn.png" xmltv_id="Tiền Giang HD">Tiền Giang HD</channel>
+    <channel site="mytv.com.vn_0" site_id="39||s935.cdn.mytvnet.vn/vimages/6c/c6/64/4b/ba/a3/6c64b-pcnthtv-channel-unkn.png" xmltv_id="Cần Thơ TV">Cần Thơ TV</channel>
+    <channel site="mytv.com.vn_0" site_id="96||s935.cdn.mytvnet.vn/vimages/47/73/37/7c/c5/55/4737c-pngthp-channel-unkn.png" xmltv_id="Đồng Tháp">Đồng Tháp</channel>
+    <channel site="mytv.com.vn_0" site_id="34||s935.cdn.mytvnet.vn/vimages/60/08/84/42/23/3a/60842-pangiang-channel-unkn.png" xmltv_id="An Giang">An Giang</channel>
+    <channel site="mytv.com.vn_0" site_id="433||s935.cdn.mytvnet.vn/vimages/b8/89/96/67/72/25/b8967-pkingianghd-channel-unkn.png" xmltv_id="Kiên Giang (HD)">Kiên Giang (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="123||s935.cdn.mytvnet.vn/vimages/bf/f6/69/9e/e0/0b/bf69e-pcmau-channel-unkn.png" xmltv_id="Cà Mau">Cà Mau</channel>
+    <channel site="mytv.com.vn_0" site_id="53||s935.cdn.mytvnet.vn/vimages/b1/11/1c/c5/5f/fd/b11c5-ptyninh-channel-unkn.png" xmltv_id="Tây Ninh HD">Tây Ninh HD</channel>
+    <channel site="mytv.com.vn_0" site_id="167||s935.cdn.mytvnet.vn/vimages/c2/2b/be/ec/ca/a7/c2bec-pbntretv-channel-unkn.png" xmltv_id="Bến Tre TV">Bến Tre TV</channel>
+    <channel site="mytv.com.vn_0" site_id="97||s935.cdn.mytvnet.vn/vimages/58/8a/a7/7c/c0/03/58a7c-pvngtu-channel-unkn.png" xmltv_id="Vũng Tàu HD">Vũng Tàu HD</channel>
+    <channel site="mytv.com.vn_0" site_id="120||s935.cdn.mytvnet.vn/vimages/7f/fc/cd/d0/05/5b/7fcd0-pqungbnh-channel-unkn.png" xmltv_id="Quảng Bình">Quảng Bình</channel>
+    <channel site="mytv.com.vn_0" site_id="121||s935.cdn.mytvnet.vn/vimages/4f/ff/f6/68/83/32/4ff68-pqungtr-channel-unkn.png" xmltv_id="Quảng Trị HD">Quảng Trị HD</channel>
+    <channel site="mytv.com.vn_0" site_id="168||s935.cdn.mytvnet.vn/vimages/d8/8b/b5/5c/c6/67/d8b5c-phutv1-channel-unkn.png" xmltv_id="Huế TV1">Huế TV1</channel>
+    <channel site="mytv.com.vn_0" site_id="409||s935.cdn.mytvnet.vn/vimages/75/57/7f/f6/66/63/757f6-pqungngitvhd-channel-unkn.png" xmltv_id="Quảng Ngãi TV (HD)">Quảng Ngãi TV (HD)</channel>
+    <channel site="mytv.com.vn_0" site_id="170||s935.cdn.mytvnet.vn/vimages/e1/14/44/41/15/5d/e1441-pbnhnhtv-channel-unkn.png" xmltv_id="Bình Định TV">Bình Định TV</channel>
+    <channel site="mytv.com.vn_0" site_id="245||s935.cdn.mytvnet.vn/vimages/a7/7b/be/e7/78/8d/a7be7-pphuyentv-channel-unkn.png" xmltv_id="PhuYenTV">PhuYenTV</channel>
+    <channel site="mytv.com.vn_0" site_id="114||s935.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png" xmltv_id="Khánh Hòa">Khánh Hòa</channel>
+    <channel site="mytv.com.vn_0" site_id="172||s935.cdn.mytvnet.vn/vimages/51/13/36/69/9d/d1/51369-pgialaitv-channel-unkn.png" xmltv_id="Gia Lai TV">Gia Lai TV</channel>
+    <channel site="mytv.com.vn_0" site_id="173||s935.cdn.mytvnet.vn/vimages/82/2b/bf/fa/a1/10/82bfa-pkontumtv-channel-unkn.png" xmltv_id="KonTum TV">KonTum TV</channel>
+    <channel site="mytv.com.vn_0" site_id="52||s935.cdn.mytvnet.vn/vimages/40/0f/fd/d3/3b/b6/40fd3-psctrng-channel-unkn.png" xmltv_id="Sóc Trăng">Sóc Trăng</channel>
+    <channel site="mytv.com.vn_0" site_id="175||s935.cdn.mytvnet.vn/vimages/ab/b9/9a/ae/ed/db/ab9ae-ptrvinhtv-channel-unkn.png" xmltv_id="Trà Vinh TV">Trà Vinh TV</channel>
+    <channel site="mytv.com.vn_0" site_id="176||s935.cdn.mytvnet.vn/vimages/85/54/42/2a/aa/a4/8542a-pninhthuntv-channel-unkn.png" xmltv_id="Ninh Thuận TV">Ninh Thuận TV</channel>
+    <channel site="mytv.com.vn_0" site_id="125||s935.cdn.mytvnet.vn/vimages/a2/20/08/85/51/1f/a2085-pbnhthun-channel-unkn.png" xmltv_id="Bình Thuận">Bình Thuận</channel>
+    <channel site="mytv.com.vn_0" site_id="57||s935.cdn.mytvnet.vn/vimages/db/b1/17/70/0b/bb/db170-pvnhphc-channel-unkn.png" xmltv_id="Vĩnh Phúc">Vĩnh Phúc</channel>
+    <channel site="mytv.com.vn_0" site_id="408||s935.cdn.mytvnet.vn/vimages/11/14/40/0e/e5/54/1140e-phngyntvhd-channel-unkn.png" xmltv_id="Hưng Yên TV HD">Hưng Yên TV HD</channel>
+    <channel site="mytv.com.vn_0" site_id="40||s935.cdn.mytvnet.vn/vimages/41/11/1f/f0/06/63/411f0-phnam-channel-unkn.png" xmltv_id="Hà Nam">Hà Nam</channel>
+    <channel site="mytv.com.vn_0" site_id="179||s935.cdn.mytvnet.vn/vimages/a7/72/2b/bf/f2/2e/a72bf-pqungnam-channel-unkn.png" xmltv_id="Quảng Nam">Quảng Nam</channel>
+    <channel site="mytv.com.vn_0" site_id="119||s935.cdn.mytvnet.vn/vimages/4f/f8/82/2f/f5/5e/4f82f-pbnhphc-channel-unkn.png" xmltv_id="Bình Phước">Bình Phước</channel>
+    <channel site="mytv.com.vn_0" site_id="180||s935.cdn.mytvnet.vn/vimages/6b/b9/95/5c/c6/6a/6b95c-pbcliutv-channel-unkn.png" xmltv_id="Bạc Liêu TV">Bạc Liêu TV</channel>
+    <channel site="mytv.com.vn_0" site_id="181||s935.cdn.mytvnet.vn/vimages/c7/7f/f7/7e/e0/03/c7f7e-phugiangtv-channel-unkn.png" xmltv_id="Hậu Giang TV">Hậu Giang TV</channel>
+    <channel site="mytv.com.vn_0" site_id="182||s935.cdn.mytvnet.vn/vimages/d8/87/7c/ce/ef/f2/d87ce-pbckntv-channel-unkn.png" xmltv_id="Bắc Kạn TV">Bắc Kạn TV</channel>
+    <channel site="mytv.com.vn_0" site_id="183||s935.cdn.mytvnet.vn/vimages/81/18/84/4d/de/ea/8184d-pbcgiangtv-channel-unkn.png" xmltv_id="Bắc Giang TV">Bắc Giang TV</channel>
+    <channel site="mytv.com.vn_0" site_id="360||s935.cdn.mytvnet.vn/vimages/e5/5f/ff/ff/f4/4c/e5fff-pbcninhhd-channel-unkn.png" xmltv_id="Bắc Ninh HD">Bắc Ninh HD</channel>
   </channels>
 </site>
