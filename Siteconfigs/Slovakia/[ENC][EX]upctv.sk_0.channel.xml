@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]upctv.sk_0">
+  <channels>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10001" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10002" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10003" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10004" xmltv_id="Doma HD">Doma HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10005" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10006" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10007" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10008" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10009" xmltv_id="WAU HD">WAU HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10193" xmltv_id="RTVS 24 HD">RTVS 24 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10011" xmltv_id="Jojko HD">Jojko HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10012" xmltv_id="TA3 HD">TA3 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10013" xmltv_id="TV LUX HD">TV LUX HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10185" xmltv_id="JOJ Sport HD">JOJ Sport HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10186" xmltv_id="RTVS Sport HD">RTVS Sport HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10014" xmltv_id="Folklorika HD">Folklorika HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10015" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10016" xmltv_id="SENZI HD">SENZI HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10018" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10019" xmltv_id="CT 2 HD">CT 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10020" xmltv_id="CT D HD / CT art HD">CT D HD / CT art HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10021" xmltv_id="CT 24 HD">CT 24 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10022" xmltv_id="Nova International HD">Nova International HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10023" xmltv_id="Prima PLUS HD">Prima PLUS HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10024" xmltv_id="AMC HD">AMC HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10198" xmltv_id="JOJ 24 HD">JOJ 24 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10025" xmltv_id="Seznam.cz TV HD">Seznam.cz TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10026" xmltv_id="CNN Prima News HD">CNN Prima News HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10027" xmltv_id="Prima KRIMI HD">Prima KRIMI HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10028" xmltv_id="Prima MAX HD">Prima MAX HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10029" xmltv_id="Prima COOL HD">Prima COOL HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10030" xmltv_id="Prima love HD">Prima love HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10031" xmltv_id="Prima ZOOM HD">Prima ZOOM HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10032" xmltv_id="Barrandov TV HD">Barrandov TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10033" xmltv_id="Barrandov Krimi HD">Barrandov Krimi HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10034" xmltv_id="Kino Barrandov HD">Kino Barrandov HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10035" xmltv_id="Noe TV HD">Noe TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10036" xmltv_id="Mnam TV HD">Mnam TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10037" xmltv_id="Mnau TV HD">Mnau TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10195" xmltv_id="TurboTV HD">TurboTV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10038" xmltv_id="TV Raj HD">TV Raj HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10039" xmltv_id="TV Ruzinov HD">TV Ruzinov HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10204" xmltv_id="TV Doktor HD">TV Doktor HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10199" xmltv_id="Skvele TV HD">Skvele TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10196" xmltv_id="Markiza Krimi HD">Markiza Krimi HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10043" xmltv_id="Film+ CZ HD">Film+ CZ HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10044" xmltv_id="FilmBox HD">FilmBox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10045" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10046" xmltv_id="CS Film CS Horror HD">CS Film CS Horror HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10047" xmltv_id="CS History HD">CS History HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10048" xmltv_id="CS Mystery HD">CS Mystery HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10049" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10051" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10052" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10055" xmltv_id="ID HD">ID HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10056" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10057" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10058" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10059" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10060" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10061" xmltv_id="Spektrum home HD">Spektrum home HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10062" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10063" xmltv_id="TV Paprika HD">TV Paprika HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10064" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10065" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10066" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10067" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10068" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10069" xmltv_id="Hobby TV HD">Hobby TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10070" xmltv_id="Park TV HD">Park TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10072" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10073" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10074" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10075" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10077" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10078" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10079" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10080" xmltv_id="Nova Sport 1 HD">Nova Sport 1 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10081" xmltv_id="Nova Sport 2 HD">Nova Sport 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10084" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10085" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10086" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10087" xmltv_id="JimJam">JimJam</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10088" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10089" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10090" xmltv_id="NickToons">NickToons</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10091" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10092" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10093" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10094" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10095" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10096" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10097" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10098" xmltv_id="Retro Music TV">Retro Music TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10101" xmltv_id="Slager original HD">Slager original HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10102" xmltv_id="Slager muzika HD">Slager muzika HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10103" xmltv_id="Slager Premium HD">Slager Premium HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10104" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10105" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10106" xmltv_id="RELAX">RELAX</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10203" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10197" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10108" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10109" xmltv_id="Deutsche Welle HD">Deutsche Welle HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10110" xmltv_id="CNBC Europe HD">CNBC Europe HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10111" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10112" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10115" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10116" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10117" xmltv_id="ORF III">ORF III</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10118" xmltv_id="TVP Polonia HD">TVP Polonia HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10190" xmltv_id="UATV">UATV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10192" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10194" xmltv_id="Current Time HD">Current Time HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10119" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10120" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10121" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10122" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10123" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10124" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10201" xmltv_id="FilmBox Arthouse HD">FilmBox Arthouse HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10125" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10126" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10200" xmltv_id="360 TuneBox HD">360 TuneBox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10127" xmltv_id="FilmBox Stars HD">FilmBox Stars HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10202" xmltv_id="FashionBox HD">FashionBox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10128" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10129" xmltv_id="Docubox HD">Docubox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10130" xmltv_id="Fast &amp; FunBox HD">Fast &amp; FunBox HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10131" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10134" xmltv_id="Leo TV HD">Leo TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10136" xmltv_id="Extasy HD">Extasy HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10187" xmltv_id="BabesTV HD">BabesTV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10188" xmltv_id="Brazzers TV HD">Brazzers TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10189" xmltv_id="Reality Kings HD">Reality Kings HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10137" xmltv_id="HirTV">HirTV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10138" xmltv_id="m1 HD">m1 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10139" xmltv_id="m2 HD">m2 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10140" xmltv_id="m5 HD">m5 HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10141" xmltv_id="m4 Sport HD">m4 Sport HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10142" xmltv_id="RTL HU">RTL HU</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10143" xmltv_id="RTL KETTO">RTL KETTO</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10145" xmltv_id="Duna World HD">Duna World HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10146" xmltv_id="Duna HD">Duna HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10147" xmltv_id="Magyar ATV">Magyar ATV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10148" xmltv_id="TV2">TV2</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10149" xmltv_id="Cool TV">Cool TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10150" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10151" xmltv_id="TV Paprika HU">TV Paprika HU</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10152" xmltv_id="Euronews HU">Euronews HU</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10153" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10154" xmltv_id="RTL HAROM">RTL HAROM</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10155" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10156" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10157" xmltv_id="Slager TV HD">Slager TV HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10158" xmltv_id="Story 4">Story 4</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10159" xmltv_id="Super TV2">Super TV2</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10160" xmltv_id="TV2Sef">TV2Sef</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10161" xmltv_id="TV2Klub">TV2Klub</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10162" xmltv_id="FILM+ HU">FILM+ HU</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10163" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10164" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10165" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10166" xmltv_id="RTL DE">RTL DE</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10167" xmltv_id="RTL Zwei">RTL Zwei</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10168" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10169" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10170" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10171" xmltv_id="Nitro">Nitro</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10173" xmltv_id="Dom Kino PREMIUM HD">Dom Kino PREMIUM HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10174" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10175" xmltv_id="Vremja">Vremja</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10176" xmltv_id="Poekhali!">Poekhali!</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10177" xmltv_id="Telecafe">Telecafe</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10178" xmltv_id="Bober">Bober</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10179" xmltv_id="Pobeda">Pobeda</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10180" xmltv_id="Carousel">Carousel</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10181" xmltv_id="O!">O!</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10182" xmltv_id="Muzika Pervogo">Muzika Pervogo</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12101" xmltv_id="TV Bratislava">TV Bratislava</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12102" xmltv_id="Zapadoslovenska TV">Zapadoslovenska TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12103" xmltv_id="Mestska TV Trnava">Mestska TV Trnava</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12104" xmltv_id="TV Nitricka">TV Nitricka</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12105" xmltv_id="TV7 Presov">TV7 Presov</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12106" xmltv_id="TV Reduta (SNV)">TV Reduta (SNV)</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12107" xmltv_id="RTV Krea">RTV Krea</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12108" xmltv_id="DSTV">DSTV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12109" xmltv_id="Bardejovska TV (BTV)">Bardejovska TV (BTV)</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12110" xmltv_id="TV Poprad">TV Poprad</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12111" xmltv_id="TV Hronka">TV Hronka</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12112" xmltv_id="Levicka TV LTS">Levicka TV LTS</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12113" xmltv_id="TV Stara Tura">TV Stara Tura</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12114" xmltv_id="Banovska TV">Banovska TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12115" xmltv_id="Hlohovska TV">Hlohovska TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12116" xmltv_id="TV Mistral">TV Mistral</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12117" xmltv_id="ATV Ziar nad Hronom">ATV Ziar nad Hronom</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12118" xmltv_id="Roznavska TV (RVTV)">Roznavska TV (RVTV)</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12119" xmltv_id="TV Dolny Kubin">TV Dolny Kubin</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12120" xmltv_id="B52 Vranovska TV">B52 Vranovska TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12121" xmltv_id="TOP TV Topolniky">TOP TV Topolniky</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12122" xmltv_id="Lubovnianska TV">Lubovnianska TV</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12123" xmltv_id="TV Nove Zamky">TV Nove Zamky</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12124" xmltv_id="TV Moldava">TV Moldava</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="12125" xmltv_id="TV Vita">TV Vita</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="10184" xmltv_id="TV Romana HD">TV Romana HD</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11101" xmltv_id="Radio Slovensko">Radio Slovensko</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11102" xmltv_id="Radio Slovakia">Radio Slovakia</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11103" xmltv_id="Radio _FM">Radio _FM</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11104" xmltv_id="Radio Devin">Radio Devin</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11105" xmltv_id="Regina Zapad">Regina Zapad</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11106" xmltv_id="Regina Stred">Regina Stred</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11107" xmltv_id="Regina Vychod">Regina Vychod</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11108" xmltv_id="Lumen">Lumen</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11109" xmltv_id="Radio Litera">Radio Litera</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11110" xmltv_id="Radio Patria">Radio Patria</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11111" xmltv_id="Radio Junior">Radio Junior</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11112" xmltv_id="Radio Expres">Radio Expres</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11113" xmltv_id="Europa 2">Europa 2</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11114" xmltv_id="Radio Pyramida">Radio Pyramida</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11116" xmltv_id="Radio Melody">Radio Melody</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11117" xmltv_id="Radio Vlna">Radio Vlna</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11118" xmltv_id="Radio 7">Radio 7</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11119" xmltv_id="Fun Radio">Fun Radio</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11121" xmltv_id="Radio SiTy">Radio SiTy</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11122" xmltv_id="CRo Radiozurnal">CRo Radiozurnal</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11123" xmltv_id="CRo Dvojka">CRo Dvojka</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11124" xmltv_id="CRo Vltava">CRo Vltava</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11125" xmltv_id="CRo Plus">CRo Plus</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11126" xmltv_id="CRo Radio Junior">CRo Radio Junior</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11127" xmltv_id="CRo Radio Wave">CRo Radio Wave</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11128" xmltv_id="CRo D-Dur">CRo D-Dur</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11129" xmltv_id="CRo Jazz">CRo Jazz</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11132" xmltv_id="Bartok Radio">Bartok Radio</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11133" xmltv_id="Kossuth Radio">Kossuth Radio</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11134" xmltv_id="Petofi Radio">Petofi Radio</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11135" xmltv_id="Sky Radio">Sky Radio</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11136" xmltv_id="Veronica">Veronica</channel>
+    <channel site="[ENC][EX]upctv.sk_0" site_id="11137" xmltv_id="Classic FM">Classic FM</channel>
+  </channels>
+</site>
