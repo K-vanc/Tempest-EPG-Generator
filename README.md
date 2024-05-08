@@ -75,6 +75,9 @@ Once you run Tempest, you can choose one of the modes from drop-down list as;<br
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Channel Generator => You can generate channel list from choosen website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Editor => You can edit/modify or delete choosen website configuration file
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Tempest Configurator => You can create/edit or delete choosen Tempest Configuration file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Siteconfig Updater => You can download the most recent siteconfig folder into your system as zip file
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 Tempest Updater => You can update Tempest into the latest version
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🔹 XML Merger => You can merge multiple choosen EPG files into a single file
 <br><br>Also you can download ready-to-use website configuration files from repo and paste into tempest_config/site_config subfolder to use. 
 ## How can I create my own website configurations with Tempest?
 To create your own website configuration(siteconfig) files, you will need an internet browser with "inspection" feature in order to find data urls and required url parameters. Then all these data may be inserted to predefined slots of "Siteconfig Maker". Tempest supports total of 10 async urls (4 for indexing, 2 for additional detail pages and 4 for channel list creating) which may be used with GET,POST,HEAD,OPTIONS,DELETE and PUT request methods. For scrapping EPG data from captured url response, you will also need basic level of regex(regular expression) knowledge which lots of how-to website may be found in internet, as minimum. Once you click "Save" button, your siteconfig file will be created in tempest_config/site_config subfolder. Regarding how to use XMLTV elements and Tempest command syntax, please take a look into **TempestWiki** document.
