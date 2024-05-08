@@ -170,6 +170,10 @@ You can also make the same settings via Docker Desktop;<br>
 
 <p align="center"><img src="https://github.com/K-vanc/Tempest-EPG-Generator/assets/97025515/b630224b-b9ec-437c-8822-0d836a73b7f4"></p>
 
+Note: Tempest can be updated via built-in updater without need of container re-building. Please check for updates after running Tempest via GUI "Tempest Updater" option or via CLI Tempest Update command;
+
+    docker exec -u root yourcontainername php /var/www/html/tempest.php --update
+
 Note: Please consider that this docker image created for Operating Systems which are not natively support php and/or web servers, with consideration of small container size and low amount of memory usage so this is not a full performance build. I am also planning to make some performance and php-cli-only builds in the future. If your system natively supports php, I recommend you to directly go through tempest.php file.<br><br>
 
 <br>
