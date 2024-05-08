@@ -52,6 +52,7 @@ Tempest is a fully programmable XMLTV formatted EPG(Electronic Program Guide) ge
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In File Downloader (via GUI) & Gz/Zip Compression Support
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In Configuration Updater to Download Latest Revisions
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In Tempest Updater to Update Tempest Version
+<br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Built-In XMLMerger Module to Combine Multiple EPG Files into Single
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Multiple Configuration File Support Up to 5000 Channels For Each
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Scheduled Operations (such as crontab etc.)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;✔ Remote Access, Operations & Downloading (port-forwarding required)
