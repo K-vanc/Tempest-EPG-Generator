@@ -161,7 +161,7 @@ If you need to change php timezone, I suggest you to change also docker containe
 
 To run Tempest out of container or to use on scheduled operations such as Scheduled Tasks or Cron, you may use below command to run it as root user;
 
-    docker exec -u root yourcontainername php /var/www/html/tempest.php engine=Generate
+    docker exec -u root yourcontainername php /var/www/html/tempest.php --epg
 
 Please replace "yourcontainername" part with name of your Tempest container. This command can be used with all other Tempest Cli commands and arguments(Channel Creation, Update etc.) for running Tempest out of container.<br>
 
