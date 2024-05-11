@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]ishow.gr_0">
+  <channels>
+    <channel site="[ENC]ishow.gr_0" site_id="1" xmltv_id="MEGA">MEGA</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="2" xmltv_id="ANT1">ANT1</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="3" xmltv_id="ALPHA">ALPHA</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="4" xmltv_id="STAR">STAR</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="9" xmltv_id="ΣΚΑΙ">ΣΚΑΙ</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="122" xmltv_id="Open Beyond TV">Open Beyond TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="123" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="124" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="155" xmltv_id="ΕΡΤ3">ΕΡΤ3</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="10" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="157" xmltv_id="ONE Channel HD">ONE Channel HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="104" xmltv_id="Action24">Action24</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="43" xmltv_id="Μακεδονία TV">Μακεδονία TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="88" xmltv_id="4Ε">4Ε</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="64" xmltv_id="Cosmote Cinema 1 HD">Cosmote Cinema 1 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="65" xmltv_id="Cosmote Cinema 2 HD">Cosmote Cinema 2 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="66" xmltv_id="Cosmote Cinema 3">Cosmote Cinema 3</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="31" xmltv_id="novacinema1">novacinema1</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="32" xmltv_id="novacinema2">novacinema2</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="33" xmltv_id="novacinema3">novacinema3</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="61" xmltv_id="novacinema4">novacinema4</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="105" xmltv_id="novalifε">novalifε</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="135" xmltv_id="Cosmote Series HD">Cosmote Series HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="77" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="177" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="67" xmltv_id="Cosmote Sport 1 HD">Cosmote Sport 1 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="68" xmltv_id="Cosmote Sport 2 HD">Cosmote Sport 2 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="69" xmltv_id="Cosmote Sport 3 HD">Cosmote Sport 3 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="70" xmltv_id="Cosmote Sport 4 HD">Cosmote Sport 4 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="121" xmltv_id="Cosmote Sport 5 HD">Cosmote Sport 5 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="130" xmltv_id="Cosmote Sport 6 HD">Cosmote Sport 6 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="156" xmltv_id="novasports start">novasports start</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="34" xmltv_id="novasports1">novasports1</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="158" xmltv_id="novasports prime">novasports prime</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="37" xmltv_id="novasports2">novasports2</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="38" xmltv_id="novasports3">novasports3</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="39" xmltv_id="novasports4">novasports4</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="148" xmltv_id="novasports5">novasports5</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="41" xmltv_id="novasports6">novasports6</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="22" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="23" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="40" xmltv_id="novasports Premier League">novasports Premier League</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="91" xmltv_id="Motorvision Channel HD">Motorvision Channel HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="140" xmltv_id="Nautilcal Channel">Nautilcal Channel</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="25" xmltv_id="Cosmote History HD">Cosmote History HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="125" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="72" xmltv_id="NatGeo Wild HD">NatGeo Wild HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="137" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="178" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="179" xmltv_id="Da Vinci HD">Da Vinci HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="20" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="129" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="142" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="143" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="17" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="162" xmltv_id="Museum TV">Museum TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="16" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="144" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="51" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="115" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="53" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="52" xmltv_id="BBC World">BBC World</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="112" xmltv_id="France 24 En">France 24 En</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="164" xmltv_id="France 24 Fr">France 24 Fr</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="111" xmltv_id="DW">DW</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="154" xmltv_id="ERT World">ERT World</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="161" xmltv_id="Euronews Greek">Euronews Greek</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="163" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="165" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="48" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="166" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="139" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="18" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="167" xmltv_id="Smile TV">Smile TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="118" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="169" xmltv_id="IDJKids">IDJKids</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="168" xmltv_id="ducktv">ducktv</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="12" xmltv_id="MAD TV">MAD TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="54" xmltv_id="Nova MAD Greekζ">Nova MAD Greekζ</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="172" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="173" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="176" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="174" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="56" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="109" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="108" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="170" xmltv_id="MAD Viral HD">MAD Viral HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="175" xmltv_id="NR1 HD">NR1 HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="171" xmltv_id="Panik TV">Panik TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="119" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="136" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="71" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="150" xmltv_id="My Zen TV">My Zen TV</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="21" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel site="[ENC]ishow.gr_0" site_id="138" xmltv_id="Food Network">Food Network</channel>
+  </channels>
+</site>
