@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tvschedule.today_0">
+  <channels>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;flix-hd" xmltv_id="&amp;Flix HD">&amp;Flix HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;prive-hd" xmltv_id="&amp;Prive HD">&amp;Prive HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;tv" xmltv_id="&amp;TV">&amp;TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;xplor-hd" xmltv_id="&amp;Xplor HD">&amp;Xplor HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;flix" xmltv_id="&amp;flix">&amp;flix</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;pictures" xmltv_id="&amp;pictures">&amp;pictures</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;pictures-hd" xmltv_id="&amp;pictures HD">&amp;pictures HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="&amp;tv-hd" xmltv_id="&amp;tv HD">&amp;tv HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="10-tv" xmltv_id="10 TV">10 TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="1st-gujarat" xmltv_id="1st Gujarat">1st Gujarat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="35-mm" xmltv_id="35 MM">35 MM</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="4tv-news" xmltv_id="4tv News">4tv News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="6tv" xmltv_id="6TV">6TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="7x-music" xmltv_id="7x Music">7x Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="9x-jalwa" xmltv_id="9X Jalwa">9X Jalwa</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="9xm" xmltv_id="9XM">9XM</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ab-star-news" xmltv_id="AB STAR News">AB STAR News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abc-news" xmltv_id="ABC News">ABC News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abn-andhra-jyothy" xmltv_id="ABN Andhra Jyothy">ABN Andhra Jyothy</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abp-ananda" xmltv_id="ABP Ananda">ABP Ananda</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abp-asmita" xmltv_id="ABP Asmita">ABP Asmita</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abp-majha" xmltv_id="ABP Majha">ABP Majha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="abp-news" xmltv_id="ABP News">ABP News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-assam-special" xmltv_id="ALIAS ASSAM SPECIAL">ALIAS ASSAM SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-bangla-special" xmltv_id="ALIAS BANGLA SPECIAL">ALIAS BANGLA SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-gujarati-special" xmltv_id="ALIAS GUJARATI SPECIAL">ALIAS GUJARATI SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-hindi-special" xmltv_id="ALIAS HINDI SPECIAL">ALIAS HINDI SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-kannada-special" xmltv_id="ALIAS KANNADA SPECIAL">ALIAS KANNADA SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-malayalam-special" xmltv_id="ALIAS MALAYALAM SPECIAL">ALIAS MALAYALAM SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-marathi-special" xmltv_id="ALIAS MARATHI SPECIAL">ALIAS MARATHI SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-punjabi-special" xmltv_id="ALIAS PUNJABI SPECIAL">ALIAS PUNJABI SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-tamil-special" xmltv_id="ALIAS TAMIL SPECIAL">ALIAS TAMIL SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-telugu-special" xmltv_id="ALIAS TELUGU SPECIAL">ALIAS TELUGU SPECIAL</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="all-time-movies" xmltv_id="ALL Time MOVIES">ALL Time MOVIES</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="anb-news" xmltv_id="ANB NEWS">ANB NEWS</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ann-news" xmltv_id="ANN News">ANN News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="apn-news" xmltv_id="APN News">APN News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aadinath-tv" xmltv_id="Aadinath TV">Aadinath TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aaj-ki-khabar" xmltv_id="Aaj Ki Khabar">Aaj Ki Khabar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aaj-tak" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aaj-tak-hd" xmltv_id="Aaj Tak HD">Aaj Tak HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aakaash-aath" xmltv_id="Aakaash Aath">Aakaash Aath</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aastha" xmltv_id="Aastha">Aastha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aastha-bhajan" xmltv_id="Aastha Bhajan">Aastha Bhajan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aastha-gujarati" xmltv_id="Aastha Gujarati">Aastha Gujarati</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="action-cinema" xmltv_id="Action Cinema">Action Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="adithya-tv" xmltv_id="Adithya TV">Adithya TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alankar" xmltv_id="Alankar">Alankar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="alias-to-2018" xmltv_id="Alias to 2018">Alias to 2018</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="amrita-tv" xmltv_id="Amrita TV">Amrita TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="anaadi-tv" xmltv_id="Anaadi TV">Anaadi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="angel-tv" xmltv_id="Angel TV">Angel TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="animal-planet-hd-world" xmltv_id="Animal Planet HD World">Animal Planet HD World</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="anjan-tv" xmltv_id="Anjan TV">Anjan TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aradana-tv" xmltv_id="Aradana TV">Aradana TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="argus-news" xmltv_id="Argus News">Argus News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="aryan-tv-national" xmltv_id="Aryan TV National">Aryan TV National</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asian-news" xmltv_id="Asian News">Asian News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet" xmltv_id="Asianet">Asianet</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-hd" xmltv_id="Asianet HD">Asianet HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-movies" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-movies" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-movies-hd" xmltv_id="Asianet Movies HD">Asianet Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-news" xmltv_id="Asianet News">Asianet News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-plus" xmltv_id="Asianet Plus">Asianet Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-plus" xmltv_id="Asianet Plus">Asianet Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="asianet-suvarna-news" xmltv_id="Asianet Suvarna News">Asianet Suvarna News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="atmadarshan" xmltv_id="Atmadarshan">Atmadarshan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="australia-tv" xmltv_id="Australia TV">Australia TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="awakening" xmltv_id="Awakening">Awakening</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ayush-tv" xmltv_id="Ayush TV">Ayush TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="azaad" xmltv_id="Azaad">Azaad</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="b4u-bhojpuri" xmltv_id="B4U Bhojpuri">B4U Bhojpuri</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="b4u-kadak" xmltv_id="B4U Kadak">B4U Kadak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="b4u-movies" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="b4u-music" xmltv_id="B4U Music">B4U Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bflix" xmltv_id="BFLIX">BFLIX</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="big-tv-telugu" xmltv_id="BIG TV Telugu">BIG TV Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="brk-news" xmltv_id="BRK News">BRK News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bada-khabar" xmltv_id="Bada Khabar">Bada Khabar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bangla-bhakti" xmltv_id="Bangla Bhakti">Bangla Bhakti</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bangla-cinema-promo" xmltv_id="Bangla Cinema Promo">Bangla Cinema Promo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bangla-cinema-promo" xmltv_id="Bangla Cinema Promo">Bangla Cinema Promo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bansal-news" xmltv_id="Bansal News">Bansal News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="beauty-and-fashion-tips" xmltv_id="Beauty and Fashion Tips">Beauty and Fashion Tips</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bhakti-tv" xmltv_id="Bhakti TV">Bhakti TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bharat-24" xmltv_id="Bharat 24">Bharat 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bharat-express" xmltv_id="Bharat Express">Bharat Express</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bharat-samachar" xmltv_id="Bharat Samachar">Bharat Samachar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bhojpuri-cinema" xmltv_id="Bhojpuri Cinema">Bhojpuri Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="big-magic" xmltv_id="Big Magic">Big Magic</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bless-tv" xmltv_id="Bless TV">Bless TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bloomberg-television" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bollywood-premiere" xmltv_id="Bollywood Premiere">Bollywood Premiere</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="bollywoodp" xmltv_id="BollywoodP">BollywoodP</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="c-news-bharat" xmltv_id="C News Bharat">C News Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cbeebies" xmltv_id="CBeeBies">CBeeBies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="channel-36--up/uk" xmltv_id="CHANNEL 36- UP/UK">CHANNEL 36- UP/UK</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnbc-awaaz" xmltv_id="CNBC Awaaz">CNBC Awaaz</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnbc-bajaar" xmltv_id="CNBC Bajaar">CNBC Bajaar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnbc-tv18-prime-hd" xmltv_id="CNBC TV18 Prime HD">CNBC TV18 Prime HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnbc-tv18" xmltv_id="CNBC-TV18">CNBC-TV18</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cnn-news18" xmltv_id="CNN News18">CNN News18</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ctvn-akd-plus" xmltv_id="CTVN AKD Plus">CTVN AKD Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="calcutta-news" xmltv_id="Calcutta News">Calcutta News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="calvary-tv" xmltv_id="Calvary TV">Calvary TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="cartoon-network-hd+" xmltv_id="Cartoon Network HD+">Cartoon Network HD+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4003" xmltv_id="Ch 100 4003">Ch 100 4003</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4004" xmltv_id="Ch 100 4004">Ch 100 4004</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4005" xmltv_id="Ch 100 4005">Ch 100 4005</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4006" xmltv_id="Ch 100 4006">Ch 100 4006</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4007" xmltv_id="Ch 100 4007">Ch 100 4007</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4008" xmltv_id="Ch 100 4008">Ch 100 4008</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4009" xmltv_id="Ch 100 4009">Ch 100 4009</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4010" xmltv_id="Ch 100 4010">Ch 100 4010</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4011" xmltv_id="Ch 100 4011">Ch 100 4011</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4012" xmltv_id="Ch 100 4012">Ch 100 4012</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4013" xmltv_id="Ch 100 4013">Ch 100 4013</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4014" xmltv_id="Ch 100 4014">Ch 100 4014</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4015" xmltv_id="Ch 100 4015">Ch 100 4015</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4016" xmltv_id="Ch 100 4016">Ch 100 4016</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4017" xmltv_id="Ch 100 4017">Ch 100 4017</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-4018" xmltv_id="Ch 100 4018">Ch 100 4018</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ch-100-binge" xmltv_id="Ch 100 Binge">Ch 100 Binge</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="channel-news-asia" xmltv_id="Channel News Asia">Channel News Asia</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="channel-promos" xmltv_id="Channel Promos">Channel Promos</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="channel-win" xmltv_id="Channel WIN">Channel WIN</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="chardikla-time-tv" xmltv_id="Chardikla Time TV">Chardikla Time TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="chintu-tv" xmltv_id="Chintu TV">Chintu TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="chithiram" xmltv_id="Chithiram">Chithiram</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="chumbak-tv" xmltv_id="Chumbak TV">Chumbak TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="chutti-tv" xmltv_id="Chutti TV">Chutti TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="classic-cinema" xmltv_id="Classic Cinema">Classic Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors" xmltv_id="Colors">Colors</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-bangla" xmltv_id="Colors Bangla">Colors Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-bangla-cinema" xmltv_id="Colors Bangla Cinema">Colors Bangla Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-bangla-hd" xmltv_id="Colors Bangla HD">Colors Bangla HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-cineplex" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-cineplex-bollywood" xmltv_id="Colors Cineplex Bollywood">Colors Cineplex Bollywood</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-cineplex-hd" xmltv_id="Colors Cineplex HD">Colors Cineplex HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-cineplex-superhits" xmltv_id="Colors Cineplex Superhits">Colors Cineplex Superhits</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-gujarati" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-gujarati-cinema" xmltv_id="Colors Gujarati Cinema">Colors Gujarati Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-hd" xmltv_id="Colors HD">Colors HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-hd-+1" xmltv_id="Colors HD +1">Colors HD +1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-infinity" xmltv_id="Colors Infinity">Colors Infinity</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-infinity-hd" xmltv_id="Colors Infinity HD">Colors Infinity HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-kannada" xmltv_id="Colors Kannada">Colors Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-kannada-cinema" xmltv_id="Colors Kannada Cinema">Colors Kannada Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-kannada-hd" xmltv_id="Colors Kannada HD">Colors Kannada HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-marathi" xmltv_id="Colors Marathi">Colors Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-marathi-hd" xmltv_id="Colors Marathi HD">Colors Marathi HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-oriya" xmltv_id="Colors Oriya">Colors Oriya</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-rishtey" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-super" xmltv_id="Colors SUPER">Colors SUPER</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-tamil" xmltv_id="Colors Tamil">Colors Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="colors-tamil-hd" xmltv_id="Colors Tamil HD">Colors Tamil HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="d-tamil" xmltv_id="D Tamil">D Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-arunprabha" xmltv_id="DD Arunprabha">DD Arunprabha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-bangla" xmltv_id="DD Bangla">DD Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-bharati" xmltv_id="DD Bharati">DD Bharati</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-bihar" xmltv_id="DD Bihar">DD Bihar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-chandana" xmltv_id="DD Chandana">DD Chandana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-chhattisgarh" xmltv_id="DD Chhattisgarh">DD Chhattisgarh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-girnar" xmltv_id="DD Girnar">DD Girnar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-goa" xmltv_id="DD Goa">DD Goa</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-gyan-darshan" xmltv_id="DD Gyan Darshan">DD Gyan Darshan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-haryana" xmltv_id="DD Haryana">DD Haryana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-himachal" xmltv_id="DD Himachal">DD Himachal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-india" xmltv_id="DD India">DD India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-india-hd" xmltv_id="DD India HD">DD India HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-jharkhand" xmltv_id="DD Jharkhand">DD Jharkhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-kashir" xmltv_id="DD Kashir">DD Kashir</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-kisan" xmltv_id="DD Kisan">DD Kisan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-madhya-pradesh" xmltv_id="DD Madhya Pradesh">DD Madhya Pradesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-malayalam" xmltv_id="DD Malayalam">DD Malayalam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-manipur" xmltv_id="DD Manipur">DD Manipur</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-meghalaya" xmltv_id="DD Meghalaya">DD Meghalaya</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-mizoram" xmltv_id="DD Mizoram">DD Mizoram</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-nagaland" xmltv_id="DD Nagaland">DD Nagaland</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-national" xmltv_id="DD National">DD National</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-national-hd" xmltv_id="DD National HD">DD National HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-news" xmltv_id="DD News">DD News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-news-hd" xmltv_id="DD News HD">DD News HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-north-east" xmltv_id="DD North East">DD North East</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-odia" xmltv_id="DD Odia">DD Odia</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-port-blair" xmltv_id="DD Port Blair">DD Port Blair</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-punjabi" xmltv_id="DD Punjabi">DD Punjabi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-rajasthan" xmltv_id="DD Rajasthan">DD Rajasthan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-sahyadri" xmltv_id="DD Sahyadri">DD Sahyadri</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-saptagiri" xmltv_id="DD Saptagiri">DD Saptagiri</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-sports" xmltv_id="DD Sports">DD Sports</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-sports-hd" xmltv_id="DD Sports HD">DD Sports HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-tamil" xmltv_id="DD Tamil">DD Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-tripura" xmltv_id="DD Tripura">DD Tripura</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-urdu" xmltv_id="DD Urdu">DD Urdu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-uttar-pradesh" xmltv_id="DD Uttar Pradesh">DD Uttar Pradesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-uttarakhand" xmltv_id="DD Uttarakhand">DD Uttarakhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dd-yadagiri" xmltv_id="DD Yadagiri">DD Yadagiri</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="divya" xmltv_id="DIVYA">DIVYA</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dw" xmltv_id="DW">DW</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dy-365" xmltv_id="DY 365">DY 365</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="daiji-world-tv" xmltv_id="Daiji World TV">Daiji World TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="daily-post-punjab-haryana-himachal" xmltv_id="Daily Post Punjab Haryana Himachal">Daily Post Punjab Haryana Himachal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dangal" xmltv_id="Dangal">Dangal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dangal-2" xmltv_id="Dangal 2">Dangal 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="decode---data" xmltv_id="Decode - Data">Decode - Data</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="deployment-channel-19.0" xmltv_id="Deployment channel 19.0">Deployment channel 19.0</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="desh-news" xmltv_id="Desh News">Desh News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="dharma-sandesh" xmltv_id="Dharma Sandesh">Dharma Sandesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="discovery-hd-world" xmltv_id="Discovery HD World">Discovery HD World</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="discovery-kids" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="discovery-turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="disney" xmltv_id="Disney">Disney</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="disney-channel-hd" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="disney-international-hd" xmltv_id="Disney International HD">Disney International HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="e24" xmltv_id="E24">E24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="epic" xmltv_id="EPIC">EPIC</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="et-now" xmltv_id="ET NOW">ET NOW</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="et-now-swadesh" xmltv_id="ET Now Swadesh">ET Now Swadesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-abhiruchi" xmltv_id="ETV Abhiruchi">ETV Abhiruchi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-andhra-pradesh" xmltv_id="ETV Andhra Pradesh">ETV Andhra Pradesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-bal-bharat" xmltv_id="ETV Bal Bharat">ETV Bal Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-bal-bharat-hd" xmltv_id="ETV Bal Bharat HD">ETV Bal Bharat HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-cinema" xmltv_id="ETV Cinema">ETV Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-cinema-hd" xmltv_id="ETV Cinema HD">ETV Cinema HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-hd" xmltv_id="ETV HD">ETV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-life" xmltv_id="ETV Life">ETV Life</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-plus" xmltv_id="ETV Plus">ETV Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-plus-hd" xmltv_id="ETV Plus HD">ETV Plus HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-telangana" xmltv_id="ETV Telangana">ETV Telangana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="etv-telugu" xmltv_id="ETV Telugu">ETV Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ek-onkar" xmltv_id="Ek Onkar">Ek Onkar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-baiscope" xmltv_id="Ekamra Baiscope">Ekamra Baiscope</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-bharat-odia" xmltv_id="Ekamra Bharat Odia">Ekamra Bharat Odia</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-cynema" xmltv_id="Ekamra Cynema">Ekamra Cynema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-jatra" xmltv_id="Ekamra Jatra">Ekamra Jatra</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-manoranjan" xmltv_id="Ekamra Manoranjan">Ekamra Manoranjan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-music" xmltv_id="Ekamra Music">Ekamra Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-nilachakra" xmltv_id="Ekamra Nilachakra">Ekamra Nilachakra</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-one-paschima" xmltv_id="Ekamra One paschima">Ekamra One paschima</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-paramatma" xmltv_id="Ekamra Paramatma">Ekamra Paramatma</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ekamra-snews" xmltv_id="Ekamra snews">Ekamra snews</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="engage---star-cam" xmltv_id="Engage - Star Cam">Engage - Star Cam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="enterr10-bangla" xmltv_id="Enterr10 Bangla">Enterr10 Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="eurosport-hd" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="fm-news" xmltv_id="FM News">FM News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="fakt-marathi" xmltv_id="Fakt Marathi">Fakt Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="fateh-tv" xmltv_id="Fateh TV">Fateh TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="filamchi-bhojpuri" xmltv_id="Filamchi Bhojpuri">Filamchi Bhojpuri</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="first-india-rajasthan" xmltv_id="First India Rajasthan">First India Rajasthan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="flowers" xmltv_id="Flowers">Flowers</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="food-food" xmltv_id="Food Food">Food Food</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="foodxp" xmltv_id="Foodxp">Foodxp</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="france-24" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="good-times" xmltv_id="GOOD TiMES">GOOD TiMES</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gsat" xmltv_id="GSAT">GSAT</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="garv-gurbani" xmltv_id="Garv Gurbani">Garv Gurbani</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-comedy" xmltv_id="Gemini Comedy">Gemini Comedy</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-life" xmltv_id="Gemini Life">Gemini Life</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-movies" xmltv_id="Gemini Movies">Gemini Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-movies-hd" xmltv_id="Gemini Movies HD">Gemini Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-music" xmltv_id="Gemini Music">Gemini Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-tv" xmltv_id="Gemini TV">Gemini TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gemini-tv-hd" xmltv_id="Gemini TV HD">Gemini TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="global-india" xmltv_id="Global India">Global India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="global-punjab-tv" xmltv_id="Global Punjab TV">Global Punjab TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="god-tv" xmltv_id="God TV">God TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="goldmines" xmltv_id="Goldmines">Goldmines</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="good-news-today" xmltv_id="Good News Today">Good News Today</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="goodness" xmltv_id="Goodness">Goodness</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="green-chillies-tv" xmltv_id="Green Chillies TV">Green Chillies TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gubbare" xmltv_id="Gubbare">Gubbare</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gujarat-samachar-tv" xmltv_id="Gujarat Samachar TV">Gujarat Samachar TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="gulistan-news" xmltv_id="Gulistan News">Gulistan News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hm-tv" xmltv_id="HM TV">HM TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hnn-news" xmltv_id="HNN News">HNN News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="har-khabar" xmltv_id="Har Khabar">Har Khabar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hare-krsna" xmltv_id="Hare Krsna">Hare Krsna</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="harvest-tv-24x7" xmltv_id="Harvest TV 24x7">Harvest TV 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="haryana-beats" xmltv_id="Haryana Beats">Haryana Beats</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="haryana-buzz" xmltv_id="Haryana Buzz">Haryana Buzz</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="headlines-tripura" xmltv_id="Headlines Tripura">Headlines Tripura</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hindi-khabar" xmltv_id="Hindi Khabar">Hindi Khabar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hindu-dharmam" xmltv_id="Hindu Dharmam">Hindu Dharmam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="history-tv18" xmltv_id="History TV18">History TV18</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="history-tv18-hd" xmltv_id="History TV18 HD">History TV18 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hornbill-tv" xmltv_id="Hornbill TV">Hornbill TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="hungama" xmltv_id="Hungama">Hungama</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ibc-24" xmltv_id="IBC 24">IBC 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-today" xmltv_id="INDIA TODAY">INDIA TODAY</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="inh-24x7" xmltv_id="INH 24X7">INH 24X7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="insat" xmltv_id="INSAT">INSAT</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="iskcon-mumbai" xmltv_id="ISKCON Mumbai">ISKCON Mumbai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="in-goa-24x7" xmltv_id="In Goa 24x7">In Goa 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="in24-news" xmltv_id="In24 News">In24 News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-24x7" xmltv_id="India 24x7">India 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-daily-live" xmltv_id="India Daily Live">India Daily Live</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news" xmltv_id="India News">India News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-gujarat" xmltv_id="India News Gujarat">India News Gujarat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-haryana" xmltv_id="India News Haryana">India News Haryana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-mp-cg" xmltv_id="India News MP CG">India News MP CG</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-punjab" xmltv_id="India News Punjab">India News Punjab</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-rajasthan" xmltv_id="India News Rajasthan">India News Rajasthan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-news-up-uk" xmltv_id="India News UP UK">India News UP UK</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-tv" xmltv_id="India TV">India TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="india-voice" xmltv_id="India Voice">India Voice</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="indian-news" xmltv_id="Indian News">Indian News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="indradhanu" xmltv_id="Indradhanu">Indradhanu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="investigation-discovery-hd" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="isaiaruvi" xmltv_id="Isaiaruvi">Isaiaruvi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ishara" xmltv_id="Ishara">Ishara</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ishwar-tv" xmltv_id="Ishwar TV">Ishwar TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="j-movies" xmltv_id="J Movies">J Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jai-maharashtra" xmltv_id="Jai Maharashtra">Jai Maharashtra</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jaihind-tv" xmltv_id="Jaihind TV">Jaihind TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jalsha-movies" xmltv_id="Jalsha Movies">Jalsha Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jalsha-movies-hd" xmltv_id="Jalsha Movies HD">Jalsha Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jan-tv" xmltv_id="Jan TV">Jan TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="janam-tv" xmltv_id="Janam TV">Janam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jansetu" xmltv_id="Jansetu">Jansetu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="janta-tv" xmltv_id="Janta TV">Janta TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jantantra-tv" xmltv_id="Jantantra TV">Jantantra TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jay-jagannath" xmltv_id="Jay Jagannath">Jay Jagannath</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jaya-max" xmltv_id="Jaya Max">Jaya Max</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jaya-plus" xmltv_id="Jaya Plus">Jaya Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jaya-tv-hd" xmltv_id="Jaya TV HD">Jaya TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jeevan-tv" xmltv_id="Jeevan TV">Jeevan TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jeewan-bhakti" xmltv_id="Jeewan Bhakti">Jeewan Bhakti</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jinvani-channel" xmltv_id="Jinvani Channel">Jinvani Channel</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jonack-tv" xmltv_id="Jonack TV">Jonack TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="jothi-tv" xmltv_id="Jothi TV">Jothi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kbc-news" xmltv_id="KBC News">KBC News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ktv" xmltv_id="KTV">KTV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ktv-hd" xmltv_id="KTV HD">KTV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kairali-news" xmltv_id="Kairali News">Kairali News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kairali-tv" xmltv_id="Kairali TV">Kairali TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kalaignar-tv" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kalinga-bharat" xmltv_id="Kalinga Bharat">Kalinga Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kalinga-tv" xmltv_id="Kalinga TV">Kalinga TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kanak-news" xmltv_id="Kanak News">Kanak News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kannada-naaptol" xmltv_id="Kannada Naaptol">Kannada Naaptol</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kappa-tv" xmltv_id="Kappa TV">Kappa TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kashi-vishwanath-temple,-varanasi" xmltv_id="Kashi Vishwanath Temple, Varanasi">Kashi Vishwanath Temple, Varanasi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kashish-news" xmltv_id="Kashish News">Kashish News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kaumudy-tv" xmltv_id="Kaumudy TV">Kaumudy TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="khabar-fast" xmltv_id="Khabar Fast">Khabar Fast</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="khabarain-abhi-tak" xmltv_id="Khabarain Abhi Tak">Khabarain Abhi Tak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="khushboo-bangla" xmltv_id="Khushboo Bangla">Khushboo Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kochu-tv" xmltv_id="Kochu TV">Kochu TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kolkata-tv" xmltv_id="Kolkata TV">Kolkata TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="kushi-tv" xmltv_id="Kushi TV">Kushi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="live-tv-on-mobile" xmltv_id="LIVE TV on Mobile">LIVE TV on Mobile</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="live-patna-sahib-patna" xmltv_id="Live Patna Sahib Patna">Live Patna Sahib Patna</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="live-punjabi" xmltv_id="Live Punjabi">Live Punjabi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="live-sri-naga-sai-mandir-coimbatore" xmltv_id="Live Sri Naga Sai Mandir Coimbatore">Live Sri Naga Sai Mandir Coimbatore</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="living-india-news" xmltv_id="Living India News">Living India News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="lokshahi-marathi" xmltv_id="Lokshahi Marathi">Lokshahi Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahaa-news" xmltv_id="MAHAA NEWS">MAHAA NEWS</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="media-9" xmltv_id="MEDIA 9">MEDIA 9</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mh-one" xmltv_id="MH One">MH One</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mh-one-dil-se" xmltv_id="MH One Dil Se">MH One Dil Se</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mh-one-news" xmltv_id="MH One News">MH One News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mh-one-shraddha" xmltv_id="MH One Shraddha">MH One Shraddha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mirror-now" xmltv_id="MIRROR NOW">MIRROR NOW</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mn+-hd" xmltv_id="MN+ HD">MN+ HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mnx" xmltv_id="MNX">MNX</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mnx-hd" xmltv_id="MNX HD">MNX HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mtv-beats" xmltv_id="MTV Beats">MTV Beats</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mtv-beats-hd" xmltv_id="MTV Beats HD">MTV Beats HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mtv-hd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="madha-tv" xmltv_id="Madha TV">Madha TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahakaleshwar-temple,-ujjain" xmltv_id="Mahakaleshwar Temple, Ujjain">Mahakaleshwar Temple, Ujjain</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahashivratri-special" xmltv_id="Mahashivratri Special">Mahashivratri Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahashivratri-special" xmltv_id="Mahashivratri Special">Mahashivratri Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahashivratri-special" xmltv_id="Mahashivratri Special">Mahashivratri Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahashivratri-special" xmltv_id="Mahashivratri Special">Mahashivratri Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mahashivratri-special" xmltv_id="Mahashivratri Special">Mahashivratri Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="makkal-tv" xmltv_id="Makkal TV">Makkal TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="malaimurasu-seithigal" xmltv_id="MalaiMurasu Seithigal">MalaiMurasu Seithigal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="manorama-news" xmltv_id="Manorama News">Manorama News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="manoranjan-grand" xmltv_id="Manoranjan Grand">Manoranjan Grand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="manoranjan-tv" xmltv_id="Manoranjan TV">Manoranjan TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="marathi-cinema-offer" xmltv_id="Marathi Cinema Offer">Marathi Cinema Offer</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="marathi-cinema-offer" xmltv_id="Marathi Cinema Offer">Marathi Cinema Offer</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mastiii" xmltv_id="Mastiii">Mastiii</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mathrubhumi-news" xmltv_id="Mathrubhumi News">Mathrubhumi News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mazhavil-manorama" xmltv_id="Mazhavil Manorama">Mazhavil Manorama</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mazhavil-manorama-hd" xmltv_id="Mazhavil Manorama HD">Mazhavil Manorama HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="media-one" xmltv_id="Media One">Media One</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mega-24" xmltv_id="Mega 24">Mega 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mega-musiq" xmltv_id="Mega Musiq">Mega Musiq</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="mega-tv" xmltv_id="Mega TV">Mega TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="movies-now" xmltv_id="Movies Now">Movies Now</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="movies-now-hd" xmltv_id="Movies Now HD">Movies Now HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="murasu-tv" xmltv_id="Murasu TV">Murasu TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nazara" xmltv_id="NAZARA">NAZARA</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nb-news" xmltv_id="NB News">NB News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nd24-newsdaily.in" xmltv_id="ND24-Newsdaily.in">ND24-Newsdaily.in</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-24x7" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-india" xmltv_id="NDTV India">NDTV India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-marathi" xmltv_id="NDTV MARATHI">NDTV MARATHI</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-mpcg" xmltv_id="NDTV MPCG">NDTV MPCG</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-profit-prime" xmltv_id="NDTV Profit Prime">NDTV Profit Prime</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ndtv-rajasthan" xmltv_id="NDTV Rajasthan">NDTV Rajasthan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ne-news" xmltv_id="NE NEWS">NE NEWS</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-live" xmltv_id="NEWS LIVE">NEWS LIVE</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nhk-world-japan" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nktv-bangla" xmltv_id="NKTV BANGLA">NKTV BANGLA</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nktv-plus" xmltv_id="NKTV PLUS">NKTV PLUS</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ntv-telugu" xmltv_id="NTV Telugu">NTV Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nakshatra-digital" xmltv_id="Nakshatra Digital">Nakshatra Digital</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nambikkai-tv" xmltv_id="Nambikkai TV">Nambikkai TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="namma-tv" xmltv_id="Namma TV">Namma TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nandighosha-tv" xmltv_id="Nandighosha TV">Nandighosha TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="national-news-live" xmltv_id="National News Live">National News Live</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="national-today-24x7" xmltv_id="National Today 24x7">National Today 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nav-tej-tv" xmltv_id="Nav Tej TV">Nav Tej TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="naxatra-news" xmltv_id="Naxatra News">Naxatra News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nepal-1" xmltv_id="Nepal 1">Nepal 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="netflix-service" xmltv_id="Netflix Service">Netflix Service</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="network-10" xmltv_id="Network 10">Network 10</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="new-promo-channel" xmltv_id="New Promo Channel">New Promo Channel</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-1-india" xmltv_id="News 1 India">News 1 India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-11-bharat" xmltv_id="News 11 Bharat">News 11 Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-1st-kannada" xmltv_id="News 1st Kannada">News 1st Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-24" xmltv_id="News 24">News 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-24-madhyapradesh-chattisgarh" xmltv_id="News 24 Madhyapradesh Chattisgarh">News 24 Madhyapradesh Chattisgarh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-360" xmltv_id="News 360">News 360</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-8-odia" xmltv_id="News 8 odia">News 8 odia</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-capital" xmltv_id="News Capital">News Capital</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-hour" xmltv_id="News Hour">News Hour</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-india-24x7" xmltv_id="News India 24x7">News India 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-j" xmltv_id="News J">News J</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-nation" xmltv_id="News Nation">News Nation</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-state-mp-cg" xmltv_id="News State MP CG">News State MP CG</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-state-up-uttarakhand" xmltv_id="News State UP Uttarakhand">News State UP Uttarakhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-tamil-24x7" xmltv_id="News Tamil 24x7">News Tamil 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-time-bangla" xmltv_id="News Time Bangla">News Time Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-world-india" xmltv_id="News World India">News World India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news-world-odisha" xmltv_id="News World Odisha">News World Odisha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-assam-north-east" xmltv_id="News18 Assam North East">News18 Assam North East</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-bangla" xmltv_id="News18 Bangla">News18 Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-bihar-jharkhand" xmltv_id="News18 Bihar Jharkhand">News18 Bihar Jharkhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-gujarati" xmltv_id="News18 Gujarati">News18 Gujarati</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-india" xmltv_id="News18 India">News18 India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-jammu-kashmir-ladakh-himachal" xmltv_id="News18 Jammu Kashmir Ladakh Himachal">News18 Jammu Kashmir Ladakh Himachal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-kannada" xmltv_id="News18 Kannada">News18 Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-kerala" xmltv_id="News18 Kerala">News18 Kerala</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-lokmat" xmltv_id="News18 Lokmat">News18 Lokmat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-madhya-pradesh-chhattisgarh" xmltv_id="News18 Madhya Pradesh Chhattisgarh">News18 Madhya Pradesh Chhattisgarh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-odia" xmltv_id="News18 Odia">News18 Odia</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-punjab-haryana" xmltv_id="News18 Punjab Haryana">News18 Punjab Haryana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-rajasthan" xmltv_id="News18 Rajasthan">News18 Rajasthan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-tamil-nadu" xmltv_id="News18 Tamil Nadu">News18 Tamil Nadu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news18-uttar-pradesh-uttarakhand" xmltv_id="News18 Uttar Pradesh Uttarakhand">News18 Uttar Pradesh Uttarakhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="news7" xmltv_id="News7">News7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="newsx" xmltv_id="NewsX">NewsX</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nick" xmltv_id="Nick">Nick</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nick-hd+" xmltv_id="Nick HD+">Nick HD+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="north-east-live" xmltv_id="North East Live">North East Live</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="otv" xmltv_id="OTV">OTV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="omm" xmltv_id="Omm">Omm</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="oscar-movies-bhojpuri." xmltv_id="Oscar Movies Bhojpuri.">Oscar Movies Bhojpuri.</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="oye-music" xmltv_id="Oye Music">Oye Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-chak-de" xmltv_id="PTC Chak De">PTC Chak De</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-music" xmltv_id="PTC Music">PTC Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-news" xmltv_id="PTC News">PTC News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-punjabi" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-punjabi-gold" xmltv_id="PTC Punjabi Gold">PTC Punjabi Gold</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ptc-simran" xmltv_id="PTC Simran">PTC Simran</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="paras-gold-one" xmltv_id="Paras Gold One">Paras Gold One</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pasand" xmltv_id="Pasand">Pasand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="peace-of-mind" xmltv_id="Peace of Mind">Peace of Mind</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pear-tv" xmltv_id="Pear TV">Pear TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="peppers-tv" xmltv_id="Peppers TV">Peppers TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pitaara-tv" xmltv_id="Pitaara TV">Pitaara TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pogo" xmltv_id="Pogo">Pogo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="polimer-news" xmltv_id="Polimer News">Polimer News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="polimer-tv" xmltv_id="Polimer TV">Polimer TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="power-tv" xmltv_id="Power TV">Power TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="prag-news" xmltv_id="Prag News">Prag News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="prarthana-tv" xmltv_id="Prarthana TV">Prarthana TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pratham-khabar-24x7" xmltv_id="Pratham Khabar 24x7">Pratham Khabar 24x7</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pravah-picture" xmltv_id="Pravah Picture">Pravah Picture</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="prime-tv" xmltv_id="Prime TV">Prime TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="protidin-time" xmltv_id="Protidin Time">Protidin Time</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="prudent" xmltv_id="Prudent">Prudent</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="public-movies" xmltv_id="Public Movies">Public Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="public-music" xmltv_id="Public Music">Public Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="public-tv" xmltv_id="Public TV">Public TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="pudhari-news" xmltv_id="Pudhari News">Pudhari News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="punjabi-hits" xmltv_id="Punjabi Hits">Punjabi Hits</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="puthiya-thalaimurai" xmltv_id="Puthiya Thalaimurai">Puthiya Thalaimurai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="r-bharat" xmltv_id="R Bharat">R Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="r-kannada" xmltv_id="R Kannada">R Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="r-plus" xmltv_id="R Plus">R Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="rdx-goa" xmltv_id="RDX Goa">RDX Goa</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="republic-tv" xmltv_id="REPUBLIC TV">REPUBLIC TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raapchik" xmltv_id="Raapchik">Raapchik</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-digital-plus" xmltv_id="Raj Digital Plus">Raj Digital Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-musix" xmltv_id="Raj Musix">Raj Musix</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-musix-kannada" xmltv_id="Raj Musix Kannada">Raj Musix Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-musix-malayalam" xmltv_id="Raj Musix Malayalam">Raj Musix Malayalam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-musix-telugu" xmltv_id="Raj Musix Telugu">Raj Musix Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-nagaichuvai" xmltv_id="Raj Nagaichuvai">Raj Nagaichuvai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-news-kannada" xmltv_id="Raj News Kannada">Raj News Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-news-malayalam" xmltv_id="Raj News Malayalam">Raj News Malayalam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-news-tamil" xmltv_id="Raj News Tamil">Raj News Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-news-telugu" xmltv_id="Raj News Telugu">Raj News Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-pariwar" xmltv_id="Raj Pariwar">Raj Pariwar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="raj-tv" xmltv_id="Raj TV">Raj TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ramdhenu" xmltv_id="Ramdhenu">Ramdhenu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="rang" xmltv_id="Rang">Rang</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="real-news-kerala" xmltv_id="Real News Kerala">Real News Kerala</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="relive-game" xmltv_id="Relive Game">Relive Game</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="rengoni-tv" xmltv_id="Rengoni TV">Rengoni TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="reporter-tv" xmltv_id="Reporter TV">Reporter TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="republic-bangla" xmltv_id="Republic Bangla">Republic Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="rio-slate-1" xmltv_id="Rio Slate 1">Rio Slate 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="romedy-now" xmltv_id="Romedy Now">Romedy Now</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="rongeen-tv" xmltv_id="Rongeen TV">Rongeen TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ruposhi-bangla" xmltv_id="Ruposhi Bangla">Ruposhi Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="russia-today" xmltv_id="Russia Today">Russia Today</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="set" xmltv_id="SET">SET</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="set-hd" xmltv_id="SET HD">SET HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shekinah" xmltv_id="SHEKINAH">SHEKINAH</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sirikannada-alltime" xmltv_id="SIRIKANNADA Alltime">SIRIKANNADA Alltime</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-aath" xmltv_id="SONY AATH">SONY AATH</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-bbc-earth" xmltv_id="SONY BBC Earth">SONY BBC Earth</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-bbc-earth-hd" xmltv_id="SONY BBC Earth HD">SONY BBC Earth HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-max" xmltv_id="SONY MAX">SONY MAX</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-max-2" xmltv_id="SONY MAX 2">SONY MAX 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-max-hd" xmltv_id="SONY MAX HD">SONY MAX HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-pix" xmltv_id="SONY PIX">SONY PIX</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-pix-hd" xmltv_id="SONY PIX HD">SONY PIX HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sab" xmltv_id="SONY SAB">SONY SAB</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sab-hd" xmltv_id="SONY SAB HD">SONY SAB HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-1" xmltv_id="SONY SPORTS TEN 1">SONY SPORTS TEN 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-1-hd" xmltv_id="SONY SPORTS TEN 1 HD">SONY SPORTS TEN 1 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-2" xmltv_id="SONY SPORTS TEN 2">SONY SPORTS TEN 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-2-hd" xmltv_id="SONY SPORTS TEN 2 HD">SONY SPORTS TEN 2 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-3" xmltv_id="SONY SPORTS TEN 3">SONY SPORTS TEN 3</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-3-hd" xmltv_id="SONY SPORTS TEN 3 HD">SONY SPORTS TEN 3 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-4" xmltv_id="SONY SPORTS TEN 4">SONY SPORTS TEN 4</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-5" xmltv_id="SONY SPORTS TEN 5">SONY SPORTS TEN 5</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-5-hd" xmltv_id="SONY SPORTS TEN 5 HD">SONY SPORTS TEN 5 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-yay!" xmltv_id="SONY YAY!">SONY YAY!</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="spondon" xmltv_id="SPONDON">SPONDON</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ss-1-geo" xmltv_id="SS 1 Geo">SS 1 Geo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ss-1-hd-geo" xmltv_id="SS 1 HD Geo">SS 1 HD Geo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ss-1-hindi-geo" xmltv_id="SS 1 Hindi Geo">SS 1 Hindi Geo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ss1-hd-hindi-geo" xmltv_id="SS1 HD Hindi Geo">SS1 HD Hindi Geo</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-hd" xmltv_id="STAR GOLD HD">STAR GOLD HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-hd-+1" xmltv_id="STAR GOLD HD +1">STAR GOLD HD +1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold" xmltv_id="STAR Gold">STAR Gold</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-jalsha" xmltv_id="STAR Jalsha">STAR Jalsha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa" xmltv_id="STAR Maa">STAR Maa</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-hd" xmltv_id="STAR Maa HD">STAR Maa HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-hd" xmltv_id="STAR Maa HD">STAR Maa HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-movies" xmltv_id="STAR Movies">STAR Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-movies-hd" xmltv_id="STAR Movies HD">STAR Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-movies-select-hd" xmltv_id="STAR Movies Select HD">STAR Movies Select HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-plus-hd-+1" xmltv_id="STAR PLUS HD +1">STAR PLUS HD +1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-plus" xmltv_id="STAR Plus">STAR Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-plus-hd" xmltv_id="STAR Plus HD">STAR Plus HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-pravah" xmltv_id="STAR Pravah">STAR Pravah</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1" xmltv_id="STAR Sports 1">STAR Sports 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-2" xmltv_id="STAR Sports 2">STAR Sports 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-utsav" xmltv_id="STAR Utsav">STAR Utsav</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-utsav-movies" xmltv_id="STAR Utsav Movies">STAR Utsav Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-vijay" xmltv_id="STAR Vijay">STAR Vijay</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="stv-haryana-news" xmltv_id="STV Haryana News">STV Haryana News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="svbc" xmltv_id="SVBC">SVBC</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="svbc-2" xmltv_id="SVBC 2">SVBC 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="svbc-3" xmltv_id="SVBC 3">SVBC 3</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="svbc-telugu" xmltv_id="SVBC Telugu">SVBC Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="saam-tv" xmltv_id="Saam TV">Saam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sach-bedhadak" xmltv_id="Sach Bedhadak">Sach Bedhadak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sadhna-news-mp-cg" xmltv_id="Sadhna News MP CG">Sadhna News MP CG</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sadhna-plus-news" xmltv_id="Sadhna Plus News">Sadhna Plus News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sadhna-tv" xmltv_id="Sadhna TV">Sadhna TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="safari-tv" xmltv_id="Safari TV">Safari TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sahara-samay-up-ukd" xmltv_id="Sahara Samay UP-UKD">Sahara Samay UP-UKD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="saileela-tv" xmltv_id="Saileela TV">Saileela TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sakshi-tv" xmltv_id="Sakshi TV">Sakshi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="salaam-tv" xmltv_id="Salaam TV">Salaam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="samachar-24-news" xmltv_id="Samachar 24 News">Samachar 24 News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="samara-news" xmltv_id="Samara News">Samara News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="samay" xmltv_id="Samay">Samay</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sana-plus-tv" xmltv_id="Sana Plus TV">Sana Plus TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sana-tv" xmltv_id="Sana TV">Sana TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sandesh-news" xmltv_id="Sandesh News">Sandesh News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sangam-tv" xmltv_id="Sangam TV">Sangam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sangeet-bangla" xmltv_id="Sangeet Bangla">Sangeet Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sangeet-marathi" xmltv_id="Sangeet Marathi">Sangeet Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sansad-tv" xmltv_id="Sansad TV">Sansad TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sansad-tv---rajya-sabha" xmltv_id="Sansad TV - Rajya Sabha">Sansad TV - Rajya Sabha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sansad-tv-hd" xmltv_id="Sansad TV HD">Sansad TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sanskar" xmltv_id="Sanskar">Sanskar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="santwani" xmltv_id="Santwani">Santwani</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sathiyam-tv" xmltv_id="Sathiyam TV">Sathiyam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="satsang-tv" xmltv_id="Satsang TV">Satsang TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="segmented-chn-9" xmltv_id="Segmented Chn 9">Segmented Chn 9</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="seithigal-tv" xmltv_id="Seithigal TV">Seithigal TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shalom-tv" xmltv_id="Shalom TV">Shalom TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sharnam-tv" xmltv_id="Sharnam TV">Sharnam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shemaroo-marathibana" xmltv_id="Shemaroo MarathiBana">Shemaroo MarathiBana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shemaroo-tv" xmltv_id="Shemaroo TV">Shemaroo TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shemaroo-umang" xmltv_id="Shemaroo UMANG">Shemaroo UMANG</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shiksha-tv" xmltv_id="Shiksha TV">Shiksha TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shirdi-sai-baba" xmltv_id="Shirdi Sai Baba">Shirdi Sai Baba</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="showbox" xmltv_id="Showbox">Showbox</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="showcase" xmltv_id="Showcase">Showcase</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="showcase-1" xmltv_id="Showcase 1">Showcase 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="showcase-hd1" xmltv_id="Showcase HD1">Showcase HD1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="showcase-hd2" xmltv_id="Showcase HD2">Showcase HD2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shree-ichchhapuran-balaji-mandir" xmltv_id="Shree Ichchhapuran Balaji Mandir">Shree Ichchhapuran Balaji Mandir</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shresthbharat-tv" xmltv_id="Shresthbharat TV">Shresthbharat TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shri-ashtavinayak-mahaganpati,-ranjangaon" xmltv_id="Shri Ashtavinayak Mahaganpati, Ranjangaon">Shri Ashtavinayak Mahaganpati, Ranjangaon</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shri-babulnaath-temple,-mumbai" xmltv_id="Shri Babulnaath Temple, Mumbai">Shri Babulnaath Temple, Mumbai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shri-ganga-aarti,-varanasi" xmltv_id="Shri Ganga Aarti, Varanasi">Shri Ganga Aarti, Varanasi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shri-iskcon-girgaon,-mumbai" xmltv_id="Shri ISKCON Girgaon, Mumbai">Shri ISKCON Girgaon, Mumbai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shri-mahalaxmi-temple,-mumbai" xmltv_id="Shri Mahalaxmi Temple, Mumbai">Shri Mahalaxmi Temple, Mumbai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shubh-tv" xmltv_id="Shubh TV">Shubh TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="shubhavaarta-tv" xmltv_id="Shubhavaarta TV">Shubhavaarta TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sidharth-bhakti" xmltv_id="Sidharth Bhakti">Sidharth Bhakti</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sidharth-gold" xmltv_id="Sidharth GOLD">Sidharth GOLD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sidharth-tv" xmltv_id="Sidharth TV">Sidharth TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sirippoli" xmltv_id="Sirippoli">Sirippoli</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="somnath-temple" xmltv_id="Somnath Temple">Somnath Temple</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sonic-nickelodeon" xmltv_id="Sonic Nickelodeon">Sonic Nickelodeon</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-marathi" xmltv_id="Sony Marathi">Sony Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-pal" xmltv_id="Sony Pal">Sony Pal</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-sports-ten-4-hd" xmltv_id="Sony Sports Ten 4 HD">Sony Sports Ten 4 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sony-wah" xmltv_id="Sony Wah">Sony Wah</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sports-18---1" xmltv_id="Sports 18 - 1">Sports 18 - 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sports-18---1-hd" xmltv_id="Sports 18 - 1 HD">Sports 18 - 1 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sports-18-2" xmltv_id="Sports 18 2">Sports 18 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sports-18-3" xmltv_id="Sports 18 3">Sports 18 3</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sri-sankara-tv" xmltv_id="Sri Sankara TV">Sri Sankara TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sristi-tv" xmltv_id="Sristi TV">Sristi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-bharat" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-bharat-hd" xmltv_id="Star Bharat HD">Star Bharat HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-hd" xmltv_id="Star GOLD HD">Star GOLD HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-2" xmltv_id="Star Gold 2">Star Gold 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-2-hd" xmltv_id="Star Gold 2 HD">Star Gold 2 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-romance" xmltv_id="Star Gold Romance">Star Gold Romance</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-select" xmltv_id="Star Gold Select">Star Gold Select</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-select-hd" xmltv_id="Star Gold Select HD">Star Gold Select HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-gold-thrills" xmltv_id="Star Gold Thrills">Star Gold Thrills</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-jalsha-hd" xmltv_id="Star Jalsha HD">Star Jalsha HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-kiran" xmltv_id="Star Kiran">Star Kiran</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-kiran-hd" xmltv_id="Star Kiran HD">Star Kiran HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-life" xmltv_id="Star Life">Star Life</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-life-hd" xmltv_id="Star Life HD">Star Life HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-gold" xmltv_id="Star Maa Gold">Star Maa Gold</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-gold" xmltv_id="Star Maa Gold">Star Maa Gold</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-movies" xmltv_id="Star Maa Movies">Star Maa Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-movies-hd" xmltv_id="Star Maa Movies HD">Star Maa Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-movies-hd" xmltv_id="Star Maa Movies HD">Star Maa Movies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-maa-music" xmltv_id="Star Maa Music">Star Maa Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-movies-select" xmltv_id="Star Movies Select">Star Movies Select</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-pravah-hd" xmltv_id="Star Pravah HD">Star Pravah HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-pravah-pictures-hd" xmltv_id="Star Pravah Pictures HD">Star Pravah Pictures HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-hd" xmltv_id="Star Sports 1 HD">Star Sports 1 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-hindi" xmltv_id="Star Sports 1 Hindi">Star Sports 1 Hindi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-hindi-hd" xmltv_id="Star Sports 1 Hindi HD">Star Sports 1 Hindi HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-kannada" xmltv_id="Star Sports 1 Kannada">Star Sports 1 Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-tamil" xmltv_id="Star Sports 1 Tamil">Star Sports 1 Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-tamil-hd" xmltv_id="Star Sports 1 Tamil HD">Star Sports 1 Tamil HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-telugu" xmltv_id="Star Sports 1 Telugu">Star Sports 1 Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-1-telugu-hd" xmltv_id="Star Sports 1 Telugu HD">Star Sports 1 Telugu HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-2-hd" xmltv_id="Star Sports 2 HD">Star Sports 2 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-3" xmltv_id="Star Sports 3">Star Sports 3</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-first" xmltv_id="Star Sports First">Star Sports First</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-select-1" xmltv_id="Star Sports Select 1">Star Sports Select 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-select-1-hd" xmltv_id="Star Sports Select 1 HD">Star Sports Select 1 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-select-2" xmltv_id="Star Sports Select 2">Star Sports Select 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-sports-select-2-hd" xmltv_id="Star Sports Select 2 HD">Star Sports Select 2 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-suvarna" xmltv_id="Star Suvarna">Star Suvarna</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-suvarna-hd" xmltv_id="Star Suvarna HD">Star Suvarna HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-suvarna-plus" xmltv_id="Star Suvarna Plus">Star Suvarna Plus</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="star-vijay-hd" xmltv_id="Star Vijay HD">Star Vijay HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="studio-one-+" xmltv_id="Studio One +">Studio One +</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="subharti-tv" xmltv_id="Subharti TV">Subharti TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sudarshan-news" xmltv_id="Sudarshan News">Sudarshan News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-bangla" xmltv_id="Sun Bangla">Sun Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-bangla-hd" xmltv_id="Sun Bangla HD">Sun Bangla HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-life" xmltv_id="Sun Life">Sun Life</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-marathi" xmltv_id="Sun Marathi">Sun Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-marathi-hd" xmltv_id="Sun Marathi HD">Sun Marathi HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-music" xmltv_id="Sun Music">Sun Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-music-hd" xmltv_id="Sun Music HD">Sun Music HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-news" xmltv_id="Sun News">Sun News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-tv" xmltv_id="Sun TV">Sun TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="sun-tv-hd" xmltv_id="Sun TV HD">Sun TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="super-hungama" xmltv_id="Super Hungama">Super Hungama</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-comedy" xmltv_id="Surya Comedy">Surya Comedy</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-hd" xmltv_id="Surya HD">Surya HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-movies" xmltv_id="Surya Movies">Surya Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-music" xmltv_id="Surya Music">Surya Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-samachar" xmltv_id="Surya Samachar">Surya Samachar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="surya-tv" xmltv_id="Surya TV">Surya TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="swadesh-news" xmltv_id="Swadesh News">Swadesh News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="swar-shree" xmltv_id="Swar Shree">Swar Shree</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="swara-sagar" xmltv_id="Swara Sagar">Swara Sagar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="swaraj-express-smbc" xmltv_id="Swaraj Express SMBC">Swaraj Express SMBC</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="swatantra-tv" xmltv_id="Swatantra TV">Swatantra TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="t-news" xmltv_id="T News">T News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tabbar-hits" xmltv_id="TABBAR HITS">TABBAR HITS</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tch-100-binge" xmltv_id="TCh 100 Binge">TCh 100 Binge</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3705" xmltv_id="TEST SERVICE 3705">TEST SERVICE 3705</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3706" xmltv_id="TEST SERVICE 3706">TEST SERVICE 3706</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3707" xmltv_id="TEST SERVICE 3707">TEST SERVICE 3707</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3708" xmltv_id="TEST SERVICE 3708">TEST SERVICE 3708</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3709" xmltv_id="TEST SERVICE 3709">TEST SERVICE 3709</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3710" xmltv_id="TEST SERVICE 3710">TEST SERVICE 3710</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3711" xmltv_id="TEST SERVICE 3711">TEST SERVICE 3711</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3712" xmltv_id="TEST SERVICE 3712">TEST SERVICE 3712</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3713" xmltv_id="TEST SERVICE 3713">TEST SERVICE 3713</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3714" xmltv_id="TEST SERVICE 3714">TEST SERVICE 3714</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="times-now" xmltv_id="TIMES NOW">TIMES NOW</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tnp-news" xmltv_id="TNP News">TNP News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="total-tv" xmltv_id="TOTAL TV">TOTAL TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="trai-tariff-order" xmltv_id="TRAI Tariff Order">TRAI Tariff Order</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="ttn-24" xmltv_id="TTN 24">TTN 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv-24" xmltv_id="TV 24">TV 24</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv-45-news" xmltv_id="TV 45 News">TV 45 News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv27-news" xmltv_id="TV27 News">TV27 News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv5-kannada" xmltv_id="TV5 Kannada">TV5 Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv5-monde-asie" xmltv_id="TV5 Monde Asie">TV5 Monde Asie</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv5-news" xmltv_id="TV5 News">TV5 News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-bangla" xmltv_id="TV9 Bangla">TV9 Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-bharatvarsh" xmltv_id="TV9 Bharatvarsh">TV9 Bharatvarsh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-gujarati" xmltv_id="TV9 Gujarati">TV9 Gujarati</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-kannada" xmltv_id="TV9 Kannada">TV9 Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-marathi" xmltv_id="TV9 Marathi">TV9 Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tv9-telugu" xmltv_id="TV9 Telugu">TV9 Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tvri-world" xmltv_id="TVRI World">TVRI World</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tamil-cinema-offer" xmltv_id="Tamil Cinema Offer">Tamil Cinema Offer</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tamil-cinema-offer" xmltv_id="Tamil Cinema Offer">Tamil Cinema Offer</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tamil-janam" xmltv_id="Tamil Janam">Tamil Janam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tamil-naaptol" xmltv_id="Tamil Naaptol">Tamil Naaptol</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tara-news" xmltv_id="Tara News">Tara News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tarang-music" xmltv_id="Tarang Music">Tarang Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tarang-tv" xmltv_id="Tarang TV">Tarang TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-4k" xmltv_id="Tata Play 4K">Tata Play 4K</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-adbhut-kahaniyan" xmltv_id="Tata Play Adbhut Kahaniyan">Tata Play Adbhut Kahaniyan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-aradhana" xmltv_id="Tata Play Aradhana">Tata Play Aradhana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-asomiya-monoronjan" xmltv_id="Tata Play Asomiya Monoronjan">Tata Play Asomiya Monoronjan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-astro-duniya" xmltv_id="Tata Play Astro Duniya">Tata Play Astro Duniya</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-bangla-cinema" xmltv_id="Tata Play Bangla Cinema">Tata Play Bangla Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-beauty" xmltv_id="Tata Play Beauty">Tata Play Beauty</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-bollywood-masala" xmltv_id="Tata Play Bollywood Masala">Tata Play Bollywood Masala</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-bollywood-premiere" xmltv_id="Tata Play Bollywood Premiere">Tata Play Bollywood Premiere</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-bollywood-premiere-hd" xmltv_id="Tata Play Bollywood Premiere HD">Tata Play Bollywood Premiere HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-classic-cinema" xmltv_id="Tata Play Classic Cinema">Tata Play Classic Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-classic-tv" xmltv_id="Tata Play Classic TV">Tata Play Classic TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-comedy" xmltv_id="Tata Play Comedy">Tata Play Comedy</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-cooking" xmltv_id="Tata Play Cooking">Tata Play Cooking</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-dance-studio" xmltv_id="Tata Play Dance Studio">Tata Play Dance Studio</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-english-in-hindi" xmltv_id="Tata Play English in Hindi">Tata Play English in Hindi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-english-in-telugu" xmltv_id="Tata Play English in Telugu">Tata Play English in Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-fitness" xmltv_id="Tata Play Fitness">Tata Play Fitness</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-fun-learn-junior" xmltv_id="Tata Play Fun Learn Junior">Tata Play Fun Learn Junior</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-fun-learn-preschool" xmltv_id="Tata Play Fun Learn Preschool">Tata Play Fun Learn Preschool</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-gujarati-cinema" xmltv_id="Tata Play Gujarati Cinema">Tata Play Gujarati Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-har-ghar-startup" xmltv_id="Tata Play Har Ghar Startup">Tata Play Har Ghar Startup</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-hits" xmltv_id="Tata Play Hits">Tata Play Hits</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-hollywood-local" xmltv_id="Tata Play Hollywood Local">Tata Play Hollywood Local</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-hollywood-local-tamil" xmltv_id="Tata Play Hollywood Local Tamil">Tata Play Hollywood Local Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-hollywood-local-telugu" xmltv_id="Tata Play Hollywood Local Telugu">Tata Play Hollywood Local Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-ibaadat" xmltv_id="Tata Play Ibaadat">Tata Play Ibaadat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-jee-prep" xmltv_id="Tata Play JEE Prep">Tata Play JEE Prep</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-javed-akhtar" xmltv_id="Tata Play Javed Akhtar">Tata Play Javed Akhtar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-kalyan-tv" xmltv_id="Tata Play Kalyan TV">Tata Play Kalyan TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-kannada-cinema" xmltv_id="Tata Play Kannada Cinema">Tata Play Kannada Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-kartavya-tv" xmltv_id="Tata Play Kartavya TV">Tata Play Kartavya TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-lakshya-tv" xmltv_id="Tata Play Lakshya TV">Tata Play Lakshya TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-malayalam-cinema" xmltv_id="Tata Play Malayalam Cinema">Tata Play Malayalam Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-marathi-cinema" xmltv_id="Tata Play Marathi Cinema">Tata Play Marathi Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-music" xmltv_id="Tata Play Music">Tata Play Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-neet-prep" xmltv_id="Tata Play NEET Prep">Tata Play NEET Prep</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-punjab-de-rang" xmltv_id="Tata Play Punjab De Rang">Tata Play Punjab De Rang</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-romance" xmltv_id="Tata Play Romance">Tata Play Romance</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-seniors" xmltv_id="Tata Play Seniors">Tata Play Seniors</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-shortstv" xmltv_id="Tata Play ShortsTV">Tata Play ShortsTV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-smart-games" xmltv_id="Tata Play Smart Games">Tata Play Smart Games</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-smart-manager" xmltv_id="Tata Play Smart Manager">Tata Play Smart Manager</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-south-talkies" xmltv_id="Tata Play South Talkies">Tata Play South Talkies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-tamil-cinema" xmltv_id="Tata Play Tamil Cinema">Tata Play Tamil Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-tamil-classics" xmltv_id="Tata Play Tamil Classics">Tata Play Tamil Classics</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-telugu-cinema" xmltv_id="Tata Play Telugu Cinema">Tata Play Telugu Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-telugu-classics" xmltv_id="Tata Play Telugu Classics">Tata Play Telugu Classics</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-theatre-hd" xmltv_id="Tata Play Theatre HD">Tata Play Theatre HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-toons+" xmltv_id="Tata Play Toons+">Tata Play Toons+</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-utkala-manoranjana" xmltv_id="Tata Play Utkala Manoranjana">Tata Play Utkala Manoranjana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-vedic-maths" xmltv_id="Tata Play Vedic Maths">Tata Play Vedic Maths</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-videshi-kahaniyan" xmltv_id="Tata Play Videshi Kahaniyan">Tata Play Videshi Kahaniyan</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-play-zindagi" xmltv_id="Tata Play Zindagi">Tata Play Zindagi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-sky-classroom" xmltv_id="Tata Sky Classroom">Tata Sky Classroom</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-sky-mobile" xmltv_id="Tata Sky Mobile">Tata Sky Mobile</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-sky-shoppe" xmltv_id="Tata Sky Shoppe">Tata Sky Shoppe</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="tata-sky-theatre" xmltv_id="Tata Sky Theatre">Tata Sky Theatre</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="telugu-naaptol" xmltv_id="Telugu Naaptol">Telugu Naaptol</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-1513" xmltv_id="Test Service 1513">Test Service 1513</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-3702" xmltv_id="Test Service 3702">Test Service 3702</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-4101" xmltv_id="Test Service 4101">Test Service 4101</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-4102" xmltv_id="Test Service 4102">Test Service 4102</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-4501" xmltv_id="Test Service 4501">Test Service 4501</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-4502" xmltv_id="Test Service 4502">Test Service 4502</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-4701" xmltv_id="Test Service 4701">Test Service 4701</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-ca-team-1" xmltv_id="Test Service CA Team-1">Test Service CA Team-1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="test-service-ca-team-2" xmltv_id="Test Service CA Team-2">Test Service CA Team-2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="thanthi-one" xmltv_id="Thanthi One">Thanthi One</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="thanthi-tv" xmltv_id="Thanthi TV">Thanthi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="the-q" xmltv_id="The Q">The Q</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="theatre" xmltv_id="Theatre">Theatre</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="times-now-navbharat" xmltv_id="Times Now Navbharat">Times Now Navbharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="times-now-navbharat-hd" xmltv_id="Times Now Navbharat HD">Times Now Navbharat HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="times-now-world" xmltv_id="Times Now World">Times Now World</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="today’s-special" xmltv_id="Today’s Special">Today’s Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="today’s-special" xmltv_id="Today’s Special">Today’s Special</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="training-channel" xmltv_id="Training Channel">Training Channel</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="travel-xp---4k" xmltv_id="Travel XP - 4K">Travel XP - 4K</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="travelxp-4k-hdr" xmltv_id="TravelXP 4K HDR">TravelXP 4K HDR</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="travelxp-hd" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="travelxp-tamil" xmltv_id="Travelxp Tamil">Travelxp Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="twenty-four" xmltv_id="Twenty Four">Twenty Four</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="u-bangla-tv" xmltv_id="U Bangla TV">U Bangla TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="utv-bindass" xmltv_id="UTV Bindass">UTV Bindass</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="udaya-comedy" xmltv_id="Udaya Comedy">Udaya Comedy</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="udaya-movies" xmltv_id="Udaya Movies">Udaya Movies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="udaya-music" xmltv_id="Udaya Music">Udaya Music</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="udaya-tv" xmltv_id="Udaya TV">Udaya TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="udaya-tv-hd" xmltv_id="Udaya TV HD">Udaya TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="unique-tv" xmltv_id="Unique TV">Unique TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="update-india" xmltv_id="Update India">Update India</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="v6-telugu" xmltv_id="V6 Telugu">V6 Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vh1-hd" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vtv-news" xmltv_id="VTV News">VTV News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="valam-tv" xmltv_id="Valam TV">Valam TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vande-bharat-news" xmltv_id="Vande Bharat News">Vande Bharat News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vanitha" xmltv_id="Vanitha">Vanitha</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vasanth-tv" xmltv_id="Vasanth TV">Vasanth TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vedic" xmltv_id="Vedic">Vedic</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vendhar-tv" xmltv_id="Vendhar TV">Vendhar TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vijay-super" xmltv_id="Vijay Super">Vijay Super</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vijay-super-hd" xmltv_id="Vijay Super HD">Vijay Super HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vijay-takkar" xmltv_id="Vijay Takkar">Vijay Takkar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vissa-tv" xmltv_id="Vissa TV">Vissa TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vistaar-news" xmltv_id="Vistaar News">Vistaar News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="vistara-news" xmltv_id="Vistara News">Vistara News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="wion" xmltv_id="WION">WION</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="wpn-world-punjabi-tv" xmltv_id="WPN World Punjabi TV">WPN World Punjabi TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="we-tv" xmltv_id="We TV">We TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="what’s-new?" xmltv_id="What’s New?">What’s New?</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="what’s-new?" xmltv_id="What’s New?">What’s New?</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="wow-cinema-one" xmltv_id="WoW Cinema One">WoW Cinema One</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="woman" xmltv_id="Woman">Woman</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-plex-hd-screen-1" xmltv_id="ZEE PLEX HD Screen 1">ZEE PLEX HD Screen 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-plex-screen-1" xmltv_id="ZEE PLEX Screen 1">ZEE PLEX Screen 1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-24-ghanta" xmltv_id="Zee 24 Ghanta">Zee 24 Ghanta</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-24-kalak" xmltv_id="Zee 24 Kalak">Zee 24 Kalak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-24-taas" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-anmol" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-anmol-cinema" xmltv_id="Zee Anmol Cinema">Zee Anmol Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-anmol-cinema-2" xmltv_id="Zee Anmol Cinema 2">Zee Anmol Cinema 2</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bangla" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bangla-cinema" xmltv_id="Zee Bangla Cinema">Zee Bangla Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bangla-hd" xmltv_id="Zee Bangla HD">Zee Bangla HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bharat" xmltv_id="Zee Bharat">Zee Bharat</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bihar-jharkhand" xmltv_id="Zee Bihar Jharkhand">Zee Bihar Jharkhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-biskope" xmltv_id="Zee Biskope">Zee Biskope</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-bollywood" xmltv_id="Zee Bollywood">Zee Bollywood</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-business" xmltv_id="Zee Business">Zee Business</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cafe" xmltv_id="Zee Cafe">Zee Cafe</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cafe-hd" xmltv_id="Zee Cafe HD">Zee Cafe HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cinema" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cinema-hd" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cinema-hd-+1" xmltv_id="Zee Cinema HD +1">Zee Cinema HD +1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cinemalu" xmltv_id="Zee Cinemalu">Zee Cinemalu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-cinemalu-hd" xmltv_id="Zee Cinemalu HD">Zee Cinemalu HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-classic" xmltv_id="Zee Classic">Zee Classic</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-delhi-ncr-haryana" xmltv_id="Zee Delhi NCR Haryana">Zee Delhi NCR Haryana</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-kannada" xmltv_id="Zee Kannada">Zee Kannada</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-kannada-hd" xmltv_id="Zee Kannada HD">Zee Kannada HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-kannada-news" xmltv_id="Zee Kannada News">Zee Kannada News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-keralam" xmltv_id="Zee Keralam">Zee Keralam</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-keralam-hd" xmltv_id="Zee Keralam HD">Zee Keralam HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-madhya-pradesh-chattisgarh" xmltv_id="Zee Madhya Pradesh Chattisgarh">Zee Madhya Pradesh Chattisgarh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-marathi" xmltv_id="Zee Marathi">Zee Marathi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-marathi-hd" xmltv_id="Zee Marathi HD">Zee Marathi HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-news" xmltv_id="Zee News">Zee News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-picchar" xmltv_id="Zee Picchar">Zee Picchar</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-picchar-hd" xmltv_id="Zee Picchar HD">Zee Picchar HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-punjab-haryana-himachal-pradesh" xmltv_id="Zee Punjab Haryana Himachal Pradesh">Zee Punjab Haryana Himachal Pradesh</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-punjabi" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-rajasthan-news" xmltv_id="Zee Rajasthan News">Zee Rajasthan News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-sarthak" xmltv_id="Zee Sarthak">Zee Sarthak</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-tv" xmltv_id="Zee TV">Zee TV</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-tv-hd" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-tv-hd-+1" xmltv_id="Zee TV HD +1">Zee TV HD +1</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-talkies" xmltv_id="Zee Talkies">Zee Talkies</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-talkies-hd" xmltv_id="Zee Talkies HD">Zee Talkies HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-tamil" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-tamil-hd" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-telugu" xmltv_id="Zee Telugu">Zee Telugu</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-telugu-hd" xmltv_id="Zee Telugu HD">Zee Telugu HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-telugu-news" xmltv_id="Zee Telugu News">Zee Telugu News</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-thirai" xmltv_id="Zee Thirai">Zee Thirai</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-thirai-hd" xmltv_id="Zee Thirai HD">Zee Thirai HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-uttar-pradesh-uttarakhand" xmltv_id="Zee Uttar Pradesh Uttarakhand">Zee Uttar Pradesh Uttarakhand</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-yuva" xmltv_id="Zee YUVA">Zee YUVA</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-zest" xmltv_id="Zee Zest">Zee Zest</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zee-zest-hd" xmltv_id="Zee Zest HD">Zee Zest HD</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zing" xmltv_id="Zing">Zing</channel>
+    <channel site="[ENC]tvschedule.today_0" site_id="zoom" xmltv_id="Zoom">Zoom</channel>
+  </channels>
+</site>
