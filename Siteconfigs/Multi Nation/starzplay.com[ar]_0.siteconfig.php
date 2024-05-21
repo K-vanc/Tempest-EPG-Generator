@@ -13,7 +13,7 @@ return array (
   'requestOption1' => '1',
   'urldate_format1' => 'unix',
   'stopdate_format1' => 'unix',
-  'show' => '({"description".*?"status".*?})',
+  'show' => '({"description".*?"title".*?})',
   'start' => '"tsStart":(\\d+)',
   'start_format' => 'unix',
   'stop' => '"tsEnd":(\\d+)',
