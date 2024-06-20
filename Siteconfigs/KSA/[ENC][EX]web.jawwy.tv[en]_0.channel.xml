@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]web.jawwy.tv[en]_0">
   <channels>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="271781928298||STC_176.png" xmltv_id="STC TV">STC TV</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="271781928298||STC_176.png" xmltv_id="stc tv sports">stc tv sports</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="133377575964||JAW1_176.png" xmltv_id="stc tv 1">stc tv 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376194||KSA1_176.png" xmltv_id="Saudi 1">Saudi 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="73482792077||KST_176.png" xmltv_id="SBC">SBC</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744076||MB1_176.png" xmltv_id="MBC 1 HD">MBC 1 HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312017||AF1_176.png" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312022||AF2_176.png" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="457824296418||STCC_176.png" xmltv_id="stc tv cinema">stc tv cinema</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="478289960342||STCD_176.png" xmltv_id="stc tv drama">stc tv drama</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="478292008048||STCF_176.png" xmltv_id="stc tv family">stc tv family</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313883688172||ABD_176.png" xmltv_id="Bedaya">Bedaya</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312029||HK1_176.png" xmltv_id="ART Hekayat">ART Hekayat</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312031||HK2_176.png" xmltv_id="ART Hekayat 2">ART Hekayat 2</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744082||MBDH_176.png" xmltv_id="MBC Drama HD">MBC Drama HD</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800148||DIS_176.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800151||DJR_176.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="73482792081||ROTD_176.png" xmltv_id="Rotana Drama HD">Rotana Drama HD</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744084||ROTK_176.png" xmltv_id="Rotana Khalijia HD">Rotana Khalijia HD</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="517781032001||ROTP_176.png" xmltv_id="Rotana + HD">Rotana + HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800184||MBP_176.png" xmltv_id="MBC+ Drama HD">MBC+ Drama HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376195||MBMS_176.png" xmltv_id="MBC MASR">MBC MASR</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376196||MBMS2_176.png" xmltv_id="MBC MASR 2">MBC MASR 2</channel>
@@ -19,14 +22,12 @@
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="73482792079||CBD_176.png" xmltv_id="CBC Drama">CBC Drama</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="73482792080||CBS_176.png" xmltv_id="CBC Sofra">CBC Sofra</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="111707176404||KSAS2_176.png" xmltv_id="KSA Now">KSA Now</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744082||MBDH_176.png" xmltv_id="MBC Drama HD">MBC Drama HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534824018||NAR_176.png" xmltv_id="Al Nahar">Al Nahar</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534311990||NAD_176.png" xmltv_id="Al Nahar Drama">Al Nahar Drama</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800051||AH1_176.png" xmltv_id="Al Hayat">Al Hayat</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313882152221||TEN_176.png" xmltv_id="Ten">Ten</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="73482792081||ROTD_176.png" xmltv_id="Rotana Drama HD">Rotana Drama HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744084||ROTK_176.png" xmltv_id="Rotana Khalijia HD">Rotana Khalijia HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800156||DBT_176.png" xmltv_id="Dubai">Dubai</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800161||DBZ_176.png" xmltv_id="Dubai Zaman">Dubai Zaman</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800040||ADO_176.png" xmltv_id="Abu Dhabi">Abu Dhabi</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800050||ADE_176.png" xmltv_id="Al Emarat">Al Emarat</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800047||AAT_176.png" xmltv_id="Al Aan">Al Aan</channel>
@@ -47,39 +48,30 @@
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193964072450||OBG_176.png" xmltv_id="OSN TV Crime">OSN TV Crime</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193964072444||OFH_176.png" xmltv_id="OSN TV Showcase">OSN TV Showcase</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193949224445||OCO_176.png" xmltv_id="OSN TV Comedy">OSN TV Comedy</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744088||OYH_176.png" xmltv_id="OSN TV Yahala">OSN TV Yahala</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744078||OYA_176.png" xmltv_id="OSN TV Yahala Bil Arabi">OSN TV Yahala Bil Arabi</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800215||STW_176.png" xmltv_id="Star World HD">Star World HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="222464552392||FNH_176.png" xmltv_id="Food Network">Food Network</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560445||TLC_176.png" xmltv_id="TLC HD">TLC HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="407276072222||OTN_176.png" xmltv_id="OSN TV Now">OSN TV Now</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="195179048428||FAT_176.png" xmltv_id="Fatafeat">Fatafeat</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560435||ETV_176.png" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560436||OMZ_176.png" xmltv_id="OSN TV Mezze">OSN TV Mezze</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="103589416219||FXL_176.png" xmltv_id="Fox Life">Fox Life</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="146504232320||AWE_176.png" xmltv_id="AWE">AWE</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="103589416219||FXL_176.png" xmltv_id="Star Life">Star Life</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="222465064352||HGTV_176.png" xmltv_id="HGTV">HGTV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800180||MBB_176.png" xmltv_id="MBC Bollywood">MBC Bollywood</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800223||ZEL_176.png" xmltv_id="Zee Alwan">Zee Alwan</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560440||MTL_176.png" xmltv_id="MTV Live">MTV Live</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="222464552391||TRA_176.png" xmltv_id="Travel">Travel</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="106900520310||TXP_176.png" xmltv_id="Travel XP">Travel XP</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="131814439970||ZKT_176.png" xmltv_id="Zekrayat">Zekrayat</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744092||ROTF_176.png" xmltv_id="Rotana Comedy">Rotana Comedy</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313882152220||NILK_176.png" xmltv_id="Nile Comedy">Nile Comedy</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313883688171||MOZ_176.png" xmltv_id="Maspero Zaman">Maspero Zaman</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560438||DAF_176.png" xmltv_id="Al Dafrah">Al Dafrah</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193949224446||DBSM_176.png" xmltv_id="Sama Dubai">Sama Dubai</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193965607995||MAM_176.png" xmltv_id="Al Mamlaka TV">Al Mamlaka TV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="95103016130||OMT_176.png" xmltv_id="Oman TV">Oman TV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="95103016126||OML_176.png" xmltv_id="Oman Mubasher">Oman Mubasher</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="95103016124||OMCT_176.png" xmltv_id="Oman Al Thakafeyah">Oman Al Thakafeyah</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744080||OYC_176.png" xmltv_id="OSN TV Yahala Aflam">OSN TV Yahala Aflam</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312026||ACM_176.png" xmltv_id="ART Cinema">ART Cinema</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="517771304315||ROTCM_176.png" xmltv_id="Rotana Cinema Masr">Rotana Cinema Masr</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="80436264394||ROTCK_176.png" xmltv_id="Rotana Cinema HD">Rotana Cinema HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="120436264228||ROTFP_176.png" xmltv_id="Rotana Aflam +">Rotana Aflam +</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376198||ROTZ_176.png" xmltv_id="Rotana Classic HD">Rotana Classic HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313882664354||NILC_176.png" xmltv_id="Nile Cinema">Nile Cinema</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="517780519954||ROTCU_176.png" xmltv_id="Rotana Cinema + US">Rotana Cinema + US</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534824071||MB2H_176.png" xmltv_id="MBC 2 HD">MBC 2 HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800182||MBMH_176.png" xmltv_id="MBC Max HD">MBC Max HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560443||OM1_176.png" xmltv_id="OSN TV Movies Premiere">OSN TV Movies Premiere</channel>
@@ -87,39 +79,26 @@
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193965607993||OPR_176.png" xmltv_id="OSN TV Movies Hollywood">OSN TV Movies Hollywood</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193965607996||OFM_176.png" xmltv_id="OSN TV Movies Family">OSN TV Movies Family</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="130876968291||OMK_176.png" xmltv_id="OSN TV Kids">OSN TV Kids</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="94456872403||POP_176.png" xmltv_id="OSN TV Pop Up Al-Tufah Al-Haram">OSN TV Pop Up Al-Tufah Al-Haram</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="81977896412||FMA_176.png" xmltv_id="Fox Action Movies HD">Fox Action Movies HD</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="94456872403||POP_176.png" xmltv_id="OSN TV Pop Up Swords And Sorcery">OSN TV Pop Up Swords And Sorcery</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="81977896412||FMA_176.png" xmltv_id="Star Action">Star Action</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800213||STM_176.png" xmltv_id="Star Movies HD">Star Movies HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736071||MYC_176.png" xmltv_id="ReelPX Cinema">ReelPX Cinema</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736061||FLB_176.png" xmltv_id="FilmBox">FilmBox</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800220||ZEA_176.png" xmltv_id="Zee Aflam">Zee Aflam</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376200||TCM_176.png" xmltv_id="TCM">TCM</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736060||FBA_176.png" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="146500648276||RPU_176.png" xmltv_id="ReelPX Ultimate">ReelPX Ultimate</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="146504232321||RPA_176.png" xmltv_id="ReelPX Action">ReelPX Action</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="146500648273||RPC_176.png" xmltv_id="ReelPX Comedy">ReelPX Comedy</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="146500648275||RPF_176.png" xmltv_id="ReelPX Family">ReelPX Family</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="407275048346||STCK_176.png" xmltv_id="stc tv Kids">stc tv Kids</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376203||TCN_176.png" xmltv_id="CN English">CN English</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376202||CNA_176.png" xmltv_id="CN Arabic">CN Arabic</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376204||BOM_176.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376204||BOM_176.png" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="64425512010||KDZ_176.png" xmltv_id="OSN TV Kid Zone">OSN TV Kid Zone</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="247761448373||MBU_176.png" xmltv_id="Moonbug Kids">Moonbug Kids</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="81977384061||BAB_176.png" xmltv_id="Baby TV">Baby TV</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224065||TIJ_176.png" xmltv_id="Tiji">Tiji</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736054||DUT_176.png" xmltv_id="Duck TV">Duck TV</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="493842984389||BAF_176.png" xmltv_id="Blippi And Friends">Blippi And Friends</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="130876968292||ROTI_176.png" xmltv_id="Rotana Kids">Rotana Kids</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534824073||MB3_176.png" xmltv_id="MBC 3">MBC 3</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800174||MAJ_176.png" xmltv_id="Majid">Majid</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800210||SPT_176.png" xmltv_id="Space Toon">Space Toon</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736064||GUA_176.png" xmltv_id="Gulli Bil Arabie">Gulli Bil Arabie</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736068||LWJ_176.png" xmltv_id="La3ab Wa Jad">La3ab Wa Jad</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="162322984363||ZMO_176.png" xmltv_id="ZooMoo">ZooMoo</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800148||DIS_176.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800151||DJR_176.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="485397032215||KDM_176.png" xmltv_id="KidZone Max">KidZone Max</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="485397032216||SZM_176.png" xmltv_id="SmartZone">SmartZone</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800188||NIC_176.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800187||NJR_176.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800190||NKT_176.png" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="447716903998||MBT_176.png" xmltv_id="Al Thaqafeya">Al Thaqafeya</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="64425512009||NGO_176.png" xmltv_id="Nat. Geographic">Nat. Geographic</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="64425512008||NHD_176.png" xmltv_id="Nat. Geo. Wild HD">Nat. Geo. Wild HD</channel>
@@ -127,23 +106,20 @@
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312007||APL_176.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800136||DSC_176.png" xmltv_id="Discovery HD">Discovery HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800131||DCF_176.png" xmltv_id="Discovery Family HD">Discovery Family HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800142||SCI_176.png" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="127824936075||DCX_176.png" xmltv_id="Discovery IDX">Discovery IDX</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800171||HIS_176.png" xmltv_id="History Channel HD">History Channel HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800169||HI2_176.png" xmltv_id="H2 HD">H2 HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560442||CAI_176.png" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224063||PLE_176.png" xmltv_id="Planet Earth">Planet Earth</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224046||DBH_176.png" xmltv_id="DocuBox HD">DocuBox HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736052||DBA_176.png" xmltv_id="Documentary Bil Arabie">Documentary Bil Arabie</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="441431080128||ASHW_176.png" xmltv_id="Asharq Documentary">Asharq Documentary</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="441431080127||ASHD_176.png" xmltv_id="Asharq Discovery">Asharq Discovery</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="493845032108||RTD_176.png" xmltv_id="RT Documentary">RT Documentary</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376192||KSQ_176.png" xmltv_id="Saudi Quran">Saudi Quran</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800205||KSU_176.png" xmltv_id="Saudi Sunnah">Saudi Sunnah</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="65038376193||ARH_176.png" xmltv_id="Al Resalah">Al Resalah</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800173||IQR_176.png" xmltv_id="Iqraa">Iqraa</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="313880616426||DBN_176.png" xmltv_id="Noor Dubai">Noor Dubai</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800048||KSA_176.png" xmltv_id="Al Ekhbariya">Al Ekhbariya</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744094||ARAH_176.png" xmltv_id="Al Arabiya HD">Al Arabiya HD</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="471293480109||AAB_176.png" xmltv_id="Al Arabiya Business">Al Arabiya Business</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="68150312378||AAH_176.png" xmltv_id="Al Hadath">Al Hadath</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800207||SNA_176.png" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92534312038||BBA_176.png" xmltv_id="BBC Arabic">BBC Arabic</channel>
@@ -157,40 +133,35 @@
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560437||ONS_176.png" xmltv_id="OSN TV News">OSN TV News</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224043||BTV_176.png" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224045||CNB_176.png" xmltv_id="CNBC">CNBC</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="106900520307||NAS_176.png" xmltv_id="Channel News Asia">Channel News Asia</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="493844520030||RTA_176.png" xmltv_id="RT Arabic">RT Arabic</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="493844520031||RTN_176.png" xmltv_id="RT News">RT News</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="63496744086||WAN_176.png" xmltv_id="Wanasah">Wanasah</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="68701224424||ROTS_176.png" xmltv_id="Rotana Music HD">Rotana Music HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="68701224425||ROTV_176.png" xmltv_id="Rotana Clip">Rotana Clip</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="517773864332||ROTMP_176.png" xmltv_id="Rotana M+ HD">Rotana M+ HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="69753384255||AGH_176.png" xmltv_id="Aghani Aghani">Aghani Aghani</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="246290984004||OTV_176.png" xmltv_id="One TV">One TV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560444||VH1_176.png" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="469192232418||KSA24_176.png" xmltv_id="Sport 24">Sport 24</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800198||KSS_176.png" xmltv_id="Saudi Sports 1">Saudi Sports 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800202||KSS2_176.png" xmltv_id="Saudi Sports 2">Saudi Sports 2</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="111707176403||KSAS1_176.png" xmltv_id="KSA Sports +1">KSA Sports +1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="311346216303||ADSP1_176.png" xmltv_id="AD Sports Premium 1">AD Sports Premium 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="311347240076||ADSP2_176.png" xmltv_id="AD Sports Premium 2">AD Sports Premium 2</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193966119951||AD3H_176.png" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="311348264233||SPZ_176.png" xmltv_id="STARZPLAY Sports">STARZPLAY Sports</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193966119951||AD3H_176.png" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800044||AD1_176.png" xmltv_id="AD Sports 1">AD Sports 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193964072446||AD4H_176.png" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="92533800045||AD2_176.png" xmltv_id="AD Sports 2">AD Sports 2</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="120205864043||STF_176.png" xmltv_id="Fight Sports">Fight Sports</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193963560446||DBSH_176.png" xmltv_id="Dubai Sports HD">Dubai Sports HD</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="193965607994||DBS2_176.png" xmltv_id="Dubai Sports 2">Dubai Sports 2</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="162322984362||FTN_176.png" xmltv_id="Fight Network">Fight Network</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="68150312380||BST_176.png" xmltv_id="Bahrain Sports TV">Bahrain Sports TV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="68150312379||KSTV_176.png" xmltv_id="Kuwait TV Sports 1">Kuwait TV Sports 1</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="236188200201||CRL_176.png" xmltv_id="Cric Life">Cric Life</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="236185640286||CRL2_176.png" xmltv_id="Cric Life 2">Cric Life 2</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736058||FBH_176.png" xmltv_id="Fight Box HD">Fight Box HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205224067||TRS_176.png" xmltv_id="Trace Sports Stars">Trace Sports Stars</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736070||MOT_176.png" xmltv_id="Motorvision">Motorvision</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="99759656320||FFB_176.png" xmltv_id="Fast Fun Box HD">Fast Fun Box HD</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="98205736065||INS_176.png" xmltv_id="Insight">Insight</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="106900520309||NUT_176.png" xmltv_id="Nautical TV">Nautical TV</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="95103016128||OMSP_176.png" xmltv_id="Oman Sport">Oman Sport</channel>
     <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="336020008152||BIG_176.png" xmltv_id="Bigg">Bigg</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="336019495989||WAT_176.png" xmltv_id="Wataaa">Wataaa</channel>
-    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="442665512387||RUG_176.png" xmltv_id="Rugby World Cup">Rugby World Cup</channel>
+    <channel site="[ENC][EX]web.jawwy.tv[en]_0" site_id="493844520029||PUN_176.png" xmltv_id="Punch TV">Punch TV</channel>
   </channels>
 </site>
