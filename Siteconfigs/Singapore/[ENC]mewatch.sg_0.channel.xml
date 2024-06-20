@@ -2,13 +2,19 @@
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]mewatch.sg_0">
   <channels>
     <channel site="[ENC]mewatch.sg_0" site_id="97098||6722580" xmltv_id="Channel 5">Channel 5</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97104||6318750" xmltv_id="Channel 8">Channel 8</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="97104||6722578" xmltv_id="Channel 8">Channel 8</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="97129||6722584" xmltv_id="Channel U">Channel U</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="97084||6722577" xmltv_id="Suria">Suria</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="97096||6707977" xmltv_id="Vasantham">Vasantham</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97072||6318766" xmltv_id="CNA">CNA</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="158969||7196426" xmltv_id="AFC Asian Cup CH01">AFC Asian Cup CH01</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="267994||5714415" xmltv_id="LIVE+ 1">LIVE+ 1</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="97072||6722582" xmltv_id="CNA">CNA</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="186574||7360676" xmltv_id="oktolidays">oktolidays</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="98200||4566208" xmltv_id="SPL CH01">SPL CH01</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="98201||4566217" xmltv_id="SPL CH02">SPL CH02</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="158965||7510630" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="158964||7510618" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="158963||7510610" xmltv_id="NOW Rock">NOW Rock</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="158962||7510600" xmltv_id="TRACE Urban">TRACE Urban</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="158969||7743983" xmltv_id="SPOTV Stadia">SPOTV Stadia</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="227348||6318770" xmltv_id="ROCK Entertainment">ROCK Entertainment</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="227349||6318790" xmltv_id="ROCK Action">ROCK Action</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="158961||6318792" xmltv_id="Global Trekker">Global Trekker</channel>
@@ -18,9 +24,6 @@
     <channel site="[ENC]mewatch.sg_0" site_id="97137||6318772" xmltv_id="HBO">HBO</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="97140||6318774" xmltv_id="HBO Hits">HBO Hits</channel>
     <channel site="[ENC]mewatch.sg_0" site_id="97147||2223019" xmltv_id="HBO Family">HBO Family</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97146||6318778" xmltv_id="HBO Signature">HBO Signature</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97155||2290609" xmltv_id="Cinemax">Cinemax</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97073||6318742" xmltv_id="LIVE 1">LIVE 1</channel>
-    <channel site="[ENC]mewatch.sg_0" site_id="97078||6318744" xmltv_id="LIVE 2">LIVE 2</channel>
+    <channel site="[ENC]mewatch.sg_0" site_id="97146||1695981" xmltv_id="HBO Signature">HBO Signature</channel>
   </channels>
 </site>
