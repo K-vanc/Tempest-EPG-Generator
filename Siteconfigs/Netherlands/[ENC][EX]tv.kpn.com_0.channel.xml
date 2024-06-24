@@ -19,7 +19,7 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="205||e931a789-5882-41c2-81ae-a0e4a71c8527" xmltv_id="STAR Channel">STAR Channel</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="34||dtvchannels_19" xmltv_id="TLC">TLC</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="33||dtvchannels_20" xmltv_id="National Geographic">National Geographic</channel>
-    <channel site="[ENC][EX]tv.kpn.com_0" site_id="222||fa7af80f-7377-4b37-bb4e-103b3c0478a1" xmltv_id="SBS9">SBS9</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="222||fa7af80f-7377-4b37-bb4e-103b3c0478a1" xmltv_id="Viaplay TV">Viaplay TV</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="29||dtvchannels_15" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="109||dtvchannels_100169" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="190||565cf165-a496-4c85-9276-68a079d6aa41" xmltv_id="XITE">XITE</channel>
@@ -43,6 +43,7 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="47||dtvchannels_100176" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="253||be0da352-d437-4622-aa9a-eabbffd7d4c8" xmltv_id="Beleef KPN">Beleef KPN</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="149||ef03a5d7-24be-4b38-bb47-a380083876e8" xmltv_id="Zender van de maand">Zender van de maand</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="3599||3599" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="260||b359dd68-b3a4-490c-9be1-06798472e633" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="49||dtvchannels_13" xmltv_id="Das Erste (ARD)">Das Erste (ARD)</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="50||dtvchannels_14" xmltv_id="ZDF">ZDF</channel>
@@ -76,7 +77,7 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="2581||210a932e-2844-4dc0-b479-8381451b86a8" xmltv_id="France 2">France 2</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="191||6ac7b5b7-92b9-4dec-8e24-41a509269752" xmltv_id="RTV-7">RTV-7</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="257||ca980517-5f17-44a1-afe3-8504f6557cf4" xmltv_id="RAI Uno">RAI Uno</channel>
-    <channel site="[ENC][EX]tv.kpn.com_0" site_id="2707||23cf04b3-eda0-4fd1-8fea-de1b64917b20" xmltv_id="NPO 1 HDR">NPO 1 HDR</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="2707||23cf04b3-eda0-4fd1-8fea-de1b64917b20" xmltv_id="NPO 1 HDR SD">NPO 1 HDR SD</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="136||e2afcee3-2a73-4d51-80e2-ff7905d43b58" xmltv_id="MTV80s">MTV80s</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="58||dtvchannels_461" xmltv_id="SLAM! TV">SLAM! TV</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="137||dtvchannels_101449" xmltv_id="TV Oranje">TV Oranje</channel>
@@ -124,7 +125,6 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="203||87ba570d-8b53-4178-94f2-887921255e40" xmltv_id="ESPN 2">ESPN 2</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="76||dtvchannels_101151" xmltv_id="ESPN 3">ESPN 3</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="77||dtvchannels_101152" xmltv_id="ESPN 4">ESPN 4</channel>
-    <channel site="[ENC][EX]tv.kpn.com_0" site_id="3268||29f07c29-15be-487a-9901-151d3c7e9d95" xmltv_id="Viaplay Xtra">Viaplay Xtra</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="143||7855a8b4-dc6f-4140-b443-06562947af78" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="144||a20c8f2d-1c30-4db7-916e-970755da2911" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="145||1f87a397-5b3d-4d17-a61a-5d5565d7b032" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
@@ -136,9 +136,9 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="208||d6d0c49a-4c61-4c12-8ccc-126dc3b23d87" xmltv_id="Film1 Family">Film1 Family</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="209||cd78a1ea-84c1-4e7c-b923-5b33f8a04652" xmltv_id="Film1 Drama">Film1 Drama</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="59||dtvchannels_100936" xmltv_id="TV Noord">TV Noord</channel>
-    <channel site="[ENC][EX]tv.kpn.com_0" site_id="60||dtvchannels_100935" xmltv_id="Omrop Frysl��n">Omrop Frysl��n</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="60||dtvchannels_100935" xmltv_id="Omrop Fryslân">Omrop Fryslân</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="61||dtvchannels_100937" xmltv_id="RTV Drenthe">RTV Drenthe</channel>
-    <channel site="[ENC][EX]tv.kpn.com_0" site_id="62||dtvchannels_100938" xmltv_id="RTV Oost">RTV Oost</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="62||dtvchannels_100938" xmltv_id="Oost">Oost</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="63||dtvchannels_100940" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="64||dtvchannels_100939" xmltv_id="TV Gelderland">TV Gelderland</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="65||dtvchannels_100941" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
@@ -170,6 +170,7 @@
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="2795||8906bc29-8363-44e7-b252-16eb6e228b74" xmltv_id="Bang U">Bang U</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="141||dtvchannels_21" xmltv_id="Brazzers">Brazzers</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="2791||7d8d5892-224c-44bf-a4c7-e2f09cf71a35" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
+    <channel site="[ENC][EX]tv.kpn.com_0" site_id="2495||3aa24cd8-b93d-4a84-be2c-43083e137e45" xmltv_id="NPO 1 UHD">NPO 1 UHD</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="2476||af64afdb-56af-4b12-8ea9-cb3bde72d548" xmltv_id="test kanaal voor hdplus">test kanaal voor hdplus</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="2475||50390194-20cb-4107-b925-d05afe6e3a67" xmltv_id="test kanaal HD voor hdplus">test kanaal HD voor hdplus</channel>
     <channel site="[ENC][EX]tv.kpn.com_0" site_id="3047||3047" xmltv_id="PPV Test">PPV Test</channel>
