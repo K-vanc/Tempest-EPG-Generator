@@ -16,7 +16,7 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
   
 | Total Siteconfigs | Total Countries | Total Channels |
 | :---: | :---: | :---: |
-| 668 | 156 | +311500 |
+| 669 | 156 | +311500 |
 
 </div>
 
