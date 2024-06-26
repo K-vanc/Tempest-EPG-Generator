@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]neo.io_0">
+  <channels>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-slo-1||slo1.png" xmltv_id="TV SLO 1">TV SLO 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-slo-2||slo2.png" xmltv_id="TV SLO 2">TV SLO 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pop-tv||poptv.png" xmltv_id="POP TV">POP TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kanal-a||akanal_updated30920122247.png" xmltv_id="Kanal A">Kanal A</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="planet||planet_tv_updated3217132040.png" xmltv_id="Planet">Planet</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="planet-2||planet2_updated31719110250.png" xmltv_id="Planet 2">Planet 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hbo||hbo.png" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dizi||dizi_updated11823075355.png" xmltv_id="Dizi">Dizi</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="veseljak-golica||carlitv_updated3823081220.png" xmltv_id="Veseljak Golica">Veseljak Golica</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-tv||arenatv.png" xmltv_id="Arena TV">Arena TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="gold-tv||gold.png" xmltv_id="Gold TV">Gold TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="aktual-tv||tvpetelin_updated22323130545.png" xmltv_id="AKTUAL TV">AKTUAL TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="discovery-channel||discovery_updated16919122033.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="national-geographic||natgeo_updated141116162148.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="national-geographic-wild||natgeow.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="animal-planet||animal_updated22319090212.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="discovery-tlc||disctlc_updated25919150211.png" xmltv_id="Discovery TLC">Discovery TLC</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="discovery-id-xtra||discidx_updated25919150558.png" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dox-tv||doxtv_updated24423081841.png" xmltv_id="DOX TV">DOX TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="travelxp-hd||travelxphd_updated5319143644.png" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="travelxp-4k||travelxp4k_updated5319144758.png" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="planet-earth||planetearthsd_updated21823104228.png" xmltv_id="Planet Earth">Planet Earth</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="docubox||docubox_updated11823065630.png" xmltv_id="DocuBox">DocuBox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="viasat-history||history_updated1222130850.png" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bbc-earth||bbcearth.png" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="history-channel||historych.png" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="h2||h2_updated17723103519.png" xmltv_id="H2">H2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="da-vinci-learning||davincilear_updated8118113037.png" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="travel-channel||travel.png" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="viasat-nature||viasat_nature_updated1222131317.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="viasat-explore||viasat_explore_updated1222130403.png" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="curiosity-channel||curiosity_channel_updated31221091441.png" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="balkan-trip||balkantrip_updated231220133115.png" xmltv_id="Balkan trip">Balkan trip</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hbo-2||hbo2.png" xmltv_id="HBO 2">HBO 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hbo-3||hbo3.png" xmltv_id="HBO 3">HBO 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinemax||cinemax1_updated201016154659.png" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinemax-2||cinemax2_updated9916111421.png" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="star-channel||fox_updated21023075928.png" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="star-life||foxlife_updated21023080649.png" xmltv_id="STAR Life">STAR Life</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="star-crime||foxcrime_updated21023080331.png" xmltv_id="STAR Crime">STAR Crime</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="star-movies||foxmovies_updated21023081020.png" xmltv_id="STAR Movies">STAR Movies</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pickbox-tv||pickbox_tv_updated11021114112.png" xmltv_id="Pickbox TV">Pickbox TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-1000||tv1000_updated251121070512.png" xmltv_id="TV 1000">TV 1000</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kino||popkino_updated181120142722.png" xmltv_id="Kino">Kino</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="brio||brio.png" xmltv_id="Brio">Brio</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-tv-1||cinestartv_updated201123132527.png" xmltv_id="Cinestar TV 1">Cinestar TV 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-tv-2||cinestartv2_updated201123132933.png" xmltv_id="Cinestar TV 2">Cinestar TV 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-tv-action-&amp;-thriller||cinestaraction_updated201123134214.png" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-fantasy||cinestarfantasy_updated201123132159.png" xmltv_id="Cinestar Fantasy">Cinestar Fantasy</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-tv-premiere-1||cinestarpr1_updated201123134848.png" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cinestar-tv-premiere-2||cinestarpr2_updated201123140752.png" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bbc-first||bbcfirstsd__updated29922143012.png" xmltv_id="BBC First">BBC First</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="klasik||klasiktv_updated14922121346.png" xmltv_id="Klasik">Klasik</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="amc||mgm.png" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="diva||universal_updated9916111843.png" xmltv_id="Diva">Diva</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-serije||pinkserije_updated3521102835.png" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-film||pinkfilm.png" xmltv_id="Pink Film">Pink Film</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="epic-drama||epic_drama_updated151217073723.png" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="scifi||scifihd_updated24419092712.png" xmltv_id="SciFi">SciFi</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="filmbox-premium||filmbox_premium_updated11823063153.png" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="filmbox-extra||filmbox_extra_updated11823063555.png" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="filmbox-stars||filmbox_stars_updated11823064146.png" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="24kitchen||doq.png" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kitchen-tv||kitchen_tv_updated61221110421.png" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="e!||eeurope_updated10519095449.png" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="planet-eva||planetplus_updated24821081939.png" xmltv_id="Planet Eva">Planet Eva</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv3||tv3medias_updated21920090029.png" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fashion-hd||fashionhd_updated25919151711.png" xmltv_id="Fashion HD">Fashion HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fashion-tv||fashiontv_updated27919132425.png" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fashiontv-4k||fashionhd_updated25919152501.png" xmltv_id="FashionTV 4K">FashionTV 4K</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dr.-fit||drfit_updated9419141628.png" xmltv_id="Dr. Fit">Dr. Fit</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="woman||woman.png" xmltv_id="Woman">Woman</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arte||arte.png" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl||rtl.png" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl-ii||rtl2.png" xmltv_id="RTL II">RTL II</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="super-rtl||superrtl_updated25919164246.png" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kabel-1||kabel1.png" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vox||vox.png" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sat-1||sat1.png" xmltv_id="SAT 1">SAT 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pro7||pro7.png" xmltv_id="Pro7">Pro7</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="3sat||3sat_updated25919165224.png" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="n-tv||ntv_updated25919153716.png" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tve||tve.png" xmltv_id="TVE">TVE</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv5monde||tv5_updated201221082001.png" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mediaset-italia||mediainter.png" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="top-tv||infotv.png" xmltv_id="Top TV">Top TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-si||pinkslo.png" xmltv_id="PINK SI">PINK SI</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ewtn||ewtn.png" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="lh-tv-hd||lhtv_updated9223082421.png" xmltv_id="LH TV HD">LH TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-plus||pinkplus.png" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-zabava||pinkzabava.png" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-reality||pinkreality.png" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-show||pinkshow_updated3521144630.png" xmltv_id="Pink Show">Pink Show</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hgtv||hg_tv_updated311219084244.png" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="happy-puppy||happypuppy_updated28923073123.png" xmltv_id="Happy Puppy">Happy Puppy</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dog-tv||dogtv_updated28923074511.png" xmltv_id="Dog TV">Dog TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="filmbox-arthouse||filmbox_arthouse_updated11823064932.png" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fashionbox||fashionbox_updated11823070013.png" xmltv_id="FashionBox">FashionBox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fast-and-funbox||fast_and_funbox_updated11823070658.png" xmltv_id="Fast and FunBox">Fast and FunBox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="funbox||funbox_hd_updated11823093105.png" xmltv_id="FunBox 4K">FunBox 4K</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="minimax||minimax_updated2821094311.png" xmltv_id="Minimax">Minimax</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="oto||popoto.png" xmltv_id="OTO">OTO</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="baby-tv||babytv.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nickelodeon||nickleodeon_updated24823100842.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cartoon||cartoon.png" xmltv_id="Cartoon">Cartoon</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cartoonito||boomerang_updated17323101045.png" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="jimjam||jimjam_updated27718131838.png" xmltv_id="JimJam">JimJam</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="disney-channel||disney_updated25919165452.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="disney-junior||disneyjunior_updated4121152252.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nick-jr.||nick_jr_updated27224072544.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nicktoons||nicktoons_updated14921134020.png" xmltv_id="NickToons">NickToons</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl-kockica||rtl_kockica_updated271020152352.png" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sport-tv-1||sporttv_updated13323123230.png" xmltv_id="Šport TV 1">Šport TV 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sport-tv-2||sporttv2_updated13323123657.png" xmltv_id="Šport TV 2">Šport TV 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sport-tv-3||sporttv3_updated13323124019.png" xmltv_id="Šport TV 3">Šport TV 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-sport-1-premium||arenasport1premium_updated1822103028.png" xmltv_id="Arena Sport 1 Premium">Arena Sport 1 Premium</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-sport-1||arenasport1_updated23720110011.png" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-sport-2||arenasport2_updated23720110205.png" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-sport-3||arenasport3_updated19821105735.png" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-sport-4||arenasport4_updated19821105910.png" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-fight||arenafight_updated27721075504.png" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="arena-esport||arenaesport_updated241121112405.png" xmltv_id="Arena eSport">Arena eSport</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="eurosport-1||eurosport_updated16721155055.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="eurosport-2||eurosport2.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="gametoon||gametoon_updated11823072037.png" xmltv_id="Gametoon">Gametoon</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fightbox||fightbox_updated11823071341.png" xmltv_id="FightBox">FightBox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="extreme-tv||extreme.png" xmltv_id="Extreme TV">Extreme TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="motorvision+||motorvisiontv_updated28823061306.png" xmltv_id="Motorvision+">Motorvision+</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="trace-sport||tracesport.png" xmltv_id="Trace Sport">Trace Sport</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nautical-channel||yachtsail.png" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-folk-2||pinkfolk2_updated3521102647.png" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-koncert||pinkkoncert_updated21122091121.png" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink'n'roll||pinknroll_updated21122091253.png" xmltv_id="Pink'n'Roll">Pink'n'Roll</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-hd||mtvlivehd_updated25919152712.png" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-00s||vh1_updated2821083025.png" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cmc||cmc_updated27919111135.png" xmltv_id="CMC">CMC</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="klape-i-tambure-tv||klape_i_tambure_tv_updated7920123029.png" xmltv_id="Klape i tambure TV">Klape i tambure TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="jugoton||jugotontv.png" xmltv_id="Jugoton">Jugoton</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="club-mtv||mtvdance_updated11620133716.png" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-hits||mtvh.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="trace-urban||trace.png" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-90s||mtv2_updated51020122352.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-80s||vh1cla_updated51020123319.png" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mezzo||mezzo_updated22323083158.png" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-music||pinkmusic.png" xmltv_id="Pink Music">Pink Music</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dm-sat||dmtv.png" xmltv_id="DM SAT">DM SAT</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-extra||pinkextra.png" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pink-folk||pinkfolk.png" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="adria||adria_updated181021133449.png" xmltv_id="Adria">Adria</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="folx||folx_updated181021134615.png" xmltv_id="Folx">Folx</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="one-adria||one_adria_updated181021134250.png" xmltv_id="One Adria">One Adria</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mezzo-live-hd||mezzolivehd_updated22323083436.png" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="museum-hd||museum_hd_updated221221104621.png" xmltv_id="Museum HD">Museum HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-zlati-zvoki||tvgolica_updated31523091503.png" xmltv_id="TV Zlati zvoki">TV Zlati zvoki</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="prva-tv||prvatvhd_updated7623092219.png" xmltv_id="PRVA TV">PRVA TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="best-tv||tvveseljak_updated19723090459.png" xmltv_id="BEST TV">BEST TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="360-tunebox||360_tunebox_updated11823072901.png" xmltv_id="360 TuneBox">360 TuneBox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv8||tv8_updated8916115434.png" xmltv_id="Tv8">Tv8</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="net-tv||net_updated181218115252.png" xmltv_id="NET TV">NET TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vas-kanal||vaskanal.png" xmltv_id="Vaš kanal">Vaš kanal</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ptujska-tv||ptujtv.png" xmltv_id="Ptujska TV">Ptujska TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sip-tv||siptv.png" xmltv_id="SIP TV">SIP TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-as||tvas.png" xmltv_id="TV As">TV As</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rts-maribor||rtsm_updated231017110533.png" xmltv_id="RTS Maribor">RTS Maribor</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vtv||vtv.png" xmltv_id="VTV">VTV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bk-tv||bktv.png" xmltv_id="BK TV">BK TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-celje||tvcelje.png" xmltv_id="TV Celje">TV Celje</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kanal-10-/-idea-tv||ideatv_updated8722114555.png" xmltv_id="Kanal 10 / Idea TV">Kanal 10 / Idea TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-galeja-hd||galejatv.png" xmltv_id="TV Galeja HD">TV Galeja HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="eposavje-tv||ansattv_updated21920091624.png" xmltv_id="ePosavje TV HD">ePosavje TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="exodus-tv||exodustv.png" xmltv_id="Exodus TV">Exodus TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="megafon-tv-hd||megafontv_updated71022134144.png" xmltv_id="Megafon TV HD">Megafon TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="koroska-tv||koroskatv.png" xmltv_id="KOROŠKA TV">KOROŠKA TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="zdrava-tv||zdrava_tv_updated4322110600.png" xmltv_id="Zdrava TV">Zdrava TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="atm-tv-kranjska-gora-hd||atmtvkg.png" xmltv_id="ATM TV Kranjska Gora HD">ATM TV Kranjska Gora HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-radgona||tvradgona_updated101122104717.png" xmltv_id="TV Radgona">TV Radgona</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-nakupi-hd||tvnakupihd_updated2217144400.png" xmltv_id="TV nakupi HD">TV nakupi HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ljubljana-tv-hd||ljubljanatvhd_updated261117191242.png" xmltv_id="Ljubljana TV HD">Ljubljana TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="r-kanal+||rkanalp.png" xmltv_id="R Kanal+">R Kanal+</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="oron-tv||orontv_updated231216094130.png" xmltv_id="Oron TV">Oron TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-ormoz-hd||tvormoz_updated12916105612.png" xmltv_id="Tv Ormož HD">Tv Ormož HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-miklavz-hd||tvmiklavz_updated71220154659.png" xmltv_id="TV Miklavž HD">TV Miklavž HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-beltinci||tvbeltinci_updated23419092500.png" xmltv_id="TV Beltinci">TV Beltinci</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="savinjska-tv||savinjskatv.png" xmltv_id="Savinjska TV">Savinjska TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-vascom||tvvascom_updated28918143630.png" xmltv_id="TV Vascom">TV Vascom</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="etv-hd||etv_updated91018160515.png" xmltv_id="ETV HD">ETV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vitel||vitel.png" xmltv_id="Vitel">Vitel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kic-tv||kictv_updated26523093028.png" xmltv_id="KIC TV">KIC TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="trzic-tv||trzic_tv_updated19419142151.png" xmltv_id="Tržič TV">Tržič TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-slo-3||slo3.png" xmltv_id="TV SLO 3">TV SLO 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nova-24-tv||nova24tv_updated261023124004.png" xmltv_id="Nova 24 TV">Nova 24 TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nova-24-tv-2||nova24tv2_updated261023124603.png" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-koper-capodistria||koper.png" xmltv_id="TV Koper Capodistria">TV Koper Capodistria</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tele-maribor||telem.png" xmltv_id="Tele Maribor">Tele Maribor</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hrt-1||hrt1_updated241016104810.png" xmltv_id="HRT 1">HRT 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hrt-2||hrt2_updated241016104915.png" xmltv_id="HRT 2">HRT 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hrt-3||hrt3_updated241016105155.png" xmltv_id="HRT 3">HRT 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="obn||obnbosna.png" xmltv_id="OBN">OBN</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rt-srbija-hd||rts.png" xmltv_id="RT Srbija HD">RT Srbija HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mne||rtcg_updated3424111500.png" xmltv_id="MNE">MNE</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtk||rtk.png" xmltv_id="RTK">RTK</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="al-jazeera-balkans||aljazeera.png" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hayat||hayat_updated24523094037.png" xmltv_id="Hayat">Hayat</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="elta-tv||eltatv.png" xmltv_id="ELTA TV">ELTA TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bn-tv-2||bntv_updated131022092521.png" xmltv_id="BN TV 2">BN TV 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cnn||cnn.png" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bbc-news||bbcworld_updated3423092142.png" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sky-news||skynews.png" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bloomberg-adria||bloombergadria_updated26722083650.png" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-1||rai1_updated20916143752.png" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="france-24||france24_updated8916103917.png" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="zdf||zdf.png" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ard||ard_updated25919165011.png" xmltv_id="ARD">ARD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="fox-news||foxnews_updated22921152845.png" xmltv_id="Fox News">Fox News</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="orf-1||orf1_updated25919154618.png" xmltv_id="ORF 1">ORF 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="orf-2||orf2_updated25919155505.png" xmltv_id="ORF 2">ORF 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-2||rai2_updated20916143623.png" xmltv_id="RAI 2">RAI 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-3||rai3_updated20916143449.png" xmltv_id="RAI 3">RAI 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="duna-world||duna_updated31016144834.png" xmltv_id="Duna World">Duna World</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="1+1-international||1_1_international_updated11322143413.png" xmltv_id="1+1 International">1+1 International</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dom-kino||domkino_updated181217103932.png" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="telecafe||telecafe_updated181217104442.png" xmltv_id="Telecafe">Telecafe</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vremya||vremya_updated18920140424.png" xmltv_id="Vremya">Vremya</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="muzika-pervogo||muzpervogo_updated181217104307.png" xmltv_id="Muzika Pervogo">Muzika Pervogo</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="karousel||karousel_updated181217104134.png" xmltv_id="Karousel">Karousel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tnt-music||tnt_music_updated2620121637.png" xmltv_id="TNT Music">TNT Music</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="duna-hd||dunahd_updated121016121013.png" xmltv_id="Duna HD">Duna HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="italia-1||italia1_updated27617141944.png" xmltv_id="Italia 1">Italia 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rete-4||rete4_updated25919162650.png" xmltv_id="Rete 4">Rete 4</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="canale-5||canale5_updated25919164531.png" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="cartoonito-italija||cartoonito_updated10118142531.png" xmltv_id="Cartoonito Italija">Cartoonito Italija</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="focus||focus_updated10118144639.png" xmltv_id="Focus">Focus</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-yoyo||yoyo_updated10118144826.png" xmltv_id="Rai YoYo">Rai YoYo</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-movie||raim_updated10118144927.png" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-sport||rais_updated10118145030.png" xmltv_id="Rai Sport">Rai Sport</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-8||tv8_updated10118145226.png" xmltv_id="TV 8">TV 8</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="20-mediaset||canale_20_updated25919144925.png" xmltv_id="20 Mediaset">20 Mediaset</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ictbusiness-tv||ict_updated29224135102.png" xmltv_id="ICTbusiness TV">ICTbusiness TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="m1-hd||m1hd_updated3621134023.png" xmltv_id="M1 HD">M1 HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="m4-sport-hd||m4sporthd_updated3621133902.png" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rai-3-bis||rai3_bis_updated3424131715.png" xmltv_id="RAI 3 BIS">RAI 3 BIS</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl-2-hrvaska||rtlhrvatska2.png" xmltv_id="RTL 2 Hrvaška">RTL 2 Hrvaška</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl-hrvaska||rtlhrvatska.png" xmltv_id="RTL Hrvaška">RTL Hrvaška</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtl-living||rtlplus.png" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="otv-valentino||valentino.png" xmltv_id="OTV Valentino">OTV Valentino</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tring-7||tring7.png" xmltv_id="Tring 7">Tring 7</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tring-max||tringm.png" xmltv_id="Tring Max">Tring Max</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tring-shqip||trings.png" xmltv_id="Tring Shqip">Tring Shqip</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tring-tring||tringt.png" xmltv_id="Tring Tring">Tring Tring</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tring-vizion+||tringvp.png" xmltv_id="Tring Vizion+">Tring Vizion+</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-max||prva_max_updated19923081907.png" xmltv_id="TV Prva Max">TV Prva Max</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="elta-2||alternativa.png" xmltv_id="Elta 2">Elta 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-world||prva_world_updated19923082718.png" xmltv_id="TV Prva World">TV Prva World</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ftv||ftv.png" xmltv_id="FTV">FTV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ntv-ic-kakanj||kakanj.png" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="folk-plus||folkp.png" xmltv_id="Folk Plus">Folk Plus</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtrs||rtrs.png" xmltv_id="RTRS">RTRS</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="o-kanal||tv1_updated7220121631.png" xmltv_id="O Kanal">O Kanal</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-sarajevo||sarajevo.png" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="zdrava-televizija||zdrava.png" xmltv_id="Zdrava Televizija">Zdrava Televizija</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-files||prva_files_updated19923080521.png" xmltv_id="TV Prva Files">TV Prva Files</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-kick||prva_kick_updated19923081000.png" xmltv_id="TV Prva Kick">TV Prva Kick</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-plus||prva_plus_updated19923082313.png" xmltv_id="TV Prva Plus">TV Prva Plus</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="jabuka-(otv)||jabukatv_updated71220154223.png" xmltv_id="Jabuka (OTV)">Jabuka (OTV)</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="narodna-tv||narodna.png" xmltv_id="Narodna TV">Narodna TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mreza-tv||kutina_updated101120154639.png" xmltv_id="MREŽA TV">MREŽA TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-ri||istra_updated10720105011.png" xmltv_id="TV RI">TV RI</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-jadran||jadran.png" xmltv_id="TV Jadran">TV Jadran</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="z1-televizija||z1.png" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="alfa-tv||alfa.png" xmltv_id="Alfa TV">Alfa TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="alsat-macedonia||alsatm.png" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sonce-tv||sonce_tv_updated181021135943.png" xmltv_id="Sonce TV">Sonce TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="happy-reality-1||happy_reality_1_updated221121090807.png" xmltv_id="Happy Reality 1">Happy Reality 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-1||mktv1.png" xmltv_id="MTV 1">MTV 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-2||mktv2.png" xmltv_id="MTV 2">MTV 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mtv-3||mktv3.png" xmltv_id="MTV 3">MTV 3</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="nasa-tv||nasatv.png" xmltv_id="NAŠA TV">NAŠA TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="happy-reality-2||happy_reality_2_updated91221132841.png" xmltv_id="Happy Reality 2">Happy Reality 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bir||bir_updated16823091800.png" xmltv_id="BIR">BIR</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-sitel||sitel.png" xmltv_id="TV Sitel">TV Sitel</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="b92||b92_updated101120154406.png" xmltv_id="B92">B92</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-prva-life||prva_life_updated19923081436.png" xmltv_id="TV Prva Life">TV Prva Life</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="happy-tv||happy.png" xmltv_id="Happy TV">Happy TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vikom||vikom.png" xmltv_id="Vikom">Vikom</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kcn-1||kcn.png" xmltv_id="KCN">KCN</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kcn-2-(music)||kcnm.png" xmltv_id="KCN Music">KCN Music</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="prva-srbska-tv||prvasrb_updated19923080110.png" xmltv_id="PRVA Srbska TV">PRVA Srbska TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rts-1||rts1.png" xmltv_id="RTS 1">RTS 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rts-2||rts2.png" xmltv_id="RTS 2">RTS 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-duga-novi-sad||dugans.png" xmltv_id="TV Duga Novi sad">TV Duga Novi sad</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kcn-3-(svet+)||spbeograd.png" xmltv_id="TV Svet Plus Beograd">TV Svet Plus Beograd</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="bht1||bht1_updated271020145733.png" xmltv_id="BHT1">BHT1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="elta-hd||eltahd_updated271020150232.png" xmltv_id="ELTA HD">ELTA HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hema||hema_updated271020151618.png" xmltv_id="Hema">Hema</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="living-hd||living_hd_updated271020151846.png" xmltv_id="Living HD">Living HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rtcg-2||rtcg2_updated271020152150.png" xmltv_id="RTCG 2">RTCG 2</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="slon-tv-extra||slon_tv_ekstra_updated281020081719.png" xmltv_id="SLON TV extra">SLON TV extra</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tv-vijesti||tv_vijesti_updated281020082230.png" xmltv_id="TV Vijesti">TV Vijesti</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="televizija-24||televizija_24_updated271020145506.png" xmltv_id="Televizija 24">Televizija 24</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="otv-music||otv_music_updated281020082610.png" xmltv_id="OTV music">OTV music</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="non-stop||non_stop_updated29822141109.png" xmltv_id="NON Stop">NON Stop</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hit-tv||hit_tv_updated29822141335.png" xmltv_id="Hit TV">Hit TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="love-nature||lovenaturehd_updated15623125316.png" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="love-nature-4k||lovenature4k_updated15623125452.png" xmltv_id="Love Nature 4k">Love Nature 4k</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="glam-hd||glamhd_updated71223064559.png" xmltv_id="Glam HD">Glam HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="foxy-dolls-hd||foxydollshd_updated71223064844.png" xmltv_id="Foxy Dolls HD">Foxy Dolls HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="extrem||extremede.png" xmltv_id="Extrem">Extrem</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hot-pleasure||hotpleasure.png" xmltv_id="Hot Pleasure">Hot Pleasure</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="balkan-erotic||balkan.png" xmltv_id="Balkan Erotic">Balkan Erotic</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="playboy-tv||playboytv.png" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="brazzers-tv-europe||spice.png" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dorcel-tv-hd||dorcel_updated4322105734.png" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dorcel-xxx-hd||dorcelhd_updated4322110031.png" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hustler-tv-hd||hustlerhd.png" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="private-tv||private.png" xmltv_id="Private TV">Private TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="super-one-hd||superonehd.png" xmltv_id="Super One HD">Super One HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="dusk-tv||dusktv.png" xmltv_id="Dusk TV">Dusk TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="redlight-hd||satisfactiontv_updated10720103924.png" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="centoxcento||sctprive_updated6720151835.png" xmltv_id="CentoXCento">CentoXCento</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vivid-red-hd||sct_updated10720104251.png" xmltv_id="Vivid Red HD">Vivid Red HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="pinko-club||platinumtv_updated6720152150.png" xmltv_id="Pinko club">Pinko club</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="vivid-touch||vividtouchhd_updated16622075324.png" xmltv_id="Vivid Touch">Vivid Touch</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="gasscore-hd||gasscorehd_updated81223123043.png" xmltv_id="Gasscore HD">Gasscore HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="purple-pills-hd||purplepillshd_updated4624102239.png" xmltv_id="Purple pills HD">Purple pills HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="sexation||sexation.png" xmltv_id="Sexation">Sexation</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="reality-kings-tv||rkings_updated2218083950.png" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hustler-tv||hustler.png" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="hot-xxl||hotxxl_updated151223120121.png" xmltv_id="Hot XXL">Hot XXL</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="passion-xxx-hd||passionxxxhd_updated2223145909.png" xmltv_id="Passion XXX HD">Passion XXX HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="erox||erox_updated11823073622.png" xmltv_id="Erox">Erox</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="eroxxx||eroxxx_updated11823074553.png" xmltv_id="Eroxxx">Eroxxx</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="devils-home-hd||devilshomehd_updated71223065548.png" xmltv_id="Devils Home HD">Devils Home HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="capable-hole-hd||capableholehd_updated71223065900.png" xmltv_id="Capable Hole HD">Capable Hole HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="boob-hd||boobhd_updated71223070119.png" xmltv_id="BooB HD">BooB HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="angels-hd||angelshd_updated71223070519.png" xmltv_id="Angels HD">Angels HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="mixxx-hd||mixxxhd_updated71223070827.png" xmltv_id="MIXXX HD">MIXXX HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="xxxtazy-hd||xxxtazyhd_updated71223071056.png" xmltv_id="XXXTAZY HD">XXXTAZY HD</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-80's||radioc80_updated201222101446.png" xmltv_id="Radio Capris 80'S">Radio Capris 80'S</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-90's-dance||radioc90_updated201222101718.png" xmltv_id="Radio Capris 90'S Dance">Radio Capris 90'S Dance</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-90's-pop||radioc90pop_updated201222102039.png" xmltv_id="Radio Capris 90'S Pop">Radio Capris 90'S Pop</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-dalmacija||radioccdalmacija_updated201222102441.png" xmltv_id="Radio Capris Dalmacija">Radio Capris Dalmacija</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-hits||radiochits_updated201222103851.png" xmltv_id="Radio Capris Hits">Radio Capris Hits</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-rock||radiocrock_updated201222105059.png" xmltv_id="Radio Capris Rock">Radio Capris Rock</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-love||radiocromantic_updated201222104924.png" xmltv_id="Radio Capris LOVE">Radio Capris LOVE</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-primorski-val||radio_primorski_val_updated1420094457.png" xmltv_id="Radio Primorski val">Radio Primorski val</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-brezice-eu||radiobrezice_updated19819124811.png" xmltv_id="Radio Brežice EU">Radio Brežice EU</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-zica||radio_zica_updated19419142706.png" xmltv_id="Radio Žica">Radio Žica</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-mars||radio_mars_updated4219104748.png" xmltv_id="Radio Marš">Radio Marš</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-prvi||radioa1.png" xmltv_id="Radio Prvi">Radio Prvi</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="val-202||radioval202.png" xmltv_id="Val 202">Val 202</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-slovenia-international||radiosi.png" xmltv_id="Radio Slovenia International">Radio Slovenia International</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-1||radio1.png" xmltv_id="Radio 1">Radio 1</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center||radiocenter_updated141223092837.png" xmltv_id="Radio Center">Radio Center</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-ekspres||radioekspres_updated22319083718.png" xmltv_id="Radio Ekspres">Radio Ekspres</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-hit||radiohit.png" xmltv_id="Radio Hit">Radio Hit</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-antena||radioantena.png" xmltv_id="Radio Antena">Radio Antena</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-aktual||radioaktual_updated51218142012.png" xmltv_id="Radio Aktual">Radio Aktual</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-city||radiocity.png" xmltv_id="Radio City">Radio City</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-zeleni-val||radiozelenival.png" xmltv_id="Radio Zeleni Val">Radio Zeleni Val</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-kranj||radiokranj_updated131117150425.png" xmltv_id="Radio Kranj">Radio Kranj</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-ognjisce||radioognjisce.png" xmltv_id="Radio Ognjišče">Radio Ognjišče</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="ars||radioars.png" xmltv_id="ARS">ARS</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capodistria||radiocapodistria.png" xmltv_id="Radio Capodistria">Radio Capodistria</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rock-radio||rockradio.png" xmltv_id="Rock Radio">Rock Radio</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-student||radiostudent.png" xmltv_id="Radio Študent">Radio Študent</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-krka||radiokrka.png" xmltv_id="Radio Krka">Radio Krka</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-maribor||radiomb.png" xmltv_id="Radio Maribor">Radio Maribor</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-salomon||radiosalomon.png" xmltv_id="Radio Salomon">Radio Salomon</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-veseljak||radioveseljak.png" xmltv_id="Radio Veseljak">Radio Veseljak</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-rogla||radiorogla.png" xmltv_id="Radio Rogla">Radio Rogla</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris||radiocapris_updated201222101134.png" xmltv_id="Radio Capris">Radio Capris</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-triglav||radiotriglav.png" xmltv_id="Radio Triglav">Radio Triglav</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-koper||radiokoper.png" xmltv_id="Radio Koper">Radio Koper</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-stajerski-val||stajval.png" xmltv_id="Radio Štajerski Val">Radio Štajerski Val</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-gorenc||radiogorenc_updated9916112004.png" xmltv_id="Radio Gorenc">Radio Gorenc</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-celje||radiocelje_updated23916100201.png" xmltv_id="Radio Celje">Radio Celje</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-1-80-a||radio2_updated15223074640.png" xmltv_id="Radio 1 80-a">Radio 1 80-a</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-vrabcek||radio_vrabcek_updated4219095154.png" xmltv_id="Radio Vrabček">Radio Vrabček</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-80's||radiocenter80s_updated181220102237.png" xmltv_id="Radio Center 80's">Radio Center 80's</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-top-100||radiocentertop100_updated181220103205.png" xmltv_id="Radio Center TOP 100">Radio Center TOP 100</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-love||radiocenterlove_updated181220102804.png" xmltv_id="Radio Center LOVE">Radio Center LOVE</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-megamix||radiocentermegamix_updated181220102934.png" xmltv_id="Radio Center MEGAMIX">Radio Center MEGAMIX</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-fresh-pop||radiocenterfreshpop_updated181220102119.png" xmltv_id="Radio Center FRESH POP">Radio Center FRESH POP</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-yu||radiocenteryu_updated181220105556.png" xmltv_id="Radio Center YU">Radio Center YU</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-center-latin||radiocenterlatin_updated181220102501.png" xmltv_id="Radio Center LATIN">Radio Center LATIN</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rock-radio-best-ballads||rockradiobestballads_updated181220105808.png" xmltv_id="Rock Radio BEST BALLADS">Rock Radio BEST BALLADS</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rock-radio-hard-&amp;-heavy||rockradiohardnheavy_updated181220120319.png" xmltv_id="Rock Radio HARD &amp; HEAVY">Rock Radio HARD &amp; HEAVY</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="rock-radio-classics||rockradioclassics_updated181220110036.png" xmltv_id="Rock Radio CLASSICS">Rock Radio CLASSICS</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-ptuj||radio_ptuj_updated14921082221.png" xmltv_id="Radio Ptuj">Radio Ptuj</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-spomini||radio_capris_spomini_updated201222105231.png" xmltv_id="Radio Capris Spomini">Radio Capris Spomini</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-capris-in-the-mix||radiocinthemix_updated201222104425.png" xmltv_id="Radio Capris IN THE MIX">Radio Capris IN THE MIX</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="best-fm||radiobestfm_updated151122125347.png" xmltv_id="Best FM">Best FM</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-maxi||radiomaxi_updated101122095600.png" xmltv_id="Radio Maxi">Radio Maxi</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-robin||radiorobin_updated101122101004.png" xmltv_id="Radio Robin">Radio Robin</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-murski-val||radiomurskival_updated30123102156.png" xmltv_id="Radio Murski val">Radio Murski val</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-sloven'c||radioslovenc_updated16223091410.png" xmltv_id="Radio Sloven'c">Radio Sloven'c</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-sraka||radiosraka_updated22523134141.png" xmltv_id="Radio Sraka">Radio Sraka</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="morska-obala||ambient_updated7520105820.png" xmltv_id="Morska obala">Morska obala</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="tropski-podvodni-svet||tropski_svet_updated7520110013.png" xmltv_id="Tropski podvodni svet">Tropski podvodni svet</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="kamin||kamin_updated31219125955.png" xmltv_id="Kamin">Kamin</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="toti-radio||totiradio_updated19923084928.png" xmltv_id="Toti Radio">Toti Radio</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-enter||radioenter_updated141223112138.png" xmltv_id="Radio Enter">Radio Enter</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-fantasy||radiofantasy_updated19224115727.png" xmltv_id="Radio Fantasy">Radio Fantasy</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-bob||radiobob_updated8524074053.png" xmltv_id="Radio BOB">Radio BOB</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="radio-terminal||radioterminal_updated23524120913.png" xmltv_id="Radio Terminal">Radio Terminal</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="capris-number-1's||radiocaprisnumber1_updated5624095607.png" xmltv_id="Capris NUMBER 1's">Capris NUMBER 1's</channel>
+    <channel site="[ENC][EX]neo.io_0" site_id="veseli-december||veselidecember_updated131219093011.png" xmltv_id="Veseli december">Veseli december</channel>
+  </channels>
+</site>
