@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="antennaeurope.gr_0">
+  <channels>
+    <channel site="antennaeurope.gr_0" site_id="antennaeurope" xmltv_id="ANT1 Europe">ANT1 Europe</channel>
+    <channel site="antennaeurope.gr_0" site_id="antennasatellite" xmltv_id="ANT1 Satellite">ANT1 Satellite</channel>
+    <channel site="antennaeurope.gr_0" site_id="antennapacific" xmltv_id="ANT1 Pacific">ANT1 Pacific</channel>
+  </channels>
+</site>

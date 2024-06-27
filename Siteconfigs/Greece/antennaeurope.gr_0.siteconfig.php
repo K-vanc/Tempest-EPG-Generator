@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'antennaeurope.gr',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-06-27',
+  'rev_no' => 'R0',
+  'remarks' => 'Also Contains Satellite and Pacific Channels ',
+  'timezone' => 'Europe/Athens',
+  'culture' => 'el',
+  'max_day' => '14',
+  'url1' => 'https://www.##channel##.gr/el/tvguide.html?date=##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'host_header1' => 'www.##channel##.gr',
+  'urldate_format1' => 'Y-m-d',
+  'show' => '(<dl class=\'show row\\s*(?:(?:active\\s*)?hiddenPr_)?\'>.*?<\\/dl>)',
+  'start' => 'time col-2\'>\\s*(\\d+[\\.:]\\d+)',
+  'start_format' => 'H#i',
+  'title' => 'class=\'title\'.*?\'>(.*?)<\\/',
+  'category' => '"typeshowc">(L)<\\/span>||#replace#(L)||Live',
+  'pagekey1' => 'href=\'(.*?)\'',
+  'detail_url1' => '##pagekey1##',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'detail_host_header1' => 'www.##channel##.gr',
+  'detail_subtitle' => '<p class="excerpt">(.*?)<\\/p>',
+  'detail_desc' => 'Σχετικά<\\/h1>(.*?)<\\/div>||#replace#(<\\/p>)||\\n',
+  'detail_showicon' => '"heroItem">\\s*<img alt=".*?src="(.*?)"',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#antennaeurope|antennasatellite|antennapacific',
+  'ccchannel_name' => '||#set#ANT1 Europe|ANT1 Satellite|ANT1 Pacific',
+);
+?>
