@@ -35,12 +35,14 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|jojcinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|jojfamily" xmltv_id="JOJ Family">JOJ Family</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|markizaint" xmltv_id="Markíza International">Markíza International</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|spektrum_home" xmltv_id="Spektrum home">Spektrum home</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|HBO" xmltv_id="HBO">HBO</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|HBO2" xmltv_id="HBO 2">HBO 2</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|hbo_comedy" xmltv_id="HBO 3">HBO 3</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|cinemax1" xmltv_id="Cinemax 1">Cinemax 1</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="1|##|filmbox" xmltv_id="FilmBox">FilmBox</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|warner_tv" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|filmbox" xmltv_id="FilmBox">FilmBox</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|FilmboxHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|FilmboxExtra" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|FilmboxFamily" xmltv_id="FilmBox Family">FilmBox Family</channel>
@@ -52,15 +54,15 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|Fastnfunbox" xmltv_id="Fast &amp; Fun Box">Fast &amp; Fun Box</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|funbox_uhd" xmltv_id="FunBox UHD">FunBox UHD</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|360TuneBox" xmltv_id="360TuneBox">360TuneBox</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|up_network" xmltv_id="Spark">Spark</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|barrandov" xmltv_id="TV Barrandov">TV Barrandov</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|barrandovplus" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|kinobarrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|up_network" xmltv_id="Spark">Spark</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|regiotv" xmltv_id="A11">A11</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|axn" xmltv_id="AXN">AXN</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|axnblack" xmltv_id="AXN Black">AXN Black</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|axnwhite" xmltv_id="AXN White">AXN White</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="2|##|Film_Europe" xmltv_id="Film Europe">Film Europe</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|axnwhite" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|Film_Europe" xmltv_id="Film Europe">Film Europe</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|Kino_CS" xmltv_id="Film Europe + HD">Film Europe + HD</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|cs_film" xmltv_id="CS Film">CS Film</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|kinosvet" xmltv_id="CS Mystery">CS Mystery</channel>
@@ -76,15 +78,13 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|animal_planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|travelhd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|spektrum" xmltv_id="Spektrum">Spektrum</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|spektrum_home" xmltv_id="Spektrum home">Spektrum home</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|tv_paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|viasat_history" xmltv_id="Viasat History">Viasat History</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|viasat_explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="3|##|viasat_nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|viasat_explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|viasat_nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|Discovery" xmltv_id="Discovery">Discovery</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|TLC" xmltv_id="Discovery: TLC">Discovery: TLC</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|Science" xmltv_id="Discovery Science - vysílání ukončeno k 31.12.2023">Discovery Science - vysílání ukončeno k 31.12.2023</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|world" xmltv_id="Discovery Turbo Xtra - vysílání ukončeno k 31.12.2023">Discovery Turbo Xtra - vysílání ukončeno k 31.12.2023</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|ID" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|sat_crime_invest" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="4|##|hgtv_ce" xmltv_id="HGTV">HGTV</channel>
@@ -118,16 +118,13 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|mtv" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|VH1" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|slagr_premium" xmltv_id="Šláger Premium HD">Šláger Premium HD</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|slagr_premium" xmltv_id="Premium">Premium</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|slagr" xmltv_id="Šláger Originál">Šláger Originál</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="5|##|slagr2" xmltv_id="Šláger Muzika">Šláger Muzika</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|cartoon_network_hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|cartoon_cz" xmltv_id="Cartoon Network CZ">Cartoon Network CZ</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|cartoon" xmltv_id="Cartoon Network EN">Cartoon Network EN</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|boomerang" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|nickjr" xmltv_id="Nick JR">Nick JR</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|nick_jr_en" xmltv_id="Nick JR EN">Nick JR EN</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|Disney_Channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|Jim_Jam" xmltv_id="Jim Jam">Jim Jam</channel>
@@ -141,15 +138,13 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|bbc" xmltv_id="BBC News">BBC News</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|cnn" xmltv_id="CNN">CNN</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|tv5" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|ta3" xmltv_id="TA3">TA3</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|sky_news" xmltv_id="Sky News">Sky News</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|france24" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|ta3" xmltv_id="TA3">TA3</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|sky_news" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="6|##|france24" xmltv_id="France 24">France 24</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|france24_fr" xmltv_id="France 24 (FR)">France 24 (FR)</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|tvnoe" xmltv_id="TV Noe">TV Noe</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|TVlife" xmltv_id="Life TV">Life TV</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|natura" xmltv_id="TV Natura">TV Natura</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|tv_lux" xmltv_id="TV Lux">TV Lux</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|lounge" xmltv_id="Lounge TV">Lounge TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|hobby" xmltv_id="Hobby TV">Hobby TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|mnamtv" xmltv_id="TV Mňam">TV Mňam</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|mnau" xmltv_id="TV Mňau">TV Mňau</channel>
@@ -161,11 +156,11 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|v1tv" xmltv_id="V1 TV">V1 TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|brno1" xmltv_id="TV Brno 1">TV Brno 1</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|praha" xmltv_id="TV Praha">TV Praha</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|rtm_plus_liberec" xmltv_id="RTM+ (Liberecko)">RTM+ (Liberecko)</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|oik" xmltv_id="OIK TV">OIK TV</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|ivysocina_stream_zs" xmltv_id="i-Vysočina">i-Vysočina</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|tvbeskyd" xmltv_id="TV Beskyd">TV Beskyd</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|uatv" xmltv_id="UA TV">UA TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|rtm_plus_liberec" xmltv_id="RTM+ (Liberecko)">RTM+ (Liberecko)</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|oik" xmltv_id="OIK TV">OIK TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|ivysocina_stream_zs" xmltv_id="i-Vysočina">i-Vysočina</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|tvbeskyd" xmltv_id="TV Beskyd">TV Beskyd</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="7|##|uatv" xmltv_id="UA TV">UA TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|m1" xmltv_id="M1">M1</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|m2" xmltv_id="M2">M2</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|duna" xmltv_id="Duna">Duna</channel>
@@ -177,13 +172,17 @@
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|jihoceska_televize" xmltv_id="Jihočeská televize">Jihočeská televize</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|tik_bohumin" xmltv_id="Tik Bohumín">Tik Bohumín</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|rt_jc" xmltv_id="Regionální televize jižní Čechy">Regionální televize jižní Čechy</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|rt_jc" xmltv_id="Kurýr TV">Kurýr TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|rt_ustecko" xmltv_id="RT Ústecko">RT Ústecko</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|eroxHD" xmltv_id="Erox">Erox</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|eroxxxHD" xmltv_id="Eroxxx">Eroxxx</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|extasy_4k" xmltv_id="Extasy 4K">Extasy 4K</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
-    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|espresso" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|extasy_4k" xmltv_id="Extasy 4K Platinum">Extasy 4K Platinum</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|espresso" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|sporty_tv" xmltv_id="Sporty TV">Sporty TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="8|##|oktv" xmltv_id="OK TV">OK TV</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|ivodarenstvi" xmltv_id="iVodárenství">iVodárenství</channel>
+    <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|tvr" xmltv_id="TV R">TV R</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|DorceltvHD" xmltv_id="Dorcel TV">Dorcel TV</channel>
     <channel site="[ENC][EX]sledovanitv.cz_0" site_id="9|##|DorcelHD" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
