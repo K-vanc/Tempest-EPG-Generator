@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sat7plus.org[en]_0">
-  <channels>
-    <channel site="sat7plus.org[en]_0" site_id="3" xmltv_id="SAT-7 ARABIC">SAT-7 ARABIC</channel>
-    <channel site="sat7plus.org[en]_0" site_id="1" xmltv_id="SAT-7 PARS">SAT-7 PARS</channel>
-    <channel site="sat7plus.org[en]_0" site_id="2" xmltv_id="SAT-7 TURK">SAT-7 TURK</channel>
-    <channel site="sat7plus.org[en]_0" site_id="4" xmltv_id="SAT-7 KIDS">SAT-7 KIDS</channel>
-  </channels>
-</site>
