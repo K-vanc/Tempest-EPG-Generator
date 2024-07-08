@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'yabantv.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2023-11-09',
+  'rev_no' => 'R1',
+  'timezone' => '+03:00',
+  'culture' => 'tr',
+  'max_day' => '7',
+  'url1' => 'https://www.yabantv.com/streaming/liste/##urldate1##',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'content_type1' => 'text/html; charset=UTF-8',
+  'host_header1' => 'www.yabantv.com',
+  'urldate_format1' => '#weekdayname#pzt|sal|car|per|cum|cmt|paz',
+  'show' => '<div class="card-body">(.*?)<\\/div>\\s*<\\/div>\\s*<\\/div>',
+  'start' => '<\\/h5>\\s*(\\d{2}[\\.:]\\d{2})',
+  'start_format' => 'H#i',
+  'title' => '<h5 class=".*?>(.*?)<\\/h5>||#word#',
+  'channel_logo' => '||#add#https://www.yabantv.com/public/img/ayar/yabantv_logo.png?##channel##',
+  'pagekey1' => '<a href="(.*?)"',
+  'detail_url1' => '##pagekey1##',
+  'detail_requestOption1' => '1',
+  'detail_accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'detail_host_header1' => 'www.yabantv.com',
+  'detail_desc' => '<div class="row">\\s*<p><br>(.*?)<\\/p>\\s*<(?:\\/)?div>||#replace#(<.*?>)||||#sentence#||#replace#(\\.)(?!\s|$)||.\\n',
+  'detail_category' => '<a class="tags".*?>(.*?)<\\/a>||#word#',
+  'detail_showicon' => 'auto;">\\s*<img src="(.*?)"',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#Yaban TV',
+  'ccchannel_name' => '||#set#Yaban TV',
+);
+?>
