@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="start.sportdigital.de_0">
+  <channels>
+    <channel site="start.sportdigital.de_0" site_id="sdf" xmltv_id="Sportdigital">Sportdigital</channel>
+    <channel site="start.sportdigital.de_0" site_id="sdf2" xmltv_id="Sportdigital 2">Sportdigital 2</channel>
+    <channel site="start.sportdigital.de_0" site_id="scooore" xmltv_id="SCOOORE">SCOOORE</channel>
+  </channels>
+</site>
