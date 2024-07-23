@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]cbox.cntv.cn_0">
+  <channels>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv1" xmltv_id="CCTV-1 综合">CCTV-1 综合</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv2" xmltv_id="CCTV-2 财经">CCTV-2 财经</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv3" xmltv_id="CCTV-3 综艺">CCTV-3 综艺</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv4" xmltv_id="CCTV-4 (亚洲)">CCTV-4 (亚洲)</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctveurope" xmltv_id="CCTV-4 (欧洲)">CCTV-4 (欧洲)</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvamerica" xmltv_id="CCTV-4 (美洲)">CCTV-4 (美洲)</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv5" xmltv_id="CCTV-5 体育">CCTV-5 体育</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv5plus" xmltv_id="CCTV体育赛事">CCTV体育赛事</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv6" xmltv_id="CCTV-6 电影">CCTV-6 电影</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv7" xmltv_id="CCTV-7 军事农业">CCTV-7 军事农业</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv8" xmltv_id="CCTV-8 电视剧">CCTV-8 电视剧</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvdoc" xmltv_id="CCTV-9 纪录(英)">CCTV-9 纪录(英)</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvjilu" xmltv_id="CCTV-9 纪录">CCTV-9 纪录</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv10" xmltv_id="CCTV-10 科教">CCTV-10 科教</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv11" xmltv_id="CCTV-11 戏曲">CCTV-11 戏曲</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv12" xmltv_id="CCTV-12 社会与法">CCTV-12 社会与法</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv13" xmltv_id="CCTV-13 新闻">CCTV-13 新闻</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvchild" xmltv_id="CCTV-14 少儿">CCTV-14 少儿</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv15" xmltv_id="CCTV-15 音乐">CCTV-15 音乐</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvxiyu" xmltv_id="CCTV-Español">CCTV-Español</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvfrench" xmltv_id="CCTV-Français">CCTV-Français</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv9" xmltv_id="CCTV-NEWS">CCTV-NEWS</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvrussian" xmltv_id="CCTV-Русский">CCTV-Русский</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="anhui" xmltv_id="安徽卫视">安徽卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv1" xmltv_id="北京卫视">北京卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="dongfang" xmltv_id="东方卫视">东方卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="hunan" xmltv_id="湖南卫视">湖南卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="jiangsu" xmltv_id="江苏卫视">江苏卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zhejiang" xmltv_id="浙江卫视">浙江卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shandong" xmltv_id="山东卫视">山东卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianjin" xmltv_id="天津卫视">天津卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="neimenggu" xmltv_id="内蒙古卫视">内蒙古卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="dongnan" xmltv_id="东南卫视">东南卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="henan" xmltv_id="河南卫视">河南卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="guangxi" xmltv_id="广西卫视">广西卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="guizhou" xmltv_id="贵州卫视">贵州卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="gansu" xmltv_id="甘肃卫视">甘肃卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="liaoning" xmltv_id="辽宁卫视">辽宁卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="jiangxi" xmltv_id="江西卫视">江西卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="hubei" xmltv_id="湖北卫视">湖北卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="travel" xmltv_id="旅游卫视">旅游卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="yunnan" xmltv_id="云南卫视">云南卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="qinghai" xmltv_id="青海卫视">青海卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiamen" xmltv_id="厦门卫视">厦门卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="hebei" xmltv_id="河北卫视">河北卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="jilin" xmltv_id="吉林卫视">吉林卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="chongqing" xmltv_id="重庆卫视">重庆卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xizang" xmltv_id="西藏卫视">西藏卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="ningxia" xmltv_id="宁夏卫视">宁夏卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shan1xi" xmltv_id="山西卫视">山西卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="heilongjiang" xmltv_id="黑龙江卫视">黑龙江卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="sdetv" xmltv_id="山东教育台">山东教育台</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="guangdong" xmltv_id="广东卫视">广东卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="sichuan" xmltv_id="四川卫视">四川卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shan3xi" xmltv_id="陕西卫视">陕西卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xinjiang" xmltv_id="新疆卫视">新疆卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv5" xmltv_id="BTV财经">BTV财经</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv2" xmltv_id="BTV文艺">BTV文艺</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv3" xmltv_id="BTV科教">BTV科教</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv4" xmltv_id="BTV影视">BTV影视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv7" xmltv_id="BTV生活">BTV生活</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv8" xmltv_id="BTV青少">BTV青少</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv6" xmltv_id="BTV体育">BTV体育</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btv9" xmltv_id="BTV新闻">BTV新闻</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianjinbh2" xmltv_id="滨海综艺频道">滨海综艺频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiamen1" xmltv_id="厦门一套">厦门一套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiamen2" xmltv_id="厦门二套">厦门二套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiamen3" xmltv_id="厦门三套">厦门三套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiamen4" xmltv_id="厦门四套">厦门四套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zhuhaiyitao" xmltv_id="珠海一套">珠海一套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zhuhaiertao" xmltv_id="珠海二套">珠海二套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xingtaizonghe" xmltv_id="邢台综合">邢台综合</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xingtaishenghuo" xmltv_id="邢台生活">邢台生活</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="liaoningds" xmltv_id="辽宁都市">辽宁都市</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cdtv1" xmltv_id="成都新闻综合">成都新闻综合</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cdtv5" xmltv_id="成都公共">成都公共</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianjinbh" xmltv_id="滨海新闻综合">滨海新闻综合</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cdtv2new" xmltv_id="成都经济资讯服务">成都经济资讯服务</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cetv1" xmltv_id="CETV-1">CETV-1</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cetv2" xmltv_id="CETV-2">CETV-2</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cetv3" xmltv_id="CETV-3">CETV-3</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="nbtv1" xmltv_id="宁波一套">宁波一套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="nbtv2" xmltv_id="宁波二套">宁波二套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="nbtv3" xmltv_id="宁波三套">宁波三套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvfyzq" xmltv_id="CCTV风云足球">CCTV风云足球</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvgaowang" xmltv_id="CCTV高尔夫网球">CCTV高尔夫网球</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="taiqiu" xmltv_id="CCTV央视台球">CCTV央视台球</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zhinan" xmltv_id="CCTV电视指南">CCTV电视指南</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="fyjc" xmltv_id="CCTV风云剧场">CCTV风云剧场</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvdianying" xmltv_id="CCTV 电影">CCTV 电影</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="hjjc" xmltv_id="CCTV怀旧剧场">CCTV怀旧剧场</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="diyijuchang" xmltv_id="CCTV第一剧场">CCTV第一剧场</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shijiedili" xmltv_id="CCTV世界地理">CCTV世界地理</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xinkedongman" xmltv_id="CCTV新科动漫">CCTV新科动漫</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvlaogushi" xmltv_id="CCTV老故事">CCTV老故事</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="faxianzhilv" xmltv_id="CCTV发现之旅">CCTV发现之旅</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="jingpin" xmltv_id="CCTV央视文化精品">CCTV央视文化精品</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="fyyy" xmltv_id="CCTV风云音乐">CCTV风云音乐</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="dianshigouwu" xmltv_id="CCTV中视购物">CCTV中视购物</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zhongxuesheng" xmltv_id="CCTV中学生">CCTV中学生</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvyule" xmltv_id="CCTV娱乐">CCTV娱乐</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvxiqu" xmltv_id="CCTV戏曲">CCTV戏曲</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="guofang" xmltv_id="CCTV国防军事">CCTV国防军事</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shishang" xmltv_id="CCTV女性时尚">CCTV女性时尚</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvqixiang" xmltv_id="CCTV气象">CCTV气象</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvwaiyu" xmltv_id="CCTV外语节目单">CCTV外语节目单</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvzhengquanzixun" xmltv_id="证券资讯">证券资讯</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvliangzhuang" xmltv_id="靓妆">靓妆</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvliyuan" xmltv_id="梨园">梨园</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvqimo" xmltv_id="汽摩">汽摩</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctv3d" xmltv_id="中国3D电视试验频道">中国3D电视试验频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cctvarabic" xmltv_id="CCTV-العربية">CCTV-العربية</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianyuanweiqi" xmltv_id="天元围棋">天元围棋</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xianfengjilu" xmltv_id="茶频道">茶频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xiandainvxing" xmltv_id="现代女性">现代女性</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="yingyufudao" xmltv_id="英语辅导">英语辅导</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="youxijingji" xmltv_id="游戏竞技">游戏竞技</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="huanqiuqiguan" xmltv_id="环球奇观">环球奇观</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shuhua" xmltv_id="书画">书画</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="dvshenghuo" xmltv_id="DV生活">DV生活</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="caimingzaixian" xmltv_id="彩民在线">彩民在线</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="gaoerfu" xmltv_id="高尔夫">高尔夫</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="zaoqijiaoyu" xmltv_id="早期教育">早期教育</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="baobeijia" xmltv_id="宝贝家">宝贝家</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="liuxueshijie" xmltv_id="留学世界">留学世界</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="sheyingpindao" xmltv_id="摄影">摄影</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shuowenjiezi" xmltv_id="国学频道">国学频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="wenwubaoku" xmltv_id="文物宝库">文物宝库</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="wushushijie" xmltv_id="武术世界">武术世界</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="kuailechuidiao" xmltv_id="快乐垂钓">快乐垂钓</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xianggangweishi" xmltv_id="香港卫视">香港卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="yanbian" xmltv_id="延边卫视">延边卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="bingtuan" xmltv_id="兵团卫视">兵团卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="shenzhen" xmltv_id="深圳卫视">深圳卫视</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="gxzy" xmltv_id="广西综艺">广西综艺</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianjin1" xmltv_id="天津1套">天津1套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="tianjin2" xmltv_id="天津2套">天津2套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btvchild" xmltv_id="BTV卡酷少儿">BTV卡酷少儿</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btvjishi" xmltv_id="BTV纪实">BTV纪实</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="btvInternational" xmltv_id="BTV国际">BTV国际</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xingtaishahe" xmltv_id="邢台沙河">邢台沙河</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="nbtv4" xmltv_id="宁波四套">宁波四套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="nbtv5" xmltv_id="宁波五套">宁波五套</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="ipanda" xmltv_id="熊猫频道">熊猫频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="wsjk" xmltv_id="卫生健康">卫生健康</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="wlchunwan" xmltv_id="大型活动部网络春晚">大型活动部网络春晚</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="xingtaigonggong" xmltv_id="邢台公共">邢台公共</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cntvgongfu" xmltv_id="中国功夫频道">中国功夫频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cntvmeishi" xmltv_id="中国美食频道">中国美食频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cntvlishi" xmltv_id="人文历史频道">人文历史频道</channel>
+    <channel site="[ENC][EX]cbox.cntv.cn_0" site_id="cntvtravel" xmltv_id="中国旅游频道">中国旅游频道</channel>
+  </channels>
+</site>

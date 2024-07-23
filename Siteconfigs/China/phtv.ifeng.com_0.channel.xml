@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="phtv.ifeng.com_0">
+  <channels>
+    <channel site="phtv.ifeng.com_0" site_id="phtvNews" xmltv_id="资讯台">资讯台</channel>
+    <channel site="phtv.ifeng.com_0" site_id="phtvChinese" xmltv_id="中文台">中文台</channel>
+  </channels>
+</site>
