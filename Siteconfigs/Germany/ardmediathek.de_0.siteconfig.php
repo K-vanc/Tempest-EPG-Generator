@@ -1,0 +1,36 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'ardmediathek.de',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-07-27',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/Berlin',
+  'culture' => 'de',
+  'max_day' => '8',
+  'episodeOption' => '1',
+  'keepindexpage' => 'on',
+  'url1' => 'https://programm-api.ard.de/program/api/program?day=##urldate1##',
+  'requestOption1' => '1',
+  'urldate_format1' => 'Y-m-d',
+  'show' => '{"id":"##channel##","trackingPiano":.*?"timeSlots":\\[\\[.*?(?:{"id":"\\d)(.*?synopsis.*?)(?:}).*?\\]\\]',
+  'start' => '"broadcastedOn":"(.*?)\\+',
+  'start_format' => 'Y-m-d\\TH#i#s',
+  'stop' => '"broadcastEnd":"(.*?)\\+',
+  'stop_format' => 'Y-m-d\\TH#i#s',
+  'title' => '"coreTitle":"(.*?)",||#replace#(\\s\\(\\d+.*?)$||',
+  'subtitle' => '"coreSubline":"(.*?)",',
+  'desc' => '"synopsis":"(.*?)"(?:,|$)',
+  'showicon' => '"src":"(.*?w=)||#addend#720',
+  'episode' => '\\s\\((\\d+)(?:\\/\\d+|\\))',
+  'episode_total' => '\\s\\(\\d+\\/(\\d+)',
+  'subtitles' => '"binaryFeatures":\\[.*?"(UT)".*?\\]',
+  'ccurl1' => 'https://programm-api.ard.de/program/api/program?day=##urldate1##',
+  'ccrequestOption1' => '1',
+  'ccurldate_format1' => 'Y-m-d',
+  'ccchannel_block' => '"publicationService":{.*?}',
+  'ccchannel_id' => '"partner":"(.*?)"',
+  'ccchannel_name' => '"name":"(.*?)"',
+);
+?>
