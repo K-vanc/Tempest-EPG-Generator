@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sorrisi.com_0">
+  <channels>
+    <channel site="sorrisi.com_0" site_id="rai-1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="sorrisi.com_0" site_id="rai-2" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="sorrisi.com_0" site_id="rai-3" xmltv_id="Rai 3">Rai 3</channel>
+    <channel site="sorrisi.com_0" site_id="rete-4" xmltv_id="Rete 4">Rete 4</channel>
+    <channel site="sorrisi.com_0" site_id="canale-5" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="sorrisi.com_0" site_id="italia-1" xmltv_id="Italia 1">Italia 1</channel>
+    <channel site="sorrisi.com_0" site_id="la-7" xmltv_id="La 7">La 7</channel>
+    <channel site="sorrisi.com_0" site_id="tv-8" xmltv_id="TV 8">TV 8</channel>
+    <channel site="sorrisi.com_0" site_id="nove" xmltv_id="Nove">Nove</channel>
+    <channel site="sorrisi.com_0" site_id="20mediaset" xmltv_id="Canale 20">Canale 20</channel>
+    <channel site="sorrisi.com_0" site_id="rai-4" xmltv_id="Rai 4">Rai 4</channel>
+    <channel site="sorrisi.com_0" site_id="iris" xmltv_id="Iris">Iris</channel>
+    <channel site="sorrisi.com_0" site_id="rai-5" xmltv_id="Rai 5">Rai 5</channel>
+    <channel site="sorrisi.com_0" site_id="rai-movie" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel site="sorrisi.com_0" site_id="rai-premium" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel site="sorrisi.com_0" site_id="cielo" xmltv_id="Cielo">Cielo</channel>
+    <channel site="sorrisi.com_0" site_id="twentyseven" xmltv_id="Twenty Seven">Twenty Seven</channel>
+    <channel site="sorrisi.com_0" site_id="tv-2000" xmltv_id="Tv 2000">Tv 2000</channel>
+    <channel site="sorrisi.com_0" site_id="la-7d" xmltv_id="La 7d">La 7d</channel>
+    <channel site="sorrisi.com_0" site_id="la-5" xmltv_id="La 5">La 5</channel>
+    <channel site="sorrisi.com_0" site_id="real-time" xmltv_id="Real Time">Real Time</channel>
+    <channel site="sorrisi.com_0" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel site="sorrisi.com_0" site_id="cine34" xmltv_id="Cine34">Cine34</channel>
+    <channel site="sorrisi.com_0" site_id="warnertv" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="sorrisi.com_0" site_id="giallo" xmltv_id="Giallo">Giallo</channel>
+    <channel site="sorrisi.com_0" site_id="top-crime" xmltv_id="TOP Crime">TOP Crime</channel>
+    <channel site="sorrisi.com_0" site_id="rai-gulp" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel site="sorrisi.com_0" site_id="rai-yoyo" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
+    <channel site="sorrisi.com_0" site_id="italia-2" xmltv_id="Italia 2">Italia 2</channel>
+    <channel site="sorrisi.com_0" site_id="d-max" xmltv_id="D Max">D Max</channel>
+    <channel site="sorrisi.com_0" site_id="rai-storia" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel site="sorrisi.com_0" site_id="mediaset-extra" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel site="sorrisi.com_0" site_id="rai-sport" xmltv_id="Rai Sport">Rai Sport</channel>
+    <channel site="sorrisi.com_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="sorrisi.com_0" site_id="eurosport-1" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="sorrisi.com_0" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="sorrisi.com_0" site_id="sky-uno" xmltv_id="Sky Uno">Sky Uno</channel>
+    <channel site="sorrisi.com_0" site_id="sky-atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel site="sorrisi.com_0" site_id="sky-serie" xmltv_id="Sky Serie">Sky Serie</channel>
+    <channel site="sorrisi.com_0" site_id="sky-investigation" xmltv_id="Sky Investigation">Sky Investigation</channel>
+    <channel site="sorrisi.com_0" site_id="sky-arte" xmltv_id="Sky Arte">Sky Arte</channel>
+    <channel site="sorrisi.com_0" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="sorrisi.com_0" site_id="real-time" xmltv_id="Real Time">Real Time</channel>
+    <channel site="sorrisi.com_0" site_id="d-max" xmltv_id="D Max">D Max</channel>
+    <channel site="sorrisi.com_0" site_id="giallo" xmltv_id="Giallo">Giallo</channel>
+    <channel site="sorrisi.com_0" site_id="nove" xmltv_id="Nove">Nove</channel>
+    <channel site="sorrisi.com_0" site_id="sky-sport-1" xmltv_id="Sky Sport Uno">Sky Sport Uno</channel>
+    <channel site="sorrisi.com_0" site_id="sky-sport-2" xmltv_id="Sky Sport Calcio">Sky Sport Calcio</channel>
+    <channel site="sorrisi.com_0" site_id="eurosport-1" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="sorrisi.com_0" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-1" xmltv_id="Sky Cinema Uno">Sky Cinema Uno</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-due" xmltv_id="Sky Cinema Cult">Sky Cinema Cult</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-collection" xmltv_id="Sky Cinema Collection">Sky Cinema Collection</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-family" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-romance" xmltv_id="Sky Cinema Romance">Sky Cinema Romance</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-comedy" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel site="sorrisi.com_0" site_id="sky-cinema-action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel site="sorrisi.com_0" site_id="discovery-channel-hd" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="sorrisi.com_0" site_id="history" xmltv_id="History">History</channel>
+    <channel site="sorrisi.com_0" site_id="gambero-rosso" xmltv_id="Gambero Rosso">Gambero Rosso</channel>
+    <channel site="sorrisi.com_0" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+  </channels>
+</site>
