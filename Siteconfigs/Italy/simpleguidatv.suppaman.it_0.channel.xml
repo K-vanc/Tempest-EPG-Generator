@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="simpleguidatv.suppaman.it_0">
+  <channels>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rai1||rai1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rai2||rai2" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rai3||rai3" xmltv_id="Rai 3">Rai 3</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rete4||rete4" xmltv_id="Rete 4">Rete 4</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="canale5||canale5" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="italia1||italia1" xmltv_id="Italia 1">Italia 1</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="la7||la7" xmltv_id="La7">La7</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="tv8||tv8" xmltv_id="TV8">TV8</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="nove||nove" xmltv_id="Nove">Nove</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="20||20" xmltv_id="20 Mediaset">20 Mediaset</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rai4||rai4" xmltv_id="Rai 4">Rai 4</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="iris||iris" xmltv_id="Iris">Iris</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rai5||rai5" xmltv_id="Rai 5">Rai 5</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raimovie||raimovie" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raipremium||raipremium" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="cielo||cielo" xmltv_id="Cielo">Cielo</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="paramountnetwork||paramountnetwork" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="27twentyseven||twentyseven" xmltv_id="27 Twentyseven">27 Twentyseven</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="la7d||la7d" xmltv_id="La7d">La7d</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="la5||la5" xmltv_id="La 5">La 5</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="realtime||realtime" xmltv_id="Real Time">Real Time</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="mediaset_extra||mediaset_extra" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="cine34||cine34" xmltv_id="Cine 34">Cine 34</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="focus||focus" xmltv_id="Focus">Focus</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rtl1025tv||rtl1025tv" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="giallo||giallo" xmltv_id="Giallo">Giallo</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="warnertv||warnertv" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="topcrime||topcrime" xmltv_id="Top Crime">Top Crime</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="boing||boing" xmltv_id="Boing">Boing</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="k2||k2" xmltv_id="K2">K2</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raigulp||raigulp" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raiyoyo||raiyoyo" xmltv_id="Rai YoYo">Rai YoYo</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="frisbee||frisbee" xmltv_id="Frisbee">Frisbee</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="boingplus||boingplus" xmltv_id="Boing Plus">Boing Plus</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="cartoonito||cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="super||super" xmltv_id="Super!">Super!</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="rainews24||rainews24" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="italia2||italia2" xmltv_id="Italia 2">Italia 2</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="spike||spike" xmltv_id="Spike">Spike</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="skytg24||skytg24" xmltv_id="Sky TG24">Sky TG24</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="tgcom24||tgcom24" xmltv_id="TGCOM24">TGCOM24</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="dmax||dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raistoria||raistoria" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="mediaset_extra2||mediaset_extra2" xmltv_id="Mediaset Extra 2">Mediaset Extra 2</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="motortrend||motortrend" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raisportpiuhd||raisportpiuhd" xmltv_id="RaiSport + HD">RaiSport + HD</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raisport||raisport" xmltv_id="RaiSport">RaiSport</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="supertennis||supertennis" xmltv_id="Supertennis">Supertennis</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="vh1||vh1" xmltv_id="VH1">VH1</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="deejaytv||deejaytv" xmltv_id="Deejay TV">Deejay TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="radioitaliatv||radioitaliatv" xmltv_id="Radio Italia TV">Radio Italia TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="raiscuola||raiscuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="virginradiotv||virginradiotv" xmltv_id="Virgin Radio TV">Virgin Radio TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="r101tv||r101tv" xmltv_id="R101 TV">R101 TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="radiofreccia||radiofreccia" xmltv_id="Radiofreccia">Radiofreccia</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="radio105||radio105" xmltv_id="Radio 105 TV">Radio 105 TV</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="radiomontecarlo||radiomontecarlo" xmltv_id="Radio Monte Carlo">Radio Monte Carlo</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="retecapri||retecapri" xmltv_id="Retecapri">Retecapri</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="capri_casino||capri_casino" xmltv_id="Capri Casinò">Capri Casinò</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="capri_fashion||capri_fashion" xmltv_id="Capri Fashion">Capri Fashion</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="kaboom||kaboom" xmltv_id="Ka-Boom">Ka-Boom</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="7gold||7gold" xmltv_id="7Gold">7Gold</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="supersix||supersix" xmltv_id="SuperSix">SuperSix</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="contactoons_cafetv24||contactoons_cafetv24" xmltv_id="Contactoons CafèTV 24">Contactoons CafèTV 24</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="contactoons_latre||contactoons_latre" xmltv_id="Contactoons LaTr3">Contactoons LaTr3</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="telecapri||telecapri" xmltv_id="Telecapri">Telecapri</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="supersix_lombardia||supersix_lombardia" xmltv_id="SuperSix Lombardia">SuperSix Lombardia</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="supersix24||supersix24" xmltv_id="SuperSix24">SuperSix24</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="teleradiosciacca||teleradiosciacca" xmltv_id="Tele Radio Sciacca">Tele Radio Sciacca</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="tvoggi||tvoggi" xmltv_id="TVOGGI">TVOGGI</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="tvl||tvl" xmltv_id="Tv Libera Pistoia">Tv Libera Pistoia</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="telesanterno||telesanterno" xmltv_id="Telesanterno">Telesanterno</channel>
+    <channel site="simpleguidatv.suppaman.it_0" site_id="telestense||telestense" xmltv_id="Telestense">Telestense</channel>
+  </channels>
+</site>
