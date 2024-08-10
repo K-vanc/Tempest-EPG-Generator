@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="itn.lk_0">
+  <channels>
+    <channel site="itn.lk_0" site_id="15" xmltv_id="ITN General">ITN General</channel>
+    <channel site="itn.lk_0" site_id="16" xmltv_id="ITN Special">ITN Special</channel>
+  </channels>
+</site>
