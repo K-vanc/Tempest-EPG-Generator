@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]tv24.se_0">
+  <channels>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt1||69430" xmltv_id="SVT1">SVT1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt2||69431" xmltv_id="SVT2">SVT2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3||76805" xmltv_id="TV3">TV3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4||54090" xmltv_id="TV4">TV4</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-5||76808" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv6||76810" xmltv_id="TV6">TV6</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sjuan||76809" xmltv_id="Sjuan">Sjuan</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv8||76811" xmltv_id="TV8">TV8</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-9||76812" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv10||76813" xmltv_id="TV10">TV10</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-11||76825" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv12||77657" xmltv_id="TV12">TV12</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fox||89539" xmltv_id="FOX">FOX</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-channel||69424" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="national-geographic||77692" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="history-channel||87679" xmltv_id="History Channel">History Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-fakta||69434" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kunskapskanalen||69428" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt24||69432" xmltv_id="SVT24">SVT24</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv||77726" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="eurosport-1||77724" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="eurosport-2||77723" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt-barn||69433" xmltv_id="SVT Barn">SVT Barn</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="disney-channel||77720" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nickelodeon||77727" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cartoon-network||78627" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-film||76831" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-aitio||77660" xmltv_id="MTV Aitio">MTV Aitio</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hits||77662" xmltv_id="TV4 Hits">TV4 Hits</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-film-premiere||77681" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-sport||77728" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-guld||76827" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tlc||69426" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="id||83371" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="animal-planet||69421" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-nordic-1||16873" xmltv_id="BBC Nordic">BBC Nordic</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="axess-tv||77691" xmltv_id="Axess TV">Axess TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="3sat||66621" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-arabiya||43786" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-jazeera-1||111165" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-jazeera-arabic||20296" xmltv_id="Al Jazeera (Arabic)">Al Jazeera (Arabic)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-jazeera||27136" xmltv_id="Al Jazeera (English)">Al Jazeera (English)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-jazeera-english||49968" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="al-jazeera-hd||102458" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="animal-planet-hd||77397" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="arte||67146" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="atg-live||107718" xmltv_id="ATG Live">ATG Live</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-earth||69422" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-nordic-hd-1||91961" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-news||36844" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-news-europe-hd||76774" xmltv_id="BBC News Europe HD">BBC News Europe HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-nordic||136272" xmltv_id="BBC Nordic">BBC Nordic</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-nordic-hd-2||91956" xmltv_id="BBC Nordic HD">BBC Nordic HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bbc-nordic-hd||104582" xmltv_id="BBC Nordic HD">BBC Nordic HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bloomberg-hd||103002" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="bloomberg-tv-hd-uk||20711" xmltv_id="Bloomberg TV HD (UK)">Bloomberg TV HD (UK)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="blue-hustler||53559" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-fotbollhockeystars-hd||113114" xmltv_id="C More Fotboll/Hockey/Stars HD">C More Fotboll/Hockey/Stars HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-live-ppv||84421" xmltv_id="C More Live (PPV)">C More Live (PPV)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-live-2-ppv||78692" xmltv_id="C More Live 2 (PPV)">C More Live 2 (PPV)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-live-3-ppv||78690" xmltv_id="C More Live 3 (PPV)">C More Live 3 (PPV)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-live-4-ppv||78689" xmltv_id="C More Live 4 (PPV)">C More Live 4 (PPV)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="c-more-sport-sf-kanalen||84298" xmltv_id="C More Sport SF-Kanalen">C More Sport SF-Kanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="canal-24-horas||20742" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="canal-24h||90353" xmltv_id="Canal 24H">Canal 24H</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cartoonito||78625" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cbs-reality-mena||52550" xmltv_id="CBS Reality MENA">CBS Reality MENA</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cctv4-china-central-tv||24248" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cgtn||104529" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="channel-one-russia||53822" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="classica-hd||87258" xmltv_id="Classica HD">Classica HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cnbc||16230" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cnbc-hd||113145" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cnn-international||17664" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="cnn-international-hd||91065" xmltv_id="CNN International HD">CNN International HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="das-erste||67295" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dw||79318" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="di-tv-hd||108178" xmltv_id="Di TV HD">Di TV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-channel-hd||87852" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-hd-text||113055" xmltv_id="Discovery HD - Text">Discovery HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-hd-showcase||77395" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-science-1||24282" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-science||69425" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-science-2||104941" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-1||115312" xmltv_id="Discovery+ Extra 1">Discovery+ Extra 1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-2||115313" xmltv_id="Discovery+ Extra 2">Discovery+ Extra 2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-3||115314" xmltv_id="Discovery+ Extra 3">Discovery+ Extra 3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-4||115315" xmltv_id="Discovery+ Extra 4">Discovery+ Extra 4</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-5||115316" xmltv_id="Discovery+ Extra 5">Discovery+ Extra 5</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-6||115317" xmltv_id="Discovery+ Extra 6">Discovery+ Extra 6</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-7||115318" xmltv_id="Discovery+ Extra 7">Discovery+ Extra 7</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="discovery-extra-8||115319" xmltv_id="Discovery+ Extra 8">Discovery+ Extra 8</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="disney-channel-1||104463" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="disney-channel-hd||83370" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="disney-junior||77721" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="disney-xd||77722" xmltv_id="Disney XD">Disney XD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="djazz-hd||100442" xmltv_id="Djazz HD">Djazz HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr-k||87727" xmltv_id="DR K">DR K</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr-ramasjang||87734" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr-ultra||87729" xmltv_id="DR Ultra">DR Ultra</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr1||76861" xmltv_id="DR1">DR1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr1-hd||87730" xmltv_id="DR1 HD">DR1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr2||87731" xmltv_id="DR2">DR2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr2-hd||102087" xmltv_id="DR2 HD">DR2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr3||87733" xmltv_id="DR3">DR3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="dr3-hd||87873" xmltv_id="DR3 HD">DR3 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="duna-tv||116513" xmltv_id="Duna TV">Duna TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="duna-tv-hd||62728" xmltv_id="Duna TV HD">Duna TV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="esportsone||119813" xmltv_id="eSportsone">eSportsone</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="esportstv-hd||99651" xmltv_id="eSportsTV HD">eSportsTV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="euronews-1||19039" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="euronews||83671" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="euronews-hd||103473" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="eurosport-1-hd||77725" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="eurosport-2-hd||87661" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="extreme-sports-channel||56232" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fight-sports||100285" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fight-sports-1||104930" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fight-sports-hd||104931" xmltv_id="Fight Sports HD">Fight Sports HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="food-network||68135" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fox-hd||89540" xmltv_id="FOX HD">FOX HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="france-2||24463" xmltv_id="France 2">France 2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="france-2-hd||88323" xmltv_id="France 2 HD">France 2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="france-24||58685" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="france-24-english-hd||60961" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="freedom||123148" xmltv_id="FREEDOM">FREEDOM</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="ftv-hd-1||21799" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="ftv-hd||99092" xmltv_id="FTV HD">FTV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fuel-tv||67628" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="fuel-tv-hd||84344" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="ginx-esports-tv||83272" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="god||26215" xmltv_id="God">God</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="godare||114314" xmltv_id="Godare">Godare</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="h2||95297" xmltv_id="H2">H2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="h2-hd||98727" xmltv_id="H2 HD">H2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="hayat-plus||115663" xmltv_id="Hayat Plus">Hayat Plus</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="high-tv-3d||76130" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="history||104951" xmltv_id="History">History</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="history-hd||77396" xmltv_id="History HD">History HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="horse-country||103808" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="horse-country-tv||56271" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="hrt1||77390" xmltv_id="HRT1">HRT1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="hustler-tv||78645" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-10||78629" xmltv_id="Kanal 10">Kanal 10</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-11-hd||98336" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-11-hd-text||113052" xmltv_id="Kanal 11 HD - Text">Kanal 11 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-4||87744" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-5-hd||83127" xmltv_id="Kanal 5 HD">Kanal 5 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-5-hd-text||113050" xmltv_id="Kanal 5 HD - Text">Kanal 5 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-9-hd||98333" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kanal-9-hd-text||113051" xmltv_id="Kanal 9 HD - Text">Kanal 9 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kunskapskanalen-hd||99333" xmltv_id="Kunskapskanalen HD">Kunskapskanalen HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="kunskapskanalen-hd-text||113047" xmltv_id="Kunskapskanalen HD - Text">Kunskapskanalen HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="canal-de-las-estrellas||98499" xmltv_id="Las Estrellas">Las Estrellas</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="m2-magyar-hd||78644" xmltv_id="M2 Magyar HD">M2 Magyar HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="magnolia-network-hd||67375" xmltv_id="Magnolia Network HD">Magnolia Network HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="manchester-united-television-hd||91178" xmltv_id="Manchester United Television HD">Manchester United Television HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mbc||78696" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mbc-1||115555" xmltv_id="MBC">MBC</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mezzo||76828" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mezzo-live||83018" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="motorvision-tv||83619" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="motorvision-tv-hd-1||89842" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="motorvision-tv-hd||92453" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-00s-europe||56245" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-80s||56244" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-90s||89005" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-aitio-hd||77661" xmltv_id="MTV Aitio HD">MTV Aitio HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-hd||102773" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-hits-international||89004" xmltv_id="MTV Hits International">MTV Hits International</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-live-hd||74635" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-viihde||77677" xmltv_id="MTV Viihde">MTV Viihde</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv-viihde-hd||78748" xmltv_id="MTV Viihde HD">MTV Viihde HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="mtv3||88235" xmltv_id="MTV3">MTV3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="national-geographic-hd||77693" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="national-geographic-hd-1||90727" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="national-geographic-wild||76858" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="national-geographic-wild-hd||76857" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nautical-channel||56242" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nautical-channel-hd||104635" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nhk-world-tv||59155" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nick-jr||80769" xmltv_id="Nick JR">Nick JR</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nick-jr-hd||102770" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nickelodeon-hd||102771" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nicktoons||101757" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk-super||90739" xmltv_id="NRK Super">NRK Super</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk-super-nrk3-hd||104759" xmltv_id="NRK Super / NRK3 HD">NRK Super / NRK3 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk1-hd||82401" xmltv_id="NRK1 HD">NRK1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk1||52491" xmltv_id="NRK1 Norge">NRK1 Norge</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk2-hd||90754" xmltv_id="NRK2 HD">NRK2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk2||52492" xmltv_id="NRK2 Norge">NRK2 Norge</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="nrk3||90041" xmltv_id="NRK3">NRK3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="obn||78641" xmltv_id="OBN">OBN</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="oppna-kanalen-stockholm||78632" xmltv_id="Öppna Kanalen Stockholm">Öppna Kanalen Stockholm</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="oppna-kanalen-vaxjo||91041" xmltv_id="Öppna Kanalen Växjö">Öppna Kanalen Växjö</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="oppna-kanalen-vs||82185" xmltv_id="Öppna kanalen VS">Öppna kanalen VS</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="outtv||78643" xmltv_id="OUTtv">OUTtv</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="pink-extra||108108" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="pink-plus||76822" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="playboy-tv||17441" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="pro-tv-int||100437" xmltv_id="Pro TV int">Pro TV int</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="prosieben||67203" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rai-1||21834" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rai-2||21812" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rai-3||53928" xmltv_id="Rai 3">Rai 3</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rt||49887" xmltv_id="RT">RT</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rtl||52564" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rtlzwei||66610" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rtp-internacional-europe||97666" xmltv_id="RTP Internacional Europe">RTP Internacional Europe</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="rtr-planeta||100021" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sat1||21842" xmltv_id="Sat.1">Sat.1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sf-kanalen||77678" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sjuan-hd||106567" xmltv_id="Sjuan HD">Sjuan HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sjuan-hd-text||113056" xmltv_id="Sjuan HD - Text">Sjuan HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sky-cinema-premiere-1||21109" xmltv_id="Sky Cinema Premiere +1">Sky Cinema Premiere +1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sky-history-2-hd||97203" xmltv_id="Sky History 2 HD">Sky History 2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sky-news||16234" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="skyshowtime-1||122289" xmltv_id="SkyShowtime 1">SkyShowtime 1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="skyshowtime-2||122288" xmltv_id="SkyShowtime 2">SkyShowtime 2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="sonlife-broadcasting-network||67676" xmltv_id="SonLife Broadcasting Network">SonLife Broadcasting Network</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="super-rtl||52814" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt-barn-hd||99334" xmltv_id="SVT Barn HD">SVT Barn HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt-barnsvt24||78552" xmltv_id="SVT Barn/SVT24">SVT Barn/SVT24</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt1-hd||69429" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt1-sodertalje||92209" xmltv_id="SVT1 Södertälje">SVT1 Södertälje</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt2-hd||76804" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svt24-hd||99332" xmltv_id="SVT24 HD">SVT24 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svtbsvt24-hd||100984" xmltv_id="SVTB/SVT24 HD">SVTB/SVT24 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="svtbsvt24-hd-text||113046" xmltv_id="SVTB/SVT24 HD - Text">SVTB/SVT24 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tbn-europe||26857" xmltv_id="TBN Europe">TBN Europe</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="the-adult-channel||17448" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tlc-hd||98339" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tlc-hd-1||104987" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="trace-urban-hd||103800" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="travel-channel||56243" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="travel-channel-1||110660" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="travel-channel-hd||69974" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="travel-channel-hd-1||110661" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="trt-1||83724" xmltv_id="TRT 1">TRT 1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="trt-1-hd||105961" xmltv_id="TRT 1 HD">TRT 1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="trt-turk||77684" xmltv_id="TRT Turk">TRT Turk</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-2-nyheter-norway||62163" xmltv_id="TV 2 Nyheter (NORWAY)">TV 2 Nyheter (NORWAY)</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-2-zebra||90045" xmltv_id="TV 2 Zebra">TV 2 Zebra</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-chile||16046" xmltv_id="TV Chile">TV Chile</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-finland||76860" xmltv_id="TV Finland">TV Finland</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv10-hd||108965" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv12-hd||98728" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv12-hd-text||113057" xmltv_id="TV12 HD - Text">TV12 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv2-charlie||87788" xmltv_id="TV2 Charlie">TV2 Charlie</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv2||87792" xmltv_id="TV2 Danmark">TV2 Danmark</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv2-hd||87793" xmltv_id="TV2 Danmark HD">TV2 Danmark HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv2-echo||87803" xmltv_id="TV2 Echo">TV2 Echo</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv2-news||87794" xmltv_id="TV2 News">TV2 News</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-2-direkte||52896" xmltv_id="TV2 Norge">TV2 Norge</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv-2-direkte-hd||90775" xmltv_id="TV2 Norge HD">TV2 Norge HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-1||87799" xmltv_id="TV3 Danmark">TV3 Danmark</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-hd||76806" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-hd-text||113048" xmltv_id="TV3 HD - Text">TV3 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-plus||87807" xmltv_id="TV3 Plus">TV3 Plus</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-sport||113117" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv3-2||90053" xmltv_id="TV3+">TV3+</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-fakta-text||113054" xmltv_id="TV4 Fakta - Text">TV4 Fakta - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-film-text||113053" xmltv_id="TV4 Film - Text">TV4 Film - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-fotboll||77717" xmltv_id="TV4 Fotboll">TV4 Fotboll</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-fotboll-hd||91132" xmltv_id="TV4 Fotboll HD">TV4 Fotboll HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hd||76807" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hd-text||113049" xmltv_id="TV4 HD - Text">TV4 HD - Text</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hits-hd||77675" xmltv_id="TV4 Hits HD">TV4 Hits HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hockey||77718" xmltv_id="TV4 Hockey">TV4 Hockey</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-hockey-hd||91133" xmltv_id="TV4 Hockey HD">TV4 Hockey HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-motor||97327" xmltv_id="TV4 Motor">TV4 Motor</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-motor-hd||97326" xmltv_id="TV4 Motor HD">TV4 Motor HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-motorsf-kanalen||113115" xmltv_id="TV4 Motor/SF-kanalen">TV4 Motor/SF-kanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-sportkanalen-1||105458" xmltv_id="TV4 Sportkanalen">TV4 Sportkanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-sportkanalen||106447" xmltv_id="TV4 Sportkanalen">TV4 Sportkanalen</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-sportkanalen-hd||106537" xmltv_id="TV4 Sportkanalen HD">TV4 Sportkanalen HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-stars||100235" xmltv_id="TV4 Stars">TV4 Stars</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-stars-hd||100236" xmltv_id="TV4 Stars HD">TV4 Stars HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-tennis||101756" xmltv_id="TV4 Tennis">TV4 Tennis</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv4-tennis-hd||101912" xmltv_id="TV4 Tennis HD">TV4 Tennis HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv5-monde-europe||21495" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv6-hd||83524" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tv8-hd||108964" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tvcg-sat||115873" xmltv_id="TVCG Sat">TVCG Sat</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tve-internacional||90320" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tvnorge||90046" xmltv_id="TVNorge">TVNorge</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="tvp-polonia||19134" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-film-action-hd||82275" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-film-family||77688" xmltv_id="V Film Family">V Film Family</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-film-hits-hd||102328" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-film-premiere-hd||77689" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-series-hd||82273" xmltv_id="V Series HD">V Series HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-1-hd||82271" xmltv_id="V Sport 1 HD">V Sport 1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-extra||113493" xmltv_id="V Sport Extra">V Sport Extra</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-extra-hd||98543" xmltv_id="V Sport Extra HD">V Sport Extra HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-fotboll-hd||77730" xmltv_id="V Sport Fotboll HD">V Sport Fotboll HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-golf-hd||83504" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-motor-hd||77712" xmltv_id="V Sport Motor HD">V Sport Motor HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-premium-hd||100128" xmltv_id="V Sport Premium HD">V Sport Premium HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-ultra-hd||100631" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-vinter||77732" xmltv_id="V Sport Vinter">V Sport Vinter</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="v-sport-vinter-hd||83537" xmltv_id="V Sport Vinter HD">V Sport Vinter HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-explore||77700" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-explore-hd||87686" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-film-action||77682" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-film-family-hd||102092" xmltv_id="Viasat Film Family HD">Viasat Film Family HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-film-hits||77686" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-fotboll||77729" xmltv_id="Viasat Fotboll">Viasat Fotboll</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-golf||77731" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-history||76843" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-history-hd-1||87684" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-history-hd||88425" xmltv_id="Viasat History HD Finland">Viasat History HD Finland</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-hockey-1||88259" xmltv_id="Viasat Hockey Finland">Viasat Hockey Finland</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-motor||77711" xmltv_id="Viasat Motor">Viasat Motor</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-nature||76844" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-nature-hd||87685" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-series||77687" xmltv_id="Viasat Series">Viasat Series</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="viasat-sport-premium||99760" xmltv_id="Viasat Sport Premium">Viasat Sport Premium</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="vision-sverige||136192" xmltv_id="Vision Sverige">Vision Sverige</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="visjon-norge-hd||82376" xmltv_id="Visjon Norge HD">Visjon Norge HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="vox||66616" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-teema-fem||88240" xmltv_id="Yle Teema &amp; Fem">Yle Teema &amp; Fem</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-teema-fem-hd||88430" xmltv_id="Yle Teema &amp; Fem HD">Yle Teema &amp; Fem HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-tv1||88272" xmltv_id="Yle TV1">Yle TV1</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-tv1-hd||88432" xmltv_id="Yle TV1 HD">Yle TV1 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-tv2||88271" xmltv_id="Yle TV2">Yle TV2</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="yle-tv2-hd||88433" xmltv_id="Yle TV2 HD">Yle TV2 HD</channel>
+    <channel site="[ENC][EX]tv24.se_0" site_id="zdf||86886" xmltv_id="ZDF">ZDF</channel>
+  </channels>
+</site>
