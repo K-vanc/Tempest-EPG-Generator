@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'primaplay.ro',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-08-29',
+  'rev_no' => 'R0',
+  'timezone' => 'Europe/Bucharest',
+  'culture' => 'ro',
+  'max_day' => '6.1',
+  'keepindexpage' => 'on',
+  'url1' => 'https://www.primaplay.ro/programtv',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'host_header1' => 'www.primaplay.ro',
+  'urldate_format1' => '#range#Y-m-d',
+  'grabber_1' => 'on',
+  'gpattern_1' => '||#add###urldate1##||#replace#(,)|||',
+  'show' => 'labelledby="channel(?:##grabber_1##)-##channel##-.*?(?:<tr>)(.*?)(?:<\\/tr>).*?<\\/table>',
+  'start' => '<td>\\s*(\\d+:\\d+)',
+  'start_format' => 'H#i',
+  'title' => '<td colspan="1".*?>\\s*(.*?)\\s*<\\/',
+  'channel_logo' => '||#add#https://www.primaplay.ro/uploads/thumb/publisher/##cclogo##',
+  'ccurl1' => 'https://www.primaplay.ro/programtv',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'cchost_header1' => 'www.primaplay.ro',
+  'ccchannel_block' => '<li class="nav-item my-1">.*?<\\/li>',
+  'ccchannel_id' => 'id="channel\\d+-\\d+-\\d+-(\\d+)-tab',
+  'ccchannel_name' => '"d-lg-none">(.*?)<\\/',
+  'ccchannel_logo' => '\\/publisher\\/(.*?)"',
+  'ccidremovedup' => 'on',
+);
+?>
