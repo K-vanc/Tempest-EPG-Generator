@@ -14,7 +14,7 @@ Please choose your OS
 * [ ] Unix
 * [ ] Docker
 
-Please write your version details (Below not required for Docker)
+Please write your version details (PHP version is not required for Docker)
 
 * PHP Version: ...
 
