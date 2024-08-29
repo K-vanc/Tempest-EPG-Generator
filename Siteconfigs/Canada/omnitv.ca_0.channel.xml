@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="omnitv.ca_0">
+  <channels>
+    <channel site="omnitv.ca_0" site_id="eastern" xmltv_id="OMNI Eastern Channel">OMNI Eastern Channel</channel>
+    <channel site="omnitv.ca_0" site_id="omni1" xmltv_id="OMNI 1 Channel">OMNI 1 Channel</channel>
+    <channel site="omnitv.ca_0" site_id="pacific" xmltv_id="OMNI Pacific Channel">OMNI Pacific Channel</channel>
+    <channel site="omnitv.ca_0" site_id="prairies" xmltv_id="OMNI Prairies Channel">OMNI Prairies Channel</channel>
+  </channels>
+</site>
