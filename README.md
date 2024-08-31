@@ -181,7 +181,7 @@ Note: Tempest can be updated via built-in updater without need of container re-b
 Note: Please consider that this docker image created for Operating Systems which are not natively support php and/or web servers, with consideration of small container size and low amount of memory usage so this is not a full performance build. I am also planning to make some performance and php-cli-only builds in the future. If your system natively supports php, I recommend you to directly go through tempest.php file.<br><br>
 
 
-## Sponsors ❤️
+# Sponsors ❤️
 
 Special thanks to my Gold Sponsors..
 
