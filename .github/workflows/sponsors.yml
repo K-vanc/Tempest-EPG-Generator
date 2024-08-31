@@ -17,7 +17,7 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@v1
         with:
           # The name of this should correspond with the name you gave your secret, in my example this is 'PAT'.
-          token: ${{ secrets.PATO }}
+          token: ${{ secrets.PAT }}
 
           # This should point to your project's readme, or any other type of markdown file you want to add sponsorship information to.
           file: 'README.md'
