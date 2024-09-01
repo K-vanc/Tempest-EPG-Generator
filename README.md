@@ -185,7 +185,7 @@ Note: Please consider that this docker image created for Operating Systems which
 
 Special thanks to my Gold Sponsors..
 
-<!-- gold --><a href="https://github.com/cyb3rgh05t"><img src="https://github.com/cyb3rgh05t.png" width="60px" alt="cyb3rgh05t" /></a><a href="https://github.com/AngusMacGyver-DE"><img src="https://github.com/AngusMacGyver-DE.png" width="60px" alt="" /></a><!-- gold -->
+<!-- gold --><a href="https://github.com/cyb3rgh05t"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;5200101?u&#x3D;83098998f44650882ce7e856cda00d3649a19f44&amp;v&#x3D;4" width="60px" alt="cyb3rgh05t" /></a><a href="https://github.com/AngusMacGyver-DE"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;115607490?u&#x3D;1c3e25a4f8f246c68ca6ede3628d70c4450d47a1&amp;v&#x3D;4" width="60px" alt="" /></a><!-- gold -->
 
 <br>
 
