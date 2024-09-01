@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]play.waipu.tv_0">
+  <channels>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trfox||trfox/1afd08f6" xmltv_id="NOW">NOW</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="atvavrupa||atvavrupa/455dd3f6" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="eurod||eurod/c629383f" xmltv_id="Euro D">Euro D</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="eurostar||eurostar/82421597" xmltv_id="Euro Star">Euro Star</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="showturk||showturk/fc51842a" xmltv_id="Show Turk">Show Turk</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tv8int||tv8int/692a346b" xmltv_id="TV8 International">TV8 International</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trt1||trt1/c3aaee9d" xmltv_id="TRT1">TRT1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tgrteu||tgrteu/8a939910" xmltv_id="TGRT EU">TGRT EU</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtcocuk||trtcocuk/12bbdfc4" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cnntuerk||cnntuerk/b1245a56" xmltv_id="CNN Türk">CNN Türk</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="haberturk||haberturk/5bd56892" xmltv_id="HABERTURK">HABERTURK</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ahaber||ahaber/5fc79ce0" xmltv_id="A Haber">A Haber</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trkanal7avrupa||trkanal7avrupa/361cf1f3" xmltv_id="Kanal 7">Kanal 7</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trthaber||trthaber/575ac6c5" xmltv_id="TRT Haber">TRT Haber</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tgrthaber||tgrthaber/d2e44fe7" xmltv_id="TGRT Haber">TGRT Haber</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="24v||24v/a06a51e1" xmltv_id="24 TV">24 TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtspor||trtspor/b329a04a" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="aspor||aspor/5125cd0d" xmltv_id="A Spor">A Spor</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtbelgesel||trtbelgesel/426a55d2" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tgrtbelgesel||tgrtbelgesel/f88c530d" xmltv_id="TGRT Belgesel">TGRT Belgesel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="a2t||a2t/1a432343" xmltv_id="A2">A2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="teve2||teve2/4c6d369e" xmltv_id="teve2">teve2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="360tv||360tv/12777776" xmltv_id="360 TV">360 TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tv4||tv4/fe30e9ab" xmltv_id="TV 4">TV 4</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="showmax||showmax/2beca0ce" xmltv_id="ShowMax">ShowMax</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtmuezik||trtmuezik/a88149d5" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trttuerk||trttuerk/a0435f4a" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtkurdi||trtkurdi/c811a07c" xmltv_id="TRT Kurdî">TRT Kurdî</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtarapca||trtarapca/de3f5903" xmltv_id="TRT Arabi">TRT Arabi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtworld||trtworld/24716687" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="anews||anews/c4b5806e" xmltv_id="A News">A News</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="beyaz||beyaz/601ba580" xmltv_id="Beyaz TV">Beyaz TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="trtavaz||trtavaz/8fa8dead" xmltv_id="TRT Avaz">TRT Avaz</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flashhaber||flashhaber/6019f54b" xmltv_id="Flash Haber">Flash Haber</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ekintuerk||ekintuerk/1c296393" xmltv_id="EKİN TÜRK TV">EKİN TÜRK TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="diyanet||diyanet/f044a260" xmltv_id="Diyanet TV">Diyanet TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tv5||tv5/630e7ff0" xmltv_id="TV5">TV5</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tv100||tv100/cc439a57" xmltv_id="TV100">TV100</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ard||ard/17c913ea" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zdf||zdf/4aed4ed4" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="srf1||srf1/4d0925dc" xmltv_id="SRF 1">SRF 1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="srf2||srf2/9174752b" xmltv_id="SRF 2">SRF 2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtl||rtl/32e57718" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sat1||sat1/1ea0825f" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="pro7||pro7/b472cf28" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="vox||vox/8f6915dc" xmltv_id="VOX">VOX</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ntv||ntv/7adff373" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n24||n24/ba4fd2d1" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tagesschau24||tagesschau24/65e889ea" xmltv_id="tagesschau24">tagesschau24</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zdfinfo||zdfinfo/ee556c0d" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="phoenix||phoenix/a610bba5" xmltv_id="phoenix">phoenix</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bbc_world_news_europe||bbc_world_news_europe/197eb7ff" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zdfneo||zdfneo/fc4e94a1" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="einsfestival||einsfestival/cd7a1d9e" xmltv_id="ONE">ONE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="arte||arte/8105326a" xmltv_id="ARTE">ARTE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="3sat||3sat/0a27b98f" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kabeleins||kabeleins/f63e644a" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtl2||rtl2/3746329f" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kika||kika/4bfacc17" xmltv_id="KiKA">KiKA</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="superrtl||superrtl/a34b2fad" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="nickelodeon||nickelodeon/08f688c0" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bralpha||bralpha/2738f1e2" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n24doku||n24doku/541cc4ce" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="geo||geo/008cddf8" xmltv_id="GEO Television">GEO Television</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="spiegelgeschichte||spiegelgeschichte/68d880c1" xmltv_id="SPIEGEL Geschichte">SPIEGEL Geschichte</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sport1||sport1/91725e85" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="eurosport1||eurosport1/1a2f54c1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="dmax||dmax/145aa708" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="brsued||brsued/d6732386" xmltv_id="BR Süd">BR Süd</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mdr_sachsen||mdr_sachsen/66f5eae8" xmltv_id="MDR Sachsen">MDR Sachsen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n3_ni||n3_ni/7e7ec789" xmltv_id="NDR Niedersachsen">NDR Niedersachsen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rbb_berlin||rbb_berlin/bdc16ffe" xmltv_id="RBB Berlin">RBB Berlin</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="swr_bw||swr_bw/c64ee5c2" xmltv_id="SWR Baden-Württemberg">SWR Baden-Württemberg</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_koeln||wdr_koeln/312283fa" xmltv_id="WDR Köln">WDR Köln</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="hr||hr/bad4c9f8" xmltv_id="hr-fernsehen">hr-fernsehen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n3_bremen||n3_bremen/d016d06c" xmltv_id="Radio Bremen">Radio Bremen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sr||sr/5e2d1396" xmltv_id="SR">SR</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlcrime||rtlcrime/0d05cd21" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="universaltv||universaltv/0de84acc" xmltv_id="Universal TV">Universal TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="axnblack||axnblack/82e599d5" xmltv_id="AXN Black">AXN Black</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="13thstreet||13thstreet/ba195b44" xmltv_id="13th Street">13th Street</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="axnwhite||axnwhite/2b5b9dbc" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tntfilm||tntfilm/8fc6020e" xmltv_id="WARNER TV FILM">WARNER TV FILM</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="syfy||syfy/0509ccd5" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kabeleinsclassics||kabeleinsclassics/7a7d51eb" xmltv_id="Kabel Eins CLASSICS">Kabel Eins CLASSICS</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tntserie||tntserie/fe50fea2" xmltv_id="WARNER TV SERIE">WARNER TV SERIE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tntcomedy||tntcomedy/c1c75967" xmltv_id="WARNER TV COMEDY">WARNER TV COMEDY</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="prosiebenfun||prosiebenfun/86ea9f99" xmltv_id="ProSieben FUN">ProSieben FUN</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlpassion||rtlpassion/234d1da2" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sat1emotions||sat1emotions/9d54d950" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlliving||rtlliving/13cd8a03" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="disney||disney/7c04404d" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tlc||tlc/e38aad2b" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sixx||sixx/cdaa93aa" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="voxup||voxup/d00095d6" xmltv_id="VOXup">VOXup</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sat1gold||sat1gold/4fa6f698" xmltv_id="SAT.1 GOLD">SAT.1 GOLD</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlplus||rtlplus/3319852a" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="comedy_central||comedy_central/204c7fd6" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="prosieben_maxx||prosieben_maxx/e2726b29" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlnitro||rtlnitro/2dcf1a31" xmltv_id="NITRO">NITRO</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtv||mtv/7e0457d4" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tele5||tele5/48245cb6" xmltv_id="TELE 5">TELE 5</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmtastic||filmtastic/2a5118fd" xmltv_id="FILMTASTIC">FILMTASTIC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmkanal||filmkanal/f415b838" xmltv_id="Der Filmkanal">Der Filmkanal</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cinemaofhearts||cinemaofhearts/c218d870" xmltv_id="Cinema of Hearts">Cinema of Hearts</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmtotal||filmtotal/577431b8" xmltv_id="Film Total">Film Total</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kinowelt||kinowelt/e7d6b266" xmltv_id="KinoweltTV">KinoweltTV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kinoweltcatchup||kinoweltcatchup/2317651f" xmltv_id="KinoweltTV Catch-Up">KinoweltTV Catch-Up</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmriseplus||filmriseplus/94aea270" xmltv_id="Filmrise Plus">Filmrise Plus</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cirkus||cirkus/36c598f8" xmltv_id="Cirkus Krimi">Cirkus Krimi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="romance||romance/85083016" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="romancecatchup||romancecatchup/fc1745c3" xmltv_id="Romance TV Catch-Up">Romance TV Catch-Up</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="lovepassion||lovepassion/96384356" xmltv_id="Love &amp; Passion">Love &amp; Passion</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fernsehenmitherz||fernsehenmitherz/3e501ba1" xmltv_id="Fernsehen mit Herz">Fernsehen mit Herz</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="heimatkanal||heimatkanal/d1790855" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="krimiklassiker||krimiklassiker/06db6e1c" xmltv_id="ARD Plus Krimiklassiker">ARD Plus Krimiklassiker</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zdfkrimi||zdfkrimi/f4f18171" xmltv_id="ZDF Krimi">ZDF Krimi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmlegenden||filmlegenden/edcbe178" xmltv_id="Filmlegenden">Filmlegenden</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="arthousecnma||arthousecnma/52c48cb1" xmltv_id="CNMA Arthouse">CNMA Arthouse</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmboxarthouse||filmboxarthouse/4f61be9c" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="silverline||silverline/027c0dda" xmltv_id="Silverline">Silverline</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="silverlinecatchupat||silverlinecatchupat/a5984a78" xmltv_id="Silverline Catch-Up">Silverline Catch-Up</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bloodymovies||bloodymovies/65f3957c" xmltv_id="Bloody Movies">Bloody Movies</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="homeofhorror||homeofhorror/692c4319" xmltv_id="Home of Horror">Home of Horror</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="obsessiontv||obsessiontv/ab7dc82d" xmltv_id="ObsessionTV">ObsessionTV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="hotpassion||hotpassion/7b7e4e66" xmltv_id="Hot Passion">Hot Passion</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="artflix||artflix/73b69d13" xmltv_id="ARTFLIX - Filmklassiker">ARTFLIX - Filmklassiker</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bronco||bronco/ed15e19e" xmltv_id="GRJNGO">GRJNGO</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ddrtv||ddrtv/5588cb5e" xmltv_id="DDR TV-Archiv">DDR TV-Archiv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="screamtime||screamtime/c5ac255a" xmltv_id="Screamtime">Screamtime</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="toptruecrime||toptruecrime/d1ea4307" xmltv_id="TOP TRUE CRIME">TOP TRUE CRIME</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="crimeinvestigationclips||crimeinvestigationclips/fba9c1a1" xmltv_id="Crime + Investigation Clips">Crime + Investigation Clips</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="realcrime||realcrime/58648840" xmltv_id="Real Crime Deutschland">Real Crime Deutschland</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="crimetime||crimetime/c2bb30ef" xmltv_id="CRIME TIME">CRIME TIME</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmrise||filmrise/87b47b4c" xmltv_id="FilmRise Serien">FilmRise Serien</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kultkrimi||kultkrimi/e8fb2d41" xmltv_id="KultKrimi">KultKrimi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tvklassiker||tvklassiker/483b9f98" xmltv_id="TV-Klassiker">TV-Klassiker</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fernsehschaetze||fernsehschaetze/a0ba5e27" xmltv_id="Fernsehschätze">Fernsehschätze</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="spannungemotionen||spannungemotionen/1bec1947" xmltv_id="Spannung &amp; Emotionen">Spannung &amp; Emotionen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="topscifi||topscifi/0bd22144" xmltv_id="TOP SCI-FI">TOP SCI-FI</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="utopja||utopja/e7cc0d9b" xmltv_id="Utopja">Utopja</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="netzkino||netzkino/5f8ac06a" xmltv_id="Netzkino">Netzkino</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="alleskino||alleskino/e3439478" xmltv_id="alleskino">alleskino</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="moviedome||moviedome/5eb1f2d8" xmltv_id="Moviedome">Moviedome</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mymovie||mymovie/453f1c32" xmltv_id="myMOVIE">myMOVIE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="watchmoviesnow||watchmoviesnow/2fc7c9e8" xmltv_id="WatchMoviesNow">WatchMoviesNow</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="topfilme||topfilme/66ef6b13" xmltv_id="Top Filme">Top Filme</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="moviesphere||moviesphere/f4a74172" xmltv_id="Moviesphere">Moviesphere</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="filmpalast||filmpalast/7231af2a" xmltv_id="Filmpalast">Filmpalast</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="planetmovies||planetmovies/e38acdbf" xmltv_id="Planet Movies">Planet Movies</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="watch4crime||watch4crime/8dbf28c9" xmltv_id="wedo movies">wedo movies</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="hakunan||hakunan/ed81df25" xmltv_id="Hakunan">Hakunan</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="craction||craction/39cf51bd" xmltv_id="Craction TV">Craction TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="starkefrauen||starkefrauen/c13cdaa7" xmltv_id="Starke Frauen">Starke Frauen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="herzfrequenztv||herzfrequenztv/c35fa40d" xmltv_id="Herzfrequenz">Herzfrequenz</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zdftelenovela||zdftelenovela/063d31fb" xmltv_id="ZDF Telenovela">ZDF Telenovela</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="comedyshows||comedyshows/060e0ffc" xmltv_id="Comedy &amp; Shows">Comedy &amp; Shows</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="discovery||discovery/71568812" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="thehistorychannel||thehistorychannel/0189e1f6" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="spiegelwissen||spiegelwissen/d993cfdf" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="crimeinvestigation||crimeinvestigation/a9510fbd" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="animalplanet||animalplanet/85c0752e" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="natgeo||natgeo/770834b7" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="natgeowild||natgeowild/dc44eb55" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="planet||planet/03711e22" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="docubox||docubox/a2392f02" xmltv_id="DocuBox">DocuBox</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kabeleinsdoku||kabeleinsdoku/d74d0bf1" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="adventure||adventure/585cc25e" xmltv_id="Adventure Channel">Adventure Channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="hgtv||hgtv/599540ea" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="weltderwunder||weltderwunder/d11d9a26" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="derspiegel||derspiegel/8c97c201" xmltv_id="DER SPIEGEL">DER SPIEGEL</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="spiegelkonflikte||spiegelkonflikte/7675dcb6" xmltv_id="SPIEGEL TV Konflikte">SPIEGEL TV Konflikte</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="focustv||focustv/f47cd6fa" xmltv_id="FOCUS TV Reportage">FOCUS TV Reportage</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mystory||mystory/38dab138" xmltv_id="mySTORY">mySTORY</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="realstories||realstories/8a2f7e8b" xmltv_id="Real Stories Deutschland">Real Stories Deutschland</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="watchdokus||watchdokus/6d9573b8" xmltv_id="Watch Dokus">Watch Dokus</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="doku||doku/7a6fc245" xmltv_id="DOKU">DOKU</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="curiositynow||curiositynow/a6497bf8" xmltv_id="Curiosity Now">Curiosity Now</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="oneterra||oneterra/db67c6fa" xmltv_id="One Terra">One Terra</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="marcopolo||marcopolo/1694ad09" xmltv_id="Marco Polo">Marco Polo</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="travelxp||travelxp/2f45bfeb" xmltv_id="travelxp">travelxp</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="xplorefree||xplorefree/e5a3bdc6" xmltv_id="XPLORE">XPLORE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="terramater||terramater/e6da6ad6" xmltv_id="Terra Mater WILD">Terra Mater WILD</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="screengreen||screengreen/53de65fd" xmltv_id="Screen Green">Screen Green</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tierweltlive||tierweltlive/3c43ee8a" xmltv_id="TIERWELT Live">TIERWELT Live</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="waidwerk||waidwerk/b7e6b7f0" xmltv_id="Waidwerk">Waidwerk</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wirangeln||wirangeln/da89eabf" xmltv_id="Wir Angeln">Wir Angeln</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="historama||historama/47106878" xmltv_id="Historama">Historama</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tempora||tempora/0b1d42c0" xmltv_id="Tempora">Tempora</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="historyclips||historyclips/7f99a0d9" xmltv_id="HISTORY CLIPS">HISTORY CLIPS</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="timeline||timeline/ba6f146c" xmltv_id="Timeline Deutschland">Timeline Deutschland</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="moconomy||moconomy/ada89146" xmltv_id="Moconomy">Moconomy</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="breakinglab||breakinglab/2c5fed26" xmltv_id="Breaking Lab">Breaking Lab</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bauforum24||bauforum24/3637be72" xmltv_id="Bauforum24">Bauforum24</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="miniaturwunderland||miniaturwunderland/05028306" xmltv_id="Miniaturwunderland">Miniaturwunderland</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="df1||df1/746fa218" xmltv_id="DF1">DF1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="dazn1||dazn1/8c6d92f0" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="dazn2||dazn2/70906461" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl0||sbl0/87913ea0" xmltv_id="Sky Sport Bundesliga">Sky Sport Bundesliga</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl1||sbl1/6e13a9dd" xmltv_id="Sky Sport Bundesliga 1">Sky Sport Bundesliga 1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl2||sbl2/497c6ec4" xmltv_id="Sky Sport Bundesliga 2">Sky Sport Bundesliga 2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl3||sbl3/8909745a" xmltv_id="Sky Sport Bundesliga 3">Sky Sport Bundesliga 3</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl4||sbl4/0b88b129" xmltv_id="Sky Sport Bundesliga 4">Sky Sport Bundesliga 4</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl5||sbl5/d940a698" xmltv_id="Sky Sport Bundesliga 5">Sky Sport Bundesliga 5</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl6||sbl6/164b5372" xmltv_id="Sky Sport Bundesliga 6">Sky Sport Bundesliga 6</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl7||sbl7/e6fc51b7" xmltv_id="Sky Sport Bundesliga 7">Sky Sport Bundesliga 7</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl8||sbl8/2caa9507" xmltv_id="Sky Sport Bundesliga 8">Sky Sport Bundesliga 8</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl9||sbl9/dd80bee5" xmltv_id="Sky Sport Bundesliga 9">Sky Sport Bundesliga 9</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sbl10||sbl10/b7611070" xmltv_id="Sky Sport Bundesliga 10">Sky Sport Bundesliga 10</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="eurosport2||eurosport2/d99c9d20" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sport1plus||sport1plus/730d3dde" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="esports1||esports1/49c09fa3" xmltv_id="eSPORTS1">eSPORTS1</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="amsc||amsc/334ca4b5" xmltv_id="auto motor sport channel">auto motor sport channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="motorvision||motorvision/d0cc4ec7" xmltv_id="MOTORVISION+">MOTORVISION+</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sportdigital||sportdigital/351d7fb1" xmltv_id="SPORTDIGITAL FUSSBALL">SPORTDIGITAL FUSSBALL</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="edgesport||edgesport/65248c8f" xmltv_id="Sportdigital EDGE">Sportdigital EDGE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="gametoon||gametoon/6e0b3251" xmltv_id="Gametoon">Gametoon</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fastnfunbox||fastnfunbox/d8d49710" xmltv_id="Fast &amp; FunBox">Fast &amp; FunBox</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fight24||fight24/bb54cc28" xmltv_id="Fight24">Fight24</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fightbox||fightbox/93141f31" xmltv_id="FightBox">FightBox</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="daznfast||daznfast/22c993cd" xmltv_id="DAZN FAST">DAZN FAST</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="daznrise||daznrise/5ed8acca" xmltv_id="DAZN RISE">DAZN RISE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kicker||kicker/5afe14a0" xmltv_id="kicker tv">kicker tv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="redbull||redbull/274bce4b" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="redbullexplore||redbullexplore/0fcb153f" xmltv_id="Red Bull TV Explore">Red Bull TV Explore</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="worldoffreesports||worldoffreesports/6ecc123a" xmltv_id="WORLD OF FREESPORTS">WORLD OF FREESPORTS</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wedosports||wedosports/1587da99" xmltv_id="wedo sports">wedo sports</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="insighttv||insighttv/531d62f9" xmltv_id="INPLUS">INPLUS</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="eotv||eotv/ff70bdc7" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtstvh||mtstvh/9bb87bfd" xmltv_id="More Than Sports TV Highlights">More Than Sports TV Highlights</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="automotorsporttv||automotorsporttv/7cd59675" xmltv_id="auto motor sport tv">auto motor sport tv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="adactv||adactv/b861f483" xmltv_id="ADAC TV">ADAC TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="motorvisionclassics||motorvisionclassics/f1f2f945" xmltv_id="MOTORVISION CLASSIC">MOTORVISION CLASSIC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="motorvisiontvfree||motorvisiontvfree/a855b211" xmltv_id="MOTORVISION">MOTORVISION</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="jpperformance||jpperformance/033c80e1" xmltv_id="JP Performance">JP Performance</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="abt||abt/98e744f9" xmltv_id="Daniel Abt">Daniel Abt</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rot||rot/056f5e9e" xmltv_id="Rocket Beans TV">Rocket Beans TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="gronkh||gronkh/a450c5cd" xmltv_id="Gronkh">Gronkh</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="domtendo||domtendo/1374734f" xmltv_id="Domtendo">Domtendo</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="thetribe||thetribe/890e79c3" xmltv_id="The Tribe">The Tribe</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="nickjr||nickjr/55853fe9" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fixfoxi||fixfoxi/204f7658" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="toggoplus||toggoplus/5cd9ff0d" xmltv_id="TOGGO plus">TOGGO plus</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="yugioh||yugioh/7758476e" xmltv_id="Yu-Gi-Oh!">Yu-Gi-Oh!</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="naruto||naruto/cb3e7b70" xmltv_id="NARUTO">NARUTO</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="spielmit||spielmit/04312e12" xmltv_id="Spiel mit!">Spiel mit!</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kiddinxkids||kiddinxkids/f63ae37c" xmltv_id="Kiddinx Kids">Kiddinx Kids</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kartoon||kartoon/77e5e3f2" xmltv_id="Kartoon Channel">Kartoon Channel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kixi||kixi/933fd8a9" xmltv_id="nanoki">nanoki</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ric||ric/5d79cddb" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cosmoundwanda||cosmoundwanda/cfa58957" xmltv_id="Cosmo &amp; Wanda">Cosmo &amp; Wanda</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="janosch||janosch/4d323ba3" xmltv_id="Janoschs Traumstunde">Janoschs Traumstunde</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="hoppipolla||hoppipolla/8711f6e0" xmltv_id="HOPPIPOLLA">HOPPIPOLLA</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="myanimationkids||myanimationkids/2048353a" xmltv_id="My Animation Kids">My Animation Kids</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="amusekids||amusekids/46b3feeb" xmltv_id="Car City &amp; Friends">Car City &amp; Friends</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="storyzoo||storyzoo/9ff34e53" xmltv_id="StoryZoo &amp; Friends">StoryZoo &amp; Friends</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="waiputvhighlights||waiputvhighlights/03e111d2" xmltv_id="waipu.tv Highlights">waipu.tv Highlights</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="aljazeera_en||aljazeera_en/db6143dd" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ewtn||ewtn/82694368" xmltv_id="EWTN katholisches TV">EWTN katholisches TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="ktv||ktv/b945c42e" xmltv_id="K-TV">K-TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bibel||bibel/51e2a2ee" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cnbc_europe||cnbc_europe/2e731c13" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="cnn_europe||cnn_europe/c81aa8c4" xmltv_id="CNN Europe">CNN Europe</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="euronews||euronews/e7dcf235" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="france24_en||france24_en/4187d965" xmltv_id="France 24 EN">France 24 EN</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="nhk||nhk/ca319ba4" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="health||health/e2b77d43" xmltv_id="health tv">health tv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wettercom||wettercom/d31bcc7f" xmltv_id="wetter.com TV">wetter.com TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="brnord||brnord/3542509e" xmltv_id="BR Nord">BR Nord</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="tvbayernregional||tvbayernregional/2cedd420" xmltv_id="TV Bayern Regional">TV Bayern Regional</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mdr_st||mdr_st/4b29fecc" xmltv_id="MDR Sachsen-Anhalt">MDR Sachsen-Anhalt</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mdr_th||mdr_th/cdc86e14" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n3_hamburg||n3_hamburg/74f855b7" xmltv_id="NDR Hamburg">NDR Hamburg</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n3_mv||n3_mv/bfe5a2fc" xmltv_id="NDR Mecklenburg-Vorpommern">NDR Mecklenburg-Vorpommern</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="n3_sh||n3_sh/a1f5fa28" xmltv_id="NDR Schleswig-Holstein">NDR Schleswig-Holstein</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rbb_bb||rbb_bb/99b3ed4d" xmltv_id="RBB Brandenburg">RBB Brandenburg</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="swr_rp||swr_rp/eaa34daf" xmltv_id="SWR Rheinland-Pfalz">SWR Rheinland-Pfalz</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_ac||wdr_ac/582d9b4e" xmltv_id="WDR Aachen">WDR Aachen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_bi||wdr_bi/bc187b77" xmltv_id="WDR Bielefeld">WDR Bielefeld</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_bn||wdr_bn/03990d21" xmltv_id="WDR Bonn">WDR Bonn</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_do||wdr_do/368e22ad" xmltv_id="WDR Dortmund">WDR Dortmund</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_du||wdr_du/0fc29b19" xmltv_id="WDR Duisburg">WDR Duisburg</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_d||wdr_d/13a2413d" xmltv_id="WDR Düsseldorf">WDR Düsseldorf</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_e||wdr_e/cbe519e8" xmltv_id="WDR Essen">WDR Essen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_ms||wdr_ms/e6fab9ab" xmltv_id="WDR Münster">WDR Münster</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_si||wdr_si/32c7d5c7" xmltv_id="WDR Siegen">WDR Siegen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wdr_w||wdr_w/c65f4bc8" xmltv_id="WDR Wuppertal">WDR Wuppertal</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="handystar||handystar/84f4685d" xmltv_id="Handystar.tv">Handystar.tv</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="home_shopping_europe||home_shopping_europe/b19aa25b" xmltv_id="HSE">HSE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="qvc||qvc/61208fd1" xmltv_id="QVC">QVC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="wir24||wir24/9da1afca" xmltv_id="Wir24.TV">Wir24.TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_derrheinfallambient||flex_derrheinfallambient/d631833c" xmltv_id="Der Rheinfall - Ambient">Der Rheinfall - Ambient</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_bachlaufimfruehlingambient||flex_bachlaufimfruehlingambient/94582846" xmltv_id="Bachlauf im Frühling - Ambient">Bachlauf im Frühling - Ambient</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_waldbadenambient||flex_waldbadenambient/e0156ce3" xmltv_id="Waldbaden - Ambient">Waldbaden - Ambient</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_lagerfeuerambient||flex_lagerfeuerambient/69d4ef1c" xmltv_id="Lagerfeuer - Ambient">Lagerfeuer - Ambient</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_amkaminambient||flex_amkaminambient/e63e5ffa" xmltv_id="Romantischer Abend am Kamin - Ambient">Romantischer Abend am Kamin - Ambient</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_loungedeluxe||flex_loungedeluxe/08735976" xmltv_id="Lounge Deluxe">Lounge Deluxe</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_zenderrelax||flex_zenderrelax/d62f02fa" xmltv_id="Zender Relax">Zender Relax</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_xplorestaedtetrip||flex_xplorestaedtetrip/0c345249" xmltv_id="xplore Städtetrip">xplore Städtetrip</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_geschichtenfuxholzen||flex_geschichtenfuxholzen/ca414d88" xmltv_id="Geschichten aus Fuxholzen">Geschichten aus Fuxholzen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_fairlyoddparents||flex_fairlyoddparents/8d08b974" xmltv_id="Fairly OddParents">Fairly OddParents</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_foodiesparadise||flex_foodiesparadise/ffb6bd88" xmltv_id="Foodies Paradise">Foodies Paradise</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_riskanterouten||flex_riskanterouten/167a7fd8" xmltv_id="Riskante Routen">Riskante Routen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_vonderleineaufdentisch||flex_vonderleineaufdentisch/399ddbc9" xmltv_id="Von der Leine auf den Tisch">Von der Leine auf den Tisch</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_dietieraerzte||flex_dietieraerzte/4beb42e2" xmltv_id="Die Tierärzte">Die Tierärzte</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_dieerdevonoben||flex_dieerdevonoben/322b3fa1" xmltv_id="Die Erde von oben">Die Erde von oben</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="flex_waiputvinfochannel||flex_waiputvinfochannel/e1ab34bf" xmltv_id="waipu.tv Infochannel">waipu.tv Infochannel</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="jukebox||jukebox/66ed179c" xmltv_id="Jukebox">Jukebox</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="360tunebox||360tunebox/e231e59a" xmltv_id="360 Tune Box">360 Tune Box</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtv80s||mtv80s/127db77f" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtv90s||mtv90s/3fba7ba4" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtv00s||mtv00s/a700a4ed" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtvhits||mtvhits/0f0c0f50" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="mtvlive||mtvlive/c728b06e" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="gutelaune||gutelaune/01161ad5" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="goldstar||goldstar/01d9e093" xmltv_id="GoldStar TV">GoldStar TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxetv||deluxetv/f85a5253" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="xitehits||xitehits/c5363a04" xmltv_id="XITE Hits">XITE Hits</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxeflashback||deluxeflashback/c1f1e3eb" xmltv_id="DELUXE FLASHBACK">DELUXE FLASHBACK</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxedance||deluxedance/7e464c9c" xmltv_id="DELUXE DANCE by Kontor">DELUXE DANCE by Kontor</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxerap||deluxerap/80b0be29" xmltv_id="DELUXE RAP">DELUXE RAP</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxerock||deluxerock/8a1ee63c" xmltv_id="DELUXE ROCK">DELUXE ROCK</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="xiterock||xiterock/47a2fd68" xmltv_id="XITE Rock x Metal">XITE Rock x Metal</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="schlagerdeluxe||schlagerdeluxe/e57beb29" xmltv_id="SCHLAGER DELUXE">SCHLAGER DELUXE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deutschesmusikfernsehen||deutschesmusikfernsehen/5d10f594" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="melodietv||melodietv/1bd08089" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="qwest||qwest/5ffbc2f3" xmltv_id="QWEST TV">QWEST TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="deluxelounge||deluxelounge/af906413" xmltv_id="DELUXE LOUNGE">DELUXE LOUNGE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fashionbox||fashionbox/36550204" xmltv_id="FashionBox">FashionBox</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="fashiontv||fashiontv/5018a76e" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="midnitehaute||midnitehaute/818e8aa5" xmltv_id="Midnite Haute">Midnite Haute</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kaminfeuer||kaminfeuer/64eecb7c" xmltv_id="Kaminfeuer">Kaminfeuer</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="aquarium||aquarium/7e357912" xmltv_id="Aquarium">Aquarium</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="zender||zender/385a32ea" xmltv_id="Zender">Zender</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="royalworld||royalworld/1ef9e149" xmltv_id="Royalworld - Adel &amp; Dynastien">Royalworld - Adel &amp; Dynastien</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="buntetv||buntetv/bbf196d3" xmltv_id="BUNTE">BUNTE</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="teamharrison||teamharrison/73a08a54" xmltv_id="Team Harrison">Team Harrison</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="sallyswelt||sallyswelt/5b632cb7" xmltv_id="Sallys Welt">Sallys Welt</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="justcooking||justcooking/a1691045" xmltv_id="Just Cooking">Just Cooking</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="alexibexi||alexibexi/4e6ca7cf" xmltv_id="AlexiBexi">AlexiBexi</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="heyaaron||heyaaron/4236b19e" xmltv_id="Hey Aaron!!!">Hey Aaron!!!</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="bigbrother||bigbrother/eb8ce311" xmltv_id="Big Brother Classics">Big Brother Classics</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlzweifamilies||rtlzweifamilies/4c90c8cc" xmltv_id="RTLZWEI Families">RTLZWEI Families</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="rtlzweiclips||rtlzweiclips/b1d11819" xmltv_id="RTLZWEI Clips">RTLZWEI Clips</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="kalktv||kalktv/9e6f53ab" xmltv_id="KalkTV">KalkTV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="standup||standup/69a761f5" xmltv_id="Stand-Up Comedy">Stand-Up Comedy</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="myspasstv||myspasstv/e02cc4c7" xmltv_id="MySpass TV">MySpass TV</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="exatest2||exatest2/e83007f8" xmltv_id="EXATEST2">EXATEST2</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="exatest6||exatest6/ba7ab484" xmltv_id="EXATEST6">EXATEST6</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="exatest15||exatest15/514c6c4f" xmltv_id="EXATEST15">EXATEST15</channel>
+    <channel site="[ENC][EX]play.waipu.tv_0" site_id="exatestnewtv||exatestnewtv/6bca5f87" xmltv_id="EXATEST NewTV">EXATEST NewTV</channel>
+  </channels>
+</site>
