@@ -6,7 +6,7 @@ return array (
   'creator_name' => 'Kivanc',
   'creation_date' => '2022-04-12',
   'rev_no' => 'R0',
-  'timezone' => 'America/Mexico_City',
+  'timezone' => '##usertime##',
   'culture' => 'es',
   'max_day' => '7',
   'rating_system' => 'TVPG',
