@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="haberturk.com_0">
+  <channels>
+    <channel site="haberturk.com_0" site_id="show-tv||show-tv.png" xmltv_id="SHOW TV">SHOW TV</channel>
+    <channel site="haberturk.com_0" site_id="kanal-d||kanal-d.png" xmltv_id="KANAL D">KANAL D</channel>
+    <channel site="haberturk.com_0" site_id="atv||atv.png" xmltv_id="ATV">ATV</channel>
+    <channel site="haberturk.com_0" site_id="now||now.png" xmltv_id="NOW TV">NOW TV</channel>
+    <channel site="haberturk.com_0" site_id="trt-1||trt1.png" xmltv_id="TRT 1">TRT 1</channel>
+    <channel site="haberturk.com_0" site_id="kanal-7||kanal-7.png" xmltv_id="KANAL 7">KANAL 7</channel>
+    <channel site="haberturk.com_0" site_id="trt-haber||trt-haber.png" xmltv_id="TRT HABER">TRT HABER</channel>
+    <channel site="haberturk.com_0" site_id="ntv||ntv.png" xmltv_id="NTV">NTV</channel>
+    <channel site="haberturk.com_0" site_id="s-sport||s-sport.png" xmltv_id="S Sport">S Sport</channel>
+    <channel site="haberturk.com_0" site_id="nat-geo-wild||nat-geo-wild.png" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel site="haberturk.com_0" site_id="cartoon-network||cartoon-network.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="haberturk.com_0" site_id="beyaz-tv||beyaz-tv.png" xmltv_id="Beyaz Tv">Beyaz Tv</channel>
+    <channel site="haberturk.com_0" site_id="teve2||teve2.png" xmltv_id="Teve2">Teve2</channel>
+    <channel site="haberturk.com_0" site_id="a2||a2.png" xmltv_id="A2 TV">A2 TV</channel>
+    <channel site="haberturk.com_0" site_id="tv-85||tv-85.png" xmltv_id="Tv 85">Tv 85</channel>
+    <channel site="haberturk.com_0" site_id="krt-tv||krt-tv.png" xmltv_id="KRT TV">KRT TV</channel>
+    <channel site="haberturk.com_0" site_id="trt-2||trt-2.png" xmltv_id="TRT 2">TRT 2</channel>
+    <channel site="haberturk.com_0" site_id="360||360.png" xmltv_id="TV 360">TV 360</channel>
+    <channel site="haberturk.com_0" site_id="tele-1||tele-1.png" xmltv_id="TELE 1">TELE 1</channel>
+    <channel site="haberturk.com_0" site_id="tv-100||tv-100.png" xmltv_id="TV100">TV100</channel>
+    <channel site="haberturk.com_0" site_id="halk-tv||halk-tv.png" xmltv_id="Halk TV">Halk TV</channel>
+    <channel site="haberturk.com_0" site_id="trt-belgesel||trt-belgesel.png" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel site="haberturk.com_0" site_id="cnn-turk||cnn-turk.png" xmltv_id="CNN TÜRK">CNN TÜRK</channel>
+    <channel site="haberturk.com_0" site_id="trt-cocuk||trt-cocuk.png" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="haberturk.com_0" site_id="bein-movies-premiere||bein-movies-premiere.png" xmltv_id="beIN MOVIES PREMIERE TV">beIN MOVIES PREMIERE TV</channel>
+    <channel site="haberturk.com_0" site_id="moviesmart-turk||moviesmart-turk.png" xmltv_id="Moviesmart Türk">Moviesmart Türk</channel>
+    <channel site="haberturk.com_0" site_id="bein-movies-stars||bein-movies-stars.png" xmltv_id="beIN MOVIES STARS">beIN MOVIES STARS</channel>
+    <channel site="haberturk.com_0" site_id="eurosport-1||eurosport-1.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="haberturk.com_0" site_id="bein-iz||bein-iz.png" xmltv_id="beIN İZ TV">beIN İZ TV</channel>
+    <channel site="haberturk.com_0" site_id="bein-gurme||bein-gurme.png" xmltv_id="beIN GURME TV">beIN GURME TV</channel>
+    <channel site="haberturk.com_0" site_id="a-spor||a-spor.png" xmltv_id="A Spor">A Spor</channel>
+    <channel site="haberturk.com_0" site_id="trt-spor||trt-spor.png" xmltv_id="TRT Spor - TRT 3">TRT Spor - TRT 3</channel>
+    <channel site="haberturk.com_0" site_id="eurosport-2||eurosport-2.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="haberturk.com_0" site_id="bein-movies-premiere-2||bein-movies-premiere-2.png" xmltv_id="beIN MOVIES PREMIERE 2">beIN MOVIES PREMIERE 2</channel>
+    <channel site="haberturk.com_0" site_id="trt-muzik||trt-muzik.png" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel site="haberturk.com_0" site_id="moviesmart-classic||moviesmart-classic.png" xmltv_id="Moviesmart Classic">Moviesmart Classic</channel>
+    <channel site="haberturk.com_0" site_id="sinema-tv||sinema-tv.png" xmltv_id="Sinema TV">Sinema TV</channel>
+    <channel site="haberturk.com_0" site_id="bein-box-office-1||bein-box-office-1.png" xmltv_id="beIN BOX OFFICE 1">beIN BOX OFFICE 1</channel>
+    <channel site="haberturk.com_0" site_id="trt-kurdi||trt-kurdi.png" xmltv_id="TRT Kurdi">TRT Kurdi</channel>
+    <channel site="haberturk.com_0" site_id="sinema-yerli||sinema-yerli.png" xmltv_id="Sinema Yerli">Sinema Yerli</channel>
+    <channel site="haberturk.com_0" site_id="sinema-1001||sinema-1001.png" xmltv_id="Sinema 1001">Sinema 1001</channel>
+    <channel site="haberturk.com_0" site_id="digiturk-4k||digiturk-4k.png" xmltv_id="Digiturk 4K">Digiturk 4K</channel>
+    <channel site="haberturk.com_0" site_id="sinema-aksiyon||sinema-aksiyon.png" xmltv_id="Sinema Aksiyon">Sinema Aksiyon</channel>
+    <channel site="haberturk.com_0" site_id="trt-turk||trt-turk.png" xmltv_id="TRT TÜRK">TRT TÜRK</channel>
+    <channel site="haberturk.com_0" site_id="sinema-2||sinema-2.png" xmltv_id="Sinema 2 TV">Sinema 2 TV</channel>
+    <channel site="haberturk.com_0" site_id="tgrt-haber||tgrt-haber.png" xmltv_id="TGRT Haber">TGRT Haber</channel>
+    <channel site="haberturk.com_0" site_id="sinema-aile||sinema-aile.png" xmltv_id="Sinema Aile">Sinema Aile</channel>
+    <channel site="haberturk.com_0" site_id="sinema-1002||sinema-1002.png" xmltv_id="Sinema 1002">Sinema 1002</channel>
+    <channel site="haberturk.com_0" site_id="sinema-komedi||sinema-komedi.png" xmltv_id="Sinema Komedi">Sinema Komedi</channel>
+    <channel site="haberturk.com_0" site_id="sinema-yerli-2||sinema-yerli-2.png" xmltv_id="Sinema Yerli 2">Sinema Yerli 2</channel>
+    <channel site="haberturk.com_0" site_id="sinema-aile-2||sinema-aile-2.png" xmltv_id="Sinema Aile 2">Sinema Aile 2</channel>
+    <channel site="haberturk.com_0" site_id="tv5-monde-europe||tv5-monde-europe.png" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel site="haberturk.com_0" site_id="sinema-aksiyon-2||sinema-aksiyon-2.png" xmltv_id="Sinema Aksiyon 2">Sinema Aksiyon 2</channel>
+    <channel site="haberturk.com_0" site_id="trt-avaz||trt-avaz.png" xmltv_id="TRT AVAZ">TRT AVAZ</channel>
+    <channel site="haberturk.com_0" site_id="sinema-komedi-2||sinema-komedi-2.png" xmltv_id="Sinema Komedi 2">Sinema Komedi 2</channel>
+    <channel site="haberturk.com_0" site_id="sports-tv||sports-tv.png" xmltv_id="Sports TV">Sports TV</channel>
+    <channel site="haberturk.com_0" site_id="tvnet||tvnet.png" xmltv_id="TVNET">TVNET</channel>
+    <channel site="haberturk.com_0" site_id="brt-1||brt-1.png" xmltv_id="BRT 1">BRT 1</channel>
+    <channel site="haberturk.com_0" site_id="da-vinci||da-vinci.png" xmltv_id="Da Vinci Kids TV">Da Vinci Kids TV</channel>
+    <channel site="haberturk.com_0" site_id="mtv-hits||mtv-hits.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="haberturk.com_0" site_id="kral-pop-radyo||kral-pop-radyo.png" xmltv_id="Kral Pop Radyo">Kral Pop Radyo</channel>
+    <channel site="haberturk.com_0" site_id="al-quran-al-kareem-tv||al-quran-al-kareem-tv.png" xmltv_id="Al Quran Al Kareem TV">Al Quran Al Kareem TV</channel>
+    <channel site="haberturk.com_0" site_id="fb-tv||fb-tv.png" xmltv_id="Fb Tv">Fb Tv</channel>
+    <channel site="haberturk.com_0" site_id="tlc||tlc.png" xmltv_id="TLC TV">TLC TV</channel>
+    <channel site="haberturk.com_0" site_id="dmax||dmax.png" xmltv_id="DMAX">DMAX</channel>
+    <channel site="haberturk.com_0" site_id="disney-junior||disney-junior.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="haberturk.com_0" site_id="trt-4k||trt-4k.png" xmltv_id="TRT 4K">TRT 4K</channel>
+    <channel site="haberturk.com_0" site_id="haber-global||haber-global.png" xmltv_id="Haber Global">Haber Global</channel>
+    <channel site="haberturk.com_0" site_id="minika-cocuk||minika-cocuk.png" xmltv_id="Minika Çocuk">Minika Çocuk</channel>
+    <channel site="haberturk.com_0" site_id="diyanet-tv||diyanet-tv.png" xmltv_id="Diyanet TV">Diyanet TV</channel>
+    <channel site="haberturk.com_0" site_id="kon-tv||kon-tv.png" xmltv_id="KON TV">KON TV</channel>
+    <channel site="haberturk.com_0" site_id="fx||fx.png" xmltv_id="FX TV">FX TV</channel>
+    <channel site="haberturk.com_0" site_id="a-haber||a-haber.png" xmltv_id="A Haber">A Haber</channel>
+    <channel site="haberturk.com_0" site_id="national-geographic||national-geographic.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="haberturk.com_0" site_id="ulke-tv||ulke-tv.png" xmltv_id="Ülke TV">Ülke TV</channel>
+    <channel site="haberturk.com_0" site_id="discovery||discovery.png" xmltv_id="Discovery TV">Discovery TV</channel>
+    <channel site="haberturk.com_0" site_id="kanal-b||kanal-b.png" xmltv_id="Kanal B">Kanal B</channel>
+    <channel site="haberturk.com_0" site_id="mtv-live||mtv-live.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel site="haberturk.com_0" site_id="mezzo||mezzo.png" xmltv_id="Mezzo TV">Mezzo TV</channel>
+    <channel site="haberturk.com_0" site_id="fashion-tv||fashion-tv.png" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="haberturk.com_0" site_id="trt-world||trt-world.png" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel site="haberturk.com_0" site_id="baby-tv||baby-tv.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="haberturk.com_0" site_id="a-news||a-news.png" xmltv_id="A News">A News</channel>
+    <channel site="haberturk.com_0" site_id="cnn-international||cnn-international.png" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
+    <channel site="haberturk.com_0" site_id="mcm-top||mcm-top.png" xmltv_id="MCM Top">MCM Top</channel>
+    <channel site="haberturk.com_0" site_id="bbc-world-news||bbc-world-news.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="haberturk.com_0" site_id="slow-turk||slow-turk.png" xmltv_id="Slow Türk">Slow Türk</channel>
+    <channel site="haberturk.com_0" site_id="france-24||france-24.png" xmltv_id="France 24">France 24</channel>
+    <channel site="haberturk.com_0" site_id="5+1-concerts||5+1-concerts.png" xmltv_id="5+1 Concerts">5+1 Concerts</channel>
+    <channel site="haberturk.com_0" site_id="bloomberg||bloomberg.png" xmltv_id="BLOOMBERG TELEVISION">BLOOMBERG TELEVISION</channel>
+    <channel site="haberturk.com_0" site_id="al-sunnah-al-nabawiyah-tv||al-sunnah-al-nabawiyah-tv.png" xmltv_id="Al Sunnah Al Nabawiyah TV">Al Sunnah Al Nabawiyah TV</channel>
+    <channel site="haberturk.com_0" site_id="euronews||euronews.png" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel site="haberturk.com_0" site_id="trt-arabi||trt-arabi.png" xmltv_id="TRT Al Arabiya">TRT Al Arabiya</channel>
+  </channels>
+</site>
