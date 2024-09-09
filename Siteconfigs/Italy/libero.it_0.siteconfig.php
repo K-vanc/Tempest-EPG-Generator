@@ -13,7 +13,7 @@ return array (
   'requestOption1' => '1',
   'urldate_format1' => '#weekdayname#lunedi|martedi|mercoledi|giovedi|venerdi|sabato|domenica',
   'stopdate_format1' => '#daycounter#0',
-  'show' => '(<li id=".*?<\\/li>)||#exclude#hour live text-right">',
+  'show' => '(<li id=".*?<\\/li>)||#exclude#hour live text-right">#id="mail_reg',
   'start' => 'hour text-right">\\s*(\\d+[\\.:]\\d+)',
   'start_format' => 'H#i',
   'title' => '"name">\\s*(.*?)\\s*<\\/div>',
