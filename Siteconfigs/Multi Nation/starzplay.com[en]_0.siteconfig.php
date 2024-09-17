@@ -27,7 +27,7 @@ return array (
   'ccrequestOption1' => '1',
   'ccurldate_format1' => 'unix',
   'ccstopdate_format1' => 'unix',
-  'ccchannel_block' => '{"slug":".*?"images"',
+  'ccchannel_block' => '"parent_slug":".*?"type"',
   'ccchannel_id' => '"slug":"(.*?)"',
   'ccchannel_name' => '"title":"(.*?)"',
 );
