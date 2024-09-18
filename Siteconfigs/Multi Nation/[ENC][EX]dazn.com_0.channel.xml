@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]dazn.com_0">
+  <channels>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_de||de" xmltv_id="DAZN [DE]">DAZN [DE]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_it||it" xmltv_id="DAZN [IT]">DAZN [IT]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_es||es" xmltv_id="DAZN [ES]">DAZN [ES]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_br||pt" xmltv_id="DAZN [BR]">DAZN [BR]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_us||en" xmltv_id="DAZN [US]">DAZN [US]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_ca||en" xmltv_id="DAZN [CA]">DAZN [CA]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_jp||ja" xmltv_id="DAZN [JP]">DAZN [JP]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_at||de" xmltv_id="DAZN [AT]">DAZN [AT]</channel>
+    <channel site="[ENC][EX]dazn.com_0" site_id="dazn_ch||de" xmltv_id="DAZN [CH]">DAZN [CH]</channel>
+  </channels>
+</site>
