@@ -20,6 +20,10 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 
 </div>
 
+## Hi everyone. I will be in vacation till 06.10.2024.. Cya again with new updates after this date..
+<p align="center"><img src="https://github.com/user-attachments/assets/84e8fee0-87b1-4151-a861-681d7084a288">
+<br>
+
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/97025515/154066443-d8d8f358-9985-477f-9667-d53aa409c6b3.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a></p>
 <br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br><br>
