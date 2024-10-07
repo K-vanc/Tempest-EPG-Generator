@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'rally.tv',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2024-10-07',
+  'rev_no' => 'R0',
+  'timezone' => 'UTC',
+  'culture' => 'en',
+  'max_day' => '8.1',
+  'episodeOption' => '1',
+  'url1' => 'https://api.rally.tv/content/channels?byListingTime=##urldate1##~##stopdate1##&range=-1',
+  'requestOption1' => '1',
+  'accept_header1' => 'application/json, text/plain, */*',
+  'host_header1' => 'api.rally.tv',
+  'origin_header1' => 'https://www.rally.tv',
+  'urldate_format1' => 'java',
+  'stopdate_format1' => 'java',
+  'show' => '("program":{.*?"startTime".*?}\\]})',
+  'start' => '"startTime":(\\d+)',
+  'start_format' => 'java',
+  'stop' => '"endTime":(\\d+)',
+  'stop_format' => 'java',
+  'title' => '"title":"(.*?)","',
+  'desc' => '"longDescription":"(.*?)",|>|"description":"(.*?)",|>|"shortDescription":"(.*?)",',
+  'category' => '"category","title":"(.*?)"',
+  'showicon' => '"(?:720x1280|405x720)":{"url":"(.*?)"',
+  'season' => '"tvSeasonNumber":(\\d+)',
+  'channel_logo' => '||#add#https://images.wrc.com/images/logo/logoRallyTv1.png?##channel##',
+  'production_date' => '"year":(\\d{4})',
+  'country' => '"country","title":"(.*?)"||#split#(\\sand\\s)',
+  'ccrequestOption1' => '1',
+  'ccchannel_id' => '||#set#rallytv',
+  'ccchannel_name' => '||#set#Rally TV',
+);
+?>
