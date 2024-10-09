@@ -1,119 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="zap.co.ao_0">
   <channels>
-    <channel site="zap.co.ao_0" site_id="2275||TPA1.png" xmltv_id="TPA 1">TPA 1</channel>
-    <channel site="zap.co.ao_0" site_id="2276||TPA2.png" xmltv_id="TPA 2">TPA 2</channel>
-    <channel site="zap.co.ao_0" site_id="2280||TVZIMBOHD.png" xmltv_id="TV Zimbo HD">TV Zimbo HD</channel>
-    <channel site="zap.co.ao_0" site_id="2454||ZAPVIVAHD.png" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
-    <channel site="zap.co.ao_0" site_id="2434||ZAPVIVAHD.png" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
-    <channel site="zap.co.ao_0" site_id="2455||ZAPVIVA.png" xmltv_id="ZAP Viva">ZAP Viva</channel>
-    <channel site="zap.co.ao_0" site_id="2439||ZAPNHD.png" xmltv_id="ZAP Novelas HD">ZAP Novelas HD</channel>
-    <channel site="zap.co.ao_0" site_id="2379||GLOBOHD.png" xmltv_id="Globo HD">Globo HD</channel>
-    <channel site="zap.co.ao_0" site_id="2448||SBTHD.png" xmltv_id="SBT HD">SBT HD</channel>
-    <channel site="zap.co.ao_0" site_id="2424||TVIINT.png" xmltv_id="ZAP - TVI Internacional">ZAP - TVI Internacional</channel>
-    <channel site="zap.co.ao_0" site_id="2262||RTPI.png" xmltv_id="RTP Internacional">RTP Internacional</channel>
-    <channel site="zap.co.ao_0" site_id="2027||RTPA.png" xmltv_id="RTP África">RTP África</channel>
-    <channel site="zap.co.ao_0" site_id="2064||RTP3.png" xmltv_id="RTP 3">RTP 3</channel>
-    <channel site="zap.co.ao_0" site_id="2160||cnnportugal.png" xmltv_id="CNN Portugal">CNN Portugal</channel>
-    <channel site="zap.co.ao_0" site_id="2025||EURON.png" xmltv_id="Euronews">Euronews</channel>
-    <channel site="zap.co.ao_0" site_id="2355||CMTVAFRICA.png" xmltv_id="CMTV África">CMTV África</channel>
-    <channel site="zap.co.ao_0" site_id="2469||TPANHD.png" xmltv_id="TPA Noticias HD">TPA Noticias HD</channel>
-    <channel site="zap.co.ao_0" site_id="2267||SPTTVHD.png" xmltv_id="SportTV África HD">SportTV África HD</channel>
-    <channel site="zap.co.ao_0" site_id="2245||BENFICATV1.png" xmltv_id="BENFICATV">BENFICATV</channel>
-    <channel site="zap.co.ao_0" site_id="2105||PORTO.png" xmltv_id="Porto Canal">Porto Canal</channel>
-    <channel site="zap.co.ao_0" site_id="2452||SPORTINGTV.png" xmltv_id="Sporting TV">Sporting TV</channel>
-    <channel site="zap.co.ao_0" site_id="2472||CANAL11.png" xmltv_id="Canal 11 Internacional">Canal 11 Internacional</channel>
-    <channel site="zap.co.ao_0" site_id="2386||LALIGAHD.png" xmltv_id="La Liga HD">La Liga HD</channel>
-    <channel site="zap.co.ao_0" site_id="2465||zapligue1hd.png" xmltv_id="ZAP Ligue 1 HD">ZAP Ligue 1 HD</channel>
-    <channel site="zap.co.ao_0" site_id="2296||espn.png" xmltv_id="ESPN">ESPN</channel>
-    <channel site="zap.co.ao_0" site_id="2425||espn2.png" xmltv_id="ESPN2">ESPN2</channel>
-    <channel site="zap.co.ao_0" site_id="2261||ABOLATV.png" xmltv_id="A Bola TV">A Bola TV</channel>
-    <channel site="zap.co.ao_0" site_id="2430||NBA.png" xmltv_id="NBA TV HD">NBA TV HD</channel>
-    <channel site="zap.co.ao_0" site_id="2437||FIGHTSPORTS.png" xmltv_id="Fight Sports">Fight Sports</channel>
-    <channel site="zap.co.ao_0" site_id="2446||FIGHTBOX.png" xmltv_id="FIGHTBOX">FIGHTBOX</channel>
-    <channel site="zap.co.ao_0" site_id="2357||MOTORVISION.png" xmltv_id="Motorvision">Motorvision</channel>
-    <channel site="zap.co.ao_0" site_id="2451||fastandfun.png" xmltv_id="Fast and Fun">Fast and Fun</channel>
-    <channel site="zap.co.ao_0" site_id="2351||SPORTINGTV.png" xmltv_id="Sporting TV">Sporting TV</channel>
-    <channel site="zap.co.ao_0" site_id="2467||WSPORT.png" xmltv_id="W-Sport">W-Sport</channel>
-    <channel site="zap.co.ao_0" site_id="2470||CARTOON.png" xmltv_id="Cartoon TV">Cartoon TV</channel>
-    <channel site="zap.co.ao_0" site_id="2031||PANDA.png" xmltv_id="Canal Panda">Canal Panda</channel>
-    <channel site="zap.co.ao_0" site_id="2264||SICK.png" xmltv_id="SIC K">SIC K</channel>
-    <channel site="zap.co.ao_0" site_id="2456||PANDAK.png" xmltv_id="PandaKids">PandaKids</channel>
-    <channel site="zap.co.ao_0" site_id="2289||BABYTV.png" xmltv_id="BABY TV">BABY TV</channel>
-    <channel site="zap.co.ao_0" site_id="2176||PANDABIGGS.png" xmltv_id="Biggs">Biggs</channel>
-    <channel site="zap.co.ao_0" site_id="2443||Gametoon.png" xmltv_id="Gametoon">Gametoon</channel>
-    <channel site="zap.co.ao_0" site_id="2466||Nicke.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="zap.co.ao_0" site_id="2066||DISNY.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="zap.co.ao_0" site_id="2226||DISNEYJUNIOR.png" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel site="zap.co.ao_0" site_id="2141||TVCineTopHD.png" xmltv_id="TVCine TOP HD">TVCine TOP HD</channel>
-    <channel site="zap.co.ao_0" site_id="2018||TVCineEditionHD.png" xmltv_id="TVCine EDITION HD">TVCine EDITION HD</channel>
-    <channel site="zap.co.ao_0" site_id="2076||TVCineEmotionHD.png" xmltv_id="TVCine EMOTION HD">TVCine EMOTION HD</channel>
-    <channel site="zap.co.ao_0" site_id="2084||TVCineActionHD.png" xmltv_id="TVCine ACTION HD">TVCine ACTION HD</channel>
-    <channel site="zap.co.ao_0" site_id="2013||HOLLY.png" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
-    <channel site="zap.co.ao_0" site_id="2177||FOXNEXT.png" xmltv_id="FOX Movies">FOX Movies</channel>
-    <channel site="zap.co.ao_0" site_id="2175||FOXLIFEHD.png" xmltv_id="FOX Life HD">FOX Life HD</channel>
-    <channel site="zap.co.ao_0" site_id="2174||FOXHD.png" xmltv_id="FOX HD">FOX HD</channel>
-    <channel site="zap.co.ao_0" site_id="2161||AXNHD.png" xmltv_id="AXN HD">AXN HD</channel>
-    <channel site="zap.co.ao_0" site_id="2381||AXNDublado.png" xmltv_id="AXN d">AXN d</channel>
-    <channel site="zap.co.ao_0" site_id="2476||DIZI.png" xmltv_id="DIZI">DIZI</channel>
-    <channel site="zap.co.ao_0" site_id="2114||FOXCRIME.png" xmltv_id="FOX Crime">FOX Crime</channel>
-    <channel site="zap.co.ao_0" site_id="2116||FX.png" xmltv_id="FOX Comedy">FOX Comedy</channel>
-    <channel site="zap.co.ao_0" site_id="2164||AXNMovies.png" xmltv_id="AXN Movies">AXN Movies</channel>
-    <channel site="zap.co.ao_0" site_id="2366||BLAST.png" xmltv_id="BLAST">BLAST</channel>
-    <channel site="zap.co.ao_0" site_id="2462||KIX.png" xmltv_id="KIX">KIX</channel>
-    <channel site="zap.co.ao_0" site_id="2383||GLOBOON.png" xmltv_id="GLOBOON">GLOBOON</channel>
-    <channel site="zap.co.ao_0" site_id="2303||TLN.png" xmltv_id="Tele Novelas">Tele Novelas</channel>
-    <channel site="zap.co.ao_0" site_id="2061||SICR.png" xmltv_id="SIC Radical">SIC Radical</channel>
-    <channel site="zap.co.ao_0" site_id="2243||24KITCHEN.png" xmltv_id="24 Kitchen">24 Kitchen</channel>
-    <channel site="zap.co.ao_0" site_id="2062||FOODNETWORK.png" xmltv_id="Food Network">Food Network</channel>
-    <channel site="zap.co.ao_0" site_id="2071||SICM.png" xmltv_id="SIC Mulher">SIC Mulher</channel>
-    <channel site="zap.co.ao_0" site_id="2271||LUXETVHD.png" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
-    <channel site="zap.co.ao_0" site_id="2447||FashionBOX.png" xmltv_id="Fashion BOX">Fashion BOX</channel>
-    <channel site="zap.co.ao_0" site_id="2432||BEKUDURO.png" xmltv_id="BeKuduro">BeKuduro</channel>
-    <channel site="zap.co.ao_0" site_id="2459||bomsom.png" xmltv_id="BomSom TV">BomSom TV</channel>
-    <channel site="zap.co.ao_0" site_id="2272||AFROMUSIC.png" xmltv_id="AfroMusic">AfroMusic</channel>
-    <channel site="zap.co.ao_0" site_id="2273||hitsafrica.png" xmltv_id="+HITS AFRICA">+HITS AFRICA</channel>
-    <channel site="zap.co.ao_0" site_id="2441||TRACEBRASIL.png" xmltv_id="Trace Brasil">Trace Brasil</channel>
-    <channel site="zap.co.ao_0" site_id="2442||MMC.png" xmltv_id="My Music Channel HD">My Music Channel HD</channel>
-    <channel site="zap.co.ao_0" site_id="2460||blackd.png" xmltv_id="Black Diamond">Black Diamond</channel>
-    <channel site="zap.co.ao_0" site_id="2461||Cubayo.png" xmltv_id="Cubayo">Cubayo</channel>
-    <channel site="zap.co.ao_0" site_id="2042||iconcertshd.png" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
-    <channel site="zap.co.ao_0" site_id="2034||MCM.png" xmltv_id="MCM TOP">MCM TOP</channel>
-    <channel site="zap.co.ao_0" site_id="2435||GLOOM.png" xmltv_id="GLOOM">GLOOM</channel>
-    <channel site="zap.co.ao_0" site_id="2290||CMUSIC.png" xmltv_id="C-MUSIC">C-MUSIC</channel>
-    <channel site="zap.co.ao_0" site_id="2059||NGC.png" xmltv_id="National Geographic">National Geographic</channel>
-    <channel site="zap.co.ao_0" site_id="2082||NGCWILDHD.png" xmltv_id="NG Wild HD">NG Wild HD</channel>
-    <channel site="zap.co.ao_0" site_id="2020||ODIS.png" xmltv_id="Odisseia">Odisseia</channel>
-    <channel site="zap.co.ao_0" site_id="2081||AMCBreak.png" xmltv_id="AMC Break">AMC Break</channel>
-    <channel site="zap.co.ao_0" site_id="2019||HIST.png" xmltv_id="Canal de História">Canal de História</channel>
-    <channel site="zap.co.ao_0" site_id="2100||TRAVEL.png" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel site="zap.co.ao_0" site_id="2167||ZENNATUR.png" xmltv_id="MyZen.tv nature">MyZen.tv nature</channel>
-    <channel site="zap.co.ao_0" site_id="2445||STVN.png" xmltv_id="STV Noticias HD">STV Noticias HD</channel>
-    <channel site="zap.co.ao_0" site_id="2412||RTP3.png" xmltv_id="RTP 3 – Duplicado">RTP 3 – Duplicado</channel>
-    <channel site="zap.co.ao_0" site_id="2415||cnnportugal.png" xmltv_id="CNN Portugal - Duplicado">CNN Portugal - Duplicado</channel>
-    <channel site="zap.co.ao_0" site_id="2440||africanews.png" xmltv_id="Africa News">Africa News</channel>
-    <channel site="zap.co.ao_0" site_id="2475||EURON.png" xmltv_id="Euronews Duplicado">Euronews Duplicado</channel>
-    <channel site="zap.co.ao_0" site_id="2045||BBCW.png" xmltv_id="BBC World News">BBC World News</channel>
-    <channel site="zap.co.ao_0" site_id="2108||ALJAZEERAEN.png" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel site="zap.co.ao_0" site_id="2340||JAZEERA.png" xmltv_id="Aljazeera Arabic">Aljazeera Arabic</channel>
-    <channel site="zap.co.ao_0" site_id="2132||FRANCE24FR.png" xmltv_id="France 24 Fr">France 24 Fr</channel>
-    <channel site="zap.co.ao_0" site_id="2044||BLOOM.png" xmltv_id="ZAP- Bloomberg">ZAP- Bloomberg</channel>
-    <channel site="zap.co.ao_0" site_id="2428||RTPI.png" xmltv_id="RTP Internacional - Duplicado">RTP Internacional - Duplicado</channel>
-    <channel site="zap.co.ao_0" site_id="2048||TVEINT.png" xmltv_id="TVEi">TVEi</channel>
-    <channel site="zap.co.ao_0" site_id="2121||CUBAVINT.png" xmltv_id="CUBA">CUBA</channel>
-    <channel site="zap.co.ao_0" site_id="2117||RTRPLNET.png" xmltv_id="RTR Planeta">RTR Planeta</channel>
-    <channel site="zap.co.ao_0" site_id="2316||CCTV4.png" xmltv_id="CCTV 4">CCTV 4</channel>
-    <channel site="zap.co.ao_0" site_id="2317||FR2.png" xmltv_id="France 2">France 2</channel>
-    <channel site="zap.co.ao_0" site_id="2318||FR3.png" xmltv_id="France 3">France 3</channel>
-    <channel site="zap.co.ao_0" site_id="2319||FR5.png" xmltv_id="France 5">France 5</channel>
-    <channel site="zap.co.ao_0" site_id="2297||TIJI.png" xmltv_id="Tiji">Tiji</channel>
-    <channel site="zap.co.ao_0" site_id="2321||LCI.png" xmltv_id="LCI">LCI</channel>
-    <channel site="zap.co.ao_0" site_id="2322||HISTOIRE.png" xmltv_id="Histoire">Histoire</channel>
-    <channel site="zap.co.ao_0" site_id="2323||USHUTV.png" xmltv_id="Ushuaia TV">Ushuaia TV</channel>
-    <channel site="zap.co.ao_0" site_id="2390||RTNC1.png" xmltv_id="RTNC 1">RTNC 1</channel>
-    <channel site="zap.co.ao_0" site_id="2391||TELE50.png" xmltv_id="TELE 50">TELE 50</channel>
-    <channel site="zap.co.ao_0" site_id="2427||DCONGO.png" xmltv_id="Digital Congo">Digital Congo</channel>
-    <channel site="zap.co.ao_0" site_id="2325||AFRO2.png" xmltv_id="ZAP - AfroBeats">ZAP - AfroBeats</channel>
-    <channel site="zap.co.ao_0" site_id="2282||CPROG.png" xmltv_id="Canal de Programação">Canal de Programação</channel>
+    <channel site="zap.co.ao_0" site_id="1||62965d7d8ca35.jpeg" xmltv_id="TPA 1 HD">TPA 1 HD</channel>
+    <channel site="zap.co.ao_0" site_id="13||56fe3a7003b25.png" xmltv_id="ZAP Viva">ZAP Viva</channel>
+    <channel site="zap.co.ao_0" site_id="168||59d3b4c7df2d1.png" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
+    <channel site="zap.co.ao_0" site_id="10||652d40f9c94a5.png" xmltv_id="ZAP Novelas HD">ZAP Novelas HD</channel>
+    <channel site="zap.co.ao_0" site_id="135||5fbfdb3a582ef.png" xmltv_id="Globo HD">Globo HD</channel>
+    <channel site="zap.co.ao_0" site_id="28||58ac132fa81e9.png" xmltv_id="TVI Internacional">TVI Internacional</channel>
+    <channel site="zap.co.ao_0" site_id="29||5b6c27fb51b0d.png" xmltv_id="RTP Internacional">RTP Internacional</channel>
+    <channel site="zap.co.ao_0" site_id="5||57f7c42df41a3.png" xmltv_id="RTP África">RTP África</channel>
+    <channel site="zap.co.ao_0" site_id="32||54bd1109e2c2f.png" xmltv_id="CM TV">CM TV</channel>
+    <channel site="zap.co.ao_0" site_id="34||5a81b34cd0954.png" xmltv_id="Sport TV África HD">Sport TV África HD</channel>
+    <channel site="zap.co.ao_0" site_id="36||54bd119d2d6f4.png" xmltv_id="BTV">BTV</channel>
+    <channel site="zap.co.ao_0" site_id="39||5697b61805b19.jpeg" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel site="zap.co.ao_0" site_id="46||54bd128da887f.png" xmltv_id="Sporting TV">Sporting TV</channel>
+    <channel site="zap.co.ao_0" site_id="141||64cbd08f91ba0.jpeg" xmltv_id="ZAP LALIGA HD">ZAP LALIGA HD</channel>
+    <channel site="zap.co.ao_0" site_id="38||5d6cfb9ae94b0.png" xmltv_id="ESPN">ESPN</channel>
+    <channel site="zap.co.ao_0" site_id="148||5d6ea6262182f.png" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="zap.co.ao_0" site_id="8||54889f0d3d792.png" xmltv_id="A Bola">A Bola</channel>
+    <channel site="zap.co.ao_0" site_id="42||603a2b3cc9f6a.png" xmltv_id="Fight BOX">Fight BOX</channel>
+    <channel site="zap.co.ao_0" site_id="40||65048412782c0.png" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="zap.co.ao_0" site_id="21||56c2194952d15.png" xmltv_id="Panda">Panda</channel>
+    <channel site="zap.co.ao_0" site_id="20||54bd031355612.png" xmltv_id="SIC K">SIC K</channel>
+    <channel site="zap.co.ao_0" site_id="48||54bd12cbd0acc.png" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="zap.co.ao_0" site_id="47||652cff9aee2de.png" xmltv_id="Biggs">Biggs</channel>
+    <channel site="zap.co.ao_0" site_id="195||5fc4f705c3ccb.png" xmltv_id="Gametoon">Gametoon</channel>
+    <channel site="zap.co.ao_0" site_id="211||62aa67cf302e5.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="zap.co.ao_0" site_id="50||5b2133ca237a4.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="zap.co.ao_0" site_id="51||5c8b73013b9e7.png" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="zap.co.ao_0" site_id="52||5e1c969d028a1.png" xmltv_id="TVCine TOP">TVCine TOP</channel>
+    <channel site="zap.co.ao_0" site_id="53||5e1c96b37f8b3.png" xmltv_id="TVCine Edition">TVCine Edition</channel>
+    <channel site="zap.co.ao_0" site_id="54||5e1c96d1d7174.png" xmltv_id="TVCine Emotion">TVCine Emotion</channel>
+    <channel site="zap.co.ao_0" site_id="55||5e1c96fadeeee.png" xmltv_id="TVcine Action">TVcine Action</channel>
+    <channel site="zap.co.ao_0" site_id="56||5c4595fb28c8f.png" xmltv_id="Hollywood">Hollywood</channel>
+    <channel site="zap.co.ao_0" site_id="57||56978cb90c485.jpeg" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel site="zap.co.ao_0" site_id="63||56125d5d3c143.png" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="zap.co.ao_0" site_id="66||54bd3b509cca9.png" xmltv_id="FOX Crime">FOX Crime</channel>
+    <channel site="zap.co.ao_0" site_id="143||5697932c76d80.jpeg" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel site="zap.co.ao_0" site_id="70||5e4d17f568fa6.png" xmltv_id="AXN Movies">AXN Movies</channel>
+    <channel site="zap.co.ao_0" site_id="120||576c2f5417c90.png" xmltv_id="BLAST">BLAST</channel>
+    <channel site="zap.co.ao_0" site_id="205||612818faa7801.png" xmltv_id="KIX">KIX</channel>
+    <channel site="zap.co.ao_0" site_id="134||55916bed9da0c.jpeg" xmltv_id="Globo On">Globo On</channel>
+    <channel site="zap.co.ao_0" site_id="71||54bd3bb97216d.png" xmltv_id="TLN">TLN</channel>
+    <channel site="zap.co.ao_0" site_id="75||54db73efea670.png" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel site="zap.co.ao_0" site_id="78||54bd3c6b068ef.png" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel site="zap.co.ao_0" site_id="79||57a081f87891b.png" xmltv_id="Food Network">Food Network</channel>
+    <channel site="zap.co.ao_0" site_id="171||5b6c22ef832ce.png" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel site="zap.co.ao_0" site_id="80||54bd3c9d2d202.png" xmltv_id="Luxe HD TV">Luxe HD TV</channel>
+    <channel site="zap.co.ao_0" site_id="155||59a942e7c3a43.png" xmltv_id="BeKuduro">BeKuduro</channel>
+    <channel site="zap.co.ao_0" site_id="86||5f1010c74da64.png" xmltv_id="AfroMusic Channel">AfroMusic Channel</channel>
+    <channel site="zap.co.ao_0" site_id="203||60dd88eebc8d5.png" xmltv_id="CUBAYO">CUBAYO</channel>
+    <channel site="zap.co.ao_0" site_id="93||587a64d94d74b.png" xmltv_id="I-CONCERTS HD">I-CONCERTS HD</channel>
+    <channel site="zap.co.ao_0" site_id="95||5d260d3fab701.png" xmltv_id="MCM Top">MCM Top</channel>
+    <channel site="zap.co.ao_0" site_id="172||5b76e307393f0.png" xmltv_id="GLOOM">GLOOM</channel>
+    <channel site="zap.co.ao_0" site_id="103||56cdcd47102eb.png" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="zap.co.ao_0" site_id="102||5c56d2308cdb7.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel site="zap.co.ao_0" site_id="98||5728e40f907af.png" xmltv_id="Odisseia">Odisseia</channel>
+    <channel site="zap.co.ao_0" site_id="100||54bf985a10262.png" xmltv_id="História">História</channel>
+    <channel site="zap.co.ao_0" site_id="101||59bbb0752af5a.png" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="zap.co.ao_0" site_id="190||5e7b5a7adf3e8.png" xmltv_id="Africa News">Africa News</channel>
+    <channel site="zap.co.ao_0" site_id="19||5919b38239b6d.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="zap.co.ao_0" site_id="18||54bd02a1a5cc3.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="zap.co.ao_0" site_id="119||652d41fdc3f73.png" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="zap.co.ao_0" site_id="107||64906381c6ea7.png" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="zap.co.ao_0" site_id="108||54bf98e7548c6.png" xmltv_id="France 24">France 24</channel>
+    <channel site="zap.co.ao_0" site_id="111||54bf991926aa1.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="zap.co.ao_0" site_id="23||5e1c7c59e331b.png" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel site="zap.co.ao_0" site_id="118||54db7b46428b0.png" xmltv_id="Cuba Vision">Cuba Vision</channel>
+    <channel site="zap.co.ao_0" site_id="114||54bf9948e3906.png" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel site="zap.co.ao_0" site_id="123||5a6f057462d09.png" xmltv_id="France 2">France 2</channel>
+    <channel site="zap.co.ao_0" site_id="124||5a6f05eb2821a.png" xmltv_id="France 3">France 3</channel>
+    <channel site="zap.co.ao_0" site_id="125||5a6f065e66762.png" xmltv_id="France 5">France 5</channel>
+    <channel site="zap.co.ao_0" site_id="122||587a64ca96e87.png" xmltv_id="Tiji">Tiji</channel>
+    <channel site="zap.co.ao_0" site_id="144||56ab3f8ccb52e.png" xmltv_id="RTNC1">RTNC1</channel>
+    <channel site="zap.co.ao_0" site_id="151||5ac621e1e4202.png" xmltv_id="Digital Congo">Digital Congo</channel>
+    <channel site="zap.co.ao_0" site_id="11||54bcf94b625b4.png" xmltv_id="ZAP Música">ZAP Música</channel>
+    <channel site="zap.co.ao_0" site_id="115||54bf995d3c754.png" xmltv_id="Canal Programação">Canal Programação</channel>
+    <channel site="zap.co.ao_0" site_id="210||62d510e944b0b.jpeg" xmltv_id="TPA 2">TPA 2</channel>
+    <channel site="zap.co.ao_0" site_id="209||6294969dbef40.png" xmltv_id="TV ZIMBO">TV ZIMBO</channel>
+    <channel site="zap.co.ao_0" site_id="130||62aa65a93eeed.png" xmltv_id="Zap Filmes HD">Zap Filmes HD</channel>
+    <channel site="zap.co.ao_0" site_id="181||5e1c7193907d1.png" xmltv_id="Rádio 5">Rádio 5</channel>
+    <channel site="zap.co.ao_0" site_id="187||5e1c705f3e31c.png" xmltv_id="Rádio LAC">Rádio LAC</channel>
+    <channel site="zap.co.ao_0" site_id="189||5e1c6fa8cbc01.png" xmltv_id="Rádio FM">Rádio FM</channel>
   </channels>
 </site>
