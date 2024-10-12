@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sportsnet.ca_0">
   <channels>
-    <channel site="sportsnet.ca_0" site_id="24533||327542" xmltv_id="SN Ontario">SN Ontario</channel>
-    <channel site="sportsnet.ca_0" site_id="24469||327550" xmltv_id="SN One">SN One</channel>
-    <channel site="sportsnet.ca_0" site_id="24467||327510" xmltv_id="SN 360">SN 360</channel>
-    <channel site="sportsnet.ca_0" site_id="24468||327526" xmltv_id="SN West">SN West</channel>
-    <channel site="sportsnet.ca_0" site_id="24466||327534" xmltv_id="SN East">SN East</channel>
-    <channel site="sportsnet.ca_0" site_id="24530||327518" xmltv_id="SN Pacific">SN Pacific</channel>
-    <channel site="sportsnet.ca_0" site_id="5895||327558" xmltv_id="SN World">SN World</channel>
-    <channel site="sportsnet.ca_0" site_id="29659||426319" xmltv_id="WWE Network">WWE Network</channel>
+    <channel site="sportsnet.ca_0" site_id="155049||2138303" xmltv_id="Sportsnet Ontario">Sportsnet Ontario</channel>
+    <channel site="sportsnet.ca_0" site_id="155046||2138295" xmltv_id="Sportsnet East">Sportsnet East</channel>
+    <channel site="sportsnet.ca_0" site_id="155047||2138313" xmltv_id="Sportsnet One">Sportsnet One</channel>
+    <channel site="sportsnet.ca_0" site_id="155068||2138267" xmltv_id="Sportsnet 360">Sportsnet 360</channel>
+    <channel site="sportsnet.ca_0" site_id="155050||2138283" xmltv_id="Sportsnet West">Sportsnet West</channel>
+    <channel site="sportsnet.ca_0" site_id="155048||2138275" xmltv_id="Sportsnet Pacific">Sportsnet Pacific</channel>
+    <channel site="sportsnet.ca_0" site_id="155080||2138321" xmltv_id="Sportsnet World">Sportsnet World</channel>
+    <channel site="sportsnet.ca_0" site_id="155097||2138329" xmltv_id="Sportsnet WWE Network">Sportsnet WWE Network</channel>
   </channels>
 </site>
