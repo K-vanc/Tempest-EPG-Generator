@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sport.optus.com.au_0">
   <channels>
-    <channel site="sport.optus.com.au_0" site_id="os1||OS_1.png" xmltv_id="Optus Sport 1">Optus Sport 1</channel>
-    <channel site="sport.optus.com.au_0" site_id="os12||8fafc368-828d-4ae2-be26-4dee57a360d2_ll-gen.jpg" xmltv_id="LALIGA Channel">LALIGA Channel</channel>
-    <channel site="sport.optus.com.au_0" site_id="os11||568b3ee0-4923-40c2-aebe-c226b8da3db9_premierleaguerebrandsdesignstudio01.jpg" xmltv_id="Premier League Channel">Premier League Channel</channel>
+    <channel site="sport.optus.com.au_0" site_id="os1" xmltv_id="Optus Sport 1">Optus Sport 1</channel>
+    <channel site="sport.optus.com.au_0" site_id="os2" xmltv_id="Optus Sport 2">Optus Sport 2</channel>
+    <channel site="sport.optus.com.au_0" site_id="os3" xmltv_id="Optus Sport 3">Optus Sport 3</channel>
+    <channel site="sport.optus.com.au_0" site_id="os4" xmltv_id="Optus Sport 4">Optus Sport 4</channel>
+    <channel site="sport.optus.com.au_0" site_id="os5" xmltv_id="Optus Sport 5">Optus Sport 5</channel>
+    <channel site="sport.optus.com.au_0" site_id="os7" xmltv_id="Optus Sport 7">Optus Sport 7</channel>
+    <channel site="sport.optus.com.au_0" site_id="os8" xmltv_id="Optus Sport 8">Optus Sport 8</channel>
+    <channel site="sport.optus.com.au_0" site_id="os11" xmltv_id="Optus Sport 11">Optus Sport 11</channel>
+    <channel site="sport.optus.com.au_0" site_id="os202" xmltv_id="Optus Sport 202">Optus Sport 202</channel>
+    <channel site="sport.optus.com.au_0" site_id="os203" xmltv_id="Optus Sport 203">Optus Sport 203</channel>
+    <channel site="sport.optus.com.au_0" site_id="os204" xmltv_id="Optus Sport 204">Optus Sport 204</channel>
+    <channel site="sport.optus.com.au_0" site_id="os205" xmltv_id="Optus Sport 205">Optus Sport 205</channel>
+    <channel site="sport.optus.com.au_0" site_id="os206" xmltv_id="Optus Sport 206">Optus Sport 206</channel>
+    <channel site="sport.optus.com.au_0" site_id="os401" xmltv_id="Optus Sport 401">Optus Sport 401</channel>
+    <channel site="sport.optus.com.au_0" site_id="os402" xmltv_id="Optus Sport 402">Optus Sport 402</channel>
+    <channel site="sport.optus.com.au_0" site_id="os403" xmltv_id="Optus Sport 403">Optus Sport 403</channel>
+    <channel site="sport.optus.com.au_0" site_id="os404" xmltv_id="Optus Sport 404">Optus Sport 404</channel>
+    <channel site="sport.optus.com.au_0" site_id="os405" xmltv_id="Optus Sport 405">Optus Sport 405</channel>
+    <channel site="sport.optus.com.au_0" site_id="os406" xmltv_id="Optus Sport 406">Optus Sport 406</channel>
+    <channel site="sport.optus.com.au_0" site_id="os407" xmltv_id="Optus Sport 407">Optus Sport 407</channel>
+    <channel site="sport.optus.com.au_0" site_id="os601" xmltv_id="Optus Sport 601">Optus Sport 601</channel>
+    <channel site="sport.optus.com.au_0" site_id="os602" xmltv_id="Optus Sport 602">Optus Sport 602</channel>
+    <channel site="sport.optus.com.au_0" site_id="os603" xmltv_id="Optus Sport 603">Optus Sport 603</channel>
+    <channel site="sport.optus.com.au_0" site_id="os604" xmltv_id="Optus Sport 604">Optus Sport 604</channel>
   </channels>
 </site>
