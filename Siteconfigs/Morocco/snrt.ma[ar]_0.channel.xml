@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="snrt.ma[ar]_0">
+  <channels>
+    <channel site="snrt.ma[ar]_0" site_id="node/1208||2023-03/alaoula.png" xmltv_id="Al Aoula">Al Aoula</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4069||2023-04/laayoune.png" xmltv_id="Laâyoune">Laâyoune</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4070||2023-04/arriyadia.png" xmltv_id="Arryadia">Arryadia</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4071||2023-04/attakafiya.png" xmltv_id="Athaqafia">Athaqafia</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4072||2023-04/almaghribia.png" xmltv_id="Almaghribia">Almaghribia</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4073||2023-04/assadissa.png" xmltv_id="Assadissa">Assadissa</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4075||2023-04/tamazight.png" xmltv_id="Tamazight">Tamazight</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4076||2023-04/idaawataniya.png" xmltv_id="Alidaa alwatania">Alidaa alwatania</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4077||2023-04/chaineinter.png" xmltv_id="Chaine Inter">Chaine Inter</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4078||2023-04/idaatmohammedassadiss.png" xmltv_id="Idaât Mohammed Assadiss">Idaât Mohammed Assadiss</channel>
+    <channel site="snrt.ma[ar]_0" site_id="node/4079||2023-04/idaatamazight.png" xmltv_id="Alidaâ Alamazighia">Alidaâ Alamazighia</channel>
+  </channels>
+</site>
