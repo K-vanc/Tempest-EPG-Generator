@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]rte.ie_0">
+  <channels>
+    <channel site="[ENC]rte.ie_0" site_id="rte-1||0014f69f-354.jpg" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel site="[ENC]rte.ie_0" site_id="rte-2||0014f6a3-354.jpg" xmltv_id="RTÉ2">RTÉ2</channel>
+    <channel site="[ENC]rte.ie_0" site_id="virgin-media-one||0014f6a6-354.jpg" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel site="[ENC]rte.ie_0" site_id="tg4||0014f6a2-354.jpg" xmltv_id="TG4">TG4</channel>
+    <channel site="[ENC]rte.ie_0" site_id="virgin-media-two||0014f6a5-354.jpg" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel site="[ENC]rte.ie_0" site_id="virgin-media-three||0014f6a7-354.jpg" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel site="[ENC]rte.ie_0" site_id="virgin-media-four||p001cdeda-354.png" xmltv_id="Virgin Media Four">Virgin Media Four</channel>
+    <channel site="[ENC]rte.ie_0" site_id="rte-jr||0014f6a4-354.jpg" xmltv_id="RTÉ Jr">RTÉ Jr</channel>
+    <channel site="[ENC]rte.ie_0" site_id="rte-1+1||0014f6a0-354.jpg" xmltv_id="RTÉ One +1">RTÉ One +1</channel>
+    <channel site="[ENC]rte.ie_0" site_id="rte-2+1||0014f6a1-354.jpg" xmltv_id="RTÉ 2 +1">RTÉ 2 +1</channel>
+    <channel site="[ENC]rte.ie_0" site_id="rte-news||0014f69e-354.jpg" xmltv_id="RTÉ News">RTÉ News</channel>
+    <channel site="[ENC]rte.ie_0" site_id="oireachtas-tv||0014f69d-354.jpg" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel site="[ENC]rte.ie_0" site_id="bbc-1||00150cb5-354.jpg" xmltv_id="BBC One">BBC One</channel>
+    <channel site="[ENC]rte.ie_0" site_id="bbc-2||00150cb6-354.jpg" xmltv_id="BBC Two">BBC Two</channel>
+    <channel site="[ENC]rte.ie_0" site_id="itv||00150d20.jpg" xmltv_id="UTV">UTV</channel>
+    <channel site="[ENC]rte.ie_0" site_id="itv-2||00150cb9-354.jpg" xmltv_id="ITV2">ITV2</channel>
+    <channel site="[ENC]rte.ie_0" site_id="channel-4||00150cb7-354.jpg" xmltv_id="Channel 4">Channel 4</channel>
+    <channel site="[ENC]rte.ie_0" site_id="E4||00150cb8-354.jpg" xmltv_id="E4">E4</channel>
+    <channel site="[ENC]rte.ie_0" site_id="more-4||00150cbb-354.jpg" xmltv_id="More 4">More 4</channel>
+  </channels>
+</site>
