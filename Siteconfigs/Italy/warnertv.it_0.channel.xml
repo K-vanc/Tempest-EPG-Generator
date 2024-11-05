@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="warnertv.it_0">
+  <channels>
+    <channel site="warnertv.it_0" site_id="XXXwarnertvit" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="warnertv.it_0" site_id="XXXnove" xmltv_id="Nove">Nove</channel>
+    <channel site="warnertv.it_0" site_id="-gialloXXXgiallo" xmltv_id="Giallo">Giallo</channel>
+    <channel site="warnertv.it_0" site_id="XXXrealtime" xmltv_id="Real Time">Real Time</channel>
+    <channel site="warnertv.it_0" site_id="XXXfoodnetwork" xmltv_id="Food Network">Food Network</channel>
+    <channel site="warnertv.it_0" site_id="XXXhgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel site="warnertv.it_0" site_id="XXXdmax" xmltv_id="DMAX">DMAX</channel>
+    <channel site="warnertv.it_0" site_id="XXXdiscoverychannel&amp;parent_slug=tvguide" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="warnertv.it_0" site_id="XXXmotortrend" xmltv_id="Motor Trend">Motor Trend</channel>
+  </channels>
+</site>
