@@ -1,96 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="mod.cht.com.tw_0">
   <channels>
-    <channel site="mod.cht.com.tw_0" site_id="006||006.png?rand=624" xmltv_id="民視">民視</channel>
-    <channel site="mod.cht.com.tw_0" site_id="008||008.png?rand=876" xmltv_id="台視">台視</channel>
-    <channel site="mod.cht.com.tw_0" site_id="010||010.png?rand=742" xmltv_id="中視">中視</channel>
-    <channel site="mod.cht.com.tw_0" site_id="013||013.png?rand=833" xmltv_id="公視">公視</channel>
-    <channel site="mod.cht.com.tw_0" site_id="015||015.png?rand=408" xmltv_id="好消息衛星電視台">好消息衛星電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="017||017.png?rand=135" xmltv_id="客家電視">客家電視</channel>
-    <channel site="mod.cht.com.tw_0" site_id="098||098.png?rand=884" xmltv_id="公視3台">公視3台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="102||102.png?rand=95" xmltv_id="CARTOONITO">CARTOONITO</channel>
-    <channel site="mod.cht.com.tw_0" site_id="104||104.png?rand=838" xmltv_id="龍華動畫">龍華動畫</channel>
-    <channel site="mod.cht.com.tw_0" site_id="106||106.png?rand=578" xmltv_id="靖洋卡通台Nice Bingo">靖洋卡通台Nice Bingo</channel>
-    <channel site="mod.cht.com.tw_0" site_id="108||108.png?rand=830" xmltv_id="CBeebies">CBeebies</channel>
-    <channel site="mod.cht.com.tw_0" site_id="110||110.png?rand=510" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel site="mod.cht.com.tw_0" site_id="123||123.png?rand=662" xmltv_id="國會頻道1">國會頻道1</channel>
-    <channel site="mod.cht.com.tw_0" site_id="152||152.png?rand=778" xmltv_id="Medici-arts">Medici-arts</channel>
-    <channel site="mod.cht.com.tw_0" site_id="154||154.png?rand=253" xmltv_id="MTV綜合電視台">MTV綜合電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="156||156.png?rand=721" xmltv_id="TRACE Urban">TRACE Urban</channel>
-    <channel site="mod.cht.com.tw_0" site_id="158||158.png?rand=407" xmltv_id="CMusic">CMusic</channel>
-    <channel site="mod.cht.com.tw_0" site_id="201||201.png?rand=60" xmltv_id="愛爾達體育2台">愛爾達體育2台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="203||203.png?rand=494" xmltv_id="愛爾達體育4台">愛爾達體育4台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="205||205.png?rand=724" xmltv_id="博斯高球二台">博斯高球二台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="207||207.png?rand=441" xmltv_id="博斯魅力網">博斯魅力網</channel>
-    <channel site="mod.cht.com.tw_0" site_id="209||209.png?rand=768" xmltv_id="博斯無限二台">博斯無限二台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="211||211.png?rand=622" xmltv_id="DAZN 3">DAZN 3</channel>
-    <channel site="mod.cht.com.tw_0" site_id="214||214.png?rand=569" xmltv_id="DAZN 2">DAZN 2</channel>
-    <channel site="mod.cht.com.tw_0" site_id="216||216.png?rand=261" xmltv_id="EUROSPORT">EUROSPORT</channel>
-    <channel site="mod.cht.com.tw_0" site_id="250||250.png?rand=254" xmltv_id="麥哲倫頻道">麥哲倫頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="252||252.png?rand=222" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel site="mod.cht.com.tw_0" site_id="254||254.png?rand=65" xmltv_id="Discovery科學頻道">Discovery科學頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="256||256.png?rand=892" xmltv_id="EVE">EVE</channel>
-    <channel site="mod.cht.com.tw_0" site_id="258||258.png?rand=586" xmltv_id="歷史頻道">歷史頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="260||260.png?rand=458" xmltv_id="BBC Lifestyle Channel">BBC Lifestyle Channel</channel>
-    <channel site="mod.cht.com.tw_0" site_id="262||262.png?rand=523" xmltv_id="PET CLUB TV">PET CLUB TV</channel>
-    <channel site="mod.cht.com.tw_0" site_id="264||264.png?rand=271" xmltv_id="Lifetime">Lifetime</channel>
-    <channel site="mod.cht.com.tw_0" site_id="266||266.png?rand=753" xmltv_id="幸福空間居家台">幸福空間居家台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="268||268.png?rand=558" xmltv_id="HGTV 居家樂活頻道">HGTV 居家樂活頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="276||276.png?rand=400" xmltv_id="Asian Food Network 亞洲美食頻道">Asian Food Network 亞洲美食頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="278||278.png?rand=85" xmltv_id="亞洲旅遊台">亞洲旅遊台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="280||280.png?rand=854" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel site="mod.cht.com.tw_0" site_id="284||284.png?rand=227" xmltv_id="TV5MONDE STYLE HD 生活時尚">TV5MONDE STYLE HD 生活時尚</channel>
-    <channel site="mod.cht.com.tw_0" site_id="300||300.png?rand=307" xmltv_id="愛爾達綜合台">愛爾達綜合台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="302||302.png?rand=847" xmltv_id="靖天資訊台">靖天資訊台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="304||304.png?rand=559" xmltv_id="靖天育樂台">靖天育樂台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="306||306.png?rand=567" xmltv_id="台視綜合台">台視綜合台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="308||308.png?rand=552" xmltv_id="中視經典台">中視經典台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="310||310.png?rand=860" xmltv_id="中視菁采台">中視菁采台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="312||312.png?rand=294" xmltv_id="壹電視資訊綜合台">壹電視資訊綜合台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="314||314.png?rand=63" xmltv_id="天天電視台">天天電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="316||316.png?rand=451" xmltv_id="民視第一台">民視第一台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="318||318.png?rand=64" xmltv_id="Nice TV 靖天歡樂台">Nice TV 靖天歡樂台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="321||321.png?rand=567" xmltv_id="八大優頻道">八大優頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="329||329.png?rand=493" xmltv_id="冠軍電視台">冠軍電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="331||331.png?rand=941" xmltv_id="信吉藝文台">信吉藝文台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="333||333.png?rand=126" xmltv_id="富立電視台">富立電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="349||349.png?rand=300" xmltv_id="東森購物3台">東森購物3台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="351||351.png?rand=929" xmltv_id="台灣戲劇台">台灣戲劇台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="353||353.png?rand=244" xmltv_id="龍華偶像">龍華偶像</channel>
-    <channel site="mod.cht.com.tw_0" site_id="355||355.png?rand=784" xmltv_id="愛爾達影劇台">愛爾達影劇台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="357||357.png?rand=515" xmltv_id="靖洋戲劇台">靖洋戲劇台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="365||365.png?rand=491" xmltv_id="東森購物2台">東森購物2台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="372||372.png?rand=620" xmltv_id="曼迪日本台">曼迪日本台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="375||375.png?rand=628" xmltv_id="i-Fun動漫台">i-Fun動漫台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="377||377.png?rand=99" xmltv_id="韓國娛樂台KMTV">韓國娛樂台KMTV</channel>
-    <channel site="mod.cht.com.tw_0" site_id="383||383.png?rand=7" xmltv_id="ROCK Extreme">ROCK Extreme</channel>
-    <channel site="mod.cht.com.tw_0" site_id="385||385.png?rand=226" xmltv_id="TechStorm">TechStorm</channel>
-    <channel site="mod.cht.com.tw_0" site_id="398||398.png?rand=583" xmltv_id="momo1台">momo1台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="500||500.png?rand=838" xmltv_id="中視新聞台">中視新聞台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="502||502.png?rand=157" xmltv_id="寰宇新聞台灣台">寰宇新聞台灣台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="504||504.png?rand=627" xmltv_id="三立財經新聞台">三立財經新聞台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="506||506.png?rand=93" xmltv_id="壹電視新聞台">壹電視新聞台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="508||508.png?rand=614" xmltv_id="鏡電視新聞台">鏡電視新聞台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="521||521.png?rand=824" xmltv_id="台視財經台">台視財經台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="546||546.png?rand=198" xmltv_id="東森購物5台">東森購物5台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="551||551.png?rand=52" xmltv_id="BBC NEWS">BBC NEWS</channel>
-    <channel site="mod.cht.com.tw_0" site_id="553||553.png?rand=821" xmltv_id="Channel NewsAsia頻道">Channel NewsAsia頻道</channel>
-    <channel site="mod.cht.com.tw_0" site_id="555||555.png?rand=900" xmltv_id="Euronews">Euronews</channel>
-    <channel site="mod.cht.com.tw_0" site_id="557||557.png?rand=159" xmltv_id="FRANCE24(English)">FRANCE24(English)</channel>
-    <channel site="mod.cht.com.tw_0" site_id="560||560.png?rand=715" xmltv_id="NHK新聞資訊台">NHK新聞資訊台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="600||600.png?rand=216" xmltv_id="視納華仁紀實台">視納華仁紀實台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="610||610.png?rand=457" xmltv_id="美亞電影台">美亞電影台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="613||613.png?rand=641" xmltv_id="靖天映畫">靖天映畫</channel>
-    <channel site="mod.cht.com.tw_0" site_id="615||615.png?rand=594" xmltv_id="龍華洋片">龍華洋片</channel>
-    <channel site="mod.cht.com.tw_0" site_id="617||617.png?rand=899" xmltv_id="ROCK Action">ROCK Action</channel>
-    <channel site="mod.cht.com.tw_0" site_id="620||620.png?rand=558" xmltv_id="HITS">HITS</channel>
-    <channel site="mod.cht.com.tw_0" site_id="625||625.png?rand=225" xmltv_id="華藝影劇台">華藝影劇台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="627||627.png?rand=104" xmltv_id="CinemaWorld">CinemaWorld</channel>
-    <channel site="mod.cht.com.tw_0" site_id="629||629.png?rand=771" xmltv_id="采昌影劇台">采昌影劇台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="633||633.png?rand=443" xmltv_id="My Cinema Europe HD 我的歐洲電影">My Cinema Europe HD 我的歐洲電影</channel>
-    <channel site="mod.cht.com.tw_0" site_id="701||701.png?rand=519" xmltv_id="佛衛電視慈悲台">佛衛電視慈悲台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="703||703.png?rand=129" xmltv_id="生命電視台">生命電視台</channel>
-    <channel site="mod.cht.com.tw_0" site_id="750||750.png?rand=432" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel site="mod.cht.com.tw_0" site_id="755||755.png?rand=198" xmltv_id="FRANCE24(French)">FRANCE24(French)</channel>
+    <channel site="mod.cht.com.tw_0" site_id="006||006.png?rand=298" xmltv_id="民視">民視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="007||007.png?rand=846" xmltv_id="人間衛視">人間衛視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="008||008.png?rand=210" xmltv_id="台視">台視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="009||009.png?rand=19" xmltv_id="大愛電視">大愛電視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="010||010.png?rand=744" xmltv_id="中視">中視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="012||012.png?rand=722" xmltv_id="華視">華視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="013||013.png?rand=257" xmltv_id="公視">公視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="014||014.png?rand=453" xmltv_id="公視台語台">公視台語台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="015||015.png?rand=657" xmltv_id="好消息衛星電視台">好消息衛星電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="016||016.png?rand=600" xmltv_id="原住民族電視台">原住民族電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="017||017.png?rand=86" xmltv_id="客家電視">客家電視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="096||096.png?rand=213" xmltv_id="華視教育體育文化台">華視教育體育文化台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="098||098.png?rand=984" xmltv_id="公視兒少台">公視兒少台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="099||099.png?rand=525" xmltv_id="大愛二台">大愛二台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="102||102.png?rand=949" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel site="mod.cht.com.tw_0" site_id="103||103.png?rand=697" xmltv_id="ELTV生活英語台">ELTV生活英語台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="104||104.png?rand=898" xmltv_id="龍華動畫">龍華動畫</channel>
+    <channel site="mod.cht.com.tw_0" site_id="105||105.png?rand=833" xmltv_id="Nickelodeon Asia(尼克兒童頻道)">Nickelodeon Asia(尼克兒童頻道)</channel>
+    <channel site="mod.cht.com.tw_0" site_id="106||106.png?rand=73" xmltv_id="靖洋卡通台Nice Bingo">靖洋卡通台Nice Bingo</channel>
+    <channel site="mod.cht.com.tw_0" site_id="107||107.png?rand=581" xmltv_id="靖天卡通台">靖天卡通台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="108||108.png?rand=476" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="mod.cht.com.tw_0" site_id="109||109.png?rand=393" xmltv_id="DaVinCi Learning達文西頻道">DaVinCi Learning達文西頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="110||110.png?rand=630" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="mod.cht.com.tw_0" site_id="111||111.png?rand=13" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="mod.cht.com.tw_0" site_id="123||123.png?rand=473" xmltv_id="國會頻道1">國會頻道1</channel>
+    <channel site="mod.cht.com.tw_0" site_id="124||124.png?rand=984" xmltv_id="國會頻道2">國會頻道2</channel>
+    <channel site="mod.cht.com.tw_0" site_id="152||152.png?rand=965" xmltv_id="Medici-arts">Medici-arts</channel>
+    <channel site="mod.cht.com.tw_0" site_id="153||153.png?rand=276" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="mod.cht.com.tw_0" site_id="154||154.png?rand=235" xmltv_id="MTV綜合電視台">MTV綜合電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="155||155.png?rand=628" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="mod.cht.com.tw_0" site_id="156||156.png?rand=799" xmltv_id="TRACE Urban">TRACE Urban</channel>
+    <channel site="mod.cht.com.tw_0" site_id="157||157.png?rand=319" xmltv_id="古典音樂台CLASSICA HD">古典音樂台CLASSICA HD</channel>
+    <channel site="mod.cht.com.tw_0" site_id="158||158.png?rand=582" xmltv_id="CMusic">CMusic</channel>
+    <channel site="mod.cht.com.tw_0" site_id="200||200.png?rand=923" xmltv_id="愛爾達體育1台">愛爾達體育1台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="201||201.png?rand=251" xmltv_id="愛爾達體育2台">愛爾達體育2台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="202||202.png?rand=887" xmltv_id="愛爾達體育3台">愛爾達體育3台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="203||203.png?rand=362" xmltv_id="愛爾達體育4台">愛爾達體育4台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="204||204.png?rand=547" xmltv_id="博斯高球一台">博斯高球一台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="205||205.png?rand=458" xmltv_id="博斯高球二台">博斯高球二台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="206||206.png?rand=576" xmltv_id="博斯網球台">博斯網球台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="207||207.png?rand=156" xmltv_id="博斯魅力網">博斯魅力網</channel>
+    <channel site="mod.cht.com.tw_0" site_id="208||208.png?rand=143" xmltv_id="博斯無限台">博斯無限台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="209||209.png?rand=725" xmltv_id="博斯無限二台">博斯無限二台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="210||210.png?rand=947" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
+    <channel site="mod.cht.com.tw_0" site_id="211||211.png?rand=789" xmltv_id="DAZN 3">DAZN 3</channel>
+    <channel site="mod.cht.com.tw_0" site_id="212||212.png?rand=268" xmltv_id="博斯運動一台">博斯運動一台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="214||214.png?rand=536" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="mod.cht.com.tw_0" site_id="215||215.png?rand=500" xmltv_id="智林體育台">智林體育台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="216||216.png?rand=847" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel site="mod.cht.com.tw_0" site_id="217||217.png?rand=596" xmltv_id="博斯運動二台">博斯運動二台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="250||250.png?rand=141" xmltv_id="麥哲倫頻道">麥哲倫頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="251||251.png?rand=620" xmltv_id="LOVE NATURE">LOVE NATURE</channel>
+    <channel site="mod.cht.com.tw_0" site_id="252||252.png?rand=323" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="mod.cht.com.tw_0" site_id="253||253.png?rand=524" xmltv_id="Discovery Asia">Discovery Asia</channel>
+    <channel site="mod.cht.com.tw_0" site_id="254||254.png?rand=905" xmltv_id="Discovery科學頻道">Discovery科學頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="255||255.png?rand=341" xmltv_id="DMAX">DMAX</channel>
+    <channel site="mod.cht.com.tw_0" site_id="256||256.png?rand=804" xmltv_id="EVE">EVE</channel>
+    <channel site="mod.cht.com.tw_0" site_id="257||257.png?rand=789" xmltv_id="Global Trekker">Global Trekker</channel>
+    <channel site="mod.cht.com.tw_0" site_id="258||258.png?rand=877" xmltv_id="歷史頻道">歷史頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="259||259.png?rand=147" xmltv_id="罪案偵緝頻道">罪案偵緝頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="260||260.png?rand=450" xmltv_id="BBC Lifestyle Channel">BBC Lifestyle Channel</channel>
+    <channel site="mod.cht.com.tw_0" site_id="261||261.png?rand=198" xmltv_id="INULTRA">INULTRA</channel>
+    <channel site="mod.cht.com.tw_0" site_id="262||262.png?rand=516" xmltv_id="PET CLUB TV">PET CLUB TV</channel>
+    <channel site="mod.cht.com.tw_0" site_id="263||263.png?rand=353" xmltv_id="LUXE TV Channel">LUXE TV Channel</channel>
+    <channel site="mod.cht.com.tw_0" site_id="264||264.png?rand=921" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="mod.cht.com.tw_0" site_id="265||265.png?rand=721" xmltv_id="KLT-靖天國際台">KLT-靖天國際台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="266||266.png?rand=327" xmltv_id="幸福空間居家台">幸福空間居家台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="267||267.png?rand=851" xmltv_id="滾動力 rollor">滾動力 rollor</channel>
+    <channel site="mod.cht.com.tw_0" site_id="268||268.png?rand=811" xmltv_id="HGTV 居家樂活頻道">HGTV 居家樂活頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="275||275.png?rand=545" xmltv_id="美食星球頻道">美食星球頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="276||276.png?rand=963" xmltv_id="Asian Food Network 亞洲美食頻道">Asian Food Network 亞洲美食頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="277||277.png?rand=401" xmltv_id="Food Network 美食台頻道">Food Network 美食台頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="278||278.png?rand=989" xmltv_id="亞洲旅遊台">亞洲旅遊台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="279||279.png?rand=644" xmltv_id="EYE TV旅遊台">EYE TV旅遊台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="280||280.png?rand=459" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="mod.cht.com.tw_0" site_id="282||282.png?rand=756" xmltv_id="時尚頻道">時尚頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="284||284.png?rand=389" xmltv_id="TV5MONDE STYLE HD 生活時尚">TV5MONDE STYLE HD 生活時尚</channel>
+    <channel site="mod.cht.com.tw_0" site_id="299||299.png?rand=414" xmltv_id="東森購物1台">東森購物1台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="300||300.png?rand=997" xmltv_id="愛爾達綜合台">愛爾達綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="301||301.png?rand=639" xmltv_id="三立綜合台">三立綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="302||302.png?rand=307" xmltv_id="靖天資訊台">靖天資訊台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="303||303.png?rand=491" xmltv_id="靖天綜合台">靖天綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="304||304.png?rand=131" xmltv_id="靖天育樂台">靖天育樂台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="305||305.png?rand=676" xmltv_id="Smart知識台">Smart知識台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="306||306.png?rand=711" xmltv_id="台視綜合台">台視綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="307||307.png?rand=281" xmltv_id="亞洲綜合台">亞洲綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="308||308.png?rand=301" xmltv_id="中視經典台">中視經典台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="309||309.png?rand=81" xmltv_id="寰宇HD綜合台">寰宇HD綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="310||310.png?rand=917" xmltv_id="中視菁采台">中視菁采台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="311||311.png?rand=576" xmltv_id="TVBS精采台">TVBS精采台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="312||312.png?rand=936" xmltv_id="壹電視資訊綜合台">壹電視資訊綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="313||313.png?rand=622" xmltv_id="緯來精采台">緯來精采台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="314||314.png?rand=676" xmltv_id="天天電視台">天天電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="315||315.png?rand=234" xmltv_id="ETtoday綜合台">ETtoday綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="316||316.png?rand=129" xmltv_id="民視第一台">民視第一台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="317||317.png?rand=151" xmltv_id="民視台灣台">民視台灣台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="318||318.png?rand=360" xmltv_id="Nice TV 靖天歡樂台">Nice TV 靖天歡樂台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="320||320.png?rand=421" xmltv_id="新唐人亞太台">新唐人亞太台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="321||321.png?rand=221" xmltv_id="八大優頻道">八大優頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="322||322.png?rand=320" xmltv_id="momo綜合台">momo綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="328||328.png?rand=352" xmltv_id="信吉電視台">信吉電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="329||329.png?rand=226" xmltv_id="冠軍電視台">冠軍電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="330||330.png?rand=53" xmltv_id="華藝台灣台">華藝台灣台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="331||331.png?rand=351" xmltv_id="信吉藝文台">信吉藝文台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="332||332.png?rand=816" xmltv_id="大立電視台">大立電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="333||333.png?rand=289" xmltv_id="富立電視台">富立電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="334||334.png?rand=142" xmltv_id="新天地民俗台">新天地民俗台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="348||348.png?rand=962" xmltv_id="momo2台">momo2台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="349||349.png?rand=275" xmltv_id="東森購物3台">東森購物3台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="350||350.png?rand=684" xmltv_id="三立戲劇台">三立戲劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="351||351.png?rand=508" xmltv_id="台灣戲劇台">台灣戲劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="352||352.png?rand=317" xmltv_id="龍華戲劇">龍華戲劇</channel>
+    <channel site="mod.cht.com.tw_0" site_id="353||353.png?rand=79" xmltv_id="龍華偶像">龍華偶像</channel>
+    <channel site="mod.cht.com.tw_0" site_id="354||354.png?rand=189" xmltv_id="龍華影劇">龍華影劇</channel>
+    <channel site="mod.cht.com.tw_0" site_id="355||355.png?rand=878" xmltv_id="愛爾達影劇台">愛爾達影劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="356||356.png?rand=765" xmltv_id="靖天戲劇台">靖天戲劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="357||357.png?rand=688" xmltv_id="靖洋戲劇台">靖洋戲劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="358||358.png?rand=268" xmltv_id="EYE TV戲劇台">EYE TV戲劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="365||365.png?rand=630" xmltv_id="東森購物2台">東森購物2台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="371||371.png?rand=549" xmltv_id="靖天日本台">靖天日本台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="372||372.png?rand=507" xmltv_id="曼迪日本台">曼迪日本台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="374||374.png?rand=261" xmltv_id="Animax">Animax</channel>
+    <channel site="mod.cht.com.tw_0" site_id="375||375.png?rand=141" xmltv_id="i-Fun動漫台">i-Fun動漫台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="376||376.png?rand=204" xmltv_id="tvN">tvN</channel>
+    <channel site="mod.cht.com.tw_0" site_id="377||377.png?rand=52" xmltv_id="韓國娛樂台KMTV">韓國娛樂台KMTV</channel>
+    <channel site="mod.cht.com.tw_0" site_id="378||378.png?rand=161" xmltv_id="華藝MBC綜合台">華藝MBC綜合台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="383||383.png?rand=587" xmltv_id="ROCK Extreme">ROCK Extreme</channel>
+    <channel site="mod.cht.com.tw_0" site_id="384||384.png?rand=52" xmltv_id="ROCK Entertainment">ROCK Entertainment</channel>
+    <channel site="mod.cht.com.tw_0" site_id="397||397.png?rand=140" xmltv_id="美好2台">美好2台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="398||398.png?rand=575" xmltv_id="momo1台">momo1台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="399||399.png?rand=187" xmltv_id="東森購物4台">東森購物4台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="500||500.png?rand=280" xmltv_id="中視新聞台">中視新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="501||501.png?rand=116" xmltv_id="寰宇新聞台">寰宇新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="502||502.png?rand=503" xmltv_id="寰宇新聞台灣台">寰宇新聞台灣台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="503||503.png?rand=762" xmltv_id="台視新聞台">台視新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="504||504.png?rand=436" xmltv_id="三立財經新聞台">三立財經新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="505||505.png?rand=735" xmltv_id="華視新聞資訊台">華視新聞資訊台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="506||506.png?rand=626" xmltv_id="壹電視新聞台">壹電視新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="507||507.png?rand=912" xmltv_id="民視新聞台">民視新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="508||508.png?rand=714" xmltv_id="鏡電視新聞台">鏡電視新聞台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="520||520.png?rand=418" xmltv_id="寰宇財經台">寰宇財經台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="521||521.png?rand=161" xmltv_id="台視財經台">台視財經台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="545||545.png?rand=708" xmltv_id="美好1台">美好1台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="546||546.png?rand=390" xmltv_id="東森購物5台">東森購物5台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="550||550.png?rand=955" xmltv_id="CNN International">CNN International</channel>
+    <channel site="mod.cht.com.tw_0" site_id="551||551.png?rand=628" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel site="mod.cht.com.tw_0" site_id="552||552.png?rand=526" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel site="mod.cht.com.tw_0" site_id="553||553.png?rand=933" xmltv_id="Channel NewsAsia頻道">Channel NewsAsia頻道</channel>
+    <channel site="mod.cht.com.tw_0" site_id="554||554.png?rand=806" xmltv_id="CNBC Asia Channel">CNBC Asia Channel</channel>
+    <channel site="mod.cht.com.tw_0" site_id="555||555.png?rand=266" xmltv_id="Euronews">Euronews</channel>
+    <channel site="mod.cht.com.tw_0" site_id="556||556.png?rand=227" xmltv_id="德國之聲電視台">德國之聲電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="557||557.png?rand=920" xmltv_id="FRANCE24(English)">FRANCE24(English)</channel>
+    <channel site="mod.cht.com.tw_0" site_id="558||558.png?rand=380" xmltv_id="TaiwanPlus">TaiwanPlus</channel>
+    <channel site="mod.cht.com.tw_0" site_id="560||560.png?rand=463" xmltv_id="NHK新聞資訊台">NHK新聞資訊台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="561||561.png?rand=918" xmltv_id="半島英語新聞台Al Jazeera English">半島英語新聞台Al Jazeera English</channel>
+    <channel site="mod.cht.com.tw_0" site_id="600||600.png?rand=567" xmltv_id="視納華仁紀實台">視納華仁紀實台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="601||601.png?rand=183" xmltv_id="影迷數位紀實台">影迷數位紀實台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="610||610.png?rand=52" xmltv_id="美亞電影台">美亞電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="611||611.png?rand=330" xmltv_id="龍華電影">龍華電影</channel>
+    <channel site="mod.cht.com.tw_0" site_id="613||613.png?rand=795" xmltv_id="靖天映畫">靖天映畫</channel>
+    <channel site="mod.cht.com.tw_0" site_id="614||614.png?rand=68" xmltv_id="靖天電影台">靖天電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="615||615.png?rand=708" xmltv_id="龍華洋片">龍華洋片</channel>
+    <channel site="mod.cht.com.tw_0" site_id="616||616.png?rand=901" xmltv_id="Warner TV">Warner TV</channel>
+    <channel site="mod.cht.com.tw_0" site_id="617||617.png?rand=321" xmltv_id="ROCK Action">ROCK Action</channel>
+    <channel site="mod.cht.com.tw_0" site_id="619||619.png?rand=339" xmltv_id="amc電影台">amc電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="620||620.png?rand=42" xmltv_id="HITS">HITS</channel>
+    <channel site="mod.cht.com.tw_0" site_id="624||624.png?rand=121" xmltv_id="龍華經典">龍華經典</channel>
+    <channel site="mod.cht.com.tw_0" site_id="625||625.png?rand=630" xmltv_id="華藝影劇台">華藝影劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="626||626.png?rand=905" xmltv_id="CatchPlay電影台">CatchPlay電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="627||627.png?rand=899" xmltv_id="CinemaWorld">CinemaWorld</channel>
+    <channel site="mod.cht.com.tw_0" site_id="628||628.png?rand=796" xmltv_id="壹電視電影台">壹電視電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="629||629.png?rand=782" xmltv_id="采昌影劇台">采昌影劇台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="630||630.png?rand=699" xmltv_id="影迷數位電影台">影迷數位電影台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="633||633.png?rand=904" xmltv_id="My Cinema Europe HD 我的歐洲電影">My Cinema Europe HD 我的歐洲電影</channel>
+    <channel site="mod.cht.com.tw_0" site_id="700||700.png?rand=898" xmltv_id="唯心電視台">唯心電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="701||701.png?rand=298" xmltv_id="佛衛電視慈悲台">佛衛電視慈悲台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="702||702.png?rand=388" xmltv_id="華藏衛視">華藏衛視</channel>
+    <channel site="mod.cht.com.tw_0" site_id="703||703.png?rand=342" xmltv_id="生命電視台">生命電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="704||704.png?rand=759" xmltv_id="正德電視台">正德電視台</channel>
+    <channel site="mod.cht.com.tw_0" site_id="750||750.png?rand=275" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel site="mod.cht.com.tw_0" site_id="751||751.png?rand=783" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="mod.cht.com.tw_0" site_id="755||755.png?rand=203" xmltv_id="FRANCE24(French)">FRANCE24(French)</channel>
   </channels>
 </site>
