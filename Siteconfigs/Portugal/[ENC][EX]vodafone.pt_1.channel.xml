@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]vodafone.pt_1">
+  <channels>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2670||807cd0cdbf314c44a0a5d9c852b2f835_19" xmltv_id="SIC">SIC</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2671||a70ebda1d51b436d909cebf8b424b10e" xmltv_id="TVI">TVI</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2673||3ffe30fdefa448ec8571115ff786ef14_19" xmltv_id="História SD">História SD</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2674||656c66e4f9784c5aacfe8a056df4e4b3_19" xmltv_id="SyFy SD">SyFy SD</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2675||9e5ca9dad53a4dc88a3e0eb367015327_19" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2687||a524ac5886ff494086e707103e124cc7" xmltv_id="Sport TV 1">Sport TV 1</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2688||2f08d170f2a34e6390eb533a3d86538e" xmltv_id="Sport TV 2">Sport TV 2</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2689||bae1291a65b240abbc98c8d92f7d9718" xmltv_id="Sport TV 3">Sport TV 3</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2690||316b4ac356244f4f96c4c64b05946be3" xmltv_id="Sport TV 4">Sport TV 4</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2691||27da1d086e1e4a8a9e3003d3ef5e5f4e" xmltv_id="Sport TV 5">Sport TV 5</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2692||721d0d21b99c4b239ccb9b2daf54596c_19" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2700||37500ae831f84b30822e5bd5e04fd882_19" xmltv_id="AXN Movies">AXN Movies</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2701||4a0409944e5542a9b5acb0647467203a_19" xmltv_id="SyFy">SyFy</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2706||0b7ab6b146da42d582433ebde0ee70ee_19" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2709||5604f4864c104703bb3b46ec71f91114_19" xmltv_id="Canção Nova">Canção Nova</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2710||3af7d6ee83df46d7ab1d30a3c072e61d_19" xmltv_id="TV Galícia">TV Galícia</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2712||2723399dc06b4b9e8914b29467e23dab_19" xmltv_id="TVCine Top">TVCine Top</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2713||a44800b441224087aea741f0bf74263c_19" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2715||777adf78621046109570913715ab336c_19" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2717||5022d2f187a646d696cb57f977a0c9d1_19" xmltv_id="STAR LIFE">STAR LIFE</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2723||3178257df111483684efa8efb63e5309_19" xmltv_id="Trace Toca">Trace Toca</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2727||79a94c670a9943d895f2eaca4e72780b_19" xmltv_id="RTP Memória">RTP Memória</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2728||b61b8cc6bbaf4aa6961861c2e072290e_19" xmltv_id="RTP África">RTP África</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2736||3cef63b6677f451d8164a908b6a1aa00_19" xmltv_id="AR TV">AR TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2741||dfe23167f5144543bab68ea436dd1d15_19" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2742||fd9db0bfa1e74eaeb29f0034eec69fa2_19" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2743||b94207010d994916a318e040c2d22f72_19" xmltv_id="CMUSIC">CMUSIC</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2744||6e324dd3e2db4ca6998cf6a1bb73870d_19" xmltv_id="Baby TV SD">Baby TV SD</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2747||3346c27cb8044e5dbc17548d9610e2e8_19" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2748||dd60890cbbbf4704a89968766f0a1c3a_19" xmltv_id="TVEi">TVEi</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2749||a861422493ed454994f7b7a69183846b_19" xmltv_id="TVE 24">TVE 24</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2750||969b0d2e8fe74a0db71c223f404f0ac6_19" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2751||4e002a07acb84b02a86a19dba5ee102e_19" xmltv_id="TPA">TPA</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2754||c7f1040e19d940da8eec26928c0319de" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2757||25f5f1ac6ede4d65ab0ebf0f05908088_19" xmltv_id="ProTV">ProTV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2760||aa36677a7a9941af9e07444dd21b525d_19" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2765||3ecdccfb21a5429e8d44bf2f29e4dd34_19" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2766||1957a8e6b0c44b66ab2e0ad91fbec763_19" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2768||16cdb28b90cb46b1aee589be8a477eff_19" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2769||d575daeef80442598a33b1cffa5a21a5_19" xmltv_id="France 24 English">France 24 English</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2770||e5013d5b45304e77a8911ae9d76c59ea_19" xmltv_id="France 24 FR">France 24 FR</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2772||30137cc9eb7f472bb80cfbea196f524d_19" xmltv_id="RAI 1">RAI 1</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2779||18855da1bce845b7b7611689f2303f8b_19" xmltv_id="MCM Top">MCM Top</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2781||be6a088466484a99a99842ec524895f6_19" xmltv_id="DW">DW</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2784||803a229c5eb146ba90f22a763c49c0c7_19" xmltv_id="AlJazeera">AlJazeera</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2812||f7b7a4b51ead4f5d8028669c0287ff7c_19" xmltv_id="Record News">Record News</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2825||f47f5f7d4acd493891cb1225d10024e2_19" xmltv_id="RTP2">RTP2</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2831||c3a60cce67a347ecad3ae6fae99e1646_19" xmltv_id="TVCine Emotion">TVCine Emotion</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2832||c47a0066a7244f51beeeba84fbf46424_19" xmltv_id="TVCine Action">TVCine Action</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2833||f54c7528c31947c8be68f13748cd15b0_19" xmltv_id="AXN White">AXN White</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2837||502684fe51d24e6cb81551b3b2d54ca9_19" xmltv_id="E!">E!</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2843||c704554bdcac437490143bc61b9aec87_19" xmltv_id="Localvisão">Localvisão</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2844||481cf968448d4b07b8c675552a16ef8a_19" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2845||3e7474629a5b416c8deaf0919002e6df_19" xmltv_id="STAR MOVIES">STAR MOVIES</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2846||b253e37f1334406f8e93c4b1c37470de_19" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2847||25769e8d419c4ea6b63d8097352b9cae_19" xmltv_id="STAR CRIME">STAR CRIME</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2849||4d862190e6c549ad8f006f429ac53e52_19" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2852||477cd7f5a7354324b6a9a27db865708f_19" xmltv_id="Benfica TV">Benfica TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2854||36bba6cd2b5746dc9a073e3e7817ec30_19" xmltv_id="TV Record">TV Record</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2859||ed68fc2259e34e329d66e4974331526a_19" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2884||cb1a4d4cc1b0472eb67ce43136c8f332_19" xmltv_id="TCV News">TCV News</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2890||cf86b0c0b7714c90a27e881bbbb61ecc_19" xmltv_id="NHK World">NHK World</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2893||ea358343e7c4465c93ad1872e52ff0d6_19" xmltv_id="STAR COMEDY">STAR COMEDY</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2897||e23a084076eb46cabc7a2fce55e6c113_19" xmltv_id="KBS WORLD">KBS WORLD</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2902||e1ebf412bd444a61afdd2d9fa1263e1a_19" xmltv_id="Canal Q">Canal Q</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2903||4dcc70dcdde34d708b9ec9b1a861c8ad_19" xmltv_id="Fight Network">Fight Network</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2914||fa191c5ad6ba48b9bca783dafabc7498_19" xmltv_id="Discovery">Discovery</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2915||5a461799731d4344b277dcae381f0a89_19" xmltv_id="SIC Radical">SIC Radical</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2925||9108b7d984a54a43b441bb44b9a84b85_19" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2927||57feab802d804da792867ebeacd0db17_19" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2930||ce24543d73ab43b1b53dea9dc25d6854" xmltv_id="Sport TV +">Sport TV +</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2931||24f9fa496e70422a9830c2549dd1de0f_19" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2933||08526de0382f4a2095f6063d7a7490cd_19" xmltv_id="Insight">Insight</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2934||efb948f799c2406187f8e3dcf9e29b1d_19" xmltv_id="Docubox">Docubox</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2935||cf33e03117ac4ece8cc3b260d4869c4a" xmltv_id="SIC Notícias">SIC Notícias</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2936||c23aa79c4be64a78be3ea5843c079529_19" xmltv_id="SIC Mulher">SIC Mulher</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2937||71c7fa677b894fecada52f4fdb1defb5_19" xmltv_id="SIC Caras">SIC Caras</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2938||e45f250d72334fbdb3dbe1d91c4bc751_19" xmltv_id="SIC K">SIC K</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2993||9487453658fd42d9a8e515ee072328e7_19" xmltv_id="Travel">Travel</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2994||57a9e479ba34434a8ef249b0cd560c94_19" xmltv_id="Food Network">Food Network</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="2996||1b0fa6a1c5544a24bdea82e2bc9222e3_19" xmltv_id="AMC">AMC</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3004||868cdc88b86b4033a6be7fd2652bd05e_19" xmltv_id="Sporting TV">Sporting TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3012||2887957962b24db6beee92d0b470a54c_19" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3015||bc50304a4b45406595c55d24d0c3ff01_19" xmltv_id="Trace">Trace</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3016||121e6e261b8749749c53c4248026ee49_19" xmltv_id="Odisseia">Odisseia</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3017||af39b08b3262477cbfd49e8a506855d4_19" xmltv_id="AMC Break">AMC Break</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3019||083bfe803259450b9e59de9d799ae2b6_19" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3020||f3715346f3e748c088eeacef18bef34b_19" xmltv_id="TV Globo">TV Globo</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3024||6ba9073760e2487488ada139d1b1f7b7_19" xmltv_id="TVCine Edition">TVCine Edition</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3026||d3a18b81bedc48c6aaf41b64c3d570fd_19" xmltv_id="Hollywood">Hollywood</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3027||653fc31c29e34d62a434156b905c7cff_19" xmltv_id="Cinemundo">Cinemundo</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3028||a1bef425c634497b9341957d36e692c3_19" xmltv_id="RTP1">RTP1</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3414||9059345359844b3ca594134c8d81ffc0_19" xmltv_id="CMTV">CMTV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3885||e9ce8b8d6d2e48df8e096cd271cc982d" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3886||08734341d4c9452dbe272112d5a3aaee" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3887||7c03993042f64f2e80b224a52c87f6e7" xmltv_id="DAZN 3">DAZN 3</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3888||9f8ed7e32fb04f819475d9eb5a38d2d5" xmltv_id="DAZN 4">DAZN 4</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3889||53aa4f7847834e1f8678067be941c238" xmltv_id="DAZN 5">DAZN 5</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="3890||2e6186034d444f83b0bf2a87836d123b" xmltv_id="DAZN 6">DAZN 6</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="4862||e0b906090d974186914f5cc909c5dce6" xmltv_id="SportTV NBA">SportTV NBA</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5043||13130dde270143ea90c7ad709cd33cda_19" xmltv_id="EuroSport 2">EuroSport 2</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5583||81847fc044e84e7f8f3fc9b7a1cb7d01_19" xmltv_id="A Bola TV">A Bola TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5585||3c6048c60dc042fd84e395b33d1f049e_19" xmltv_id="Canal 11">Canal 11</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5609||c63940e416dd47b28de10aa3477408b0_19" xmltv_id="S+">S+</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5610||309a6fca4d47427ca9f5c8145a0348c1" xmltv_id="FREEDOM">FREEDOM</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="5678||15dc865f76db4f7baddb09d728bd1088" xmltv_id="CNN Portugal">CNN Portugal</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7075||28aac14ad6f7411092bc81bc383cc85b_19" xmltv_id="GameToon">GameToon</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7084||7e72b63606b74facb84d4a4be512ef6b_19" xmltv_id="RTP Açores">RTP Açores</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7090||e465476b8a8545488e8310c1df29e55d_19" xmltv_id="Casa e Cozinha">Casa e Cozinha</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7185||85009bcb0b8b45e7bc140a4832ca014b_19" xmltv_id="Panda">Panda</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7187||d430a0822b5f469ca320bf6d6723f0ca_19" xmltv_id="RTP3">RTP3</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7188||9352c739e9b34d7b9aad308b90f521e7_19" xmltv_id="Panda Kids">Panda Kids</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7250||f31ce4c726dd4382915bfdea05a3c50f" xmltv_id="Sport TV 6">Sport TV 6</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="7522||bbbf77ecab4440d0876889aa0d62b586" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8005||14dd98d3e0574155bf9e8dee613d3161_19" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8006||23dffe336ee24fba9879f8b43eb49571_19" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8013||25a531732c4d4ff99bab6793ad20be65_19" xmltv_id="GINX Esports TV">GINX Esports TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8124||655bd3fbd7764b85b6c216cf352fa320_19" xmltv_id="iConcerts">iConcerts</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8368||2b0d86675bb8428e91c55eada3982d01_19" xmltv_id="UNIFE TV">UNIFE TV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8396||48a5c03f05264f969c71e56992a98847_19" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8397||8ae0590068384f8b85de367df743188e_19" xmltv_id="TVI Reality">TVI Reality</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8398||bd02f77c26cb4380a1da6a2fe90a938d_19" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8399||e2cbe6f3c7de4a77a37e4eb878b789f7_19" xmltv_id="V+ TVI">V+ TVI</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8424||d6249f5eef264202874dfdd5de492a9e_19" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8426||d01e00520a5a4a2aaa1e1bf32f199dd5_19" xmltv_id="AMC Crime">AMC Crime</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8529||87e626cfaddd45bba7703e3df96d2c38_19" xmltv_id="Dizi">Dizi</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8598||7ba831b33ef34380b3b5b462bbf355cf" xmltv_id="BenficaTV Multicam 1">BenficaTV Multicam 1</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8599||6d713fb010f543a7a1e9848d6c791620" xmltv_id="BenficaTV Multicam 2">BenficaTV Multicam 2</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8600||370959aa138a4805886fccabf38265e0" xmltv_id="BenficaTV Multicam 3">BenficaTV Multicam 3</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8601||b02508077c564f7883f8fc860f15b9c9" xmltv_id="BenficaTV Multicam 4">BenficaTV Multicam 4</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8606||b22774537d39440495b205b428e83a7f" xmltv_id="AfroMusic">AfroMusic</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8636||383f7e6f14ba48a0a69bde850dae7f50" xmltv_id="Panda Biggs">Panda Biggs</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8645||4a5f17d29c7d4e74bea71046ffc50569" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8646||610a1c775a4d4f89954924575c738b0e" xmltv_id="MCM POP">MCM POP</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8711||7d1df4bc7fd948e3bbb57fefe3845ffb" xmltv_id="News Now">News Now</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8735||bd9e43272bc04420969e8e8ff0de8f8c" xmltv_id="SIC Novelas">SIC Novelas</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8743||079ac81d79f7490e844af481e5303d12" xmltv_id="Sport TV 7">Sport TV 7</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8775||89768f1e6c1043279925acef9cadf5b8" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8776||5aa45346d01440dabf96211bf118c28f" xmltv_id="Disc ID">Disc ID</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8781||b422dbbb9fec4df5a07b6a383d906d56" xmltv_id="BabyTV">BabyTV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8782||4280bb15af7b45068bbd15138531050b" xmltv_id="TCV">TCV</channel>
+    <channel site="[ENC][EX]vodafone.pt_1" site_id="8783||f16aac14d6d54c8bb723397b3d743f08" xmltv_id="História">História</channel>
+  </channels>
+</site>
