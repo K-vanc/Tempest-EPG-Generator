@@ -185,7 +185,7 @@ Note: Please consider that this docker image created for Operating Systems which
 
 Special thanks to my Gold Sponsors..
 
-<!-- gold --><a href="https://github.com/cyb3rgh05t"><img src="https:&#x2F;&#x2F;private-avatars.githubusercontent.com&#x2F;u&#x2F;5200101?jwt&#x3D;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE2MDI0MDAsIm5iZiI6MTczMTYwMTIwMCwicGF0aCI6Ii91LzUyMDAxMDEifQ.GthyY4mHTClVJfuf0wHLhw9ZAY-mfXWB4EBJMhTDskk&amp;u&#x3D;83098998f44650882ce7e856cda00d3649a19f44&amp;v&#x3D;4" width="60px" alt="cyb3rgh05t" /></a><a href="https://github.com/AngusMacGyver-DE"><img src="https:&#x2F;&#x2F;private-avatars.githubusercontent.com&#x2F;u&#x2F;115607490?jwt&#x3D;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE2MDIyMjAsIm5iZiI6MTczMTYwMTAyMCwicGF0aCI6Ii91LzExNTYwNzQ5MCJ9.yQlvC_02apk--Ke0ZvRWZm5bci0lUgjm34vW64-k2gw&amp;u&#x3D;1c3e25a4f8f246c68ca6ede3628d70c4450d47a1&amp;v&#x3D;4" width="60px" alt="" /></a><!-- gold -->
+<!-- gold --><a href="https://github.com/cyb3rgh05t"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;5200101?u&#x3D;83098998f44650882ce7e856cda00d3649a19f44&amp;v&#x3D;4" width="60px" alt="cyb3rgh05t" /></a><a href="https://github.com/AngusMacGyver-DE"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;115607490?u&#x3D;1c3e25a4f8f246c68ca6ede3628d70c4450d47a1&amp;v&#x3D;4" width="60px" alt="" /></a><!-- gold -->
 
 <br>
 
