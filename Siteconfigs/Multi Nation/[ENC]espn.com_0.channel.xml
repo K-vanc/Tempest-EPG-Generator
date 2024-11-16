@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]espn.com_0">
+  <channels>
+    <channel site="[ENC]espn.com_0" site_id="e748f3c0-3f7c-3088-a90a-0ccb2588e0ed||espn" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC]espn.com_0" site_id="espn_plus||espnplus" xmltv_id="ESPN+">ESPN+</channel>
+    <channel site="[ENC]espn.com_0" site_id="017f41a2-ef4f-39d3-9f45-f680b88cd23b||espn2" xmltv_id="ESPN2">ESPN2</channel>
+    <channel site="[ENC]espn.com_0" site_id="500b1f7c-dad5-33f9-907c-87427babe201||espnu" xmltv_id="ESPNU">ESPNU</channel>
+    <channel site="[ENC]espn.com_0" site_id="74459ca3-cf85-381d-b90d-a95ff6e7a207||sec" xmltv_id="SEC Network">SEC Network</channel>
+    <channel site="[ENC]espn.com_0" site_id="19644d95-cc83-38ed-bdf9-50b9f2e9ebfc||secplus" xmltv_id="SEC Network +">SEC Network +</channel>
+    <channel site="[ENC]espn.com_0" site_id="3e99c57a-516c-385d-9c22-2e40aebc7129||espn3" xmltv_id="ESPN3">ESPN3</channel>
+    <channel site="[ENC]espn.com_0" site_id="1e760a1c-c204-339d-8317-8e615c9cc0e0||espnews" xmltv_id="ESPNews">ESPNews</channel>
+    <channel site="[ENC]espn.com_0" site_id="76b92674-175c-4ff1-8989-380aa514eb87||acc" xmltv_id="ACCN">ACCN</channel>
+    <channel site="[ENC]espn.com_0" site_id="9f538e0b-a896-3325-a417-79034e03a248||accextra" xmltv_id="ACCNX">ACCNX</channel>
+    <channel site="[ENC]espn.com_0" site_id="bba8fb76-57ff-3c63-998b-90fef8f4f8b6||espndeportes" xmltv_id="ESPN Deportes">ESPN Deportes</channel>
+    <channel site="[ENC]espn.com_0" site_id="d41c5aaf-e100-4726-841f-1e453af347f9||ufc_ppv" xmltv_id="ESPN PPV">ESPN PPV</channel>
+    <channel site="[ENC]espn.com_0" site_id="8cc0ae94-324d-3123-859f-7b6a229b1b89||espn_free" xmltv_id="@ESPN">@ESPN</channel>
+    <channel site="[ENC]espn.com_0" site_id="espn_plus_mlb||mlb" xmltv_id="MLB.tv">MLB.tv</channel>
+  </channels>
+</site>
