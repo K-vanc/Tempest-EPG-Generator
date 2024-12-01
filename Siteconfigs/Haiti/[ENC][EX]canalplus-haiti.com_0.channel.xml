@@ -1,121 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]canalplus-haiti.com_0">
   <channels>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51014||f77d9e81d75535cbf80c3b49ba9a9578" xmltv_id="CANAL+ CINEMA HD">CANAL+ CINEMA HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51022||f280baf8d475a4643d64321caf771782" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51133||0e6961996bd0ce3a2e17d64989bdd07a" xmltv_id="CANAL+ KIDS HD">CANAL+ KIDS HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51313||31db6fcee75e0e591f451635620e409b" xmltv_id="CANAL+ SERIES HD">CANAL+ SERIES HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51358||c84744d688aab9231cc46ff38929f84b" xmltv_id="C+ AYITI SPORT 1 HD">C+ AYITI SPORT 1 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51095||d1a641606dd3c349f8be2b3a1803dc81" xmltv_id="TF1 HD">TF1 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51188||142492fd744185418a30a8937d24ef0f" xmltv_id="FRANCE 2">FRANCE 2</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51045||f3da203bc4ff88ed946f3e8502f73e57" xmltv_id="FRANCE 3">FRANCE 3</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51046||b72f8137cd7512716b8e4563766fc8cf" xmltv_id="FRANCE 5">FRANCE 5</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51057||9b38a8d3c9b6509645d7927e5c98094b" xmltv_id="M6 HD">M6 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51106||9df3af6654c1ff2d7f78b6d722746112" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51967||14cd50fd885f3c487ccd15280136eca9" xmltv_id="CANAL EVENEMENT">CANAL EVENEMENT</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51083||c0cf857bd5a9954a143c268f09ef7ed1" xmltv_id="GUADELOUPE 1ERE">GUADELOUPE 1ERE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51176||658b50321499cb2c520566f1051312e1" xmltv_id="CANAL 10">CANAL 10</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51286||5dcc43c9b6b5dd27a2b11b79f6117ccd" xmltv_id="ECLAIR TV">ECLAIR TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51365||890b9b8b8ff2c97f782dd9bae77d7058" xmltv_id="ALIZES GUADELOUPE">ALIZES GUADELOUPE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51085||f3efbcf4040a79b562aa6e493bc8a1a4" xmltv_id="MARTINIQUE 1ERE">MARTINIQUE 1ERE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51006||0f67b2e85f74101c4c776cf423240fce" xmltv_id="viaATV">viaATV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51285||6ed6e5a6eb696cae5ca38ef8b7d514a9" xmltv_id="ZOUK TV">ZOUK TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51210||c606278a63343ad7d89626b5b2441ba4" xmltv_id="KMT">KMT</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51801||707234594c24651719c21c6b30c84d34" xmltv_id="ZITATA TV">ZITATA TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51937||a5a69f52a56b0c220a07e31cf108e66c" xmltv_id="GRAPHE TV">GRAPHE TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51084||2cc0942a5da0c0a0f5f9b7ce06a81a5f" xmltv_id="GUYANE 1ERE">GUYANE 1ERE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51288||17dbcf236fdc04fb9f33c60f775e1cda" xmltv_id="KOUROU TV">KOUROU TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51611||70a6c56b39b6d95c6c429641cdde6037" xmltv_id="IOTV">IOTV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51114||e59fd7f01f6da827e8aa054635ff2795" xmltv_id="FRANCE 24">FRANCE 24</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51055||20a1dffa28d7f2bcce13b68753bc087c" xmltv_id="LCP">LCP</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51048||f56c976f399ea933a1ae5ad3243d8a52" xmltv_id="CNEWS">CNEWS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51704||be0c4b093b1bda7c17d3231dbe000c41" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51054||d58130354d76932709e8e6bad23fb14f" xmltv_id="LCI">LCI</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51008||c7bdac1b1c5edb66a5823bda068d4060" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51032||83255486f376a9c55c13269608ff39eb" xmltv_id="CNN">CNN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51278||f03a850961aeacc91bde30ca9a96d4f2" xmltv_id="KTO">KTO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51548||255897a71b04f200d5a8c2c05b87b291" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51416||0fb62ac7542f10470482225c1a1a96a0" xmltv_id="A+">A+</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51120||18dcdbe9913e4653ac90533edfb347db" xmltv_id="C8 HD">C8 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51067||0106230ae7fe31cdd7db4b42a5ffb7b8" xmltv_id="TFX">TFX</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51216||aeef76e07fe54257d1b2dc84bf2a5d16" xmltv_id="NRJ12">NRJ12</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51217||09cadf0202d8d36538d7c2ec9e73af19" xmltv_id="CSTAR">CSTAR</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51613||ad887757c6d953436379c5ae167ac441" xmltv_id="TF1 SERIES FILMS">TF1 SERIES FILMS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51624||15ec773f14ac7e2bd34c89e16904e664" xmltv_id="6TER">6TER</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51070||144b88cf335b8d1933e353c0decdcd22" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51077||b67839255791e2cf9cdba8193a5efd60" xmltv_id="RTL9">RTL9</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51001||08c2a8515f88a3a74de1d5714e1c0bbc" xmltv_id="13EME RUE">13EME RUE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51078||6a5b7de2b05fc6ac1d4c188fd9b81081" xmltv_id="SYFY">SYFY</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51033||4ae047a6421f34ccb4abefe931d238b4" xmltv_id="COMEDIE+">COMEDIE+</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51065||20857d848172a068f313693d4d2d4da4" xmltv_id="MTV">MTV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51060||506eedfe4f97086e1e904a60e1bf4b3e" xmltv_id="MCM">MCM</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51036||a0d230d3c7479b27db2d9ba299e4467f" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51136||bef9ce1c1b8cf31927989e1cc36d84ee" xmltv_id="GAME ONE">GAME ONE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51418||12f2f278f5a187ce192bcacf3858eb72" xmltv_id="NOLLYWOOD TV">NOLLYWOOD TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51072||4e29f3c52a6e90555a298c8bcc358b32" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51073||4206ad94f30523ffdee330066dc97655" xmltv_id="PLANETE+ AVENTURE">PLANETE+ AVENTURE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51138||8dcb6b6fcc1cd2ae078c086b8fedf3d2" xmltv_id="USHUAÏA TV HD">USHUAÏA TV HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51996||ae697dba427ed168b5b64c78be4efcee" xmltv_id="TRAVEL XP">TRAVEL XP</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51727||6771ebd33b484707eb0786e324fd3862" xmltv_id="TOUTE L HISTOIRE">TOUTE L HISTOIRE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51374||6011aab35485d9cfa1b1a250057d0dae" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51142||ab5405062ae4b92aed74a850c622ae72" xmltv_id="PLANETE+ CRIME">PLANETE+ CRIME</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51145||34c09b3f7ab20d6c7b8ac35366cf96c4" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51223||6efb0b61a060da948154fac377ae0c24" xmltv_id="NAT GEO WILD HD">NAT GEO WILD HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51079||b1d9437352e04e06f8094987f7cb6384" xmltv_id="SEASONS">SEASONS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51711||70a108a24caf0f6b108bbbdb4a197eba" xmltv_id="CUISINES">CUISINES</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51959||e2e930cc89653f88fa38972c78f26c28" xmltv_id="NATHAN TV">NATHAN TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51359||88578f5c73cd1b7b6344b7d72542284d" xmltv_id="C+ AYITI SPORT 2">C+ AYITI SPORT 2</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51028||a9b497507bae038ef3adde8d664379f9" xmltv_id="CINE+ PREMIER HD">CINE+ PREMIER HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51027||d298bcfccb62174f17ce781103bce1d7" xmltv_id="CINE+ FRISSON HD">CINE+ FRISSON HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51025||56e63b08df0212df3d46639c484668ef" xmltv_id="CINE+ EMOTION">CINE+ EMOTION</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51026||9addb40b7d18eb00e23929b96560a777" xmltv_id="CINE+ FAMIZ">CINE+ FAMIZ</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51024||414c8a5129700a559635e03a71a7dc8e" xmltv_id="CINE+ CLUB">CINE+ CLUB</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51328||1517a5942e2d9bee21fab2db211251de" xmltv_id="CINE+ CLASSIC">CINE+ CLASSIC</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51004||8877550b27ef4bea375b2eceafcfa195" xmltv_id="ACTION">ACTION</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51303||ceb273b22a727172772c6d83604d543b" xmltv_id="PARAMOUNT TV">PARAMOUNT TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51361||b0ce5106783702683ffdbc1869a7ff4b" xmltv_id="HBO">HBO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51362||08d23026b5aa799982e0b93053d6d112" xmltv_id="HBO Family">HBO Family</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51363||f75bca7bc4be9dfefac286bdb06e7ab0" xmltv_id="HBO XTREME">HBO XTREME</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51942||7ae551a0bfb994d395585570faee22ea" xmltv_id="STUDIOCANAL">STUDIOCANAL</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51050||5f6505ecfcf7242fb76a7cff644c4493" xmltv_id="INFOSPORT+">INFOSPORT+</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51056||6e5ce2f1bfcfa0276213a3c60059601b" xmltv_id="L EQUIPE">L EQUIPE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51041||3c03ba7b131a64d2491cce3e9feff735" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51042||5b1f73883619531e97afc3519cbac4e6" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51614||84a2290aecdffceb107646893afbdc4a" xmltv_id="WATAAA">WATAAA</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51565||1994f9ff8d866df5d80763ec98f58eeb" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51667||9e546df820409341e90bb20e307c0899" xmltv_id="MGG TV">MGG TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51038||0df06f97abcfc1461f5a73014cf0c7fa" xmltv_id="ESPN">ESPN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51290||71d93f1f813eef7bee6666981eab4128" xmltv_id="ESPN 2">ESPN 2</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51035||4a226ebc048f2d9a339dbb69d353ad74" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51128||328616770226f2547e979d4ee20dabff" xmltv_id="PIWI+">PIWI+</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51941||aafb9594260b9f235852b9aadf58a364" xmltv_id="NICKELODEON JUNIOR">NICKELODEON JUNIOR</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51148||f14fd97a0a25f85137ee796638b82e25" xmltv_id="TELETOON+">TELETOON+</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51224||c2c17c39a49e36cac289d16681724ad8" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51931||b4c2e7743672886a4705494bf0ea4b60" xmltv_id="LUDIKIDS">LUDIKIDS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51075||70a075a4e3c07b9666678b2a7af059e9" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51102||02b09c0308344b3beeec0ea4dc3fe9ac" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51155||afe6486f5fde96c0dab8e2425dc33db3" xmltv_id="TRACE CARRIBBEAN">TRACE CARRIBBEAN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51653||cdc37d99bc44ca2127712b28d1e291ca" xmltv_id="TRACE LATINA">TRACE LATINA</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51654||a09364193f0fab3dfa567b0e5c1b8533" xmltv_id="TRACE AYITI">TRACE AYITI</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51557||76739b437e7b6ee5a2fd4b15059dc03b" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51620||42646029bf3d9e08872a895fe5d45d83" xmltv_id="TRACE GOSPEL">TRACE GOSPEL</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51147||897cfddfe8dc789080749ac721956aea" xmltv_id="MTV HITS">MTV HITS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51291||85391942a56f9be4aeb4b30629cff61a" xmltv_id="TNH">TNH</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51306||aff83776eb9ddb06c031ebe0a6bbc771" xmltv_id="TV METROPOLE">TV METROPOLE</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51617||c9c0a8b566505aedf538ade50e2dab2c" xmltv_id="TELE PACIFIC">TELE PACIFIC</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51618||5b6946dc588729db415a69fc0fe8a8e0" xmltv_id="TELE 20">TELE 20</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51936||c8f2749c5fb7d2a6f156a13fcfd8a98b" xmltv_id="TELE SOLEIL">TELE SOLEIL</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51423||78aa1302a1bf5650cd04b33849313977" xmltv_id="TV CARAIBES">TV CARAIBES</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51725||adeb0c133e8fcab9d5f6661c031adad4" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51292||fba6addcf6c62ac4c22df46dae8f6aac" xmltv_id="TELE MICRO">TELE MICRO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51230||48f7ca3af81be93eed0a164ba9bfcce5" xmltv_id="TV GLOBO">TV GLOBO</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51422||ca0c8d3118f70d6cdcfb480cd1067b13" xmltv_id="CANAL SONY">CANAL SONY</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51616||e48f870371f6b3b7e7a8ce90ac8ba605" xmltv_id="STVS">STVS</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51702||47074a9f842870fa7e85464f15abac5a" xmltv_id="DORCEL AFRICA TV">DORCEL AFRICA TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51280||4b0c888493f2945d6e7d8afacfbd86d1" xmltv_id="PENTHOUSE BLACK">PENTHOUSE BLACK</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51110||636c8a7ae3c652dc963e14a8d1678469" xmltv_id="XXL">XXL</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51934||09e2088661b5392da662c0493ecffaf4" xmltv_id="VIXEN">VIXEN</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51185||f70a0e382a2b191c9737bf73b4a0edb9" xmltv_id="J&amp;M TV">J&amp;M TV</channel>
-    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="51966||8e008cbdfe533e349f842782904283f3" xmltv_id="CANAL+ AYITI HD">CANAL+ AYITI HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150001||13EME.RUE" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150624||6TER" xmltv_id="6TER">6TER</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150416||A." xmltv_id="A+">A+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150004||ACTION" xmltv_id="ACTION">ACTION</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150168||AFRICA.24" xmltv_id="AFRICA 24">AFRICA 24</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150007||ARTE.France" xmltv_id="ARTE France">ARTE France</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150006||ATV.Martinique" xmltv_id="ATV Martinique">ATV Martinique</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150565||AUTOMOTO" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150008||BBC.NEWS" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150557||BBLACK.CARIBBEAN" xmltv_id="BBLACK CARIBBEAN">BBLACK CARIBBEAN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150115||BEIN.SPORTS.1.HD" xmltv_id="BEIN SPORTS 1 HD">BEIN SPORTS 1 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150243||BEIN.SPORTS.2.HD" xmltv_id="BEIN SPORTS 2 HD">BEIN SPORTS 2 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150347||BEIN.SPORTS.3.HD" xmltv_id="BEIN SPORTS 3 HD">BEIN SPORTS 3 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150558||BEIN.SPORTS.MAX.4" xmltv_id="BEIN SPORTS MAX 4">BEIN SPORTS MAX 4</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150559||BEIN.SPORTS.MAX.5" xmltv_id="BEIN SPORTS MAX 5">BEIN SPORTS MAX 5</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150964||BFM.BUSINESS" xmltv_id="BFM BUSINESS">BFM BUSINESS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150963||BFM.TV" xmltv_id="BFM TV">BFM TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150530||BOOMERANG" xmltv_id="BOOMERANG">BOOMERANG</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150120||C8" xmltv_id="C8">C8</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150176||CANAL.10" xmltv_id="CANAL 10">CANAL 10</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150967||CANAL.EVENEMENT.CARA" xmltv_id="CANAL EVENEMENT CARA">CANAL EVENEMENT CARA</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150011||CANAL.J" xmltv_id="CANAL J">CANAL J</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150422||CANAL.SONY" xmltv_id="CANAL SONY">CANAL SONY</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150966||CANAL..AYITI" xmltv_id="CANAL+ AYITI">CANAL+ AYITI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150263||CANAL..BOX.OFFICE" xmltv_id="CANAL+ BOX OFFICE">CANAL+ BOX OFFICE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150014||CANAL..CINEMA.S." xmltv_id="CANAL+ CINEMA(S)">CANAL+ CINEMA(S)</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150980||CANAL..DOCS" xmltv_id="CANAL+ DOCS">CANAL+ DOCS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150544||CANAL..FOOT" xmltv_id="CANAL+ FOOT">CANAL+ FOOT</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150012||CANAL..HD" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150401||CANAL..KIDS.HD" xmltv_id="CANAL+ KIDS HD">CANAL+ KIDS HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150738||CANAL..Premier.League" xmltv_id="CANAL+ Premier League">CANAL+ Premier League</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150312||CANAL..SERIES.HD" xmltv_id="CANAL+ SERIES HD">CANAL+ SERIES HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150543||CANAL..SPORT.360" xmltv_id="CANAL+ SPORT 360">CANAL+ SPORT 360</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150358||CANAL..SPORT.AYITI.1" xmltv_id="CANAL+ SPORT AYITI 1">CANAL+ SPORT AYITI 1</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150022||CANAL..SPORT.HD" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151135||CANAL.LIVE.1" xmltv_id="CANAL+LIVE 1">CANAL+LIVE 1</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151144||CANAL.LIVE.10" xmltv_id="CANAL+LIVE 10">CANAL+LIVE 10</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151145||CANAL.LIVE.11" xmltv_id="CANAL+LIVE 11">CANAL+LIVE 11</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151146||CANAL.LIVE.12" xmltv_id="CANAL+LIVE 12">CANAL+LIVE 12</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151147||CANAL.LIVE.13" xmltv_id="CANAL+LIVE 13">CANAL+LIVE 13</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151148||CANAL.LIVE.14" xmltv_id="CANAL+LIVE 14">CANAL+LIVE 14</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151149||CANAL.LIVE.15" xmltv_id="CANAL+LIVE 15">CANAL+LIVE 15</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151150||CANAL.LIVE.16" xmltv_id="CANAL+LIVE 16">CANAL+LIVE 16</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151151||CANAL.LIVE.17" xmltv_id="CANAL+LIVE 17">CANAL+LIVE 17</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151152||CANAL.LIVE.18" xmltv_id="CANAL+LIVE 18">CANAL+LIVE 18</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151136||CANAL.LIVE.2" xmltv_id="CANAL+LIVE 2">CANAL+LIVE 2</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151137||CANAL.LIVE.3" xmltv_id="CANAL+LIVE 3">CANAL+LIVE 3</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151138||CANAL.LIVE.4" xmltv_id="CANAL+LIVE 4">CANAL+LIVE 4</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151139||CANAL.LIVE.5" xmltv_id="CANAL+LIVE 5">CANAL+LIVE 5</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151140||CANAL.LIVE.6" xmltv_id="CANAL+LIVE 6">CANAL+LIVE 6</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151141||CANAL.LIVE.7" xmltv_id="CANAL+LIVE 7">CANAL+LIVE 7</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151142||CANAL.LIVE.8" xmltv_id="CANAL+LIVE 8">CANAL+LIVE 8</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151143||CANAL.LIVE.9" xmltv_id="CANAL+LIVE 9">CANAL+LIVE 9</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150502||CARTOON.NETWORK" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151096||CARTOONITO" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150440||CHERIE.25" xmltv_id="CHERIE 25">CHERIE 25</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150997||CHEVAL.TV" xmltv_id="CHEVAL TV">CHEVAL TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150328||CINE...CLASSIC" xmltv_id="CINE + CLASSIC">CINE + CLASSIC</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150025||CINE..EMOTION" xmltv_id="CINE+ EMOTION">CINE+ EMOTION</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150026||CINE..FAMILY" xmltv_id="CINE+ FAMILY">CINE+ FAMILY</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150024||CINE..FESTIVAL" xmltv_id="CINE+ FESTIVAL">CINE+ FESTIVAL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150027||CINE..FRISSON.HD" xmltv_id="CINE+ FRISSON HD">CINE+ FRISSON HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150048||CNEWS" xmltv_id="CNEWS">CNEWS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150021||CNN" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150032||CNN" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150033||COMEDIE." xmltv_id="COMEDIE+">COMEDIE+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150217||CSTAR" xmltv_id="CSTAR">CSTAR</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150711||CUISINES" xmltv_id="CUISINES">CUISINES</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150016||DAZN.1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150017||DAZN.2" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150018||DAZN.3" xmltv_id="DAZN 3">DAZN 3</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150019||DAZN.4" xmltv_id="DAZN 4">DAZN 4</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150020||DAZN.5" xmltv_id="DAZN 5">DAZN 5</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150174||DISCOVERY.CHANNEL" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151098||DISCOVERY.INVESTIGATION" xmltv_id="DISCOVERY INVESTIGATION">DISCOVERY INVESTIGATION</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150035||DISNEY.CHANNEL" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150075||DISNEY.JUNIOR" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150154||DORCEL.TV" xmltv_id="DORCEL TV">DORCEL TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150702||DORCEL.TV.AFRICA" xmltv_id="DORCEL TV AFRICA">DORCEL TV AFRICA</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150036||E!.ENTERTAINMENT" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150374||ENGLISH.CLUB.TV" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150037||EQUIDIA.LIVE" xmltv_id="EQUIDIA LIVE">EQUIDIA LIVE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150038||ESPN" xmltv_id="ESPN">ESPN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150290||ESPN2.LATIN.NETWORK" xmltv_id="ESPN2 LATIN NETWORK">ESPN2 LATIN NETWORK</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150005||ETV" xmltv_id="ETV">ETV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150041||EUROSPORT.1.HD" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150042||EUROSPORT.2.HD" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150745||EVENEMENT.4K" xmltv_id="EVENEMENT 4K">EVENEMENT 4K</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150188||FRANCE.2" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150114||FRANCE.24" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150045||FRANCE.3" xmltv_id="FRANCE 3">FRANCE 3</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150196||FRANCE.4" xmltv_id="FRANCE 4">FRANCE 4</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150046||FRANCE.5" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150704||FRANCE.INFO:" xmltv_id="FRANCE INFO:">FRANCE INFO:</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150010||FRANCE.TV.PARIS.2024" xmltv_id="FRANCE TV PARIS 2024">FRANCE TV PARIS 2024</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150961||FUSION.TV" xmltv_id="FUSION TV">FUSION TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150136||GAME.ONE" xmltv_id="GAME ONE">GAME ONE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150414||GOLF." xmltv_id="GOLF+">GOLF+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150937||GRAPHE.TV" xmltv_id="GRAPHE TV">GRAPHE TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150083||GUADELOUPE.1ERE" xmltv_id="GUADELOUPE 1ERE">GUADELOUPE 1ERE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150146||GULLI" xmltv_id="GULLI">GULLI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150084||GUYANE.1ERE" xmltv_id="GUYANE 1ERE">GUYANE 1ERE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150359||HAITI.SPORT.2" xmltv_id="HAITI SPORT 2">HAITI SPORT 2</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150361||HBO" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150362||HBO.Family" xmltv_id="HBO Family">HBO Family</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150363||HBO.XTREME" xmltv_id="HBO XTREME">HBO XTREME</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150304||HUSTLER" xmltv_id="HUSTLER">HUSTLER</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150050||INFOSPORT." xmltv_id="INFOSPORT+">INFOSPORT+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150611||IOTV" xmltv_id="IOTV">IOTV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150210||KMT" xmltv_id="KMT">KMT</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150288||KOUROU.TV" xmltv_id="KOUROU TV">KOUROU TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150278||KTO" xmltv_id="KTO">KTO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150056||L.Equipe" xmltv_id="L Equipe">L Equipe</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150054||LCI" xmltv_id="LCI">LCI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150055||LCP.ASSEMBLEE.NATIONALE" xmltv_id="LCP ASSEMBLEE NATIONALE">LCP ASSEMBLEE NATIONALE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150931||LUDIKIDS.OI" xmltv_id="LUDIKIDS OI">LUDIKIDS OI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150057||M6.HD" xmltv_id="M6 HD">M6 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150085||MARTINIQUE.1ERE" xmltv_id="MARTINIQUE 1ERE">MARTINIQUE 1ERE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150586||MEZZO" xmltv_id="MEZZO">MEZZO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150998||MEZZO.LIVE" xmltv_id="MEZZO LIVE">MEZZO LIVE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150667||MGG.TV" xmltv_id="MGG TV">MGG TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150065||MTV.France" xmltv_id="MTV France">MTV France</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150147||MTV.HITS" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150670||MUSEUM.TV" xmltv_id="MUSEUM TV">MUSEUM TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150962||MY.TV.CARAIBES" xmltv_id="MY TV CARAIBES">MY TV CARAIBES</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150223||NAT.GEO.WILD" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150959||NATHAN." xmltv_id="NATHAN+">NATHAN+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150145||NATIONAL.GEOGRAPHIC.HD" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150224||NICKELODEON" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150941||NICKELODEON.JR" xmltv_id="NICKELODEON JR">NICKELODEON JR</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150418||NOLLYWOOD.TV.france" xmltv_id="NOLLYWOOD TV france">NOLLYWOOD TV france</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150548||NOVELAS.TV" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150216||NRJ.12" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150028||OCS.HD" xmltv_id="OCS HD">OCS HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150731||OLYMPIA.TV" xmltv_id="OLYMPIA TV">OLYMPIA TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150303||PARAMOUNT.TV" xmltv_id="PARAMOUNT TV">PARAMOUNT TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150070||PARIS.PREMIERE" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150280||PENTHOUSE.BLACK" xmltv_id="PENTHOUSE BLACK">PENTHOUSE BLACK</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150071||PINK.TV" xmltv_id="PINK TV">PINK TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150128||PIWI." xmltv_id="PIWI+">PIWI+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150072||PLANETE." xmltv_id="PLANETE+">PLANETE+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150073||PLANETE..AVENTURE" xmltv_id="PLANETE+ AVENTURE">PLANETE+ AVENTURE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150142||PLANETE..CRIME" xmltv_id="PLANETE+ CRIME">PLANETE+ CRIME</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150591||PRIVATE" xmltv_id="PRIVATE">PRIVATE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150009||PUNCH.TV" xmltv_id="PUNCH TV">PUNCH TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150999||RMC.DECOUVERTE" xmltv_id="RMC DECOUVERTE">RMC DECOUVERTE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150965||RMC.STORY" xmltv_id="RMC STORY">RMC STORY</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150077||RTL9" xmltv_id="RTL9">RTL9</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150079||SEASONS" xmltv_id="SEASONS">SEASONS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150978||SPORT.EN.FRANCE" xmltv_id="SPORT EN FRANCE">SPORT EN FRANCE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150942||STUDIOCANAL" xmltv_id="STUDIOCANAL">STUDIOCANAL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150616||STVS" xmltv_id="STVS">STVS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150078||SYFY" xmltv_id="SYFY">SYFY</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151374||TCM.CINEMA" xmltv_id="TCM CINEMA">TCM CINEMA</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150618||TELE.20" xmltv_id="TELE 20">TELE 20</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150292||TELE.MICRO" xmltv_id="TELE MICRO">TELE MICRO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150617||TELE.PACIFIC" xmltv_id="TELE PACIFIC">TELE PACIFIC</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150936||TELE.SOLEIL" xmltv_id="TELE SOLEIL">TELE SOLEIL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150725||TELEMUNDO" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150148||TELETOON." xmltv_id="TELETOON+">TELETOON+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150636||TEST.DROM" xmltv_id="TEST DROM">TEST DROM</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150094||TEVA" xmltv_id="TEVA">TEVA</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150095||TF1.HD" xmltv_id="TF1 HD">TF1 HD</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150613||TF1.SERIES.FILMS" xmltv_id="TF1 SERIES FILMS">TF1 SERIES FILMS</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150067||TFX" xmltv_id="TFX">TFX</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="151097||TLC" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150098||TMC" xmltv_id="TMC">TMC</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150291||TNH.HAITI" xmltv_id="TNH HAITI">TNH HAITI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150727||TOUTE.L.HISTOIRE" xmltv_id="TOUTE L HISTOIRE">TOUTE L HISTOIRE</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150654||TRACE.AYITI" xmltv_id="TRACE AYITI">TRACE AYITI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150155||TRACE.CARIBBEAN" xmltv_id="TRACE CARIBBEAN">TRACE CARIBBEAN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150102||TRACE.URBAN" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150996||TRAVELXP" xmltv_id="TRAVELXP">TRAVELXP</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150960||TROTTERS.TV" xmltv_id="TROTTERS TV">TROTTERS TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150104||TV.BREIZH" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150423||TV.CARAIBES" xmltv_id="TV CARAIBES">TV CARAIBES</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150230||TV.GLOBO" xmltv_id="TV GLOBO">TV GLOBO</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150306||TV.Métropole" xmltv_id="TV Métropole">TV Métropole</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150002||TV.PEYI" xmltv_id="TV PEYI">TV PEYI</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150106||TV5.MONDE..Amérique.Latine." xmltv_id="TV5 MONDE (Amérique Latine)">TV5 MONDE (Amérique Latine)</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150138||USHUAÏA.TV" xmltv_id="USHUAÏA TV">USHUAÏA TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150934||VIXEN" xmltv_id="VIXEN">VIXEN</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150284||VOIR." xmltv_id="VOIR+">VOIR+</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150140||W9" xmltv_id="W9">W9</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150694||WARNER.TV" xmltv_id="WARNER TV">WARNER TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150695||WARNER.TV.NEXT" xmltv_id="WARNER TV NEXT">WARNER TV NEXT</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150110||XXL" xmltv_id="XXL">XXL</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150801||ZITATA.TV" xmltv_id="ZITATA TV">ZITATA TV</channel>
+    <channel site="[ENC][EX]canalplus-haiti.com_0" site_id="150285||ZOUK.TV" xmltv_id="ZOUK TV">ZOUK TV</channel>
   </channels>
 </site>
