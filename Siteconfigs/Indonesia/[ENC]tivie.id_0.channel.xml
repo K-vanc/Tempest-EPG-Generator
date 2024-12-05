@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]tivie.id_0">
+  <channels>
+    <channel site="[ENC]tivie.id_0" site_id="antv||YcwYQyql9CXniHlugQEaKNt7SmUNA9C8wajaWluo" xmltv_id="ANTV">ANTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="btv||ZnwlgEkRsi7u9z6mZ9oWoWIbdDKi7KzmLwqVXRtw" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="cnnindonesia||0kONuTn3l5nyiaXNzUD8PkcVJ3KzW77Rr0dVJXKl" xmltv_id="CNN">CNN</channel>
+    <channel site="[ENC]tivie.id_0" site_id="gtv||2rxBtLwvNfFCPAIh9QO9xb4DhrfRVFvBqDa0WkKP" xmltv_id="GTV">GTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="indosiar||78gjGX7MXIIjHtkRfLMkL3SVWkOS1YCUJnfvM6mU" xmltv_id="Indosiar">Indosiar</channel>
+    <channel site="[ENC]tivie.id_0" site_id="inews||A1neyMyyenFNiu7xvKs7EGh1V79J7vLKCEi7NLCA" xmltv_id="iNews">iNews</channel>
+    <channel site="[ENC]tivie.id_0" site_id="kompastv||rTo9S0kVnTIFEDNOnZpN8Iwk0FLtYeMEcQ4Nd9nq" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="mentaritv||TPgQNcz5ZYS8r0Gu20D4y84mGRvXovBlUHoM43Nf" xmltv_id="Mentari TV">Mentari TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="metrotv||npwegJNO7Q2jrqfhxIpHamD66PJGzhVzYxsCJePj" xmltv_id="Metro TV">Metro TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="mnctv||796l5aHuo4L15YxBkBcqtpsCoSwNTXtSlZNxieXp" xmltv_id="MNC TV">MNC TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="moji||7GvIDgLzCD5y7aUPOHBc9ToTzPf0A3Fy5zRFkI1S" xmltv_id="Moji">Moji</channel>
+    <channel site="[ENC]tivie.id_0" site_id="net||wigIv7AErguFPUlhRLfQvjkFW3TTLa4hjLKuBSkO" xmltv_id="NET.">NET.</channel>
+    <channel site="[ENC]tivie.id_0" site_id="rcti||xs1WvCTI8CBiAlPWhcMK9OI2PxxIbwV9eneps08K" xmltv_id="RCTI">RCTI</channel>
+    <channel site="[ENC]tivie.id_0" site_id="rtv||28bjZF7ogxpmzglTONVLtE6L5cQp9it4Kr6xAR5w" xmltv_id="RTV">RTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="sctv||f1AU02SyUlsUy86Dy8KSjdX92E4YjXPQDjWHL7Ey" xmltv_id="SCTV">SCTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="transtv||yjB7oMqNbF96glayEWNfFX6GenUDt2STtOkFeT5F" xmltv_id="Trans TV">Trans TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="trans7||amnYF03HkFucMQonA4Kgrz7nPL4Is0pz0f03dvrQ" xmltv_id="Trans7">Trans7</channel>
+    <channel site="[ENC]tivie.id_0" site_id="tvone||Uaep3l3FOpvB7WtMu1xQfBvqoqyB8S2ufhdfJURB" xmltv_id="TvOne">TvOne</channel>
+    <channel site="[ENC]tivie.id_0" site_id="tvri||XELJMrsGwfckbQ9AlilBa7BdWqmLrvF0DF3PoVKn" xmltv_id="TVRI">TVRI</channel>
+    <channel site="[ENC]tivie.id_0" site_id="vtv||j3W5E19JVcaaKdNEVK3gss55n8pIpxE82ahs8zmn" xmltv_id="VTV">VTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="garudatv||1ni4pa7v6bn7zRQE37t5JmWPOFqfwdMQVigpfdHK" xmltv_id="Garuda TV">Garuda TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="nusantaratv||3C9PojbLyoLf6nvR4lrPeI6axSGeHwfAAwXvxGDd" xmltv_id="Nusantara TV">Nusantara TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="seatoday||FlT5MWWwAhWf2uqmi4Xep6zFMBdNkZnvHa0LEfq5" xmltv_id="SEA Today">SEA Today</channel>
+    <channel site="[ENC]tivie.id_0" site_id="sindonews||WNqFttH3X4QbMe0WayJzuNwJPqL46uBlDSqgc1bh" xmltv_id="Sindonews TV">Sindonews TV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="axn||hwfGtC5uHWwHLfxwmufCZSdtiex9LEm9KkiGG279" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC]tivie.id_0" site_id="beinsports1||k4M5amGJxhuV8UlK4TWsQTimKDIZGkRqYoEoYEU4" xmltv_id="beIN Sports 1">beIN Sports 1</channel>
+    <channel site="[ENC]tivie.id_0" site_id="beinsports2||8W7FxJC0W21TocKmzCgKY6uXiBE27aMxo0FGkY3u" xmltv_id="beIN Sports 2">beIN Sports 2</channel>
+    <channel site="[ENC]tivie.id_0" site_id="beinsports3||xrRBDWl8Y9rX9oVtMNulrvfRCMLFayt9FdxtAfxI" xmltv_id="beIN Sports 3">beIN Sports 3</channel>
+    <channel site="[ENC]tivie.id_0" site_id="cinemax||fZOmr1ulduLAHSvWjX3UNDfVc0wxWO9WhkpgYn9R" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="[ENC]tivie.id_0" site_id="galaxy||Q8y7a9Y1DxiK1M93l8ngBDWo4nEx09kEQJo8I7We" xmltv_id="Galaxy">Galaxy</channel>
+    <channel site="[ENC]tivie.id_0" site_id="galaxypremium||2L71R9ucZ1oYukm1DnVkteeeFfQJOMRqD1DGQxFJ" xmltv_id="Galaxy Premium">Galaxy Premium</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hbo||uCr9WHGuh7sQ8cmqlqdol3eESsbQRa6gemwj2esE" xmltv_id="HBO">HBO</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hbofamily||xfuR1f6UGW7pGBEdpJfh2lbzgxsprKLvvmP0fIax" xmltv_id="HBO Family">HBO Family</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hbohits||IOfjH9vy0Qdr6M3n7xmjSNQJCJq5SiAy9fKInMWW" xmltv_id="HBO Hits">HBO Hits</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hbosignature||e0N7xCk2xJ7DbDK6WXGf4bzu81Oix1vsG3DRVfoA" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hits||Xk6oOpgerXDp6wJYbo1UznEec5M5XlDY1UdKa7k9" xmltv_id="HITS">HITS</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hitsmovies||b3DzvLR8u4RMGEZytrsLoFclo9Bf5lrtGVtG1khx" xmltv_id="HITS Movies">HITS Movies</channel>
+    <channel site="[ENC]tivie.id_0" site_id="hitsnow||M9lVdLA2uzj7pqlYJmUqASX67iJPYRTMDU6noruB" xmltv_id="HITS Now">HITS Now</channel>
+    <channel site="[ENC]tivie.id_0" site_id="lifetime||mBbdzwkqFHpaCFsMKY4VYWgVV4OFzCnjkxvOfTee" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="[ENC]tivie.id_0" site_id="mycinema||FDCmU206B5paphWD2dz3cTF6xRTZOSaZVs760nqs" xmltv_id="My Cinema">My Cinema</channel>
+    <channel site="[ENC]tivie.id_0" site_id="mycinemaasia||gHpd85caSER0dTX3XU25nHoqzJEk9wWPjHL5IixC" xmltv_id="My Cinema Asia">My Cinema Asia</channel>
+    <channel site="[ENC]tivie.id_0" site_id="myfamily||cKmqsyL0rNomfIf3vvbSVFIGvMZ50XehOfTmO74H" xmltv_id="My Family Channel">My Family Channel</channel>
+    <channel site="[ENC]tivie.id_0" site_id="mykidz||QG5fY19MroTGJoHLEgpchpq8U1DOJVEZ0XlmYJZQ" xmltv_id="My Kidz">My Kidz</channel>
+    <channel site="[ENC]tivie.id_0" site_id="rockaction||RMbKYJhy61XCQz9e7uOcX3yC5wY3qYi88WkIjhsE" xmltv_id="Rock Action">Rock Action</channel>
+    <channel site="[ENC]tivie.id_0" site_id="rockentertainment||LiYe2ow9Ub5VPLXVsuaaGfR7a3MfeCq3zs5u5ps6" xmltv_id="Rock Entertainment">Rock Entertainment</channel>
+    <channel site="[ENC]tivie.id_0" site_id="spotv||b2aZ4e325Dg46bKX58RYq0euhaW3qhCtvdZs7iTS" xmltv_id="SpoTV">SpoTV</channel>
+    <channel site="[ENC]tivie.id_0" site_id="spotv2||vupKNFdBElTPUcIDWHyghpuNG7Q8vHsCJSsiBSHa" xmltv_id="SpoTV 2">SpoTV 2</channel>
+    <channel site="[ENC]tivie.id_0" site_id="tvn||RVxJdKQQbTbnog5UkWuYN69z6wiRJG6JfDfc3vxD" xmltv_id="tvN">tvN</channel>
+    <channel site="[ENC]tivie.id_0" site_id="tvnmovies||o7ExraD8JMWhdLi71kfAAwLEApEqB8xiyfUXYNAq" xmltv_id="tvN Movies">tvN Movies</channel>
+    <channel site="[ENC]tivie.id_0" site_id="zeebioskop||w8gsZ46i49qa2vrbfLmflc7ano11ZssEKfqkqDWi" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
+  </channels>
+</site>
