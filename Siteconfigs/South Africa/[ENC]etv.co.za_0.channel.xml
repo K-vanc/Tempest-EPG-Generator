@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]etv.co.za_0">
+  <channels>
+    <channel site="[ENC]etv.co.za_0" site_id="e.tv" xmltv_id="e.tv">e.tv</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eExtra" xmltv_id="eExtra">eExtra</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eMovies" xmltv_id="eMovies">eMovies</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eMovies%20Extra" xmltv_id="eMovies Extra">eMovies Extra</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="ePlesier" xmltv_id="ePlesier">ePlesier</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eReality" xmltv_id="eReality">eReality</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eSERIES" xmltv_id="eSERIES">eSERIES</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="eToonz" xmltv_id="eToonz">eToonz</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="DBE%20TV" xmltv_id="DBE TV">DBE TV</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="France%2024" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="Mindset%20TV" xmltv_id="Mindset TV">Mindset TV</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="OUTflix%20Proud" xmltv_id="OUTflix Proud">OUTflix Proud</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="people's%20planet" xmltv_id="people's planet">people's planet</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="SA%20Music" xmltv_id="SA Music">SA Music</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="SABC%201" xmltv_id="SABC 1">SABC 1</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="SABC%202%20HD" xmltv_id="SABC 2 HD">SABC 2 HD</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="SABC%203%20HD" xmltv_id="SABC 3 HD">SABC 3 HD</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="SABC%20Sport%20HD" xmltv_id="SABC Sport HD">SABC Sport HD</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="Star%20Select" xmltv_id="Star Select">Star Select</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="StarLife" xmltv_id="StarLife">StarLife</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="The%20Home%20Channel%20+" xmltv_id="The Home Channel +">The Home Channel +</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="Zee%20Family" xmltv_id="Zee Family">Zee Family</channel>
+    <channel site="[ENC]etv.co.za_0" site_id="Zee%20One" xmltv_id="Zee One">Zee One</channel>
+  </channels>
+</site>
