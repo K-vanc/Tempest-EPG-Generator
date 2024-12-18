@@ -25,6 +25,7 @@ jobs:
           file: 'README.md'
           minimum: 500
           marker: gold
+          template: '<a href="https://github.com/{{{ login }}}"><img src="https://github.com/{{{ login }}}.png" width="100px" alt="{{{ login }}}" /></a>&nbsp;&nbsp;'
 
       # Deploy the changes back to the main branch of the repository
       - name: Deploy to GitHub Pages 🚀
