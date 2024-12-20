@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="epg.pw_0">
+  <channels>
+    <channel site="epg.pw_0" site_id="3474" xmltv_id="ABC NEWS">ABC NEWS</channel>
+    <channel site="epg.pw_0" site_id="3306" xmltv_id="SBS">SBS</channel>
+    <channel site="epg.pw_0" site_id="105835" xmltv_id="NickToons">NickToons</channel>
+    <channel site="epg.pw_0" site_id="105778" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="epg.pw_0" site_id="385613" xmltv_id="MyTime Movie Network">MyTime Movie Network</channel>
+    <channel site="epg.pw_0" site_id="3269" xmltv_id="ABC ME">ABC ME</channel>
+    <channel site="epg.pw_0" site_id="105784" xmltv_id="48 Hours">48 Hours</channel>
+    <channel site="epg.pw_0" site_id="105793" xmltv_id="Haunt TV">Haunt TV</channel>
+    <channel site="epg.pw_0" site_id="393686" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="epg.pw_0" site_id="3501" xmltv_id="Channel 9">Channel 9</channel>
+    <channel site="epg.pw_0" site_id="105823" xmltv_id="MTV Biggest Pop">MTV Biggest Pop</channel>
+    <channel site="epg.pw_0" site_id="400154" xmltv_id="Crime Time">Crime Time</channel>
+    <channel site="epg.pw_0" site_id="105773" xmltv_id="Wicked Tuna">Wicked Tuna</channel>
+    <channel site="epg.pw_0" site_id="105812" xmltv_id="Moviesphere">Moviesphere</channel>
+    <channel site="epg.pw_0" site_id="105810" xmltv_id="South Park">South Park</channel>
+    <channel site="epg.pw_0" site_id="40886" xmltv_id="Racing.com">Racing.com</channel>
+    <channel site="epg.pw_0" site_id="105837" xmltv_id="MasterChef">MasterChef</channel>
+    <channel site="epg.pw_0" site_id="105805" xmltv_id="Beverly Hills 90210">Beverly Hills 90210</channel>
+    <channel site="epg.pw_0" site_id="40892" xmltv_id="7flix">7flix</channel>
+    <channel site="epg.pw_0" site_id="385589" xmltv_id="Wicked Tuna">Wicked Tuna</channel>
+    <channel site="epg.pw_0" site_id="3556" xmltv_id="10 BOLD">10 BOLD</channel>
+    <channel site="epg.pw_0" site_id="3357" xmltv_id="ABC TV">ABC TV</channel>
+    <channel site="epg.pw_0" site_id="277403" xmltv_id="Comedy Dynamics">Comedy Dynamics</channel>
+    <channel site="epg.pw_0" site_id="105815" xmltv_id="NatureTime">NatureTime</channel>
+    <channel site="epg.pw_0" site_id="3436" xmltv_id="SBS VICELAND">SBS VICELAND</channel>
+    <channel site="epg.pw_0" site_id="385581" xmltv_id="TVSN">TVSN</channel>
+    <channel site="epg.pw_0" site_id="3236" xmltv_id="SBS World Movies">SBS World Movies</channel>
+    <channel site="epg.pw_0" site_id="385609" xmltv_id="MovieSphere">MovieSphere</channel>
+    <channel site="epg.pw_0" site_id="3295" xmltv_id="ABC TV Plus">ABC TV Plus</channel>
+    <channel site="epg.pw_0" site_id="385593" xmltv_id="Fail Army">Fail Army</channel>
+    <channel site="epg.pw_0" site_id="3312" xmltv_id="9Gem">9Gem</channel>
+    <channel site="epg.pw_0" site_id="290100" xmltv_id="AMC">AMC</channel>
+    <channel site="epg.pw_0" site_id="7983" xmltv_id="TV Novo Tempo">TV Novo Tempo</channel>
+    <channel site="epg.pw_0" site_id="290112" xmltv_id="COM Brasil">COM Brasil</channel>
+    <channel site="epg.pw_0" site_id="289978" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="epg.pw_0" site_id="289925" xmltv_id="ESPN">ESPN</channel>
+    <channel site="epg.pw_0" site_id="290090" xmltv_id="Fox News">Fox News</channel>
+    <channel site="epg.pw_0" site_id="290042" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="epg.pw_0" site_id="178768" xmltv_id="SONY Movies">SONY Movies</channel>
+    <channel site="epg.pw_0" site_id="289944" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel site="epg.pw_0" site_id="290093" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="epg.pw_0" site_id="289993" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="epg.pw_0" site_id="289899" xmltv_id="Band">Band</channel>
+    <channel site="epg.pw_0" site_id="290096" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel site="epg.pw_0" site_id="289945" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel site="epg.pw_0" site_id="290065" xmltv_id="Record News">Record News</channel>
+    <channel site="epg.pw_0" site_id="289974" xmltv_id="MTV LIVE">MTV LIVE</channel>
+    <channel site="epg.pw_0" site_id="8085" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="epg.pw_0" site_id="289983" xmltv_id="Discovery Kids HD">Discovery Kids HD</channel>
+    <channel site="epg.pw_0" site_id="290016" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="epg.pw_0" site_id="290000" xmltv_id="TNT HD">TNT HD</channel>
+    <channel site="epg.pw_0" site_id="289952" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="epg.pw_0" site_id="290024" xmltv_id="History 2">History 2</channel>
+    <channel site="epg.pw_0" site_id="8027" xmltv_id="TV SENADO">TV SENADO</channel>
+    <channel site="epg.pw_0" site_id="289959" xmltv_id="HBO Plus HD">HBO Plus HD</channel>
+    <channel site="epg.pw_0" site_id="290071" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel site="epg.pw_0" site_id="290039" xmltv_id="Tooncast">Tooncast</channel>
+    <channel site="epg.pw_0" site_id="289955" xmltv_id="History HD">History HD</channel>
+    <channel site="epg.pw_0" site_id="289943" xmltv_id="BBC World">BBC World</channel>
+    <channel site="epg.pw_0" site_id="290011" xmltv_id="Sportv 2">Sportv 2</channel>
+    <channel site="epg.pw_0" site_id="290117" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="epg.pw_0" site_id="289891" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel site="epg.pw_0" site_id="404984" xmltv_id="CNN">CNN</channel>
+    <channel site="epg.pw_0" site_id="389700" xmltv_id="Bravo">Bravo</channel>
+    <channel site="epg.pw_0" site_id="404989" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="epg.pw_0" site_id="404708" xmltv_id="Playboy">Playboy</channel>
+    <channel site="epg.pw_0" site_id="405185" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel site="epg.pw_0" site_id="405081" xmltv_id="Fox News">Fox News</channel>
+    <channel site="epg.pw_0" site_id="405098" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="epg.pw_0" site_id="405011" xmltv_id="EuroNews">EuroNews</channel>
+    <channel site="epg.pw_0" site_id="404628" xmltv_id="HLN">HLN</channel>
+    <channel site="epg.pw_0" site_id="404701" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel site="epg.pw_0" site_id="404738" xmltv_id="Big Ten Network">Big Ten Network</channel>
+    <channel site="epg.pw_0" site_id="405051" xmltv_id="Azteca Internacional">Azteca Internacional</channel>
+    <channel site="epg.pw_0" site_id="404996" xmltv_id="ONE TV">ONE TV</channel>
+    <channel site="epg.pw_0" site_id="404673" xmltv_id="Global BC">Global BC</channel>
+    <channel site="epg.pw_0" site_id="405063" xmltv_id="Zoom">Zoom</channel>
+    <channel site="epg.pw_0" site_id="404852" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="epg.pw_0" site_id="404835" xmltv_id="CCTV-4 America">CCTV-4 America</channel>
+    <channel site="epg.pw_0" site_id="404957" xmltv_id="Disney Junior Canada">Disney Junior Canada</channel>
+    <channel site="epg.pw_0" site_id="404687" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="epg.pw_0" site_id="404659" xmltv_id="Baby TV">Baby TV</channel>
+    <channel site="epg.pw_0" site_id="404760" xmltv_id="DW English">DW English</channel>
+    <channel site="epg.pw_0" site_id="404765" xmltv_id="Sportsnet 360">Sportsnet 360</channel>
+    <channel site="epg.pw_0" site_id="405024" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel site="epg.pw_0" site_id="404629" xmltv_id="ARTV">ARTV</channel>
+    <channel site="epg.pw_0" site_id="405143" xmltv_id="ABP News">ABP News</channel>
+    <channel site="epg.pw_0" site_id="404906" xmltv_id="Food Network Canada">Food Network Canada</channel>
+    <channel site="epg.pw_0" site_id="405004" xmltv_id="GAME+">GAME+</channel>
+    <channel site="epg.pw_0" site_id="13084" xmltv_id="HBO 2 HD (HBO2)">HBO 2 HD (HBO2)</channel>
+    <channel site="epg.pw_0" site_id="395039" xmltv_id="3ABN Canada Network">3ABN Canada Network</channel>
+    <channel site="epg.pw_0" site_id="404706" xmltv_id="LCN">LCN</channel>
+    <channel site="epg.pw_0" site_id="404890" xmltv_id="Crave1 - East HD">Crave1 - East HD</channel>
+    <channel site="epg.pw_0" site_id="13889" xmltv_id="湖北卫视">湖北卫视</channel>
+    <channel site="epg.pw_0" site_id="378819" xmltv_id="CCTV1">CCTV1</channel>
+    <channel site="epg.pw_0" site_id="13892" xmltv_id="吉林卫视">吉林卫视</channel>
+    <channel site="epg.pw_0" site_id="13893" xmltv_id="内蒙古卫视">内蒙古卫视</channel>
+    <channel site="epg.pw_0" site_id="13886" xmltv_id="河北卫视">河北卫视</channel>
+    <channel site="epg.pw_0" site_id="378830" xmltv_id="CCTV11">CCTV11</channel>
+    <channel site="epg.pw_0" site_id="378823" xmltv_id="CCTV5">CCTV5</channel>
+    <channel site="epg.pw_0" site_id="13899" xmltv_id="云南卫视">云南卫视</channel>
+    <channel site="epg.pw_0" site_id="378820" xmltv_id="CCTV2">CCTV2</channel>
+    <channel site="epg.pw_0" site_id="378828" xmltv_id="CCTV9">CCTV9</channel>
+    <channel site="epg.pw_0" site_id="13895" xmltv_id="山西卫视">山西卫视</channel>
+    <channel site="epg.pw_0" site_id="378825" xmltv_id="CCTV6">CCTV6</channel>
+    <channel site="epg.pw_0" site_id="378832" xmltv_id="CCTV13">CCTV13</channel>
+    <channel site="epg.pw_0" site_id="378821" xmltv_id="CCTV3">CCTV3</channel>
+    <channel site="epg.pw_0" site_id="378829" xmltv_id="CCTV10">CCTV10</channel>
+    <channel site="epg.pw_0" site_id="378827" xmltv_id="CCTV8">CCTV8</channel>
+    <channel site="epg.pw_0" site_id="378961" xmltv_id="CHC动作电影">CHC动作电影</channel>
+    <channel site="epg.pw_0" site_id="378831" xmltv_id="CCTV12">CCTV12</channel>
+    <channel site="epg.pw_0" site_id="378848" xmltv_id="东方卫视">东方卫视</channel>
+    <channel site="epg.pw_0" site_id="378822" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="epg.pw_0" site_id="13896" xmltv_id="陕西卫视">陕西卫视</channel>
+    <channel site="epg.pw_0" site_id="378824" xmltv_id="CCTV5+">CCTV5+</channel>
+    <channel site="epg.pw_0" site_id="378826" xmltv_id="CCTV7">CCTV7</channel>
+    <channel site="epg.pw_0" site_id="378846" xmltv_id="江苏卫视">江苏卫视</channel>
+    <channel site="epg.pw_0" site_id="379031" xmltv_id="CCTV16">CCTV16</channel>
+    <channel site="epg.pw_0" site_id="378859" xmltv_id="甘肃卫视">甘肃卫视</channel>
+    <channel site="epg.pw_0" site_id="378849" xmltv_id="安徽卫视">安徽卫视</channel>
+    <channel site="epg.pw_0" site_id="378866" xmltv_id="四川卫视">四川卫视</channel>
+    <channel site="epg.pw_0" site_id="378856" xmltv_id="天津卫视">天津卫视</channel>
+    <channel site="epg.pw_0" site_id="378833" xmltv_id="CCTV14">CCTV14</channel>
+    <channel site="epg.pw_0" site_id="378847" xmltv_id="北京卫视">北京卫视</channel>
+    <channel site="epg.pw_0" site_id="76759" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="epg.pw_0" site_id="76650" xmltv_id="BBC News">BBC News</channel>
+    <channel site="epg.pw_0" site_id="76810" xmltv_id="ATV">ATV</channel>
+    <channel site="epg.pw_0" site_id="76771" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="epg.pw_0" site_id="76763" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="epg.pw_0" site_id="76735" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="epg.pw_0" site_id="76692" xmltv_id="DMAX">DMAX</channel>
+    <channel site="epg.pw_0" site_id="76786" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="epg.pw_0" site_id="76647" xmltv_id="CNBC">CNBC</channel>
+    <channel site="epg.pw_0" site_id="76797" xmltv_id="CNN International">CNN International</channel>
+    <channel site="epg.pw_0" site_id="76775" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="epg.pw_0" site_id="76699" xmltv_id="TLC">TLC</channel>
+    <channel site="epg.pw_0" site_id="76768" xmltv_id="euronews">euronews</channel>
+    <channel site="epg.pw_0" site_id="76780" xmltv_id="MTV">MTV</channel>
+    <channel site="epg.pw_0" site_id="76686" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="epg.pw_0" site_id="76682" xmltv_id="3sat">3sat</channel>
+    <channel site="epg.pw_0" site_id="76690" xmltv_id="EXTREME SPORTS">EXTREME SPORTS</channel>
+    <channel site="epg.pw_0" site_id="76736" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="epg.pw_0" site_id="76659" xmltv_id="SPORT1">SPORT1</channel>
+    <channel site="epg.pw_0" site_id="10653" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel site="epg.pw_0" site_id="76660" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="epg.pw_0" site_id="76674" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="epg.pw_0" site_id="76742" xmltv_id="COMEDY CENTRAL">COMEDY CENTRAL</channel>
+    <channel site="epg.pw_0" site_id="76809" xmltv_id="DELUXE MUSIC">DELUXE MUSIC</channel>
+    <channel site="epg.pw_0" site_id="76633" xmltv_id="CNN Türk">CNN Türk</channel>
+    <channel site="epg.pw_0" site_id="76641" xmltv_id="ARTE">ARTE</channel>
+    <channel site="epg.pw_0" site_id="76787" xmltv_id="NITRO">NITRO</channel>
+    <channel site="epg.pw_0" site_id="76762" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="epg.pw_0" site_id="76704" xmltv_id="VOX">VOX</channel>
+    <channel site="epg.pw_0" site_id="76622" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="epg.pw_0" site_id="76767" xmltv_id="SUPER RTL">SUPER RTL</channel>
+    <channel site="epg.pw_0" site_id="55749" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel site="epg.pw_0" site_id="56000" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="epg.pw_0" site_id="54945" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="epg.pw_0" site_id="56020" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="epg.pw_0" site_id="55807" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="epg.pw_0" site_id="56031" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel site="epg.pw_0" site_id="55773" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel site="epg.pw_0" site_id="55732" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="epg.pw_0" site_id="55949" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="epg.pw_0" site_id="55992" xmltv_id="CNN International">CNN International</channel>
+    <channel site="epg.pw_0" site_id="55819" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel site="epg.pw_0" site_id="55987" xmltv_id="BET">BET</channel>
+    <channel site="epg.pw_0" site_id="55922" xmltv_id="Record News">Record News</channel>
+    <channel site="epg.pw_0" site_id="55818" xmltv_id="Sky News">Sky News</channel>
+    <channel site="epg.pw_0" site_id="55718" xmltv_id="MTV">MTV</channel>
+    <channel site="epg.pw_0" site_id="52000" xmltv_id="Euronews">Euronews</channel>
+    <channel site="epg.pw_0" site_id="55825" xmltv_id="Canal Algérie">Canal Algérie</channel>
+    <channel site="epg.pw_0" site_id="55716" xmltv_id="France 24">France 24</channel>
+    <channel site="epg.pw_0" site_id="89907" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="epg.pw_0" site_id="55960" xmltv_id="Africa 24">Africa 24</channel>
+    <channel site="epg.pw_0" site_id="55944" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel site="epg.pw_0" site_id="55896" xmltv_id="Dubaï TV">Dubaï TV</channel>
+    <channel site="epg.pw_0" site_id="54963" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel site="epg.pw_0" site_id="55856" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="epg.pw_0" site_id="55795" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+    <channel site="epg.pw_0" site_id="55953" xmltv_id="REAL MADRID TV">REAL MADRID TV</channel>
+    <channel site="epg.pw_0" site_id="55994" xmltv_id="BFM Grand Lille">BFM Grand Lille</channel>
+    <channel site="epg.pw_0" site_id="55925" xmltv_id="CMC">CMC</channel>
+    <channel site="epg.pw_0" site_id="55730" xmltv_id="Arte">Arte</channel>
+    <channel site="epg.pw_0" site_id="55915" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="epg.pw_0" site_id="55918" xmltv_id="VOX">VOX</channel>
+    <channel site="epg.pw_0" site_id="12183" xmltv_id="Animal Planet[SkyTV]">Animal Planet[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9220" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel site="epg.pw_0" site_id="12263" xmltv_id="Food Network[SkyTV]">Food Network[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9130" xmltv_id="Food Network">Food Network</channel>
+    <channel site="epg.pw_0" site_id="9196" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
+    <channel site="epg.pw_0" site_id="12532" xmltv_id="Al Jazeera HD[SkyTV]">Al Jazeera HD[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9324" xmltv_id="DMAX">DMAX</channel>
+    <channel site="epg.pw_0" site_id="12374" xmltv_id="DMAX[SkyTV]">DMAX[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9148" xmltv_id="HGTV">HGTV</channel>
+    <channel site="epg.pw_0" site_id="12219" xmltv_id="HGTV[SkyTV]">HGTV[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12084" xmltv_id="Nickelodeon[SkyTV]">Nickelodeon[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12565" xmltv_id="Nat Geo[SkyTV]">Nat Geo[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12163" xmltv_id="TLC[SkyTV]">TLC[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9212" xmltv_id="Aastha">Aastha</channel>
+    <channel site="epg.pw_0" site_id="12293" xmltv_id="Aastha[SkyTV]">Aastha[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9601" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel site="epg.pw_0" site_id="12307" xmltv_id="Discovery HD[SkyTV]">Discovery HD[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9198" xmltv_id="Channel 5">Channel 5</channel>
+    <channel site="epg.pw_0" site_id="12568" xmltv_id="Channel 5[SkyTV]">Channel 5[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12069" xmltv_id="Sky News[SkyTV]">Sky News[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12193" xmltv_id="MTV HD[SkyTV]">MTV HD[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9618" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="epg.pw_0" site_id="9233" xmltv_id="AAJ TAK">AAJ TAK</channel>
+    <channel site="epg.pw_0" site_id="12029" xmltv_id="AAJ TAK[SkyTV]">AAJ TAK[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12559" xmltv_id="MTV[SkyTV]">MTV[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9571" xmltv_id="Euronews">Euronews</channel>
+    <channel site="epg.pw_0" site_id="12529" xmltv_id="Euronews[SkyTV]">Euronews[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12486" xmltv_id="Boomerang[SkyTV]">Boomerang[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="12117" xmltv_id="IQRA TV[SkyTV]">IQRA TV[SkyTV]</channel>
+    <channel site="epg.pw_0" site_id="9367" xmltv_id="IQRA TV">IQRA TV</channel>
+    <channel site="epg.pw_0" site_id="9470" xmltv_id="Eman Channel">Eman Channel</channel>
+    <channel site="epg.pw_0" site_id="368366" xmltv_id="翡翠台[TVB]">翡翠台[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368361" xmltv_id="TVB Plus[TVB]">TVB Plus[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368906" xmltv_id="TVB PLUS[DTMB]">TVB PLUS[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368897" xmltv_id="ViuTV[DTMB]">ViuTV[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368333" xmltv_id="Animax[TVB]">Animax[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368365" xmltv_id="AXN[TVB]">AXN[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368326" xmltv_id="tvN[TVB]">tvN[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368369" xmltv_id="明珠台[TVB]">明珠台[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368364" xmltv_id="Love Nature 4K[TVB]">Love Nature 4K[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368905" xmltv_id="ViuTV Six[DTMB]">ViuTV Six[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="271990" xmltv_id="TVB J2">TVB J2</channel>
+    <channel site="epg.pw_0" site_id="368336" xmltv_id="Nickelodeon[TVB]">Nickelodeon[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368350" xmltv_id="KIX[TVB]">KIX[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368903" xmltv_id="HOY TV[DTMB]">HOY TV[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368367" xmltv_id="Nick Jr[TVB]">Nick Jr[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368902" xmltv_id="CGTN Documentary[DTMB]">CGTN Documentary[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368370" xmltv_id="Arirang TV[TVB]">Arirang TV[TVB]</channel>
+    <channel site="epg.pw_0" site_id="272094" xmltv_id="TVB Pearl">TVB Pearl</channel>
+    <channel site="epg.pw_0" site_id="368342" xmltv_id="France 24[TVB]">France 24[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368901" xmltv_id="港台電視 31[DTMB]">港台電視 31[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368900" xmltv_id="港台電視 32[DTMB]">港台電視 32[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="368368" xmltv_id="ZooMoo[TVB]">ZooMoo[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368339" xmltv_id="Thrill[TVB]">Thrill[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368359" xmltv_id="無綫新聞台[TVB]">無綫新聞台[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368362" xmltv_id="ROCK Action[TVB]">ROCK Action[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368322" xmltv_id="PopC[TVB]">PopC[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368552" xmltv_id="港台电视33[RTHK]">港台电视33[RTHK]</channel>
+    <channel site="epg.pw_0" site_id="368554" xmltv_id="港台电视35[RTHK]">港台电视35[RTHK]</channel>
+    <channel site="epg.pw_0" site_id="368553" xmltv_id="港台电视34[RTHK]">港台电视34[RTHK]</channel>
+    <channel site="epg.pw_0" site_id="368356" xmltv_id="Global Trekker[TVB]">Global Trekker[TVB]</channel>
+    <channel site="epg.pw_0" site_id="368909" xmltv_id="Pearl 明珠台[DTMB]">Pearl 明珠台[DTMB]</channel>
+    <channel site="epg.pw_0" site_id="171882" xmltv_id="CGTN">CGTN</channel>
+    <channel site="epg.pw_0" site_id="171974" xmltv_id="AXN">AXN</channel>
+    <channel site="epg.pw_0" site_id="171970" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel site="epg.pw_0" site_id="171865" xmltv_id="Animax">Animax</channel>
+    <channel site="epg.pw_0" site_id="171929" xmltv_id="FOX News">FOX News</channel>
+    <channel site="epg.pw_0" site_id="171884" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="epg.pw_0" site_id="171960" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="epg.pw_0" site_id="171924" xmltv_id="GTV">GTV</channel>
+    <channel site="epg.pw_0" site_id="171856" xmltv_id="CCM">CCM</channel>
+    <channel site="epg.pw_0" site_id="171862" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="epg.pw_0" site_id="171973" xmltv_id="tvN">tvN</channel>
+    <channel site="epg.pw_0" site_id="171867" xmltv_id="CNBC">CNBC</channel>
+    <channel site="epg.pw_0" site_id="171855" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="epg.pw_0" site_id="171983" xmltv_id="NHK World">NHK World</channel>
+    <channel site="epg.pw_0" site_id="172012" xmltv_id="ANTV">ANTV</channel>
+    <channel site="epg.pw_0" site_id="171886" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel site="epg.pw_0" site_id="171896" xmltv_id="Arirang">Arirang</channel>
+    <channel site="epg.pw_0" site_id="171930" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="epg.pw_0" site_id="190468" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel site="epg.pw_0" site_id="171991" xmltv_id="BTV">BTV</channel>
+    <channel site="epg.pw_0" site_id="11587" xmltv_id="NBA TV">NBA TV</channel>
+    <channel site="epg.pw_0" site_id="171883" xmltv_id="History">History</channel>
+    <channel site="epg.pw_0" site_id="171949" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="epg.pw_0" site_id="11680" xmltv_id="Bein 1">Bein 1</channel>
+    <channel site="epg.pw_0" site_id="171887" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="epg.pw_0" site_id="171870" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel site="epg.pw_0" site_id="171849" xmltv_id="CBeebies">CBeebies</channel>
+    <channel site="epg.pw_0" site_id="171893" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel site="epg.pw_0" site_id="190511" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel site="epg.pw_0" site_id="171879" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="epg.pw_0" site_id="171956" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="epg.pw_0" site_id="404276" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel site="epg.pw_0" site_id="404544" xmltv_id="KBS WORLD">KBS WORLD</channel>
+    <channel site="epg.pw_0" site_id="404510" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
+    <channel site="epg.pw_0" site_id="404608" xmltv_id="NICK JR">NICK JR</channel>
+    <channel site="epg.pw_0" site_id="404099" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel site="epg.pw_0" site_id="404243" xmltv_id="ETV PLUS">ETV PLUS</channel>
+    <channel site="epg.pw_0" site_id="404502" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel site="epg.pw_0" site_id="404000" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="epg.pw_0" site_id="404537" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel site="epg.pw_0" site_id="404555" xmltv_id="AAJ TAK">AAJ TAK</channel>
+    <channel site="epg.pw_0" site_id="404238" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="epg.pw_0" site_id="404078" xmltv_id="TV9 TELUGU">TV9 TELUGU</channel>
+    <channel site="epg.pw_0" site_id="404135" xmltv_id="ALJAZEERA">ALJAZEERA</channel>
+    <channel site="epg.pw_0" site_id="404338" xmltv_id="COMEDY CENTRAL">COMEDY CENTRAL</channel>
+    <channel site="epg.pw_0" site_id="404125" xmltv_id="TLC">TLC</channel>
+    <channel site="epg.pw_0" site_id="404571" xmltv_id="MTV">MTV</channel>
+    <channel site="epg.pw_0" site_id="404108" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel site="epg.pw_0" site_id="404153" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="epg.pw_0" site_id="404241" xmltv_id="Eurosport">Eurosport</channel>
+    <channel site="epg.pw_0" site_id="404320" xmltv_id="THANTHI TV">THANTHI TV</channel>
+    <channel site="epg.pw_0" site_id="404395" xmltv_id="NAT GEO WILD HD">NAT GEO WILD HD</channel>
+    <channel site="epg.pw_0" site_id="404503" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel site="epg.pw_0" site_id="404574" xmltv_id="Russia Today">Russia Today</channel>
+    <channel site="epg.pw_0" site_id="404346" xmltv_id="ZEE BUSINESS">ZEE BUSINESS</channel>
+    <channel site="epg.pw_0" site_id="404473" xmltv_id="INDIA TV">INDIA TV</channel>
+    <channel site="epg.pw_0" site_id="404156" xmltv_id="NTV">NTV</channel>
+    <channel site="epg.pw_0" site_id="404563" xmltv_id="KTV">KTV</channel>
+    <channel site="epg.pw_0" site_id="404013" xmltv_id="9X TASHAN">9X TASHAN</channel>
+    <channel site="epg.pw_0" site_id="404076" xmltv_id="CNN NEWS 18">CNN NEWS 18</channel>
+    <channel site="epg.pw_0" site_id="404068" xmltv_id="SHALOM TV">SHALOM TV</channel>
+    <channel site="epg.pw_0" site_id="404158" xmltv_id="WION">WION</channel>
+    <channel site="epg.pw_0" site_id="10736" xmltv_id="テレビ東京">テレビ東京</channel>
+    <channel site="epg.pw_0" site_id="10693" xmltv_id="TBS">TBS</channel>
+    <channel site="epg.pw_0" site_id="10805" xmltv_id="テレビ朝日">テレビ朝日</channel>
+    <channel site="epg.pw_0" site_id="10816" xmltv_id="フジテレビ">フジテレビ</channel>
+    <channel site="epg.pw_0" site_id="10740" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="epg.pw_0" site_id="10752" xmltv_id="日本テレビ">日本テレビ</channel>
+    <channel site="epg.pw_0" site_id="10700" xmltv_id="BSテレ東">BSテレ東</channel>
+    <channel site="epg.pw_0" site_id="368864" xmltv_id="テレビ朝日">テレビ朝日</channel>
+    <channel site="epg.pw_0" site_id="365997" xmltv_id="TBS">TBS</channel>
+    <channel site="epg.pw_0" site_id="365932" xmltv_id="WOWOWシネマ">WOWOWシネマ</channel>
+    <channel site="epg.pw_0" site_id="368866" xmltv_id="フジテレビ">フジテレビ</channel>
+    <channel site="epg.pw_0" site_id="10831" xmltv_id="ムービープラス">ムービープラス</channel>
+    <channel site="epg.pw_0" site_id="365984" xmltv_id="MTV HD">MTV HD</channel>
+    <channel site="epg.pw_0" site_id="368867" xmltv_id="BS日テレ">BS日テレ</channel>
+    <channel site="epg.pw_0" site_id="10812" xmltv_id="スターチャンネル1">スターチャンネル1</channel>
+    <channel site="epg.pw_0" site_id="365927" xmltv_id="BS-TBS">BS-TBS</channel>
+    <channel site="epg.pw_0" site_id="10777" xmltv_id="QVC">QVC</channel>
+    <channel site="epg.pw_0" site_id="365952" xmltv_id="衛星劇場">衛星劇場</channel>
+    <channel site="epg.pw_0" site_id="365999" xmltv_id="CNNj">CNNj</channel>
+    <channel site="epg.pw_0" site_id="365931" xmltv_id="WOWOWライブ">WOWOWライブ</channel>
+    <channel site="epg.pw_0" site_id="365981" xmltv_id="Mnet">Mnet</channel>
+    <channel site="epg.pw_0" site_id="10806" xmltv_id="ゴルフネットワーク">ゴルフネットワーク</channel>
+    <channel site="epg.pw_0" site_id="365978" xmltv_id="LaLaTV">LaLaTV</channel>
+    <channel site="epg.pw_0" site_id="10763" xmltv_id="囲碁・将棋チャンネル">囲碁・将棋チャンネル</channel>
+    <channel site="epg.pw_0" site_id="10731" xmltv_id="歌謡ポップスチャンネル">歌謡ポップスチャンネル</channel>
+    <channel site="epg.pw_0" site_id="10825" xmltv_id="スカイA">スカイA</channel>
+    <channel site="epg.pw_0" site_id="365939" xmltv_id="BSアニマックス">BSアニマックス</channel>
+    <channel site="epg.pw_0" site_id="365941" xmltv_id="SPORTS 2">SPORTS 2</channel>
+    <channel site="epg.pw_0" site_id="365956" xmltv_id="スカイA">スカイA</channel>
+    <channel site="epg.pw_0" site_id="365943" xmltv_id="SPORTS 4">SPORTS 4</channel>
+    <channel site="epg.pw_0" site_id="10697" xmltv_id="ディスカバリーチャンネル">ディスカバリーチャンネル</channel>
+    <channel site="epg.pw_0" site_id="4196" xmltv_id="Love Nature[Astro]">Love Nature[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1425" xmltv_id="HBO HD[Astro]">HBO HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4030" xmltv_id="BBC Earth[Astro]">BBC Earth[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4008" xmltv_id="HBO Family[Astro]">HBO Family[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4171" xmltv_id="Love Nature 4K[Astro]">Love Nature 4K[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3929" xmltv_id="NHK World Premium[Astro]">NHK World Premium[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1122" xmltv_id="8TV[Astro]">8TV[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4146" xmltv_id="beIN Sports 2[Astro]">beIN Sports 2[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3994" xmltv_id="HBO Hits[Astro]">HBO Hits[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3266" xmltv_id="Eurosport HD[Astro]">Eurosport HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1205" xmltv_id="AXN HD[Astro]">AXN HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3849" xmltv_id="MTV Live[Astro]">MTV Live[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4187" xmltv_id="CBeebies[Astro]">CBeebies[Astro]</channel>
+    <channel site="epg.pw_0" site_id="2124" xmltv_id="Astro AOD 311[Astro]">Astro AOD 311[Astro]</channel>
+    <channel site="epg.pw_0" site_id="369590" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="epg.pw_0" site_id="3179" xmltv_id="CNN HD[Astro]">CNN HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4183" xmltv_id="KTV[Astro]">KTV[Astro]</channel>
+    <channel site="epg.pw_0" site_id="902" xmltv_id="TV9[Astro]">TV9[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3118" xmltv_id="beIN Sports 3[Astro]">beIN Sports 3[Astro]</channel>
+    <channel site="epg.pw_0" site_id="369698" xmltv_id="8TV">8TV</channel>
+    <channel site="epg.pw_0" site_id="4201" xmltv_id="DreamWorks[Astro]">DreamWorks[Astro]</channel>
+    <channel site="epg.pw_0" site_id="3600" xmltv_id="Nick Jr.[Astro]">Nick Jr.[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1477" xmltv_id="History HD[Astro]">History HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1072" xmltv_id="TV3[Astro]">TV3[Astro]</channel>
+    <channel site="epg.pw_0" site_id="2473" xmltv_id="HGTV HD[Astro]">HGTV HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="1029" xmltv_id="NTV7[Astro]">NTV7[Astro]</channel>
+    <channel site="epg.pw_0" site_id="369594" xmltv_id="Astro AOD 311">Astro AOD 311</channel>
+    <channel site="epg.pw_0" site_id="369616" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="epg.pw_0" site_id="1242" xmltv_id="ONE HD[Astro]">ONE HD[Astro]</channel>
+    <channel site="epg.pw_0" site_id="4085" xmltv_id="SPOTV[Astro]">SPOTV[Astro]</channel>
+    <channel site="epg.pw_0" site_id="370133" xmltv_id="Sukan RTM[RTM]">Sukan RTM[RTM]</channel>
+    <channel site="epg.pw_0" site_id="2626" xmltv_id="Bravo">Bravo</channel>
+    <channel site="epg.pw_0" site_id="172724" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="epg.pw_0" site_id="369357" xmltv_id="HGTV">HGTV</channel>
+    <channel site="epg.pw_0" site_id="2484" xmltv_id="PRIME">PRIME</channel>
+    <channel site="epg.pw_0" site_id="2241" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel site="epg.pw_0" site_id="2311" xmltv_id="Parliament TV">Parliament TV</channel>
+    <channel site="epg.pw_0" site_id="385567" xmltv_id="CNN Fast">CNN Fast</channel>
+    <channel site="epg.pw_0" site_id="277364" xmltv_id="MovieSphere">MovieSphere</channel>
+    <channel site="epg.pw_0" site_id="2330" xmltv_id="Firstlight">Firstlight</channel>
+    <channel site="epg.pw_0" site_id="2228" xmltv_id="TAB Trackside 1">TAB Trackside 1</channel>
+    <channel site="epg.pw_0" site_id="2604" xmltv_id="TAB Trackside 2">TAB Trackside 2</channel>
+    <channel site="epg.pw_0" site_id="340999" xmltv_id="The Graham Norton Show">The Graham Norton Show</channel>
+    <channel site="epg.pw_0" site_id="2209" xmltv_id="RUSH">RUSH</channel>
+    <channel site="epg.pw_0" site_id="2476" xmltv_id="eden">eden</channel>
+    <channel site="epg.pw_0" site_id="2234" xmltv_id="Three">Three</channel>
+    <channel site="epg.pw_0" site_id="2390" xmltv_id="TVNZ 2">TVNZ 2</channel>
+    <channel site="epg.pw_0" site_id="2370" xmltv_id="ThreePlus1">ThreePlus1</channel>
+    <channel site="epg.pw_0" site_id="2534" xmltv_id="PRIME +1">PRIME +1</channel>
+    <channel site="epg.pw_0" site_id="2207" xmltv_id="Whakaata Māori">Whakaata Māori</channel>
+    <channel site="epg.pw_0" site_id="2250" xmltv_id="TVNZ DUKE+1">TVNZ DUKE+1</channel>
+    <channel site="epg.pw_0" site_id="2360" xmltv_id="TVNZ 1 plus 1">TVNZ 1 plus 1</channel>
+    <channel site="epg.pw_0" site_id="2489" xmltv_id="DUKE">DUKE</channel>
+    <channel site="epg.pw_0" site_id="2638" xmltv_id="TVNZ 1">TVNZ 1</channel>
+    <channel site="epg.pw_0" site_id="2227" xmltv_id="CH200">CH200</channel>
+    <channel site="epg.pw_0" site_id="2302" xmltv_id="eden+1">eden+1</channel>
+    <channel site="epg.pw_0" site_id="2379" xmltv_id="Bravo PLUS 1">Bravo PLUS 1</channel>
+    <channel site="epg.pw_0" site_id="2440" xmltv_id="Shine TV">Shine TV</channel>
+    <channel site="epg.pw_0" site_id="2497" xmltv_id="TVNZ 2 plus 1">TVNZ 2 plus 1</channel>
+    <channel site="epg.pw_0" site_id="101304" xmltv_id="WBTV True Crime">WBTV True Crime</channel>
+    <channel site="epg.pw_0" site_id="101305" xmltv_id="WBTV Paranormal">WBTV Paranormal</channel>
+    <channel site="epg.pw_0" site_id="101326" xmltv_id="WBTV House Hunters">WBTV House Hunters</channel>
+    <channel site="epg.pw_0" site_id="11973" xmltv_id="CNN">CNN</channel>
+    <channel site="epg.pw_0" site_id="322468" xmltv_id="Cctv4">Cctv4</channel>
+    <channel site="epg.pw_0" site_id="7866" xmltv_id="AXN">AXN</channel>
+    <channel site="epg.pw_0" site_id="7852" xmltv_id="Animax">Animax</channel>
+    <channel site="epg.pw_0" site_id="70607" xmltv_id="GTV">GTV</channel>
+    <channel site="epg.pw_0" site_id="12015" xmltv_id="KBS WORLD">KBS WORLD</channel>
+    <channel site="epg.pw_0" site_id="182899" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel site="epg.pw_0" site_id="7845" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="epg.pw_0" site_id="11986" xmltv_id="HISTORY">HISTORY</channel>
+    <channel site="epg.pw_0" site_id="322536" xmltv_id="Cgtn">Cgtn</channel>
+    <channel site="epg.pw_0" site_id="12427" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel site="epg.pw_0" site_id="12626" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="epg.pw_0" site_id="322533" xmltv_id="Abc Australia">Abc Australia</channel>
+    <channel site="epg.pw_0" site_id="11984" xmltv_id="TV5">TV5</channel>
+    <channel site="epg.pw_0" site_id="11940" xmltv_id="LIFETIME">LIFETIME</channel>
+    <channel site="epg.pw_0" site_id="12013" xmltv_id="CNN HD">CNN HD</channel>
+    <channel site="epg.pw_0" site_id="322446" xmltv_id="ARIRANG">ARIRANG</channel>
+    <channel site="epg.pw_0" site_id="11817" xmltv_id="CHANNEL NEWS ASIA">CHANNEL NEWS ASIA</channel>
+    <channel site="epg.pw_0" site_id="12648" xmltv_id="KIX">KIX</channel>
+    <channel site="epg.pw_0" site_id="322461" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel site="epg.pw_0" site_id="12599" xmltv_id="ROCK ENTERTAINMENT">ROCK ENTERTAINMENT</channel>
+    <channel site="epg.pw_0" site_id="12129" xmltv_id="DREAMWORKS">DREAMWORKS</channel>
+    <channel site="epg.pw_0" site_id="70617" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel site="epg.pw_0" site_id="11811" xmltv_id="THRILL">THRILL</channel>
+    <channel site="epg.pw_0" site_id="12426" xmltv_id="NICK JR.">NICK JR.</channel>
+    <channel site="epg.pw_0" site_id="12620" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel site="epg.pw_0" site_id="70612" xmltv_id="PTV">PTV</channel>
+    <channel site="epg.pw_0" site_id="182921" xmltv_id="TRAVEL CHANNEL">TRAVEL CHANNEL</channel>
+    <channel site="epg.pw_0" site_id="322489" xmltv_id="Discovery">Discovery</channel>
+    <channel site="epg.pw_0" site_id="182907" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="epg.pw_0" site_id="393970" xmltv_id="TVBS ASIA">TVBS ASIA</channel>
+    <channel site="epg.pw_0" site_id="6450" xmltv_id="CCTV4">CCTV4</channel>
+    <channel site="epg.pw_0" site_id="6842" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="epg.pw_0" site_id="6172" xmltv_id="CNN">CNN</channel>
+    <channel site="epg.pw_0" site_id="45662" xmltv_id="AMC">AMC</channel>
+    <channel site="epg.pw_0" site_id="7367" xmltv_id="CGTN">CGTN</channel>
+    <channel site="epg.pw_0" site_id="6849" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel site="epg.pw_0" site_id="44135" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="epg.pw_0" site_id="6170" xmltv_id="Fox">Fox</channel>
+    <channel site="epg.pw_0" site_id="6617" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="epg.pw_0" site_id="6530" xmltv_id="KBS World">KBS World</channel>
+    <channel site="epg.pw_0" site_id="6844" xmltv_id="NHK World">NHK World</channel>
+    <channel site="epg.pw_0" site_id="7640" xmltv_id="7D7">7D7</channel>
+    <channel site="epg.pw_0" site_id="115626" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="epg.pw_0" site_id="69822" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
+    <channel site="epg.pw_0" site_id="7784" xmltv_id="FrenchLover">FrenchLover</channel>
+    <channel site="epg.pw_0" site_id="5929" xmltv_id="Arirang">Arirang</channel>
+    <channel site="epg.pw_0" site_id="7574" xmltv_id="CNBC">CNBC</channel>
+    <channel site="epg.pw_0" site_id="7608" xmltv_id="BTV">BTV</channel>
+    <channel site="epg.pw_0" site_id="7637" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel site="epg.pw_0" site_id="7164" xmltv_id="49 канал">49 канал</channel>
+    <channel site="epg.pw_0" site_id="45691" xmltv_id="TLC">TLC</channel>
+    <channel site="epg.pw_0" site_id="6110" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="epg.pw_0" site_id="5951" xmltv_id="Hollywood">Hollywood</channel>
+    <channel site="epg.pw_0" site_id="6407" xmltv_id="AXN HD">AXN HD</channel>
+    <channel site="epg.pw_0" site_id="6714" xmltv_id="Астрахань 24">Астрахань 24</channel>
+    <channel site="epg.pw_0" site_id="6261" xmltv_id="EuroNews">EuroNews</channel>
+    <channel site="epg.pw_0" site_id="6126" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel site="epg.pw_0" site_id="6182" xmltv_id="Bolt">Bolt</channel>
+    <channel site="epg.pw_0" site_id="6084" xmltv_id="France 24">France 24</channel>
+    <channel site="epg.pw_0" site_id="6221" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="epg.pw_0" site_id="6303" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="epg.pw_0" site_id="369729" xmltv_id="BBC News">BBC News</channel>
+    <channel site="epg.pw_0" site_id="368252" xmltv_id="CGTN[StarhubTV+]">CGTN[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369751" xmltv_id="CGTN">CGTN</channel>
+    <channel site="epg.pw_0" site_id="368310" xmltv_id="TVBS Asia[StarhubTV+]">TVBS Asia[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369718" xmltv_id="TVBS Asia">TVBS Asia</channel>
+    <channel site="epg.pw_0" site_id="369833" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel site="epg.pw_0" site_id="368289" xmltv_id="Fox News Channel[StarhubTV+]">Fox News Channel[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369713" xmltv_id="FOX News Channel">FOX News Channel</channel>
+    <channel site="epg.pw_0" site_id="368291" xmltv_id="CCTV-4[StarhubTV+]">CCTV-4[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368246" xmltv_id="HGTV[StarhubTV+]">HGTV[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368207" xmltv_id="HBO HD[StarhubTV+]">HBO HD[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369809" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="epg.pw_0" site_id="368302" xmltv_id="Cartoon Network[StarhubTV+]">Cartoon Network[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369722" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel site="epg.pw_0" site_id="368316" xmltv_id="Sun TV[StarhubTV+]">Sun TV[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369792" xmltv_id="Sun TV">Sun TV</channel>
+    <channel site="epg.pw_0" site_id="368222" xmltv_id="CCM[StarhubTV+]">CCM[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369819" xmltv_id="CCM">CCM</channel>
+    <channel site="epg.pw_0" site_id="368217" xmltv_id="Nick Jr[StarhubTV+]">Nick Jr[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368213" xmltv_id="BBC Lifestyle[StarhubTV+]">BBC Lifestyle[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368250" xmltv_id="AXN HD[StarhubTV+]">AXN HD[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368254" xmltv_id="Animax HD[StarhubTV+]">Animax HD[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368265" xmltv_id="ANC[StarhubTV+]">ANC[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368263" xmltv_id="Bloomberg Originals[StarhubTV+]">Bloomberg Originals[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368228" xmltv_id="HISTORY HD[StarhubTV+]">HISTORY HD[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368215" xmltv_id="beIN Sports 3[StarhubTV+]">beIN Sports 3[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369803" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="epg.pw_0" site_id="368253" xmltv_id="SPOTV[StarhubTV+]">SPOTV[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="368210" xmltv_id="ROCK Entertainment[StarhubTV+]">ROCK Entertainment[StarhubTV+]</channel>
+    <channel site="epg.pw_0" site_id="369844" xmltv_id="STAR Plus">STAR Plus</channel>
+    <channel site="epg.pw_0" site_id="369788" xmltv_id="WION">WION</channel>
+    <channel site="epg.pw_0" site_id="368384" xmltv_id="MONO.th">MONO.th</channel>
+    <channel site="epg.pw_0" site_id="368493" xmltv_id="TNN.th">TNN.th</channel>
+    <channel site="epg.pw_0" site_id="368385" xmltv_id="BBC News.th">BBC News.th</channel>
+    <channel site="epg.pw_0" site_id="368398" xmltv_id="ROCK Action.th">ROCK Action.th</channel>
+    <channel site="epg.pw_0" site_id="368400" xmltv_id="Workpoint TV.th">Workpoint TV.th</channel>
+    <channel site="epg.pw_0" site_id="368401" xmltv_id="HBO Signature.th">HBO Signature.th</channel>
+    <channel site="epg.pw_0" site_id="368408" xmltv_id="TLC.th">TLC.th</channel>
+    <channel site="epg.pw_0" site_id="368414" xmltv_id="beIN SPORTS 2.th">beIN SPORTS 2.th</channel>
+    <channel site="epg.pw_0" site_id="368424" xmltv_id="Cartoon Network.th">Cartoon Network.th</channel>
+    <channel site="epg.pw_0" site_id="368450" xmltv_id="ATTV.th">ATTV.th</channel>
+    <channel site="epg.pw_0" site_id="368469" xmltv_id="Mix Major.th">Mix Major.th</channel>
+    <channel site="epg.pw_0" site_id="368494" xmltv_id="Nickelodeon.th">Nickelodeon.th</channel>
+    <channel site="epg.pw_0" site_id="386309" xmltv_id="TV5 HD.th">TV5 HD.th</channel>
+    <channel site="epg.pw_0" site_id="387980" xmltv_id="TNN16.th">TNN16.th</channel>
+    <channel site="epg.pw_0" site_id="368383" xmltv_id="RT Documentary.th">RT Documentary.th</channel>
+    <channel site="epg.pw_0" site_id="368387" xmltv_id="CGTN.th">CGTN.th</channel>
+    <channel site="epg.pw_0" site_id="368391" xmltv_id="MONO29 Music Station.th">MONO29 Music Station.th</channel>
+    <channel site="epg.pw_0" site_id="368393" xmltv_id="ALTV4.th">ALTV4.th</channel>
+    <channel site="epg.pw_0" site_id="368394" xmltv_id="Rama Channel.th">Rama Channel.th</channel>
+    <channel site="epg.pw_0" site_id="368396" xmltv_id="3BB Asian.th">3BB Asian.th</channel>
+    <channel site="epg.pw_0" site_id="368397" xmltv_id="MONO29 Plus.th">MONO29 Plus.th</channel>
+    <channel site="epg.pw_0" site_id="368399" xmltv_id="RT Channel.th">RT Channel.th</channel>
+    <channel site="epg.pw_0" site_id="368402" xmltv_id="Euro News.th">Euro News.th</channel>
+    <channel site="epg.pw_0" site_id="368404" xmltv_id="TVBS News.th">TVBS News.th</channel>
+    <channel site="epg.pw_0" site_id="368406" xmltv_id="CNN.th">CNN.th</channel>
+    <channel site="epg.pw_0" site_id="368410" xmltv_id="Parliament.th">Parliament.th</channel>
+    <channel site="epg.pw_0" site_id="368411" xmltv_id="CH7 HD.th">CH7 HD.th</channel>
+    <channel site="epg.pw_0" site_id="368413" xmltv_id="PPTV HD.th">PPTV HD.th</channel>
+    <channel site="epg.pw_0" site_id="368415" xmltv_id="beIN SPORTS 3.th">beIN SPORTS 3.th</channel>
+    <channel site="epg.pw_0" site_id="368416" xmltv_id="TV5MONDE.th">TV5MONDE.th</channel>
+    <channel site="epg.pw_0" site_id="368419" xmltv_id="Food Network.th">Food Network.th</channel>
+    <channel site="epg.pw_0" site_id="368923" xmltv_id="人間衛視[TBC]">人間衛視[TBC]</channel>
+    <channel site="epg.pw_0" site_id="370251" xmltv_id="人間衛視[4GTV]">人間衛視[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="369245" xmltv_id="TVBS[TBC]">TVBS[TBC]</channel>
+    <channel site="epg.pw_0" site_id="370183" xmltv_id="TVBS[4GTV]">TVBS[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="369321" xmltv_id="CNN[TBC]">CNN[TBC]</channel>
+    <channel site="epg.pw_0" site_id="370249" xmltv_id="好消息[4GTV]">好消息[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="334710" xmltv_id="Cinemax">Cinemax</channel>
+    <channel site="epg.pw_0" site_id="369234" xmltv_id="BBC News[TBC]">BBC News[TBC]</channel>
+    <channel site="epg.pw_0" site_id="334734" xmltv_id="Animax">Animax</channel>
+    <channel site="epg.pw_0" site_id="369290" xmltv_id="CINEMAX[TBC]">CINEMAX[TBC]</channel>
+    <channel site="epg.pw_0" site_id="335015" xmltv_id="HBO">HBO</channel>
+    <channel site="epg.pw_0" site_id="368800" xmltv_id="Animax[Mod]">Animax[Mod]</channel>
+    <channel site="epg.pw_0" site_id="368920" xmltv_id="Animax[TBC]">Animax[TBC]</channel>
+    <channel site="epg.pw_0" site_id="369266" xmltv_id="AXN[TBC]">AXN[TBC]</channel>
+    <channel site="epg.pw_0" site_id="334880" xmltv_id="EUROSPORT HD">EUROSPORT HD</channel>
+    <channel site="epg.pw_0" site_id="370174" xmltv_id="TVBS新聞[4GTV]">TVBS新聞[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="368604" xmltv_id="EUROSPORT HD[Mod]">EUROSPORT HD[Mod]</channel>
+    <channel site="epg.pw_0" site_id="334728" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel site="epg.pw_0" site_id="368952" xmltv_id="三立台灣台[TBC]">三立台灣台[TBC]</channel>
+    <channel site="epg.pw_0" site_id="368929" xmltv_id="BBC Earth[TBC]">BBC Earth[TBC]</channel>
+    <channel site="epg.pw_0" site_id="369325" xmltv_id="中視[TBC]">中視[TBC]</channel>
+    <channel site="epg.pw_0" site_id="370141" xmltv_id="中視[4GTV]">中視[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="369264" xmltv_id="HBO[TBC]">HBO[TBC]</channel>
+    <channel site="epg.pw_0" site_id="368893" xmltv_id="tvN[TBC]">tvN[TBC]</channel>
+    <channel site="epg.pw_0" site_id="334936" xmltv_id="LOVE NATURE 4K">LOVE NATURE 4K</channel>
+    <channel site="epg.pw_0" site_id="368607" xmltv_id="LOVE NATURE 4K[Mod]">LOVE NATURE 4K[Mod]</channel>
+    <channel site="epg.pw_0" site_id="369301" xmltv_id="LOVE NATURE 4K[TBC]">LOVE NATURE 4K[TBC]</channel>
+    <channel site="epg.pw_0" site_id="369250" xmltv_id="民視新聞台[TBC]">民視新聞台[TBC]</channel>
+    <channel site="epg.pw_0" site_id="370172" xmltv_id="民視新聞台[4GTV]">民視新聞台[4GTV]</channel>
+    <channel site="epg.pw_0" site_id="334806" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="epg.pw_0" site_id="334729" xmltv_id="HBO Family">HBO Family</channel>
+    <channel site="epg.pw_0" site_id="166652" xmltv_id="3ABN">3ABN</channel>
+    <channel site="epg.pw_0" site_id="166678" xmltv_id="3ABN Kids Network">3ABN Kids Network</channel>
+    <channel site="epg.pw_0" site_id="309490" xmltv_id="Spectrum Sportsnet Lakers">Spectrum Sportsnet Lakers</channel>
+    <channel site="epg.pw_0" site_id="199893" xmltv_id="ROOT Sports Northwest PLUS">ROOT Sports Northwest PLUS</channel>
+    <channel site="epg.pw_0" site_id="9013" xmltv_id="WWE Network">WWE Network</channel>
+    <channel site="epg.pw_0" site_id="403819" xmltv_id="CNN">CNN</channel>
+    <channel site="epg.pw_0" site_id="8680" xmltv_id="GAME+">GAME+</channel>
+    <channel site="epg.pw_0" site_id="403697" xmltv_id="Playboy">Playboy</channel>
+    <channel site="epg.pw_0" site_id="403903" xmltv_id="Fox News">Fox News</channel>
+    <channel site="epg.pw_0" site_id="399269" xmltv_id="Sony KAL">Sony KAL</channel>
+    <channel site="epg.pw_0" site_id="167443" xmltv_id="3ABN Dare to Dream Network">3ABN Dare to Dream Network</channel>
+    <channel site="epg.pw_0" site_id="399930" xmltv_id="ABC NEWS">ABC NEWS</channel>
+    <channel site="epg.pw_0" site_id="403547" xmltv_id="HLN">HLN</channel>
+    <channel site="epg.pw_0" site_id="403797" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel site="epg.pw_0" site_id="403557" xmltv_id="Big Ten Network">Big Ten Network</channel>
+    <channel site="epg.pw_0" site_id="403670" xmltv_id="YES Network">YES Network</channel>
+    <channel site="epg.pw_0" site_id="403534" xmltv_id="ACC Network">ACC Network</channel>
+    <channel site="epg.pw_0" site_id="403576" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="epg.pw_0" site_id="403513" xmltv_id="Discovery Familia">Discovery Familia</channel>
+    <channel site="epg.pw_0" site_id="403623" xmltv_id="QVC">QVC</channel>
+    <channel site="epg.pw_0" site_id="403457" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel site="epg.pw_0" site_id="403594" xmltv_id="C-SPAN">C-SPAN</channel>
+    <channel site="epg.pw_0" site_id="403836" xmltv_id="MLB Network">MLB Network</channel>
+    <channel site="epg.pw_0" site_id="403563" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="epg.pw_0" site_id="403696" xmltv_id="Mega TV">Mega TV</channel>
+    <channel site="epg.pw_0" site_id="403777" xmltv_id="Spectrum SportsNet">Spectrum SportsNet</channel>
+    <channel site="epg.pw_0" site_id="403752" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel site="epg.pw_0" site_id="403568" xmltv_id="The Weather Channel">The Weather Channel</channel>
+    <channel site="epg.pw_0" site_id="403913" xmltv_id="NewsMax TV">NewsMax TV</channel>
+    <channel site="epg.pw_0" site_id="403612" xmltv_id="MSG Plus">MSG Plus</channel>
+    <channel site="epg.pw_0" site_id="403908" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel site="epg.pw_0" site_id="407272" xmltv_id="VTC4">VTC4</channel>
+    <channel site="epg.pw_0" site_id="407273" xmltv_id="VTC3">VTC3</channel>
+    <channel site="epg.pw_0" site_id="407274" xmltv_id="VTC2">VTC2</channel>
+    <channel site="epg.pw_0" site_id="407275" xmltv_id="VTC16">VTC16</channel>
+    <channel site="epg.pw_0" site_id="407276" xmltv_id="VTC8">VTC8</channel>
+    <channel site="epg.pw_0" site_id="407277" xmltv_id="VTC11">VTC11</channel>
+    <channel site="epg.pw_0" site_id="407278" xmltv_id="VTC7">VTC7</channel>
+    <channel site="epg.pw_0" site_id="8225" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="epg.pw_0" site_id="8288" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="epg.pw_0" site_id="8214" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel site="epg.pw_0" site_id="8315" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="epg.pw_0" site_id="8231" xmltv_id="BET">BET</channel>
+    <channel site="epg.pw_0" site_id="8267" xmltv_id="Sky News">Sky News</channel>
+    <channel site="epg.pw_0" site_id="8219" xmltv_id="MTV">MTV</channel>
+    <channel site="epg.pw_0" site_id="8305" xmltv_id="TENNIS">TENNIS</channel>
+    <channel site="epg.pw_0" site_id="8240" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel site="epg.pw_0" site_id="8274" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel site="epg.pw_0" site_id="8325" xmltv_id="NickTOONS">NickTOONS</channel>
+    <channel site="epg.pw_0" site_id="8245" xmltv_id="NHK">NHK</channel>
+    <channel site="epg.pw_0" site_id="8229" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="epg.pw_0" site_id="8266" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="epg.pw_0" site_id="8311" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel site="epg.pw_0" site_id="8187" xmltv_id="KIX">KIX</channel>
+    <channel site="epg.pw_0" site_id="8215" xmltv_id="Dreamworks">Dreamworks</channel>
+    <channel site="epg.pw_0" site_id="8202" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="epg.pw_0" site_id="8272" xmltv_id="MTV base">MTV base</channel>
+    <channel site="epg.pw_0" site_id="8308" xmltv_id="Africanews">Africanews</channel>
+    <channel site="epg.pw_0" site_id="8208" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel site="epg.pw_0" site_id="8201" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel site="epg.pw_0" site_id="8289" xmltv_id="TRACE URBAN HD">TRACE URBAN HD</channel>
+    <channel site="epg.pw_0" site_id="8189" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel site="epg.pw_0" site_id="8320" xmltv_id="TBN">TBN</channel>
+    <channel site="epg.pw_0" site_id="8209" xmltv_id="ACTION">ACTION</channel>
+    <channel site="epg.pw_0" site_id="8221" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel site="epg.pw_0" site_id="8250" xmltv_id="TLNovelas">TLNovelas</channel>
+    <channel site="epg.pw_0" site_id="8295" xmltv_id="Cape Town TV">Cape Town TV</channel>
+    <channel site="epg.pw_0" site_id="8282" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel site="epg.pw_0" site_id="8195" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
+    <channel site="epg.pw_0" site_id="6450" xmltv_id="CCTV4[Russian Federation]">CCTV4[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="13889" xmltv_id="湖北卫视[China]">湖北卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="378819" xmltv_id="CCTV1[China]">CCTV1[China]</channel>
+    <channel site="epg.pw_0" site_id="6842" xmltv_id="Cinemax[Russian Federation]">Cinemax[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="13892" xmltv_id="吉林卫视[China]">吉林卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="11973" xmltv_id="CNN[Philippines]">CNN[Philippines]</channel>
+    <channel site="epg.pw_0" site_id="6172" xmltv_id="CNN[Russian Federation]">CNN[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="322468" xmltv_id="Cctv4[Philippines]">Cctv4[Philippines]</channel>
+    <channel site="epg.pw_0" site_id="13893" xmltv_id="内蒙古卫视[China]">内蒙古卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="45662" xmltv_id="AMC[Russian Federation]">AMC[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="12183" xmltv_id="Animal Planet[United Kingdom of Great Britain and Northern Ireland]">Animal Planet[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="9220" xmltv_id="Animal Planet[United Kingdom of Great Britain and Northern Ireland]">Animal Planet[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="13886" xmltv_id="河北卫视[China]">河北卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="378830" xmltv_id="CCTV11[China]">CCTV11[China]</channel>
+    <channel site="epg.pw_0" site_id="3474" xmltv_id="ABC NEWS[Australia]">ABC NEWS[Australia]</channel>
+    <channel site="epg.pw_0" site_id="55749" xmltv_id="BBC NEWS[France]">BBC NEWS[France]</channel>
+    <channel site="epg.pw_0" site_id="7367" xmltv_id="CGTN[Russian Federation]">CGTN[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="76759" xmltv_id="Animal Planet[Germany]">Animal Planet[Germany]</channel>
+    <channel site="epg.pw_0" site_id="76650" xmltv_id="BBC News[Germany]">BBC News[Germany]</channel>
+    <channel site="epg.pw_0" site_id="378823" xmltv_id="CCTV5[China]">CCTV5[China]</channel>
+    <channel site="epg.pw_0" site_id="6849" xmltv_id="Discovery Science[Russian Federation]">Discovery Science[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="44135" xmltv_id="Discovery Channel[Russian Federation]">Discovery Channel[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="13899" xmltv_id="云南卫视[China]">云南卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="56000" xmltv_id="Discovery Channel[France]">Discovery Channel[France]</channel>
+    <channel site="epg.pw_0" site_id="54945" xmltv_id="Discovery Science[France]">Discovery Science[France]</channel>
+    <channel site="epg.pw_0" site_id="378820" xmltv_id="CCTV2[China]">CCTV2[China]</channel>
+    <channel site="epg.pw_0" site_id="378828" xmltv_id="CCTV9[China]">CCTV9[China]</channel>
+    <channel site="epg.pw_0" site_id="13895" xmltv_id="山西卫视[China]">山西卫视[China]</channel>
+    <channel site="epg.pw_0" site_id="7866" xmltv_id="AXN[Philippines]">AXN[Philippines]</channel>
+    <channel site="epg.pw_0" site_id="378825" xmltv_id="CCTV6[China]">CCTV6[China]</channel>
+    <channel site="epg.pw_0" site_id="378832" xmltv_id="CCTV13[China]">CCTV13[China]</channel>
+    <channel site="epg.pw_0" site_id="378821" xmltv_id="CCTV3[China]">CCTV3[China]</channel>
+    <channel site="epg.pw_0" site_id="378829" xmltv_id="CCTV10[China]">CCTV10[China]</channel>
+    <channel site="epg.pw_0" site_id="171882" xmltv_id="CGTN[Indonesia]">CGTN[Indonesia]</channel>
+    <channel site="epg.pw_0" site_id="12263" xmltv_id="Food Network[United Kingdom of Great Britain and Northern Ireland]">Food Network[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="9130" xmltv_id="Food Network[United Kingdom of Great Britain and Northern Ireland]">Food Network[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="6170" xmltv_id="Fox[Russian Federation]">Fox[Russian Federation]</channel>
+    <channel site="epg.pw_0" site_id="10736" xmltv_id="テレビ東京[Japan]">テレビ東京[Japan]</channel>
+    <channel site="epg.pw_0" site_id="76810" xmltv_id="ATV[Germany]">ATV[Germany]</channel>
+    <channel site="epg.pw_0" site_id="10693" xmltv_id="TBS[Japan]">TBS[Japan]</channel>
+    <channel site="epg.pw_0" site_id="378827" xmltv_id="CCTV8[China]">CCTV8[China]</channel>
+    <channel site="epg.pw_0" site_id="378961" xmltv_id="CHC动作电影[China]">CHC动作电影[China]</channel>
+    <channel site="epg.pw_0" site_id="7852" xmltv_id="Animax[Philippines]">Animax[Philippines]</channel>
+    <channel site="epg.pw_0" site_id="11400" xmltv_id="BBC World News[South Africa]">BBC World News[South Africa]</channel>
+    <channel site="epg.pw_0" site_id="8225" xmltv_id="BBC World News[South Africa]">BBC World News[South Africa]</channel>
+    <channel site="epg.pw_0" site_id="378831" xmltv_id="CCTV12[China]">CCTV12[China]</channel>
+    <channel site="epg.pw_0" site_id="3306" xmltv_id="SBS[Australia]">SBS[Australia]</channel>
+    <channel site="epg.pw_0" site_id="9196" xmltv_id="Al Jazeera HD[United Kingdom of Great Britain and Northern Ireland]">Al Jazeera HD[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="12532" xmltv_id="Al Jazeera HD[United Kingdom of Great Britain and Northern Ireland]">Al Jazeera HD[United Kingdom of Great Britain and Northern Ireland]</channel>
+    <channel site="epg.pw_0" site_id="378848" xmltv_id="东方卫视[China]">东方卫视[China]</channel>
+  </channels>
+</site>
