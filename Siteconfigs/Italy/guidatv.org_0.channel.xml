@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="guidatv.org_0">
+  <channels>
+    <channel site="guidatv.org_0" site_id="rai-1||rai1.png" xmltv_id="Rai 1">Rai 1</channel>
+    <channel site="guidatv.org_0" site_id="rai-2||rai2.png" xmltv_id="Rai 2">Rai 2</channel>
+    <channel site="guidatv.org_0" site_id="rai-3||rai3.png" xmltv_id="Rai 3">Rai 3</channel>
+    <channel site="guidatv.org_0" site_id="rete4||rete4.png" xmltv_id="Rete4">Rete4</channel>
+    <channel site="guidatv.org_0" site_id="canale-5||canale5.png" xmltv_id="Canale 5">Canale 5</channel>
+    <channel site="guidatv.org_0" site_id="italia-uno||italia1.png" xmltv_id="Italia Uno">Italia Uno</channel>
+    <channel site="guidatv.org_0" site_id="la7||la7.png" xmltv_id="LA7">LA7</channel>
+    <channel site="guidatv.org_0" site_id="tv8||tv8.png" xmltv_id="TV8">TV8</channel>
+    <channel site="guidatv.org_0" site_id="nove||nove.png" xmltv_id="NOVE">NOVE</channel>
+    <channel site="guidatv.org_0" site_id="canale-20||20.png" xmltv_id="canale 20">canale 20</channel>
+    <channel site="guidatv.org_0" site_id="rai-4||rai4.png" xmltv_id="Rai 4">Rai 4</channel>
+    <channel site="guidatv.org_0" site_id="iris||iris.png" xmltv_id="Iris">Iris</channel>
+    <channel site="guidatv.org_0" site_id="rai-5||rai5.png" xmltv_id="Rai 5">Rai 5</channel>
+    <channel site="guidatv.org_0" site_id="rai-movie||raimovie.png" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel site="guidatv.org_0" site_id="rai-premium||raipremium.png" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel site="guidatv.org_0" site_id="cielo||cielo.png" xmltv_id="Cielo">Cielo</channel>
+    <channel site="guidatv.org_0" site_id="mediaset-27||27.png" xmltv_id="Mediaset 27">Mediaset 27</channel>
+    <channel site="guidatv.org_0" site_id="tv2000||tv2000.png" xmltv_id="TV2000">TV2000</channel>
+    <channel site="guidatv.org_0" site_id="la7d||la7d.png" xmltv_id="LA7D">LA7D</channel>
+    <channel site="guidatv.org_0" site_id="la-5||la5.png" xmltv_id="La 5">La 5</channel>
+    <channel site="guidatv.org_0" site_id="real-time||realtime.png" xmltv_id="Real Time">Real Time</channel>
+    <channel site="guidatv.org_0" site_id="qvc||qvc.png" xmltv_id="QVC">QVC</channel>
+    <channel site="guidatv.org_0" site_id="foodnetwork||food-network.png" xmltv_id="foodnetwork">foodnetwork</channel>
+    <channel site="guidatv.org_0" site_id="cine-34||cine34.png" xmltv_id="Cine 34">Cine 34</channel>
+    <channel site="guidatv.org_0" site_id="focus||focus.png" xmltv_id="Focus">Focus</channel>
+    <channel site="guidatv.org_0" site_id="warner-tv||warner.png" xmltv_id="Warner Tv">Warner Tv</channel>
+    <channel site="guidatv.org_0" site_id="giallo||giallo.png" xmltv_id="Giallo">Giallo</channel>
+    <channel site="guidatv.org_0" site_id="topcrime||top_crime.png" xmltv_id="TOPCrime">TOPCrime</channel>
+    <channel site="guidatv.org_0" site_id="boing||boing.png" xmltv_id="Boing">Boing</channel>
+    <channel site="guidatv.org_0" site_id="k2||k2.png" xmltv_id="K2">K2</channel>
+    <channel site="guidatv.org_0" site_id="rai-gulp||rai_gulp.png" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel site="guidatv.org_0" site_id="rai-yoyo||rai_yoyo.png" xmltv_id="Rai YoYo">Rai YoYo</channel>
+    <channel site="guidatv.org_0" site_id="frisbee||frisbee.png" xmltv_id="FRISBEE">FRISBEE</channel>
+    <channel site="guidatv.org_0" site_id="boing-plus||boingplus.png" xmltv_id="Boing Plus">Boing Plus</channel>
+    <channel site="guidatv.org_0" site_id="cartoonito||cartoonito.png" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel site="guidatv.org_0" site_id="super!||super.png" xmltv_id="Super!">Super!</channel>
+    <channel site="guidatv.org_0" site_id="rai-news-24||rai_news.png" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel site="guidatv.org_0" site_id="mediaset-italia-due||italia2.png" xmltv_id="Mediaset Italia Due">Mediaset Italia Due</channel>
+    <channel site="guidatv.org_0" site_id="sky-tg24||skytg24.png" xmltv_id="SKY TG24">SKY TG24</channel>
+    <channel site="guidatv.org_0" site_id="tgcom24||10473.png" xmltv_id="TgCom24">TgCom24</channel>
+    <channel site="guidatv.org_0" site_id="dmax||dmax.png" xmltv_id="DMAX">DMAX</channel>
+    <channel site="guidatv.org_0" site_id="rai-storia||rai_storia.png" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel site="guidatv.org_0" site_id="mediaset-extra||mediaset_extra.png" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel site="guidatv.org_0" site_id="home-and-garden-tv||homeandgarden.png" xmltv_id="Home And Garden TV">Home And Garden TV</channel>
+    <channel site="guidatv.org_0" site_id="rai-scuola||raiscuola.png" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel site="guidatv.org_0" site_id="rai-sport||rai_sport.png" xmltv_id="Rai Sport">Rai Sport</channel>
+    <channel site="guidatv.org_0" site_id="motor-trend||motortrend.png" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel site="guidatv.org_0" site_id="sportitalia||sportitalia.png" xmltv_id="Sportitalia">Sportitalia</channel>
+    <channel site="guidatv.org_0" site_id="supertennis||super_tennis.png" xmltv_id="Supertennis">Supertennis</channel>
+    <channel site="guidatv.org_0" site_id="alma-tv||almatv.png" xmltv_id="Alma TV">Alma TV</channel>
+    <channel site="guidatv.org_0" site_id="radioitaliatv||radioitalia.png" xmltv_id="RadioItaliaTV">RadioItaliaTV</channel>
+    <channel site="guidatv.org_0" site_id="rsi-la1||rsi_la1.png" xmltv_id="RSI LA1">RSI LA1</channel>
+    <channel site="guidatv.org_0" site_id="rsi-la2||rsi_la2.png" xmltv_id="RSI LA2">RSI LA2</channel>
+    <channel site="guidatv.org_0" site_id="sky-uno-hd||718.png" xmltv_id="Sky Uno HD">Sky Uno HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-atlantic-hd||8456.png" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-serie-hd||11244.png" xmltv_id="Sky Serie HD">Sky Serie HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-investigation-hd||11246.png" xmltv_id="Sky investigation HD">Sky investigation HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-crime||8336.png" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel site="guidatv.org_0" site_id="sky-arte-hd||8473.png" xmltv_id="Sky Arte HD">Sky Arte HD</channel>
+    <channel site="guidatv.org_0" site_id="comedy-central||318.png" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="guidatv.org_0" site_id="mtv||9196.png" xmltv_id="MTV">MTV</channel>
+    <channel site="guidatv.org_0" site_id="classica-hd||8007.png" xmltv_id="Classica HD">Classica HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-24||929.png" xmltv_id="Sky Sport 24">Sky Sport 24</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-uno||8714.png" xmltv_id="Sky Sport Uno">Sky Sport Uno</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-calcio||8673.png" xmltv_id="Sky Sport Calcio">Sky Sport Calcio</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-tennis||11237.png" xmltv_id="Sky Sport Tennis">Sky Sport Tennis</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-arena||7507.png" xmltv_id="Sky Sport Arena">Sky Sport Arena</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-max||8693.png" xmltv_id="Sky Sport Max">Sky Sport Max</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-golf||10254.png" xmltv_id="Sky Sport Golf">Sky Sport Golf</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-f1-hd||8413.png" xmltv_id="Sky Sport F1 HD">Sky Sport F1 HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-motogp||8434.png" xmltv_id="Sky Sport MotoGP">Sky Sport MotoGP</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-nba||8753.png" xmltv_id="Sky Sport NBA">Sky Sport NBA</channel>
+    <channel site="guidatv.org_0" site_id="eurosport-hd||307.png" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel site="guidatv.org_0" site_id="eurosport-2hd||391.png" xmltv_id="Eurosport 2HD">Eurosport 2HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-4k||10013.png" xmltv_id="Sky Sport 4K">Sky Sport 4K</channel>
+    <channel site="guidatv.org_0" site_id="zona-dazn||11402.png" xmltv_id="Zona Dazn">Zona Dazn</channel>
+    <channel site="guidatv.org_0" site_id="zona-dazn-2||11401.png" xmltv_id="Zona Dazn 2">Zona Dazn 2</channel>
+    <channel site="guidatv.org_0" site_id="zona-dazn-3||11403.png" xmltv_id="Zona Dazn 3">Zona Dazn 3</channel>
+    <channel site="guidatv.org_0" site_id="zona-dazn-4||11405.png" xmltv_id="Zona Dazn 4">Zona Dazn 4</channel>
+    <channel site="guidatv.org_0" site_id="zona-dazn-5||11404.png" xmltv_id="Zona Dazn 5">Zona Dazn 5</channel>
+    <channel site="guidatv.org_0" site_id="equ-tv||8293.png" xmltv_id="EQU TV">EQU TV</channel>
+    <channel site="guidatv.org_0" site_id="horse-tv-hd||6611.png" xmltv_id="Horse TV HD">Horse TV HD</channel>
+    <channel site="guidatv.org_0" site_id="bike||11278.png" xmltv_id="Bike">Bike</channel>
+    <channel site="guidatv.org_0" site_id="aci-sport-tv||7587.png" xmltv_id="ACI SPORT TV">ACI SPORT TV</channel>
+    <channel site="guidatv.org_0" site_id="milan-tv||9513.png" xmltv_id="Milan TV">Milan TV</channel>
+    <channel site="guidatv.org_0" site_id="inter-tv-hd||9893.png" xmltv_id="Inter TV HD">Inter TV HD</channel>
+    <channel site="guidatv.org_0" site_id="caccia-e-pesca||520.png" xmltv_id="Caccia e Pesca">Caccia e Pesca</channel>
+    <channel site="guidatv.org_0" site_id="pesca-e-caccia||6220.png" xmltv_id="Pesca e Caccia">Pesca e Caccia</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-1||719.png" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-2||8713.png" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-3||8733.png" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-4||619.png" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-5||8634.png" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-6||8636.png" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-7||8635.png" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-8||8633.png" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-9||8613.png" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-10||615.png" xmltv_id="Sky Sport HD 10">Sky Sport HD 10</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-11||617.png" xmltv_id="Sky Sport HD 11">Sky Sport HD 11</channel>
+    <channel site="guidatv.org_0" site_id="sky-sport-hd-12||618.png" xmltv_id="Sky Sport HD 12">Sky Sport HD 12</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-uno-hd||9044.png" xmltv_id="Sky Cinema Uno HD">Sky Cinema Uno HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-due-hd||9034.png" xmltv_id="Sky Cinema Due HD">Sky Cinema Due HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-collection-hd||9047.png" xmltv_id="Sky Cinema Collection HD">Sky Cinema Collection HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-family-hd||9042.png" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-action-hd||9050.png" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-suspense-hd||10515.png" xmltv_id="Sky Cinema Suspense HD">Sky Cinema Suspense HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-romance-hd||9055.png" xmltv_id="Sky Cinema Romance HD">Sky Cinema Romance HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-drama-hd||10518.png" xmltv_id="Sky Cinema Drama HD">Sky Cinema Drama HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-comedy-hd||9039.png" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-uno-+24-hd||9037.png" xmltv_id="Sky Cinema Uno +24 HD">Sky Cinema Uno +24 HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-cinema-due-+24-hd||10517.png" xmltv_id="Sky Cinema Due +24 HD">Sky Cinema Due +24 HD</channel>
+    <channel site="guidatv.org_0" site_id="gambero-rosso-hd||524.png" xmltv_id="Gambero Rosso HD">Gambero Rosso HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-documentaries-hd||11239.png" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel site="guidatv.org_0" site_id="sky-nature-hd||11242.png" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel site="guidatv.org_0" site_id="discovery-channel-hd||931.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel site="guidatv.org_0" site_id="history-channel||639.png" xmltv_id="History Channel">History Channel</channel>
+    <channel site="guidatv.org_0" site_id="history-roma||123.png" xmltv_id="History Roma">History Roma</channel>
+    <channel site="guidatv.org_0" site_id="fashion-tv||810.png" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel site="guidatv.org_0" site_id="sky-tg24||362.png" xmltv_id="Sky TG24">Sky TG24</channel>
+    <channel site="guidatv.org_0" site_id="sky-tg-24-meteo||321.png" xmltv_id="Sky TG 24 Meteo">Sky TG 24 Meteo</channel>
+    <channel site="guidatv.org_0" site_id="tg24primopiano||6510.png" xmltv_id="TG24PrimoPiano">TG24PrimoPiano</channel>
+    <channel site="guidatv.org_0" site_id="class-cnbc||308.png" xmltv_id="Class-Cnbc">Class-Cnbc</channel>
+    <channel site="guidatv.org_0" site_id="tg-norba24||6481.png" xmltv_id="TG Norba24">TG Norba24</channel>
+    <channel site="guidatv.org_0" site_id="er24||10615.png" xmltv_id="ER24">ER24</channel>
+    <channel site="guidatv.org_0" site_id="trm-h24||9013.png" xmltv_id="TRM h24">TRM h24</channel>
+    <channel site="guidatv.org_0" site_id="smtv-san-marino||6861.png" xmltv_id="SMtv San Marino">SMtv San Marino</channel>
+    <channel site="guidatv.org_0" site_id="euronews||801.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="guidatv.org_0" site_id="sky-news||445.png" xmltv_id="Sky News">Sky News</channel>
+    <channel site="guidatv.org_0" site_id="fox-news||446.png" xmltv_id="Fox News">Fox News</channel>
+    <channel site="guidatv.org_0" site_id="cnn-intl||312.png" xmltv_id="CNN Intl">CNN Intl</channel>
+    <channel site="guidatv.org_0" site_id="fox-business||6741.png" xmltv_id="Fox Business">Fox Business</channel>
+    <channel site="guidatv.org_0" site_id="cnbc||444.png" xmltv_id="CNBC">CNBC</channel>
+    <channel site="guidatv.org_0" site_id="bloomberg||349.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="guidatv.org_0" site_id="bbc-world-news||891.png" xmltv_id="BBC World News">BBC World News</channel>
+    <channel site="guidatv.org_0" site_id="france-24-english||7968.png" xmltv_id="France 24 English">France 24 English</channel>
+    <channel site="guidatv.org_0" site_id="al-jazeera-international||5113.png" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel site="guidatv.org_0" site_id="nhk-world-tv-hd||6862.png" xmltv_id="NHK World TV HD">NHK World TV HD</channel>
+    <channel site="guidatv.org_0" site_id="france-24||5119.png" xmltv_id="France 24">France 24</channel>
+    <channel site="guidatv.org_0" site_id="deakids||460.png" xmltv_id="DeAKids">DeAKids</channel>
+    <channel site="guidatv.org_0" site_id="nick-junior||461.png" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel site="guidatv.org_0" site_id="nickelodeon||320.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="guidatv.org_0" site_id="cartoon-network||129.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="guidatv.org_0" site_id="boomerang||472.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel site="guidatv.org_0" site_id="dea-junior||7427.png" xmltv_id="DeA Junior">DeA Junior</channel>
+    <channel site="guidatv.org_0" site_id="mtv-music||528.png" xmltv_id="MTV Music">MTV Music</channel>
+    <channel site="guidatv.org_0" site_id="deejay-tv||462.png" xmltv_id="Deejay TV">Deejay TV</channel>
+    <channel site="guidatv.org_0" site_id="radio-monte-carlo||10993.png" xmltv_id="Radio Monte Carlo">Radio Monte Carlo</channel>
+    <channel site="guidatv.org_0" site_id="radionorba-tv||8213.png" xmltv_id="Radionorba TV">Radionorba TV</channel>
+    <channel site="guidatv.org_0" site_id="rtl-102.5-tv||6885.png" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
+    <channel site="guidatv.org_0" site_id="radiofreccia||10616.png" xmltv_id="radiofreccia">radiofreccia</channel>
+  </channels>
+</site>
