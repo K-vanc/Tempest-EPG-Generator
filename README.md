@@ -132,8 +132,8 @@ or<br>
 # Tempest EPG Generator Docker 
 * Multi architecture support as amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, and s390x
 * Built-in Nginx web server on port 8095
-* Built-in Php8.2-fpm 
-* Alpine Linux 3.18.4 for the smallest footprint
+* Built-in Php8.3.15-fpm 
+* Alpine Linux 3.21 for the smallest footprint
 * Supervisor support for controlling processes 
 * Non-privileged user for easy setup/file handling
 * Around 35MB image size
@@ -158,7 +158,7 @@ If you need to change php.ini settings for timezone(default is Europe/Istanbul) 
 
 then you need to mount it into another point as below;
 
-    docker run -p 80:8095 -v "/your/local/folder/php-user.ini:/etc/php82/conf.d/custom.ini" -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
+    docker run -p 80:8095 -v "/your/local/folder/php-user.ini:/etc/php83/conf.d/custom.ini" -v "/your/local/folder/:/var/www/html/tempest_config/" kvanc/tempest_epg
 
 If you need to change php timezone, I suggest you to change also docker container timezone(default is Europe/Istanbul) to same by running container with TZ environmental variable  as below;
 
@@ -176,7 +176,7 @@ You can also make the same settings via Docker Desktop;<br>
 
 <p align="center"><img src="https://github.com/K-vanc/Tempest-EPG-Generator/assets/97025515/b630224b-b9ec-437c-8822-0d836a73b7f4"></p>
 
-Note: Tempest can be updated via built-in updater without need of container re-building. Please check for updates after running Tempest via GUI "Tempest Updater" option or via CLI Tempest Update command;
+Note: Tempest can be updated via built-in updater without need of container re-building. Auto-updating script will run on container restart and update to latest available Tempest version. For updating manually, please check "Tempest Updater" option via GUI or below Tempest Update command via CLI;
 
     docker exec -u root yourcontainername php /var/www/html/tempest.php --update
 
