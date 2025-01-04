@@ -12,8 +12,6 @@ The Most Advanced Programmable GUI XMLTV EPG Generator
 ![Docker Pulls](https://img.shields.io/docker/pulls/kvanc/tempest_epg?color=brightgreen)
 ![Docker Image Size with architecture (latest by date/latest semver)](https://img.shields.io/docker/image-size/kvanc/tempest_epg?color=fuchsia)
 
-<div align="center"><br><p align="center"><img src="https://github.com/user-attachments/assets/ff6493f9-0fbc-46b0-a31d-92d0a1ff25d2"></p></div>
-
 <div align="center">
   
 | Total Siteconfigs | Total Countries | Total Channels |
