@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="sonysportsnetwork.com_0">
+  <channels>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+1||Ten1_SD" xmltv_id="Sony Sports TEN 1">Sony Sports TEN 1</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+2||Ten2_SD" xmltv_id="Sony Sports TEN 2">Sony Sports TEN 2</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+3||Ten3_SD" xmltv_id="Sony Sports TEN 3">Sony Sports TEN 3</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+4||Ten4_SD" xmltv_id="Sony Sports TEN 4">Sony Sports TEN 4</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="SD||Ten5_SD" xmltv_id="Sony Sports TEN 5">Sony Sports TEN 5</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+1+HD||Ten1_HD" xmltv_id="Sony Sports TEN 1 HD">Sony Sports TEN 1 HD</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+2+HD||Ten2_HD" xmltv_id="Sony Sports TEN 2 HD">Sony Sports TEN 2 HD</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+3+HD||Ten3_HD" xmltv_id="Sony Sports TEN 3 HD">Sony Sports TEN 3 HD</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="TEN+4+HD||Ten4_HD" xmltv_id="Sony Sports TEN 4 HD">Sony Sports TEN 4 HD</channel>
+    <channel site="sonysportsnetwork.com_0" site_id="HD||Ten5_HD" xmltv_id="Sony Sports TEN 5 HD">Sony Sports TEN 5 HD</channel>
+  </channels>
+</site>

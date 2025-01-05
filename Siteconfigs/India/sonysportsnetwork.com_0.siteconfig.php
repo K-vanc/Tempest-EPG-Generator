@@ -1,0 +1,35 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'sonysportsnetwork.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2025-01-05',
+  'rev_no' => 'R0',
+  'timezone' => 'Asia/Kolkata',
+  'culture' => 'en',
+  'max_day' => '3',
+  'url1' => 'https://www.sonysportsnetwork.com/template/channel_schedule_list.php',
+  'requestOption1' => '2',
+  'post_data1' => 'page_name=schedule_channel.php&sch_id=##urldate1##&channel_id=##channel##',
+  'accept_header1' => '*/*',
+  'content_type1' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'host_header1' => 'www.sonysportsnetwork.com',
+  'origin_header1' => 'https://www.sonysportsnetwork.com',
+  'XMLHttpRequest1' => 'on',
+  'urldate_format1' => '#daylist#1|2|3',
+  'show' => '(<li.*?<\\/li>)||#exclude#Coming Soon',
+  'start' => '<\\/em>(.*?[AP]M)||#replace#(\\s)||',
+  'start_format' => 'h#iA',
+  'title' => '<em>(.*?)<\\/em>',
+  'channel_logo' => '||#add#https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_Sports##cclogo##.png',
+  'ccurl1' => 'https://www.sonysportsnetwork.com/schedulenew/today',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'cchost_header1' => 'www.sonysportsnetwork.com',
+  'ccchannel_block' => '"sch_chanl">.*?(?:<option)(.*?)(?:<\\/option>).*?<\\/select>||#exclude#All',
+  'ccchannel_id' => 'value="(.*?)"||#replace#(\\s)||+',
+  'ccchannel_name' => '>(.*?)$',
+  'ccchannel_logo' => 'value="(.*?)"||#word#||#replace#^([HS]d)##\\s(\\d)##(\\s)##([HS])d##(\\d)$||Ten5_\\1##\\1##_##\\1D##\\1_SD',
+);
+?>
