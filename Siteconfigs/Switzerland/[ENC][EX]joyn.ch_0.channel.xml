@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]joyn.ch_0">
+  <channels>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="srf1-ch-hd" xmltv_id="SRF 1 HD">SRF 1 HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="srf-zwei-ch-hd" xmltv_id="SRF zwei HD">SRF zwei HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="srf-info-ch-hd" xmltv_id="SRF info HD">SRF info HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="prosieben-ch-hd" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="sat1-ch-hd" xmltv_id="Sat.1 CH HD">Sat.1 CH HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="kabeleins-ch-hd" xmltv_id="Kabel Eins CH HD">Kabel Eins CH HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="rtl-ch" xmltv_id="RTL HD CH">RTL HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="3plus-ch-hd" xmltv_id="3+ HD">3+ HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="vox-ch" xmltv_id="VOX HD CH">VOX HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="daserste-de-hd" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="zdf-de-hd" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="orf1-at" xmltv_id="ORF1">ORF1</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="rtl-zwei-ch" xmltv_id="RTL ZWEI HD CH">RTL ZWEI HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="prosiebenmaxx-ch-hd" xmltv_id="ProSieben MAXX HD CH">ProSieben MAXX HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="sat1gold-ch-hd" xmltv_id="Sat.1 Gold HD CH">Sat.1 Gold HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="kabeleinsdoku-de-hd" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="ard-plus-lindenstrasse-hd" xmltv_id="ARD Plus Lindenstraße CH">ARD Plus Lindenstraße CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="sixx-ch-hd" xmltv_id="SIXX CH HD">SIXX CH HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="puls8-ch-hd" xmltv_id="Puls8 HD">Puls8 HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tv24-ch-hd" xmltv_id="TV24">TV24</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="3sat-de-hd" xmltv_id="3Sat HD">3Sat HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="orf2-at" xmltv_id="ORF2">ORF2</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="arte-de-hd" xmltv_id="Arte HD">Arte HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="dmax-ch-hd" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="rtl-nitro-ch" xmltv_id="RTL Nitro HD CH">RTL Nitro HD CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tele-zueri-ch-hd" xmltv_id="Tele Züri">Tele Züri</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="swr-bw-de-hd" xmltv_id="SWR Baden-Württemberg">SWR Baden-Württemberg</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="zdfneo-de-hd" xmltv_id="ZDF NEO">ZDF NEO</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="wdr-koeln-de-hd" xmltv_id="WDR Köln">WDR Köln</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="kika-de-hd" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="super-rtl-ch" xmltv_id="Super RTL">Super RTL</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tlc-ch-hd" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="euronews-de-hd" xmltv_id="Euronews DE">Euronews DE</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="4plus-ch-hd" xmltv_id="4+ HD">4+ HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="5plus-ch-hd" xmltv_id="5+ HD">5+ HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="6plus-ch-hd" xmltv_id="6+ HD">6+ HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="7plus-ch-hd" xmltv_id="7+ HD">7+ HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tv25-ch-hd" xmltv_id="TV25">TV25</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tele1-ch-hd" xmltv_id="Tele 1 HD">Tele 1 HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="telebaern-ch-hd" xmltv_id="TeleBärn">TeleBärn</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tele-m1-ch-hd" xmltv_id="Tele M1 HD">Tele M1 HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="telebasel-ch-hd" xmltv_id="Telebasel">Telebasel</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tvo-ch-hd" xmltv_id="TVO">TVO</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tele-top-ch-hd" xmltv_id="Tele Top">Tele Top</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="tele-suedostschweiz-ch-hd" xmltv_id="Tele Südostschweiz">Tele Südostschweiz</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="s1tv-ch-hd" xmltv_id="S1TV">S1TV</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="swiss1-ch-hd" xmltv_id="SWISS 1">SWISS 1</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="star-tv-ch-hd" xmltv_id="Star TV">Star TV</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="sport1-de-hd" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="eurosport-ch" xmltv_id="Eurosport CH">Eurosport CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="scooore-hd" xmltv_id="scooore-hd">scooore-hd</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="zdfinfo-de-hd" xmltv_id="ZDF info">ZDF info</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="ntv-ch" xmltv_id="n-tv">n-tv</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="welt-de-hd" xmltv_id="WELT HD">WELT HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="mtv-de-hd" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="comedy-central-ch-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="cnn-international-ch-hd" xmltv_id="CNN International HD">CNN International HD</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="craction-hd" xmltv_id="Craction">Craction</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="naruto-hd" xmltv_id="naruto-hd">naruto-hd</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="yu-gi-oh-hd" xmltv_id="Yu-Gi-Oh">Yu-Gi-Oh</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="landlust-tv-hd" xmltv_id="landlust-tv-hd">landlust-tv-hd</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="hiptrips-hd" xmltv_id="Hip Trips">Hip Trips</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="xplore-hd" xmltv_id="xplore">xplore</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="justfishing-hd" xmltv_id="Just Fishing">Just Fishing</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="justcooking-hd" xmltv_id="just cooking">just cooking</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="oneterra-hd" xmltv_id="One Terra">One Terra</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="wedo-big-stories-hd" xmltv_id="wedoTV Big Stories">wedoTV Big Stories</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="top-filme-hd" xmltv_id="Top Filme">Top Filme</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="top-sci-fi-hd" xmltv_id="Top Sci-Fi">Top Sci-Fi</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="top-true-crime-hd" xmltv_id="top-true-crime-hd">top-true-crime-hd</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="moviedome-hd" xmltv_id="Moviedome">Moviedome</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="moviedome-family-hd" xmltv_id="moviedome-family-hd">moviedome-family-hd</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="wedo-movies-hd" xmltv_id="wedoTV Movies">wedoTV Movies</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="filmgold-hd" xmltv_id="Filmgold">Filmgold</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="wedotv-sports-hd" xmltv_id="wedotv-sports">wedotv-sports</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="motorvision-de-hd" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="motorvision-mts-hd" xmltv_id="Motorvision More than sports">Motorvision More than sports</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="motorvision-classic-hd" xmltv_id="Motorvision Classic">Motorvision Classic</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="world-of-freesports-hd" xmltv_id="World of Freesports">World of Freesports</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="comedy-und-shows-hd" xmltv_id="Comedy &amp; Shows">Comedy &amp; Shows</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="stars-in-gefahr-hd" xmltv_id="Stars in Gefahr">Stars in Gefahr</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="starke-frauen-hd" xmltv_id="Starke Frauen">Starke Frauen</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="defa-hd" xmltv_id="DEFA TV CH">DEFA TV CH</channel>
+    <channel site="[ENC][EX]joyn.ch_0" site_id="himmlisches-kino-hd" xmltv_id="Himmlisches Kino CH">Himmlisches Kino CH</channel>
+  </channels>
+</site>
