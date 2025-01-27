@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]joyn.at_0">
+  <channels>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf1-at" xmltv_id="ORF1">ORF1</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-at" xmltv_id="ORF2">ORF2</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="puls4-at" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="servustv-at" xmltv_id="ServusTV">ServusTV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="puls24-at-hd" xmltv_id="PULS 24">PULS 24</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="prosieben-at" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="sat1-at" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="kabeleins-at" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="sixx-at" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="atv2" xmltv_id="ATV 2">ATV 2</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="redbulltv-dach-hd" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="prosiebenmaxx-at" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="sat1gold-at" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="kabeleinsdoku-at" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="dmax-at" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="kronetv-at-hd" xmltv_id="krone.tv">krone.tv</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf3-at" xmltv_id="ORF III">ORF III</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="parlamenttv-nationalrat-at" xmltv_id="Parlament TV">Parlament TV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="comedy-central-de" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf-sport-plus-at" xmltv_id="ORF SPORT +">ORF SPORT +</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="laola1-hd" xmltv_id="Laola 1">Laola 1</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="scooore-hd" xmltv_id="scooore-hd">scooore-hd</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="top-sci-fi-hd" xmltv_id="Top Sci-Fi">Top Sci-Fi</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="sport1-de" xmltv_id="Sport1 AT">Sport1 AT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="eurosport1-de" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="dazn-fast-hd" xmltv_id="DAZN FAST">DAZN FAST</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="dazn-rise-hd" xmltv_id="DAZN RISE">DAZN RISE</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="ran-nflnetwork-de-hd" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="world-of-freesports-hd" xmltv_id="World of Freesports">World of Freesports</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="welt-de" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="n24-de" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="euronews-de-hd" xmltv_id="euronews">euronews</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="cnn-international-hd" xmltv_id="CNN International HD">CNN International HD</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="nickelodeon-de" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="ric" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="mtv-de" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="kronehittv-at" xmltv_id="kronehit tv">kronehit tv</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="wedotv-sports-hd" xmltv_id="wedotv-sports">wedotv-sports</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="deluxe-de" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="schautv-at-hd" xmltv_id="Kurier TV">Kurier TV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="r9-at-hd" xmltv_id="R9">R9</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="w24-at-hd" xmltv_id="W24">W24</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="tv1-at" xmltv_id="TV1">TV1</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="okto-at-hd" xmltv_id="Okto">Okto</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="wetterpanorama-at-hd" xmltv_id="Wetterpanorama">Wetterpanorama</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="motorvision-de-hd" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="motorvision-classic-hd" xmltv_id="Motorvision Classic">Motorvision Classic</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="motorvision-mts-hd" xmltv_id="Motorvision More than sports">Motorvision More than sports</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="tlc-at" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="stars-in-gefahr-hd" xmltv_id="Stars in Gefahr">Stars in Gefahr</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="comedy-und-shows-hd" xmltv_id="Comedy &amp; Shows">Comedy &amp; Shows</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="justfishing-hd" xmltv_id="Just Fishing">Just Fishing</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="hiptrips-hd" xmltv_id="Hip Trips">Hip Trips</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="wedo-movies-hd" xmltv_id="wedoTV Movies">wedoTV Movies</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="justcooking-hd" xmltv_id="just cooking">just cooking</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="meine-einkaufswelt-at" xmltv_id="Mediashop Meine Einkaufswelt">Mediashop Meine Einkaufswelt</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="xplore-hd" xmltv_id="xplore">xplore</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="oneterra-hd" xmltv_id="One Terra">One Terra</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="moviedome-hd" xmltv_id="Moviedome">Moviedome</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="moviedome-family-hd" xmltv_id="moviedome-family-hd">moviedome-family-hd</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="filmgold-hd" xmltv_id="Filmgold">Filmgold</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="himmlisches-kino-hd" xmltv_id="Himmlisches Kino AT">Himmlisches Kino AT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="free-comedy-hd" xmltv_id="Free Comedy AT">Free Comedy AT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="top-filme-hd" xmltv_id="Top Filme">Top Filme</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="tele5-at" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="wedo-big-stories-hd" xmltv_id="wedoTV Big Stories">wedoTV Big Stories</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="ard-plus-lindenstrasse-hd" xmltv_id="ARD Plus Lindenstraße AT">ARD Plus Lindenstraße AT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="defa-hd" xmltv_id="DEFA TV AT">DEFA TV AT</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="starke-frauen-hd" xmltv_id="Starke Frauen">Starke Frauen</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="yu-gi-oh-hd" xmltv_id="Yu-Gi-Oh">Yu-Gi-Oh</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="naruto-hd" xmltv_id="naruto-hd">naruto-hd</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="craction-hd" xmltv_id="Craction">Craction</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="hgtv-at" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="landlust-tv-hd" xmltv_id="landlust-tv-hd">landlust-tv-hd</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="top-true-crime-hd" xmltv_id="top-true-crime-hd">top-true-crime-hd</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="channel-21-hd" xmltv_id="Channel21">Channel21</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-bgl-at-hd" xmltv_id="ORF 2 Burgenland">ORF 2 Burgenland</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-knt-at-hd" xmltv_id="ORF 2 Kärnten">ORF 2 Kärnten</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-noe-at-hd" xmltv_id="ORF 2 Niederösterreich">ORF 2 Niederösterreich</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-szb-at-hd" xmltv_id="ORF 2 Salzburg">ORF 2 Salzburg</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-ooe-at-hd" xmltv_id="ORF 2 Oberösterreich">ORF 2 Oberösterreich</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-stm-at-hd" xmltv_id="ORF 2 Steiermark">ORF 2 Steiermark</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-tyr-at-hd" xmltv_id="ORF 2 Tirol">ORF 2 Tirol</channel>
+    <channel site="[ENC][EX]joyn.at_0" site_id="orf2-vab-at-hd" xmltv_id="ORF 2 Vorarlberg">ORF 2 Vorarlberg</channel>
+  </channels>
+</site>
