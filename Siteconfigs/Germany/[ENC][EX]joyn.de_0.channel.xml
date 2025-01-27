@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]joyn.de_0">
+  <channels>
+    <channel site="[ENC][EX]joyn.de_0" site_id="daserste-de-hd" xmltv_id="Das Erste">Das Erste</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="zdf-de-hd" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-bayern-de-sd" xmltv_id="Sat.1 Bayern">Sat.1 Bayern</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-de" xmltv_id="SAT.1">SAT.1</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="prosieben-de" xmltv_id="ProSieben">ProSieben</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="welt-de" xmltv_id="WELT">WELT</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="tagesschau24-de-hd" xmltv_id="Tagesschau 24">Tagesschau 24</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="zdfinfo-de-hd" xmltv_id="ZDF info">ZDF info</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="phoenix-de-hd" xmltv_id="Phoenix">Phoenix</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="zdfneo-de-hd" xmltv_id="ZDF neo">ZDF neo</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="one-de-hd" xmltv_id="ONE">ONE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="arte-de-hd" xmltv_id="Arte">Arte</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="3sat-de-hd" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="kabeleins-de" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="prosiebenmaxx-de" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sixx-de" xmltv_id="sixx">sixx</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="kabeleinsdoku-de" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1gold-de" xmltv_id="SAT.1 Gold">SAT.1 Gold</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="kika-de-hd" xmltv_id="KiKA">KiKA</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="nickelodeon-de" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ard-alpha-de-hd" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="n24-de" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="eurosport1-de" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sport1-de" xmltv_id="Sport1">Sport1</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="dmax-de" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="mtv-de" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="comedy-central-de" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="tele5-de" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ard-plus-lindenstrasse-hd" xmltv_id="ARD Plus Lindenstraße DE">ARD Plus Lindenstraße DE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ard-plus-krimi-hd" xmltv_id="ARD Plus Krimi DE">ARD Plus Krimi DE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="craction-hd" xmltv_id="Craction">Craction</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="naruto-hd" xmltv_id="naruto-hd">naruto-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="yu-gi-oh-hd" xmltv_id="Yu-Gi-Oh">Yu-Gi-Oh</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="top-filme-hd" xmltv_id="Top Filme">Top Filme</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="filmgold-hd" xmltv_id="Filmgold">Filmgold</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="himmlisches-kino-hd" xmltv_id="Himmlisches Kino DE">Himmlisches Kino DE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="defa-hd" xmltv_id="DEFA TV DE">DEFA TV DE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wedo-movies-hd" xmltv_id="wedoTV Movies">wedoTV Movies</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="moviedome-hd" xmltv_id="Moviedome">Moviedome</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="comedy-und-shows-hd" xmltv_id="Comedy &amp; Shows">Comedy &amp; Shows</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="stars-in-gefahr-hd" xmltv_id="Stars in Gefahr">Stars in Gefahr</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="starke-frauen-hd" xmltv_id="Starke Frauen">Starke Frauen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="free-comedy-hd" xmltv_id="Free Comedy DE">Free Comedy DE</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="justfishing-hd" xmltv_id="Just Fishing">Just Fishing</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wedo-big-stories-hd" xmltv_id="wedoTV Big Stories">wedoTV Big Stories</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="top-sci-fi-hd" xmltv_id="Top Sci-Fi">Top Sci-Fi</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="top-true-crime-hd" xmltv_id="top-true-crime-hd">top-true-crime-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="hgtv-de" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="landlust-tv-hd" xmltv_id="landlust-tv-hd">landlust-tv-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="euronews-de-hd" xmltv_id="euronews HD">euronews HD</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="cnn-international-hd" xmltv_id="CNN International HD">CNN International HD</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="df1-de-hd" xmltv_id="df1-de-hd">df1-de-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ran-nflnetwork-de-hd" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wedotv-sports-hd" xmltv_id="wedotv-sports">wedotv-sports</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="scooore-hd" xmltv_id="scooore-hd">scooore-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="redbulltv-dach-hd" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="world-of-freesports-hd" xmltv_id="World of Freesports">World of Freesports</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="motorvision-de-hd" xmltv_id="Motorvision">Motorvision</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="motorvision-mts-hd" xmltv_id="Motorvision More than sports">Motorvision More than sports</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="motorvision-classic-hd" xmltv_id="Motorvision Classic">Motorvision Classic</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="deluxe-de" xmltv_id="Deluxe Music">Deluxe Music</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="tlc-de" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="justcooking-hd" xmltv_id="just cooking">just cooking</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="moviedome-family-hd" xmltv_id="moviedome-family-hd">moviedome-family-hd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ric" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="oneterra-hd" xmltv_id="One Terra">One Terra</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="hiptrips-hd" xmltv_id="Hip Trips">Hip Trips</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="xplore-hd" xmltv_id="xplore">xplore</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="swr-rp-de-hd" xmltv_id="SWR Rheinland-Pfalz">SWR Rheinland-Pfalz</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="swr-bw-de-hd" xmltv_id="SWR Baden-Württemberg">SWR Baden-Württemberg</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="hr-de-hd" xmltv_id="Hessischer Rundfunk">Hessischer Rundfunk</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="radio-bremen-de-hd" xmltv_id="Radio Bremen">Radio Bremen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sr-de-hd" xmltv_id="SR">SR</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ndr-sh-de-hd" xmltv_id="NDR Schleswig-Holstein">NDR Schleswig-Holstein</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ndr-hh-de-hd" xmltv_id="NDR Hamburg">NDR Hamburg</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ndr-mv-de-hd" xmltv_id="NDR Mecklenburg-Vorpommern">NDR Mecklenburg-Vorpommern</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="mdr-sanhalt-de-hd" xmltv_id="MDR Sachsen-Anhalt">MDR Sachsen-Anhalt</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="mdr-thueringen-de-hd" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="br-nord-de-hd" xmltv_id="BR Fernsehen Nord">BR Fernsehen Nord</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="rbb-brandenburg-de-hd" xmltv_id="RBB Brandenburg">RBB Brandenburg</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-koeln-de-hd" xmltv_id="WDR Köln">WDR Köln</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-bonn-de-hd" xmltv_id="WDR Bonn">WDR Bonn</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-duisburg-de-hd" xmltv_id="WDR Duisburg">WDR Duisburg</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-bielefeld-de-hd" xmltv_id="WDR Bielefeld">WDR Bielefeld</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-dortmund-de-hd" xmltv_id="WDR Dortmund">WDR Dortmund</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-duesseldorf-de-hd" xmltv_id="WDR Düsseldorf">WDR Düsseldorf</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-essen-de-hd" xmltv_id="WDR Essen">WDR Essen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-muenster-de-hd" xmltv_id="WDR Münster">WDR Münster</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-siegen-de-hd" xmltv_id="WDR Siegen">WDR Siegen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-aachen-de-hd" xmltv_id="WDR Aachen">WDR Aachen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="wdr-wuppertal-de-hd" xmltv_id="WDR Wuppertal">WDR Wuppertal</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="rbb-berlin-de-hd" xmltv_id="RBB Berlin">RBB Berlin</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="ndr-nds-de-hd" xmltv_id="NDR Niedersachsen">NDR Niedersachsen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="mdr-sachsen-de-hd" xmltv_id="MDR Sachsen">MDR Sachsen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="br-sued-de-hd" xmltv_id="BR Fernsehen Süd">BR Fernsehen Süd</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-hh-sh-de-sd" xmltv_id="Sat.1 Hamburg / Schleswig-Holstein">Sat.1 Hamburg / Schleswig-Holstein</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-ns-bremen-de-sd" xmltv_id="Sat.1 Niedersachsen / Bremen">Sat.1 Niedersachsen / Bremen</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-nrw-de-sd" xmltv_id="Sat.1 NRW">Sat.1 NRW</channel>
+    <channel site="[ENC][EX]joyn.de_0" site_id="sat1-rlp-hessen-de-sd" xmltv_id="Sat.1 Rheinland-Pfalz / Hessen">Sat.1 Rheinland-Pfalz / Hessen</channel>
+  </channels>
+</site>
