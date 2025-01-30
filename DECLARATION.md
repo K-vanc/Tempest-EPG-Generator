@@ -16,7 +16,13 @@ What!? Sorry, it is just copy-paste mistake. There is **no user licensing** or s
 <br><br>Unfortunately (thanks God), I don't have such amazing function as quoted below;<br>
 >"to have full access (250 channels you need to donate 5 euro for 1 year, if you need more channels just donate more as a multi, 10 euro = 500 channels.....15euro=750 channels and so on)."
 >
-So you may sadly enjoy Tempest, if you really need such functionality.. 
+or below (as "joke of the year");<br>
+>Effective from January 1, 2025 (all prices mentioned exclude the PayPal fee):
+>* Donator status will now require a donation of €6 (previously €5).
+>* Custom licenses: €6 for each increase of 250 channels and €6 for each increase of 5 siteini's (previously €5). Unlimited computer count, 20€ unchanged.
+>* Please note that these changes will not affect the status and expiry dates of donations made before January 1, 2025.
+>
+Why the hell I haven't even thought about "Unlimited computer count","increase of 250 channels" or "increase of 5 siteconfigs"!?... Anyway,so you may sadly enjoy Tempest, if you really need such functionality.. 
 ## Tempest Donation System
 This is the heart of the project. As I mentioned above, donations are not mandatory to use Tempest but with each donation;<br>
 <br>🔹 You will be effected %0.0000001 less from planet's gravitational force (you can test it by yourself on your home scales)
