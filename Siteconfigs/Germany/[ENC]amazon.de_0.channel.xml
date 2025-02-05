@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]amazon.de_0">
+  <channels>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8d9a2d53-e301-4494-a096-48cd69086415" xmltv_id="Top True Crime">Top True Crime</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7d400b7b-9b2f-44f4-b6c1-4d1e0239cd92" xmltv_id="River Monsters">River Monsters</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.ae8b57b4-a963-49ba-acc2-9001a0d6d3d5" xmltv_id="Täterjagd (Crime Scene Solvers)">Täterjagd (Crime Scene Solvers)</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e39a580e-fd66-4638-8271-fabb8aaf2bbd" xmltv_id="ARD Plus Krimi">ARD Plus Krimi</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b211a70b-ba01-45a1-96f5-4774220fc396" xmltv_id="Top Gear">Top Gear</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.df408578-f44f-4ca1-b0f7-56f8a6ea1ce3" xmltv_id="X-Factor: Das Unfassbare">X-Factor: Das Unfassbare</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b290bdbd-3172-44ee-aae6-70bd136b4a5b" xmltv_id="Naruto">Naruto</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.14ea3415-e344-419a-bc5b-d055e2135a59" xmltv_id="Inspector Gadget">Inspector Gadget</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.673679e8-773e-4c94-91fc-04d187d1e90e" xmltv_id="Hell's Kitchen">Hell's Kitchen</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8bc47ed8-43f2-41a9-a555-1a5d17e0426c" xmltv_id="Amasia">Amasia</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8361424a-7f04-47f4-b055-95ca93a9d313" xmltv_id="Xena Warrior Princess">Xena Warrior Princess</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.f1751d04-7aa8-49b6-b574-018540a8edda" xmltv_id="Meet, Marry, Murder">Meet, Marry, Murder</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.903f30b8-bc94-4c9f-b68c-e318de04bef1" xmltv_id="The Wicked Tuna Channel">The Wicked Tuna Channel</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.53743a9e-8d1e-46c3-85ee-55b4cac36f10" xmltv_id="BBC History">BBC History</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.c170030a-9b05-48e3-b275-6e10d6c513a3" xmltv_id="SPIEGEL TV Konflikte">SPIEGEL TV Konflikte</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.3515fcff-24c5-4309-9066-38307a7e0ca5" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.5b7401a4-4b75-4810-9c37-790bddccd4f8" xmltv_id="Terra Mater WILD">Terra Mater WILD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.50fb0171-9cc8-4863-b876-47b19bb72bc5" xmltv_id="TemporaTV">TemporaTV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.13694902-32f5-4705-b9a6-b1ac37bce551" xmltv_id="FilmRise True Crime">FilmRise True Crime</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.485748e4-45f9-4517-b142-1f74159ba70c" xmltv_id="MyTime Movie Network">MyTime Movie Network</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.84f26336-8732-4926-b2a5-1ec62f7ed0d3" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.65df2a81-4bb9-4e89-9164-c5fe91496a9d" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.98289249-3100-4f5e-8aa9-bfc46ba1be15" xmltv_id="NDR Fernsehen NDS HD">NDR Fernsehen NDS HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.85997256-e27c-43ee-aa6d-fb64b9522e68" xmltv_id="WDR Köln HD">WDR Köln HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.313e1fdd-a62b-4bf2-8a06-be6c04c122e5" xmltv_id="BR Fernsehen Süd">BR Fernsehen Süd</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.fb545e1d-357a-4d59-abb3-2a84f58511d2" xmltv_id="MDR Sachsen HD">MDR Sachsen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.fcdc1682-cdb2-4858-b88a-fb23651ac068" xmltv_id="RBB Berlin Fernsehen HD">RBB Berlin Fernsehen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.398127d2-e901-4641-9498-bc9d0bbdb113" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b36636ba-d2dd-4c68-b3c4-aec8b47d833e" xmltv_id="SWR Fernsehen RP HD">SWR Fernsehen RP HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e64a75b8-80bc-4f84-8dac-f9206c82ced8" xmltv_id="BR Fernsehen Nord">BR Fernsehen Nord</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7d0a72d3-8322-45af-b94a-d26340a86a41" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.bd6a303e-33fe-4386-9e03-ce79b2831bb9" xmltv_id="Radio Bremen HD">Radio Bremen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.9ee17f66-f1f8-4fa8-9674-30ab3b3e77fe" xmltv_id="NDR Fernsehen HH HD">NDR Fernsehen HH HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.c29359c4-937b-4869-9135-1bfbaad67d97" xmltv_id="MDR Sachsen-Anhalt HD">MDR Sachsen-Anhalt HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.11834d88-50ef-4b47-a14b-cd384885de1d" xmltv_id="SWR Fernsehen BW HD">SWR Fernsehen BW HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8e103b60-2c20-46db-a3ff-3f69503812b2" xmltv_id="RBB Brandenburg HD">RBB Brandenburg HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.07121ad5-ca6a-4b96-abb2-659d8806a0ac" xmltv_id="NDR Fernsehen SH HD">NDR Fernsehen SH HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b0aba4fc-1fbd-4e04-acb4-fa70da18d81e" xmltv_id="WDR Aachen HD">WDR Aachen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.39502075-e277-41e4-b4e5-2ab7ef09c771" xmltv_id="MDR Thüringen HD">MDR Thüringen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.ef6c7ffd-12d1-478f-b4ba-f97c2ac2e8f4" xmltv_id="NDR Fernsehen MV HD">NDR Fernsehen MV HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.42b9bf26-62a1-0256-6ccf-a7c766e140ae" xmltv_id="GEO HD DE">GEO HD DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.66a9e5d0-8783-4627-9a31-6ca91490d14b" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.38a2a61c-cfe3-4da9-9a1d-3d15ba348c26" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6a1a51ea-a624-49bb-b350-ec5b4740a1f3" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.be1a7f49-4673-4fc0-ab09-a080a8df3463" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.a13e4a3d-a739-4359-9ec0-1444985ea6e4" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.bdac5b35-38b4-46ba-b325-24e698e5a970" xmltv_id="Tele5 HD">Tele5 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.9b7a8e2d-e719-43e4-b53e-ee8126ba7c47" xmltv_id="TLC HD">TLC HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6b4b5c91-9e86-4aaa-b862-fb1f0602eaf2" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7c0490f1-1e95-4e95-b36a-f1cbc84888db" xmltv_id="Crime + Investigation Play">Crime + Investigation Play</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7ab99481-62be-5d89-8955-d0ace574594c" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.70b99482-4026-09bf-aed1-09071ac78138" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.eeccabd2-d749-4eba-a1bf-89a35e02c9e7" xmltv_id="MLB">MLB</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b581f232-c3a9-41e5-95fa-ff91d56d1dc6" xmltv_id="NBA">NBA</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.bba59f38-e65a-4fa6-831a-58eb40a1b5fb" xmltv_id="Yu-Gi-Oh!">Yu-Gi-Oh!</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6ea107bc-c99d-4da2-b584-8f938c7994df" xmltv_id="Ein Engel auf Erden">Ein Engel auf Erden</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1fc68662-9516-4186-852b-a352f7166302" xmltv_id="TOP FILME">TOP FILME</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.a6a92e43-0943-49ca-a07a-88a460c0b9fe" xmltv_id="DEFA TV">DEFA TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.9547a5c6-7634-4893-8a65-93c7eec40fbe" xmltv_id="Grjngo - Westernfilme">Grjngo - Westernfilme</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.804c6e58-96a9-4e84-8c01-0198b4bd89a1" xmltv_id="Dateline 24/7">Dateline 24/7</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7ee6800e-467d-4fda-acd5-7a205ec0b0ca" xmltv_id="Tennis Channel">Tennis Channel</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.eb33efed-96c4-4aaf-88a4-ab75b52e3f4e" xmltv_id="Comedy &amp; Shows">Comedy &amp; Shows</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.fa056f0a-8f54-4de9-9304-f1d02ff8c0cf" xmltv_id="Ironside">Ironside</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6be8ff05-2d2d-427d-9716-ec97ec98ddff" xmltv_id="Unsolved Mysteries">Unsolved Mysteries</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.5de4b92b-da09-4247-a7f6-d51a5f3c84e8" xmltv_id="Just Fishing">Just Fishing</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.9ff5c0ce-2455-499b-84eb-f62debb6966d" xmltv_id="FILMGOLD">FILMGOLD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.a6033585-1138-4dbe-9451-d68d01a5e1ab" xmltv_id="Stars in Gefahr">Stars in Gefahr</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.5d142246-6817-473d-9795-f7e7dbe5c830" xmltv_id="BBC Food">BBC Food</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1ca79b44-1832-44c8-9898-8e5e4f1f1e58" xmltv_id="BBC Travel">BBC Travel</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7633031c-661b-400b-a811-86bba3f73f18" xmltv_id="CNN Fast DE">CNN Fast DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.99288a1e-1388-463c-a13a-9a2be60cc18b" xmltv_id="Fail Army DE">Fail Army DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8c534ed8-6291-4154-bf78-d12d928de9df" xmltv_id="Moviedome">Moviedome</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.256ebe55-a9f7-46fe-aa11-51e15f47efe2" xmltv_id="Natur">Natur</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.787acf1b-3100-4ddd-a54c-c9650e495979" xmltv_id="Vevo Schlager Pop">Vevo Schlager Pop</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.2d5952d8-5e34-4044-b22e-4157d8d4c5a0" xmltv_id="American Crimes">American Crimes</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.ed5af828-ddd2-49c0-bd51-bec977ed0eba" xmltv_id="The Real Housewives">The Real Housewives</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.f72decda-cba4-4838-9088-7880b561ae96" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1bd677df-d4f9-46ea-a72c-4ce36bf1db76" xmltv_id="Bionic Woman">Bionic Woman</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.afbf7034-9021-4611-bf00-2197f11b495e" xmltv_id="Judy Justice">Judy Justice</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.f1d1f614-ca67-4945-9dfb-66ed45587f55" xmltv_id="CURIOSITY Now">CURIOSITY Now</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7aab5857-e568-4041-8cfd-7f085b0943aa" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e9b679d6-a251-47db-b81d-98262d3084ee" xmltv_id="Deluxe Dance by Kontor">Deluxe Dance by Kontor</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.07973036-644c-44ef-bdc4-46f47c2c780f" xmltv_id="Love The Planet">Love The Planet</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.84bfd2ea-713f-4774-914a-a5cb15cf0cb9" xmltv_id="NBC News NOW">NBC News NOW</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.0617a7f6-2afa-4122-bbc4-1344cf22dd0f" xmltv_id="NOW ROCK">NOW ROCK</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.4e50d3f4-ccda-4a17-a796-f759bb855863" xmltv_id="MV Classic">MV Classic</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.da2f8fe5-3a80-4b39-913e-5fc1881eb187" xmltv_id="Strongman Champions League">Strongman Champions League</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.60240911-d8a1-4b11-a77d-51125072e203" xmltv_id="Vevo Pop">Vevo Pop</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b12a86d8-578d-4c4e-9f81-b80609a3d26a" xmltv_id="Just.Cooking">Just.Cooking</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.46315db9-941c-4b5b-8411-43f5138ed38d" xmltv_id="Dr. G: Medical Examiner">Dr. G: Medical Examiner</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6c6a7168-c0bb-431d-83ea-e77d760ba615" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1b97bb49-e270-4498-9823-421209d078d9" xmltv_id="MagellanTV Now">MagellanTV Now</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.14b39b90-2bd9-41a5-b0ce-4f8be2adf94e" xmltv_id="Turk on Video">Turk on Video</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.37f0eacb-189f-4450-8ecb-8ecbf8f152a7" xmltv_id="Euronews Deutsch">Euronews Deutsch</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.cd84eca1-fd2e-4dad-9d24-be1208f4d106" xmltv_id="FilmRise Binge Watch">FilmRise Binge Watch</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.032ece00-0c46-4dd5-881b-6c0225377fc3" xmltv_id="Bloomberg TV+">Bloomberg TV+</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.01d7a493-b607-4d32-9321-a82006b29019" xmltv_id="MOTORVISION.TV">MOTORVISION.TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.7edccc45-0df4-466e-8402-ffad3dff2524" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.ad876548-85a0-43fa-b5b0-5f08d0ce541d" xmltv_id="World's Wildest Police Videos">World's Wildest Police Videos</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6caa64a4-6ed2-446b-b746-e12b71651712" xmltv_id="Craction TV HD">Craction TV HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.581e04c8-ce6f-45e0-a139-8434f01cddde" xmltv_id="Made in Chelsea">Made in Chelsea</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1094040c-ab4a-454f-8587-676e9d291588" xmltv_id="MAVTV International">MAVTV International</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.ce6c589f-0394-43d3-bad8-b6db10c9328a" xmltv_id="Top Chef">Top Chef</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.21a00d59-4099-4ee7-b6fe-b6fbfb0b017d" xmltv_id="Trailers">Trailers</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.c090b81a-4f79-4c9a-a17f-7a2a873e9618" xmltv_id="Deluxe Flashback">Deluxe Flashback</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.09045b10-e06e-48cc-a374-5dadacf67eb0" xmltv_id="Hot Ones">Hot Ones</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.79bbd3b0-af2e-4fb0-a883-c9dafc369e7b" xmltv_id="Bloomberg Originals">Bloomberg Originals</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e91a934b-97a5-4cca-bfb0-fafffb32a895" xmltv_id="ARD Plus Lindenstraße">ARD Plus Lindenstraße</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.908ed1c3-d417-4eb1-b039-c1df50cfb1d6" xmltv_id="WDR Wuppertal HD">WDR Wuppertal HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.8898a914-65ac-4c9e-88fe-e98f13d80842" xmltv_id="WDR Bielefeld HD">WDR Bielefeld HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.edb64144-e47f-475b-bf0e-dec89160b0ac" xmltv_id="WDR Siegen HD">WDR Siegen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.a9ba54bd-ee5d-4064-aaf8-b88c56a0147e" xmltv_id="WDR Dortmund HD">WDR Dortmund HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e2c9988e-1e5f-4753-bd1f-cf181d0bdfcf" xmltv_id="WDR Münster HD">WDR Münster HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.bc784809-540a-4c19-a9f1-dfcecd62ec28" xmltv_id="WDR Düsseldorf HD">WDR Düsseldorf HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.4c6a71ba-e36f-49a3-9fa9-29f1e12d3172" xmltv_id="WDR Bonn HD">WDR Bonn HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.db7131cf-9397-4dea-ad9a-fa3bd6e2f497" xmltv_id="WDR Essen HD">WDR Essen HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.f77a4f74-8b08-4ad1-9f9c-017e57297664" xmltv_id="WDR Duisburg HD">WDR Duisburg HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.58730efc-f53c-4bad-84cb-d9dfe5f1be95" xmltv_id="Welt HD">Welt HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.3093d40b-fbe2-4923-95b3-12988f03700f" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.80d721c3-a869-4db3-9304-c0b515383531" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b5a47549-11a4-4203-91da-3eb5fc0c054d" xmltv_id="PHOENIX HD">PHOENIX HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.1cacc147-b442-4b19-aca5-cfce3542499a" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.d311c155-eaa3-4d86-80b6-38b22146b26f" xmltv_id="one HD">one HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.fbff4871-3c33-471c-83b7-87ff9187b91c" xmltv_id="ARTE HD">ARTE HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b9fb776c-9f8b-42c4-adcc-1063a9d1aeea" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.60bee74a-e4ef-44f0-839d-b4c757b43fd3" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.9471b6f6-f97e-41a7-b92f-3f31a0c3f776" xmltv_id="ARD-alpha HD">ARD-alpha HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.38a2a61c-cfe3-4da9-9a1d-3d15ba348c26" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.be1a7f49-4673-4fc0-ab09-a080a8df3463" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.3ebaba0d-7971-730e-cbe1-c282bc41a863" xmltv_id="esportsONE">esportsONE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.56b8b077-718f-7632-f6ae-fa2361611a9c" xmltv_id="Fix&amp;Foxi TV">Fix&amp;Foxi TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.42b9bf26-62a1-0256-6ccf-a7c766e140ae" xmltv_id="GEO HD DE">GEO HD DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e2b9c1a3-d349-15b3-ea2c-bfbf43c3b99e" xmltv_id="Gute Laune">Gute Laune</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.dba7cc68-fe52-4b96-847a-b0215a8748e7" xmltv_id="History Play">History Play</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.dab9c1b5-1ee0-a824-2bda-76466f8cb47f" xmltv_id="H&amp;C TV">H&amp;C TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.a0bb363b-4321-b96a-d31d-3bfdaaae599c" xmltv_id="Kabel Eins CLASSICS HD">Kabel Eins CLASSICS HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.e4b9c1a4-037c-96d9-23b5-656be73ea12c" xmltv_id="RTL Living">RTL Living</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.70b9c1da-5944-67b7-a6c7-c44b834ded79" xmltv_id="Motorvision HD DE">Motorvision HD DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.50b9c1d4-fd81-2320-33ba-369f4db82ad7" xmltv_id="MTV+">MTV+</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.b6b9e5ad-9072-e0a9-114c-0c7e7792f997" xmltv_id="Nautical Channel DE">Nautical Channel DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.6d71eabc-8228-41b6-a3ff-d114368a1349" xmltv_id="NFL Network">NFL Network</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.94ba815a-ff96-d650-ede4-f430ffe01662" xmltv_id="OUTtv">OUTtv</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.60bb26db-414a-cbd5-1606-79248ec08070" xmltv_id="Kabel Eins CLASSICS HD">Kabel Eins CLASSICS HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.40bb0d16-914e-3585-a3fb-7bafeaf7f4f5" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.54bb0d17-af69-0e10-81de-8e3637bcd38c" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.daba71d2-f984-aeae-5b47-7ef2f818014b" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.44b9c1b6-1617-31a1-1cad-c5a4e5821d90" xmltv_id="Romance TV">Romance TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.48b9c1b5-7a2c-b2f8-1bb3-240c62d76ff2" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.deb9c1a3-be2f-f692-e60d-b5c58dba28c1" xmltv_id="Goldstar TV">Goldstar TV</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.32b9c1b5-aef1-6bf2-a00b-07b2903fa05e" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.beba051f-3a44-16ef-51dd-7772d1e7bd81" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.5aba7e6e-2616-be48-a7c9-67e821d04385" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.06b9c1da-718b-730d-d92f-c4e28e976826" xmltv_id="Silverline TV HD DE">Silverline TV HD DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.aeb9c1b5-f1c4-36fb-e000-5f1396c4cbd1" xmltv_id="Sportdigital HD DE">Sportdigital HD DE</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.aeb9c1d5-3fec-32ae-9f87-f175a5874bbb" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.d1eb397e-8c0e-4163-88b0-c1fdff1bb9ab" xmltv_id="TV 1000 Russian Kino">TV 1000 Russian Kino</channel>
+    <channel site="[ENC]amazon.de_0" site_id="amzn1\.dv\.gti\.0eb9c1b6-264f-4774-3e67-81d96f9a5654" xmltv_id="Bergblick">Bergblick</channel>
+  </channels>
+</site>
