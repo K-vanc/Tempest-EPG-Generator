@@ -1,32 +1,34 @@
 Code => Location
-satSatellite=2&satLineup=55&satLineupName=13°E. Arabesque => 13°E. Arabesque
-satSatellite=2&satLineup=58&satLineupName=13°E. Farsi => 13°E. Farsi
-satSatellite=2&satLineup=53&satLineupName=13°E. International => 13°E. International
-satSatellite=2&satLineup=57&satLineupName=13°E. Italia => 13°E. Italia
-satSatellite=2&satLineup=54&satLineupName=13°E. Maroc => 13°E. Maroc
-satSatellite=2&satLineup=56&satLineupName=13°E. Slav => 13°E. Slav
-satSatellite=1&satLineup=48&satLineupName=7°W. Algérie => 7°W. Algérie
-satSatellite=1&satLineup=44&satLineupName=7°W. Bahrain => 7°W. Bahrain
-satSatellite=1&satLineup=42&satLineupName=7°W. Egypt => 7°W. Egypt
-satSatellite=1&satLineup=39&satLineupName=7°W. Iraq => 7°W. Iraq
-satSatellite=1&satLineup=37&satLineupName=7°W. Jordan => 7°W. Jordan
-satSatellite=1&satLineup=38&satLineupName=7°W. KSA => 7°W. KSA
-satSatellite=1&satLineup=68&satLineupName=7°W. Kurdish => 7°W. Kurdish
-satSatellite=1&satLineup=47&satLineupName=7°W. Kuwait => 7°W. Kuwait
-satSatellite=1&satLineup=41&satLineupName=7°W. Libya => 7°W. Libya
-satSatellite=1&satLineup=49&satLineupName=7°W. Maroc => 7°W. Maroc
-satSatellite=1&satLineup=46&satLineupName=7°W. Oman => 7°W. Oman
-satSatellite=1&satLineup=35&satLineupName=7°W. Palestine => 7°W. Palestine
-satSatellite=1&satLineup=43&satLineupName=7°W. Qatar => 7°W. Qatar
-satSatellite=1&satLineup=45&satLineupName=7°W. Sudan => 7°W. Sudan
-satSatellite=1&satLineup=50&satLineupName=7°W. Tunisie => 7°W. Tunisie
-satSatellite=1&satLineup=71&satLineupName=7°W. UAE => 7°W. UAE
-satSatellite=1&satLineup=40&satLineupName=7°W. Yemen => 7°W. Yemen
-satSatellite=1&satLineup=72&satLineupName=7°W.z Best-Of Maghreb => 7°W.z Best-Of Maghreb
-satSatellite=1&satLineup=33&satLineupName=7°W.z Best-Of Mashreq => 7°W.z Best-Of Mashreq
-satSatellite=8&satLineup=62&satLineupName=Benin First => Benin First
-satSatellite=8&satLineup=63&satLineupName=Cameroon First => Cameroon First
-satSatellite=8&satLineup=64&satLineupName=Côte dIvoire First' => Côte d'Ivoire First
-satSatellite=8&satLineup=65&satLineupName=Nigeria First => Nigeria First
-satSatellite=8&satLineup=66&satLineupName=Sénégal First => Sénégal First
-satSatellite=8&satLineup=67&satLineupName=Togo First => Togo First
+lineupId=55&sateliteId=2 => 13°E. Arabesque
+lineupId=58&sateliteId=2 => 13°E. Farsi
+lineupId=53&sateliteId=2 => 13°E. International
+lineupId=57&sateliteId=2 => 13°E. Italia
+lineupId=54&sateliteId=2 => 13°E. Maroc
+lineupId=56&sateliteId=2 => 13°E. Slav
+lineupId=48&sateliteId=1 => 7°W. Algérie
+lineupId=44&sateliteId=1 => 7°W. Bahrain
+lineupId=42&sateliteId=1 => 7°W. Egypt
+lineupId=39&sateliteId=1 => 7°W. Iraq
+lineupId=37&sateliteId=1 => 7°W. Jordan
+lineupId=38&sateliteId=1 => 7°W. KSA
+lineupId=68&sateliteId=1 => 7°W. Kurdish
+lineupId=47&sateliteId=1 => 7°W. Kuwait
+lineupId=41&sateliteId=1 => 7°W. Libya
+lineupId=49&sateliteId=1 => 7°W. Maroc
+lineupId=46&sateliteId=1 => 7°W. Oman
+lineupId=35&sateliteId=1 => 7°W. Palestine
+lineupId=43&sateliteId=1 => 7°W. Qatar
+lineupId=45&sateliteId=1 => 7°W. Sudan
+lineupId=50&sateliteId=1 => 7°W. Tunisie
+lineupId=71&sateliteId=1 => 7°W. UAE
+lineupId=40&sateliteId=1 => 7°W. Yemen
+lineupId=72&sateliteId=1 => 7°W.z Best-Of Maghreb
+lineupId=33&sateliteId=1 => 7°W.z Best-Of Mashreq
+lineupId=1&sateliteId=1 => 8°W. Ethiopia
+lineupId=62&sateliteId=8 => Benin First
+lineupId=63&sateliteId=8 => Cameroon First
+lineupId=70&sateliteId=8 => Channel Sat 16°E
+lineupId=64&sateliteId=8 => Côte d'Ivoire First
+lineupId=65&sateliteId=8 => Nigeria First
+lineupId=66&sateliteId=8 => Sénégal First
+lineupId=67&sateliteId=8 => Togo First
