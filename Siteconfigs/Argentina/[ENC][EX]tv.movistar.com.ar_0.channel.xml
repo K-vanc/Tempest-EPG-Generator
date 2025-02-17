@@ -3,42 +3,46 @@
   <channels>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4049||00/08/00/8005555_950265F10D883D1D" xmltv_id="MOVISTAR EVENTOS">MOVISTAR EVENTOS</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3339||00/07/10/7101319_25A34BE6DD68A865" xmltv_id="AMERICA TV">AMERICA TV</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4004||00/07/10/7101319_25A34BE6DD68A865" xmltv_id="AMERICA TV INTERIOR">AMERICA TV INTERIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4004||00/07/10/7101319_25A34BE6DD68A865" xmltv_id="AMERICA TV">AMERICA TV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3075||00/08/55/8553068_D6D158BB68912AE8" xmltv_id="TV PUBLICA">TV PUBLICA</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4003||00/06/38/6381804_2B15D05A9936E534" xmltv_id="CANAL 9 INTERIOR">CANAL 9 INTERIOR</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3077||00/06/38/6381804_2B15D05A9936E534" xmltv_id="CANAL 9">CANAL 9</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4003||00/06/38/6381804_2B15D05A9936E534" xmltv_id="EL NUEVE">EL NUEVE</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3077||00/06/38/6381804_2B15D05A9936E534" xmltv_id="EL NUEVE">EL NUEVE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3346||00/06/38/6381808_4A544D899561B19D" xmltv_id="TELEFE">TELEFE</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4005||00/06/38/6381808_4A544D899561B19D" xmltv_id="TELEFE INTERIOR">TELEFE INTERIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4005||00/06/38/6381808_4A544D899561B19D" xmltv_id="TELEFE">TELEFE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3337||00/06/38/6381832_BC3954CFDB137829" xmltv_id="EL TRECE">EL TRECE</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4006||00/06/38/6381832_BC3954CFDB137829" xmltv_id="EL TRECE INTERIOR">EL TRECE INTERIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4006||00/06/38/6381832_BC3954CFDB137829" xmltv_id="EL TRECE">EL TRECE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3983||00/06/38/6381833_5B3C4F58AE6E0677" xmltv_id="NET TV">NET TV</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4000||00/06/40/6402021_53BA7B7247B180B9" xmltv_id="TELEFE MAR DE PLATA">TELEFE MAR DE PLATA</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3982||00/06/40/6404401_F899B254646567AB" xmltv_id="10 MDP">10 MDP</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3996||00/06/40/6400762_66612E7C83C97929" xmltv_id="CANAL SIETE BAHIA BLANCA">CANAL SIETE BAHIA BLANCA</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4000||00/14/64/14645206_371CE8B287D53819" xmltv_id="Canal 8 Mar del Plata">Canal 8 Mar del Plata</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3982||00/14/64/14645210_ABB66AD58CEFDEB0" xmltv_id="Canal 10 Mar del Plata">Canal 10 Mar del Plata</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3996||00/06/40/6400762_66612E7C83C97929" xmltv_id="CANAL 7 BAHIA BLANCA">CANAL 7 BAHIA BLANCA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3999||00/06/40/6402022_25A33B40AC2900A5" xmltv_id="TELEFE BAHIA BLANCA">TELEFE BAHIA BLANCA</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3997||00/06/40/6400753_B4E5C0ED286A28BF" xmltv_id="CANAL 6 BARILOCHE">CANAL 6 BARILOCHE</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3997||00/14/64/14645208_8B1B738402A7C2ED" xmltv_id="El Seis TV">El Seis TV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4001||00/06/40/6402162_B1DE14068F81635B" xmltv_id="TELEFE NEUQUEN">TELEFE NEUQUEN</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3994||00/06/40/6400878_96A36529A408888D" xmltv_id="CANAL 10 RIO NEGRO">CANAL 10 RIO NEGRO</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3979||00/07/64/7642543_A2AAE67E4B9D95C0" xmltv_id="TELEVIDA">TELEVIDA</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3979||00/07/64/7642543_A2AAE67E4B9D95C0" xmltv_id="CANAL 9 TELEVIDA">CANAL 9 TELEVIDA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3338||00/06/40/6400308_5A6EF6EEE65C4E00" xmltv_id="TN">TN</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3267||00/06/40/6400309_9F0118DA586C4A47" xmltv_id="LA NACION+">LA NACION+</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3340||00/06/40/6400310_3E09964137D82DD8" xmltv_id="C5N">C5N</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6358||00/15/84/15847196_4FA744452D8FB1D2" xmltv_id="Canal 26">Canal 26</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3079||00/06/40/6400315_E8922F54D15F9CFF" xmltv_id="CRONICA TV">CRONICA TV</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3805||00/06/37/6375147_DCF13A1DBBEA9B96" xmltv_id="A24">A24</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3805||00/14/68/14680040_8B9101239A91DECA" xmltv_id="A24">A24</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6467||00/16/02/16020862_BDCCC41B1D0CC29F" xmltv_id="IP noticias">IP noticias</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6601||00/17/92/17925927_FAADA89EEF849956" xmltv_id="Canal de la Ciudad">Canal de la Ciudad</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6602||00/17/92/17925923_26043AADE7FB4C2F" xmltv_id="Extra!">Extra!</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6283||00/14/01/14012183_8B4476B31259733C" xmltv_id="Fútbol 4k">Fútbol 4k</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3175||00/06/38/6383309_6BDEDCF4D8E84A20" xmltv_id="ESPN">ESPN</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3125||00/06/38/6383310_007CE9E18A928D1C" xmltv_id="ESPN 2">ESPN 2</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3124||00/06/38/6383311_78D38321059792D4" xmltv_id="ESPN 3">ESPN 3</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3179||00/11/46/11469886_D6DB7B0A33033721" xmltv_id="ESPN EXTRA HD">ESPN EXTRA HD</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3280||00/06/40/6400459_15FE41ED6100F0AA" xmltv_id="FOX SPORTS ARGENTINA">FOX SPORTS ARGENTINA</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3320||00/06/40/6400460_CFCF7C91055A9854" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3308||00/06/40/6400461_87A7107EB8B5D8EB" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3179||00/10/11/10113696_046392A4A17B42D1" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3280||00/14/76/14762806_D25227DC38187AF8" xmltv_id="FOX SPORTS ARGENTINA">FOX SPORTS ARGENTINA</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3320||00/14/76/14762809_6985FCABA34A735C" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3308||00/14/76/14762812_C0C892604936C230" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3356||00/06/40/6400462_2AFBF9F7540F0649" xmltv_id="TYC SPORTS">TYC SPORTS</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3266||00/06/40/6400463_C6FAEB7096D6762E" xmltv_id="EL GARAGE">EL GARAGE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3899||00/08/55/8553086_B6209E2BDA499ED5" xmltv_id="DXTV">DXTV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3895||00/06/40/6400496_F73CF76E891B89F0" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6240||00/12/97/12970391_75E72BE0E9D4FCDB" xmltv_id="PX Sports">PX Sports</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3349||00/08/18/8181716_59A0405C49CE6F60" xmltv_id="TNT SPORTS">TNT SPORTS</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3349||00/19/88/19883886_1FA23F7ED286C925" xmltv_id="TNT SPORTS PREMIUM">TNT SPORTS PREMIUM</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3281||00/11/00/11002400_AD584A58C7FE9D78" xmltv_id="ESPN PREMIUM">ESPN PREMIUM</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3123||00/06/40/6400603_DE0CBB7B732B556A" xmltv_id="CINEMAX">CINEMAX</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3269||00/06/38/6381761_1B6CA9B0AAD15C8F" xmltv_id="CINECANAL">CINECANAL</channel>
@@ -46,18 +50,19 @@
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3307||00/06/84/6840720_AEB0D89DD5B9FA4C" xmltv_id="PARAMOUNT CHANNEL">PARAMOUNT CHANNEL</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3351||00/06/38/6381762_3BCDE7B21593DCAF" xmltv_id="TNT">TNT</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3804||00/06/40/6400731_E128D3642BB30828" xmltv_id="CINEARTV">CINEARTV</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3354||00/06/40/6400732_6B83DE7BC4E294EE" xmltv_id="I-SAT">I-SAT</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3317||00/06/40/6400745_DED2A560408C223A" xmltv_id="SPACE">SPACE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3348||00/06/31/6310574_FDBA1F86CF41A989" xmltv_id="TCM">TCM</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3358||00/06/59/6590543_006D4CC6C7A47333" xmltv_id="SY FY">SY FY</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3358||00/17/09/17091545_78A592EDE18A07F3" xmltv_id="USA">USA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3891||00/06/40/6400751_E41653205B0DF616" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3440||00/06/38/6381763_D30E6D2578217102" xmltv_id="DHE">DHE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3869||00/06/40/6400752_0371B287B8F142E7" xmltv_id="VOLVER">VOLVER</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3984||00/06/40/6400877_2A9597A863DAD7FE" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6330||00/18/72/18729186_B6FD093468B00D17" xmltv_id="DISNEY+">DISNEY+</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4109||00/07/37/7379376_50E658598C23E6A9" xmltv_id="PRIME VIDEO">PRIME VIDEO</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3685||00/06/40/6402023_DC784CF1CDFFAF9F" xmltv_id="NETFLIX">NETFLIX</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4110||00/07/37/7379393_79AD3AACD52CED5E" xmltv_id="YOUTUBE">YOUTUBE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3173||00/06/40/6402025_7930297E846EF33B" xmltv_id="WARNER CHANNEL">WARNER CHANNEL</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6603||00/17/23/17237717_B1A70FD338292FD7" xmltv_id="Adult Swim">Adult Swim</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3178||00/06/40/6402029_63C699E0EA1EFEB6" xmltv_id="SONY">SONY</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3802||00/06/40/6402102_E78633969AA98172" xmltv_id="UNIVERSAL CHANNEL">UNIVERSAL CHANNEL</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3321||00/06/40/6402129_A027CB53A4AC65D9" xmltv_id="FX">FX</channel>
@@ -66,7 +71,7 @@
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3177||00/06/40/6402156_509AFA5B12D1E5F9" xmltv_id="AXN">AXN</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3900||00/07/26/7265849_80A656F053F25772" xmltv_id="ATRES SERIES">ATRES SERIES</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3078||00/06/40/6402239_07A2116C922FFD68" xmltv_id="ANTENA3">ANTENA3</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3318||00/06/40/6402241_B526D1E51A3EBFCD" xmltv_id="TBS VERY FUNNY">TBS VERY FUNNY</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3318||00/16/30/16305194_D5CFEB8AE2E5DF97" xmltv_id="TNT NOVELAS">TNT NOVELAS</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3310||00/06/40/6402245_C6769A3F09CF8D21" xmltv_id="COMEDY CENTRAL">COMEDY CENTRAL</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3896||00/07/52/7522972_D23BD84A0800ADB3" xmltv_id="ID - INVESTIGATION DISCOVERY">ID - INVESTIGATION DISCOVERY</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3993||00/06/40/6404400_715F24BDA274C0D1" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
@@ -80,17 +85,18 @@
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3120||00/06/57/6576353_680306081B40EE38" xmltv_id="HBO XTREME">HBO XTREME</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3129||00/06/57/6576553_D50CDAAE95539E82" xmltv_id="HBO POP">HBO POP</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3328||00/06/40/6404284_14348DA622E37938" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3329||00/06/40/6404285_B2AAA26F953BA65C" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3329||00/20/54/20544323_5E61E75CEC146AC2" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6465||00/12/05/12057052_0E48540238BA94F2" xmltv_id="Teen Nick">Teen Nick</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3363||00/06/40/6404287_505AB80A6A512184" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH7075||00/20/94/20940290_7E2D594EFA7210EF" xmltv_id="Plim Plim">Plim Plim</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3270||00/06/40/6404289_0FC3658188313098" xmltv_id="BABY TV">BABY TV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3353||00/10/11/10113697_F122B11142813549" xmltv_id="CARTOONITO">CARTOONITO</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3305||00/06/40/6404291_317D0944FCAE9FC2" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3306||00/06/40/6404292_3B9E6CB449FA9F91" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3306||00/17/01/17017608_4C5D4CC83128FE7B" xmltv_id="NICKELODEON">NICKELODEON</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3304||00/06/40/6404293_8FA593EEBEDAE2FA" xmltv_id="NICK JR">NICK JR</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3071||00/08/55/8552837_25516693D24CBD22" xmltv_id="PAKA PAKA">PAKA PAKA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3990||00/06/40/6404296_E5D89B4533D93187" xmltv_id="TOONCAST">TOONCAST</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH5662||00/06/40/6404297_D3595E14CA66DB9C" xmltv_id="CLAN">CLAN</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH4111||00/07/37/7379399_DAB3DF3AEB20B9EA" xmltv_id="YOUTUBE KIDS">YOUTUBE KIDS</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3364||00/06/40/6404318_A08760A31E4E9381" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3950||00/06/50/6502145_B26126E65BFB4AE2" xmltv_id="DISCOVERY HOME &amp; GARDEN">DISCOVERY HOME &amp; GARDEN</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3980||00/08/61/8615292_8817353627981150" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
@@ -112,14 +118,16 @@
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3361||00/06/40/6402312_68949CE70680FAF0" xmltv_id="CANAL A">CANAL A</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3282||00/06/40/6402311_E32FDB9336BD052C" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3369||00/06/40/6402313_D9A79EF3E3617BE3" xmltv_id="MAGAZINE">MAGAZINE</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6935||00/18/37/18379887_E38CBE94D50CAFF3" xmltv_id="Daystar">Daystar</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH7072||00/20/94/20940288_53AE318A7CE85457" xmltv_id="Canal Rural">Canal Rural</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3303||00/06/31/6310601_CDA7FB49C0753B8E" xmltv_id="MTV">MTV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3350||00/06/40/6402303_A33849F933ADA8BD" xmltv_id="HTV">HTV</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3265||00/06/40/6402302_A6E252AADDC22E7C" xmltv_id="CANAL DE LA MUSICA">CANAL DE LA MUSICA</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3868||00/06/40/6402301_14F161C61FDFC4CC" xmltv_id="QUIERO">QUIERO</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3332||00/06/40/6402296_5AB7CDED212147A6" xmltv_id="MUCH MUSIC">MUCH MUSIC</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH6466||00/16/04/16047161_7791D43C2BB5F0AA" xmltv_id="MTV 80's">MTV 80's</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3347||00/06/40/6402293_ED7DBFA4CA85ED1C" xmltv_id="CNN ESPAÑOL">CNN ESPAÑOL</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3989||00/06/40/6402269_E7AF95BCD440D5F8" xmltv_id="CNN INTERNACIONAL">CNN INTERNACIONAL</channel>
-    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3076||00/06/40/6402267_10F67C8B002B5AFD" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
+    <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3076||00/15/84/15847198_6C5566D38363CFF0" xmltv_id="BBC WORLD NEWS">BBC WORLD NEWS</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3341||00/06/40/6402264_186EC7A7F1EE50AC" xmltv_id="TVE">TVE</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3987||00/06/40/6402262_33A4B87EBEB7184B" xmltv_id="RAI">RAI</channel>
     <channel site="[ENC][EX]tv.movistar.com.ar_0" site_id="LCH3998||00/10/55/10556464_3D6C22687C8DF537" xmltv_id="F24">F24</channel>
