@@ -1,113 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]xem.kplus.vn[vi]_0">
   <channels>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf" xmltv_id="K+SPORT1 HD">K+SPORT1 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ey17wMFjt6D8td1O8jcUFhlxREBkNJQx_kBpxYTy" xmltv_id="K+SPORT2 HD">K+SPORT2 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SkN-2L927m406yAOItuE_ELNLEq49ZjNAbTp-enW" xmltv_id="K+CINE HD">K+CINE HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="a86jLEdKExN2kgLJUio_uzqr7h5me_Ir1DCmXQDy" xmltv_id="K+ACTION">K+ACTION</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="F31WvdXdwYNOInUaTeIC-ixsLQVsrSNgUczDSFCN" xmltv_id="K+KIDS HD">K+KIDS HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="WBSb0vxfNmLVmW814CFu_4CAeEukAj5QxKHd9JwV" xmltv_id="VTV1 HD">VTV1 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dDmD0toCd6WBZ9_JIh--ksBTHtpKRN7lVfb-3eHw" xmltv_id="VTV3 HD">VTV3 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SWn4bdB-AvlQS717rv7HJJDFa5QFttkc3F_aaw1p" xmltv_id="VTV CAN THO">VTV CAN THO</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="MXcPi2XP6u2o6rR2NwDcYXf1iB3hrddykkrnN_qT" xmltv_id="ON SPORTS NEWS HD">ON SPORTS NEWS HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="03yiXEYHdpRJKOeI8Y7iXLjzKjrFuCYCGgjPm8qW" xmltv_id="ON FOOTBALL">ON FOOTBALL</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="GYr7KKu9mouGRs8laZSk5dO4T-PHsgNBGTMkBXHQ" xmltv_id="ON SPORTS">ON SPORTS</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="9jB8eRpGRgp3pe37j8LUIfzi65no02me62P5e0Ys" xmltv_id="ON SP0RTS+">ON SP0RTS+</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="W5p8R3WPMSHBdOs7w9uGRmpoUEUfcFlzLr2v8axR" xmltv_id="ON GOLF HD">ON GOLF HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="yAtZc2r_rfTkgaEvVOOPxdh7Ft3_PKMgfArygdW6" xmltv_id="HTV THE THAO HD">HTV THE THAO HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="tJI5BT8LyuIlRx2To9jkMlM0pkM6GXskLCcPte0N" xmltv_id="ANTV">ANTV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ybegXuFLazWOcImTDLYy9LVRmH6x4YdSAWG-RErQ" xmltv_id="VNEWS TTXVN">VNEWS TTXVN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="0QLVCGV6d83eNSdVsQ0GIolP3i2YmHon-OcMciKe" xmltv_id="QUOC PHONG TV">QUOC PHONG TV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Gcl5_azFo8ixmd2VVdoN64YexrOUn4DBcr-WDgom" xmltv_id="VTC1">VTC1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="nN2eSin8XPiCfu3JFFlM3mGNFN08qUGzSszxH_in" xmltv_id="NHAN DAN">NHAN DAN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="m3VIMe5hCI2_0QdpqE8xLUDe3lKY3CuyCavl7Iq1" xmltv_id="QUOC HOI TV">QUOC HOI TV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="m-NLV0C-cMVD6laefq0sPrDbGLoDgXO1iCJMQD-O" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SBgRv8LgzajsF57upmh7MzqMPI04QUC_wnmXCjjG" xmltv_id="HBO HD">HBO HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="TwTUqV7a7S33qhCrjWZi1pN0r6LtvJReRP2Z8gAG" xmltv_id="ON PHIMVIET">ON PHIMVIET</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="pPDPKS9_I8LucOy_DFvOqRuqqmsd7BGuWYsJHHhV" xmltv_id="HTV7 HD">HTV7 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="93Fm1pt06G3XN6aYpEY5YAafKvk_MOs_6Qj57Jn9" xmltv_id="CINEMAX">CINEMAX</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="RjUg5hsjsM4_FUQBa5Z1UQpkt2iTL1HYvXnQFlVp" xmltv_id="VINH LONG 1 HD">VINH LONG 1 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="_NqZMIGgqqTheZvG1hQooIwl_TFgBJObPxcXKI8k" xmltv_id="VTV5">VTV5</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="4o9U0OncN2xNqG4W_gqjfKxy4foQxWVzwOQWDTr4" xmltv_id="HTV9 HD">HTV9 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="oNFiSa1T83qZwlqd53gWi53FcnribL1fdX7Uf5W_" xmltv_id="AXN HD">AXN HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="PoBY0ZnSExBwv5iDSVU10TVjs4sq_uGUPMoDDHsy" xmltv_id="DISCOVERY ASIA">DISCOVERY ASIA</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="2uxDB032mutX8wYIZ1cst3ToAfIXIHqmXB-AUav6" xmltv_id="K+LIVE 1">K+LIVE 1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="3wtIVGSgCa6oIbO4Q6VSCk4Bjj2vYFzr7HTB_GmH" xmltv_id="VTV2">VTV2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="aOnMTEuebaxqijNqYy6pjQw021HGe1s8uLtz8Kky" xmltv_id="CARTOONITO">CARTOONITO</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="iVQgjD1LNzmyYc_94mtja_3-pMt6Hnc0dfvETBSe" xmltv_id="DISCOVERY">DISCOVERY</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="He1HcrKA62AEEmNQyFy8dFa2zEY4JOuHe4JhwDcl" xmltv_id="SCTV9">SCTV9</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="uRY9Lhx566fKPuaLWcjs55wo_u2yIAkDFcE7F7J6" xmltv_id="HTV3">HTV3</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="OfTbJdMN03T3CZRFwyZQgNW6ua90RCS7iZhlz7M6" xmltv_id="SCTV PHIMTONGHOP">SCTV PHIMTONGHOP</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DZIm6nVLT_Fvmy5Do4OVeTpJv8p1bjFXkqnh5rsY" xmltv_id="HTV2">HTV2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="hYsakA64TnDGHRZil6qpZV64K7vkrnLTQ2maFHmY" xmltv_id="VTVCab19-VIE DRAMAS">VTVCab19-VIE DRAMAS</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="wKhpaKI9-A-gQyqq176LkLr9EjInkrMkr7agX3u9" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="kWpedZ7S9A9bIFmZxJY1jX7Vs3D7xVoDQeNxsNCH" xmltv_id="VTVCab1-VIE GIAITRI">VTVCab1-VIE GIAITRI</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="foZtrrNOW-eK41fjyhbCwuDlo3MbTzcuMYp42jLI" xmltv_id="HISTORY HD">HISTORY HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="i45m1kVAMnmurLkeiX8UkoMORH20dsUTOlTJhMPU" xmltv_id="K+LIVE 2">K+LIVE 2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Mvs0Vo9uwUmORvinb6QoPTcXRLRaFHwXBE1OWdZg" xmltv_id="BBC NEWS">BBC NEWS</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="G7N9M9bIOZm_EYYoNOSRBtXqoUc7fOzkFjsfV78N" xmltv_id="VTC7">VTC7</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="JPNfXNMnfxC4RjW4FmP503P-jCcVuLciRMadCcCB" xmltv_id="VINH LONG 2 HD">VINH LONG 2 HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="NwwR2PqSPYCc01B1dLOOdV0ZlKXGioDLYC84O-H6" xmltv_id="ON BIBI">ON BIBI</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="S2tMUo8FUa0KwojYapArN2DvaWiyPOorsHD1IwM4" xmltv_id="ON MUSIC">ON MUSIC</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="0brdJXzat6AY-5tYKnbXA6wTtMOjRlIgSSW5tvRa" xmltv_id="HAU GIANG">HAU GIANG</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6VMeiOd9rCVDO7s3lbKzKExXcHZSqbrSerbDIoYi" xmltv_id="VTV4">VTV4</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6FnSMBX5EDN7jL149tXn2MMf4dJRJLg5STfs8vEt" xmltv_id="VTV9">VTV9</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="tI1QbHGGNvlIQSCBHvDiNVgcxSrEspqB0Em87SjE" xmltv_id="HANOI1">HANOI1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dbPfju5GDt-nWi5bO3qgogBh9fPhmGWWLUYvg42b" xmltv_id="KIX HD">KIX HD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="XfzCavRCbmqq7iCjLgAuQQuI7SSYTUYClgIycQ_p" xmltv_id="CHANNEL NEWS ASIA">CHANNEL NEWS ASIA</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="KXiz7EdtAPTDLl6XtwtdGhmLxJm1szxXG9rA4Ii8" xmltv_id="LAO CAI">LAO CAI</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="q3TnpjXM1Ox85IP_wnUoq3WZNlV8wLtj1-45G3R2" xmltv_id="K+LIVE 3">K+LIVE 3</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="-VyuUALEqcJ99-pPuhujpwWk1gBtA5BlEHINdw5i" xmltv_id="ON EChannel">ON EChannel</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="1OCL_NrI3CS4yWAJfYW7aT5vrIuZMRlR0qbthlyM" xmltv_id="FASHION TV">FASHION TV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="rT-RWZbXNpD7c2DPd0jaFqImlLFR624hr3FEuypc" xmltv_id="VINH LONG 3">VINH LONG 3</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="FiDo0bpidpf46QmheFgCTDn6sS0xsQGLdprdgSRi" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="hGfRyROqeHE1fD4clI7NsO6oIfMNkRFuJrC08rIk" xmltv_id="VINH LONG 4">VINH LONG 4</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="CVIhugmChcVcfi1CqIVdsOpNIMHKA67KxhDjqb0F" xmltv_id="VTV8">VTV8</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="3wlcTl5p0I67lsbLoeJACUpo6RCrvZ0nW9LN3tzu" xmltv_id="SCTV7">SCTV7</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="VK1WCSqS17JD9sZJAzYM6Ct--bQ_AUbrwzrZJO0D" xmltv_id="ON InfoTV">ON InfoTV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="WZnK3dylUKFSwefwKRBjOyEy3lyq8Lb6AxEdQ1Jt" xmltv_id="YOU TV">YOU TV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="noZPbpCVLFHFwRcQbnLnhrpMGm6K-TJFNOJFnRSm" xmltv_id="THUAN VIET">THUAN VIET</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Yo93e3168WOgzSKHGc3Vv19xpVcAvZaMtvILHtfe" xmltv_id="VTV7">VTV7</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="nn6WUId3EhgXRFUVBQDZXQFvBz_QqkbKhAel2xvD" xmltv_id="LAM DONG">LAM DONG</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="G8K9Nb0qvRPNyTOTF4paqB1UQVYEvcdhBDK35Ep6" xmltv_id="QTV1">QTV1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="hhUeAm1h7cWzSZUxWkDw3eLgY7VMb1YYcM-Jcg3o" xmltv_id="SCTV1">SCTV1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="FveUWOvtGqlmvEd2br4ByHlAOQSHkXOnlQgxJ145" xmltv_id="FRANCE 24 (ENGLISH)">FRANCE 24 (ENGLISH)</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dYfUW_1HsOU02vKMDFYusLMhxxf90Ms8VIDqmA1N" xmltv_id="VUNG TAU">VUNG TAU</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="QDozhcwdO-fGhWRp0HpfejcMznmFDGL4R2O-ECxx" xmltv_id="SCTV2">SCTV2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="EIDl9l4U9_Ia5JmFG4k0nM2JVs88Yme14VV1TWC3" xmltv_id="HTVC CA NHAC">HTVC CA NHAC</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="NqN7bjzeFaVUSpeEUUI_oKRjmw2ryZwnCCaMNXU9" xmltv_id="DONG NAI 1">DONG NAI 1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="8LvlAATMtPHuonzJGHfIySUck5Y5eFTTqiykTG-p" xmltv_id="THANH HOA">THANH HOA</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="mo255grdX-L7DTnkE7VZXQmx9Tt3CZfjhMBd-5U0" xmltv_id="HAI PHONG">HAI PHONG</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="chRTksCsqu9YyN_QN6ODbHwQuictD1Jf1hVkvqkF" xmltv_id="KBS WORLD">KBS WORLD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DOWqaN4f_2PPDdnUZkrfoJgQN_FXWPWG8I4jZII4" xmltv_id="NGHE AN">NGHE AN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ppGddOeLML-bb7evYBi3zdPBgrLqyfphaexZK1Z-" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="pq0SYZaa23xM0boki1GJJXVDnOdSuUkDfAnXEUtD" xmltv_id="BAC NINH">BAC NINH</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="_dtUzHgcUW4eJYXtdeId8rSzeitAwasE7dQ63DWy" xmltv_id="SON LA">SON LA</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="E7buRgb0jiypuXUG-D7467sXcyawmou7sJsDeR6V" xmltv_id="HTVC PHIM">HTVC PHIM</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="l9tXOfwdfoIfGc_lV5O1uk7FVwieFR9d8SsSonF7" xmltv_id="FRANCE 24 (FRENCH)">FRANCE 24 (FRENCH)</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="At9MqFxfjhvLlcuWM8txMw9V6XGbn_a_cyWfKy3N" xmltv_id="DA NANG 1">DA NANG 1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="zstzQ0jPD6iYzWxP7epeMD4ego0ndKPiCloOhX4t" xmltv_id="ON O2 TV">ON O2 TV</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="nSeVJxgf5U7C1EqrmzbQjWyoHjsTFSdFgwe2slkq" xmltv_id="HUNG YEN">HUNG YEN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="I8OHQHTj3jPruBMjBoc060yAU8-qaBnOgeSfjmHJ" xmltv_id="QTV3">QTV3</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="GJjKBNWA7p4AMKMbl1MpxZ6gds7-qXJ1dgfpFvSn" xmltv_id="ON V Family">ON V Family</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ltl465oq_adpA9PkAJcR7SbfRJezlQCkQ_yM3cAZ" xmltv_id="TAY NINH">TAY NINH</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ac98BsuoQwW50SBW9c67dYFxGYYGAGvrYQgNFRW9" xmltv_id="BINH THUAN">BINH THUAN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="lkdL4SevQlnEmuh3Xtd_-MAncLavsdqrv9CGJdBY" xmltv_id="DONG NAI 2">DONG NAI 2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="7Ar763XCCf_z2LYvU8X6GVYtgMhv2NCdP0xaOFQO" xmltv_id="VINH PHUC">VINH PHUC</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="QBDJ8lw9kDReNbLwEWv5pxDxP2jR6HbZE1HAl8uZ" xmltv_id="BAC LIEU">BAC LIEU</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dn1oPY0sKhN45KI2cOcHryYvG9EOsOgvyhk692CH" xmltv_id="THAI NGUYEN">THAI NGUYEN</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="8dBuYRCYrHgCqied4ukt2yAVuq6U3KOrGXVOFp9a" xmltv_id="NHK WORLD">NHK WORLD</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Yib9xfFfMNS-5wiFrV5MIzRT6GlPeQ8zKliksWwD" xmltv_id="HA GIANG">HA GIANG</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Y-zViGmCqPTLk5QhH_GyVo7hAfd5WZjhe4PMHklx" xmltv_id="ON Style">ON Style</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SmcnUx9gXwkgjH490Q66wQ2_seejfNqsW9XUaQtV" xmltv_id="SU KIEN THE THAO 1">SU KIEN THE THAO 1</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DAeunJXfO0G6x-nP9_MP-_w_1O4dTHwtwkD5g9tQ" xmltv_id="SU KIEN THE THAO 2">SU KIEN THE THAO 2</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6okk_HBCuhrnibFZr3OdHqmrvs60TSTPTAy0_hit" xmltv_id="SU KIEN THE THAO 3">SU KIEN THE THAO 3</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="OSiATktPwoThFR7bVTrZJ0hedrE8w8YztHR6SmC4" xmltv_id="SU KIEN THE THAO 4">SU KIEN THE THAO 4</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="w8o4FxsHxblobzMQSJXkSp6v4QOIawlZi8QtBeUO" xmltv_id="SU KIEN THE THAO 5">SU KIEN THE THAO 5</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="A3JksyUGgmcxO8jzkuFmZi07AjFffiWJ3Esnv1fm" xmltv_id="SU KIEN THE THAO 6">SU KIEN THE THAO 6</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="5lXOtyJBFa6qLX93jnpuBQMJKxXQL6ZSPiffAbaw" xmltv_id="K+LIVE 4">K+LIVE 4</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="csTHMLAr0sUhKvlEROJrhkIMLK-X05VpAAyrU4ad" xmltv_id="K+LIVE 5">K+LIVE 5</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Ltk0ViSAcmDa_sCmef1Xx4W_PTSNA06bCmUsnkii" xmltv_id="K+LIVE 6">K+LIVE 6</channel>
-    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="G8xVyzxJ5KbO5WgAZOWs2Ny8ZWtGDyibFW8ETxdy" xmltv_id="BINH DUONG">BINH DUONG</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf||KSPORT1%20HD.png" xmltv_id="K+SPORT1 HD">K+SPORT1 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ey17wMFjt6D8td1O8jcUFhlxREBkNJQx_kBpxYTy||KSPORT2%20HD.png" xmltv_id="K+SPORT2 HD">K+SPORT2 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SkN-2L927m406yAOItuE_ELNLEq49ZjNAbTp-enW||KCINE%20HD.png" xmltv_id="K+CINE HD">K+CINE HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="a86jLEdKExN2kgLJUio_uzqr7h5me_Ir1DCmXQDy||KACTION%20HD.png" xmltv_id="K+ACTION HD">K+ACTION HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="F31WvdXdwYNOInUaTeIC-ixsLQVsrSNgUczDSFCN||KKIDS%20HD.png" xmltv_id="K+KIDS HD">K+KIDS HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="WBSb0vxfNmLVmW814CFu_4CAeEukAj5QxKHd9JwV||VTV1%20HD.png" xmltv_id="VTV1 HD">VTV1 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dDmD0toCd6WBZ9_JIh--ksBTHtpKRN7lVfb-3eHw||VTV3%20HD.png" xmltv_id="VTV3 HD">VTV3 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SWn4bdB-AvlQS717rv7HJJDFa5QFttkc3F_aaw1p||VTV%20CAN%20THO%20HD.png" xmltv_id="VTV CAN THO HD">VTV CAN THO HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="MXcPi2XP6u2o6rR2NwDcYXf1iB3hrddykkrnN_qT||ON%20SPORTS%20NEWS%20HD.png" xmltv_id="ON SPORTS NEWS HD">ON SPORTS NEWS HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="03yiXEYHdpRJKOeI8Y7iXLjzKjrFuCYCGgjPm8qW||ON%20FOOTBALL%20HD.png" xmltv_id="ON FOOTBALL HD">ON FOOTBALL HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="GYr7KKu9mouGRs8laZSk5dO4T-PHsgNBGTMkBXHQ||ON%20SPORTS%20HD.png" xmltv_id="ON SPORTS HD">ON SPORTS HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="9jB8eRpGRgp3pe37j8LUIfzi65no02me62P5e0Ys||ON%20SP0RTS%20HD.png" xmltv_id="ON SP0RTS+ HD">ON SP0RTS+ HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="W5p8R3WPMSHBdOs7w9uGRmpoUEUfcFlzLr2v8axR||ON%20GOLF%20HD.png" xmltv_id="ON GOLF HD">ON GOLF HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="yAtZc2r_rfTkgaEvVOOPxdh7Ft3_PKMgfArygdW6||HTV%20THE%20THAO%20HD.png" xmltv_id="HTV THE THAO HD">HTV THE THAO HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="tJI5BT8LyuIlRx2To9jkMlM0pkM6GXskLCcPte0N||ANTV.png" xmltv_id="ANTV">ANTV</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="0QLVCGV6d83eNSdVsQ0GIolP3i2YmHon-OcMciKe||QUOC%20PHONG%20TV.png" xmltv_id="QUOC PHONG TV">QUOC PHONG TV</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="9sJe5tumFRryrgv1pn1NjNdwSJOO5qM-Uz3ZF_cI||SCTV14.png" xmltv_id="SCTV14">SCTV14</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SBgRv8LgzajsF57upmh7MzqMPI04QUC_wnmXCjjG||HBO%20HD.png" xmltv_id="HBO HD">HBO HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="TwTUqV7a7S33qhCrjWZi1pN0r6LtvJReRP2Z8gAG||ON%20PHIMVIET%20HD.png" xmltv_id="ON PHIMVIET HD">ON PHIMVIET HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="pPDPKS9_I8LucOy_DFvOqRuqqmsd7BGuWYsJHHhV||HTV7%20HD.png" xmltv_id="HTV7 HD">HTV7 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="93Fm1pt06G3XN6aYpEY5YAafKvk_MOs_6Qj57Jn9||CINEMAX%20HD.png" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="RjUg5hsjsM4_FUQBa5Z1UQpkt2iTL1HYvXnQFlVp||VINH%20LONG%201%20HD.png" xmltv_id="VINH LONG 1 HD">VINH LONG 1 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="_NqZMIGgqqTheZvG1hQooIwl_TFgBJObPxcXKI8k||VTV5%20HD.png" xmltv_id="VTV5 HD">VTV5 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="4o9U0OncN2xNqG4W_gqjfKxy4foQxWVzwOQWDTr4||HTV9%20HD.png" xmltv_id="HTV9 HD">HTV9 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="2uxDB032mutX8wYIZ1cst3ToAfIXIHqmXB-AUav6||KLIVE%201%20HD.png" xmltv_id="K+LIVE 1 HD">K+LIVE 1 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="3wtIVGSgCa6oIbO4Q6VSCk4Bjj2vYFzr7HTB_GmH||VTV2%20HD.png" xmltv_id="VTV2 HD">VTV2 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="He1HcrKA62AEEmNQyFy8dFa2zEY4JOuHe4JhwDcl||SCTV9%20HD.png" xmltv_id="SCTV9 HD">SCTV9 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="uRY9Lhx566fKPuaLWcjs55wo_u2yIAkDFcE7F7J6||HTV3.png" xmltv_id="HTV3">HTV3</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="OfTbJdMN03T3CZRFwyZQgNW6ua90RCS7iZhlz7M6||SCTV%20PHIMTONGHOP%20HD.png" xmltv_id="SCTV PHIMTONGHOP HD">SCTV PHIMTONGHOP HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DZIm6nVLT_Fvmy5Do4OVeTpJv8p1bjFXkqnh5rsY||HTV2%20HD.png" xmltv_id="HTV2 HD">HTV2 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="hYsakA64TnDGHRZil6qpZV64K7vkrnLTQ2maFHmY||ON%20VIE%20DRAMAS%20HD.png" xmltv_id="ON VIE DRAMAS HD">ON VIE DRAMAS HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="kWpedZ7S9A9bIFmZxJY1jX7Vs3D7xVoDQeNxsNCH||ON%20VIE%20GIAITRI.png" xmltv_id="ON VIE GIAITRI">ON VIE GIAITRI</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="i45m1kVAMnmurLkeiX8UkoMORH20dsUTOlTJhMPU||KLIVE%202%20HD.png" xmltv_id="K+LIVE 2 HD">K+LIVE 2 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="G7N9M9bIOZm_EYYoNOSRBtXqoUc7fOzkFjsfV78N||TODAY%20TV-SCTV2.png" xmltv_id="TODAY TV-SCTV2">TODAY TV-SCTV2</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="JPNfXNMnfxC4RjW4FmP503P-jCcVuLciRMadCcCB||VINH%20LONG%202%20HD.png" xmltv_id="VINH LONG 2 HD">VINH LONG 2 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="NwwR2PqSPYCc01B1dLOOdV0ZlKXGioDLYC84O-H6||ON%20BIBI.png" xmltv_id="ON BIBI">ON BIBI</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="S2tMUo8FUa0KwojYapArN2DvaWiyPOorsHD1IwM4||ON%20MUSIC.png" xmltv_id="ON MUSIC">ON MUSIC</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="0brdJXzat6AY-5tYKnbXA6wTtMOjRlIgSSW5tvRa||HAU%20GIANG%20TV.png" xmltv_id="HAU GIANG TV">HAU GIANG TV</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6VMeiOd9rCVDO7s3lbKzKExXcHZSqbrSerbDIoYi||VTV4.png" xmltv_id="VTV4">VTV4</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6FnSMBX5EDN7jL149tXn2MMf4dJRJLg5STfs8vEt||VTV9.png" xmltv_id="VTV9">VTV9</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="tI1QbHGGNvlIQSCBHvDiNVgcxSrEspqB0Em87SjE||HANOI1.png" xmltv_id="HANOI1">HANOI1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="XfzCavRCbmqq7iCjLgAuQQuI7SSYTUYClgIycQ_p||CNA.png" xmltv_id="CNA">CNA</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="KXiz7EdtAPTDLl6XtwtdGhmLxJm1szxXG9rA4Ii8||LAO%20CAI.png" xmltv_id="LAO CAI">LAO CAI</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="q3TnpjXM1Ox85IP_wnUoq3WZNlV8wLtj1-45G3R2||KLIVE%203%20HD.png" xmltv_id="K+LIVE 3 HD">K+LIVE 3 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="-VyuUALEqcJ99-pPuhujpwWk1gBtA5BlEHINdw5i||ON%20ECHANNEL.png" xmltv_id="ON ECHANNEL">ON ECHANNEL</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="rT-RWZbXNpD7c2DPd0jaFqImlLFR624hr3FEuypc||VINH%20LONG%203.png" xmltv_id="VINH LONG 3">VINH LONG 3</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="FiDo0bpidpf46QmheFgCTDn6sS0xsQGLdprdgSRi||TV5%20MONDE.png" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="hGfRyROqeHE1fD4clI7NsO6oIfMNkRFuJrC08rIk||VINH%20LONG%204.png" xmltv_id="VINH LONG 4">VINH LONG 4</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="CVIhugmChcVcfi1CqIVdsOpNIMHKA67KxhDjqb0F||VTV8.png" xmltv_id="VTV8">VTV8</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="VK1WCSqS17JD9sZJAzYM6Ct--bQ_AUbrwzrZJO0D||ON%20INFO%20TV.png" xmltv_id="ON INFO TV">ON INFO TV</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="noZPbpCVLFHFwRcQbnLnhrpMGm6K-TJFNOJFnRSm||HTVC-THUAN%20VIET.png" xmltv_id="HTVC-THUAN VIET">HTVC-THUAN VIET</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Yo93e3168WOgzSKHGc3Vv19xpVcAvZaMtvILHtfe||VTV7.png" xmltv_id="VTV7">VTV7</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="nn6WUId3EhgXRFUVBQDZXQFvBz_QqkbKhAel2xvD||LAM%20DONG.png" xmltv_id="LAM DONG">LAM DONG</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="G8K9Nb0qvRPNyTOTF4paqB1UQVYEvcdhBDK35Ep6||QTV1.png" xmltv_id="QTV1">QTV1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="FveUWOvtGqlmvEd2br4ByHlAOQSHkXOnlQgxJ145||FRANCE%2024%20%28ENGLISH%29.png" xmltv_id="FRANCE 24 (ENGLISH)">FRANCE 24 (ENGLISH)</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dYfUW_1HsOU02vKMDFYusLMhxxf90Ms8VIDqmA1N||VUNG%20TAU.png" xmltv_id="VUNG TAU">VUNG TAU</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="NqN7bjzeFaVUSpeEUUI_oKRjmw2ryZwnCCaMNXU9||DONG%20NAI%201.png" xmltv_id="DONG NAI 1">DONG NAI 1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="8LvlAATMtPHuonzJGHfIySUck5Y5eFTTqiykTG-p||THANH%20HOA.png" xmltv_id="THANH HOA">THANH HOA</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="mo255grdX-L7DTnkE7VZXQmx9Tt3CZfjhMBd-5U0||HAI%20PHONG.png" xmltv_id="HAI PHONG">HAI PHONG</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="chRTksCsqu9YyN_QN6ODbHwQuictD1Jf1hVkvqkF||KBS%20WORLD.png" xmltv_id="KBS WORLD">KBS WORLD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DOWqaN4f_2PPDdnUZkrfoJgQN_FXWPWG8I4jZII4||NGHE%20AN.png" xmltv_id="NGHE AN">NGHE AN</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ppGddOeLML-bb7evYBi3zdPBgrLqyfphaexZK1Z-||DW%20%28DEUTSCHE%20WELLE%29.png" xmltv_id="DW (DEUTSCHE WELLE)">DW (DEUTSCHE WELLE)</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="pq0SYZaa23xM0boki1GJJXVDnOdSuUkDfAnXEUtD||BAC%20NINH.png" xmltv_id="BAC NINH">BAC NINH</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="_dtUzHgcUW4eJYXtdeId8rSzeitAwasE7dQ63DWy||SON%20LA.png" xmltv_id="SON LA">SON LA</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="l9tXOfwdfoIfGc_lV5O1uk7FVwieFR9d8SsSonF7||FRANCE%2024%20%28FRENCH%29.png" xmltv_id="FRANCE 24 (FRENCH)">FRANCE 24 (FRENCH)</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="At9MqFxfjhvLlcuWM8txMw9V6XGbn_a_cyWfKy3N||DANANG%20TV1.png" xmltv_id="DANANG TV1">DANANG TV1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="zstzQ0jPD6iYzWxP7epeMD4ego0ndKPiCloOhX4t||ON%20O2%20TV.png" xmltv_id="ON O2 TV">ON O2 TV</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="I8OHQHTj3jPruBMjBoc060yAU8-qaBnOgeSfjmHJ||QTV3.png" xmltv_id="QTV3">QTV3</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="GJjKBNWA7p4AMKMbl1MpxZ6gds7-qXJ1dgfpFvSn||ON%20V%20FAMILY.png" xmltv_id="ON V FAMILY">ON V FAMILY</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ltl465oq_adpA9PkAJcR7SbfRJezlQCkQ_yM3cAZ||TAY%20NINH.png" xmltv_id="TAY NINH">TAY NINH</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ac98BsuoQwW50SBW9c67dYFxGYYGAGvrYQgNFRW9||BINH%20THUAN.png" xmltv_id="BINH THUAN">BINH THUAN</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="lkdL4SevQlnEmuh3Xtd_-MAncLavsdqrv9CGJdBY||DONG%20NAI%202.png" xmltv_id="DONG NAI 2">DONG NAI 2</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="7Ar763XCCf_z2LYvU8X6GVYtgMhv2NCdP0xaOFQO||VINH%20PHUC.png" xmltv_id="VINH PHUC">VINH PHUC</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="QBDJ8lw9kDReNbLwEWv5pxDxP2jR6HbZE1HAl8uZ||BAC%20LIEU.png" xmltv_id="BAC LIEU">BAC LIEU</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dn1oPY0sKhN45KI2cOcHryYvG9EOsOgvyhk692CH||THAI%20NGUYEN%201.png" xmltv_id="THAI NGUYEN 1">THAI NGUYEN 1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="8dBuYRCYrHgCqied4ukt2yAVuq6U3KOrGXVOFp9a||NHK%20WORLD.png" xmltv_id="NHK WORLD">NHK WORLD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Yib9xfFfMNS-5wiFrV5MIzRT6GlPeQ8zKliksWwD||HA%20GIANG.png" xmltv_id="HA GIANG">HA GIANG</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="Y-zViGmCqPTLk5QhH_GyVo7hAfd5WZjhe4PMHklx||ON%20STYLE.png" xmltv_id="ON STYLE">ON STYLE</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="RPlRFqHEFSz6HKHydsyG4QzhOdXmjKMdGnYm0zxv||BINH%20DINH%20HD.png" xmltv_id="BINH DINH HD">BINH DINH HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="1QsvBohZIRvk57tRMCD_uACbk2xFuOXxItw2AOO2||BINH%20PHUOC%201%20HD.png" xmltv_id="BINH PHUOC 1 HD">BINH PHUOC 1 HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="dspTzb0bh2c0I6sfYZ71sG5vKmtBU9C4wMwAGMnf||DAK%20LAK%20HD.png" xmltv_id="DAK LAK HD">DAK LAK HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="p58VLAPdwXZhPLqL46u2evSyD7AWsOBAS5zojHOZ||KHANH%20HOA.png" xmltv_id="KHANH HOA">KHANH HOA</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="lIqPBhpxQOh81zPJn60oTJQXnvzT83htI38A1SUJ||LONG%20AN.png" xmltv_id="LONG AN">LONG AN</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="ctVDKWuSGol5ZUSNmByrowLyDI9Nley69JzlQrHP||QUANG%20NAM.png" xmltv_id="QUANG NAM">QUANG NAM</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="h6yruk_fLs-rDwiDJzekxMYu19MiI_G2XY8jMzLp||THUA%20THIEN%20HUE.png" xmltv_id="THUA THIEN HUE">THUA THIEN HUE</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="5UwBQcjTxpjFkTBG2ZdA29Npv1viy_0uIMRHSVEt||HA%20TINH%20HD.png" xmltv_id="HA TINH HD">HA TINH HD</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="IErRwg9830Z4XXLr5zpIJGfH0gxxx0n2FjodS4ja||BAC%20GIANG.png" xmltv_id="BAC GIANG">BAC GIANG</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="SmcnUx9gXwkgjH490Q66wQ2_seejfNqsW9XUaQtV||SU%20KIEN%20THE%20THAO%201.png" xmltv_id="SU KIEN THE THAO 1">SU KIEN THE THAO 1</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="DAeunJXfO0G6x-nP9_MP-_w_1O4dTHwtwkD5g9tQ||SU%20KIEN%20THE%20THAO%202.png" xmltv_id="SU KIEN THE THAO 2">SU KIEN THE THAO 2</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="6okk_HBCuhrnibFZr3OdHqmrvs60TSTPTAy0_hit||SU%20KIEN%20THE%20THAO%203.png" xmltv_id="SU KIEN THE THAO 3">SU KIEN THE THAO 3</channel>
+    <channel site="[ENC][EX]xem.kplus.vn[vi]_0" site_id="OSiATktPwoThFR7bVTrZJ0hedrE8w8YztHR6SmC4||SU%20KIEN%20THE%20THAO%204.png" xmltv_id="SU KIEN THE THAO 4">SU KIEN THE THAO 4</channel>
   </channels>
 </site>

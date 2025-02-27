@@ -1,426 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]livetv.hdaustria.at_0">
   <channels>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XllPIWXi5SuzUlb5zXnWN7as2sNnCTH_aQmOdo0s" xmltv_id="ORF Eins HD">ORF Eins HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AdInRXGCclZMlYdybqQ-zSv8_9xzNPp6cMFaXndD" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aKnPd5fGwOhBar1Pn72hxWEaKujnZodAaamgcnWD" xmltv_id="CANAL+ FIRST">CANAL+ FIRST</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XBbkKkTcOEWQu1yH5ViWgwy-aCFBhlhBJIfoDpid" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BzTepC66K1d2SMd1-NN7ZNJHmOXhfiO_iTij5dRN" xmltv_id="ATV HD">ATV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w4J2vBUrWNt-KgL67875h8HJByv_19OeaQstz_zC" xmltv_id="ProSieben HD Austria">ProSieben HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_FE0ea-Cj6ek-Ac8gcILB_7T9F--E9jmHp0XH7LM" xmltv_id="SAT.1 HD Austria">SAT.1 HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gEzq3J_xV1Ag3hdr3Z1I86ZAk377fqEZnneN2is2" xmltv_id="RTL HD Austria">RTL HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zLKa0r9d1SIXpHKd7jFZQVDu48uSvctzbw3PHAsg" xmltv_id="VOX HD Austria">VOX HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="OkiQM2OgTENArW6EAsPxh3zCCWo_9KE6vyqADsAt" xmltv_id="Kabel Eins HD Austria">Kabel Eins HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iacxbFNK01XoLBMrEwuH8wJmDX7QSu6Pi93fKk06" xmltv_id="Servus TV HD Österreich">Servus TV HD Österreich</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9x2Y-reSWJnCYXAd9c1CO-AeSgWypvJycWs2n4Iu" xmltv_id="OE24.TV HD">OE24.TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cKsd0uQWh7Ru32iOz7PYm2g6ksuxxsLZgn5BghkE" xmltv_id="Kurier TV">Kurier TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XLcEGv4j-ZqBNfNSjJ5cKSyz9dOX3nqjFg7asDcG" xmltv_id="ATV2 HD">ATV2 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jHT9znlz_uYYggrbftDRfU_40bcrl8b2pgGm-Urr" xmltv_id="RTLZWEI HD Austria">RTLZWEI HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YDHTGfdjaRQMohZsR09NoSAgg0_SLxgDh1JYSeiG" xmltv_id="RTL Super Austria">RTL Super Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xwm__FbfP2hF2KmJLMHzazXJ4G0qZMERd5yAu46y" xmltv_id="Comedy Central HD Austria">Comedy Central HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RJjtOigmq7CTGl0a5bSKWtdCp_n1xAFNeJ-11lRQ" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="q-m_MwF8Qyu0JpCq9nkAnRV5OGq3_6dqM6ytd-OK" xmltv_id="sixx HD">sixx HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rj_5OuDStMJ_ahbnONBEbAv7XkUJ7H-OlpMTeo62" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YA_e_ExmCKmnvX-dM24MdwqHgVUxKjrbxtxM-PYJ" xmltv_id="Kabel Eins Doku HD Austria">Kabel Eins Doku HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="r5usBAZOlAPh9S3-A1Zk8BetNKxS-3zrpLfZQdPN" xmltv_id="ProSieben MAXX HD Austria">ProSieben MAXX HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ybxBk6aDdP4DErwrRzvfRvF4PCm3xBC2XEw9rhLU" xmltv_id="NITRO Austria">NITRO Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mIWnkrnkpEZlfm_mdM1XuYKL5JN4I4rJ17TQSQyj" xmltv_id="PULS 24 HD">PULS 24 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ht8PLXTQ6yUTNuoO98G3FwhWusg2d7cbv4SKcvRW" xmltv_id="ntv HD">ntv HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-VmzDgzMjKZqMq7_ijo5MkUxUOe3dZV1BwroqpaN" xmltv_id="Das Erste HD">Das Erste HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vE6LG8TP-4Qity13kIxWzTkbPJDIjjb0BuI2WIdL" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="U37eEhFgkcU_XazbpkZXag6l0sVebYihVPkKHBAv" xmltv_id="ORF III HD">ORF III HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lXBqOT3PILwwnKsVEHATHY_1Ip3v5BgRYnIKgPCa" xmltv_id="3sat HD">3sat HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZlYLuRV9FUJmabygjF4yGuoe2XhuualwVN9M1O6e" xmltv_id="Arte HD">Arte HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JSzTIqGOkug3Zkzm3Rp4Q4IoAof5SCaZaxNSwqRC" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8_eT8dkW28-_Qauy7Dv_Z3zgdMckZzsfUt61D5m-" xmltv_id="Kabel Eins CLASSICS">Kabel Eins CLASSICS</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zEu6GAtUCXyPCeqezGY4c_R54yM8jznyP7lEweTg" xmltv_id="KinoweltTV">KinoweltTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_NHuWDkYy3j-U7cXY8PlJK7TL4D569nT93A3JDBy" xmltv_id="AXN White">AXN White</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zR5DX1b5H-Fcy3uKehbvS-wKWg3iG2QwiDc-h8ig" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rmSjj7YgCK6PXcdsA94iroV0tMe7c7xKMAlpXPP_" xmltv_id="Eurosport 1 Deutschland">Eurosport 1 Deutschland</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="J8etx1Z22KaRYQa3rwBsiUo-l2tZtIc_fGJGNxgN" xmltv_id="Sport 1 + HD">Sport 1 + HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YSgP4j0mGH29Of4hj3qKphRIw_pJoGdWfTPCpgiV" xmltv_id="SPORTDIGITAL FUSSBALL">SPORTDIGITAL FUSSBALL</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh" xmltv_id="Sport1 HD">Sport1 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PomHFJBvkRV4rTqDpSNyk6OB1EsYOq9gAhmyWB8s" xmltv_id="DMAX Austria">DMAX Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NPkUlG_PBqxC_yrDAaH-H5EuN5ANc7J-6Kn4Z__d" xmltv_id="TLC Austria">TLC Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wxajmDadMTgnp2SmbRhmdhrCg5EZ25b7boOpPzCU" xmltv_id="Crime+Investigation">Crime+Investigation</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n4Fqd6jSa9lhB0EPVuCq4nbEkFejOZbGedp4JN6S" xmltv_id="Tele 5 HD Austria">Tele 5 HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QmXVP8CirHiDSuc0lCc-eiPx8_y4jr8M3zxOl4Qd" xmltv_id="AXN Black">AXN Black</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rGlO1pRQxFEFerkw0wXRmg5LfdelOexOxcHyZcv2" xmltv_id="SyFy HD">SyFy HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="IQUOAfmmnM4bHlh1dGpmhKJxpvVmE4jbKMxLu9fX" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="k1wTxvG7PLt1KqKX6-IL_Jfd5W_Pb41KGXBwQ8WF" xmltv_id="Universal TV HD">Universal TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Hg8nXGk78wGTumaIz7MsMeW-hbJhF7o9d9-B-v4E" xmltv_id="13th Street HD">13th Street HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qrWWPTElzXesaBYXp4Hcea1rQXXimaAQzxkUIYLT" xmltv_id="R9 Österreich HD">R9 Österreich HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dksPkUoqN53oekBG-EGKHYwSYhRSeA0sSPQU6AaN" xmltv_id="LT1">LT1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="H8rrGqLz4X-cYnLvZzND_rIEsisSRmNk9jR5PeNC" xmltv_id="TV1 OOE">TV1 OOE</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6teRyJrAsZLxFlZxqtwoWoIh31vIoEDvYaSPVCjN" xmltv_id="Welt HD">Welt HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2c8VBmQkjxPT7fo0ZJSyVrPTfm5I5fOroDlPL8JF" xmltv_id="Tagesschau 24 HD">Tagesschau 24 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="veE2L-Ar3ZuXcfCFf1lw2MWsN7V_SjCcq-GSHAMl" xmltv_id="ntv">ntv</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uinRH9tyRdsRFNQNt2IrjfSefYW62EvtImfh6JUj" xmltv_id="Krone TV">Krone TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0ZAi5RvqNu8QCR7NLHSrnHivAaORQZMT4my4hccD" xmltv_id="ZDF_neo HD">ZDF_neo HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A_kUN_sEspE3TS-6X6lX-KKxUDZAGxVlXfm_LFz8" xmltv_id="ONE HD">ONE HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0bKSq1fiMBf5yOupWzoLhBBdeA0e3VYYwUlNSKTc" xmltv_id="ARD-alpha HD">ARD-alpha HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KU_1m3GhDiBK-LF5st2JdbeGPtMdG8_XaKXcALz-" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_tzxk06emsMjKwcl_R8NTLPpOrcauHnfmJ-wlf75" xmltv_id="Anixe +">Anixe +</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="T2sybNh_3KFJkPY-Vop378j6rTt895PjXNRC4wPw" xmltv_id="phoenix HD">phoenix HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7C23WBA4SKmWqZoQm06_ZxRMRm0ST1qaNg0x8DKh" xmltv_id="BBC News">BBC News</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_lYAaFXuigO2Y41jJaV70v5dh7TOpWcsg3tdVRIh" xmltv_id="CNN International">CNN International</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_RVw6L7EBUIG4-BSuxzlB83DJiST2r2Lz5Ag1hVO" xmltv_id="Sky News">Sky News</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w2Ne8-SdZtBTSLlYGKqAq-U9dF09Mjj4Pjorp0pk" xmltv_id="Euronews">Euronews</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_Ky4fAmLqafF2o5ZbZwwPb0GqRtMGPzO3lXBM_Vd" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jo6muwfrJiEjZNPZ6FwAJ9kzqTS-7NDpQCa1PTAJ" xmltv_id="CNBC HD">CNBC HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M7Xv6_N9CDQHvVP0aJKDHOuJCResQZjTIg-pigWP" xmltv_id="Newsmax HD">Newsmax HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="snxwx5OVJN3iWy2UW5H6VKFaLznEUBBr2T5mI9YL" xmltv_id="Nickelodeon Austria">Nickelodeon Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-" xmltv_id="KiKA HD">KiKA HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="u8uQ2ZQih0D5WgGUA0SxoMsRL2HxFhYexFNpQmOJ" xmltv_id="RiC">RiC</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TnA-_ERsA5n90J5VTev6UZD75NkRjYhgstCL8Fo1" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2aXefXD-zDYmVPb4Tx7yPA8nAzUJGP7min_cbmbo" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mbm_WV2MeEpNWOBpyfM2SPBNGmv3kPiAdlXwDU6_" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cq_sV_NaI2A7NdPbh-M92bXTEaYD7MW-VTovPrw1" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NO2MFZhz8dGZs6ILf2PmSyNshGHkiOVfbk21Qve7" xmltv_id="Marco Polo">Marco Polo</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UkL0JlXceD33uUGULv6k0rlqMwYzELkqrlWPKaFW" xmltv_id="N24 Doku">N24 Doku</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jKRVPGaQ7H6eofRvNrNrsGgUvAlfyRMTiQc8S7Vj" xmltv_id="Bergblick">Bergblick</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CSGKliRXOms6lsxLKX16R_Zijbb6xABcSo-ReWMH" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3YkPDJJdyjwswasPAIGFn8QaYsTE1vyJC8nnNFlD" xmltv_id="auto motor und sport">auto motor und sport</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Si71DQk6DpIlIhW7iIFBkib7Wj4LnTJ9iFbKuDJg" xmltv_id="INPLUS">INPLUS</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qkurpqg-1I4MvV2ZgYCh7BwCOKQ2nOWiEvUmfrbq" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zoMODWXKwt61KvG7rC1i47ar7o2KjZ2FQYP45Go9" xmltv_id="Romance TV HD">Romance TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ppiPp9UqrpmVrE5dQBeu3Tn-HdXdFdoGUq3q_11i" xmltv_id="RTL Living HD">RTL Living HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uhCv4gEIdnapT2OBP-o4A0iZHi3wr3f4tWf5WAbR" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1" xmltv_id="RTLup Austria">RTLup Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1xAweThSb0ehJR7kYC2jKGSpoe9zXD3jpw1M6YEM" xmltv_id="Welt der Wunder">Welt der Wunder</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aNI-C4v8Zb0k9U7J0ppcNgEubJKbftvbPrbYKPxx" xmltv_id="HGTV">HGTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c2Zizb4y-j0jSz1je7joROr5YbwFwCVZpjVkTHAo" xmltv_id="Love Nature HD">Love Nature HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="K_ufbr1AwomsLYLd2DiLQI3JbpHjRp6KEA4XALVP" xmltv_id="EarthxTV">EarthxTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzzOPjn9-HFO22_9TIFik_kYR33hCvPGAG-X04lw" xmltv_id="(18+) Hustler TV">(18+) Hustler TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LppV5VNv-_xc9kMKBA86imA_-vLCecdiZr3MIEyU" xmltv_id="(18+) VividTV">(18+) VividTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SU8j9Ce1vrvKFuPntS1BYU6YQvaj7ayY4yF8SpiQ" xmltv_id="(18+) Dorcel TV HD">(18+) Dorcel TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UZYysXfobARiMj1_pu4MsuGbvKXyl0cJEygUFyGk" xmltv_id="(18+) Dorcel XXX">(18+) Dorcel XXX</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YpjzRbEa_wpN2s7x5MDvTjWUzv6hIB0PBTvAhgO3" xmltv_id="(18+) Penthouse Gold">(18+) Penthouse Gold</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W5KqxeJvhLz-EwVOQTLf6bYF0f0QV9cJN9K_h7vD" xmltv_id="(16+) Penthouse Passion">(16+) Penthouse Passion</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Q5HzqCO2eICuK0QQjDkSOrUXCVUiNAVWySg7yUJh" xmltv_id="(18+) Playboy TV HD">(18+) Playboy TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GuWcT5XzyK01Z74TLsufoJ0VThHsJ_K9S6eG8XEg" xmltv_id="(18+) VIXEN HD">(18+) VIXEN HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CEt1wMuNbaYufOww-Ogp5lB403jxA6VUB_jnhCKG" xmltv_id="MTV HD Austria">MTV HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rDMCcR1zzj5YF9iDGlDTCqziYlF6_N3mzPrcCNgk" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4B9B323_AWbDp48FAtAWCvOnfxMDdms4nMdVjAdQ" xmltv_id="Club MTV">Club MTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pbdVif7JUO7YVFvU-YzEIgFIwKNSHb5lMctKzNLy" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XrQ8cSZDATZVahqmNvfAvwbspnn3mZuTO-8WJwXN" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mpw70GftHQ_H60VOCrbNThnMkX07uVwp9a3re83Y" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1a61r0sy68EzFUw6Z3LtMSoqZ9WtEfMM9aycFU1N" xmltv_id="NickMusic">NickMusic</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W3smnEKwI2WK7nuUazn1FwgB_aqSgLhzTs9o3NHM" xmltv_id="Deluxe Music HD Austria">Deluxe Music HD Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RoN12oqBxKeL1dCMnwlTfGMl2aacuEyEYZ_cXx0Z" xmltv_id="Stimmungsgarten TV">Stimmungsgarten TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-9avOOhqtMF_2462C_Nxbzc5YXeNaxxVRpnb7Vlv" xmltv_id="Mezzo HD">Mezzo HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5tiIEZfFaczizhdefpDjkCZFy1XlEW6ePYD3dieM" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BFKX-rwOIt-AB-ZgXHYaezFanZ5_q83BxK91ojNw" xmltv_id="C-Music">C-Music</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="h8GBvuQTrsa3pTXlNAwCt6-OOQ8YUREIBC_B-rWg" xmltv_id="Gute Laune TV HD">Gute Laune TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SRewjLrjyRMDSN667-z-y9GKsq4t3Mr_j_7v4WMZ" xmltv_id="BR Süd HD">BR Süd HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3NfHXwLpWRSjrPcKTZoMuBq6SzpnvvE503ZWZArn" xmltv_id="SWR BW HD">SWR BW HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rp-vXc6edaG0sDnqBrxKQB3ZUaJ1hit-11rQtqG8" xmltv_id="WDR HD Duisburg">WDR HD Duisburg</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2K8T8TYa8xbVSpgGLSDqTHB-BxrWYw4r9Yd79-wL" xmltv_id="MDR Sachsen HD">MDR Sachsen HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5FuKvO0wU_rOZ9BQ6Scr5zIz0LDYJ_MvEdUEmTeO" xmltv_id="NDR FS NDS HD">NDR FS NDS HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M-lfnG-iQ3UQ4_UXR7p2hGyUE63r70IMRFIegwMy" xmltv_id="RBB Berlin HD">RBB Berlin HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="t2gUWKg12X4-Zc3TLtsFIMtJnvR7p4HSFNFAR-su" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qQg31jZDXfLiJrN1naKBa5JNwkNDmHKOWebXBDQ9" xmltv_id="Rhein Main TV">Rhein Main TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QOS7PFynz14uywZREBpAPbzVtbbT-6STfJIDPT1D" xmltv_id="Aristo TV">Aristo TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aiLtbDlz-l91Hy0KjA7exhvmdbIJBZNJDlVosudf" xmltv_id="INTV HD">INTV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xHksAivoDLuUb6ciedCOUCwjadI48nfp1aWlmAuM" xmltv_id="München TV HD">München TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PLaxa_XqbXRMIaS0J9--yoQI5KrIu0nSql_tE3dw" xmltv_id="Bayerisches Fernsehen">Bayerisches Fernsehen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="o3rLQX0hDJQnlPJdv9CfPwi379LT1M6SNeQF7_jB" xmltv_id="Niederbayern TV HD">Niederbayern TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ktxDjPvzMJfE9NEjlhpx4Gd16PbHVIGFgPFlC4ZD" xmltv_id="RFO">RFO</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="93QgP4qa3rlNGPe87mb_qqIIKrU-J3K70hSHhE-u" xmltv_id="Südwestrundfunk">Südwestrundfunk</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tlUIWm_qlCjDIMa5IF3ClPaQWZbCegWaxa2q7w_6" xmltv_id="Ulm-Allgäu HD">Ulm-Allgäu HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ASdIBwgKBB6YSCke4EOW9d8OvEqN9mT8inxdPffm" xmltv_id="a.tv HD">a.tv HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M7mk6Pn262wqpN0h0baRX4OBHhg-63Zw3BoMTiyk" xmltv_id="Franken Plus">Franken Plus</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qe70pPV8tEPQ54w_0j1jWgzow8xyMFIyrohVleq-" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WJSkawE78DH8Km1RZwEZFr-9hJ8S11YrgRl9ea3d" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PLaxa_XqbXRMIaS0J9--yoQI5KrIu0nSql_tE3dw" xmltv_id="BR Nord HD">BR Nord HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="E4ESf0ysTPiWiEt7sR3ixkYXwSdfvi2IJ0pAeV75" xmltv_id="NDR FS SH HD">NDR FS SH HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gj3rZf7EMTTpzyqb2huzf0apZ3wL3G3DFIYzJAY0" xmltv_id="MDR S-Anhalt HD">MDR S-Anhalt HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Eov2-cZGCXiGV5FWrPetVVKvznLXQ6UBfHGi9wmp" xmltv_id="MDR Thüringen HD">MDR Thüringen HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dLoS4rjAJ1kmZxY1tQs9TQR3GbyPnKwmmncvro4s" xmltv_id="WDR HD Köln">WDR HD Köln</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NZmzXp7HhxnX9xDURGcx__JINVsvPO5Z_MU3QDTF" xmltv_id="WDR HD Bonn">WDR HD Bonn</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KKgP8Cm1-LRKiFICZRNoGodpYcuOq9_oLdtMyzXB" xmltv_id="WDR HD Aachen">WDR HD Aachen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI" xmltv_id="WDR HD Bielefeld">WDR HD Bielefeld</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TxIyDiIJw8FEuW2o87s9OABeXIWQMEE-_U4r96af" xmltv_id="WDR HD Dortmund">WDR HD Dortmund</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gcrdlDWor9PxrlAt8qWfuUHNhTqCvMQSmT18e31q" xmltv_id="WDR HD Düsseldorf">WDR HD Düsseldorf</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nChDz9gDeGq-Mf5qTpmvIvaP5NG8_-OnGWDfSlOp" xmltv_id="WDR HD Essen">WDR HD Essen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XAhoQN8Sm1dQX-vcplp7Fdl_yAGIkRDRI04QZpd8" xmltv_id="WDR HD Wuppertal">WDR HD Wuppertal</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6qPbOBL5qs-_foR7JmrM0mKhBLXa18bRKFWJvylp" xmltv_id="WDR HD Münster">WDR HD Münster</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3n4l8Zj6CoEty6CpQ--0uauy_MSYun-p-STq2jY0" xmltv_id="WDR HD Siegen">WDR HD Siegen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="khHy6FGYwW1nc1v9f8-sxRvJa1KV803Yv-2egOJf" xmltv_id="WDR Mediathek">WDR Mediathek</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mWzOIL4KfdNk5K6ZCYa3pBKwCiGufJfYEkc9tWfv" xmltv_id="SWR RP HD">SWR RP HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jRb-Fp9u8j4zzlxo0IphRagXWSWDMKShlJlshXG1" xmltv_id="RBB Brandenburg HD">RBB Brandenburg HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2LqHamUbqm7-LNSgiW7Y967QmIcKrPKhi8DUuiex" xmltv_id="Regio TV">Regio TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NwoV0A7CRAmTccdPoWwt7bpmbN981rdWq_5wEBp4" xmltv_id="NDR FS HH HD">NDR FS HH HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kil1s8DunGpcRr4vLXa5bOGraGxBr9H44JOXscBl" xmltv_id="NDR FS MV HD">NDR FS MV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ga9ElpoNTrH8tW7PN9f9NT0F06S-6RKciPdP51oY" xmltv_id="NHK World HD">NHK World HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J" xmltv_id="France 24 (in English)">France 24 (in English)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ScpRb8XIPLd0ppqBdh5OdfbhIYJC1awm1t6y3UWd" xmltv_id="France 24 Fr HD (13)">France 24 Fr HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ynvt2y3Wk-Oz_C7kyM08G9XjMkow2S7piyD1qN-6" xmltv_id="CGTN HD">CGTN HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w1dmJY5C4gd4VhZXKpbQs1ipdkAplXxJZ_fQlS-6" xmltv_id="CGTN Documentary HD">CGTN Documentary HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms" xmltv_id="Servus TV HD Deutschland">Servus TV HD Deutschland</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wznQYuA4i4QzcCLi8ajragqv-Dd3Dal5g3OdB6zg" xmltv_id="Cnews">Cnews</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="fY3lDa4eemAnm3dgM8m4ud8YlpVkgPbuE6YqZFeP" xmltv_id="Bild Live TV">Bild Live TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="86yX3QXqgAiXY-ztCOnoRBopshoFs4F6OLNO992S" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WkTgDlno22VxkuoOC-rXBnOOnf-lFhBRIK1SFXXk" xmltv_id="Current Time TV">Current Time TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Jncrvy12Ldi1ZfMvLX28UJZOmSdWfSrE0p0rB3YS" xmltv_id="BFM TV (13)">BFM TV (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="k8Xa_tdVu4FOO97gzPVfHh6OSWx7RT6KbrQ72UIj" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="VOqemAVo6UBSWvYncEHhG_vaTy0ZZAGoOC0kNSRA" xmltv_id="TV5MONDE HD (F B CH)">TV5MONDE HD (F B CH)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8pD15azeShSIerMOtmVqZPi8Wi4tz6dPJ1O568Bz" xmltv_id="CGTN Français HD">CGTN Français HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UcyW-gIv4dH-KQvJSjtWvj5BFn9y7g8H5JO10TBH" xmltv_id="TV Monaco">TV Monaco</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7FyxNhTlImhxblyTnBxaW2_IEbbuenHwsZaHoPpH" xmltv_id="TVA - OTV">TVA - OTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DVAwom6GjVwd0duLhy-DEv0fLFpG13gxJKtwchZL" xmltv_id="Volkmusic TV">Volkmusic TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8vJzkbKQBoIh0PZgbgMuRneO8cIroIx6GjS4TV4q" xmltv_id="HSE HD">HSE HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CjuT7vZch6cHPonmCwR_b8wwMuJinLf_au5gvbxF" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L-6WTnWAl81ou6FPSn4F7JOBDUAX6GzwKQb00FFS" xmltv_id="StarParadies Austria">StarParadies Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1qNKNQ3FfRrlT8CJg3RVi7VPLcZf7L8gBUbT1DKN" xmltv_id="sonnenklar.TV HD">sonnenklar.TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lMsSMsPGJVICwZAxNdrd4ej5o2t39Yoz00U0ClXI" xmltv_id="Melodie TV">Melodie TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DHhfQstbnB14QrZf3aOV80ATX-hPfnJcZPJ3RiYr" xmltv_id="Pearl.tv HD">Pearl.tv HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AjDOtAOljJ97QQSgUuZN6-zkaKEwOhAC-V6r3AuW" xmltv_id="QVC HD Germany">QVC HD Germany</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AU2BHG3XNUjZKHn4odeDrbV8YTMpegZZaM6oQ-7L" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dRkvOhpa7RXpLcIujfb2M1TkkgfzH6tbwD1ZVWxJ" xmltv_id="Sachsen Eins">Sachsen Eins</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GsLEL5cyHijlCn40RMkhZdeK08Coiky27NICE7i6" xmltv_id="Crime Time">Crime Time</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Zkx0sAto5F6HGLtfa38sSHGEx7DsX_DRWwzquZE8" xmltv_id="Serien+">Serien+</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UY0wX1Il5y1niLJipti623j2mAyoiH1X8XC-Kv_J" xmltv_id="Just Cooking">Just Cooking</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mWbo99VEVQGXbSfsMj7rwQE_m7OKPVADUcEpviG6" xmltv_id="Xplore">Xplore</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Vp2WyZ8aGwgEotP8mplQFTNouoKRl9MAARE7VZsq" xmltv_id="Hip Trips">Hip Trips</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="f6FVu8NXlStLzM7F9ADMGtjqaftI7TtHv6PhI27_" xmltv_id="One TERRA">One TERRA</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZGhDV--Of70i0pVdAUknnIPmCugQgY1u6a1qkgim" xmltv_id="Just Fishing">Just Fishing</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="F-7BE_ZH1v9uEeEW3NpbIBoQI3cA07TYFbYZFjGD" xmltv_id="Red Adventure">Red Adventure</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YbvbK21aKYeAZzINkM-5bcMn466rvFFHt_EY1fQY" xmltv_id="GOD Europe">GOD Europe</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="bQ9RDUnp7ZmfQ8QXgU-CIxUiDXTvSmTgt1FVdISt" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-CRxFNAzevHK1Z5OX5-1VIB6ABK2EyNFeq3pzE1A" xmltv_id="K-TV Fernsehen">K-TV Fernsehen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9ipnH4rf6VWEDIovn7oJvTNoOZK9tYAJH75hydfL" xmltv_id="EWTN katholisches TV">EWTN katholisches TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ERRhGDA7jBpQZh9ac4BTZEjfAhIFx_AqHwrn1NZM" xmltv_id="Sonlife">Sonlife</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5JYz-pdQrjhb19f80fN18PgUkI1Qb00PbeOFsxKr" xmltv_id="Sophia TV">Sophia TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ipZEM9NMbIQNZa4Nwi0413z0vOHjhvj4CaNuaKYN" xmltv_id="Hope Channel HD Germany">Hope Channel HD Germany</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="19Bi9FN6WATPfVO7NWYTHnp6bxyY4MAVFHIQ1nIN" xmltv_id="Juwelo HD">Juwelo HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1jCSyQ_FcfbtCqPdZDnYykhlGg29JsQabk4WXvr0" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KKDNaS74O0r1k8EIdilzvbr27p0gCMEoQiQ32QXd" xmltv_id="Channel 21 HD">Channel 21 HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Q7aiWhpkV2NxlvBPfsR_ou3LemXjKmUIngSSn5WT" xmltv_id="Genius Teleshopping">Genius Teleshopping</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QF-QKeGSPZyrG3CDR6Y-J1luZ-_edF7-y_VNU6Aj" xmltv_id="AstroTV">AstroTV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rpIqDD3ajW3eABoTzIOkK-aD9taBXIijB37DFwSA" xmltv_id="Sparhandy TV 2">Sparhandy TV 2</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="oUAfbzBM7cT-nT1LcI22Y6nNb-mgfdSEnOJAAB7D" xmltv_id="QVC 2 Deutschland">QVC 2 Deutschland</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-he6J73NeJZDXg-HfgVxuXiYM6fP4YtK_tNw0Rum" xmltv_id="QVC Beauty &amp; Style HD">QVC Beauty &amp; Style HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3lxya3qOwmjiAzQFAPSSxc7_fTyp_qxm3XnGwsLm" xmltv_id="MeinTVshop">MeinTVshop</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yNd_Ie5UnIhPWmZPcpQD4uS7YOFJMQCTk2_wzkM6" xmltv_id="Volksmusik TV">Volksmusik TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iuXsDF5rLnEZlwRa6Qhq1Q1J0koO7La88sPx0NZo" xmltv_id="PULS 4">PULS 4</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dmCz7CDzCUJvYsPA4egKxUp_780JUhH37NmP0H-E" xmltv_id="ProSieben Austria">ProSieben Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n3yDP7NO5mCydzPJcjXeg4BCXv37PHe7DPkolyxe" xmltv_id="SAT.1 Österreich">SAT.1 Österreich</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aRBd9nolmDtBFkqWe1TYK4n0Bh984nfTvk0PrSZ5" xmltv_id="Kabel Eins Austria">Kabel Eins Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="514oPCfl9kMmpafMCMeNIQcxcbytlZ23ebJUGJET" xmltv_id="RTL Austria">RTL Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HXLNNVmUM4Q_Ty9PGsoON7PIhtaZm1P-H_yhvk-D" xmltv_id="VOX Austria">VOX Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BEhLG_RwjRKI5RCxHvRofhh2CoPqkiQUMCXrrjL1" xmltv_id="RTLZWEI Austria">RTLZWEI Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A7akpVMa8EsDexVjQKDHeElsYxXB1_D7txT69yLH" xmltv_id="ProSieben MAXX Austria">ProSieben MAXX Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh" xmltv_id="sport1">sport1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1UEYSDN8f4K10YM61V-F_rWv6L9_kVnY1xztISp2" xmltv_id="Tele 5">Tele 5</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sJVL-q7CPKj4THA8vz2pqfB0wVi7Wps2Bg1lCs28" xmltv_id="SAT.1 Gold Österreich">SAT.1 Gold Österreich</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="e_3d4wYyWprpcezUAJNVTjlhKFZo4eBGOXALN_Bv" xmltv_id="sixx Austria">sixx Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vkDuCy-3m0q_31RGnyqjksF8ouMLb38W3jJAFDvN" xmltv_id="Kabel Eins Doku Austria">Kabel Eins Doku Austria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9XR0SZqHI_J6p7-uyA-MdfzAt_fo1x5Ad4Z1T5YP" xmltv_id="ARD-Das Erste">ARD-Das Erste</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="eY_A-nCwden57XX-jzVz8VuON7LEcwfdTN20iXbk" xmltv_id="ZDF">ZDF</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EFDLUreaILbapMtPHWhoBexIZcl6DIX6dyeqIFti" xmltv_id="3sat">3sat</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5PdzSrjXPYwJlKgeCo1Ck-CFstw4d2_wUB4nElEw" xmltv_id="arte">arte</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UvJHhBfJM_JwQEYh__ql7U81jPzCZ737aGOgxhWJ" xmltv_id="Tagesschau 24">Tagesschau 24</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DovKbTuHC3SMwe-_h_nRDzHUs8Vvi2k44QNXi9fv" xmltv_id="Welt">Welt</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-" xmltv_id="KiKA">KiKA</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rj_5OuDStMJ_ahbnONBEbAv7XkUJ7H-OlpMTeo62" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzx1HhGjtSor4NY24SnftIOVAXUI32YlSk9y01Wp" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="laj_qLmppmQdtii9I_mtkwLIVGe_2pRGyqcfzKaK" xmltv_id="TOGGO plus">TOGGO plus</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qg5nNBaT3bQjkukjDSzzZPIFjx56g1x1kkXOUfQV" xmltv_id="Comedy Central (D)">Comedy Central (D)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms" xmltv_id="Servus TV Deutschland">Servus TV Deutschland</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="V_Zswp5FGABt-C6zBlqad43lr2Sc9L4pALfzflJr" xmltv_id="Deluxe Lounge">Deluxe Lounge</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L2AqhR9OoKu-QSr3nMhtn3UL8lfiAJateorj5r1i" xmltv_id="Deluxe Flashback">Deluxe Flashback</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="I4SBehRwCt3SNDfts_HXgFn_If1JIhU_1trQR-9a" xmltv_id="Deluxe Dance by Kontor">Deluxe Dance by Kontor</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6PdqtrVAsUlsu69M5Qm8TD_MY09s_0lAkBXUXMpo" xmltv_id="Deluxe Rock">Deluxe Rock</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xCGu-gc_Igh-q2hCL43KGUBlfs__2sL0wPqa-haF" xmltv_id="Deluxe Rap">Deluxe Rap</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0a1-GQWfmPcArTtD-kGibNqNKLBrRzAPorl3s7e0" xmltv_id="VOXup">VOXup</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rny34pvFLovgGYyCp8snr4oVMhz_vZSUUZCu0z5S" xmltv_id="Folx TV">Folx TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rPqIaxetBGmAR6Mg6PwaXjStUJkeIrmRJdc40Qaz" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AUtjZVdEewEEbOsunzitWSar4aQyWkDA-WSiNTdc" xmltv_id="RTL Super">RTL Super</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L0V3vUifjiTG0ThmVQtz4mn_S7U3gQcIx32Moxbx" xmltv_id="NITRO">NITRO</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1" xmltv_id="RTLup">RTLup</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Uvez7kCF9q5-Gh-grdv9OrIZMyRTZaBfG8Oz9Lnt" xmltv_id="UHD1 by ASTRA">UHD1 by ASTRA</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AhHch1biiFXAZVXWKxcqu6i4LEMitdQUE9LsPZI5" xmltv_id="SES UHD Demo Channel">SES UHD Demo Channel</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dqA4BpwlWLG57E5pr3dvtURX8sgIJzMmIkj7XyjC" xmltv_id="RTL UHD">RTL UHD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c2Zizb4y-j0jSz1je7joROr5YbwFwCVZpjVkTHAo" xmltv_id="Love Nature 4k">Love Nature 4k</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sY3uRK-8rLw2tphT6uvZicJ1Z7kvxUhbmbWi0Bb-" xmltv_id="QVC Deutschland UHD">QVC Deutschland UHD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PMsMtrmBObglAjeoZUbi5V2FQNmsuR91EXnhHP2l" xmltv_id="QVC Zwei UHD">QVC Zwei UHD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="clwCvxvD7qGz7kNxkZKAJ_UcNYWHqAkIlq7Em9VD" xmltv_id="MyZen TV 4K">MyZen TV 4K</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="N2VYHuUpqpVDKyFGVJ9MXUqclWvP2fzAI2rw6qXM" xmltv_id="InUltra UHD">InUltra UHD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="oTuWj7Dz80IV7BH-2U4PgCaN9Ehx66UkS5MVBv8a" xmltv_id="Canal Sur Andalucia">Canal Sur Andalucia</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4Pz_aq3M78aYqoCSv3qvgmLfICLwPJqLlE9PTIu0" xmltv_id="TV Galicia HD">TV Galicia HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2HIOJY-ofCxdXM1FmFeDA5YwBAzqrgLgMBwdU41u" xmltv_id="CGTN Español HD">CGTN Español HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yg8zPRxnVsLBnJziwsA6S-pwHquA59px7sTSEMqx" xmltv_id="ARAGON TV">ARAGON TV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3rRJV2EM7lxDBcA534jRuGKbIU04rr-MCtf99b64" xmltv_id="Cubavision Internacional">Cubavision Internacional</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HqyB3Hz-H3IdTOlJhhuOICMkEE_6NBg9mxHH8h00" xmltv_id="TVE Internacional (13)">TVE Internacional (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="B0UIaBjkaS-7v77FxfqKv6pPw7qVv9bJR-cPz249" xmltv_id="Rai 1 HD (13)">Rai 1 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="hPiSwCPY3HtF2-2iN8vntL6D9_jF-J86LVe-88Ia" xmltv_id="Rai 2 HD (13)">Rai 2 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sv2wb9JBzfXWK2fXH3vKqQYBAzIdwY4trO7QGcVK" xmltv_id="Rai 3 HD (13)">Rai 3 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NTek_HnoGIz0HzXbSRGUQJN0Hzs60GYWzWhdxTuX" xmltv_id="Rai News 24 HD (13)">Rai News 24 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6PdQUmnPLzjQfaJI6KFXmaUcw5TiMyocDHMmEYXw" xmltv_id="Rai Sport+ HD (13)">Rai Sport+ HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="74MHpW2ThfUQZOK2ctFUuykafaJiQn7Cp41FdPAg" xmltv_id="RTL 102,5 HD (13)">RTL 102,5 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ntvakNQ8MtYPulVvTkq63rha8f-V15zO0oXSiV4M" xmltv_id="Rai Storia HD (13)">Rai Storia HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qHAtV52-GV7VFVJ0W3Sd5YRlES1tLIIIbflJ2Gad" xmltv_id="Rai Scuola HD (13)">Rai Scuola HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="e5YNY9pCyCe6wtAQQRpIBw6eyAUBUnj3-9nuvbDg" xmltv_id="Rai Gulp HD (13)">Rai Gulp HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pH-4fuuSAjtKLfak3l-yDQCEe8oX27uHoLe4roDm" xmltv_id="Class TV Moda">Class TV Moda</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="npAmTdfrB_YsJzIJhT2WDQHFLJYqjtDDVB0B475o" xmltv_id="Uninettuno University TV (13)">Uninettuno University TV (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="d-miLrCmhbf8ycwppWBEJoUoStgaDOjnyCmSsD6N" xmltv_id="Explorer HD Channel (13)">Explorer HD Channel (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="i7XTB5KTmRF-FzfTy_TPUI8eQI_hmg5eejle9fNZ" xmltv_id="Byoblu (13)">Byoblu (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="OccQVxx_luVi6psd0d54N0jGJItqlKuNpltLH5FC" xmltv_id="Kanali Voulis (13)">Kanali Voulis (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WduKLnOqHbibLKRwDCW-SkE2Z85y2hi9vRXs0WHo" xmltv_id="Tele 5 polska (13)">Tele 5 polska (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sqHH1WROiKB_PPODGSi_0fNqkVBQZDue3OF0NQiq" xmltv_id="TV Polonia">TV Polonia</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ceybk2P4nOAw6xx9Y0PqJL3O2acNUZ-Ae8U_TAxm" xmltv_id="TRWAM">TRWAM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="36zeavl8ppzuzOgN7lhIOgN8uGlpnf1NheMyf7qu" xmltv_id="TVS-TV Silesia (13)">TVS-TV Silesia (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8MDYXh0R-mR8NDkw13ivXDlMNkXFEGaOjY6vR-K7" xmltv_id="LCP HD">LCP HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="J037Kz1swCZrU5pKlVk00VZAysPs1uLfQEIRIItQ" xmltv_id="Al Aoula Inter 1 (13)">Al Aoula Inter 1 (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JtoZ5bry646YSNkFt8ax3fcd3rAkmW1iejqggaPw" xmltv_id="2M Monde (13)">2M Monde (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L0PNuFitsGUhSethAclQRvCZ98dNZpJ2AjjDuupY" xmltv_id="Arriadia 3 (13)">Arriadia 3 (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Q9pohau_gqdcAO6BQ55Ynkhbtd6CinaW1rKpXtEM" xmltv_id="Al Maghribiyah 5 (13)">Al Maghribiyah 5 (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mgmHSe9nEMJpOLKaSgKhoGU6hCf4bfgz2AcoeK5_" xmltv_id="Al Jazeera HD (13)">Al Jazeera HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="FoN_lelJt98w1tMJS6EpOCD9vZxwsLPFHV95a-bs" xmltv_id="Al Jazeera Mubasher (13)">Al Jazeera Mubasher (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZyQaFSJB4S4DaXnSA9fM2NCD7FB2IZSQ-GnUsZ7I" xmltv_id="Al Jazeera Documentary (13)">Al Jazeera Documentary (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KjscEurHnEgY96OfT4Aeuq3UmRTHXDdUzQQijjuG" xmltv_id="Tunis 7 (13)">Tunis 7 (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jUlIlq50WqPpdh2NENfgUy8wh34ZUxzG4gauji5A" xmltv_id="Canal Algerie">Canal Algerie</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PBqN0mhu67iY59s5OSYM7Nz20zZWth6HdMDg8jwX" xmltv_id="CCTV 4 HD (13)">CCTV 4 HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vxvOwMR-SNNiIf2PIvtgyf6-2QXNXTy2bQTgHrfV" xmltv_id="KBS World HD (13)">KBS World HD (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="le0F86OFFnrwK7dIrKUgeB-JpoPLprnzjX8mRYdV" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ukwQxMoejoORnPsjVfN9LNPz5l6yG3NgpolmvUFE" xmltv_id="TVRI">TVRI</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="coKIJeQeoGx6Gq29PzIGSqSIrl2ks-UqB98NztMh" xmltv_id="8 Kanal International">8 Kanal International</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TdVqOgz-dO8vY_JWpHHPtzFPTYfl-nYPUebsfsdy" xmltv_id="UA TV (13)">UA TV (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tMzwz8dyFQDcdqWcbKnMt0_JgFbpLu7lzj_OOWq5" xmltv_id="Vozrozhdeniye (13)">Vozrozhdeniye (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YijpR0pODrTqVe2eMLlWx9lNpOJ6wFwkyVg8_-9V" xmltv_id="Espreso TV (13)">Espreso TV (13)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzmEdVtyFfV8Ni_dlDOTIlPuO1O4nShAksq4JXWu" xmltv_id="ORF 2 Niederösterreich HD">ORF 2 Niederösterreich HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l8OMp1pDXX2_m3SFZG7msQcE4TVuM1FmfRYqP0Cn" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W2d73nGpEuJLjIKAhrZhs1ulrzFOVB2u9BD1ChKX" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EGkIbiTkfzSyTtRIlKkxkl8ysP98rxLIxLbDux8G" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l86tV1jQtIOqWiGD9KAsbPSoOVMgJHvX4ucE1lju" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9ojzZJvXrGxId0lQQs6Fbvhy6HuZJwTJl9lpc_BO" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tMOk3OJHy5wFLKECCOyzrZu619Y3aZPasYb5_5Cs" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Z_1-siR62MIpoTSX4wxHeJIgvygSiYOng75jYzZC" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UurnAERgsmTp4v-YnPueI79MEJzpWXYi6ZCshYH2" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A_J1UX8STQI7IRaqmRFLO5gM8rR8VNCyfslmV5l9" xmltv_id="OTA Cam 701 Download">OTA Cam 701 Download</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7mZM3dFV3xT2P99thPns2cTy7YJEGrMby0F2ZL8m" xmltv_id="OE1">OE1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lnBN7N2yjB8hO1C1IY5SzrgAaqAWCAf-ilZIf2IQ" xmltv_id="OE1 DD">OE1 DD</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wc1tJm8cVEFBQlzbpGTbtjcFjCaM6boyW7A4ilyA" xmltv_id="OE2B">OE2B</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9K1CQcUJNmJCO3-NtPYDtxNkku5CwGUbeOud-Eif" xmltv_id="OE2K">OE2K</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5VVmqAqllPp8DIJJ4j-Z_r10lbmli-P8FkNO_ND_" xmltv_id="OE2N">OE2N</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DtkRgkB9MJrjmI8NJ09zzLbRwB5DS6pdlw3Cf1md" xmltv_id="OE2O">OE2O</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7Rv3x0LvpucqAaTKPCODYnafxwrQUst0tsfICqZr" xmltv_id="OE2S">OE2S</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5GMA19j0K6znADeho5DGjamlHWJG6ahVrBE5qIjC" xmltv_id="OE2ST">OE2ST</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DDDgLoKb1R6SSL3JNApp0rPKC6KktZACBuFfJkaE" xmltv_id="OE2T">OE2T</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R8ogQ7bqWGoEOgVY1B15rM3ljfHAVZcaEaqJSE8Q" xmltv_id="OE2V">OE2V</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aKxnlI4Ef8bNyiFBWWi2vt8jlAPTMtdiMA2B8rkQ" xmltv_id="OE2W">OE2W</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="G0L2vd0cd_jRtZ-JvXcFBkwkv_CpPgCBMBfXQ-tY" xmltv_id="OE3">OE3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6Cu05BPq1YD3RpWQCVCYe4zgUSmnEfIvz6QwlZFc" xmltv_id="Hitradio OE3">Hitradio OE3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ipoCF5fJLdIPBJ9uDnldsj6md-PbxAHXtiu2E-1g" xmltv_id="NDR Schlager">NDR Schlager</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mpXu0ybndRTKf5CEUDERL_T-4FxdcjXx2cerB-ia" xmltv_id="Radio Maria">Radio Maria</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mIbSwwtzAdDOTRITj7ghsEhphQM9AzBcdyLQxXjF" xmltv_id="BBC World Service">BBC World Service</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dzdOvHl0XE9rt88SGblFwgu3zdjGVjF69rHC8GKJ" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kIlb6PlOEEaTGC15yMIqgx1lx3BRUCbOfy8FRqVC" xmltv_id="Bayern 1">Bayern 1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w6Ekn0-n0Ciw9CMKq1tW0toxvYDZPC-C5zhz1GL7" xmltv_id="Bayern 2">Bayern 2</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PLuNW3UCIv95Ob7UIwQEV02pPqd2_HidfUH4HwNf" xmltv_id="Bayern3">Bayern3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DD0mcBkrghT9kac1_DCid37_e3_3Au-rhM8WeF-L" xmltv_id="Bayern4Klassik">Bayern4Klassik</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4mOYIVGxHIH9vtXxP4XqRMteZXy5BhOW_t0_mjJJ" xmltv_id="BR24">BR24</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZLg91ENJRqjZa8Aoo9eFD3CCxnjAmrHY2XB2_z88" xmltv_id="BR Schlager">BR Schlager</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A5I3nRBV41rVgmnSaSBF92QZcV5pnurP5FBVkLyD" xmltv_id="PULS">PULS</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vb2SbSVdrxy1yieZTtb3kQcfTg5R06f4JKsMjJVT" xmltv_id="BR Heimat">BR Heimat</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dOVrZeh3E19PFxSfcJvqyR-oJKoZvwMb5XrttIlT" xmltv_id="hr1">hr1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="B7Di61d8HP51CU73ivkGo121x6T8r6Y5BGvLzEh2" xmltv_id="hr2">hr2</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vYINbk-EcNzkqhOZx3uz8fGN-PGMjDxcPn89dcHe" xmltv_id="hr3">hr3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="MGH9M-Y-iWihN5xjmuXFm0oag2Q4ZpdYOQoNk-z4" xmltv_id="hr4">hr4</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ByIW9gO3dLVft8Oi_icbq6I8yKj0v-ekE0ZMx7NP" xmltv_id="You FM">You FM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NAeVaxkPOG1_ygfddzpM9aoxZRurDl7MDBEvzwXn" xmltv_id="hr-info">hr-info</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n-7vsARqGAh0TzQ9zFvzECEhEw-x07HIEab9fYsk" xmltv_id="MDR JUMP">MDR JUMP</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tv60bV6z3nfxW4i8EEnhUmH0_1ekcrLTDi_qvWk_" xmltv_id="MDR1 SACHSEN">MDR1 SACHSEN</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ml1nCvizmLYwA5ECcXImrU4GLVLdkGYNQAttNrVa" xmltv_id="MDR1 S-Anhalt">MDR1 S-Anhalt</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ba95dACeadv6gkOqWGJ6IwWjODhxntKs4CNq3a1H" xmltv_id="MDR1 Thuringen">MDR1 Thuringen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Bbd1__3OxhPEGAT9QJStLpeJr69u_9WraBxNNFEr" xmltv_id="MDR Kultur">MDR Kultur</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="logVSV-t234UyTXacrS-BzkajojVIhnmnW6zkZwE" xmltv_id="MDR Aktuell">MDR Aktuell</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cQhOQq3XW2eFB7pg82Dvs6e6ihxmXPeEbIM6SR0o" xmltv_id="NDR Kultur">NDR Kultur</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="i1PjAI0_v0160EzUshO0jteKSVfk6QCKNwrMZ3RO" xmltv_id="NDR Info">NDR Info</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WzQ2GWLN7Vr-ugHOL_vAhZRxm2oDn2nMe73RWlwk" xmltv_id="N-Joy">N-Joy</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0-dOPReuJc7KUhznvUWVVxlssvG5-QSLDL1W4UsU" xmltv_id="NDR 90.3">NDR 90.3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nN7MqS7lVBYR17g7DHbU3KAuvUCluSS-kU7D0tNX" xmltv_id="NDR 1 Radio MV">NDR 1 Radio MV</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="g9Q2-WnfWPiWSkuMzdcw8Q-ZaMyq11gD4msrMxO7" xmltv_id="NDR 1 Radio Niedersachsen">NDR 1 Radio Niedersachsen</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kY3IyDoM9gyAq2WyMKmOeIg1k2Xmo3LcjSo1SZdx" xmltv_id="NDR Info Spezial">NDR Info Spezial</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NFRzvwVWJot41DyI981OX7lfjKQ7ZxdBrZOAPQa-" xmltv_id="NDR 1 Welle Nord">NDR 1 Welle Nord</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PBQnyrxIp1uym_rDpR5rTcrBtfP5MfFcDuDztxIv" xmltv_id="WDR Event">WDR Event</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="j_DwBJp5Mz0Jj6Mo6wxzuQF4in2q7cxC9cDmK_1D" xmltv_id="RBB24 Inforadio">RBB24 Inforadio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QawEV1WlaoFAVPF4M9LKHq3Ny7okWSupT6wwRTID" xmltv_id="RBB Kultur">RBB Kultur</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="hauIPyOcUQ9tqN0szu6qIdFiWILVqISe4y1DzN8I" xmltv_id="RBB Antenne Brandenburg">RBB Antenne Brandenburg</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XE8qvRifzuB9uA91qCpEtOBVLLvHNeHOXSf9L_kP" xmltv_id="Radio Berlin 88.8">Radio Berlin 88.8</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0Xx9UzLRCfyRIcz5qjqhp1gnlqTbn9Ehq6LPVDzf" xmltv_id="SR3 (Saarlandwelle)">SR3 (Saarlandwelle)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nNEcLrL9ZDBEMi5Q5YlWRS0kj825kVnTb9J9_nny" xmltv_id="MDR SPUTNIK">MDR SPUTNIK</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SV6pAZSPB8KoZn1YQw8OVUtaoeosTbI1FaLWPrut" xmltv_id="SR1 (Europawelle)">SR1 (Europawelle)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xkpgAA2shuFqTEcuK6a3koqjCsCCSreFzpov0bCK" xmltv_id="SR2 (Kulturradio)">SR2 (Kulturradio)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="o6Ml4qh1CaumxBaPYWWCuxs_4tRy-5JLTuSkO6o-" xmltv_id="SWR1 BW">SWR1 BW</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="z3a-_eWRdvPzbFz6G44KK8onzI4Jo_ri0DpvBlSm" xmltv_id="SWR1 RP">SWR1 RP</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7m9NYi8c6uh2mUjR5qWo9FJh5zOApuGhSKugHC4p" xmltv_id="SWR2 BW">SWR2 BW</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pQHQ81nVjmFrDP2oaVe2PwQbLIUgKNWt0a-omoJN" xmltv_id="SWR3">SWR3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lqsqr0D_gZgaE7_UOyscpZVjbvBzraG6yuli4L-o" xmltv_id="SWR4 BW">SWR4 BW</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dUCR6jdp_BuEH2id0t-6UplYIV3yG81iKI9NGwxI" xmltv_id="SWR4 RP">SWR4 RP</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5pe5WfgUqL5t_Ap4DTJXr4UWEZm4_hrCxJxwGTbF" xmltv_id="NDR Blue">NDR Blue</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9qjAO_dAL9oPSaf4wfsKJYBfDzKOLyDNTL44Tbg8" xmltv_id="DAS DING">DAS DING</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ORiwrCuHWg6qyExbGgq9rBXmzEL7LSg1OSSVGGck" xmltv_id="SWR Aktuell">SWR Aktuell</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R-dgmOIlCw2H9xFViirmeQjWyPvVXQzUr2xpO4Hj" xmltv_id="WDR 1LIVE">WDR 1LIVE</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CxLumB-_Jv1LCjYpOfzuyyS6TOnIdJvaQmi9GgVE" xmltv_id="WDR 2 Rheinland">WDR 2 Rheinland</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l--hx0cdVaqvVMpZ3GzGabsUmV7xfqtGE8ef0vX8" xmltv_id="WDR 3">WDR 3</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GE67QJkZlO7iFHcdkGxarPSRU4OkdThTn6AVx7VQ" xmltv_id="WDR 4">WDR 4</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mBS_9TslHXsW6fWGTihCabcbF6XoF5maMAli01y7" xmltv_id="WDR 5">WDR 5</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NA8VHHkHJnMIBnSEzQ1c0U8AlHTkNJAuCG3WNzOW" xmltv_id="WDR Cosmo">WDR Cosmo</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LZwwZ6jaUsuuuLXnGD63tIiL01qHG56YQUJ_Tv2m" xmltv_id="WDR 1Live Diggi">WDR 1Live Diggi</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="41ipP2ovrI0Ls9hrSzRRa7QNs5xEnB22oH8MjBX3" xmltv_id="WDR Die Maus">WDR Die Maus</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TgufeJEK6q4G3DKQF4Sy_y2AZqBDekc9_gT6UbGS" xmltv_id="RBB Radioeins">RBB Radioeins</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="znOoF8FeXHr-fP0m_9ZBxVlXWdLRWoqhkySwAuSZ" xmltv_id="Deutschlandfunk Kultur">Deutschlandfunk Kultur</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iaVE2wFZvppY6kdk6hM6BBJnfXV5cE6-3JM4r0k5" xmltv_id="Deutschlandfunk">Deutschlandfunk</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="f3of4tSE9ODW8gsEnbmxt4GvdXkNL2ewKqk3LTbj" xmltv_id="FM4">FM4</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JDutbeQiMcd3yb2JTLd3dSiAi9YuyvF1ODx2H1ee" xmltv_id="Antenne 50Plus">Antenne 50Plus</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dMa3MI9aM0jigZ7SxjSWNF9UoXQSrPp-4s7G89bv" xmltv_id="Rockantenne">Rockantenne</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="z_245K9xABRm4lxzdWrJrzCI62BSOvnr89aZeWvz" xmltv_id="Sunshine Live">Sunshine Live</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ttqELLsLvA7Y2HCGC6kufYaFPKtFzrAUztqVKBhJ" xmltv_id="Klassik Radio">Klassik Radio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8iPRhcPI2fBLnAA5MLbAvO721QlUGYT2dhRg3FeX" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KLf5_LT8QXQvy4GgRdG0nuJhogP3vPD-m8FAAuf2" xmltv_id="Radio Horeb">Radio Horeb</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3SVAzAT1I9eaAccfAO7lZNHnyKwZsNn9_agZ-eW2" xmltv_id="Radio Paloma">Radio Paloma</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XU4OWJKwn7wqcGnK4bsDhslhdj4WZGwExoXtvyGU" xmltv_id="RBB Fritz">RBB Fritz</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SIVExDYwBMP3HTxirJw1pnPbYxat56QV4pT0emhA" xmltv_id="Deutschlandfunk Nova">Deutschlandfunk Nova</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TWEf2KWveU2lAAQkS1Pm4U6JEZuWT6v41nipgxXs" xmltv_id="Teddy">Teddy</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mcu5xa13hDRRO_WVy3iyx8c3FNQSJRPmmOv1uILK" xmltv_id="BR24 Live">BR24 Live</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DHwn18fQXmuB1fa4n1ubLMGgik8Nq8kJtLo_Suo9" xmltv_id="Bremen Eins">Bremen Eins</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="fi5IIY0aEeynJAskEK5kABce30sdiKCgepdBnNnz" xmltv_id="Bremen Vier">Bremen Vier</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jmmyNHKri4y32gldVrJRuzZazX_PkhE-5kpIOTAY" xmltv_id="Bremen Next">Bremen Next</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LpCo2-u05d4FUhYoccKQR6RolJQiqlMvd0E8lfam" xmltv_id="FFN Digital">FFN Digital</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="S0oVHKeqEma3MOXAIjn0r_ugz-UWNt2OTc2cl5fS" xmltv_id="MDR Klassik">MDR Klassik</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="P6S5TqsvhbI-wwo9kKNxGgGFDU2_ftchSSRm_CY-" xmltv_id="NDR 2">NDR 2</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DNv2fCfEK0RvVod9yIFc3x8eWaAIGsw2t8fhLo1h" xmltv_id="RTL Radio">RTL Radio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EHFJJhpIfBFKDhRAvwMOc8Oh9tG6CdTuPZFwcZhb" xmltv_id="Toggo Radio">Toggo Radio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="E8yujEfFLH88jf8-NCQWTphGsQEZCpTrD1iTbXaF" xmltv_id="BBC ARABIC">BBC ARABIC</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HJUYCTPFA9jpNWw24F34ZGO7c5jmO3tAHeoPFmZ0" xmltv_id="RTL">RTL</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c08wyl-z8vvwjT5rtd_Ax3DeDQtRhTXWoRtJMGcH" xmltv_id="RTL 2 FR">RTL 2 FR</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="bcZTcFBNPNEDNNEftzlU6SPXIHVHA786fFN7Byc3" xmltv_id="Fun Radio">Fun Radio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Gl7AAwn5DtRp2AtlhNyzaq3M3kJCdmhE0XmTa035" xmltv_id="Radio Classique">Radio Classique</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wT_u3n-G6rT5_mpA3cVjnHdu3F3LlxbAcKfHD0t9" xmltv_id="NRJ FR">NRJ FR</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R6aigCbVmD9KeFRUqaSKZTjk6L9E5gL3GEO2m4NF" xmltv_id="Europe 1">Europe 1</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZV9RmttFmt2HeiFP6LTgvA_XYUQY6BlDHgTvYFXs" xmltv_id="Europe2">Europe2</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GjOgXd3RzWAqPy7h23NAEcNHuvqO2PNv5Gs4EErC" xmltv_id="Sky Rock">Sky Rock</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yKZqAQcMemn8Ek8g1Y8rgdkc-tnRLgmhFuG0O2sT" xmltv_id="Radio Nova">Radio Nova</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="I32XjWi73jNgu2E6zUS60mLhwu_SCUSYjK_Sc0lj" xmltv_id="RFM">RFM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rge0pSYeydiSkIELi7zhSNUyY7-CPaqvBbC0K-0t" xmltv_id="Cherie FM">Cherie FM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2vqP1rvXChjBQZPQhwh03CaNhuZ70cUAglZ_KFVr" xmltv_id="France CULTURE">France CULTURE</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5_NnbZHJgaZSpwfaamBr1tEWlrRRY1E61gsU4Vpt" xmltv_id="France Info">France Info</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UT4274U9jAr0X0tBJZfozr2iT9oeJnFTHaoZwBrb" xmltv_id="France INTER">France INTER</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_WEtzLrlpm9cRuKJkIvCmu6m4k4wnnLcEkc4Bz7j" xmltv_id="France Musique">France Musique</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TvueZVwE0ypFxsZevSr8hmlLeIPlYWr4C6pcA6X1" xmltv_id="France Bleue IDF">France Bleue IDF</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Kk54hVzTyGcTr6ywNXOlqNGzWEsq5PgO9arVu10q" xmltv_id="RFI Int">RFI Int</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NEFAa8ene6URP_DO1d2cxpYW06Hz14wc4hVH682c" xmltv_id="Rire et Chansons">Rire et Chansons</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uRAVBq-ZdG6GsWjIy3WgkhmJJdKIZE0unIS0tOUj" xmltv_id="Mc Doualiya">Mc Doualiya</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="s8qbyaAinlQ1eXktQR5ITjMfoCtV-6aTy5PJyCqs" xmltv_id="TSF">TSF</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mSTzGkp-fERmWWW_eCqI2I1DCrPUGmEHVjzGR8p7" xmltv_id="Le Mouv">Le Mouv</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qd1goui1c-uvkI-WRGZnwUj_Ef9QSKbGJva9eKBr" xmltv_id="Contact FM">Contact FM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="28hFbyq8QUl7y80rYbou-_Bsa43yXvu77aDd7r40" xmltv_id="Oui FM">Oui FM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NbtaIqhr5lfcv1DqldkVqq7Ur8qQSL3O_5SNiOvh" xmltv_id="Beur FM">Beur FM</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GwxzoEMObwC2jFektb_gyiEQD38nRIcTHqAKDwea" xmltv_id="Sud Radio">Sud Radio</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="G5Vf8907m_Xs8rruY_EEln0UytNjHzitxfMtWL-1" xmltv_id="Nostalgie (FR)">Nostalgie (FR)</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rGWKgEeqHp214dDTFacUcmF4gTi55NQe5xykHOcJ" xmltv_id="FIP">FIP</channel>
-    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mQhxdcylWzLD6zCyzEUXYT_5hjWwfKMqQHal6E5j" xmltv_id="WRN Deutsch">WRN Deutsch</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XllPIWXi5SuzUlb5zXnWN7as2sNnCTH_aQmOdo0s||channelicons_ORF%20Eins%20HD_4742_org.png" xmltv_id="ORF Eins HD">ORF Eins HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AdInRXGCclZMlYdybqQ-zSv8_9xzNPp6cMFaXndD||ORF%202%20Wien%20HD_org.png" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aKnPd5fGwOhBar1Pn72hxWEaKujnZodAaamgcnWD||channelicons_CANAL%20%20Action_4749_org.png" xmltv_id="CANAL+ Action">CANAL+ Action</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XBbkKkTcOEWQu1yH5ViWgwy-aCFBhlhBJIfoDpid||PULS%204%20HD_org.png" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BzTepC66K1d2SMd1-NN7ZNJHmOXhfiO_iTij5dRN||channelicons_ATV%20HD_4743_org.png" xmltv_id="ATV HD">ATV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w4J2vBUrWNt-KgL67875h8HJByv_19OeaQstz_zC||ProSieben%20HD%20Austria_org.png" xmltv_id="ProSieben HD Austria">ProSieben HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_FE0ea-Cj6ek-Ac8gcILB_7T9F--E9jmHp0XH7LM||SAT.1%20HD%20Austria_org.png" xmltv_id="SAT.1 HD Austria">SAT.1 HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gEzq3J_xV1Ag3hdr3Z1I86ZAk377fqEZnneN2is2||RTL%20HD%20Austria_org.png" xmltv_id="RTL HD Austria">RTL HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zLKa0r9d1SIXpHKd7jFZQVDu48uSvctzbw3PHAsg||VOX%20HD%20Austria_org.png" xmltv_id="VOX HD Austria">VOX HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="OkiQM2OgTENArW6EAsPxh3zCCWo_9KE6vyqADsAt||FST_Kabel%20Eins%20HD%20Austria_9005_org.png" xmltv_id="Kabel Eins HD Austria">Kabel Eins HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iacxbFNK01XoLBMrEwuH8wJmDX7QSu6Pi93fKk06||Servus%20TV%20HD%20%C3%96sterreich_org.png" xmltv_id="Servus TV HD Österreich">Servus TV HD Österreich</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9x2Y-reSWJnCYXAd9c1CO-AeSgWypvJycWs2n4Iu||OE24.TV%20HD_org.png" xmltv_id="OE24.TV HD">OE24.TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cKsd0uQWh7Ru32iOz7PYm2g6ksuxxsLZgn5BghkE||Kurier%20TV_org.png" xmltv_id="Kurier TV">Kurier TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XLcEGv4j-ZqBNfNSjJ5cKSyz9dOX3nqjFg7asDcG||ATV2%20HD_org.png" xmltv_id="ATV2 HD">ATV2 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jHT9znlz_uYYggrbftDRfU_40bcrl8b2pgGm-Urr||RTLZWEI%20HD%20Austria_org.png" xmltv_id="RTLZWEI HD Austria">RTLZWEI HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YDHTGfdjaRQMohZsR09NoSAgg0_SLxgDh1JYSeiG||RTL%20Super%20Austria_org.png" xmltv_id="RTL Super Austria">RTL Super Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xwm__FbfP2hF2KmJLMHzazXJ4G0qZMERd5yAu46y||Comedy%20Central%20HD%20Austria_org.png" xmltv_id="Comedy Central HD Austria">Comedy Central HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RJjtOigmq7CTGl0a5bSKWtdCp_n1xAFNeJ-11lRQ||SAT.1%20Gold%20HD_org.png" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="q-m_MwF8Qyu0JpCq9nkAnRV5OGq3_6dqM6ytd-OK||sixx%20HD_org.png" xmltv_id="sixx HD">sixx HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rj_5OuDStMJ_ahbnONBEbAv7XkUJ7H-OlpMTeo62||Disney%20Channel%20HD_org.png" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YA_e_ExmCKmnvX-dM24MdwqHgVUxKjrbxtxM-PYJ||Kabel%20Eins%20Doku%20HD%20Austria_org.png" xmltv_id="Kabel Eins Doku HD Austria">Kabel Eins Doku HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="r5usBAZOlAPh9S3-A1Zk8BetNKxS-3zrpLfZQdPN||ProSieben%20MAXX%20HD%20Austria_org.png" xmltv_id="ProSieben MAXX HD Austria">ProSieben MAXX HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ybxBk6aDdP4DErwrRzvfRvF4PCm3xBC2XEw9rhLU||NITRO%20Austria_org.png" xmltv_id="NITRO Austria">NITRO Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mIWnkrnkpEZlfm_mdM1XuYKL5JN4I4rJ17TQSQyj||PULS%2024%20HD_org.png" xmltv_id="PULS 24 HD">PULS 24 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ht8PLXTQ6yUTNuoO98G3FwhWusg2d7cbv4SKcvRW||ntv%20HD_org.png" xmltv_id="ntv HD">ntv HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-VmzDgzMjKZqMq7_ijo5MkUxUOe3dZV1BwroqpaN||Das%20Erste%20HD_org.png" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vE6LG8TP-4Qity13kIxWzTkbPJDIjjb0BuI2WIdL||ZDF%20HD_org.png" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="U37eEhFgkcU_XazbpkZXag6l0sVebYihVPkKHBAv||ORF%20III%20HD_org.png" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lXBqOT3PILwwnKsVEHATHY_1Ip3v5BgRYnIKgPCa||3sat%20HD_org.png" xmltv_id="3sat HD">3sat HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZlYLuRV9FUJmabygjF4yGuoe2XhuualwVN9M1O6e||FST_Arte%20HD_9006_org.png" xmltv_id="Arte HD">Arte HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JSzTIqGOkug3Zkzm3Rp4Q4IoAof5SCaZaxNSwqRC||SAT.1%20emotions_org.png" xmltv_id="SAT.1 emotions">SAT.1 emotions</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8_eT8dkW28-_Qauy7Dv_Z3zgdMckZzsfUt61D5m-||FST_Kabel%20Eins%20CLASSICS_9007_org.png" xmltv_id="Kabel Eins CLASSICS">Kabel Eins CLASSICS</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zEu6GAtUCXyPCeqezGY4c_R54yM8jznyP7lEweTg||KinoweltTV_org.png" xmltv_id="KinoweltTV">KinoweltTV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zR5DX1b5H-Fcy3uKehbvS-wKWg3iG2QwiDc-h8ig||channelicons_ORF%20Sport%20%20HD_7884_org.png" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rmSjj7YgCK6PXcdsA94iroV0tMe7c7xKMAlpXPP_||Eurosport%201%20Deutschland_org.png" xmltv_id="Eurosport 1 Deutschland">Eurosport 1 Deutschland</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="J8etx1Z22KaRYQa3rwBsiUo-l2tZtIc_fGJGNxgN||channelicons_Sportdigital1%20_7050_org.png" xmltv_id="Sportdigital1+">Sportdigital1+</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YSgP4j0mGH29Of4hj3qKphRIw_pJoGdWfTPCpgiV||SPORTDIGITAL%20FUSSBALL_org.png" xmltv_id="SPORTDIGITAL FUSSBALL">SPORTDIGITAL FUSSBALL</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh||Sport1%20HD_org.png" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PomHFJBvkRV4rTqDpSNyk6OB1EsYOq9gAhmyWB8s||DMAX%20Austria_org.png" xmltv_id="DMAX Austria">DMAX Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NPkUlG_PBqxC_yrDAaH-H5EuN5ANc7J-6Kn4Z__d||TLC%20Austria_org.png" xmltv_id="TLC Austria">TLC Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wxajmDadMTgnp2SmbRhmdhrCg5EZ25b7boOpPzCU||CrimeInvestigation_org.png" xmltv_id="Crime+Investigation">Crime+Investigation</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5rBVOiMWMSDKd0JjAlTEn1hOUKtDuzIGs5JlAEfx||History%20Channel%20HD_org.png" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n4Fqd6jSa9lhB0EPVuCq4nbEkFejOZbGedp4JN6S||Tele%205%20HD%20Austria_org.png" xmltv_id="Tele 5 HD Austria">Tele 5 HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rGlO1pRQxFEFerkw0wXRmg5LfdelOexOxcHyZcv2||SyFy%20HD_org.png" xmltv_id="SyFy HD">SyFy HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="IQUOAfmmnM4bHlh1dGpmhKJxpvVmE4jbKMxLu9fX||ProSieben%20FUN%20HD_org.png" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="k1wTxvG7PLt1KqKX6-IL_Jfd5W_Pb41KGXBwQ8WF||Universal%20TV%20HD_org.png" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Hg8nXGk78wGTumaIz7MsMeW-hbJhF7o9d9-B-v4E||13th%20Street%20HD_org.png" xmltv_id="13th Street HD">13th Street HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qrWWPTElzXesaBYXp4Hcea1rQXXimaAQzxkUIYLT||R9%20%C3%96sterreich%20HD_org.png" xmltv_id="R9 Österreich HD">R9 Österreich HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dksPkUoqN53oekBG-EGKHYwSYhRSeA0sSPQU6AaN||LT1_org.png" xmltv_id="LT1">LT1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="H8rrGqLz4X-cYnLvZzND_rIEsisSRmNk9jR5PeNC||TV1%20OOE_org.png" xmltv_id="TV1 OOE">TV1 OOE</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6teRyJrAsZLxFlZxqtwoWoIh31vIoEDvYaSPVCjN||Welt%20HD_org.png" xmltv_id="Welt HD">Welt HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2c8VBmQkjxPT7fo0ZJSyVrPTfm5I5fOroDlPL8JF||channelicons_Tagesschau%2024%20HD_4744_org.png" xmltv_id="Tagesschau 24 HD">Tagesschau 24 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="veE2L-Ar3ZuXcfCFf1lw2MWsN7V_SjCcq-GSHAMl||FST_ntv_9008_org.png" xmltv_id="ntv">ntv</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uinRH9tyRdsRFNQNt2IrjfSefYW62EvtImfh6JUj||Krone%20TV_org.png" xmltv_id="Krone TV">Krone TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0ZAi5RvqNu8QCR7NLHSrnHivAaORQZMT4my4hccD||ZDF_neo%20HD_org.png" xmltv_id="ZDF_neo HD">ZDF_neo HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A_kUN_sEspE3TS-6X6lX-KKxUDZAGxVlXfm_LFz8||ONE%20HD_org.png" xmltv_id="ONE HD">ONE HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0bKSq1fiMBf5yOupWzoLhBBdeA0e3VYYwUlNSKTc||ARD-alpha%20HD_org.png" xmltv_id="ARD-alpha HD">ARD-alpha HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KU_1m3GhDiBK-LF5st2JdbeGPtMdG8_XaKXcALz-||Anixe%20HD%20Serie_org.png" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_tzxk06emsMjKwcl_R8NTLPpOrcauHnfmJ-wlf75||Anixe%20_org.png" xmltv_id="Anixe +">Anixe +</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="T2sybNh_3KFJkPY-Vop378j6rTt895PjXNRC4wPw||phoenix%20HD_org.png" xmltv_id="phoenix HD">phoenix HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7C23WBA4SKmWqZoQm06_ZxRMRm0ST1qaNg0x8DKh||BBC%20News_org.png" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_lYAaFXuigO2Y41jJaV70v5dh7TOpWcsg3tdVRIh||CNN%20International_org.png" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_RVw6L7EBUIG4-BSuxzlB83DJiST2r2Lz5Ag1hVO||Sky%20News_org.png" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w2Ne8-SdZtBTSLlYGKqAq-U9dF09Mjj4Pjorp0pk||Euronews_org.png" xmltv_id="Euronews">Euronews</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_Ky4fAmLqafF2o5ZbZwwPb0GqRtMGPzO3lXBM_Vd||channelicons_Bloomberg_4263_org.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jo6muwfrJiEjZNPZ6FwAJ9kzqTS-7NDpQCa1PTAJ||CNBC%20HD_org.png" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M7Xv6_N9CDQHvVP0aJKDHOuJCResQZjTIg-pigWP||Newsmax%20HD_org.png" xmltv_id="Newsmax HD">Newsmax HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzx1HhGjtSor4NY24SnftIOVAXUI32YlSk9y01Wp||Nickelodeon_org.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-||KiKA%20HD_org.png" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="u8uQ2ZQih0D5WgGUA0SxoMsRL2HxFhYexFNpQmOJ||RiC_org.png" xmltv_id="RiC">RiC</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TnA-_ERsA5n90J5VTev6UZD75NkRjYhgstCL8Fo1||Nick%20Jr._org.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2aXefXD-zDYmVPb4Tx7yPA8nAzUJGP7min_cbmbo||Fix%20%26%20Foxi_org.png" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1ph8RnRWZ4D0UqBbmTdqnL_FhaR68YzxFQh2Jsxa||FST_duck%20TV_9009_org.png" xmltv_id="duck TV">duck TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mbm_WV2MeEpNWOBpyfM2SPBNGmv3kPiAdlXwDU6_||National%20Geographic%20HD_org.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cq_sV_NaI2A7NdPbh-M92bXTEaYD7MW-VTovPrw1||FST_National%20Geographic%20WILD%20HD_9010_org.png" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NO2MFZhz8dGZs6ILf2PmSyNshGHkiOVfbk21Qve7||Marco%20Polo_org.png" xmltv_id="Marco Polo">Marco Polo</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UkL0JlXceD33uUGULv6k0rlqMwYzELkqrlWPKaFW||N24%20Doku_org.png" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jKRVPGaQ7H6eofRvNrNrsGgUvAlfyRMTiQc8S7Vj||Bergblick_org.png" xmltv_id="Bergblick">Bergblick</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CSGKliRXOms6lsxLKX16R_Zijbb6xABcSo-ReWMH||ZDFinfo%20HD_org.png" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3YkPDJJdyjwswasPAIGFn8QaYsTE1vyJC8nnNFlD||auto%20motor%20und%20sport_org.png" xmltv_id="auto motor und sport">auto motor und sport</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Si71DQk6DpIlIhW7iIFBkib7Wj4LnTJ9iFbKuDJg||INPLUS_org.png" xmltv_id="INPLUS">INPLUS</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qkurpqg-1I4MvV2ZgYCh7BwCOKQ2nOWiEvUmfrbq||Nautical%20Channel%20HD_org.png" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="zoMODWXKwt61KvG7rC1i47ar7o2KjZ2FQYP45Go9||Romance%20TV%20HD_org.png" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ppiPp9UqrpmVrE5dQBeu3Tn-HdXdFdoGUq3q_11i||RTL%20Living%20HD_org.png" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uhCv4gEIdnapT2OBP-o4A0iZHi3wr3f4tWf5WAbR||Heimatkanal_org.png" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1||RTLup%20Austria_org.png" xmltv_id="RTLup Austria">RTLup Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1xAweThSb0ehJR7kYC2jKGSpoe9zXD3jpw1M6YEM||Dokusat_org.png" xmltv_id="Dokusat">Dokusat</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aNI-C4v8Zb0k9U7J0ppcNgEubJKbftvbPrbYKPxx||HGTV_org.png" xmltv_id="HGTV">HGTV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c2Zizb4y-j0jSz1je7joROr5YbwFwCVZpjVkTHAo||channelicons_Love%20Nature%20HD_3447_org.png" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzzOPjn9-HFO22_9TIFik_kYR33hCvPGAG-X04lw||%2818%29%20Hustler%20TV_org.png" xmltv_id="(18+) Hustler TV">(18+) Hustler TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LppV5VNv-_xc9kMKBA86imA_-vLCecdiZr3MIEyU||%2818%29%20VividTV_org.png" xmltv_id="(18+) VividTV">(18+) VividTV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SU8j9Ce1vrvKFuPntS1BYU6YQvaj7ayY4yF8SpiQ||%2818%29%20Dorcel%20TV%20HD_org.png" xmltv_id="(18+) Dorcel TV HD">(18+) Dorcel TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UZYysXfobARiMj1_pu4MsuGbvKXyl0cJEygUFyGk||%2818%29%20Dorcel%20XXX_org.png" xmltv_id="(18+) Dorcel XXX">(18+) Dorcel XXX</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YpjzRbEa_wpN2s7x5MDvTjWUzv6hIB0PBTvAhgO3||%2818%29%20Penthouse%20Gold_org.png" xmltv_id="(18+) Penthouse Gold">(18+) Penthouse Gold</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W5KqxeJvhLz-EwVOQTLf6bYF0f0QV9cJN9K_h7vD||%2816%29%20Penthouse%20Passion_org.png" xmltv_id="(16+) Penthouse Passion">(16+) Penthouse Passion</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Q5HzqCO2eICuK0QQjDkSOrUXCVUiNAVWySg7yUJh||%2818%29%20Playboy%20TV%20HD_org.png" xmltv_id="(18+) Playboy TV HD">(18+) Playboy TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GuWcT5XzyK01Z74TLsufoJ0VThHsJ_K9S6eG8XEg||%2818%29%20VIXEN%20HD_org.png" xmltv_id="(18+) VIXEN HD">(18+) VIXEN HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CEt1wMuNbaYufOww-Ogp5lB403jxA6VUB_jnhCKG||MTV%20HD%20Austria_org.png" xmltv_id="MTV HD Austria">MTV HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rDMCcR1zzj5YF9iDGlDTCqziYlF6_N3mzPrcCNgk||MTV%20Hits_org.png" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4B9B323_AWbDp48FAtAWCvOnfxMDdms4nMdVjAdQ||Club%20MTV_org.png" xmltv_id="Club MTV">Club MTV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pbdVif7JUO7YVFvU-YzEIgFIwKNSHb5lMctKzNLy||MTV%2080s_org.png" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XrQ8cSZDATZVahqmNvfAvwbspnn3mZuTO-8WJwXN||MTV%2090s_org.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mpw70GftHQ_H60VOCrbNThnMkX07uVwp9a3re83Y||MTV%2000s_org.png" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1a61r0sy68EzFUw6Z3LtMSoqZ9WtEfMM9aycFU1N||NickMusic_org.png" xmltv_id="NickMusic">NickMusic</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W3smnEKwI2WK7nuUazn1FwgB_aqSgLhzTs9o3NHM||Deluxe%20Music%20HD%20Austria_org.png" xmltv_id="Deluxe Music HD Austria">Deluxe Music HD Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RoN12oqBxKeL1dCMnwlTfGMl2aacuEyEYZ_cXx0Z||Stimmungsgarten%20TV_org.png" xmltv_id="Stimmungsgarten TV">Stimmungsgarten TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-9avOOhqtMF_2462C_Nxbzc5YXeNaxxVRpnb7Vlv||channelicons_Mezzo_5375_org.png" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5tiIEZfFaczizhdefpDjkCZFy1XlEW6ePYD3dieM||Mezzo%20Live%20HD_org.png" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BFKX-rwOIt-AB-ZgXHYaezFanZ5_q83BxK91ojNw||C-Music_org.png" xmltv_id="C-Music">C-Music</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="h8GBvuQTrsa3pTXlNAwCt6-OOQ8YUREIBC_B-rWg||Gute%20Laune%20TV%20HD_org.png" xmltv_id="Gute Laune TV HD">Gute Laune TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SRewjLrjyRMDSN667-z-y9GKsq4t3Mr_j_7v4WMZ||BR%20S%C3%BCd%20HD_org.png" xmltv_id="BR Süd HD">BR Süd HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3NfHXwLpWRSjrPcKTZoMuBq6SzpnvvE503ZWZArn||SWR%20BW%20HD_org.png" xmltv_id="SWR BW HD">SWR BW HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rp-vXc6edaG0sDnqBrxKQB3ZUaJ1hit-11rQtqG8||WDR%20HD%20Duisburg_org.png" xmltv_id="WDR HD Duisburg">WDR HD Duisburg</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2K8T8TYa8xbVSpgGLSDqTHB-BxrWYw4r9Yd79-wL||MDR%20Sachsen%20HD_org.png" xmltv_id="MDR Sachsen HD">MDR Sachsen HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5FuKvO0wU_rOZ9BQ6Scr5zIz0LDYJ_MvEdUEmTeO||NDR%20FS%20NDS%20HD_org.png" xmltv_id="NDR FS NDS HD">NDR FS NDS HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M-lfnG-iQ3UQ4_UXR7p2hGyUE63r70IMRFIegwMy||RBB%20Berlin%20HD_org.png" xmltv_id="RBB Berlin HD">RBB Berlin HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="t2gUWKg12X4-Zc3TLtsFIMtJnvR7p4HSFNFAR-su||hr-fernsehen%20HD_org.png" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qQg31jZDXfLiJrN1naKBa5JNwkNDmHKOWebXBDQ9||Lokal%20TV%20Portal%20HBBtv_org.png" xmltv_id="Lokal TV Portal HBBtv">Lokal TV Portal HBBtv</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QOS7PFynz14uywZREBpAPbzVtbbT-6STfJIDPT1D||Aristo%20TV_org.png" xmltv_id="Aristo TV">Aristo TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aiLtbDlz-l91Hy0KjA7exhvmdbIJBZNJDlVosudf||INTV%20HD_org.png" xmltv_id="INTV HD">INTV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xHksAivoDLuUb6ciedCOUCwjadI48nfp1aWlmAuM||M%C3%BCnchen%20TV%20HD_org.png" xmltv_id="München TV HD">München TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="o3rLQX0hDJQnlPJdv9CfPwi379LT1M6SNeQF7_jB||Niederbayern%20TV%20HD_org.png" xmltv_id="Niederbayern TV HD">Niederbayern TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ktxDjPvzMJfE9NEjlhpx4Gd16PbHVIGFgPFlC4ZD||RFO_org.png" xmltv_id="RFO">RFO</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tlUIWm_qlCjDIMa5IF3ClPaQWZbCegWaxa2q7w_6||Ulm-Allg%C3%A4u%20HD_org.png" xmltv_id="Ulm-Allgäu HD">Ulm-Allgäu HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ASdIBwgKBB6YSCke4EOW9d8OvEqN9mT8inxdPffm||a.tv%20HD_org.png" xmltv_id="a.tv HD">a.tv HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="M7mk6Pn262wqpN0h0baRX4OBHhg-63Zw3BoMTiyk||Franken%20Plus_org.png" xmltv_id="Franken Plus">Franken Plus</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qe70pPV8tEPQ54w_0j1jWgzow8xyMFIyrohVleq-||Radio%20Bremen%20TV_org.png" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WJSkawE78DH8Km1RZwEZFr-9hJ8S11YrgRl9ea3d||SR%20Fernsehen%20HD_org.png" xmltv_id="SR Fernsehen HD">SR Fernsehen HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PLaxa_XqbXRMIaS0J9--yoQI5KrIu0nSql_tE3dw||BR%20Nord%20HD_org.png" xmltv_id="BR Nord HD">BR Nord HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="E4ESf0ysTPiWiEt7sR3ixkYXwSdfvi2IJ0pAeV75||NDR%20FS%20SH%20HD_org.png" xmltv_id="NDR FS SH HD">NDR FS SH HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gj3rZf7EMTTpzyqb2huzf0apZ3wL3G3DFIYzJAY0||MDR%20S-Anhalt%20HD_org.png" xmltv_id="MDR S-Anhalt HD">MDR S-Anhalt HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Eov2-cZGCXiGV5FWrPetVVKvznLXQ6UBfHGi9wmp||MDR%20Th%C3%BCringen%20HD_org.png" xmltv_id="MDR Thüringen HD">MDR Thüringen HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dLoS4rjAJ1kmZxY1tQs9TQR3GbyPnKwmmncvro4s||WDR%20HD%20K%C3%B6ln_org.png" xmltv_id="WDR HD Köln">WDR HD Köln</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NZmzXp7HhxnX9xDURGcx__JINVsvPO5Z_MU3QDTF||WDR%20HD%20Bonn_org.png" xmltv_id="WDR HD Bonn">WDR HD Bonn</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KKgP8Cm1-LRKiFICZRNoGodpYcuOq9_oLdtMyzXB||WDR%20HD%20Aachen_org.png" xmltv_id="WDR HD Aachen">WDR HD Aachen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yF_DdJ-PX2F5aGXZv2gkGUSsephjDTELraQD49mI||WDR%20HD%20Bielefeld_org.png" xmltv_id="WDR HD Bielefeld">WDR HD Bielefeld</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TxIyDiIJw8FEuW2o87s9OABeXIWQMEE-_U4r96af||WDR%20HD%20Dortmund_org.png" xmltv_id="WDR HD Dortmund">WDR HD Dortmund</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gcrdlDWor9PxrlAt8qWfuUHNhTqCvMQSmT18e31q||WDR%20HD%20D%C3%BCsseldorf_org.png" xmltv_id="WDR HD Düsseldorf">WDR HD Düsseldorf</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nChDz9gDeGq-Mf5qTpmvIvaP5NG8_-OnGWDfSlOp||WDR%20HD%20Essen_org.png" xmltv_id="WDR HD Essen">WDR HD Essen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XAhoQN8Sm1dQX-vcplp7Fdl_yAGIkRDRI04QZpd8||WDR%20HD%20Wuppertal_org.png" xmltv_id="WDR HD Wuppertal">WDR HD Wuppertal</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6qPbOBL5qs-_foR7JmrM0mKhBLXa18bRKFWJvylp||WDR%20HD%20M%C3%BCnster_org.png" xmltv_id="WDR HD Münster">WDR HD Münster</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3n4l8Zj6CoEty6CpQ--0uauy_MSYun-p-STq2jY0||WDR%20HD%20Siegen_org.png" xmltv_id="WDR HD Siegen">WDR HD Siegen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="khHy6FGYwW1nc1v9f8-sxRvJa1KV803Yv-2egOJf||WDR%20Mediathek_org.png" xmltv_id="WDR Mediathek">WDR Mediathek</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mWzOIL4KfdNk5K6ZCYa3pBKwCiGufJfYEkc9tWfv||SWR%20RP%20HD_org.png" xmltv_id="SWR RP HD">SWR RP HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jRb-Fp9u8j4zzlxo0IphRagXWSWDMKShlJlshXG1||RBB%20Brandenburg%20HD_org.png" xmltv_id="RBB Brandenburg HD">RBB Brandenburg HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sidpIX6X_1zrORiKhrPMG58x21z_QZteP-j9P31f||TV%20Berlin_org.png" xmltv_id="TV Berlin">TV Berlin</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2LqHamUbqm7-LNSgiW7Y967QmIcKrPKhi8DUuiex||Regio%20TV_org.png" xmltv_id="Regio TV">Regio TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7lcnZwVZWdLxDVrs3aklyA6S5QqGulGYMJB-UvzR||Telegold_org.png" xmltv_id="Telegold">Telegold</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NwoV0A7CRAmTccdPoWwt7bpmbN981rdWq_5wEBp4||NDR%20FS%20HH%20HD_org.png" xmltv_id="NDR FS HH HD">NDR FS HH HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kil1s8DunGpcRr4vLXa5bOGraGxBr9H44JOXscBl||NDR%20FS%20MV%20HD_org.png" xmltv_id="NDR FS MV HD">NDR FS MV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ga9ElpoNTrH8tW7PN9f9NT0F06S-6RKciPdP51oY||NHK%20World%20HD_org.png" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vJAad-8fXo3ZajQnHjSxQEgDFrE-95Pe_B24kB6J||France%2024%20%28in%20English%29_org.png" xmltv_id="France 24 (in English)">France 24 (in English)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ScpRb8XIPLd0ppqBdh5OdfbhIYJC1awm1t6y3UWd||France%2024%20Fr%20HD%20%2813%29_org.png" xmltv_id="France 24 Fr HD (13)">France 24 Fr HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ynvt2y3Wk-Oz_C7kyM08G9XjMkow2S7piyD1qN-6||CGTN%20HD_org.png" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w1dmJY5C4gd4VhZXKpbQs1ipdkAplXxJZ_fQlS-6||CGTN%20Documentary%20HD_org.png" xmltv_id="CGTN Documentary HD">CGTN Documentary HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="okH6ZNEmJLtwfOKjvOItqBuShpm4MsjDQyOPPJms||DF1%20HD_org.png" xmltv_id="DF1 HD">DF1 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wznQYuA4i4QzcCLi8ajragqv-Dd3Dal5g3OdB6zg||Cnews_org.png" xmltv_id="Cnews">Cnews</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ukwQxMoejoORnPsjVfN9LNPz5l6yG3NgpolmvUFE||TVRI%20World_org.png" xmltv_id="TVRI World">TVRI World</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="86yX3QXqgAiXY-ztCOnoRBopshoFs4F6OLNO992S||Al%20Jazeera%20English%20HD_org.png" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WkTgDlno22VxkuoOC-rXBnOOnf-lFhBRIK1SFXXk||Current%20Time%20TV_org.png" xmltv_id="Current Time TV">Current Time TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Jncrvy12Ldi1ZfMvLX28UJZOmSdWfSrE0p0rB3YS||BFM%20TV%20%2813%29_org.png" xmltv_id="BFM TV (13)">BFM TV (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="k8Xa_tdVu4FOO97gzPVfHh6OSWx7RT6KbrQ72UIj||FST_TV5MONDE%20Europe_9011_org.png" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="VOqemAVo6UBSWvYncEHhG_vaTy0ZZAGoOC0kNSRA||TV5MONDE%20HD%20%28F%20B%20CH%29_org.png" xmltv_id="TV5MONDE HD (F B CH)">TV5MONDE HD (F B CH)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8pD15azeShSIerMOtmVqZPi8Wi4tz6dPJ1O568Bz||CGTN%20Fran%C3%A7ais%20HD_org.png" xmltv_id="CGTN Français HD">CGTN Français HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UcyW-gIv4dH-KQvJSjtWvj5BFn9y7g8H5JO10TBH||TV%20Monaco_org.png" xmltv_id="TV Monaco">TV Monaco</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7FyxNhTlImhxblyTnBxaW2_IEbbuenHwsZaHoPpH||TVA%20-%20OTV_org.png" xmltv_id="TVA - OTV">TVA - OTV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DVAwom6GjVwd0duLhy-DEv0fLFpG13gxJKtwchZL||Volkmusic%20TV_org.png" xmltv_id="Volkmusic TV">Volkmusic TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8vJzkbKQBoIh0PZgbgMuRneO8cIroIx6GjS4TV4q||HSE%20HD_org.png" xmltv_id="HSE HD">HSE HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CjuT7vZch6cHPonmCwR_b8wwMuJinLf_au5gvbxF||FST_1-2-3.tv%20HD_9012_org.png" xmltv_id="1-2-3.tv HD">1-2-3.tv HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1qNKNQ3FfRrlT8CJg3RVi7VPLcZf7L8gBUbT1DKN||sonnenklar.TV%20HD_org.png" xmltv_id="sonnenklar.TV HD">sonnenklar.TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lMsSMsPGJVICwZAxNdrd4ej5o2t39Yoz00U0ClXI||Melodie%20TV_org.png" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DHhfQstbnB14QrZf3aOV80ATX-hPfnJcZPJ3RiYr||Pearl.tv%20HD_org.png" xmltv_id="Pearl.tv HD">Pearl.tv HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AjDOtAOljJ97QQSgUuZN6-zkaKEwOhAC-V6r3AuW||QVC%20HD%20Germany_org.png" xmltv_id="QVC HD Germany">QVC HD Germany</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AU2BHG3XNUjZKHn4odeDrbV8YTMpegZZaM6oQ-7L||Deutsches%20Musik%20Fernsehen_org.png" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dRkvOhpa7RXpLcIujfb2M1TkkgfzH6tbwD1ZVWxJ||Sachsen%20Eins_org.png" xmltv_id="Sachsen Eins">Sachsen Eins</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GsLEL5cyHijlCn40RMkhZdeK08Coiky27NICE7i6||Crime%20Time_org.png" xmltv_id="Crime Time">Crime Time</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Zkx0sAto5F6HGLtfa38sSHGEx7DsX_DRWwzquZE8||Serien_org.png" xmltv_id="Serien+">Serien+</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UY0wX1Il5y1niLJipti623j2mAyoiH1X8XC-Kv_J||Just%20Cooking_org.png" xmltv_id="Just Cooking">Just Cooking</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mWbo99VEVQGXbSfsMj7rwQE_m7OKPVADUcEpviG6||Xplore_org.png" xmltv_id="Xplore">Xplore</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Vp2WyZ8aGwgEotP8mplQFTNouoKRl9MAARE7VZsq||Hip%20Trips_org.png" xmltv_id="Hip Trips">Hip Trips</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="f6FVu8NXlStLzM7F9ADMGtjqaftI7TtHv6PhI27_||One%20TERRA_org.png" xmltv_id="One TERRA">One TERRA</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZGhDV--Of70i0pVdAUknnIPmCugQgY1u6a1qkgim||Just%20Fishing_org.png" xmltv_id="Just Fishing">Just Fishing</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="F-7BE_ZH1v9uEeEW3NpbIBoQI3cA07TYFbYZFjGD||Hohenrausch_org.png" xmltv_id="Hohenrausch">Hohenrausch</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="YbvbK21aKYeAZzINkM-5bcMn466rvFFHt_EY1fQY||FST_GOD%20Europe_9013_org.png" xmltv_id="GOD Europe">GOD Europe</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="bQ9RDUnp7ZmfQ8QXgU-CIxUiDXTvSmTgt1FVdISt||Bibel%20TV%20HD_org.png" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-CRxFNAzevHK1Z5OX5-1VIB6ABK2EyNFeq3pzE1A||K-TV%20Fernsehen%20HD_org.png" xmltv_id="K-TV Fernsehen HD">K-TV Fernsehen HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9ipnH4rf6VWEDIovn7oJvTNoOZK9tYAJH75hydfL||EWTN%20katholisches%20TV_org.png" xmltv_id="EWTN katholisches TV">EWTN katholisches TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ERRhGDA7jBpQZh9ac4BTZEjfAhIFx_AqHwrn1NZM||Sonlife_org.png" xmltv_id="Sonlife">Sonlife</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ipZEM9NMbIQNZa4Nwi0413z0vOHjhvj4CaNuaKYN||Hope%20Channel%20HD%20Germany_org.png" xmltv_id="Hope Channel HD Germany">Hope Channel HD Germany</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="19Bi9FN6WATPfVO7NWYTHnp6bxyY4MAVFHIQ1nIN||Juwelo%20HD_org.png" xmltv_id="Juwelo HD">Juwelo HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1jCSyQ_FcfbtCqPdZDnYykhlGg29JsQabk4WXvr0||HSE%20Extra%20HD_org.png" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KKDNaS74O0r1k8EIdilzvbr27p0gCMEoQiQ32QXd||Channel%2021%20HD_org.png" xmltv_id="Channel 21 HD">Channel 21 HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rpIqDD3ajW3eABoTzIOkK-aD9taBXIijB37DFwSA||Sparhandy%20TV%202_org.png" xmltv_id="Sparhandy TV 2">Sparhandy TV 2</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="oUAfbzBM7cT-nT1LcI22Y6nNb-mgfdSEnOJAAB7D||QVC%202%20Deutschland_org.png" xmltv_id="QVC 2 Deutschland">QVC 2 Deutschland</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="-he6J73NeJZDXg-HfgVxuXiYM6fP4YtK_tNw0Rum||QVC%20Beauty%20%26%20Style%20HD_org.png" xmltv_id="QVC Beauty &amp; Style HD">QVC Beauty &amp; Style HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3lxya3qOwmjiAzQFAPSSxc7_fTyp_qxm3XnGwsLm||MeinTVshop_org.png" xmltv_id="MeinTVshop">MeinTVshop</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iuXsDF5rLnEZlwRa6Qhq1Q1J0koO7La88sPx0NZo||PULS%204_org.png" xmltv_id="PULS 4">PULS 4</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dmCz7CDzCUJvYsPA4egKxUp_780JUhH37NmP0H-E||ProSieben%20Austria_org.png" xmltv_id="ProSieben Austria">ProSieben Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n3yDP7NO5mCydzPJcjXeg4BCXv37PHe7DPkolyxe||SAT.1%20%C3%96sterreich_org.png" xmltv_id="SAT.1 Österreich">SAT.1 Österreich</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aRBd9nolmDtBFkqWe1TYK4n0Bh984nfTvk0PrSZ5||Kabel%20Eins%20Austria_org.png" xmltv_id="Kabel Eins Austria">Kabel Eins Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="514oPCfl9kMmpafMCMeNIQcxcbytlZ23ebJUGJET||RTL%20Austria_org.png" xmltv_id="RTL Austria">RTL Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HXLNNVmUM4Q_Ty9PGsoON7PIhtaZm1P-H_yhvk-D||VOX%20Austria_org.png" xmltv_id="VOX Austria">VOX Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="BEhLG_RwjRKI5RCxHvRofhh2CoPqkiQUMCXrrjL1||RTLZWEI%20Austria_org.png" xmltv_id="RTLZWEI Austria">RTLZWEI Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A7akpVMa8EsDexVjQKDHeElsYxXB1_D7txT69yLH||ProSieben%20MAXX%20Austria_org.png" xmltv_id="ProSieben MAXX Austria">ProSieben MAXX Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sd7DpZnUsBJGr-c2NHp2OA7zS7iJMCA642rbsfjh||FST_sport1_9014_org.png" xmltv_id="sport1">sport1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="1UEYSDN8f4K10YM61V-F_rWv6L9_kVnY1xztISp2||Tele%205_org.png" xmltv_id="Tele 5">Tele 5</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sJVL-q7CPKj4THA8vz2pqfB0wVi7Wps2Bg1lCs28||SAT.1%20Gold%20%C3%96sterreich_org.png" xmltv_id="SAT.1 Gold Österreich">SAT.1 Gold Österreich</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="e_3d4wYyWprpcezUAJNVTjlhKFZo4eBGOXALN_Bv||FST_sixx%20Austria_9015_org.png" xmltv_id="sixx Austria">sixx Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vkDuCy-3m0q_31RGnyqjksF8ouMLb38W3jJAFDvN||Kabel%20Eins%20Doku%20Austria_org.png" xmltv_id="Kabel Eins Doku Austria">Kabel Eins Doku Austria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="eY_A-nCwden57XX-jzVz8VuON7LEcwfdTN20iXbk||ZDF_org.png" xmltv_id="ZDF">ZDF</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EFDLUreaILbapMtPHWhoBexIZcl6DIX6dyeqIFti||FST_3sat_9016_org.png" xmltv_id="3sat">3sat</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DovKbTuHC3SMwe-_h_nRDzHUs8Vvi2k44QNXi9fv||Welt_org.png" xmltv_id="Welt">Welt</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="RWgLUlIkIrGCChyoSdyCsDKNWAFaanwOqd7Sz0L-||KiKA_org.png" xmltv_id="KiKA">KiKA</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rj_5OuDStMJ_ahbnONBEbAv7XkUJ7H-OlpMTeo62||Disney%20Channel_org.png" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="laj_qLmppmQdtii9I_mtkwLIVGe_2pRGyqcfzKaK||TOGGO%20plus_org.png" xmltv_id="TOGGO plus">TOGGO plus</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qg5nNBaT3bQjkukjDSzzZPIFjx56g1x1kkXOUfQV||Comedy%20Central%20%28D%29_org.png" xmltv_id="Comedy Central (D)">Comedy Central (D)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="I105tCqxhRjYj15bu6pQMlKBCKufMEJm7xuGmvKS||One%20Music%20Television_org.png" xmltv_id="One Music Television">One Music Television</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="gIIlwHZUtoIdKc-7SctRacFwAf--W3x5ScFbmnTE||Zwei%20Music%20Television_org.png" xmltv_id="Zwei Music Television">Zwei Music Television</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SZ5WFCZlXklhj0pk6UJ9xuTN1Y-Aay1jXoDiC95E||Folx_org.png" xmltv_id="Folx">Folx</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="I4SBehRwCt3SNDfts_HXgFn_If1JIhU_1trQR-9a||Deluxe%20Dance%20by%20Kontor_org.png" xmltv_id="Deluxe Dance by Kontor">Deluxe Dance by Kontor</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xCGu-gc_Igh-q2hCL43KGUBlfs__2sL0wPqa-haF||Deluxe%20Rap_org.png" xmltv_id="Deluxe Rap">Deluxe Rap</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0a1-GQWfmPcArTtD-kGibNqNKLBrRzAPorl3s7e0||VOXup_org.png" xmltv_id="VOXup">VOXup</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rPqIaxetBGmAR6Mg6PwaXjStUJkeIrmRJdc40Qaz||Schlager%20Deluxe_org.png" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AUtjZVdEewEEbOsunzitWSar4aQyWkDA-WSiNTdc||RTL%20Super_org.png" xmltv_id="RTL Super">RTL Super</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L0V3vUifjiTG0ThmVQtz4mn_S7U3gQcIx32Moxbx||NITRO_org.png" xmltv_id="NITRO">NITRO</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6zTSJKmDhE2tlAwD8CIXWns1RAwzrLTbd6gyS0J1||RTLup_org.png" xmltv_id="RTLup">RTLup</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Uvez7kCF9q5-Gh-grdv9OrIZMyRTZaBfG8Oz9Lnt||UHD1%20by%20ASTRA_org.png" xmltv_id="UHD1 by ASTRA">UHD1 by ASTRA</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="AhHch1biiFXAZVXWKxcqu6i4LEMitdQUE9LsPZI5||SES%20UHD%20Demo%20Channel_org.png" xmltv_id="SES UHD Demo Channel">SES UHD Demo Channel</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c2Zizb4y-j0jSz1je7joROr5YbwFwCVZpjVkTHAo||Love%20Nature%204k_org.png" xmltv_id="Love Nature 4k">Love Nature 4k</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sY3uRK-8rLw2tphT6uvZicJ1Z7kvxUhbmbWi0Bb-||QVC%20Deutschland%20UHD_org.png" xmltv_id="QVC Deutschland UHD">QVC Deutschland UHD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PMsMtrmBObglAjeoZUbi5V2FQNmsuR91EXnhHP2l||QVC%20Zwei%20UHD_org.png" xmltv_id="QVC Zwei UHD">QVC Zwei UHD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="clwCvxvD7qGz7kNxkZKAJ_UcNYWHqAkIlq7Em9VD||MyZen%20TV%204K_org.png" xmltv_id="MyZen TV 4K">MyZen TV 4K</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="N2VYHuUpqpVDKyFGVJ9MXUqclWvP2fzAI2rw6qXM||InUltra%20UHD_org.png" xmltv_id="InUltra UHD">InUltra UHD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="oTuWj7Dz80IV7BH-2U4PgCaN9Ehx66UkS5MVBv8a||Canal%20Sur%20Andalucia_org.png" xmltv_id="Canal Sur Andalucia">Canal Sur Andalucia</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4Pz_aq3M78aYqoCSv3qvgmLfICLwPJqLlE9PTIu0||TV%20Galicia%20HD_org.png" xmltv_id="TV Galicia HD">TV Galicia HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2HIOJY-ofCxdXM1FmFeDA5YwBAzqrgLgMBwdU41u||CGTN%20Espa%C3%B1ol%20HD_org.png" xmltv_id="CGTN Español HD">CGTN Español HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yg8zPRxnVsLBnJziwsA6S-pwHquA59px7sTSEMqx||ARAGON%20TV_org.png" xmltv_id="ARAGON TV">ARAGON TV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3rRJV2EM7lxDBcA534jRuGKbIU04rr-MCtf99b64||Cubavision%20Internacional_org.png" xmltv_id="Cubavision Internacional">Cubavision Internacional</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HqyB3Hz-H3IdTOlJhhuOICMkEE_6NBg9mxHH8h00||TVE%20Internacional%20%2813%29_org.png" xmltv_id="TVE Internacional (13)">TVE Internacional (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="B0UIaBjkaS-7v77FxfqKv6pPw7qVv9bJR-cPz249||Rai%201%20HD%20%2813%29_org.png" xmltv_id="Rai 1 HD (13)">Rai 1 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="hPiSwCPY3HtF2-2iN8vntL6D9_jF-J86LVe-88Ia||Rai%202%20HD%20%2813%29_org.png" xmltv_id="Rai 2 HD (13)">Rai 2 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sv2wb9JBzfXWK2fXH3vKqQYBAzIdwY4trO7QGcVK||Rai%203%20HD%20%2813%29_org.png" xmltv_id="Rai 3 HD (13)">Rai 3 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NTek_HnoGIz0HzXbSRGUQJN0Hzs60GYWzWhdxTuX||Rai%20News%2024%20HD%20%2813%29_org.png" xmltv_id="Rai News 24 HD (13)">Rai News 24 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6PdQUmnPLzjQfaJI6KFXmaUcw5TiMyocDHMmEYXw||Rai%20Sport%20HD%20%2813%29_org.png" xmltv_id="Rai Sport+ HD (13)">Rai Sport+ HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="74MHpW2ThfUQZOK2ctFUuykafaJiQn7Cp41FdPAg||RTL%20102%2C5%20HD%20%2813%29_org.png" xmltv_id="RTL 102,5 HD (13)">RTL 102,5 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ntvakNQ8MtYPulVvTkq63rha8f-V15zO0oXSiV4M||Rai%20Storia%20HD%20%2813%29_org.png" xmltv_id="Rai Storia HD (13)">Rai Storia HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="qHAtV52-GV7VFVJ0W3Sd5YRlES1tLIIIbflJ2Gad||Rai%20Scuola%20HD%20%2813%29_org.png" xmltv_id="Rai Scuola HD (13)">Rai Scuola HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="e5YNY9pCyCe6wtAQQRpIBw6eyAUBUnj3-9nuvbDg||Rai%20Gulp%20HD%20%2813%29_org.png" xmltv_id="Rai Gulp HD (13)">Rai Gulp HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pH-4fuuSAjtKLfak3l-yDQCEe8oX27uHoLe4roDm||Class%20TV%20Moda_org.png" xmltv_id="Class TV Moda">Class TV Moda</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="npAmTdfrB_YsJzIJhT2WDQHFLJYqjtDDVB0B475o||Uninettuno%20University%20TV%20%2813%29_org.png" xmltv_id="Uninettuno University TV (13)">Uninettuno University TV (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="d-miLrCmhbf8ycwppWBEJoUoStgaDOjnyCmSsD6N||Explorer%20HD%20Channel%20%2813%29_org.png" xmltv_id="Explorer HD Channel (13)">Explorer HD Channel (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="i7XTB5KTmRF-FzfTy_TPUI8eQI_hmg5eejle9fNZ||Byoblu%20%2813%29_org.png" xmltv_id="Byoblu (13)">Byoblu (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="OccQVxx_luVi6psd0d54N0jGJItqlKuNpltLH5FC||Kanali%20Voulis%20%2813%29_org.png" xmltv_id="Kanali Voulis (13)">Kanali Voulis (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WduKLnOqHbibLKRwDCW-SkE2Z85y2hi9vRXs0WHo||Tele%205%20polska%20%2813%29_org.png" xmltv_id="Tele 5 polska (13)">Tele 5 polska (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="sqHH1WROiKB_PPODGSi_0fNqkVBQZDue3OF0NQiq||TV%20Polonia_org.png" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ceybk2P4nOAw6xx9Y0PqJL3O2acNUZ-Ae8U_TAxm||TRWAM_org.png" xmltv_id="TRWAM">TRWAM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="36zeavl8ppzuzOgN7lhIOgN8uGlpnf1NheMyf7qu||TVS-TV%20Silesia%20%2813%29_org.png" xmltv_id="TVS-TV Silesia (13)">TVS-TV Silesia (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8MDYXh0R-mR8NDkw13ivXDlMNkXFEGaOjY6vR-K7||LCP%20HD_org.png" xmltv_id="LCP HD">LCP HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="J037Kz1swCZrU5pKlVk00VZAysPs1uLfQEIRIItQ||Al%20Aoula%20Inter%201%20%2813%29_org.png" xmltv_id="Al Aoula Inter 1 (13)">Al Aoula Inter 1 (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JtoZ5bry646YSNkFt8ax3fcd3rAkmW1iejqggaPw||2M%20Monde%20%2813%29_org.png" xmltv_id="2M Monde (13)">2M Monde (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="L0PNuFitsGUhSethAclQRvCZ98dNZpJ2AjjDuupY||Arriadia%203%20%2813%29_org.png" xmltv_id="Arriadia 3 (13)">Arriadia 3 (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Q9pohau_gqdcAO6BQ55Ynkhbtd6CinaW1rKpXtEM||Al%20Maghribiyah%205%20%2813%29_org.png" xmltv_id="Al Maghribiyah 5 (13)">Al Maghribiyah 5 (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mgmHSe9nEMJpOLKaSgKhoGU6hCf4bfgz2AcoeK5_||Al%20Jazeera%20HD%20%2813%29_org.png" xmltv_id="Al Jazeera HD (13)">Al Jazeera HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="FoN_lelJt98w1tMJS6EpOCD9vZxwsLPFHV95a-bs||Al%20Jazeera%20Mubasher%20%2813%29_org.png" xmltv_id="Al Jazeera Mubasher (13)">Al Jazeera Mubasher (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZyQaFSJB4S4DaXnSA9fM2NCD7FB2IZSQ-GnUsZ7I||Al%20Jazeera%20Documentary%20%2813%29_org.png" xmltv_id="Al Jazeera Documentary (13)">Al Jazeera Documentary (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KjscEurHnEgY96OfT4Aeuq3UmRTHXDdUzQQijjuG||Tunis%207%20%2813%29_org.png" xmltv_id="Tunis 7 (13)">Tunis 7 (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jUlIlq50WqPpdh2NENfgUy8wh34ZUxzG4gauji5A||Canal%20Algerie_org.png" xmltv_id="Canal Algerie">Canal Algerie</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PBqN0mhu67iY59s5OSYM7Nz20zZWth6HdMDg8jwX||CCTV%204%20HD%20%2813%29_org.png" xmltv_id="CCTV 4 HD (13)">CCTV 4 HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vxvOwMR-SNNiIf2PIvtgyf6-2QXNXTy2bQTgHrfV||KBS%20World%20HD%20%2813%29_org.png" xmltv_id="KBS World HD (13)">KBS World HD (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="le0F86OFFnrwK7dIrKUgeB-JpoPLprnzjX8mRYdV||Arirang%20TV%20HD_org.png" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="coKIJeQeoGx6Gq29PzIGSqSIrl2ks-UqB98NztMh||8%20Kanal%20International_org.png" xmltv_id="8 Kanal International">8 Kanal International</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TdVqOgz-dO8vY_JWpHHPtzFPTYfl-nYPUebsfsdy||UA%20TV%20%2813%29_org.png" xmltv_id="UA TV (13)">UA TV (13)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uzmEdVtyFfV8Ni_dlDOTIlPuO1O4nShAksq4JXWu||ORF%202%20Nieder%C3%B6sterreich%20HD_org.png" xmltv_id="ORF 2 Niederösterreich HD">ORF 2 Niederösterreich HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l8OMp1pDXX2_m3SFZG7msQcE4TVuM1FmfRYqP0Cn||ORF%202%20Burgenland%20HD_org.png" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="W2d73nGpEuJLjIKAhrZhs1ulrzFOVB2u9BD1ChKX||ORF%202%20Ober%C3%B6sterreich%20HD_org.png" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EGkIbiTkfzSyTtRIlKkxkl8ysP98rxLIxLbDux8G||ORF%202%20Salzburg%20HD_org.png" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l86tV1jQtIOqWiGD9KAsbPSoOVMgJHvX4ucE1lju||ORF%202%20Tirol%20HD_org.png" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9ojzZJvXrGxId0lQQs6Fbvhy6HuZJwTJl9lpc_BO||ORF%202%20Vorarlberg%20HD_org.png" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tMOk3OJHy5wFLKECCOyzrZu619Y3aZPasYb5_5Cs||ORF%202%20Steiermark%20HD_org.png" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Z_1-siR62MIpoTSX4wxHeJIgvygSiYOng75jYzZC||ORF%202%20K%C3%A4rnten%20HD_org.png" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UurnAERgsmTp4v-YnPueI79MEJzpWXYi6ZCshYH2||ORF%202%20Europe_org.png" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A_J1UX8STQI7IRaqmRFLO5gM8rR8VNCyfslmV5l9||OTA%20Cam%20701%20Download_org.png" xmltv_id="OTA Cam 701 Download">OTA Cam 701 Download</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7mZM3dFV3xT2P99thPns2cTy7YJEGrMby0F2ZL8m||OE1_org.png" xmltv_id="OE1">OE1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lnBN7N2yjB8hO1C1IY5SzrgAaqAWCAf-ilZIf2IQ||OE1%20DD_org.png" xmltv_id="OE1 DD">OE1 DD</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wc1tJm8cVEFBQlzbpGTbtjcFjCaM6boyW7A4ilyA||OE2B_org.png" xmltv_id="OE2B">OE2B</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9K1CQcUJNmJCO3-NtPYDtxNkku5CwGUbeOud-Eif||OE2K_org.png" xmltv_id="OE2K">OE2K</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5VVmqAqllPp8DIJJ4j-Z_r10lbmli-P8FkNO_ND_||OE2N_org.png" xmltv_id="OE2N">OE2N</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DtkRgkB9MJrjmI8NJ09zzLbRwB5DS6pdlw3Cf1md||OE2O_org.png" xmltv_id="OE2O">OE2O</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7Rv3x0LvpucqAaTKPCODYnafxwrQUst0tsfICqZr||OE2S_org.png" xmltv_id="OE2S">OE2S</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5GMA19j0K6znADeho5DGjamlHWJG6ahVrBE5qIjC||OE2ST_org.png" xmltv_id="OE2ST">OE2ST</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DDDgLoKb1R6SSL3JNApp0rPKC6KktZACBuFfJkaE||OE2T_org.png" xmltv_id="OE2T">OE2T</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R8ogQ7bqWGoEOgVY1B15rM3ljfHAVZcaEaqJSE8Q||OE2V_org.png" xmltv_id="OE2V">OE2V</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="aKxnlI4Ef8bNyiFBWWi2vt8jlAPTMtdiMA2B8rkQ||OE2W_org.png" xmltv_id="OE2W">OE2W</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="G0L2vd0cd_jRtZ-JvXcFBkwkv_CpPgCBMBfXQ-tY||OE3_org.png" xmltv_id="OE3">OE3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="6Cu05BPq1YD3RpWQCVCYe4zgUSmnEfIvz6QwlZFc||Hitradio%20OE3_org.png" xmltv_id="Hitradio OE3">Hitradio OE3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ipoCF5fJLdIPBJ9uDnldsj6md-PbxAHXtiu2E-1g||NDR%20Schlager_org.png" xmltv_id="NDR Schlager">NDR Schlager</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mpXu0ybndRTKf5CEUDERL_T-4FxdcjXx2cerB-ia||Radio%20Maria_org.png" xmltv_id="Radio Maria">Radio Maria</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="eZhKDIn_gibczEAzjZ1arZCEs5UHbdeEvgvcPfeZ||Oldie%20Antenne_org.png" xmltv_id="Oldie Antenne">Oldie Antenne</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dzdOvHl0XE9rt88SGblFwgu3zdjGVjF69rHC8GKJ||FST_Antenne%20Bayern_9017_org.png" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kIlb6PlOEEaTGC15yMIqgx1lx3BRUCbOfy8FRqVC||Bayern%201_org.png" xmltv_id="Bayern 1">Bayern 1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="w6Ekn0-n0Ciw9CMKq1tW0toxvYDZPC-C5zhz1GL7||Bayern%202_org.png" xmltv_id="Bayern 2">Bayern 2</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PLuNW3UCIv95Ob7UIwQEV02pPqd2_HidfUH4HwNf||Bayern3_org.png" xmltv_id="Bayern3">Bayern3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DD0mcBkrghT9kac1_DCid37_e3_3Au-rhM8WeF-L||FST_Bayern4Klassik_9018_org.png" xmltv_id="Bayern4Klassik">Bayern4Klassik</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="4mOYIVGxHIH9vtXxP4XqRMteZXy5BhOW_t0_mjJJ||BR24_org.png" xmltv_id="BR24">BR24</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZLg91ENJRqjZa8Aoo9eFD3CCxnjAmrHY2XB2_z88||BR%20Schlager_org.png" xmltv_id="BR Schlager">BR Schlager</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="A5I3nRBV41rVgmnSaSBF92QZcV5pnurP5FBVkLyD||PULS_org.png" xmltv_id="PULS">PULS</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vb2SbSVdrxy1yieZTtb3kQcfTg5R06f4JKsMjJVT||BR%20Heimat_org.png" xmltv_id="BR Heimat">BR Heimat</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dOVrZeh3E19PFxSfcJvqyR-oJKoZvwMb5XrttIlT||hr1_org.png" xmltv_id="hr1">hr1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="B7Di61d8HP51CU73ivkGo121x6T8r6Y5BGvLzEh2||hr2_org.png" xmltv_id="hr2">hr2</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="vYINbk-EcNzkqhOZx3uz8fGN-PGMjDxcPn89dcHe||hr3_org.png" xmltv_id="hr3">hr3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="MGH9M-Y-iWihN5xjmuXFm0oag2Q4ZpdYOQoNk-z4||hr4_org.png" xmltv_id="hr4">hr4</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ByIW9gO3dLVft8Oi_icbq6I8yKj0v-ekE0ZMx7NP||FST_You%20FM_9019_org.png" xmltv_id="You FM">You FM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NAeVaxkPOG1_ygfddzpM9aoxZRurDl7MDBEvzwXn||hr-info_org.png" xmltv_id="hr-info">hr-info</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="n-7vsARqGAh0TzQ9zFvzECEhEw-x07HIEab9fYsk||MDR%20JUMP_org.png" xmltv_id="MDR JUMP">MDR JUMP</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="tv60bV6z3nfxW4i8EEnhUmH0_1ekcrLTDi_qvWk_||FST_MDR1%20SACHSEN_9020_org.png" xmltv_id="MDR1 SACHSEN">MDR1 SACHSEN</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Ml1nCvizmLYwA5ECcXImrU4GLVLdkGYNQAttNrVa||MDR1%20S-Anhalt_org.png" xmltv_id="MDR1 S-Anhalt">MDR1 S-Anhalt</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ba95dACeadv6gkOqWGJ6IwWjODhxntKs4CNq3a1H||MDR1%20Thuringen_org.png" xmltv_id="MDR1 Thuringen">MDR1 Thuringen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Bbd1__3OxhPEGAT9QJStLpeJr69u_9WraBxNNFEr||MDR%20Kultur_org.png" xmltv_id="MDR Kultur">MDR Kultur</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="logVSV-t234UyTXacrS-BzkajojVIhnmnW6zkZwE||MDR%20Aktuell_org.png" xmltv_id="MDR Aktuell">MDR Aktuell</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="cQhOQq3XW2eFB7pg82Dvs6e6ihxmXPeEbIM6SR0o||NDR%20Kultur_org.png" xmltv_id="NDR Kultur">NDR Kultur</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="i1PjAI0_v0160EzUshO0jteKSVfk6QCKNwrMZ3RO||FST_NDR%20Info_9021_org.png" xmltv_id="NDR Info">NDR Info</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="WzQ2GWLN7Vr-ugHOL_vAhZRxm2oDn2nMe73RWlwk||N-Joy_org.png" xmltv_id="N-Joy">N-Joy</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0-dOPReuJc7KUhznvUWVVxlssvG5-QSLDL1W4UsU||NDR%2090.3_org.png" xmltv_id="NDR 90.3">NDR 90.3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nN7MqS7lVBYR17g7DHbU3KAuvUCluSS-kU7D0tNX||NDR%201%20Radio%20MV_org.png" xmltv_id="NDR 1 Radio MV">NDR 1 Radio MV</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="g9Q2-WnfWPiWSkuMzdcw8Q-ZaMyq11gD4msrMxO7||NDR%201%20Radio%20Niedersachsen_org.png" xmltv_id="NDR 1 Radio Niedersachsen">NDR 1 Radio Niedersachsen</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="kY3IyDoM9gyAq2WyMKmOeIg1k2Xmo3LcjSo1SZdx||NDR%20Info%20Spezial_org.png" xmltv_id="NDR Info Spezial">NDR Info Spezial</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NFRzvwVWJot41DyI981OX7lfjKQ7ZxdBrZOAPQa-||NDR%201%20Welle%20Nord_org.png" xmltv_id="NDR 1 Welle Nord">NDR 1 Welle Nord</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="PBQnyrxIp1uym_rDpR5rTcrBtfP5MfFcDuDztxIv||WDR%20Event_org.png" xmltv_id="WDR Event">WDR Event</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="j_DwBJp5Mz0Jj6Mo6wxzuQF4in2q7cxC9cDmK_1D||RBB24%20Inforadio_org.png" xmltv_id="RBB24 Inforadio">RBB24 Inforadio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="QawEV1WlaoFAVPF4M9LKHq3Ny7okWSupT6wwRTID||RBB%20Radio%203_org.png" xmltv_id="RBB Radio 3">RBB Radio 3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="hauIPyOcUQ9tqN0szu6qIdFiWILVqISe4y1DzN8I||RBB%20Antenne%20Brandenburg_org.png" xmltv_id="RBB Antenne Brandenburg">RBB Antenne Brandenburg</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XE8qvRifzuB9uA91qCpEtOBVLLvHNeHOXSf9L_kP||Radio%20Berlin%2088.8_org.png" xmltv_id="Radio Berlin 88.8">Radio Berlin 88.8</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="0Xx9UzLRCfyRIcz5qjqhp1gnlqTbn9Ehq6LPVDzf||SR3%20%28Saarlandwelle%29_org.png" xmltv_id="SR3 (Saarlandwelle)">SR3 (Saarlandwelle)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="nNEcLrL9ZDBEMi5Q5YlWRS0kj825kVnTb9J9_nny||MDR%20SPUTNIK_org.png" xmltv_id="MDR SPUTNIK">MDR SPUTNIK</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SV6pAZSPB8KoZn1YQw8OVUtaoeosTbI1FaLWPrut||SR1%20%28Europawelle%29_org.png" xmltv_id="SR1 (Europawelle)">SR1 (Europawelle)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="xkpgAA2shuFqTEcuK6a3koqjCsCCSreFzpov0bCK||SR%20Kultur_org.png" xmltv_id="SR Kultur">SR Kultur</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="o6Ml4qh1CaumxBaPYWWCuxs_4tRy-5JLTuSkO6o-||SWR1%20BW_org.png" xmltv_id="SWR1 BW">SWR1 BW</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="z3a-_eWRdvPzbFz6G44KK8onzI4Jo_ri0DpvBlSm||SWR1%20RP_org.png" xmltv_id="SWR1 RP">SWR1 RP</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="7m9NYi8c6uh2mUjR5qWo9FJh5zOApuGhSKugHC4p||SWR%20Kultur_org.png" xmltv_id="SWR Kultur">SWR Kultur</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="pQHQ81nVjmFrDP2oaVe2PwQbLIUgKNWt0a-omoJN||SWR3_org.png" xmltv_id="SWR3">SWR3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="lqsqr0D_gZgaE7_UOyscpZVjbvBzraG6yuli4L-o||SWR4%20BW_org.png" xmltv_id="SWR4 BW">SWR4 BW</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dUCR6jdp_BuEH2id0t-6UplYIV3yG81iKI9NGwxI||SWR4%20RP_org.png" xmltv_id="SWR4 RP">SWR4 RP</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5pe5WfgUqL5t_Ap4DTJXr4UWEZm4_hrCxJxwGTbF||NDR%20Blue_org.png" xmltv_id="NDR Blue">NDR Blue</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="9qjAO_dAL9oPSaf4wfsKJYBfDzKOLyDNTL44Tbg8||DAS%20DING_org.png" xmltv_id="DAS DING">DAS DING</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ORiwrCuHWg6qyExbGgq9rBXmzEL7LSg1OSSVGGck||SWR%20Aktuell_org.png" xmltv_id="SWR Aktuell">SWR Aktuell</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R-dgmOIlCw2H9xFViirmeQjWyPvVXQzUr2xpO4Hj||WDR%201LIVE_org.png" xmltv_id="WDR 1LIVE">WDR 1LIVE</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="CxLumB-_Jv1LCjYpOfzuyyS6TOnIdJvaQmi9GgVE||WDR%202%20Rheinland_org.png" xmltv_id="WDR 2 Rheinland">WDR 2 Rheinland</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="l--hx0cdVaqvVMpZ3GzGabsUmV7xfqtGE8ef0vX8||WDR%203_org.png" xmltv_id="WDR 3">WDR 3</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GE67QJkZlO7iFHcdkGxarPSRU4OkdThTn6AVx7VQ||WDR%204_org.png" xmltv_id="WDR 4">WDR 4</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mBS_9TslHXsW6fWGTihCabcbF6XoF5maMAli01y7||WDR%205_org.png" xmltv_id="WDR 5">WDR 5</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NA8VHHkHJnMIBnSEzQ1c0U8AlHTkNJAuCG3WNzOW||WDR%20Cosmo_org.png" xmltv_id="WDR Cosmo">WDR Cosmo</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LZwwZ6jaUsuuuLXnGD63tIiL01qHG56YQUJ_Tv2m||WDR%201Live%20Diggi_org.png" xmltv_id="WDR 1Live Diggi">WDR 1Live Diggi</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="41ipP2ovrI0Ls9hrSzRRa7QNs5xEnB22oH8MjBX3||WDR%20Die%20Maus_org.png" xmltv_id="WDR Die Maus">WDR Die Maus</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TgufeJEK6q4G3DKQF4Sy_y2AZqBDekc9_gT6UbGS||RBB%20Radioeins_org.png" xmltv_id="RBB Radioeins">RBB Radioeins</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="znOoF8FeXHr-fP0m_9ZBxVlXWdLRWoqhkySwAuSZ||Deutschlandfunk%20Kultur_org.png" xmltv_id="Deutschlandfunk Kultur">Deutschlandfunk Kultur</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="iaVE2wFZvppY6kdk6hM6BBJnfXV5cE6-3JM4r0k5||Deutschlandfunk_org.png" xmltv_id="Deutschlandfunk">Deutschlandfunk</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="f3of4tSE9ODW8gsEnbmxt4GvdXkNL2ewKqk3LTbj||FM4_org.png" xmltv_id="FM4">FM4</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JDutbeQiMcd3yb2JTLd3dSiAi9YuyvF1ODx2H1ee||Antenne%2050Plus_org.png" xmltv_id="Antenne 50Plus">Antenne 50Plus</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="dMa3MI9aM0jigZ7SxjSWNF9UoXQSrPp-4s7G89bv||Rockantenne_org.png" xmltv_id="Rockantenne">Rockantenne</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="z_245K9xABRm4lxzdWrJrzCI62BSOvnr89aZeWvz||FST_Sunshine%20Live_9022_org.png" xmltv_id="Sunshine Live">Sunshine Live</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ttqELLsLvA7Y2HCGC6kufYaFPKtFzrAUztqVKBhJ||Klassik%20Radio_org.png" xmltv_id="Klassik Radio">Klassik Radio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="8iPRhcPI2fBLnAA5MLbAvO721QlUGYT2dhRg3FeX||Bremen%20Zwei_org.png" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="KLf5_LT8QXQvy4GgRdG0nuJhogP3vPD-m8FAAuf2||Radio%20Horeb_org.png" xmltv_id="Radio Horeb">Radio Horeb</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="3SVAzAT1I9eaAccfAO7lZNHnyKwZsNn9_agZ-eW2||Radio%20Paloma_org.png" xmltv_id="Radio Paloma">Radio Paloma</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="XU4OWJKwn7wqcGnK4bsDhslhdj4WZGwExoXtvyGU||RBB%20Fritz_org.png" xmltv_id="RBB Fritz">RBB Fritz</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="SIVExDYwBMP3HTxirJw1pnPbYxat56QV4pT0emhA||Deutschlandfunk%20Nova_org.png" xmltv_id="Deutschlandfunk Nova">Deutschlandfunk Nova</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TWEf2KWveU2lAAQkS1Pm4U6JEZuWT6v41nipgxXs||Teddy_org.png" xmltv_id="Teddy">Teddy</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Mcu5xa13hDRRO_WVy3iyx8c3FNQSJRPmmOv1uILK||BR24%20Live_org.png" xmltv_id="BR24 Live">BR24 Live</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DHwn18fQXmuB1fa4n1ubLMGgik8Nq8kJtLo_Suo9||Bremen%20Eins_org.png" xmltv_id="Bremen Eins">Bremen Eins</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="fi5IIY0aEeynJAskEK5kABce30sdiKCgepdBnNnz||Bremen%20Vier_org.png" xmltv_id="Bremen Vier">Bremen Vier</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="jmmyNHKri4y32gldVrJRuzZazX_PkhE-5kpIOTAY||Bremen%20Next_org.png" xmltv_id="Bremen Next">Bremen Next</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="LpCo2-u05d4FUhYoccKQR6RolJQiqlMvd0E8lfam||FST_FFN%20Digital_9023_org.png" xmltv_id="FFN Digital">FFN Digital</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="S0oVHKeqEma3MOXAIjn0r_ugz-UWNt2OTc2cl5fS||MDR%20Klassik_org.png" xmltv_id="MDR Klassik">MDR Klassik</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="P6S5TqsvhbI-wwo9kKNxGgGFDU2_ftchSSRm_CY-||NDR%202_org.png" xmltv_id="NDR 2">NDR 2</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="DNv2fCfEK0RvVod9yIFc3x8eWaAIGsw2t8fhLo1h||RTL%20Radio_org.png" xmltv_id="RTL Radio">RTL Radio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="EHFJJhpIfBFKDhRAvwMOc8Oh9tG6CdTuPZFwcZhb||Toggo%20Radio_org.png" xmltv_id="Toggo Radio">Toggo Radio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="HJUYCTPFA9jpNWw24F34ZGO7c5jmO3tAHeoPFmZ0||RTL_org.png" xmltv_id="RTL">RTL</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="c08wyl-z8vvwjT5rtd_Ax3DeDQtRhTXWoRtJMGcH||RTL%202%20FR_org.png" xmltv_id="RTL 2 FR">RTL 2 FR</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="bcZTcFBNPNEDNNEftzlU6SPXIHVHA786fFN7Byc3||Fun%20Radio_org.png" xmltv_id="Fun Radio">Fun Radio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Gl7AAwn5DtRp2AtlhNyzaq3M3kJCdmhE0XmTa035||FST_Radio%20Classique_9024_org.png" xmltv_id="Radio Classique">Radio Classique</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="wT_u3n-G6rT5_mpA3cVjnHdu3F3LlxbAcKfHD0t9||NRJ%20FR_org.png" xmltv_id="NRJ FR">NRJ FR</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="R6aigCbVmD9KeFRUqaSKZTjk6L9E5gL3GEO2m4NF||FST_Europe%201_9025_org.png" xmltv_id="Europe 1">Europe 1</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="ZV9RmttFmt2HeiFP6LTgvA_XYUQY6BlDHgTvYFXs||Europe2_org.png" xmltv_id="Europe2">Europe2</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GjOgXd3RzWAqPy7h23NAEcNHuvqO2PNv5Gs4EErC||Sky%20Rock_org.png" xmltv_id="Sky Rock">Sky Rock</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="yKZqAQcMemn8Ek8g1Y8rgdkc-tnRLgmhFuG0O2sT||Radio%20Nova_org.png" xmltv_id="Radio Nova">Radio Nova</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="I32XjWi73jNgu2E6zUS60mLhwu_SCUSYjK_Sc0lj||RFM_org.png" xmltv_id="RFM">RFM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Rge0pSYeydiSkIELi7zhSNUyY7-CPaqvBbC0K-0t||FST_Cherie%20FM_9026_org.png" xmltv_id="Cherie FM">Cherie FM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="2vqP1rvXChjBQZPQhwh03CaNhuZ70cUAglZ_KFVr||FST_France%20CULTURE_9027_org.png" xmltv_id="France CULTURE">France CULTURE</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="5_NnbZHJgaZSpwfaamBr1tEWlrRRY1E61gsU4Vpt||France%20Info_org.png" xmltv_id="France Info">France Info</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="UT4274U9jAr0X0tBJZfozr2iT9oeJnFTHaoZwBrb||FST_France%20INTER_9028_org.png" xmltv_id="France INTER">France INTER</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="_WEtzLrlpm9cRuKJkIvCmu6m4k4wnnLcEkc4Bz7j||France%20Musique_org.png" xmltv_id="France Musique">France Musique</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="TvueZVwE0ypFxsZevSr8hmlLeIPlYWr4C6pcA6X1||France%20Bleue%20IDF_org.png" xmltv_id="France Bleue IDF">France Bleue IDF</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Kk54hVzTyGcTr6ywNXOlqNGzWEsq5PgO9arVu10q||RFI%20Int_org.png" xmltv_id="RFI Int">RFI Int</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NEFAa8ene6URP_DO1d2cxpYW06Hz14wc4hVH682c||FST_Rire%20et%20Chansons_9029_org.png" xmltv_id="Rire et Chansons">Rire et Chansons</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="uRAVBq-ZdG6GsWjIy3WgkhmJJdKIZE0unIS0tOUj||Mc%20Doualiya_org.png" xmltv_id="Mc Doualiya">Mc Doualiya</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="s8qbyaAinlQ1eXktQR5ITjMfoCtV-6aTy5PJyCqs||TSF_org.png" xmltv_id="TSF">TSF</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mSTzGkp-fERmWWW_eCqI2I1DCrPUGmEHVjzGR8p7||Le%20Mouv_org.png" xmltv_id="Le Mouv">Le Mouv</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="Qd1goui1c-uvkI-WRGZnwUj_Ef9QSKbGJva9eKBr||FST_Contact%20FM_9030_org.png" xmltv_id="Contact FM">Contact FM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="28hFbyq8QUl7y80rYbou-_Bsa43yXvu77aDd7r40||FST_Oui%20FM_9031_org.png" xmltv_id="Oui FM">Oui FM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="NbtaIqhr5lfcv1DqldkVqq7Ur8qQSL3O_5SNiOvh||FST_Beur%20FM_9032_org.png" xmltv_id="Beur FM">Beur FM</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="GwxzoEMObwC2jFektb_gyiEQD38nRIcTHqAKDwea||FST_Sud%20Radio_9033_org.png" xmltv_id="Sud Radio">Sud Radio</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="G5Vf8907m_Xs8rruY_EEln0UytNjHzitxfMtWL-1||Nostalgie%20%28FR%29_org.png" xmltv_id="Nostalgie (FR)">Nostalgie (FR)</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="rGWKgEeqHp214dDTFacUcmF4gTi55NQe5xykHOcJ||FIP_org.png" xmltv_id="FIP">FIP</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="JYkAKP5Iqe6uZZIp9cdYH5454cH96TL7KJ2qWz6B||Radio%20HBR_org.png" xmltv_id="Radio HBR">Radio HBR</channel>
+    <channel site="[ENC][EX]livetv.hdaustria.at_0" site_id="mIbSwwtzAdDOTRITj7ghsEhphQM9AzBcdyLQxXjF||BBC%20World%20Service_org.png" xmltv_id="BBC World Service">BBC World Service</channel>
   </channels>
 </site>

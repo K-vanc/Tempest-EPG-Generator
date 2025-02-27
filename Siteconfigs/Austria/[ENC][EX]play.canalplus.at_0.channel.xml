@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]play.canalplus.at_0">
   <channels>
-    <channel site="[ENC][EX]play.canalplus.at_0" site_id="zEu6GAtUCXyPCeqezGY4c_R54yM8jznyP7lEweTg" xmltv_id="KinoweltTV">KinoweltTV</channel>
-    <channel site="[ENC][EX]play.canalplus.at_0" site_id="Mbm_WV2MeEpNWOBpyfM2SPBNGmv3kPiAdlXwDU6_" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel site="[ENC][EX]play.canalplus.at_0" site_id="cq_sV_NaI2A7NdPbh-M92bXTEaYD7MW-VTovPrw1" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel site="[ENC][EX]play.canalplus.at_0" site_id="zEu6GAtUCXyPCeqezGY4c_R54yM8jznyP7lEweTg||KinoweltTV_m.png" xmltv_id="KinoweltTV">KinoweltTV</channel>
+    <channel site="[ENC][EX]play.canalplus.at_0" site_id="Mbm_WV2MeEpNWOBpyfM2SPBNGmv3kPiAdlXwDU6_||National%20Geographic%20HD_m.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel site="[ENC][EX]play.canalplus.at_0" site_id="cq_sV_NaI2A7NdPbh-M92bXTEaYD7MW-VTovPrw1||National%20Geographic%20WILD%20HD_m.png" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel site="[ENC][EX]play.canalplus.at_0" site_id="aKnPd5fGwOhBar1Pn72hxWEaKujnZodAaamgcnWD||CANAL%20Action_m.png" xmltv_id="CANAL+ Action">CANAL+ Action</channel>
   </channels>
 </site>
