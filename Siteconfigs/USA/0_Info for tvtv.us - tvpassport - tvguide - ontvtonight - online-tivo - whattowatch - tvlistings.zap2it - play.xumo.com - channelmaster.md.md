@@ -7,6 +7,7 @@ you can create your own channel list for
 * online.tivo
 * whattowatch
 * tvlistings.zap2it
+* tvlistings.gracenote
 * play.xumo.com
 * channelmaster
 <br><br>based on zip/postal code you want.<br>
