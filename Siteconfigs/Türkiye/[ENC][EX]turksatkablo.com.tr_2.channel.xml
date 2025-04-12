@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]turksatkablo.com.tr_2">
+  <channels>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1102||32" xmltv_id="Kablo Info">Kablo Info</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1908||168" xmltv_id="Sinema TV">Sinema TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1909||169" xmltv_id="Sinema 2">Sinema 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1109||173" xmltv_id="Sinema Aksiyon">Sinema Aksiyon</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3303||579" xmltv_id="Sinema Aksiyon 2">Sinema Aksiyon 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3304||584" xmltv_id="Sinema Yerli">Sinema Yerli</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3305||585" xmltv_id="Sinema Yerli 2">Sinema Yerli 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1911||170" xmltv_id="Sinema Aile">Sinema Aile</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3301||577" xmltv_id="Sinema Aile 2">Sinema Aile 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2602||171" xmltv_id="Sinema 1001">Sinema 1001</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3306||583" xmltv_id="Sinema 1002">Sinema 1002</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1110||172" xmltv_id="Sinema Komedi">Sinema Komedi</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3302||578" xmltv_id="Sinema Komedi 2">Sinema Komedi 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2508||393" xmltv_id="TRT 1">TRT 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2401||391" xmltv_id="Atv">Atv</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3206||374" xmltv_id="Show">Show</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3207||453" xmltv_id="Kanal D">Kanal D</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3404||389" xmltv_id="Star">Star</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2901||514" xmltv_id="Kanal 7">Kanal 7</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2213||555" xmltv_id="NOW">NOW</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2614||386" xmltv_id="TV 8">TV 8</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2903||273" xmltv_id="Beyaz TV">Beyaz TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3209||567" xmltv_id="a2">a2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2510||559" xmltv_id="Teve 2">Teve 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3004||568" xmltv_id="360">360</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3104||245" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3406||572" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1708||379" xmltv_id="Kon TV">Kon TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1412||600" xmltv_id="tv 100">tv 100</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2003||667" xmltv_id="CNBC-e">CNBC-e</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2310||509" xmltv_id="Ulusal 1">Ulusal 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1902||676" xmltv_id="GZT">GZT</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1901||595" xmltv_id="TV 8,5">TV 8,5</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2509||293" xmltv_id="Kanal B">Kanal B</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3201||111" xmltv_id="Genç TV">Genç TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1510||623" xmltv_id="Vav TV">Vav TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3711||679" xmltv_id="TYT Türk">TYT Türk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2106||353" xmltv_id="TMB">TMB</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="4003||630" xmltv_id="TV 4">TV 4</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1614||581" xmltv_id="Bengü Türk TV">Bengü Türk TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2308||594" xmltv_id="TRT 2">TRT 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2001||644" xmltv_id="Tarih Tv">Tarih Tv</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3501||658" xmltv_id="Mezzo">Mezzo</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3804||675" xmltv_id="Classical Harmony">Classical Harmony</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2303||376" xmltv_id="TRT Haber">TRT Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2402||367" xmltv_id="A Haber">A Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2812||432" xmltv_id="NTV">NTV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2813||372" xmltv_id="CNN Türk">CNN Türk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3001||569" xmltv_id="24">24</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2407||617" xmltv_id="TGRT Haber">TGRT Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3405||333" xmltv_id="HABERTÜRK TV">HABERTÜRK TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3407||451" xmltv_id="Bloomberg HT">Bloomberg HT</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2902||370" xmltv_id="Ülke TV">Ülke TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2905||368" xmltv_id="Tvnet">Tvnet</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1311||438" xmltv_id="Akit">Akit</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1310||436" xmltv_id="Brt 1">Brt 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1106||375" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1306||105" xmltv_id="TRT Avaz">TRT Avaz</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1107||114" xmltv_id="TRT 3 Spor - TBMM TV">TRT 3 Spor - TBMM TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1707||106" xmltv_id="TRT Kurdî">TRT Kurdî</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1315||602" xmltv_id="Haber Global">Haber Global</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2904||666" xmltv_id="Ekol TV">Ekol TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="4006||634" xmltv_id="KRT TV">KRT TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1512||635" xmltv_id="Halk TV">Halk TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3205||646" xmltv_id="TH Türk Haber">TH Türk Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3002||647" xmltv_id="SZC">SZC</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2406||582" xmltv_id="a Para">a Para</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2615||593" xmltv_id="Ekotürk">Ekotürk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1802||664" xmltv_id="TV 42">TV 42</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1302||650" xmltv_id="TV 5">TV 5</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2201||669" xmltv_id="Lider Haber">Lider Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3714||683" xmltv_id="TELE 1">TELE 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3713||681" xmltv_id="AS">AS</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3401||377" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1913||557" xmltv_id="A News">A News</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3005||661" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1505||84" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1506||365" xmltv_id="Al Jazeera (Arapça)">Al Jazeera (Arapça)</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1507||366" xmltv_id="Al Jazeera (İngilizce)">Al Jazeera (İngilizce)</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2108||88" xmltv_id="TRT Arabi">TRT Arabi</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1703||93" xmltv_id="Dw Tv (İngilizce)">Dw Tv (İngilizce)</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2306||90" xmltv_id="France 24 (İngilizce)">France 24 (İngilizce)</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2307||91" xmltv_id="France 24 (Fransızca)">France 24 (Fransızca)</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2013||101" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3403||330" xmltv_id="Russia 24">Russia 24</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3102||348" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3605||246" xmltv_id="National Geographic">National Geographic</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3604||247" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2211||435" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2511||284" xmltv_id="ID">ID</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2806||217" xmltv_id="Viasat History">Viasat History</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3503||660" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3502||489" xmltv_id="DocuSCREEN">DocuSCREEN</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2807||347" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2607||192" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1509||107" xmltv_id="Az TV">Az TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1312||439" xmltv_id="Türkmeneli TV">Türkmeneli TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1704||95" xmltv_id="Tv 5 Monde Europe">Tv 5 Monde Europe</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2012||100" xmltv_id="Cctv 4">Cctv 4</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1408||102" xmltv_id="Saudi TV">Saudi TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1612||110" xmltv_id="Hayat 2">Hayat 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3402||331" xmltv_id="Planeta RTR">Planeta RTR</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1706||98" xmltv_id="Kbs World">Kbs World</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1601||97" xmltv_id="Nhk World">Nhk World</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2101||99" xmltv_id="Arirang">Arirang</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2710||596" xmltv_id="Freedom">Freedom</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3101||360" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2114||573" xmltv_id="beIN SPORTS HABER">beIN SPORTS HABER</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3103||409" xmltv_id="A Spor">A Spor</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2002||249" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1809||563" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1803||670" xmltv_id="HT Spor">HT Spor</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2709||218" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3504||678" xmltv_id="CosmoSports">CosmoSports</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1810||604" xmltv_id="S Sport">S Sport</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3901||605" xmltv_id="S Sport2">S Sport2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3903||606" xmltv_id="NBA TV">NBA TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3902||607" xmltv_id="W-Sport">W-Sport</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2711||598" xmltv_id="TRT Spor Yıldız">TRT Spor Yıldız</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1204||654" xmltv_id="Sports Tv">Sports Tv</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1806||120" xmltv_id="FB TV">FB TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3602||520" xmltv_id="FX">FX</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2802||659" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3509||493" xmltv_id="FILMSCREEN">FILMSCREEN</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3710||668" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3003||622" xmltv_id="MyZEN TV">MyZEN TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2212||487" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2608||351" xmltv_id="Minika Çocuk">Minika Çocuk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2404||349" xmltv_id="Minika Go">Minika Go</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2703||656" xmltv_id="TRT Diyanet Çocuk">TRT Diyanet Çocuk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3715||684" xmltv_id="SpaceTOON">SpaceTOON</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1314||677" xmltv_id="Azoomee">Azoomee</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2601||278" xmltv_id="BabyTV">BabyTV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3601||652" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1608||131" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1610||134" xmltv_id="Duck TV">Duck TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2506||179" xmltv_id="English Club TV">English Club TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2704||341" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3802||672" xmltv_id="Langlab">Langlab</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3803||673" xmltv_id="Lingotoons">Lingotoons</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3801||674" xmltv_id="Tinyteen">Tinyteen</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1616||663" xmltv_id="TRT Eba">TRT Eba</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2304||380" xmltv_id="Diyanet TV">Diyanet TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1207||103" xmltv_id="Al Quran Al Kareem">Al Quran Al Kareem</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2616||104" xmltv_id="Al Sunnah Al Nabawiya">Al Sunnah Al Nabawiya</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3716||685" xmltv_id="Lâlegül">Lâlegül</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2102||196" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1603||124" xmltv_id="Dream Türk">Dream Türk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2708||231" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1103||519" xmltv_id="TRT 1">TRT 1</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3508||518" xmltv_id="Show">Show</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1201||517" xmltv_id="Atv">Atv</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2105||80" xmltv_id="Brt 3">Brt 3</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1203||515" xmltv_id="Star">Star</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1401||507" xmltv_id="TV 8">TV 8</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1202||390" xmltv_id="Kanal D">Kanal D</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1205||387" xmltv_id="NOW">NOW</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1316||601" xmltv_id="Haber Global">Haber Global</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2505||408" xmltv_id="TRT Spor">TRT Spor</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2209||279" xmltv_id="A Spor">A Spor</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1701||371" xmltv_id="TGRT Haber">TGRT Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1606||350" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2103||194" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1105||512" xmltv_id="TRT Haber">TRT Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2403||79" xmltv_id="A Haber">A Haber</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1402||374" xmltv_id="NTV">NTV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1406||513" xmltv_id="HABERTÜRK TV">HABERTÜRK TV</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1206||385" xmltv_id="Bloomberg HT">Bloomberg HT</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1702||570" xmltv_id="TLC">TLC</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="3208||456" xmltv_id="a2">a2</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1403||373" xmltv_id="24">24</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1602||571" xmltv_id="DMAX">DMAX</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2115||662" xmltv_id="TRT Eba">TRT Eba</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1801" xmltv_id="TİVİ 6">TİVİ 6</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="53502" xmltv_id="TV41">TV41</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="1604" xmltv_id="MOONBUG KIDS">MOONBUG KIDS</channel>
+    <channel site="[ENC][EX]turksatkablo.com.tr_2" site_id="2801" xmltv_id="VIASAT NATURE HD">VIASAT NATURE HD</channel>
+  </channels>
+</site>
