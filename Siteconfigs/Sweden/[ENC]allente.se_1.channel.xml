@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]allente.se_1">
+  <channels>
+    <channel site="[ENC]allente.se_1" site_id="20001||800/20001-2" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20002||800/20002-2" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20003||800/20003-1" xmltv_id="TV3 HD (S)">TV3 HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="20004||800/20004-4" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20005||180/20005" xmltv_id="Kanal 5 HD (S)">Kanal 5 HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="20064||800/20064-1" xmltv_id="TV6 HD (S)">TV6 HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="20007||800/20007-1" xmltv_id="Sjuan HD">Sjuan HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20008||800/20008-1" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20009||800/20009-2" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20060||800/20060-1" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20011||800/20011-2" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20012||800/20012-1" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20147||800/20147" xmltv_id="Viaplay Sport HD">Viaplay Sport HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50057||800/50057-2" xmltv_id="V crime HD">V crime HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20023||800/20023-3" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel site="[ENC]allente.se_1" site_id="50026||800/50026-1" xmltv_id="Sky News">Sky News</channel>
+    <channel site="[ENC]allente.se_1" site_id="20016||800/20016-2" xmltv_id="TLC Sverige HD">TLC Sverige HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20146||800/20146" xmltv_id="BBC Nordic HD (S)">BBC Nordic HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="20104||800/20104-1" xmltv_id="ATG Live HD">ATG Live HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20150||800/20150" xmltv_id="Köket">Köket</channel>
+    <channel site="[ENC]allente.se_1" site_id="20059||800/20059-2" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel site="[ENC]allente.se_1" site_id="50012||180/50012-1" xmltv_id="MTV">MTV</channel>
+    <channel site="[ENC]allente.se_1" site_id="50143||800/50143" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel site="[ENC]allente.se_1" site_id="20017||800/20017-3" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel site="[ENC]allente.se_1" site_id="20013||800/20013-1" xmltv_id="Kunskapskanalen HD">Kunskapskanalen HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20015||800/20015-2" xmltv_id="Discovery Channel HD (S)">Discovery Channel HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50054||800/50054-1" xmltv_id="National Geographic HD (S/F)">National Geographic HD (S/F)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50092||800/50092-2" xmltv_id="HISTORY (S)">HISTORY (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50114||800/50114-2" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20122||800/20122" xmltv_id="Axess TV">Axess TV</channel>
+    <channel site="[ENC]allente.se_1" site_id="50113||800/50113-1" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20014||800/20014-2" xmltv_id="ID Investigation Discovery (S)">ID Investigation Discovery (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50008||800/50008-3" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel site="[ENC]allente.se_1" site_id="50142||800/50142-1" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50115||800/50115-1" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20010||800/20010-1" xmltv_id="SVT Barn HD">SVT Barn HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50018||800/50018-2" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC]allente.se_1" site_id="50141||800/50141" xmltv_id="Moonbug">Moonbug</channel>
+    <channel site="[ENC]allente.se_1" site_id="20062||800/20062-3" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel site="[ENC]allente.se_1" site_id="50019||800/50019-1" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel site="[ENC]allente.se_1" site_id="50085||800/50085-2" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel site="[ENC]allente.se_1" site_id="50106||800/50106-4" xmltv_id="V film premiere HD">V film premiere HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50107||800/50107-4" xmltv_id="V film action HD">V film action HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50108||800/50108-4" xmltv_id="V film hits HD">V film hits HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50109||800/50109-4" xmltv_id="V film family">V film family</channel>
+    <channel site="[ENC]allente.se_1" site_id="50050||800/50050-4" xmltv_id="V series HD">V series HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50052||800/50052-1" xmltv_id="V classics HD">V classics HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50133||800/50133-1" xmltv_id="SkyShowtime 1 HD">SkyShowtime 1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50132||800/50132-1" xmltv_id="SkyShowtime 2 HD">SkyShowtime 2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50144||800/50144" xmltv_id="Dizi">Dizi</channel>
+    <channel site="[ENC]allente.se_1" site_id="50044||800/50044-2" xmltv_id="TV4 Hits HD">TV4 Hits HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50051||800/50051-2" xmltv_id="TV4 Stars HD">TV4 Stars HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50030||800/50030-1" xmltv_id="SF-kanalen">SF-kanalen</channel>
+    <channel site="[ENC]allente.se_1" site_id="20114||180/20114" xmltv_id="SVT24 HD">SVT24 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50025||800/50025-2" xmltv_id="BBC News">BBC News</channel>
+    <channel site="[ENC]allente.se_1" site_id="50024||800/50024-1" xmltv_id="CNN International">CNN International</channel>
+    <channel site="[ENC]allente.se_1" site_id="50082||800/50082-3" xmltv_id="CNBC">CNBC</channel>
+    <channel site="[ENC]allente.se_1" site_id="50028||800/50028-1" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel site="[ENC]allente.se_1" site_id="50083||800/50083-1" xmltv_id="DW English">DW English</channel>
+    <channel site="[ENC]allente.se_1" site_id="50027||800/50027-1" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC]allente.se_1" site_id="50138||800/50138-1" xmltv_id="FREEDOM">FREEDOM</channel>
+    <channel site="[ENC]allente.se_1" site_id="20092||800/20092-4" xmltv_id="V sport extra HD">V sport extra HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50078||800/50078-4" xmltv_id="V sport premium HD (S)">V sport premium HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50056||800/50056-4" xmltv_id="V sport football HD (S)">V sport football HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50049||800/50049-5" xmltv_id="V sport vinter HD (S)">V sport vinter HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50048||800/50048-4" xmltv_id="V sport motor HD">V sport motor HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50079||800/50079-4" xmltv_id="V sport 1 HD (S)">V sport 1 HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50105||800/50105-4" xmltv_id="V sport ultra HD">V sport ultra HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50077||800/50077-4" xmltv_id="V sport golf HD">V sport golf HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20083||800/20083-3" xmltv_id="TV4 Sportkanalen HD">TV4 Sportkanalen HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20061||800/20061-2" xmltv_id="Eurosport 1 HD (S)">Eurosport 1 HD (S)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50055||800/50055-2" xmltv_id="Eurosport 2 HD (S/F)">Eurosport 2 HD (S/F)</channel>
+    <channel site="[ENC]allente.se_1" site_id="50053||800/50053-2" xmltv_id="TV4 Hockey HD">TV4 Hockey HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50060||800/50060-2" xmltv_id="TV4 Fotboll HD">TV4 Fotboll HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50059||800/50059-3" xmltv_id="TV4 Motor HD">TV4 Motor HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20063||800/20063-2" xmltv_id="TV4 Tennis HD">TV4 Tennis HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50061||800/50061-2" xmltv_id="TV4 Sport Live 1 HD">TV4 Sport Live 1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50062||800/50062-2" xmltv_id="TV4 Sport Live 2 HD">TV4 Sport Live 2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50063||800/50063-2" xmltv_id="TV4 Sport Live 3 HD">TV4 Sport Live 3 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50064||800/50064-2" xmltv_id="TV4 Sport Live 4 HD">TV4 Sport Live 4 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50125||800/50125-1" xmltv_id="V sport live 1">V sport live 1</channel>
+    <channel site="[ENC]allente.se_1" site_id="50126||800/50126-2" xmltv_id="V sport live 2">V sport live 2</channel>
+    <channel site="[ENC]allente.se_1" site_id="50127||800/50127-1" xmltv_id="V sport live 3">V sport live 3</channel>
+    <channel site="[ENC]allente.se_1" site_id="50128||800/50128-1" xmltv_id="V sport live 4">V sport live 4</channel>
+    <channel site="[ENC]allente.se_1" site_id="50129||800/50129-1" xmltv_id="V sport live 5">V sport live 5</channel>
+    <channel site="[ENC]allente.se_1" site_id="10001||800/10001-2" xmltv_id="NRK1 HD">NRK1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="10002||800/10002-2" xmltv_id="NRK2 HD">NRK2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="10003||800/10003-1" xmltv_id="NRK Super / NRK3 HD">NRK Super / NRK3 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="30001||800/30001-2" xmltv_id="DR1 HD">DR1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="30002||800/30002-2" xmltv_id="DR2 HD">DR2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="30021||800/30021-2" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
+    <channel site="[ENC]allente.se_1" site_id="30003||800/30003-3" xmltv_id="TV 2 HD (D)">TV 2 HD (D)</channel>
+    <channel site="[ENC]allente.se_1" site_id="40023||800/40023-1" xmltv_id="Yle TV1 HD">Yle TV1 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="40024||800/40024-1" xmltv_id="Yle TV2 HD">Yle TV2 HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="40035||800/40035-2" xmltv_id="Yle Teema &amp; Fem HD">Yle Teema &amp; Fem HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50034||800/50034-1" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50036||800/50036-1" xmltv_id="CGTN Documentary HD">CGTN Documentary HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50037||800/50037" xmltv_id="Kanal 10 Norge HD">Kanal 10 Norge HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="50140" xmltv_id="Kanal 10 Sverige">Kanal 10 Sverige</channel>
+    <channel site="[ENC]allente.se_1" site_id="50032||800/50032" xmltv_id="Visjon Norge HD">Visjon Norge HD</channel>
+    <channel site="[ENC]allente.se_1" site_id="20084" xmltv_id="Vision Sverige">Vision Sverige</channel>
+    <channel site="[ENC]allente.se_1" site_id="50145" xmltv_id="Sverigekanalen">Sverigekanalen</channel>
+    <channel site="[ENC]allente.se_1" site_id="50136" xmltv_id="Bedehuskanalen">Bedehuskanalen</channel>
+    <channel site="[ENC]allente.se_1" site_id="50137" xmltv_id="SBN International">SBN International</channel>
+    <channel site="[ENC]allente.se_1" site_id="20115" xmltv_id="SVT1 Blekinge">SVT1 Blekinge</channel>
+    <channel site="[ENC]allente.se_1" site_id="20026||180/20026" xmltv_id="SVT1 Dalarna">SVT1 Dalarna</channel>
+    <channel site="[ENC]allente.se_1" site_id="20028||180/20028" xmltv_id="SVT1 Gävleborg">SVT1 Gävleborg</channel>
+    <channel site="[ENC]allente.se_1" site_id="20116" xmltv_id="SVT1 Halland">SVT1 Halland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20117" xmltv_id="SVT1 Helsingborg">SVT1 Helsingborg</channel>
+    <channel site="[ENC]allente.se_1" site_id="20030||180/20030" xmltv_id="SVT1 Jämtland">SVT1 Jämtland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20032||180/20032" xmltv_id="SVT1 Jönköping">SVT1 Jönköping</channel>
+    <channel site="[ENC]allente.se_1" site_id="20034||180/20034" xmltv_id="SVT1 Norrbotten">SVT1 Norrbotten</channel>
+    <channel site="[ENC]allente.se_1" site_id="20036||180/20036" xmltv_id="SVT1 Skåne">SVT1 Skåne</channel>
+    <channel site="[ENC]allente.se_1" site_id="20038||180/20038" xmltv_id="SVT1 Småland">SVT1 Småland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20118" xmltv_id="SVT1 Södertälje">SVT1 Södertälje</channel>
+    <channel site="[ENC]allente.se_1" site_id="20119" xmltv_id="SVT1 Sörmland">SVT1 Sörmland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20120" xmltv_id="SVT1 Uppsala">SVT1 Uppsala</channel>
+    <channel site="[ENC]allente.se_1" site_id="20040||180/20040" xmltv_id="SVT1 Värmland">SVT1 Värmland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20042||180/20042" xmltv_id="SVT1 Väst">SVT1 Väst</channel>
+    <channel site="[ENC]allente.se_1" site_id="20044||180/20044" xmltv_id="SVT1 Västerbotten">SVT1 Västerbotten</channel>
+    <channel site="[ENC]allente.se_1" site_id="20046||180/20046" xmltv_id="SVT1 Västernorrland">SVT1 Västernorrland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20121" xmltv_id="SVT1 Västmanland">SVT1 Västmanland</channel>
+    <channel site="[ENC]allente.se_1" site_id="20048||180/20048" xmltv_id="SVT1 Örebro">SVT1 Örebro</channel>
+    <channel site="[ENC]allente.se_1" site_id="20050||180/20050" xmltv_id="SVT1 Öst">SVT1 Öst</channel>
+    <channel site="[ENC]allente.se_1" site_id="20085" xmltv_id="SVT1 Uppläst undertext">SVT1 Uppläst undertext</channel>
+    <channel site="[ENC]allente.se_1" site_id="20086" xmltv_id="SVT2 Uppläst undertext">SVT2 Uppläst undertext</channel>
+    <channel site="[ENC]allente.se_1" site_id="20088" xmltv_id="Kunskapskan. Uppläst undertext">Kunskapskan. Uppläst undertext</channel>
+    <channel site="[ENC]allente.se_1" site_id="20087" xmltv_id="SVT Barn Uppläst undertext">SVT Barn Uppläst undertext</channel>
+    <channel site="[ENC]allente.se_1" site_id="20068||800/20068" xmltv_id="SVT1 Text hörselskadade">SVT1 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20069||800/20069" xmltv_id="SVT2 Text hörselskadade">SVT2 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20071||800/20071" xmltv_id="SVT Barn/SVT24 Text hörselsk.">SVT Barn/SVT24 Text hörselsk.</channel>
+    <channel site="[ENC]allente.se_1" site_id="20076" xmltv_id="Kunskapskanalen Text hörselsk.">Kunskapskanalen Text hörselsk.</channel>
+    <channel site="[ENC]allente.se_1" site_id="20077" xmltv_id="TV3 Text hörselskadade">TV3 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20078" xmltv_id="TV4 Text hörselskadade">TV4 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20079" xmltv_id="Kanal 5 Text hörselskadade">Kanal 5 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20080" xmltv_id="Kanal 9 Text hörselskadade">Kanal 9 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20081" xmltv_id="Kanal 11 Text hörselskadade">Kanal 11 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20090" xmltv_id="Sjuan Text hörselskadade">Sjuan Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20091" xmltv_id="TV12 Text hörselskadade">TV12 Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20073||800/20073-1" xmltv_id="TV4 Film Text hörselskadade">TV4 Film Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20074||800/20074-1" xmltv_id="TV4 Fakta Text hörselskadade">TV4 Fakta Text hörselskadade</channel>
+    <channel site="[ENC]allente.se_1" site_id="20054||800/20054" xmltv_id="Kanal 5 HD Syntolkning">Kanal 5 HD Syntolkning</channel>
+    <channel site="[ENC]allente.se_1" site_id="20055||800/20055" xmltv_id="Kanal 9 HD Syntolkning">Kanal 9 HD Syntolkning</channel>
+    <channel site="[ENC]allente.se_1" site_id="20066||800/20066" xmltv_id="Kanal 11 HD Syntolkning">Kanal 11 HD Syntolkning</channel>
+    <channel site="[ENC]allente.se_1" site_id="20056||180/20056-2" xmltv_id="Discovery Channel Syntolkning">Discovery Channel Syntolkning</channel>
+    <channel site="[ENC]allente.se_1" site_id="80004" xmltv_id="892 - TVN accessibility test">892 - TVN accessibility test</channel>
+    <channel site="[ENC]allente.se_1" site_id="80001" xmltv_id="895 GC 5 test">895 GC 5 test</channel>
+  </channels>
+</site>
