@@ -189,7 +189,7 @@ Note: Tempest can be updated via built-in updater without need of container re-b
 Special thanks to my Gold Sponsors..
 <p align="center">
 
-<!-- gold --><!-- gold -->
+<!-- gold --><a href="https://github.com/AngusMacGyver-DE"><img src="https://github.com/AngusMacGyver-DE.png" width="120px" alt="AngusMacGyver-DE" /></a>&nbsp;&nbsp;<!-- gold -->
 
 </p><br>
 
